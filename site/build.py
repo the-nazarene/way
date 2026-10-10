@@ -33,6 +33,8 @@ import shutil
 import sys
 from pathlib import Path
 
+import desk_links  # The Desk's verse and go-deeper index; see site/DESK.md
+
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"
 CARDS = SITE / "data" / "cards"
@@ -265,11 +267,18 @@ def main():
     if check_only:
         return
     DIST.mkdir(parents=True, exist_ok=True)
-    for name in ("index.html", "app.js", "styles.css", "favicon.svg", "apple-touch-icon.png"):
+    for name in ("index.html", "app.js", "styles.css", "favicon.svg", "apple-touch-icon.png",
+                 "canvas.html", "canvas.css", "canvas.js", "desk-door.js"):
         shutil.copy(SITE / "src" / name, DIST / name)
     (DIST / "data.json").write_text(json.dumps({"cards": cards, "repo": REPO_URL, "kjvHeld": bool(BOOK_FILES),
                                                 "objections": obj["objections"], "briefs": obj["briefs"]}, ensure_ascii=False, indent=1),
                                     encoding="utf-8")
+    desk, desk_warnings = desk_links.build(cards, BOOK_FILES, load_book, ALIASES, REPO_URL, ROOT)
+    (DIST / "desk.json").write_text(json.dumps(desk, ensure_ascii=False), encoding="utf-8")
+    print(f"desk: {len(desk['verses'])} verse references held, {len(desk['docs'])} go-deeper files"
+          + (f", {len(desk_warnings)} references not in the KJV file (no desk card made):" if desk_warnings else ""))
+    for w in desk_warnings:
+        print("  -", w)
     (DIST / ".nojekyll").write_text("")
     print(f"wrote {DIST}")
 

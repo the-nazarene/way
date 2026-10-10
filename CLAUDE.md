@@ -24,6 +24,8 @@ Don't search the repo blind — there are three purpose-built entry points, in t
 
 **For live use** (a conversation, recording, or Q&A), `questions/LIVE-SETUP.md` has the session-warmup prompt and the two-tab pattern (fast model for lookups, Fable/Opus for deep theology). **For an objection someone has actually raised**, check `questions/OBJECTIONS.md` first: it maps real critics' words to the card heading that answers them, and says honestly which ones are still open.
 
+**The Desk (infinite canvas, in review).** If asked about the infinite canvas or "the desk", read `site/DESK.md`. It says how to check out the `desk-prototype` branch, build, and walk someone through it.
+
 **Looking for something to work on?** `OPEN-RESEARCH.md` lists the gaps (sized, with what "done" looks like). `FIX-LIST.md` is for repairing existing claims; `OPEN-RESEARCH.md` is for new ground.
 
 ---

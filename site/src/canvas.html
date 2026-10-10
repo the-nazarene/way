@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Way · The Desk</title>
+<meta name="description" content="Lay the evidence out on an open desk. Pull sources from any case file, pin them where you want, tie the string yourself. Every source keeps the stamp it was built with.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Special+Elite&display=swap">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="theme-color" content="#141416">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="canvas.css">
+</head>
+<body class="desk-body">
+<a class="skip" href="#surface">Skip to the desk</a>
+
+<header class="top">
+  <a class="brand" href="index.html">THE WAY · THE DESK</a>
+  <nav class="nav" aria-label="Elsewhere">
+    <a href="index.html">← the reading room</a>
+    <a href="https://github.com/the-nazarene/way/tree/main/questions">questions/</a>
+    <a href="https://github.com/the-nazarene/way/blob/main/SOURCE-AUDIT.md">source audit</a>
+    <a href="https://github.com/the-nazarene/way">the repo</a>
+  </nav>
+</header>
+
+<form class="drawer-form desk-form" id="deskSearch" autocomplete="off" role="search">
+  <label for="dq" class="drawer-label">DESK</label>
+  <div class="drawer-input-wrap">
+    <input id="dq" type="search" placeholder="Name a source, a verse, or a subject — it gets pinned to the desk" aria-describedby="dhint" aria-controls="dsuggest" aria-expanded="false">
+    <ul id="dsuggest" class="suggest" role="listbox" hidden></ul>
+  </div>
+  <button type="submit" class="pull">PIN IT</button>
+  <span id="dhint" class="hint">Searches the held sources only. Nothing on this desk is generated.</span>
+</form>
+
+<div class="desk-tools">
+  <div class="tool-group">
+    <button type="button" class="tool" id="btnFrame">+ FRAME</button>
+    <button type="button" class="tool" id="btnNote">+ NOTE</button>
+    <button type="button" class="tool" id="btnTidy" title="Stack the loose sources into clean columns">TIDY</button>
+    <button type="button" class="tool" id="btnFit" title="Zoom to fit everything on the desk">FIT</button>
+  </div>
+  <div class="tool-group">
+    <button type="button" class="tool toggle is-on" id="btnSnap" aria-pressed="true" title="Snap edges and stack spacing to the neighbours">SNAP</button>
+    <button type="button" class="tool toggle" id="btnString" aria-pressed="false" title="Drag from one source to another to tie string. Or drag a pin head at any time.">STRING</button>
+  </div>
+  <div class="tool-group right">
+    <button type="button" class="tool" id="btnShare" title="Copy a link that rebuilds this exact desk">COPY DESK LINK</button>
+    <button type="button" class="tool" id="btnJson" title="Copy the desk as JSON">COPY JSON</button>
+    <button type="button" class="tool danger" id="btnClear">CLEAR</button>
+  </div>
+</div>
+
+<p class="desk-narrow">The desk wants a wide screen and a pointer. On a phone, the <a href="index.html">reading room</a> is the better door: same sources, same stamps, laid out for you.</p>
+
+<main class="desk">
+  <aside class="tray" id="tray" aria-label="Source trays">
+    <div class="tray-top">
+      <span class="tray-title">THE TRAYS</span>
+      <button type="button" class="tray-collapse" id="trayCollapse" aria-label="Collapse the trays">‹</button>
+    </div>
+
+    <div class="tray-section" id="trayCasesSection">
+      <div class="eyebrow">THE CASE FILES</div>
+      <p class="tray-note">Open one to read it here. Drag it onto the desk to lay out the whole case.</p>
+      <ul class="tray-cases" id="trayCases"></ul>
+    </div>
+
+    <div class="tray-section" id="trayFamiliesSection">
+      <div class="eyebrow">BY SOURCE FAMILY</div>
+      <p class="tray-note">Derived from each source's tier, so new cards file themselves. Drag one out, or click to pin it.</p>
+      <ul class="tray-families" id="trayFamilies"></ul>
+    </div>
+
+    <div class="tray-section tray-open" id="trayOpen" hidden></div>
+  </aside>
+
+  <section class="surface-wrap">
+    <div class="surface" id="surface" tabindex="0" aria-label="The desk. Drag to select, middle-drag or hold space to pan, scroll to pan, ctrl-scroll to zoom.">
+      <div class="world" id="world">
+        <svg class="links" id="links" aria-hidden="true"></svg>
+        <svg class="guides" id="guides" aria-hidden="true"></svg>
+        <div class="frames" id="frames"></div>
+        <div class="nodes" id="nodes"></div>
+      </div>
+      <div class="marquee" id="marquee" hidden></div>
+      <div class="empty-desk" id="emptyDesk">
+        <div class="empty-inner">
+          <div class="eyebrow">AN EMPTY DESK</div>
+          <p>Drag a case file from the trays on the left onto the desk, or type a subject or a verse above and the held sources come to you.</p>
+          <p class="small">Click a card to read it and follow its thread: every verse and case it points to can come onto the desk, tied to it by string. Drag a card to move it. Drag from its pin head to tie string. Drag the desk to box-select. Middle-drag or hold space to pan. Ctrl-scroll to zoom.</p>
+        </div>
+      </div>
+    </div>
+    <div class="hud">
+      <span id="hudCounts"></span>
+      <span class="hud-right">
+        <button type="button" class="tool mini" id="btnZoomOut" aria-label="Zoom out">−</button>
+        <span id="hudZoom">100%</span>
+        <button type="button" class="tool mini" id="btnZoomIn" aria-label="Zoom in">+</button>
+      </span>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <span>Stamps are a build result, not an opinion, and they travel with the source onto the desk: HELD means the text is in the repo and the cited phrase was found in it; NOT YET HELD means public domain and on the roadmap. Nothing here is generated. Transcripts are pointers, not proof.</span>
+  <a href="https://github.com/the-nazarene/way/issues/new?title=Wrong%20citation">found a wrong citation? file it →</a>
+</footer>
+
+<div class="reader-backdrop" id="readerBackdrop" hidden></div>
+<aside class="reader" id="reader" hidden aria-label="Source text" role="dialog" aria-modal="true">
+  <div class="reader-top">
+    <div>
+      <div class="eyebrow" id="readerTier"></div>
+      <div class="reader-title" id="readerTitle"></div>
+    </div>
+    <button type="button" class="close" id="readerClose" aria-label="Close">×</button>
+  </div>
+  <div class="reader-status" id="readerStatus"></div>
+  <div class="reader-body" id="readerBody"></div>
+  <div class="reader-note" id="readerNote"></div>
+  <div class="reader-thread" id="readerThread" hidden></div>
+  <div class="reader-foot" id="readerFoot"></div>
+</aside>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+<script src="canvas.js"></script>
+</body>
+</html>

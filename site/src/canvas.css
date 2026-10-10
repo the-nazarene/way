@@ -1,0 +1,380 @@
+/* The Desk — the case board, unbounded.
+   Additive only. Every colour, face and component class below is borrowed from
+   styles.css; this file adds the surface, the trays and the handles, and
+   nothing else. Load it after styles.css. */
+
+:root {
+  /* Frame colours: deliberately muted and deliberately NOT the status colours,
+     so a frame never reads as a stamp. */
+  --frame-1: #6b7a8f;
+  --frame-2: #7a7f6b;
+  --frame-3: #8f7a6b;
+  --frame-4: #7a6b8f;
+  --desk-grid: rgba(230, 226, 216, 0.045);
+  --sel: #c7a24a;
+}
+
+/* The desk is a working surface, so it gets the full window and no page scroll. */
+.desk-body { padding-bottom: 16px; }
+
+.desk-form { margin-bottom: 10px; }
+.desk-form .hint { color: var(--muted-light); }
+/* styles.css dresses the Reading Room's input by its id, so the desk's own
+   input has to be given the same face rather than inheriting it. */
+#dq {
+  width: 100%; font-family: var(--mono); font-size: 16px; padding: 10px 12px;
+  border: 1px solid var(--drawer-darker); background: var(--cream); color: var(--ink);
+}
+
+/* ---------- the tool rail ---------- */
+
+.desk-tools { max-width: 1380px; margin: 0 auto 10px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+/* Each group stays on one line and keeps its full width; it is the rail that
+   wraps when the window is small, not the group. Without nowrap the group with
+   the auto margin collapses to its widest button and stacks. */
+.tool-group { display: flex; gap: 6px; flex-wrap: nowrap; flex: 0 0 auto; }
+.tool-group.right { margin-left: auto; }
+.tool { flex: 0 0 auto; white-space: nowrap; }
+.tool {
+  font-family: var(--type); font-size: 12px; letter-spacing: 1px;
+  padding: 7px 12px; min-height: 36px;
+  background: var(--drawer-dark); color: var(--text-light);
+  border: 1px solid var(--board-border); cursor: pointer;
+}
+.tool:hover { background: var(--drawer); color: #ffffff; }
+.tool:focus-visible { outline: 2px solid var(--pad); outline-offset: 1px; }
+.tool.toggle.is-on { background: var(--text-light); color: var(--wall); border-color: var(--muted-light); }
+.tool.danger:hover { background: #3a2222; color: #ffd6d6; border-color: #5a3030; }
+.tool.mini { min-height: 26px; padding: 2px 9px; font-size: 13px; line-height: 1; }
+
+.desk-narrow { display: none; }
+
+/* ---------- layout ---------- */
+
+.desk { max-width: 1380px; margin: 0 auto; display: flex; gap: 14px; align-items: stretch; }
+.surface-wrap { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; }
+
+/* ---------- the trays ---------- */
+
+.tray {
+  flex: 0 0 272px; width: 272px; align-self: stretch;
+  background: var(--drawer-dark); border: 8px solid var(--drawer-darker);
+  display: flex; flex-direction: column; gap: 0;
+  max-height: calc(100vh - 230px); overflow-y: auto; overflow-x: hidden;
+}
+.tray.is-collapsed { flex-basis: 44px; width: 44px; }
+.tray.is-collapsed .tray-section, .tray.is-collapsed .tray-title { display: none; }
+.tray.is-collapsed .tray-collapse { transform: rotate(180deg); }
+.tray-top {
+  position: sticky; top: 0; z-index: 3;
+  display: flex; align-items: center; justify-content: space-between; gap: 8px;
+  padding: 10px 12px; background: var(--drawer-darker);
+}
+.tray-title { font-family: var(--type); font-size: 11px; letter-spacing: 2px; color: var(--text-light); }
+.tray-collapse {
+  width: 24px; height: 24px; line-height: 1; padding: 0;
+  background: transparent; color: var(--muted-light);
+  border: 1px solid var(--board-border); cursor: pointer; font-size: 14px;
+}
+.tray-collapse:hover { color: #ffffff; }
+.tray-section { padding: 14px 12px 4px; border-top: 1px solid var(--drawer-darker); }
+.tray-section .eyebrow { color: var(--muted-light); }
+.tray-note { margin: 5px 0 10px; font-size: 11px; line-height: 1.45; color: var(--muted-light); }
+
+.tray-cases, .tray-families { list-style: none; margin: 0 0 12px; padding: 0; display: flex; flex-direction: column; gap: 7px; }
+
+/* A case in the tray wears the drawer-card face from styles.css. */
+.tray-case {
+  display: flex; flex-direction: column; gap: 2px; width: 100%; text-align: left;
+  background: var(--cream-2); color: var(--ink); border: 1px solid var(--card-border);
+  padding: 9px 11px; font-family: var(--type); cursor: pointer;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.45);
+}
+.tray-case:hover, .tray-case:focus { background: var(--pad); transform: translateY(-2px); }
+.tray-case small { font-size: 10px; color: var(--muted); font-family: var(--mono); }
+.tray-case span { font-size: 13px; line-height: 1.3; }
+
+/* A family is a folder tab that opens into its sources. */
+.fam { border: 1px solid var(--board-border); background: var(--drawer); }
+.fam-head {
+  display: flex; align-items: center; gap: 8px; width: 100%;
+  padding: 8px 10px; background: transparent; border: 0; cursor: pointer;
+  font-family: var(--type); font-size: 11px; letter-spacing: 1px; color: var(--text-light); text-align: left;
+}
+.fam-head:hover { background: var(--drawer-dark); }
+.fam-swatch { width: 9px; height: 9px; flex: 0 0 9px; border: 1px solid rgba(0, 0, 0, 0.4); }
+.fam-label { flex: 1 1 auto; min-width: 0; }
+.fam-n { font-family: var(--mono); font-size: 10px; color: var(--muted-light); }
+.fam-caret { font-size: 10px; color: var(--muted-light); }
+.fam.is-open .fam-caret { transform: rotate(90deg); }
+.fam-list { list-style: none; margin: 0; padding: 0 8px 8px; display: none; flex-direction: column; gap: 5px; }
+.fam.is-open .fam-list { display: flex; }
+.fam-src {
+  display: block; width: 100%; text-align: left;
+  background: var(--cream); color: var(--ink); border: 0; border-left: 3px solid transparent;
+  padding: 7px 8px; font-family: var(--mono); font-size: 11px; line-height: 1.35; cursor: grab;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+}
+.fam-src:hover { background: #ffffff; }
+.fam-src.is-placed { opacity: 0.42; cursor: default; }
+.fam-src .fs-tier { font-family: var(--type); font-size: 9px; color: var(--muted); display: block; }
+.fam-src .fs-title { font-weight: 700; display: block; }
+.fam-src.side-against { border-left-color: var(--string); }
+.fam-src.side-other { border-left-color: var(--string-grey); }
+
+/* ---------- the surface ---------- */
+
+.surface {
+  position: relative; overflow: hidden; touch-action: none;
+  height: calc(100vh - 230px); min-height: 440px;
+  background-color: var(--board);
+  background-image:
+    linear-gradient(var(--desk-grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--desk-grid) 1px, transparent 1px);
+  background-size: 96px 96px, 96px 96px;
+  border: 4px solid var(--board-border);
+  box-shadow: inset 0 0 90px rgba(0, 0, 0, 0.6);
+  cursor: default;
+}
+.surface:focus-visible { outline: 2px solid var(--pad); outline-offset: -2px; }
+.surface.is-panning { cursor: grabbing; }
+.surface.is-spacing { cursor: grab; }
+.surface.is-stringing { cursor: crosshair; }
+
+.world { position: absolute; left: 0; top: 0; width: 100%; height: 100%; transform-origin: 0 0; will-change: transform; }
+.links, .guides { position: absolute; left: 0; top: 0; overflow: visible; pointer-events: none; width: 1px; height: 1px; }
+.links { z-index: 1; }
+.guides { z-index: 6; }
+/* Frames sit ABOVE the cards so their title bar is always grabbable and the
+   boundary is always visible, and they carry no fill and no pointer events, so
+   they never cover or intercept the evidence inside them. */
+.frames { position: absolute; left: 0; top: 0; z-index: 3; pointer-events: none; }
+.nodes { position: absolute; left: 0; top: 0; z-index: 2; }
+
+.marquee {
+  position: absolute; z-index: 8; pointer-events: none;
+  border: 1px dashed var(--pad); background: rgba(255, 244, 160, 0.09);
+}
+
+.empty-desk { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; pointer-events: none; padding: 24px; }
+.empty-inner { max-width: 440px; text-align: center; color: var(--muted-light); }
+.empty-inner .eyebrow { color: var(--muted-light); }
+.empty-inner p { margin: 8px 0 0; font-size: 13px; line-height: 1.6; }
+.empty-inner .small { font-size: 11.5px; color: var(--muted); line-height: 1.7; }
+
+.hud {
+  display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap;
+  padding: 7px 2px 0; font-size: 11px; color: var(--muted-light); font-family: var(--mono);
+}
+.hud-right { display: flex; align-items: center; gap: 7px; }
+#hudZoom { min-width: 44px; text-align: center; }
+
+/* ---------- the nodes ---------- */
+
+.node { position: absolute; transform: rotate(var(--tilt, 0deg)); }
+.node.is-dragging { z-index: 20; transform: rotate(0deg); }
+.node.is-dragging .pincard { box-shadow: 0 22px 44px rgba(0, 0, 0, 0.85); }
+
+/* Borrow .pincard whole, then undo the things that only make sense in a column.
+   The tilt lives on .node here, and --tilt inherits, so .pincard has to be told
+   not to rotate again or every card gets twice the lean it was given. */
+.node .pincard { width: 100%; cursor: grab; transform: none; }
+.node .pincard:hover, .node .pincard:focus { transform: none; outline: 2px solid rgba(255, 244, 160, 0.5); }
+.node.is-selected .pincard { outline: 2px solid var(--sel); }
+.node.is-selected .pincard:hover { outline: 2px solid var(--sel); }
+.node.is-linking .pincard { outline: 2px dashed var(--string); }
+
+/* The pin head is the string handle, so it needs to be grabbable and to say so. */
+.node .pin { cursor: crosshair; z-index: 4; }
+.node .pin:hover { box-shadow: 0 0 0 4px rgba(208, 53, 42, 0.3); }
+.node .pin::after { content: ""; position: absolute; inset: -7px; }
+
+.node-tools { position: absolute; right: 0; top: -22px; display: none; gap: 4px; }
+.node:hover .node-tools, .node.is-selected .node-tools { display: flex; }
+.node-tools button {
+  font-family: var(--type); font-size: 9px; letter-spacing: 1px; line-height: 1;
+  padding: 3px 6px; background: var(--drawer-dark); color: var(--text-light);
+  border: 1px solid var(--board-border); cursor: pointer;
+}
+.node-tools button:hover { background: var(--drawer); color: #ffffff; }
+
+/* The question card, same face as the case file's centre card. */
+.node .qcard { transform: none; cursor: grab; }
+.node.is-selected .qcard { outline: 2px solid var(--sel); }
+
+/* A note is the legal pad, torn off and loose. */
+.node .notepad {
+  background: var(--pad); color: var(--ink); padding: 10px 12px;
+  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.7);
+  display: flex; flex-direction: column; gap: 5px; cursor: grab;
+}
+.node .notepad .eyebrow { color: var(--muted); }
+.node .notepad textarea {
+  width: 100%; border: 0; background: transparent; resize: none; overflow: hidden;
+  font-family: var(--mono); font-size: 12px; line-height: 1.5; color: var(--ink);
+  padding: 0; cursor: text;
+}
+.node .notepad textarea:focus { outline: 1px dashed var(--muted); outline-offset: 3px; }
+
+/* ---------- frames ---------- */
+
+.frame { position: absolute; border: 2px solid var(--fc, var(--frame-1)); background: transparent; pointer-events: none; }
+.frame.is-selected { border-color: var(--sel); }
+.frame-title {
+  position: absolute; left: -2px; top: -23px; display: flex; align-items: center; gap: 6px;
+  max-width: calc(100% + 4px); padding: 3px 9px;
+  background: var(--fc, var(--frame-1)); color: #15151a;
+  font-family: var(--type); font-size: 10px; letter-spacing: 2px; cursor: grab;
+  pointer-events: auto;
+}
+.frame-title input {
+  border: 0; background: transparent; color: #15151a; font-family: var(--type);
+  font-size: 10px; letter-spacing: 2px; width: 12ch; min-width: 4ch; padding: 0; cursor: text;
+}
+.frame-title input:focus { outline: 1px dashed rgba(0, 0, 0, 0.5); }
+.frame-count { font-family: var(--mono); font-size: 9px; opacity: 0.75; }
+.frame-del {
+  border: 0; background: transparent; color: #15151a; cursor: pointer;
+  font-size: 12px; line-height: 1; padding: 0 0 0 2px; opacity: 0.7;
+}
+.frame-del:hover { opacity: 1; }
+.frame-grip {
+  position: absolute; right: -7px; bottom: -7px; width: 14px; height: 14px;
+  background: var(--fc, var(--frame-1)); cursor: nwse-resize; pointer-events: auto;
+}
+/* The body never takes the pointer, so a drag starting inside a frame still
+   box-selects and a card inside stays clickable. */
+.frame-body { position: absolute; inset: 0; pointer-events: none; }
+
+/* ---------- string ---------- */
+
+.string-line { stroke: var(--string); stroke-width: 2; fill: none; }
+.string-line.other { stroke: var(--string-grey); stroke-dasharray: 6 5; }
+.string-line.hot { stroke-width: 3; }
+.string-hit { stroke: transparent; stroke-width: 14; fill: none; pointer-events: stroke; cursor: pointer; }
+.links { pointer-events: none; }
+.links .string-hit { pointer-events: stroke; }
+.guide-line { stroke: var(--pad); stroke-width: 1; stroke-dasharray: 4 4; opacity: 0.8; }
+
+@media (max-width: 1040px) {
+  .tray { flex-basis: 232px; width: 232px; }
+}
+
+@media (max-width: 820px) {
+  .desk-narrow {
+    display: block; max-width: 1380px; margin: 0 auto 12px;
+    background: var(--drawer-dark); border: 1px solid var(--board-border);
+    padding: 12px 14px; font-size: 13px; line-height: 1.55; color: var(--text-light);
+  }
+  .desk { flex-direction: column; }
+  .tray { flex: 1 1 auto; width: 100%; max-height: 280px; }
+  .tray.is-collapsed { width: 100%; flex-basis: auto; }
+  .surface { height: 62vh; min-height: 360px; }
+  .desk-tools .tool-group.right { margin-left: 0; }
+  /* On a phone the groups themselves may wrap, so the rail never overflows. */
+  .desk-tools .tool-group { flex-wrap: wrap; }
+}
+
+/* ---------- the thread: links that become cards ---------- */
+
+/* A chip is a link that can be pinned: click it, or carry it onto the desk.
+   pan-y keeps a vertical swipe scrolling the tray while a sideways one carries. */
+.chips { display: flex; flex-wrap: wrap; gap: 5px; margin: 4px 0 10px; }
+.chip {
+  display: inline-flex; align-items: baseline; gap: 5px; max-width: 100%;
+  font-family: var(--mono); font-size: 11px; line-height: 1.3; text-align: left;
+  padding: 4px 8px; background: var(--cream-2); color: var(--ink);
+  border: 1px solid var(--card-border); cursor: grab; touch-action: pan-y;
+}
+.chip:hover, .chip:focus-visible { background: var(--pad); border-color: var(--muted); }
+.chip-mark { font-family: var(--type); font-size: 10px; color: var(--muted); flex: 0 0 auto; }
+.chip-v .chip-mark { color: var(--red); }
+.chip-label { min-width: 0; overflow-wrap: anywhere; }
+.chip.is-placed { opacity: 0.55; }
+/* Inline, a verse reads as part of the sentence: a link with a dotted rule. */
+.chip.inline {
+  display: inline; padding: 0 1px; font: inherit; color: var(--red); background: transparent;
+  border: 0; border-bottom: 1px dotted var(--red);
+}
+.chip.inline:hover, .chip.inline:focus-visible { background: var(--pad); color: var(--ink); }
+.chip.inline.is-placed { opacity: 1; border-bottom-style: solid; }
+
+/* ---------- a case file open in the tray ---------- */
+
+.tray-section[hidden] { display: none; }
+.tray-open { display: flex; flex-direction: column; gap: 6px; padding-bottom: 14px; }
+.tray-open .eyebrow { color: var(--muted-light); }
+.tray-open .eyebrow.tray-side { margin-top: 8px; }
+.tray-back {
+  align-self: flex-start; font-family: var(--type); font-size: 10px; letter-spacing: 1px;
+  padding: 4px 8px; background: transparent; color: var(--muted-light);
+  border: 1px solid var(--board-border); cursor: pointer;
+}
+.tray-back:hover { color: #ffffff; border-color: var(--muted-light); }
+.tray-qcard {
+  position: relative; margin-top: 10px; display: flex; flex-direction: column; gap: 4px; text-align: left;
+  background: var(--cream); color: var(--ink); border: 0; padding: 12px 11px 10px;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.55); cursor: grab; touch-action: pan-y;
+}
+.tray-qcard .eyebrow { color: var(--muted); }
+.tray-qcard .qtext { font-family: var(--type); font-size: 14px; line-height: 1.3; }
+.tray-qcard:hover { outline: 2px solid rgba(255, 244, 160, 0.5); }
+.tray-lay { width: 100%; margin: 4px 0 4px; }
+.tray-finding { margin: 0; font-size: 11.5px; line-height: 1.55; color: var(--text-light); }
+.tray-finding.is-clamped { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 5; line-clamp: 5; overflow: hidden; }
+.tray-more {
+  align-self: flex-start; padding: 0; background: transparent; border: 0; cursor: pointer;
+  font-family: var(--mono); font-size: 10px; color: var(--muted-light); text-decoration: underline;
+}
+.tray-more:hover { color: #ffffff; }
+.tray-finding .chip.inline { color: #ff9b8f; border-bottom-color: #ff9b8f; }
+.tray-finding .chip.inline:hover { color: var(--ink); }
+.tray-pins { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 5px; }
+.fam-src { touch-action: pan-y; }
+.fam-src .fs-stamp { display: inline-block; margin-top: 3px; font-family: var(--type); font-size: 8px; padding: 0 3px; border: 1px solid currentColor; }
+.fam-src .fs-stamp.held { color: var(--held); }
+.fam-src .fs-stamp.not-held { color: var(--not-held); }
+.tray-case { touch-action: pan-y; cursor: pointer; }
+
+/* ---------- carrying ---------- */
+
+.carry-ghost {
+  position: fixed; left: 0; top: 0; z-index: 60; pointer-events: none; max-width: 240px;
+  display: flex; flex-direction: column; gap: 2px; padding: 8px 10px;
+  background: var(--cream); color: var(--ink); font-family: var(--mono); font-size: 11px; line-height: 1.35;
+  box-shadow: 0 18px 36px rgba(0, 0, 0, 0.8); transform: translate(-999px, -999px); opacity: 0.94;
+}
+.carry-ghost small { font-family: var(--type); font-size: 9px; color: var(--muted); letter-spacing: 1px; }
+.carry-ghost.carry-case { background: var(--folder); border-top: 4px solid var(--string); }
+.carry-ghost.carry-v { border-left: 4px solid var(--red); }
+body.is-carrying, body.is-carrying * { cursor: grabbing !important; user-select: none; }
+.surface.is-drop { outline: 3px dashed var(--pad); outline-offset: -7px; }
+
+/* ---------- verse and go-deeper cards on the desk ---------- */
+
+.node .pincard.verse { border-top: 3px solid var(--red); }
+.node .pincard.verse .tier { color: var(--red); }
+
+/* An index card from the case file: the collection's own notes, never a source. */
+.node .doccard {
+  position: relative; display: flex; flex-direction: column; gap: 4px; width: 100%; text-align: left;
+  background: var(--folder); color: var(--ink); border: 1px solid var(--folder-border); border-left: 5px solid var(--frame-1);
+  padding: 12px 12px 10px; font-family: var(--mono); font-size: 12px; cursor: grab;
+  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.7);
+}
+.node .doccard .eyebrow { font-size: 9px; }
+.node .doccard .ptitle { font-weight: 700; font-size: 12px; line-height: 1.35; }
+.node .doccard .dpath { font-size: 10px; color: var(--muted); overflow-wrap: anywhere; }
+.node .doccard:hover, .node .doccard:focus { outline: 2px solid rgba(255, 244, 160, 0.5); }
+.node.is-selected .doccard { outline: 2px solid var(--sel); }
+
+/* ---------- the reader's thread ---------- */
+
+.reader-thread { border-top: 1px solid var(--rule); padding-top: 10px; display: flex; flex-direction: column; gap: 4px; }
+.reader-thread[hidden] { display: none; }
+.thread-head { font-family: var(--type); font-size: 11px; letter-spacing: 1px; color: var(--red); margin-bottom: 4px; }
+.reader-note .chip.inline { font-size: inherit; }
+.reader-body .case-finding { margin: 0; font-size: 14px; line-height: 1.65; }
+.reader-body .case-lines { margin: 0; padding-left: 18px; font-size: 13px; line-height: 1.55; }
+.reader-body .case-lines li { margin-bottom: 5px; }
+.reader .lay-out { align-self: flex-start; }
