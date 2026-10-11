@@ -333,12 +333,17 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   await mob.setViewport({ width: 390, height: 844 });
   await mob.goto(URL, { waitUntil: 'networkidle0' });
   await sleep(400);
+  const listFirst = await mob.evaluate(() => !document.getElementById('phoneList').hidden &&
+    getComputedStyle(document.querySelector('.desk')).display === 'none');
+  ok('narrow screens open on the list', listFirst);
+  await mob.click('#btnPhoneDesk');
+  await sleep(400);
   const mobile = await mob.evaluate(() => ({
     noticeShown: getComputedStyle(document.querySelector('.desk-narrow')).display !== 'none',
     bodyOverflow: document.documentElement.scrollWidth <= window.innerWidth + 1,
     scrollW: document.documentElement.scrollWidth, innerW: window.innerWidth
   }));
-  ok('narrow screens get the notice', mobile.noticeShown === true);
+  ok('the desk on a narrow screen gets the touch notice', mobile.noticeShown === true);
   ok('no horizontal page scroll at 390px', mobile.bodyOverflow === true, mobile.scrollW + ' vs ' + mobile.innerW);
   await mob.screenshot({ path: OUT + '/shot-08-mobile.png' });
 

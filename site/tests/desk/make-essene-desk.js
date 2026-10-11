@@ -1,9 +1,9 @@
-/* Builds site/data/desks/essene-debate.json: lay out, measure every card in
+/* Builds site/data/desks/essenes-sacrifice-meat.json: lay out, measure every card in
    real Chrome, lay out again with the real heights. */
 const puppeteer = require('puppeteer-core');
 const { CHROME, URL } = require('./env');
 const fs = require('fs');
-const OUT = require('path').join(__dirname, '..', '..', 'data', 'desks', 'essene-debate.json');
+const OUT = require('path').join(__dirname, '..', '..', 'data', 'desks', 'essenes-sacrifice-meat.json');
 
 const E = 'essene-nazarene-origins', SC = 'sacrifice-culture-vegetarian-jesus', JT = 'jesus-and-the-torah';
 const W = 250, GAP = 22, GAPX = 26, PAD = 26, FRAME_GAP = 90, ROW_GAP = 130;
@@ -146,10 +146,11 @@ const keyOf = item => item.k === 'n' ? 'n:' + item.name : item.id;
   let drift = 0;
   Object.keys(m2.out).forEach(id => { const r = m2.out[id]; const k = r.text != null ? 'n:' + Object.values(notes).find(n => n.text === r.text).name : id; if (H[k] !== r.h) drift++; });
   const file = {
-    slug: 'essene-debate',
+    slug: 'essenes-sacrifice-meat',
     title: 'Jesus, the Essenes, sacrifice and meat',
-    subtitle: 'Debate prep: the strongest honest case for the resolution, where it will be attacked, and what not to say.',
+    subtitle: 'The strongest honest case, the counter-arguments it has to answer, and where our own side overreaches.',
     by: 'Rex & Matt',
+    formerly: ['essene-debate'],
     desk: d2
   };
   fs.mkdirSync(require('path').dirname(OUT), { recursive: true });

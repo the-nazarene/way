@@ -70,7 +70,23 @@
   </div>
 </div>
 
-<p class="desk-narrow">The desk wants a wide screen and a pointer. On a phone, the <a href="index.html">reading room</a> is the better door: same sources, same stamps, laid out for you.</p>
+<p class="desk-narrow">Drag with one finger to move around the desk, pinch to zoom, tap a card to read it. <button type="button" class="tool" id="btnPhoneList">BACK TO THE LIST</button></p>
+
+<section class="phone-list" id="phoneList" hidden aria-label="This desk as a list">
+  <div class="phone-top">
+    <div class="phone-intro">
+      <span class="eyebrow" id="phoneEyebrow">THE DESK</span>
+      <h1 class="phone-title" id="phoneTitle"></h1>
+      <p class="phone-sub" id="phoneSub"></p>
+    </div>
+    <div class="phone-actions">
+      <button type="button" class="tool present" id="btnPhonePresent">▶ PRESENT</button>
+      <button type="button" class="tool" id="btnPhoneDesk">OPEN AS A DESK</button>
+    </div>
+    <nav class="phone-toc" id="phoneToc" aria-label="Sections"></nav>
+  </div>
+  <div class="phone-body" id="phoneBody"></div>
+</section>
 
 <main class="desk">
   <aside class="tray" id="tray" aria-label="Source trays">

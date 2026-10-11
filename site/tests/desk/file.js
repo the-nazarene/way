@@ -39,23 +39,23 @@ const waitFile = async (n, ms) => { const t0 = Date.now(); while (Date.now() - t
   await p.click('#btnSaveFile'); await sleep(500);
   ok('an empty desk has nothing to save, and says so', files().length === 0 && /nothing to save/.test(await hint()));
 
-  await open('#desk=essene-debate');
+  await open('#desk=essenes-sacrifice-meat');
   ok('SAVE FILE and OPEN FILE are on the toolbar', await p.evaluate(() => ['btnSaveFile', 'btnOpenFile'].every(id => document.getElementById(id).offsetParent !== null)));
   await p.click('#btnSaveFile');
   const got = await waitFile(1);
   const saved = got ? files()[0] : null;
   ok('SAVE FILE downloads the desk', got, saved);
-  ok('named after the desk and the date', /^essene-debate-\d{4}-\d{2}-\d{2}\.json$/.test(saved || ''), saved);
+  ok('named after the desk and the date', /^essenes-sacrifice-meat-\d{4}-\d{2}-\d{2}\.json$/.test(saved || ''), saved);
   const body = JSON.parse(fs.readFileSync(path.join(DL, saved), 'utf8'));
   ok('the file says what it is, when, and holds the whole desk', body.format === 'nazarene-way-desk' && body.version === 1 && /^\d{4}-/.test(body.saved) &&
     body.title === 'Jesus, the Essenes, sacrifice and meat' && body.desk.it.length === 65 && body.desk.ln.length === 27, JSON.stringify({ t: body.title, it: body.desk.it.length, ln: body.desk.ln.length }));
-  ok('and tells you where it went', /Saved as essene-debate-/.test(await hint()));
+  ok('and tells you where it went', /Saved as essenes-sacrifice-meat-/.test(await hint()));
   /* Headless Chrome blocks a second automatic download from one page, so
      check what the page did rather than counting files. */
   await p.evaluate(() => { document.getElementById('dhint').textContent = ''; });
   await p.keyboard.down('Control'); await p.keyboard.press('s'); await p.keyboard.up('Control');
   await sleep(300);
-  ok('Ctrl-S saves too', /Saved as essene-debate-/.test(await hint()), await hint());
+  ok('Ctrl-S saves too', /Saved as essenes-sacrifice-meat-/.test(await hint()), await hint());
 
   /* ---------- the point: wipe the browser, the desk survives ---------- */
   await p.evaluate(() => { localStorage.clear(); sessionStorage.clear(); });

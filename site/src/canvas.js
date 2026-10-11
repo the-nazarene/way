@@ -824,6 +824,7 @@
     drawLinks();
     updateCounts();
     $('emptyDesk').hidden = items.length > 0;
+    applyPhone();
   }
 
   function renderSelection() {
@@ -1877,6 +1878,164 @@
 
   /* Rows first, then left to right; frames whose tops are within a card's
      height of each other count as one row. */
+  /* ================= phones: the desk as a list =================
+     A phone gets the desk as a list it can scroll: the sections in reading
+     order, every card tappable to read, every string shown as "tied to".
+     Nothing is lost; OPEN AS A DESK gives the real surface. */
+
+  var PHONE = window.matchMedia ? window.matchMedia('(max-width: 820px)') : null;
+  var phoneDesk = false;     // a phone reader asked for the real desk
+
+  function isPhone() { return !!(PHONE && PHONE.matches); }
+  function phoneReading() { return isPhone() && !phoneDesk && !presenting; }
+
+  function applyPhone() {
+    var on = phoneReading();
+    document.body.classList.toggle('phone-reading', on);
+    document.body.classList.toggle('phone-desk', isPhone() && phoneDesk);
+    $('phoneList').hidden = !on;
+    if (on) renderPhone();
+  }
+
+  /* Cards in a section stand in columns: down each column, then the next. */
+  function columnOrder(a, b) { return Math.abs(a.x - b.x) < 60 ? a.y - b.y : a.x - b.x; }
+
+  function phoneSel(id) {
+    var s = window.CSS && CSS.escape ? CSS.escape(id) : String(id).replace(/["\\]/g, '\\$&');
+    return '[data-phone-id="' + s + '"]';
+  }
+
+  /* The thread a reader follows on a phone opens in place; nothing is pinned. */
+  function openThing(p) {
+    if (p.kind === 'src') { var c = cardBySlug(p.slug); if (c && c.sources[p.i]) openReader(c.sources[p.i], c, null); }
+    else if (p.kind === 'v') openVerseReader(p.key, null);
+    else if (p.kind === 'd') openDocReader(p.path, null);
+    else if (p.kind === 'case') openCaseReader(p.slug, null);
+  }
+
+  function phoneCard(it) {
+    var build = { src: buildSrcNode, q: buildQNode, v: buildVerseNode, d: buildDocNode,
+                  m: buildMomentNode, w: buildWebNode, note: buildNoteNode }[it.t];
+    var n = build && build(it);
+    if (!n) return null;
+    n.removeAttribute('data-id');
+    var tl = n.querySelector('.node-tools');
+    if (tl) tl.parentNode.removeChild(tl);
+    var ta = n.querySelector('textarea');
+    if (ta) ta.parentNode.replaceChild(el('p', 'note-text', it.text || ''), ta);
+    else n.addEventListener('click', function (e) { if (e.target.closest('a')) return; e.preventDefault(); openItem(it); });
+    var row = el('div', 'phone-item');
+    row.setAttribute('data-phone-id', it.id);
+    row.appendChild(n);
+    var tied = [];
+    links.forEach(function (l) {
+      var o = l.a === it.id ? l.b : (l.b === it.id ? l.a : null);
+      var oi = o && itemById(o);
+      if (oi && oi.t !== 'frame') tied.push(oi);
+    });
+    if (tied.length) {
+      var w = el('div', 'phone-ties');
+      w.appendChild(el('span', 'eyebrow', 'TIED TO'));
+      tied.forEach(function (o) {
+        var b = el('button', null, itemLabel(o));
+        b.type = 'button';
+        b.addEventListener('click', function () { phoneGo(o.id); });
+        w.appendChild(b);
+      });
+      row.appendChild(w);
+    }
+    return row;
+  }
+
+  function phoneGo(id) {
+    var r = $('phoneBody').querySelector(phoneSel(id));
+    if (!r) return;
+    r.scrollIntoView({ block: 'start' });
+    r.classList.remove('is-found');
+    void r.offsetWidth;
+    r.classList.add('is-found');
+    setTimeout(function () { r.classList.remove('is-found'); }, 1600);
+  }
+
+  function renderPhone() {
+    $('phoneEyebrow').textContent = !viewingShared ? 'THE DESK' : !sharedMeta ? 'A SHARED DESK' :
+      sharedMeta.file ? 'A DESK FROM A FILE' : 'A PREPARED DESK';
+    $('phoneTitle').textContent = viewingShared ? (sharedMeta ? sharedMeta.title : 'Someone’s desk, from a link') : 'Your desk';
+    $('phoneSub').textContent = viewingShared && sharedMeta ? (sharedMeta.subtitle || '') : '';
+    var body = $('phoneBody'), toc = $('phoneToc');
+    body.innerHTML = ''; toc.innerHTML = '';
+    $('btnPhonePresent').hidden = !items.length;
+    if (!items.length) {
+      var e = el('div', 'phone-empty');
+      e.appendChild(el('p', null, 'Nothing on your desk yet. Open one of the prepared desks:'));
+      (LINKS.desks || []).forEach(function (d) {
+        var b = el('button', 'tool', d.title);
+        b.type = 'button';
+        b.addEventListener('click', function () { location.hash = 'desk=' + d.slug; });
+        e.appendChild(b);
+      });
+      e.appendChild(el('p', null, 'Or OPEN AS A DESK to start your own.'));
+      body.appendChild(e);
+      return;
+    }
+    /* Each card belongs to the first section it sits in; the rest are loose:
+       those above the first section open the list, any others close it. */
+    var frames = items.filter(function (x) { return x.t === 'frame'; }).sort(readingOrder);
+    var placed = {}, groups = [];
+    frames.forEach(function (f) {
+      var m = membersOf(f).filter(function (x) { return !placed[x.id]; });
+      m.forEach(function (x) { placed[x.id] = true; });
+      groups.push({ frame: f, title: f.title || 'UNTITLED', items: m.sort(columnOrder) });
+    });
+    var loose = items.filter(function (x) { return x.t !== 'frame' && !placed[x.id]; });
+    var top = frames.length ? frames[0].y : Infinity;
+    var head = loose.filter(function (x) { return x.y < top; }).sort(columnOrder);
+    var rest = loose.filter(function (x) { return x.y >= top; }).sort(readingOrder);
+    if (head.length) groups.unshift({ frame: null, title: '', items: head });
+    if (rest.length) groups.push({ frame: null, title: 'ELSEWHERE ON THE DESK', items: rest });
+    groups.forEach(function (g, gi) {
+      var sec = el('section', 'phone-sec');
+      sec.id = 'phone-sec-' + gi;
+      if (g.frame) sec.style.setProperty('--fc', FRAME_COLORS[g.frame.ci || 0]);
+      if (g.title) {
+        sec.appendChild(el('h2', 'phone-sec-title', g.title));
+        var tb = el('button', null, g.title);
+        tb.type = 'button';
+        if (g.frame) tb.style.setProperty('--fc', FRAME_COLORS[g.frame.ci || 0]);
+        tb.addEventListener('click', function () { sec.scrollIntoView({ block: 'start' }); });
+        toc.appendChild(tb);
+      }
+      g.items.forEach(function (it) { var r = phoneCard(it); if (r) sec.appendChild(r); });
+      body.appendChild(sec);
+    });
+  }
+
+  function wirePhone() {
+    $('btnPhoneDesk').addEventListener('click', function () {
+      phoneDesk = true;
+      applyPhone();
+      requestAnimationFrame(function () {
+        fit(); drawLinks();
+        document.querySelector('.desk-tools').scrollIntoView({ block: 'start' });
+      });
+    });
+    $('btnPhoneList').addEventListener('click', function () {
+      phoneDesk = false;
+      closeReader();
+      applyPhone();
+      window.scrollTo(0, 0);
+    });
+    $('btnPhonePresent').addEventListener('click', function () { startPresent(0, true); });
+    if (!PHONE) return;
+    var changed = function () {
+      var was = document.body.classList.contains('phone-reading');
+      applyPhone();
+      if (was && !phoneReading() && items.length) requestAnimationFrame(function () { fit(); drawLinks(); });
+    };
+    if (PHONE.addEventListener) PHONE.addEventListener('change', changed);
+    else if (PHONE.addListener) PHONE.addListener(changed);
+  }
+
   function readingOrder(a, b) { return Math.abs(a.y - b.y) < 120 ? a.x - b.x : a.y - b.y; }
 
   function presentSlides() {
@@ -1899,6 +2058,7 @@
     presenting = { slides: slides, i: 0, before: { x: tf.x, y: tf.y, scale: tf.scale }, full: false, anim: 0, idle: 0 };
     sel = {}; renderSelection();
     document.body.classList.add('presenting');
+    applyPhone();
     setNotesReadOnly(true);
     buildDots();
     $('presCaption').hidden = false;
@@ -1916,6 +2076,7 @@
     cancelAnimationFrame(P.anim);
     clearTimeout(P.idle);
     document.body.classList.remove('presenting', 'pres-idle');
+    applyPhone();
     $('presCaption').hidden = true;
     $('presBar').hidden = true;
     setNotesReadOnly(false);
@@ -2390,6 +2551,8 @@
   function preparedBySlug(slug) {
     var all = LINKS.desks || [];
     for (var i = 0; i < all.length; i++) if (all[i].slug === slug) return all[i];
+    /* A renamed desk keeps answering to its old links. */
+    for (var j = 0; j < all.length; j++) if ((all[j].formerly || []).indexOf(slug) >= 0) return all[j];
     return null;
   }
 
@@ -2464,6 +2627,7 @@
     renderAll(); fit(); renderShared();
     sharedSig = deskSig();
     hint((sharedMeta ? sharedMeta.title : 'A shared desk') + ': ' + items.length + ' things on it. Click any card to read it. Your own desk is untouched.');
+    if (phoneReading()) window.scrollTo(0, 0);
   }
 
   function backToMine() {
@@ -2690,6 +2854,7 @@
     }
     b.addEventListener('click', function () {
       if (Date.now() - carryEndedAt < 400) return;
+      if (phoneReading()) { openThing(p); return; }
       if (ctx.tray && p.kind === 'case') { openTrayCase(p.slug); return; }
       var origin = ctx.origin ? ctx.origin() : null;
       if (ctx.onLift) ctx.onLift();
@@ -2711,7 +2876,7 @@
 
   function carriable(node, p, ctx) {
     node.addEventListener('pointerdown', function (e) {
-      if (e.button !== 0) return;
+      if (e.button !== 0 || phoneReading()) return;
       var c = { x: e.clientX, y: e.clientY, id: e.pointerId, started: false, ghost: null, origin: null };
       var move = function (ev) {
         if (ev.pointerId !== c.id) return;
@@ -3197,6 +3362,7 @@
     wirePresent();
     wireFiles();
     wireHelp();
+    wirePhone();
     watchLateFonts();
     var asked = sharedInHash();
     var restored = load();

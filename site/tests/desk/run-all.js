@@ -17,7 +17,8 @@ const SUITES = [
   ['edit', 'editing a laid-out desk: sections, renaming, tying and cutting string, undo and redo'],
   ['file', 'desk files: save, wipe the browser, open it back'],
   ['help', 'the ? panel of controls'],
-  ['episodes', 'episode boards: transcript moments, outside sources, checks']
+  ['episodes', 'episode boards: transcript moments, outside sources, checks'],
+  ['phone', 'phones: the desk as a list, the reader, and the real desk one tap away']
 ];
 
 const ROOT = path.join(__dirname, '..', '..', '..');

@@ -233,7 +233,7 @@ def _moment(root, key, phrase, resolve_pointer, warnings, name):
 def _prepared_desks(root, cards, verses, docs, warnings, moments=None, resolve_pointer=None):
     """site/data/desks/*.json: whole arguments laid out ahead of time.
 
-    Each file is {slug, title, subtitle, by, desk}, where desk is exactly what
+    Each file is {slug, title, subtitle, by, formerly, desk} (formerly: old slugs that still open it), where desk is exactly what
     the desk's COPY JSON produces. Every card, verse, file and string in it is
     checked against this build; anything that no longer resolves is dropped
     with a warning, so a prepared desk can never show a card the build cannot
@@ -292,5 +292,5 @@ def _prepared_desks(root, cards, verses, docs, warnings, moments=None, resolve_p
                 warnings.append(f"desks/{name}: string {a} -> {b} has a missing end, left off")
         desk = dict(d["desk"], it=kept, ln=links)
         out.append({"slug": d["slug"], "title": d["title"], "subtitle": d.get("subtitle", ""),
-                    "by": d.get("by", ""), "desk": desk})
+                    "by": d.get("by", ""), "formerly": d.get("formerly", []), "desk": desk})
     return out

@@ -1,4 +1,4 @@
-/* The prepared debate desk, its short link, and searching the trays. */
+/* The prepared Essene desk, its short link, and searching the trays. */
 const puppeteer = require('puppeteer-core');
 const { CHROME, BASE, URL, OUT } = require('./env');
 const pass = [], fail = [];
@@ -46,7 +46,7 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   /* ---------- the prepared desk ---------- */
   ok('the prepared desk is listed in the tray', await me.evaluate(() => !document.getElementById('trayDesksSection').hidden &&
     /Essenes/.test(document.getElementById('trayDesks').textContent)));
-  await me.click('[data-desk="essene-debate"]');
+  await me.click('[data-desk="essenes-sacrifice-meat"]');
   await sleep(1500);
   const deskInfo = await me.evaluate(() => ({
     hash: location.hash,
@@ -56,7 +56,7 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
     strings: document.querySelectorAll('#links .string-line').length,
     stored: JSON.parse(localStorage.getItem('way.desk.v1')).it.length
   }));
-  ok('clicking it opens the prepared desk', deskInfo.hash === '#desk=essene-debate' && /PREPARED DESK · JESUS, THE ESSENES/.test(deskInfo.bar), deskInfo.bar);
+  ok('clicking it opens the prepared desk', deskInfo.hash === '#desk=essenes-sacrifice-meat' && /PREPARED DESK · JESUS, THE ESSENES/.test(deskInfo.bar), deskInfo.bar);
   ok('every card, frame and string arrives', deskInfo.nodes === 58 && deskInfo.frames === 7 && deskInfo.strings === 27, JSON.stringify(deskInfo));
   ok('and my own desk is untouched', deskInfo.stored === mine);
   const layout = await me.evaluate(() => {
@@ -95,9 +95,14 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
 
   /* The short link from a cold start. */
   const cold = await page();
-  await open(cold, '#desk=essene-debate');
+  await open(cold, '#desk=essenes-sacrifice-meat');
   ok('the short link opens it from a cold start', await cold.evaluate(() => document.querySelectorAll('.nodes .node').length) === 58 &&
     await cold.evaluate(() => !document.getElementById('sharedBar').hidden));
+  const old = await page();
+  await open(old, '#desk=essene-debate');
+  ok('the desk\'s old link still opens it', await old.evaluate(() => document.querySelectorAll('.nodes .node').length) === 58 &&
+    /JESUS, THE ESSENES/.test(await old.evaluate(() => document.getElementById('sharedBar').textContent.toUpperCase())));
+  await old.close();
   const cold2 = await page();
   await open(cold2, '#desk=no-such-desk');
   const cold_ = cold; 
@@ -109,7 +114,7 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   await me.bringToFront();
 
   /* ---------- searching ---------- */
-  await open(me, '#desk=essene-debate');
+  await open(me, '#desk=essenes-sacrifice-meat');
   const sections = await here(me);
   ok('with nothing typed, the tray lists the sections in reading order', sections.length === 7 && /WHERE HE CAME FROM/.test(sections[0]) && /GO DEEPER/.test(sections[6]),
     sections.map(s => s.slice(0, 30)).join(' | '));
@@ -172,7 +177,7 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
 
   /* Inside an open case file. */
   await search(me, '');
-  await me.click('[data-desk="essene-debate"]').catch(() => {});
+  await me.click('[data-desk="essenes-sacrifice-meat"]').catch(() => {});
   await me.evaluate(() => [].slice.call(document.querySelectorAll('.tray-case')).filter(x => /Did Jesus oppose the sacrifice/.test(x.textContent))[0].click());
   await sleep(200);
   await search(me, 'fish');

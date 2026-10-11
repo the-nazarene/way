@@ -620,3 +620,55 @@ body.presenting .surface::after { bottom: 0; height: 130px; background: linear-g
 .node .notepad.verdict-open { border-left-color: var(--muted-light); }
 .node .notepad.verdict-reading { border-left-color: var(--blue); }
 .node .notepad.verdict-experience { border-left-color: var(--frame-4); }
+
+/* ---------- phones: the desk as a list ----------
+   A desk needs a wide screen and a pointer, so on a phone it reads as a list:
+   the sections in reading order, each card tappable to read, each string as a
+   "tied to" line. OPEN AS A DESK still gives the real surface. */
+.phone-list[hidden] { display: none; }
+body.phone-reading .desk-form, body.phone-reading .desk-tools,
+body.phone-reading .desk, body.phone-reading .desk-narrow, body.phone-reading .skip { display: none; }
+body.phone-reading .reader .lay-out, body.phone-reading .reader .thread-head { display: none; }
+.phone-list { max-width: 640px; margin: 0 auto; padding: 0 0 40px; color: var(--text-light); }
+.phone-top { padding: 4px 0 14px; border-bottom: 1px solid var(--board-border); margin-bottom: 18px; }
+.phone-intro .eyebrow { font-family: var(--type); font-size: 11px; letter-spacing: 1.5px; color: var(--muted-light); }
+.phone-title { font-family: var(--type); font-weight: 400; font-size: 22px; line-height: 1.25; margin: 6px 0 6px; color: var(--cream); }
+.phone-sub { font-family: var(--mono); font-size: 13px; line-height: 1.5; margin: 0 0 12px; color: var(--muted-light); }
+.phone-sub:empty { display: none; }
+.phone-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+.phone-toc { display: flex; flex-wrap: wrap; gap: 6px; }
+.phone-toc button {
+  font-family: var(--mono); font-size: 11px; line-height: 1.3; text-align: left; cursor: pointer;
+  padding: 5px 8px; color: var(--text-light); background: var(--drawer-dark);
+  border: 1px solid var(--board-border); border-left: 4px solid var(--fc, var(--frame-1));
+}
+.phone-sec { margin: 0 0 26px; scroll-margin-top: 12px; }
+.phone-sec-title {
+  font-family: var(--type); font-weight: 400; font-size: 14px; letter-spacing: 1.5px; margin: 0 0 12px;
+  padding: 6px 10px; color: var(--ink); background: var(--fc, var(--frame-1));
+}
+.phone-item { margin: 0 0 14px; scroll-margin-top: 12px; }
+.phone-item .node { position: static; transform: none; width: auto !important; }
+.phone-item .node .pincard, .phone-item .node .qcard, .phone-item .node .doccard { cursor: pointer; }
+.phone-item .node .pin { cursor: pointer; }
+.phone-item .note-text { white-space: pre-wrap; font-family: var(--mono); font-size: 14px; line-height: 1.5; color: var(--ink); margin: 4px 0 0; }
+.phone-ties { display: flex; flex-wrap: wrap; align-items: baseline; gap: 5px; margin: 6px 0 0 2px; }
+.phone-ties .eyebrow { font-family: var(--type); font-size: 10px; letter-spacing: 1px; color: var(--string); }
+.phone-ties button {
+  font-family: var(--mono); font-size: 11px; line-height: 1.3; text-align: left; cursor: pointer; max-width: 100%;
+  padding: 3px 7px; color: var(--text-light); background: transparent; border: 1px dashed var(--string-grey);
+}
+.phone-item.is-found .node > * { animation: found 1.4s ease-out; }
+.phone-empty { font-family: var(--mono); font-size: 14px; line-height: 1.55; color: var(--text-light); }
+.phone-empty .tool { display: block; width: 100%; margin: 0 0 8px; text-align: left; }
+.desk-narrow .tool { margin-top: 8px; }
+/* The list header already names the desk, so the shared bar keeps only its buttons. */
+body.phone-reading .shared-bar .shared-text { display: none; }
+/* Long addresses and unbroken lines wrap inside the reader instead of running off it. */
+.reader-body, .reader-note { overflow-wrap: anywhere; }
+/* The real desk on a phone: the way back on top, the surface big, the editing kit put away. */
+body.phone-desk .desk-form, body.phone-desk .tray { display: none; }
+body.phone-desk .desk-tools .tool-group.right .tool:not(.present) { display: none; }
+body.phone-desk #btnFrame, body.phone-desk #btnNote, body.phone-desk #btnTidy,
+body.phone-desk #btnSnap, body.phone-desk #btnString { display: none; }
+body.phone-desk .surface { height: 78vh; }

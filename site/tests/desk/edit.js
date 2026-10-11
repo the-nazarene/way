@@ -1,5 +1,5 @@
 /* Editing a laid-out desk: moving sections, renaming them, tying, selecting
-   and deleting string, undo and redo, group moves. Run on the debate desk. */
+   and deleting string, undo and redo, group moves. Run on the Essene desk. */
 const puppeteer = require('puppeteer-core');
 const { CHROME, URL } = require('./env');
 const pass = [], fail = [];
@@ -14,7 +14,7 @@ const SC = 'sacrifice-culture-vegetarian-jesus', E = 'essene-nazarene-origins';
   const p = await (await browser.createBrowserContext()).newPage();
   p.on('pageerror', e => errs.push('pageerror: ' + e.message));
   p.on('console', m => { if (m.type() === 'error') errs.push(m.text()); });
-  await p.goto(URL + '#desk=essene-debate', { waitUntil: 'load' });
+  await p.goto(URL + '#desk=essenes-sacrifice-meat', { waitUntil: 'load' });
   await p.waitForSelector('.tray-case');
   await sleep(1300);
 

@@ -42,7 +42,7 @@ It costs nothing at our scale. The tight limit is saves, not storage.
 | Worker requests | 100,000 a day | Every open and every save, combined |
 | Storage reads | 100,000 a day | Opening saved desks |
 | Storage writes | 1,000 a day | Saves. Save on the button, never automatically |
-| Storage | 1 GB | The debate desk is about 11 KB, so roughly 90,000 desks that size |
+| Storage | 1 GB | The Essene desk is about 11 KB, so roughly 90,000 desks that size |
 
 Limits reset daily at 00:00 UTC ([KV pricing](https://developers.cloudflare.com/kv/platform/pricing/), [Workers pricing](https://developers.cloudflare.com/workers/platform/pricing/)). If saves ever pass 1,000 a day, the paid plan has a $5 a month minimum.
 
@@ -50,7 +50,7 @@ Limits reset daily at 00:00 UTC ([KV pricing](https://developers.cloudflare.com/
 
 A write endpoint on the open web will be poked at, so the Worker refuses more than it accepts.
 
-- **Size cap:** a desk over 512 KB is refused. The debate desk is 11 KB.
+- **Size cap:** a desk over 512 KB is refused. The Essene desk is 11 KB.
 - **Rate limit:** a handful of saves per minute from one address, enforced in the Worker.
 - **No listing:** the Worker answers only for an id it is given. Nobody can browse saved desks.
 - **Unguessable links:** a 128-bit random id and a 128-bit key, so a link cannot be found by trying.

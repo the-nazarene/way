@@ -25,8 +25,8 @@ Then open:
 |---|---|
 | <http://localhost:8000/> | The Reading Room, Matt's front door. Open any case: there's an OPEN ON THE DESK tab beside its folder tab. |
 | <http://localhost:8000/canvas.html> | The Desk, empty. |
-| <http://localhost:8000/canvas.html#desk=essene-debate> | A prepared desk: the debate prep for "Jesus, the Essenes, sacrifice and meat". |
-| <http://localhost:8000/canvas.html#desk=essene-debate&present> | The same desk as a presentation. → to move, Esc to end. |
+| <http://localhost:8000/canvas.html#desk=essenes-sacrifice-meat> | A prepared desk: the counter-argument board for "Jesus, the Essenes, sacrifice and meat". |
+| <http://localhost:8000/canvas.html#desk=essenes-sacrifice-meat&present> | The same desk as a presentation. → to move, Esc to end. |
 
 `python site/build.py` is Matt's build. It checks every citation on every card against the texts held in the repo and **refuses to publish one it can't find**. If it fails, a card is wrong, not the build.
 
@@ -36,7 +36,7 @@ Then open:
 
 Paste this into Claude Code (or any assistant) opened in your copy of the repo:
 
-> Read `site/DESK-DEVELOPERS.md` and `site/DESK.md`, then `CLAUDE.md` at the repo root. We're working on the Desk on the `desk-prototype` branch of the-nazarene/way. Check out that branch, run `python site/build.py`, serve `site/dist`, and show me the Desk at `canvas.html#desk=essene-debate`. Follow the rules in the developer guide: nothing on the desk is generated, `app.js` and `styles.css` stay untouched, build and test before proposing anything, and never push to `main`. Then tell me what you'd suggest improving.
+> Read `site/DESK-DEVELOPERS.md` and `site/DESK.md`, then `CLAUDE.md` at the repo root. We're working on the Desk on the `desk-prototype` branch of the-nazarene/way. Check out that branch, run `python site/build.py`, serve `site/dist`, and show me the Desk at `canvas.html#desk=essenes-sacrifice-meat`. Follow the rules in the developer guide: nothing on the desk is generated, `app.js` and `styles.css` stay untouched, build and test before proposing anything, and never push to `main`. Then tell me what you'd suggest improving.
 
 Everything an assistant needs is in this file and the two it links. The rules below aren't style preferences. They're what keeps the site trustworthy.
 
@@ -91,7 +91,7 @@ No server, no database, no accounts. The site is static files, and a desk lives 
 | `site/desk_links.py` | Called by `build.py`; writes `dist/desk.json`. |
 | `site/data/desks/*.json` | Prepared desks. |
 | `site/tier-families.py` | Report of how every tier string maps to a family. |
-| `site/tests/desk/` | Browser tests and the debate-desk generator. |
+| `site/tests/desk/` | Browser tests and the Essene-desk generator. |
 | `site/DESK.md` | Features, review notes, open questions for Matt. |
 | `site/PROPOSAL-SECRET-LINKS.md` | The proposal for saving desks under private links (no accounts), awaiting Matt. |
 | `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md` | Held excerpts behind the sacrifice and diet cards; the model for adding patristic texts. |
@@ -196,7 +196,7 @@ npm test             # builds the site, serves it, runs every suite
 npm test -- present  # one suite
 ```
 
-About four and a half minutes for all of it, 340 checks. Chrome is found automatically. Set `CHROME_PATH` if it isn't, or `DESK_URL` to test a site that's already being served. Screenshots go to your temp folder (`desk-test-shots`).
+About five minutes for all of it, 370 checks. Chrome is found automatically. Set `CHROME_PATH` if it isn't, or `DESK_URL` to test a site that's already being served. Screenshots go to your temp folder (`desk-test-shots`).
 
 | Suite | Covers |
 |---|---|
@@ -209,6 +209,7 @@ About four and a half minutes for all of it, 340 checks. Chrome is found automat
 | `file` | Desk files: save, clear the browser, open it back; refusing non-desk files; dropping a file on the desk |
 | `help` | The ? panel: opening, closing, focus, small screens, out of the way while presenting |
 | `episodes` | Every episode board: each card the build kept is shown, no overlaps, moments stamped pointer, readers, search, keeping a board, invented moments dropped |
+| `phone` | Phones: the desk as a list (every card once, sections in order, TIED TO, no sideways scroll), tapping to read, the thread opening without pinning, OPEN AS A DESK and back, present, an empty desk, a window narrowed and widened |
 
 Two things that bite when writing tests: Chrome doesn't paint background tabs, so call `bringToFront()` on a page before measuring or screenshotting it after opening another. And scroll a tray item into view before dragging it.
 
@@ -228,8 +229,8 @@ Two things that bite when writing tests: Chrome doesn't paint background tabs, s
 Ideas with a rough priority. Pick one up, or argue for a different one on the PR.
 
 0. **Secret links for saving desks.** No logins: each saved desk gets a private link, encrypted in the browser. Proposal in `site/PROPOSAL-SECRET-LINKS.md`, waiting on Matt. SAVE FILE covers it until then.
-1. **A preview site.** A free preview deploy of this branch (Cloudflare Pages or Netlify) so share and present links work for anyone before the merge. Needs Matt's OK.
-2. **Phones get a read-only desk.** A prepared desk as a scrollable list of sections and cards, each tappable to read. Today phones are sent to the Reading Room.
+1. ~~**A preview site.**~~ Done: <https://nazarene-desk.pages.dev> serves this branch, on Rex's free Cloudflare account, separate from nazareneway.com and hidden from search engines. Rex or his Claude redeploys it after a push (`python site/build.py`, add a `_headers` file with `X-Robots-Tag: noindex`, then `npx wrangler pages deploy <folder> --project-name nazarene-desk --branch main`), and `DESK_URL=https://nazarene-desk.pages.dev/ npm test` checks it live.
+2. ~~**Phones get a read-only desk.**~~ Done: phones read a desk as a list (`phone` suite).
 3. **Objections as cards.** `data.json` already carries 19 objections raised by named critics and 73 prepared on the cards. An OBJECTIONS tray, filterable by who raises them, drags an objection onto the desk with its answer tied by string, and can show the two side by side.
 4. **Labels on string.** A few typed words on a connection: "same proof text", "answers this".
 5. **A simpler toolbar.** Fold COPY JSON and CLEAR into a menu, rename COPY DESK LINK to SHARE, and give the empty desk a one-click start.

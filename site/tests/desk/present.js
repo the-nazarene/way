@@ -1,4 +1,4 @@
-/* Present mode: the debate desk walked section by section. */
+/* Present mode: the Essene desk walked section by section. */
 const puppeteer = require('puppeteer-core');
 const { CHROME, BASE, URL, OUT } = require('./env');
 const pass = [], fail = [];
@@ -49,7 +49,7 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
 
   /* ---------- start ---------- */
   const p = await fresh();
-  await open(p, '#desk=essene-debate');
+  await open(p, '#desk=essenes-sacrifice-meat');
   const before = await p.evaluate(() => document.getElementById('world').style.transform);
   ok('the PRESENT button is on the toolbar', await p.evaluate(() => !!document.getElementById('btnPresent') && document.getElementById('btnPresent').offsetParent !== null));
   await p.click('#btnPresent');
@@ -203,12 +203,12 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
 
   /* ---------- links ---------- */
   const q = await fresh();
-  await open(q, '#desk=essene-debate&present=3');
+  await open(q, '#desk=essenes-sacrifice-meat&present=3');
   await sleep(600);
   const sq = await state(q);
   ok('a present link opens straight into that slide', sq.presenting && /^SECTION 3 OF 7/.test(sq.eyebrow), JSON.stringify(sq));
   await q.keyboard.press('Escape'); await sleep(500);
-  ok('ending it leaves the desk link in the address bar, without present', await q.evaluate(() => location.hash) === '#desk=essene-debate', await q.evaluate(() => location.hash));
+  ok('ending it leaves the desk link in the address bar, without present', await q.evaluate(() => location.hash) === '#desk=essenes-sacrifice-meat', await q.evaluate(() => location.hash));
   await q.evaluate(() => [].slice.call(document.querySelectorAll('.tray-present'))[0].click());
   await sleep(1300);
   ok('▶ PRESENT IT on a prepared desk starts its show', (await state(q)).presenting);
@@ -232,7 +232,7 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   /* ---------- a small window ---------- */
   const t = await fresh();
   await t.setViewport({ width: 1024, height: 700 });
-  await open(t, '#desk=essene-debate&present=2');
+  await open(t, '#desk=essenes-sacrifice-meat&present=2');
   await sleep(500);
   const tl = await lit(t, '2 · HE OPPOSED THE SACRIFICES');
   const tb = await t.evaluate(() => { const b = document.getElementById('presBar').getBoundingClientRect(); return b.right <= innerWidth && b.left >= 0; });
