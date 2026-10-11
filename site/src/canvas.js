@@ -1805,8 +1805,14 @@
 
   /* Prepared desks: whole arguments laid out and kept in the repo
      (site/data/desks/). Opening one is the same as opening a shared link. */
+  /* A desk marked listed: false in its file (the episode boards, for now) is left
+     off the tray and the empty-desk offer, but its #desk=slug link still opens it. */
+  function listedDesks() {
+    return (LINKS.desks || []).filter(function (d) { return d.listed !== false; });
+  }
+
   function renderPrepared() {
-    var all = LINKS.desks || [];
+    var all = listedDesks();
     var ul = $('trayDesks');
     ul.innerHTML = '';
     $('trayDesksSection').hidden = !all.length;
@@ -1840,7 +1846,7 @@
 
   /* An empty desk starts in one click: a prepared desk, or a first note. */
   function renderEmptyStart() {
-    var all = LINKS.desks || [], box = $('emptyDesks');
+    var all = listedDesks(), box = $('emptyDesks');
     box.innerHTML = '';
     $('emptyStart').hidden = !all.length;
     all.slice(0, 3).forEach(function (d) {

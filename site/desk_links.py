@@ -295,5 +295,5 @@ def _prepared_desks(root, cards, verses, docs, warnings, moments=None, resolve_p
                 warnings.append(f"desks/{name}: string {a} -> {b} has a missing end, left off")
         desk = dict(d["desk"], it=kept, ln=links)
         out.append({"slug": d["slug"], "title": d["title"], "subtitle": d.get("subtitle", ""),
-                    "by": d.get("by", ""), "formerly": d.get("formerly", []), "desk": desk})
+                    "by": d.get("by", ""), "formerly": d.get("formerly", []), "listed": d.get("listed", True), "desk": desk})
     return out

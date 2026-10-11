@@ -53,6 +53,7 @@ As of October 2026 the repo lives in its own organization, [`the-nazarene`](http
 | The Gnostic gospels (Thomas, Philip, Nag Hammadi) | `gnosticism/` |
 | The published website source | `jesus-site-reference/` |
 | **The Reading Room — the public front door to the cards** | `site/` — static site built from `questions/`, every source stamped HELD / NOT YET HELD by the build. See `site/README.md` |
+| **The Desk — a workbench, not a front page** | `site/` also holds the Desk: the same evidence on an open surface, reached from a case file's OPEN ON THE DESK tab or by link, never from the homepage. See `site/DESK.md`. **`site/` is the viewer.** Contributors write cards and texts; the site reads what they write. You never need to open `site/` to contribute. |
 | The Jesus Way podcast raw transcripts | `podcast-archive/the-jesus-way/` (65 episodes) |
 | Dr. James Tabor's "Paul" playlist, synthesized (77 videos) | `podcast-archive/dr-tabor/` |
 | Kameron Waters' channel transcripts (7 videos) | `podcast-archive/kameron-waters/` |
