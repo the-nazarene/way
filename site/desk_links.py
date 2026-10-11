@@ -285,9 +285,12 @@ def _prepared_desks(root, cards, verses, docs, warnings, moments=None, resolve_p
             else:
                 warnings.append(f"desks/{name}: {iid} is not in this build, left off the desk")
         links = []
-        for a, b in d["desk"].get("ln", []):
+        for ln in d["desk"].get("ln", []):
+            # [a, b] or [a, b, words]: the words a string carries, as canvas.js reads them.
+            a, b = ln[0], ln[1]
+            words = " ".join(ln[2].split())[:40] if len(ln) > 2 and isinstance(ln[2], str) else ""
             if a in ids and b in ids:
-                links.append([a, b])
+                links.append([a, b, words] if words else [a, b])
             else:
                 warnings.append(f"desks/{name}: string {a} -> {b} has a missing end, left off")
         desk = dict(d["desk"], it=kept, ln=links)

@@ -881,8 +881,9 @@
   }
 
   function drawLinks() {
-    var svg = $('links');
+    var svg = $('links'), top = $('linkWords');
     while (svg.firstChild) svg.removeChild(svg.firstChild);
+    while (top.firstChild) top.removeChild(top.firstChild);
     for (var i = 0; i < links.length; i++) {
       var a = itemById(links[i].a), b = itemById(links[i].b);
       if (!a || !b) continue;
@@ -908,6 +909,7 @@
           if (presenting) return;
           selectLink(selLink === k ? null : k);
         });
+        hit.addEventListener('dblclick', function (e) { e.stopPropagation(); editWords(k); });
       })(key);
       svg.appendChild(hit);
 
@@ -918,9 +920,128 @@
       line.setAttribute('vector-effect', 'non-scaling-stroke');
       svg.appendChild(line);
 
-      if (picked && !presenting) svg.appendChild(cutButton(key, (pa.x + pb.x) / 2, (pa.y + pb.y) / 2));
+      var mx = (pa.x + pb.x) / 2, my = (pa.y + pb.y) / 2, half = 0;
+      if (links[i].words && wordsEdit !== key)
+        half = stringWords(key, links[i].words, mx, my, (isOther ? ' other' : '') + (dim ? ' dim' : '') + (picked ? ' is-picked' : ''));
+      if (picked && !presenting) {
+        var gap = 16 / tf.scale;
+        top.appendChild(cutButton(key, mx + (half ? half + gap : gap), my));
+        if (wordsEdit !== key) top.appendChild(wordsButton(key, mx - (half ? half + gap : gap), my));
+      }
     }
     if (tempLine) svg.appendChild(tempLine);
+  }
+
+  /* ================= words on string =================
+     A string can say why it is there: "answers", "quotes", "same words".
+     The words sit at its middle, above the cards, at the desk's own scale. */
+
+  var WORDS_MAX = 40;
+  var wordsEdit = null;      // the string whose words are being written
+  var wordsWidth = {};       // measured text widths, so a redraw does not re-measure
+
+  function linkByKey(key) {
+    for (var i = 0; i < links.length; i++) if (linkKey(links[i]) === key) return links[i];
+    return null;
+  }
+
+  function cleanWords(w) { return typeof w === 'string' ? w.replace(/\s+/g, ' ').trim().slice(0, WORDS_MAX) : ''; }
+
+  /* Draws one string's words; returns half their width, in desk units. */
+  function stringWords(key, text, x, y, cls) {
+    var g = svgEl('g');
+    g.setAttribute('class', 'string-words' + cls);
+    g.setAttribute('data-link', key);
+    g.setAttribute('transform', 'translate(' + x + ',' + y + ')');
+    var r = svgEl('rect'), t = svgEl('text');
+    t.setAttribute('text-anchor', 'middle');
+    t.setAttribute('dy', '0.35em');
+    t.textContent = text;
+    g.appendChild(r); g.appendChild(t);
+    $('linkWords').appendChild(g);
+    var w = wordsWidth[text];
+    if (!w) {
+      w = t.getComputedTextLength ? t.getComputedTextLength() : 0;
+      if (w) wordsWidth[text] = w; else w = text.length * 7.2;   // hidden desk (a phone's list): estimate
+    }
+    r.setAttribute('x', -w / 2 - 7); r.setAttribute('y', -11);
+    r.setAttribute('width', w + 14); r.setAttribute('height', 22);
+    r.setAttribute('rx', 2);
+    g.addEventListener('pointerdown', function (e) { e.stopPropagation(); });
+    g.addEventListener('click', function (e) {
+      e.stopPropagation();
+      if (presenting) return;
+      selectLink(selLink === key ? null : key);
+    });
+    g.addEventListener('dblclick', function (e) { e.stopPropagation(); editWords(key); });
+    return w / 2 + 7;
+  }
+
+  /* The Aa beside a selected string's x: write or change its words. */
+  function wordsButton(key, x, y) {
+    var g = svgEl('g');
+    g.setAttribute('class', 'string-words-btn');
+    g.setAttribute('transform', 'translate(' + x + ',' + y + ') scale(' + (1 / tf.scale) + ')');
+    var c = svgEl('circle');
+    c.setAttribute('r', '11');
+    g.appendChild(c);
+    var t = svgEl('text');
+    t.setAttribute('text-anchor', 'middle');
+    t.setAttribute('dy', '0.35em');
+    t.textContent = 'Aa';
+    g.appendChild(t);
+    var label = svgEl('title');
+    label.textContent = 'Write words on this string';
+    g.appendChild(label);
+    g.addEventListener('pointerdown', function (e) { e.stopPropagation(); });
+    g.addEventListener('click', function (e) { e.stopPropagation(); editWords(key); });
+    return g;
+  }
+
+  function editWords(key) {
+    var l = linkByKey(key);
+    if (!l || presenting || wordsEdit) return;
+    var a = itemById(l.a), b = itemById(l.b);
+    if (!a || !b) return;
+    var pa = pinPoint(a), pb = pinPoint(b);
+    wordsEdit = key;
+    selLink = key; sel = {}; renderSelection();
+    drawLinks();
+    var inp = el('input', 'string-words-edit');
+    inp.type = 'text';
+    inp.maxLength = WORDS_MAX;
+    inp.value = l.words || '';
+    inp.placeholder = 'answers, quotes, same words…';
+    inp.setAttribute('list', 'stringWordsList');
+    inp.setAttribute('aria-label', 'Words on this string');
+    inp.style.left = ((pa.x + pb.x) / 2) + 'px';
+    inp.style.top = ((pa.y + pb.y) / 2) + 'px';
+    inp.style.transform = 'translate(-50%, -50%) scale(' + (1 / tf.scale) + ')';
+    $('world').appendChild(inp);
+    var done = false;
+    function finish(keep) {
+      if (done) return;
+      done = true;
+      var v = cleanWords(inp.value);
+      if (inp.parentNode) inp.parentNode.removeChild(inp);
+      wordsEdit = null;
+      if (keep && v !== (l.words || '') && links.indexOf(l) >= 0) {
+        pushUndo();
+        if (v) l.words = v; else delete l.words;
+        save();
+        hint(v ? 'The string says “' + v + '”. Ctrl-Z takes it back.' : 'Words taken off the string.');
+      }
+      drawLinks();
+      $('surface').focus({ preventScroll: true });
+    }
+    inp.addEventListener('pointerdown', function (e) { e.stopPropagation(); });
+    inp.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') { e.preventDefault(); finish(true); }
+      else if (e.key === 'Escape') { e.preventDefault(); e.stopPropagation(); finish(false); }
+    });
+    inp.addEventListener('blur', function () { finish(true); });
+    inp.focus(); inp.select();
+    hint('Write what this string means. Enter keeps it, Esc leaves it as it was. Empty takes the words off.');
   }
 
   function linkKey(l) { return l.a + '|' + l.b; }
@@ -929,7 +1050,7 @@
     selLink = key;
     if (key) { sel = {}; renderSelection(); }
     drawLinks();
-    if (key) hint('String selected. Delete, or the x on it, takes it off. Esc lets go.');
+    if (key) hint('String selected. Aa or a double-click writes words on it. Delete, or the x, takes it off. Esc lets go.');
   }
 
   function cutLink(key) {
@@ -1931,14 +2052,16 @@
     links.forEach(function (l) {
       var o = l.a === it.id ? l.b : (l.b === it.id ? l.a : null);
       var oi = o && itemById(o);
-      if (oi && oi.t !== 'frame') tied.push(oi);
+      if (oi && oi.t !== 'frame') tied.push({ it: oi, words: l.words || '' });
     });
     if (tied.length) {
       var w = el('div', 'phone-ties');
       w.appendChild(el('span', 'eyebrow', 'TIED TO'));
-      tied.forEach(function (o) {
-        var b = el('button', null, itemLabel(o));
+      tied.forEach(function (t) {
+        var o = t.it, b = el('button');
         b.type = 'button';
+        if (t.words) b.appendChild(el('em', 'tie-words', t.words));
+        b.appendChild(document.createTextNode(itemLabel(o)));
         b.addEventListener('click', function () { phoneGo(o.id); });
         w.appendChild(b);
       });
@@ -2498,7 +2621,7 @@
       else if (o.t === 'frame') it.push(['f', o.title || '', o.x, o.y, o.w, o.h, o.ci || 0]);
     }
     var ln = [];
-    for (var j = 0; j < links.length; j++) ln.push([links[j].a, links[j].b]);
+    for (var j = 0; j < links.length; j++) ln.push(links[j].words ? [links[j].a, links[j].b, links[j].words] : [links[j].a, links[j].b]);
     return JSON.stringify({ v: 1, vp: [Math.round(tf.x), Math.round(tf.y), +tf.scale.toFixed(3)], it: it, ln: ln });
   }
 
@@ -2525,7 +2648,9 @@
     var live = {};
     for (var k = 0; k < items.length; k++) live[items[k].id] = true;
     for (var l = 0; l < (s.ln || []).length; l++) {
-      if (live[s.ln[l][0]] && live[s.ln[l][1]]) links.push({ a: s.ln[l][0], b: s.ln[l][1] });
+      if (!live[s.ln[l][0]] || !live[s.ln[l][1]]) continue;
+      var lw = cleanWords(s.ln[l][2]);
+      links.push(lw ? { a: s.ln[l][0], b: s.ln[l][1], words: lw } : { a: s.ln[l][0], b: s.ln[l][1] });
     }
     if (s.vp) { tf.x = s.vp[0]; tf.y = s.vp[1]; tf.scale = clamp(s.vp[2] || 1, MIN_Z, MAX_Z); }
   }

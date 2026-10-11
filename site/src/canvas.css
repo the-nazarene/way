@@ -558,10 +558,10 @@ body.presenting .surface::after { bottom: 0; height: 130px; background: linear-g
 /* A string answers the pointer, and a selected one wears the pad yellow with an x to take it off. */
 .links .string-hit:hover + .string-line { stroke-width: 4; }
 .string-line.is-picked { stroke: var(--pad); stroke-width: 4; stroke-dasharray: none; }
-.links .string-cut { pointer-events: all; cursor: pointer; }
-.string-cut circle { fill: #18181b; stroke: var(--pad); stroke-width: 2; }
+.links .string-cut, .links .string-words-btn { pointer-events: all; cursor: pointer; }
+.string-cut circle, .string-words-btn circle { fill: #18181b; stroke: var(--pad); stroke-width: 2; }
 .string-cut path { stroke: var(--pad); stroke-width: 2.2; stroke-linecap: round; fill: none; }
-.string-cut:hover circle { fill: var(--pad); }
+.string-cut:hover circle, .string-words-btn:hover circle { fill: var(--pad); }
 .string-cut:hover path { stroke: var(--ink); }
 
 /* ---------- the ? panel ---------- */
@@ -672,3 +672,23 @@ body.phone-desk .desk-tools .tool-group.right .tool:not(.present) { display: non
 body.phone-desk #btnFrame, body.phone-desk #btnNote, body.phone-desk #btnTidy,
 body.phone-desk #btnSnap, body.phone-desk #btnString { display: none; }
 body.phone-desk .surface { height: 78vh; }
+
+/* ---------- words on string ---------- */
+/* Above the cards and section frames, so the words are never hidden under a card. */
+.links.words { z-index: 4; }
+.string-words { pointer-events: all; cursor: pointer; transition: opacity 0.45s ease; user-select: none; -webkit-user-select: none; }
+.string-words rect { fill: var(--board, #18181b); stroke: var(--string); stroke-width: 1.5; }
+.string-words text { fill: #f4efe2; font-family: var(--mono); font-size: 12px; }
+.string-words.other rect { stroke: var(--string-grey); stroke-dasharray: 4 3; }
+.string-words.is-picked rect { stroke: var(--pad); stroke-width: 2.5; }
+.string-words.dim { opacity: 0.1; }
+.string-words:hover rect { stroke-width: 2.5; }
+.string-words-btn text { fill: var(--pad); font-family: var(--mono); font-size: 10px; font-weight: 700; pointer-events: none; }
+.string-words-btn:hover text { fill: var(--ink); }
+.string-words-edit {
+  position: absolute; z-index: 7; transform-origin: 50% 50%; width: 220px;
+  font-family: var(--mono); font-size: 13px; padding: 5px 8px;
+  background: var(--pad); color: var(--ink); border: 2px solid var(--string); outline: none;
+}
+.phone-ties .tie-words { font-style: normal; color: var(--string); margin-right: 6px; }
+@media (prefers-reduced-motion: reduce) { .string-words { transition: none; } }

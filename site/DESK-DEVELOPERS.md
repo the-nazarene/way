@@ -111,6 +111,8 @@ The file is organized under banner comments. Search for the banner, not a line n
 | `the thread` | `spawn()`: a link becomes a card beside its origin, tied by string |
 | `rendering` | one builder per card kind; `renderAll()` redraws everything |
 | `string`, `snapping`, `frames` | `drawLinks()`, `selectLink()` / `cutLink()` (select a string, then Delete or its x), `snapDelta()` (22px stack gap), `membersOf()` (spatial, never stored), `startRename()` |
+| `words on string` | `stringWords()` draws them, `editWords()` writes them, `cleanWords()` tidies them; they live in their own layer, `#linkWords`, above the cards |
+| `phones: the desk as a list` | `applyPhone()`, `renderPhone()`, `phoneCard()` (TIED TO), `wirePhone()` |
 | `interaction` | pointer and keyboard handling; `openItem()` opens a card's reader |
 | `fit and tidy` | `fitTarget()`, `fitBox()`, `tidy()` |
 | `the trays` / `a case file, open in the tray` | tray rendering, `openTrayCase()` |
@@ -126,7 +128,7 @@ The file is organized under banner comments. Search for the banner, not a line n
 
 ## The desk model
 
-Everything on a desk is an item in `items`, in paint order. Strings are pairs of ids in `links`.
+Everything on a desk is an item in `items`, in paint order. Strings are pairs of ids in `links`, with optional `words`.
 
 | Kind | `t` | Id | Saved as |
 |---|---|---|---|
@@ -137,7 +139,7 @@ Everything on a desk is an item in `items`, in paint order. Strings are pairs of
 | Note | `note` | `n:<n>` | `['n', text, x, y, w]` |
 | Frame (a section) | `frame` | `f:<n>` | `['f', title, x, y, w, h, colour]` |
 
-A saved desk is `{ v: 1, vp: [x, y, zoom], it: [...], ln: [[id, id], ...] }`. COPY JSON copies exactly that, the share link carries it URL-encoded after `#b=`, and a prepared desk wraps it. Notes and frames are numbered in the order they appear, so `n:` and `f:` ids depend on that order.
+A saved desk is `{ v: 1, vp: [x, y, zoom], it: [...], ln: [[id, id], [id, id, words], ...] }`. A string's words are an optional third entry, so older desks and links still open. COPY JSON copies exactly that, the share link carries it URL-encoded after `#b=`, and a prepared desk wraps it. Notes and frames are numbered in the order they appear, so `n:` and `f:` ids depend on that order.
 
 **Sources are referenced by index**, so a card's `sources` list is **append-only**. Inserting a source in the middle would silently re-point every desk that uses that card.
 
@@ -196,7 +198,7 @@ npm test             # builds the site, serves it, runs every suite
 npm test -- present  # one suite
 ```
 
-About five minutes for all of it, 370 checks. Chrome is found automatically. Set `CHROME_PATH` if it isn't, or `DESK_URL` to test a site that's already being served. Screenshots go to your temp folder (`desk-test-shots`).
+About five minutes for all of it, 409 checks. Chrome is found automatically. Set `CHROME_PATH` if it isn't, or `DESK_URL` to test a site that's already being served. Screenshots go to your temp folder (`desk-test-shots`).
 
 | Suite | Covers |
 |---|---|
@@ -209,6 +211,7 @@ About five minutes for all of it, 370 checks. Chrome is found automatically. Set
 | `file` | Desk files: save, clear the browser, open it back; refusing non-desk files; dropping a file on the desk |
 | `help` | The ? panel: opening, closing, focus, small screens, out of the way while presenting |
 | `episodes` | Every episode board: each card the build kept is shown, no overlaps, moments stamped pointer, readers, search, keeping a board, invented moments dropped |
+| `words` | Words on string: writing them by double-click and Aa, Enter, Esc, clearing, the 40-letter limit, undo, saving, reloading, desk links, presenting, phones, bad data |
 | `phone` | Phones: the desk as a list (every card once, sections in order, TIED TO, no sideways scroll), tapping to read, the thread opening without pinning, OPEN AS A DESK and back, present, an empty desk, a window narrowed and widened |
 
 Two things that bite when writing tests: Chrome doesn't paint background tabs, so call `bringToFront()` on a page before measuring or screenshotting it after opening another. And scroll a tray item into view before dragging it.
@@ -232,7 +235,7 @@ Ideas with a rough priority. Pick one up, or argue for a different one on the PR
 1. ~~**A preview site.**~~ Done: <https://nazarene-desk.pages.dev> serves this branch, on Rex's free Cloudflare account, separate from nazareneway.com and hidden from search engines. Rex or his Claude redeploys it after a push (`python site/build.py`, add a `_headers` file with `X-Robots-Tag: noindex`, then `npx wrangler pages deploy <folder> --project-name nazarene-desk --branch main`), and `DESK_URL=https://nazarene-desk.pages.dev/ npm test` checks it live.
 2. ~~**Phones get a read-only desk.**~~ Done: phones read a desk as a list (`phone` suite).
 3. **Objections as cards.** `data.json` already carries 19 objections raised by named critics and 73 prepared on the cards. An OBJECTIONS tray, filterable by who raises them, drags an objection onto the desk with its answer tied by string, and can show the two side by side.
-4. **Labels on string.** A few typed words on a connection: "same proof text", "answers this".
+4. ~~**Labels on string.**~~ Done: words on string (`words` suite).
 5. **A simpler toolbar.** Fold COPY JSON and CLEAR into a menu, rename COPY DESK LINK to SHARE, and give the empty desk a one-click start.
 6. **Print a section** as a one-page handout.
 7. **Debt:** share the reader pane between `app.js` and `canvas.js`; move `familyOf` into `build.py` as a `family` field (both need Matt's say).
