@@ -1835,6 +1835,25 @@
       li.appendChild(pres);
       ul.appendChild(li);
     });
+    renderEmptyStart();
+  }
+
+  /* An empty desk starts in one click: a prepared desk, or a first note. */
+  function renderEmptyStart() {
+    var all = LINKS.desks || [], box = $('emptyDesks');
+    box.innerHTML = '';
+    $('emptyStart').hidden = !all.length;
+    all.slice(0, 3).forEach(function (d) {
+      var b = el('button', 'tool');
+      b.type = 'button';
+      b.setAttribute('data-desk', d.slug);
+      b.appendChild(el('small', null, 'PREPARED · ' + d.desk.it.filter(function (x) { return x[0] !== 'f'; }).length + ' on the desk'));
+      b.appendChild(document.createTextNode(d.title));
+      b.title = d.subtitle || d.title;
+      b.addEventListener('click', function () { location.hash = 'desk=' + d.slug; });
+      box.appendChild(b);
+    });
+    if (all.length > 3) box.appendChild(el('p', 'small', (all.length - 3) + ' more under PREPARED DESKS in the trays.'));
   }
 
   function renderTrayPlaced() {
@@ -2172,8 +2191,18 @@
     return 0;
   }
 
+  /* ⋯ MORE holds what is used rarely: opening a file, the JSON, clearing. */
+  function toggleMore(open) {
+    var m = $('moreMenu'), on = open == null ? m.hidden : open;
+    m.hidden = !on;
+    $('btnMore').setAttribute('aria-expanded', on ? 'true' : 'false');
+    if (on) m.querySelector('button').focus();
+  }
+  function closeMore() { if (!$('moreMenu').hidden) toggleMore(false); }
+
   function startPresent(at, full) {
     if (!items.length) { hint('There is nothing on the desk to present yet.'); return; }
+    closeMore();
     if (presenting) { goSlide(at || 0); return; }
     closeReader();
     toggleHelp(false);
@@ -2792,7 +2821,7 @@
   function wireHelp() {
     /* A Mac's key is Command, not Control. */
     if (/Mac|iPhone|iPad/.test(navigator.platform || '')) {
-      var mods = document.querySelectorAll('#helpPanel [data-mod]');
+      var mods = document.querySelectorAll('[data-mod]');
       for (var i = 0; i < mods.length; i++) mods[i].textContent = '⌘';
     }
     $('btnHelp').addEventListener('click', function () { toggleHelp(); });
@@ -2858,7 +2887,7 @@
 
   function wireFiles() {
     $('btnSaveFile').addEventListener('click', function () { this.blur(); saveFile(); });
-    $('btnOpenFile').addEventListener('click', function () { this.blur(); $('fileOpen').value = ''; $('fileOpen').click(); });
+    $('btnOpenFile').addEventListener('click', function () { closeMore(); $('fileOpen').value = ''; $('fileOpen').click(); });
     $('fileOpen').addEventListener('change', function () { readDeskFile(this.files && this.files[0]); });
     /* A desk file dropped anywhere on the desk opens too. */
     var surface = $('surface');
@@ -3424,12 +3453,29 @@
     });
 
     $('btnJson').addEventListener('click', function () {
-      copyText(encode(), this);
+      closeMore();
+      copyText(encode(), $('btnMore'));
       hint('Desk JSON copied.');
     });
 
+    $('btnMore').addEventListener('click', function () { toggleMore(); });
+    $('moreMenu').addEventListener('keydown', function (e) {
+      var b = [].slice.call(this.querySelectorAll('button')), at = b.indexOf(document.activeElement);
+      if (e.key === 'ArrowDown') { b[(at + 1) % b.length].focus(); e.preventDefault(); }
+      else if (e.key === 'ArrowUp') { b[(at - 1 + b.length) % b.length].focus(); e.preventDefault(); }
+      else if (e.key === 'Escape') { closeMore(); $('btnMore').focus(); e.preventDefault(); e.stopPropagation(); }
+      else if (e.key === 'Tab') closeMore();
+    });
+    document.addEventListener('pointerdown', function (e) {
+      if (!$('moreMenu').hidden && !e.target.closest('.more')) closeMore();
+    });
+    $('btnStartNote').addEventListener('click', function () { $('btnNote').click(); });
+    /* The start buttons sit on the surface; a press on them is not the start of a box-select. */
+    $('emptyStart').addEventListener('pointerdown', function (e) { e.stopPropagation(); });
+
     $('btnClear').addEventListener('click', function () {
-      if (!items.length) return;
+      closeMore();
+      if (!items.length) { hint('The desk is already empty.'); return; }
       if (!window.confirm('Clear the desk? Ctrl-Z will still bring it back this session.')) return;
       pushUndo();
       items = []; links = []; sel = {};
@@ -3449,7 +3495,10 @@
 
     var input = $('dq');
     input.addEventListener('input', function () { showSuggest(input.value); });
-    input.addEventListener('blur', function () { setTimeout(function () { $('dsuggest').hidden = true; }, 150); });
+    /* Suggestions act on mousedown and keep the focus, so the list can go the
+       moment the box loses it; left up, it covered the toolbar and took a
+       click meant for PRESENT. */
+    input.addEventListener('blur', function () { $('dsuggest').hidden = true; input.setAttribute('aria-expanded', 'false'); });
     input.addEventListener('keydown', function (e) { if (e.key === 'Escape') $('dsuggest').hidden = true; });
     $('deskSearch').addEventListener('submit', submitSearch);
 

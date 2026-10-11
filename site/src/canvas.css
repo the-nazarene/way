@@ -47,7 +47,7 @@
    wraps when the window is small, not the group. Without nowrap the group with
    the auto margin collapses to its widest button and stacks. */
 .tool-group { display: flex; gap: 6px; flex-wrap: nowrap; flex: 0 0 auto; }
-.tool-group.right { margin-left: auto; }
+.tool-group.tools-end { margin-left: auto; }
 .tool { flex: 0 0 auto; white-space: nowrap; }
 .tool {
   font-family: var(--type); font-size: 12px; letter-spacing: 1px;
@@ -284,7 +284,7 @@
   .tray { flex: 1 1 auto; width: 100%; max-height: 280px; }
   .tray.is-collapsed { width: 100%; flex-basis: auto; }
   .surface { height: 62vh; min-height: 360px; }
-  .desk-tools .tool-group.right { margin-left: 0; }
+  .desk-tools .tool-group.tools-end { margin-left: 0; }
   /* On a phone the groups themselves may wrap, so the rail never overflows. */
   .desk-tools .tool-group { flex-wrap: wrap; }
 }
@@ -668,7 +668,7 @@ body.phone-reading .shared-bar .shared-text { display: none; }
 .reader-body, .reader-note { overflow-wrap: anywhere; }
 /* The real desk on a phone: the way back on top, the surface big, the editing kit put away. */
 body.phone-desk .desk-form, body.phone-desk .tray { display: none; }
-body.phone-desk .desk-tools .tool-group.right .tool:not(.present) { display: none; }
+body.phone-desk .desk-tools .tool-group.tools-end > :not(.present) { display: none; }
 body.phone-desk #btnFrame, body.phone-desk #btnNote, body.phone-desk #btnTidy,
 body.phone-desk #btnSnap, body.phone-desk #btnString { display: none; }
 body.phone-desk .surface { height: 78vh; }
@@ -692,3 +692,31 @@ body.phone-desk .surface { height: 78vh; }
 }
 .phone-ties .tie-words { font-style: normal; color: var(--string); margin-right: 6px; }
 @media (prefers-reduced-motion: reduce) { .string-words { transition: none; } }
+
+/* ---------- the MORE menu and the empty desk's start ---------- */
+/* The rail's right end was once .right, which styles.css (the Reading Room)
+   already uses for a column; it is .tools-end so the two never meet. */
+.more { position: relative; flex: 0 0 auto; }
+.more-menu {
+  position: absolute; right: 0; top: calc(100% + 4px); z-index: 30; min-width: 210px;
+  display: flex; flex-direction: column; padding: 4px;
+  background: var(--drawer-dark); border: 1px solid var(--board-border); box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+}
+.more-menu[hidden] { display: none; }
+.more-menu button {
+  display: flex; justify-content: space-between; align-items: center; gap: 12px; width: 100%;
+  font-family: var(--type); font-size: 12px; letter-spacing: 1px; text-align: left;
+  padding: 9px 10px; background: transparent; color: var(--text-light); border: 0; cursor: pointer;
+}
+.more-menu button:hover, .more-menu button:focus-visible { background: var(--drawer); color: #ffffff; outline: none; }
+.more-menu button.danger { border-top: 1px solid var(--board-border); margin-top: 4px; color: #ffb4b4; }
+.more-menu button.danger:hover, .more-menu button.danger:focus-visible { background: #3a2222; color: #ffd6d6; }
+.more-menu .menu-key { margin-left: auto; font-family: var(--mono); font-size: 10px; color: var(--muted-light); white-space: nowrap; }
+.more-menu kbd { font-family: inherit; }
+.tool.more-btn[aria-expanded="true"] { background: var(--drawer); color: #ffffff; }
+.empty-start { pointer-events: auto; margin-bottom: 18px; }
+.empty-start p { color: var(--text-light); }
+.empty-desks { display: flex; flex-direction: column; gap: 6px; margin: 10px 0 2px; }
+.empty-desks .tool { white-space: normal; text-align: left; line-height: 1.35; }
+.empty-desks .tool small { display: block; font-family: var(--mono); font-size: 10px; letter-spacing: 0; color: var(--muted-light); margin-bottom: 2px; }
+.empty-start #btnStartNote { margin-top: 6px; }

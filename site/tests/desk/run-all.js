@@ -19,7 +19,8 @@ const SUITES = [
   ['help', 'the ? panel of controls'],
   ['episodes', 'episode boards: transcript moments, outside sources, checks'],
   ['phone', 'phones: the desk as a list, the reader, and the real desk one tap away'],
-  ['words', 'words on string: writing, saving, sharing, presenting, phones']
+  ['words', 'words on string: writing, saving, sharing, presenting, phones'],
+  ['toolbar', 'the toolbar: one row, the MORE menu, a one-click start on an empty desk']
 ];
 
 const ROOT = path.join(__dirname, '..', '..', '..');

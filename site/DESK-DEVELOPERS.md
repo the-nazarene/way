@@ -46,7 +46,7 @@ Everything an assistant needs is in this file and the two it links. The rules be
 
 - **Comment on [pull request #9](https://github.com/the-nazarene/way/pull/9).** Anything goes: a feature idea, something confusing, a bug. Comment on a specific line of a specific file if it's about that.
 - **Open an issue** on the-nazarene/way for anything bigger, titled "Desk: …".
-- **Propose a prepared desk.** Lay out an argument on the Desk, press COPY JSON, and paste it into an issue with a title and a one-line description. See *Add a prepared desk* below for how it becomes one.
+- **Propose a prepared desk.** Lay out an argument on the Desk, press ⋯ MORE → COPY JSON, and paste it into an issue with a title and a one-line description. See *Add a prepared desk* below for how it becomes one.
 - **Found a wrong citation?** The link in the Desk's footer files it. Those are fixed on the cards, never on the desk.
 
 ---
@@ -155,7 +155,7 @@ Excerpts go in `christianity/Incoming/`, each with its translator, edition, URL 
 
 ### Add a prepared desk
 1. Lay it out on the Desk. Use frames for sections: each frame becomes a slide in present mode.
-2. COPY JSON.
+2. ⋯ MORE → COPY JSON.
 3. Create `site/data/desks/<slug>.json`:
    ```json
    { "slug": "<slug>", "title": "...", "subtitle": "one line, shown in the bar and on the overview slide", "by": "...", "desk": <paste> }
@@ -198,7 +198,7 @@ npm test             # builds the site, serves it, runs every suite
 npm test -- present  # one suite
 ```
 
-About five minutes for all of it, 409 checks. Chrome is found automatically. Set `CHROME_PATH` if it isn't, or `DESK_URL` to test a site that's already being served. Screenshots go to your temp folder (`desk-test-shots`).
+About five minutes for all of it, 439 checks. Chrome is found automatically. Set `CHROME_PATH` if it isn't, or `DESK_URL` to test a site that's already being served. Screenshots go to your temp folder (`desk-test-shots`).
 
 | Suite | Covers |
 |---|---|
@@ -212,6 +212,7 @@ About five minutes for all of it, 409 checks. Chrome is found automatically. Set
 | `help` | The ? panel: opening, closing, focus, small screens, out of the way while presenting |
 | `episodes` | Every episode board: each card the build kept is shown, no overlaps, moments stamped pointer, readers, search, keeping a board, invented moments dropped |
 | `words` | Words on string: writing them by double-click and Aa, Enter, Esc, clearing, the 40-letter limit, undo, saving, reloading, desk links, presenting, phones, bad data |
+| `toolbar` | The toolbar is one row at 1500, 1280 and 1024px; the MORE menu (keys, Esc, click away, each item); SHARE; search suggestions never cover it; the empty desk's one-click start; phones |
 | `phone` | Phones: the desk as a list (every card once, sections in order, TIED TO, no sideways scroll), tapping to read, the thread opening without pinning, OPEN AS A DESK and back, present, an empty desk, a window narrowed and widened |
 
 Two things that bite when writing tests: Chrome doesn't paint background tabs, so call `bringToFront()` on a page before measuring or screenshotting it after opening another. And scroll a tray item into view before dragging it.
@@ -236,6 +237,6 @@ Ideas with a rough priority. Pick one up, or argue for a different one on the PR
 2. ~~**Phones get a read-only desk.**~~ Done: phones read a desk as a list (`phone` suite).
 3. **Objections as cards.** `data.json` already carries 19 objections raised by named critics and 73 prepared on the cards. An OBJECTIONS tray, filterable by who raises them, drags an objection onto the desk with its answer tied by string, and can show the two side by side.
 4. ~~**Labels on string.**~~ Done: words on string (`words` suite).
-5. **A simpler toolbar.** Fold COPY JSON and CLEAR into a menu, rename COPY DESK LINK to SHARE, and give the empty desk a one-click start.
+5. ~~**A simpler toolbar.**~~ Done: one row, SHARE, ⋯ MORE, and a one-click start (`toolbar` suite).
 6. **Print a section** as a one-page handout.
 7. **Debt:** share the reader pane between `app.js` and `canvas.js`; move `familyOf` into `build.py` as a `family` field (both need Matt's say).

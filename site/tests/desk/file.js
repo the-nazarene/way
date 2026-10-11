@@ -40,7 +40,14 @@ const waitFile = async (n, ms) => { const t0 = Date.now(); while (Date.now() - t
   ok('an empty desk has nothing to save, and says so', files().length === 0 && /nothing to save/.test(await hint()));
 
   await open('#desk=essenes-sacrifice-meat');
-  ok('SAVE FILE and OPEN FILE are on the toolbar', await p.evaluate(() => ['btnSaveFile', 'btnOpenFile'].every(id => document.getElementById(id).offsetParent !== null)));
+  ok('SAVE FILE is on the toolbar, OPEN FILE one click away under MORE', await p.evaluate(() => {
+    const vis = id => document.getElementById(id).offsetParent !== null;
+    if (!vis('btnSaveFile') || vis('btnOpenFile')) return false;
+    document.getElementById('btnMore').click();
+    const shown = vis('btnOpenFile');
+    document.getElementById('btnMore').click();
+    return shown;
+  }));
   await p.click('#btnSaveFile');
   const got = await waitFile(1);
   const saved = got ? files()[0] : null;
@@ -87,7 +94,7 @@ const waitFile = async (n, ms) => { const t0 = Date.now(); while (Date.now() - t
   await upload(raw); await sleep(900);
   ok('a bare COPY JSON layout opens too', (await nodes()) === 2 && /A DESK FROM A FILE · COPIED-LAYOUT/.test((await bar()).eyebrow), (await bar()).eyebrow);
   await p.click('#btnShare'); await sleep(200);
-  ok('COPY DESK LINK on a file desk copies the whole layout, not a short name', /^Desk link copied/.test(await hint()), await hint());
+  ok('SHARE on a file desk copies the whole layout, not a short name', /^Desk link copied/.test(await hint()), await hint());
   await p.click('#btnBackMine'); await sleep(400);
 
   const junk = path.join(DL, 'notes.json');
