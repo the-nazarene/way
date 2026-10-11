@@ -186,6 +186,10 @@ That's it. It isn't a taste judgment and it isn't a gate — it's a second pair 
 
 You don't need to be added to anything. **Fork** the repo — your own complete copy under your own account, no permission required — make your changes there, and open a pull request. Any maintainer can review and merge it. That's the normal path for anyone outside the core group, and it's also a perfectly good path if you'd just rather work that way.
 
+### What you're agreeing to
+
+Whatever you contribute is given away on the same terms as everything else here: writing under **CC BY 4.0**, code under **MIT** (see `LICENSE-CONTENT.md` and `LICENSE`). Only contribute what's yours to give: your own words, public-domain texts, and short cited quotations.
+
 ---
 
 ## Folder & Naming Conventions

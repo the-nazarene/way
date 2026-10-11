@@ -136,4 +136,10 @@ Broader cross-tradition perennial philosophy, comparative mysticism, and tangent
 
 ---
 
+## License
+
+Give it away. Our research and writing are **CC BY 4.0**: use, share and adapt them freely, and credit The Way so your readers can trace each claim to its sources. The code is **MIT**. Texts that belong to other people (copyrighted translations, podcast transcripts, quotations) are not ours to license; [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md) lists them.
+
+---
+
 *A labor of love. Take what's useful. Verify everything. Read the primary sources for yourself.*
