@@ -2785,7 +2785,7 @@
   }
 
   function roomLink(card, idx) {
-    var base = location.origin + location.pathname.replace(/canvas\.html$/, 'index.html');
+    var base = location.origin + location.pathname.replace(/canvas(\.html)?$/, 'index.html');
     return base + '#/' + card.slug + (idx != null ? '/' + idx : '');
   }
 
