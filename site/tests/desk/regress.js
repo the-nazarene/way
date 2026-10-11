@@ -332,7 +332,10 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   const mob = await browser.newPage();
   await mob.setViewport({ width: 390, height: 844 });
   await mob.goto(URL, { waitUntil: 'networkidle0' });
-  await sleep(400);
+  /* The list is drawn once the desk's data arrives, which over a real
+     network can take longer than a fixed pause; wait for it, up to 5s. */
+  await mob.waitForFunction(() => !document.getElementById('phoneList').hidden, { timeout: 5000 }).catch(() => {});
+  await sleep(200);
   const listFirst = await mob.evaluate(() => !document.getElementById('phoneList').hidden &&
     getComputedStyle(document.querySelector('.desk')).display === 'none');
   ok('narrow screens open on the list', listFirst);
