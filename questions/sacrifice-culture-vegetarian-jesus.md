@@ -81,6 +81,24 @@ Correct, and we should never have implied otherwise. Be accurate here, because t
 
 What Qumran actually gives us is narrower and still worth having. It is documentary proof that first-century Judaism contained a substantial, literate, priestly movement that judged the operating Temple's sacrifices *invalid*, withdrew from them entirely, and ran a community that substituted prayer, right conduct, and communal purity in the interim (the Community Rule's atonement language at 1QS 3:4-7 and 8:12-14 does this work). That removes the background assumption — that no serious first-century Jew would oppose the Temple cult — and it tells us the Nazarene movement grew in soil where Temple rejection was already thinkable. **Our claim that God never commanded sacrifice rests on the Hebrew prophets** — Jeremiah 7:22, Amos 5:25, Isaiah 1:11-12 — **not on the scrolls.** Let the scrolls establish the context, not the thesis.
 
+### "The Theosophical Society invented the vegetarian Jesus. Until Blavatsky, Jesus was never linked with the Essenes."
+The objection as raised (John Davis, played on Jesus Way episode 026): "the only writings that say he were came out of the Theosophical Society" (17:20), and until Madame Blavatsky "created the Theosophical Society... Joshua was never linked with the Essenes" (21:22). Auto-captions; the words are his, the spelling is the transcriber's.
+
+**Concede the true part first.** The modern "vegetarian gospels" are modern. Ouseley's *Gospel of the Holy Twelve*, the book Davis names, was serialized in a Lincolnshire newspaper from 1898 to 1901, and Szekely's *Essene Gospel of Peace* appeared in 1928 by his own account, in English in the late 1930s. Neither has an ancient manuscript behind it, and this repo already ranks Szekely as Tier 4. The esoteric-Christian circle around them did overlap with Theosophy: Anna Kingsford, a vegetarian campaigner, presided over the Theosophical Society's London Lodge in 1883. Don't cite any of them.
+
+**Then check his dates.** The Theosophical Society was founded in New York in 1875. Every witness below is centuries older, and all of it is held in this repo:
+
+- **c. 57 CE.** Paul, who disagreed with them, concedes believers in Rome who eat only vegetables: "another, who is weak, eateth herbs" (Romans 14:2), and "It is good neither to eat flesh, nor to drink wine" (14:21).
+- **c. 170.** Hegesippus on James: "he drank no wine nor strong drink, nor did he eat flesh" (in Eusebius, *Church History* 2.23.5).
+- **c. 200.** Clement of Alexandria: "the apostle Matthew partook of seeds, and nuts, and vegetables, without flesh" (*Paedagogus* 2.1). He thought food indifferent, which makes him a disinterested witness.
+- **3rd century, from earlier Jewish-Christian material.** The true Prophet "was to reject at once the sacrifices and the place" (*Recognitions* 1.37). God "was displeased with the slaughtering of animals" (*Homilies* 3.45). Peter eats "only bread and olives, and rarely pot-herbs" (*Homilies* 12.6).
+- **Early 4th century.** Eusebius: the disciples of Jesus lived "with fasting and abstinence from wine and meat" (*Demonstratio Evangelica* 3.5). He also held that Philo's Therapeutae, who "taste no wine at all, nor any flesh", were the first Christians (*Church History* 2.17). He is wrong about who they were, but it shows the church's own historian tying its origins to a meatless table.
+- **314.** The Council of Ancyra ordered clergy "who abstain from flesh" to taste it, or "be removed from their order" (Canon 14).
+
+The modern Christian vegetarian movement is older than Theosophy too: the Bible Christian Church, founded in Salford in 1809, was vegetarian, and its members helped found the Vegetarian Society in 1847. And the Essene link fails on the same dates. In Karl Bahrdt's life of Jesus (1784-92), Essene brethren inspire the young Jesus "with a horror of the bloody sacrifices of the Temple" (as Schweitzer summarizes it, *Quest*, ch. 4). That is a novel, not evidence, but it is Enlightenment, not Theosophy, ninety years before Blavatsky.
+
+**Then concede the one place the objection bites us.** That *the Essenes* ate no meat has almost no ancient support. Philo says they did not sacrifice animals (*Every Good Man Is Free* 75); neither he nor Josephus says what they ate. Porphyry is routinely quoted for it and does not say it. Only Jerome does (*Against Jovinianus* 2.14, 393 CE), crediting Josephus, who doesn't. So argue the Nazarene movement, which is well attested, not the Essene diet. Every quotation above, with its edition and the notes on what each text does *not* say: `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md`.
+
 ## In One Sentence
 
 - "He said 'I desire mercy, not sacrifice' — and then he walked into the Temple and let the animals out. That's not a metaphor, that's a policy."

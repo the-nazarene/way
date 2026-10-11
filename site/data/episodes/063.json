@@ -1,0 +1,621 @@
+{
+ "episode": "063",
+ "title": "9 Problems With Paul That Christian Apologists Can't Answer",
+ "guests": [],
+ "date": "2026-07-30",
+ "summary": "A single-narrator essay arguing that Paul was a false apostle whose gospel replaced the teaching of Jesus. It walks through nine problems: Paul against Jesus on the law, idol meat, an unfulfilled prophecy, the Damascus vision, 'all things to all men', the apostles' non-endorsement, the thorn in the flesh, early Jewish-Christian rejection, and blood atonement. It closes by urging viewers to read the gospels without a Pauline lens.",
+ "topics": [
+  {
+   "title": "THE LAW AND SALVATION BY WORKS",
+   "lead": "Problem one: Jesus told people to keep the commandments, while Paul said the law was abolished and salvation comes by faith apart from works.",
+   "claims": [
+    {
+     "phrase": "He looks at the man and says, \"Keep the commandments.\"",
+     "ts": "01:58",
+     "speaker": "unclear",
+     "claim": "When the rich young man asks how to inherit eternal life, Jesus answers by telling him to keep the commandments and lists them.",
+     "kind": "scripture",
+     "verdict": "HOLDS",
+     "check": "Matthew 19:17 says \"if thou wilt enter into life, keep the commandments\", and the parallels in Mark and Luke agree. Matthew lists five of the Ten Commandments plus \"love thy neighbour as thyself\" (Leviticus 19:18), so the count is six there, and Mark adds \"Defraud not\". Read verse 21 before quoting: Jesus goes on to \"sell that thou hast... and come and follow me\". The standard Protestant answer is that Jesus is using the law to expose the man's shortfall. The text itself gives an instruction to act, not a creed.",
+     "verses": [
+      "Matthew 19:16-19",
+      "Matthew 19:21",
+      "Mark 10:19",
+      "Luke 18:20"
+     ],
+     "repo": [
+      {
+       "card": "blood-atonement-and-salvation",
+       "source": 0
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "Paul says that Jesus abolished the law of commandments expressed in ordinances. That's the 10 commandments",
+     "ts": "02:44",
+     "speaker": "unclear",
+     "claim": "Ephesians 2 says Jesus abolished the law of commandments in ordinances, and that means the Ten Commandments.",
+     "kind": "scripture",
+     "verdict": "NARROWER",
+     "check": "Ephesians 2:15 does say \"Having abolished in his flesh the enmity, even the law of commandments contained in ordinances\". But verse 14 sets the context as the \"middle wall of partition\" between Jew and Gentile, and the usual reading is the law as a barrier between the two peoples. The same letter goes on to quote one of the Ten Commandments as still binding (Ephesians 6:2, \"Honour thy father and mother\"). Many critical scholars also doubt that Paul wrote Ephesians at all.",
+     "verses": [
+      "Ephesians 2:14-15",
+      "Ephesians 6:2"
+     ],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Epistle to the Ephesians (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Epistle_to_the_Ephesians",
+       "quote": "Raymond E. Brown asserts that about 80% of critical scholarship judges that Paul did not write Ephesians."
+      }
+     ]
+    },
+    {
+     "phrase": "Now, Paul literally told his congregants to curse anyone who disagrees with his gospel.",
+     "ts": "05:06",
+     "speaker": "unclear",
+     "claim": "Paul told his churches to curse anyone who disagreed with his gospel, even an angel.",
+     "kind": "scripture",
+     "verdict": "NARROWER",
+     "check": "Galatians 1:8-9 twice says \"let him be accursed\" of anyone, \"we, or an angel from heaven\", who preaches another gospel. That is Paul pronouncing a curse on rival preachers. It is not an instruction to the congregation to curse people, and it is aimed at preachers, not at anyone who disagrees. The episode's other point holds: Paul himself sums up the law as \"love thy neighbour as thyself\" (Galatians 5:14).",
+     "verses": [
+      "Galatians 1:8-9",
+      "Galatians 5:14"
+     ],
+     "repo": [],
+     "sources": []
+    },
+    {
+     "phrase": "Secular scholars unanimously agree that Jesus taught a works-based gospel about keeping the commandments",
+     "ts": "10:39",
+     "speaker": "unclear",
+     "claim": "Secular scholars unanimously agree that Jesus taught a works-based gospel of keeping the Torah.",
+     "kind": "scholarship",
+     "verdict": "NARROWER",
+     "check": "There is no such unanimity. Historical-Jesus scholarship does broadly place Jesus inside first-century Judaism as a Galilean Jew teaching within the Torah, and judgment by deeds is well attested in his sayings (Matthew 7:21, 16:27). But scholars describe his message in many ways, and mainstream summaries do not call it a 'works-based gospel'. The narrow true version is that the consensus puts Jesus inside Torah-observant Judaism. Note that Paul says it too: God \"will render to every man according to his deeds\" (Romans 2:6).",
+     "verses": [
+      "Matthew 7:21",
+      "Matthew 16:27",
+      "Romans 2:6"
+     ],
+     "repo": [
+      {
+       "card": "pauls-legitimacy",
+       "source": 13
+      }
+     ],
+     "sources": [
+      {
+       "title": "Historical Jesus (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Historical_Jesus",
+       "quote": "Contemporary scholarship, representing the \"third quest\" and the \"next quest\" places Jesus firmly in the Jewish tradition."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "IDOL MEAT AND REVELATION",
+   "lead": "Problem two: Paul relaxed the Jerusalem decree against food offered to idols, which the Jesus of Revelation condemns.",
+   "claims": [
+    {
+     "phrase": "1 Corinthians chapter 8 through 10, Paul teaches that eating meat sacrificed to idols isn't wrong",
+     "ts": "11:29",
+     "speaker": "unclear",
+     "claim": "The Jerusalem decree in Acts 15 forbade food offered to idols, and Paul then taught in 1 Corinthians 8-10 that eating it is fine and only the weak object.",
+     "kind": "scripture",
+     "verdict": "NARROWER",
+     "check": "Acts 15:20 and 15:29 do have James's decree to \"abstain from meats offered to idols\". Paul does say \"meat commendeth us not to God\" (1 Corinthians 8:8) and allows market meat and meals in homes \"asking no question\" (10:25, 10:27). But he also forbids eating in idol temples (\"Ye cannot drink the cup of the Lord, and the cup of devils\", 10:21), tells readers not to eat when told the food was offered to idols (10:28), and says he would eat no flesh at all rather than make a brother stumble (8:13). He never names James as one of the weak; that is the episode's inference.",
+     "verses": [
+      "Acts 15:20",
+      "Acts 15:29",
+      "1 Corinthians 8:8",
+      "1 Corinthians 8:13",
+      "1 Corinthians 10:21",
+      "1 Corinthians 10:25",
+      "1 Corinthians 10:28"
+     ],
+     "repo": [
+      {
+       "card": "pauls-legitimacy",
+       "source": 3
+      },
+      {
+       "card": "pauls-legitimacy",
+       "source": 4
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "many scholars look at the book of Revelation as a refutation of Paul's theology",
+     "ts": "13:05",
+     "speaker": "unclear",
+     "claim": "Revelation condemns eating idol meat, contains no Pauline theology, and many scholars read it as a refutation of Paul, with its \"depths of Satan\" answering Paul's \"deep things of God\".",
+     "kind": "scholarship",
+     "verdict": "OPEN",
+     "check": "Revelation 2:14 and 2:20 do condemn eating \"things sacrificed unto idols\", and 2:24's \"depths of Satan\" is a real verbal echo of 1 Corinthians 2:10's \"deep things of God\". Elaine Pagels (Revelations, 2012) argues that John of Patmos was attacking Pauline Christians, but reviewers note that the traditional reading differs, so \"many scholars\" overstates it. \"Zero Pauline theology\" is also too strong: Revelation praises the Lamb who \"washed us from our sins in his own blood\" (1:5) and \"hast redeemed us to God by thy blood\" (5:9).",
+     "verses": [
+      "Revelation 2:14",
+      "Revelation 2:20",
+      "Revelation 2:24",
+      "1 Corinthians 2:10",
+      "Revelation 1:5",
+      "Revelation 5:9"
+     ],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Revelations: Visions, Prophecies, & Politics in the Book of Revelation (Publishers Weekly review)",
+       "url": "https://www.publishersweekly.com/9780670023349",
+       "quote": "the visions recorded by John of Patmos function as antiassimilationist harangue that explicitly countered Paul’s teachings"
+      },
+      {
+       "title": "When the Man (Sort of) Comes Around: Reinterpreting Pagels' Reinterpretation of Revelation (Mockingbird)",
+       "url": "https://mbird.com/religion/church/when-the-man-sort-of-comes-around-reinterpreting-pagels-reinterpretation-of-revelation/",
+       "quote": "her book has created a stir because it has asserted that Revelation was written in opposition to Pauline Christianity"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "PROPHECY, VISIONS AND THE THORN",
+   "lead": "Problems three, four and seven: Paul's prophecy of the Lord's return failed, his private visions fit what Jesus warned against, and his 'messenger of Satan' amounts to possession.",
+   "claims": [
+    {
+     "phrase": "Paul genuinely believed and taught his churches that Jesus was returning within their generation",
+     "ts": "14:59",
+     "speaker": "unclear",
+     "claim": "Paul expected Jesus to return within his own lifetime, which did not happen, so by Deuteronomy 18:22 he fails the test of a prophet.",
+     "kind": "scripture",
+     "verdict": "HOLDS",
+     "check": "The expectation holds and is the mainstream critical reading: \"we which are alive and remain\" (1 Thessalonians 4:15-17), \"the time is short\" (1 Corinthians 7:29), \"the fashion of this world passeth away\" (7:31). Apologists answer that \"we\" means whichever believers are alive, and point to 2 Thessalonians 2:2-3 and Philippians 1:23, where Paul allows for delay and death. Calling him a false prophet under Deuteronomy 18:22 is a judgment, not a finding. Applied evenly, the same test reaches Jesus's own \"This generation shall not pass\" (Matthew 24:34; Mark 9:1).",
+     "verses": [
+      "1 Thessalonians 4:15-17",
+      "1 Corinthians 7:29",
+      "1 Corinthians 7:31",
+      "Deuteronomy 18:22",
+      "2 Thessalonians 2:2-3",
+      "Matthew 24:34",
+      "Mark 9:1"
+     ],
+     "repo": [
+      {
+       "card": "rapture-end-times",
+       "source": 12
+      },
+      {
+       "card": "rapture-end-times",
+       "source": 11
+      }
+     ],
+     "sources": [
+      {
+       "title": "First Epistle to the Thessalonians (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/First_Epistle_to_the_Thessalonians",
+       "quote": "Paul's imminent expectation of the Second Coming in 1 Thessalonians 4:13–18"
+      }
+     ]
+    },
+    {
+     "phrase": "he won't appear to any individual person alone before he returns",
+     "ts": "17:40",
+     "speaker": "unclear",
+     "claim": "In Matthew 24, Jesus warns against anyone who says they have seen him in the wilderness or in the inner rooms, which is exactly where Paul claimed his visions, and against signs and wonders, which Paul offered as proof.",
+     "kind": "theology",
+     "verdict": "INTERPRETATION",
+     "check": "Matthew 24:23-27 warns against reports that \"Christ\" is \"in the desert\" or \"in the secret chambers\", and 24:24 against false prophets with \"great signs and wonders\". Paul does appeal to \"signs, and wonders, and mighty deeds\" (2 Corinthians 12:12). Mainstream readers take Matthew 24 as a warning about false messiah-claimants at the end, not about visions. Some details also don't fit: Acts places the Damascus event on the road \"near Damascus\", not in a desert, and the later appearances are a trance in the Temple (Acts 22:17) and \"the Lord stood by him\" at night while Paul was held in custody (23:11).",
+     "verses": [
+      "Matthew 24:23-27",
+      "2 Corinthians 12:12",
+      "Acts 9:3",
+      "Acts 22:17-18",
+      "Acts 23:11"
+     ],
+     "repo": [],
+     "sources": []
+    },
+    {
+     "phrase": "no one else in the New Testament even calls Paul an apostle, except Paul himself",
+     "ts": "19:20",
+     "speaker": "unclear",
+     "claim": "No one witnessed Paul's visions, and no one in the New Testament except Paul calls him an apostle.",
+     "kind": "scripture",
+     "verdict": "DOESN'T HOLD",
+     "check": "Acts calls him one twice: \"the apostles, Barnabas and Paul\" (Acts 14:14; also 14:4). Acts also says his companions \"saw indeed the light\" (22:9) or heard a voice (9:7), though they saw no one. John 5:31 (\"If I bear witness of myself, my witness is not true\") is quoted accurately, but John 8:14 has Jesus say the opposite in another setting. The repo's citation notes already record Acts 14:14 for this reason. The narrow true point is that Paul is not an eyewitness to Jesus's teaching.",
+     "verses": [
+      "Acts 14:4",
+      "Acts 14:14",
+      "Acts 9:7",
+      "Acts 22:9",
+      "John 5:31",
+      "John 8:14"
+     ],
+     "repo": [
+      {
+       "card": "pauls-legitimacy",
+       "source": 10
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "So, Paul has a messenger of Satan in his flesh.",
+     "ts": "28:31",
+     "speaker": "unclear",
+     "claim": "Paul's thorn in the flesh, a 'messenger of Satan', means he was demon-possessed, and Romans 7 describes possession.",
+     "kind": "theology",
+     "verdict": "INTERPRETATION",
+     "check": "2 Corinthians 12:7 says \"a thorn in the flesh, the messenger of Satan to buffet me\", and Paul asked the Lord three times for it to leave (12:8-9). \"To buffet\" describes an affliction coming at him from outside. Scholars have never agreed what the thorn was: the most common reading is persecution or hardship, others suggest illness or a hostile spirit, and several say it can't be identified. Romans 7:17-20 (\"sin that dwelleth in me\") is usually read as Paul's portrait of human life under the law, not as possession.",
+     "verses": [
+      "2 Corinthians 12:7-9",
+      "Romans 7:17-20"
+     ],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Thorn in the flesh (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Thorn_in_the_flesh",
+       "quote": "is most commonly interpreted in relation to persecutions or hardships Paul faced"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "PAUL AND THE TWELVE",
+   "lead": "Problems five, six and eight: Paul accommodated himself deceptively, the Jerusalem apostles never affirmed him, and the earliest Jewish followers of Jesus rejected him.",
+   "claims": [
+    {
+     "phrase": "So, Paul is calling James and the disciples of Jesus weak.",
+     "ts": "20:56",
+     "speaker": "unclear",
+     "claim": "Paul calls vegetable-eaters weak, James and the disciples abstained from flesh, so Paul was calling them weak, and his \"to the weak I became weak\" means he pretended around them.",
+     "kind": "history",
+     "verdict": "NARROWER",
+     "check": "Romans 14:2 does say \"another, who is weak, eateth herbs\". Hegesippus (via Eusebius, Church History 2.23) says James did not \"eat flesh\", and Eusebius's Demonstratio 3.5 says the disciples abstained \"from wine and meat\". Eusebius says \"the disciples\", not \"the twelve\". Romans 14 is written to Rome and names no one, so tying it to James is an inference. Paul also says \"It is good neither to eat flesh, nor to drink wine\" (14:21). Reading 1 Corinthians 9:20-22 as lying is the episode's reading; Paul qualifies it himself (\"being not without law to God\", 9:21).",
+     "verses": [
+      "Romans 14:1-2",
+      "Romans 14:21",
+      "1 Corinthians 9:19-22"
+     ],
+     "repo": [
+      {
+       "card": "sacrifice-culture-vegetarian-jesus",
+       "source": 17
+      },
+      {
+       "card": "sacrifice-culture-vegetarian-jesus",
+       "source": 14
+      },
+      {
+       "card": "sacrifice-culture-vegetarian-jesus",
+       "source": 15
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "those who used to be important, whatever they were makes no difference to me",
+     "ts": "23:59",
+     "speaker": "unclear",
+     "claim": "Paul speaks of the Jerusalem pillars with contempt, and Acts 9:26 admits the disciples were afraid of him and did not believe he was a disciple.",
+     "kind": "scripture",
+     "verdict": "NARROWER",
+     "check": "Galatians 2:6 (KJV) reads \"of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me...) ... added nothing to me\". The distancing is real; the repo card reads every clause as minimizing his debt to them. But in the same passage they give him \"the right hands of fellowship\" (2:9), and their only request is that he remember the poor (2:10). Acts 9:26 does say \"they were all afraid of him\", but the next two verses have Barnabas bring him to the apostles, and he was \"with them coming in and going out at Jerusalem\".",
+     "verses": [
+      "Galatians 2:6",
+      "Galatians 2:9-10",
+      "Acts 9:26-28"
+     ],
+     "repo": [
+      {
+       "card": "pauls-legitimacy",
+       "source": 1
+      },
+      {
+       "card": "pauls-legitimacy",
+       "source": 9
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "Peter and all the 12 apostles of Jesus, and even Barnabas, his own traveling companion",
+     "ts": "25:45",
+     "speaker": "unclear",
+     "claim": "At Antioch Peter, all twelve apostles and Barnabas sided against Paul, and scholars read Paul's silence about the outcome as a sign that he lost.",
+     "kind": "scripture",
+     "verdict": "DOESN'T HOLD",
+     "check": "Galatians 2:11-14 does have Paul rebuking Peter \"before them all\" for \"dissimulation\". But the ones who followed Peter were \"the other Jews\" at Antioch, \"insomuch that Barnabas also\" (2:13), after \"certain came from James\" (2:12). The twelve are not said to be there. Several scholars do infer that Paul lost, because he never reports Peter's reply, but that is an inference and the outcome is unknown. (The episode's list of named scholars was not checked.)",
+     "verses": [
+      "Galatians 2:11-14"
+     ],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Incident at Antioch (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Incident_at_Antioch",
+       "quote": "The outcome of the incident remains uncertain"
+      }
+     ]
+    },
+    {
+     "phrase": "Paul also admits in 2 Corinthians that he couldn't get letters of recommendation from Jerusalem",
+     "ts": "27:22",
+     "speaker": "unclear",
+     "claim": "Paul admits he could not get letters of recommendation from Jerusalem, and no one else's apostleship was ever questioned.",
+     "kind": "scripture",
+     "verdict": "NARROWER",
+     "check": "2 Corinthians 3:1 is a rhetorical question: does Paul \"need... as some others, epistles of commendation\"? He says he doesn't; he never says he couldn't get them. The narrow true version is that his apostleship was contested (\"Am I not an apostle?... Mine answer to them that do examine me\", 1 Corinthians 9:1-3) and rivals arrived with letters. \"No one else was questioned\" is false: Paul calls rivals \"false apostles\" (2 Corinthians 11:13), and Revelation 2:2 praises Ephesus for testing \"them which say they are apostles, and are not\".",
+     "verses": [
+      "2 Corinthians 3:1",
+      "1 Corinthians 9:1-3",
+      "2 Corinthians 11:13",
+      "Revelation 2:2"
+     ],
+     "repo": [],
+     "sources": [
+      {
+       "title": "First Epistle to the Corinthians (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/First_Epistle_to_the_Corinthians",
+       "quote": "some Jewish Christians who brought with them letters of commendation from Jerusalem"
+      }
+     ]
+    },
+    {
+     "phrase": "that actually knew Jesus and his original disciples, all unilaterally rejected Paul",
+     "ts": "32:01",
+     "speaker": "unclear",
+     "claim": "The Nazarenes, Ebionites and other early Jewish followers of Jesus all rejected Paul, as Eusebius records in Church History 3.27.4.",
+     "kind": "history",
+     "verdict": "NARROWER",
+     "check": "The Eusebius citation is accurate, but it is about the Ebionites: they rejected Paul's epistles and called him \"an apostate from the law\". The Nazarenes are reported differently: the patristic sources say they accepted Paul's mission to the Gentiles. Acts 21:21 does report a charge that Paul taught Jews \"to forsake Moses\", but James presents it as a rumour and asks Paul to show that \"those things... are nothing\" (21:24). The narrow true version is that one major Jewish-Christian group (the Ebionites) rejected Paul outright.",
+     "verses": [
+      "Acts 21:21",
+      "Acts 21:24"
+     ],
+     "repo": [
+      {
+       "card": "essene-nazarene-origins",
+       "source": 13
+      }
+     ],
+     "sources": [
+      {
+       "title": "Eusebius, Church History 3.27 (NPNF, New Advent)",
+       "url": "https://www.newadvent.org/fathers/250103.htm",
+       "quote": "thought that it was necessary to reject all the epistles of the apostle, whom they called an apostate from the law"
+      },
+      {
+       "title": "Nazarene (sect) (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Nazarene_(sect)",
+       "quote": "accepted Paul's mission to the gentiles"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "THE LAST SUPPER AND SACRIFICE",
+   "lead": "Problem nine: blood atonement is Paul's invention, layered onto the Last Supper by later gospel writers, while Jesus opposed the sacrificial system.",
+   "claims": [
+    {
+     "phrase": "There is no mention of the forgiveness of sins. There's no substitutionary language here.",
+     "ts": "34:30",
+     "speaker": "unclear",
+     "claim": "Paul's account in 1 Corinthians 11 (c. 52-54 CE) is the earliest Last Supper text, has no forgiveness or substitution language, is only a memorial, and came to him in a private vision.",
+     "kind": "scripture",
+     "verdict": "NARROWER",
+     "check": "1 Corinthians 11:23-25 is the earliest written account (usually dated 53-57 CE), and it has no \"remission of sins\" clause. But it does say \"my body, which is broken for you\" (11:24) and \"ye do shew the Lord's death\" (11:26), and the same letter says \"Christ died for our sins\" (15:3), so substitution is not absent from Paul. \"I have received of the Lord\" (11:23) is often read as Paul handing on tradition that goes back to Jesus, not as a private vision. Paul does claim revelation for his gospel in general (Galatians 1:12).",
+     "verses": [
+      "1 Corinthians 11:23-26",
+      "1 Corinthians 15:3",
+      "Galatians 1:12"
+     ],
+     "repo": [
+      {
+       "card": "blood-atonement-and-salvation",
+       "source": 4
+      }
+     ],
+     "sources": [
+      {
+       "title": "First Epistle to the Corinthians (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/First_Epistle_to_the_Corinthians",
+       "quote": "usually in the range of 53–57 CE"
+      },
+      {
+       "title": "Commentary on 1 Corinthians 11:23-26 (Working Preacher, Luther Seminary)",
+       "url": "https://www.workingpreacher.org/commentaries/revised-common-lectionary/maundy-thursday/commentary-on-1-corinthians-1123-26-6",
+       "quote": "he is not referring to a mystical vision he experienced"
+      }
+     ]
+    },
+    {
+     "phrase": "Matthew is the first and only gospel writer to add the phrase,",
+     "ts": "36:07",
+     "speaker": "unclear",
+     "claim": "Only Matthew's Last Supper adds \"for the forgiveness of sins\"; Mark, Luke and Paul lack it.",
+     "kind": "scripture",
+     "verdict": "HOLDS",
+     "check": "Matthew 26:28 reads \"shed for many for the remission of sins\"; Mark 14:24 has only \"shed for many\", Luke 22:20 \"shed for you\", and 1 Corinthians 11:25 neither. John has no words over the cup. Two small fixes: the scholarly consensus is that Matthew used Mark, not Paul, and the strongest counter-verse is Mark 10:45 (\"a ransom for many\"), which the episode doesn't address.",
+     "verses": [
+      "Matthew 26:28",
+      "Mark 14:24",
+      "Luke 22:20",
+      "1 Corinthians 11:25",
+      "Mark 10:45"
+     ],
+     "repo": [
+      {
+       "card": "blood-atonement-and-salvation",
+       "source": 8
+      },
+      {
+       "card": "blood-atonement-and-salvation",
+       "source": 4
+      },
+      {
+       "card": "blood-atonement-and-salvation",
+       "source": 7
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "the earliest and most reliable manuscripts of Luke don't even include the cup saying",
+     "ts": "36:07",
+     "speaker": "unclear",
+     "claim": "The earliest and most reliable manuscripts of Luke lack the cup saying, and the longer text of Luke 22 is a universally agreed interpolation.",
+     "kind": "scholarship",
+     "verdict": "DOESN'T HOLD",
+     "check": "The shorter text, without Luke 22:19b-20, is found mainly in Codex Bezae (D) and some Old Latin witnesses. P75, Sinaiticus and Vaticanus have the longer form, and the modern critical editions (Nestle-Aland, UBS) print it in the main text. Ehrman argues the longer text is a later addition, so this is a live debate, not a universal verdict. Even the shorter text still has a cup (22:17-18). The narrow true version: a minority of scholars, following Westcott and Hort, regard 19b-20 as secondary.",
+     "verses": [
+      "Luke 22:17-20"
+     ],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Western non-interpolations (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Western_non-interpolations",
+       "quote": "Since 1968 all except Matthew 27:49 are included in the main text"
+      }
+     ]
+    },
+    {
+     "phrase": "eating the bread in remembrance of how Jesus multiplied the loaves and fed everyone",
+     "ts": "38:03",
+     "speaker": "unclear",
+     "claim": "In the Didache, a first-century Nazarene liturgy, the bread commemorates the feeding of the multitude and the cup commemorates Jesus as the vine of David.",
+     "kind": "history",
+     "verdict": "NARROWER",
+     "check": "The cup half holds: Didache 9 gives thanks \"for the holy vine of David\", with no blood or death language. The bread half doesn't: the prayer is \"As this piece [of bread] was scattered over the hills and then was brought together and made one, so let your Church be brought together\". That is grain gathered into one loaf as an image of the church, not the feeding miracle. Most scholars date the Didache to the first century, but it is a church manual and is not labelled 'Nazarene'. It also uses \"sacrifice\" for the assembly's own offering (ch. 14).",
+     "verses": [],
+     "repo": [
+      {
+       "card": "blood-atonement-and-salvation",
+       "source": 5
+      },
+      {
+       "card": "sacrifice-culture-vegetarian-jesus",
+       "source": 7
+      }
+     ],
+     "sources": [
+      {
+       "title": "Didache (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Didache",
+       "quote": "most scholars now assign the Didache to the first century"
+      }
+     ]
+    },
+    {
+     "phrase": "the word for robbers in the Hebrew of Jeremiah is parits, which means murderers or shredders",
+     "ts": "38:47",
+     "speaker": "unclear",
+     "claim": "In the Temple, Jesus quoted Isaiah and Jeremiah 7:11, whose Hebrew word for 'robbers' means murderers or violent ones, so he was condemning the sacrificial system itself.",
+     "kind": "scholarship",
+     "verdict": "NARROWER",
+     "check": "Mark 11:17 quotes Isaiah 56:7 and Jeremiah 7:11 (\"den of robbers\"). The Hebrew is pārîṣ, which Brown-Driver-Briggs glosses as \"violent one (robber, murderer)\". So \"violent ones\" holds; \"shredders\" has no lexical support. That Jesus spoke the line in Hebrew is conjecture; the gospels give it in Greek. Note that Isaiah 56:7 itself says \"their burnt offerings and their sacrifices shall be accepted upon mine altar\". The anti-sacrifice reading is better carried by Jeremiah 7:22 and Mark 11:16, as the repo card does.",
+     "verses": [
+      "Mark 11:15-17",
+      "Isaiah 56:7",
+      "Jeremiah 7:11",
+      "John 2:15"
+     ],
+     "repo": [
+      {
+       "card": "sacrifice-culture-vegetarian-jesus",
+       "source": 4
+      },
+      {
+       "card": "sacrifice-culture-vegetarian-jesus",
+       "source": 5
+      }
+     ],
+     "sources": [
+      {
+       "title": "Strong's Hebrew 6530, parits (Bible Hub)",
+       "url": "https://biblehub.com/hebrew/6530.htm",
+       "quote": "violent one (robber, murderer)"
+      }
+     ]
+    },
+    {
+     "phrase": "\"I came to abolish the sacrifices. And until you cease from sacrificing, the wrath of God",
+     "ts": "41:42",
+     "speaker": "unclear",
+     "claim": "The Hebrew Gospel of Matthew, the Nazarenes' gospel that church fathers say Matthew wrote first, has Jesus say \"I came to abolish the sacrifices\".",
+     "kind": "history",
+     "verdict": "NARROWER",
+     "check": "The saying is real but comes from Epiphanius (Panarion 30.16.4-5), quoting the gospel used by the Ebionites, which he says they called \"according to the Hebrews\". Scholars call it the Gospel of the Ebionites and treat it as a separate, Greek gospel. It is not the Nazarenes' text, and not demonstrably Matthew's Hebrew original. The fathers do report a Hebrew Matthew: Papias, via Eusebius 3.39.16, says \"Matthew wrote the oracles in the Hebrew language\". The '48 surviving quotes' figure was not verified.",
+     "verses": [],
+     "repo": [
+      {
+       "card": "sacrifice-culture-vegetarian-jesus",
+       "source": 11
+      }
+     ],
+     "sources": [
+      {
+       "title": "Gospel of the Ebionites (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Gospel_of_the_Ebionites",
+       "quote": "he misidentified it as the \"Hebrew\" gospel, believing it to be a truncated and modified version of the Gospel of Matthew"
+      },
+      {
+       "title": "Eusebius, Church History 3.39 (NPNF, New Advent)",
+       "url": "https://www.newadvent.org/fathers/250103.htm",
+       "quote": "So then Matthew wrote the oracles in the Hebrew language"
+      }
+     ]
+    },
+    {
+     "phrase": "Jesus did not ordain sacrifices, but considered them to be mean and lowly",
+     "ts": "41:42",
+     "speaker": "unclear",
+     "claim": "Eusebius records that Jesus did not ordain sacrifices and considered them unworthy of God.",
+     "kind": "history",
+     "verdict": "NARROWER",
+     "check": "This holds as a citation: in Demonstratio Evangelica 3.3 (Ferrar), Eusebius says Christ \"has not ordained that God should be honoured with sacrifices of bulls\" and \"thought these things low and earthly and quite unworthy of the immortal nature\". But Eusebius means animal sacrifice. In the same work (1.10) he calls Christ \"the great and precious ransom... the propitiation for the whole world\". So he can't be cited against atonement theology; he held both views.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Eusebius, Demonstratio Evangelica Book 3 (Ferrar 1920, tertullian.org)",
+       "url": "https://www.tertullian.org/fathers/eusebius_de_05_book3.htm",
+       "quote": "That He thought these things low and earthly and quite unworthy of the immortal nature"
+      },
+      {
+       "title": "Eusebius, Demonstratio Evangelica Book 1 (Ferrar 1920, tertullian.org)",
+       "url": "https://www.tertullian.org/fathers/eusebius_de_03_book1.htm",
+       "quote": "the great and precious ransom has been found for Jews and Greeks alike, the propitiation for the whole world"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "questions": [
+  "If Deuteronomy 18:22 disqualifies Paul for expecting the end in his lifetime, how should the same test be applied to Mark 9:1 and Matthew 24:34?",
+  "Did Paul know the Acts 15 decree? Galatians 2:10 says the pillars asked only that he 'remember the poor', and the two accounts are hard to reconcile.",
+  "Who won at Antioch? Paul never records Peter's reply. What do Acts 15 and 21 and the Clementine tradition suggest about the outcome?",
+  "Is Luke 22:19b-20 original? Compare Westcott-Hort and Ehrman (secondary) with the modern Nestle-Aland text, which prints it, and what each would mean for the atonement argument.",
+  "How did the Ebionites (who rejected Paul) and the Nazarenes (reported as accepting his Gentile mission) differ, and which group better represents James's community?"
+ ],
+ "corrections": [
+  "Paul's name is on 13 of the 27 New Testament books (14 if Hebrews is counted), about half, not 'almost two-thirds', and most scholars hold that he wrote seven of them.",
+  "Acts 14:4 and 14:14 call Paul an apostle, so 'no one else in the New Testament calls Paul an apostle' is false.",
+  "At Antioch (Galatians 2:13) it was 'the other Jews' and Barnabas who sided with Peter, not 'all the 12 apostles'.",
+  "2 Corinthians 3:1 says Paul does not need letters of commendation; it doesn't say he couldn't get them from Jerusalem.",
+  "There is no 'heresy trial with the Ephesians'. 'All they which are in Asia be turned away from me' is 2 Timothy 1:15, a letter of disputed authorship, and it describes desertion, not a trial.",
+  "The longer text of Luke 22:19b-20 is not a 'universally agreed' interpolation; the critical editions print it, and the shorter text still has a cup (22:17-18).",
+  "'I came to abolish the sacrifices' is from the Gospel of the Ebionites as quoted by Epiphanius, not from the Nazarenes' Hebrew Matthew.",
+  "Didache 9's bread prayer is about grain scattered on the hills and gathered into one, not the multiplication of the loaves.",
+  "'Grace is a word Jesus doesn't use at all' holds for the KJV only: the Greek charis is on Jesus's lips in Luke 6:32-34 ('what thank have ye?').",
+  "The Gospel of Luke does contain blood language outside 22:20 (Luke 11:50-51; 13:1), though none of it is atonement language."
+ ]
+}

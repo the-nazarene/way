@@ -1,0 +1,536 @@
+{
+ "episode": "062",
+ "title": "Is Kundalini Awakening the Holy Spirit Yeshua Foretold?",
+ "guests": [
+  "Chris Sartain"
+ ],
+ "date": "2026-07-24",
+ "summary": "Aaron Abke and guest Chris Sartain argue that the kundalini (shakti) awakening of yogic traditions is the same transforming force the gospels call the Holy Spirit, or one facet of it. They read Jesus's baptism, fire sayings and healing power as signs of an awakened teacher, link the 'Christ' anointing to an inner nectar (soma or chrism), and present the Essenes and early Jewish-Christian groups as communities whose way of life supported awakening. James Benefico does not appear; this is a live stream with Aaron and Chris.",
+ "topics": [
+  {
+   "title": "JESUS AS A KUNDALINI-AWAKENED TEACHER",
+   "lead": "The episode reads Jesus's baptism, wilderness fast and healing power as signs of a kundalini awakening, and the Holy Spirit as the same force under another name.",
+   "claims": [
+    {
+     "phrase": "I'm sure that he, you know, went through his own Kundalini awakening",
+     "ts": "09:13",
+     "speaker": "Chris Sartain",
+     "claim": "After his baptism and 40-day fast, Jesus went through a kundalini awakening.",
+     "kind": "theology",
+     "verdict": "INTERPRETATION",
+     "check": "The gospels do record the sequence: baptism by John, the Spirit driving or leading him into the wilderness, forty days of fasting, and in Luke a return 'in the power of the Spirit'. They describe it as the Spirit, temptation and fasting; no text uses a body-energy or spinal vocabulary, so calling it kundalini is a comparative reading, not something the texts say. Mainstream readings take it as a prophetic commissioning and testing story modelled on Israel's forty years and Moses's and Elijah's forty days.",
+     "verses": [
+      "Mark 1:12-13",
+      "Matthew 4:1-2",
+      "Luke 4:1-2",
+      "Luke 4:14"
+     ],
+     "repo": [
+      {
+       "card": "method-and-criteria",
+       "source": 5
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "I see Kundalini as like this sort of facet or aspect of of the Holy Spirit",
+     "ts": "1:39:40",
+     "speaker": "Chris Sartain",
+     "claim": "Kundalini and the Holy Spirit are essentially the same force, kundalini being one facet of the Spirit.",
+     "kind": "theology",
+     "verdict": "INTERPRETATION",
+     "check": "This is the episode's central thesis, offered as a spiritual equation rather than a historical claim. In the gospels the Spirit (the Comforter, the Spirit of truth) is sent by the Father, teaches, reminds and guides 'into all truth'; it is not described in bodily or energetic terms. Kundalini is a concept from later Indian tantric and yogic traditions. Note that Chris himself narrows the claim to 'a facet' of the Spirit rather than an identity.",
+     "verses": [
+      "John 14:26",
+      "John 16:7",
+      "John 16:13",
+      "John 14:17"
+     ],
+     "repo": [
+      {
+       "card": "essene-nazarene-origins",
+       "source": 1
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "evidence that there was a visitation of Yeshua in India",
+     "ts": "12:41",
+     "speaker": "Aaron",
+     "claim": "A book called Jesus in India gives evidence that Jesus visited India during his missing years.",
+     "kind": "history",
+     "verdict": "DOESN'T HOLD",
+     "check": "No ancient source places Jesus in India. The best-known 'missing years' text, Nicolas Notovitch's 1894 Life of Saint Issa, was rejected as a hoax soon after publication: the head lama of Hemis said no such manuscript existed. Mirza Ghulam Ahmad's book Jesus in India (written 1899) is about a different claim, that Jesus survived the cross and went to Kashmir, and is also rejected by most scholars. Which book is meant here is not clear from the episode.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Unknown years of Jesus (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Unknown_years_of_Jesus",
+       "quote": "no ancient evidence places Jesus in these regions"
+      },
+      {
+       "title": "Nicolas Notovitch (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Nicolas_Notovitch",
+       "quote": "The consensus view amongst modern scholars is that Notovitch's account of the travels of Jesus to India was a hoax."
+      },
+      {
+       "title": "Jesus in India (book) (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Jesus_in_India_(book)",
+       "quote": "The claims of the book regarding a journey of Jesus to India are rejected or ignored by most scholars."
+      }
+     ]
+    },
+    {
+     "phrase": "it's going to be like lightning flashing from the east to the west",
+     "ts": "47:36",
+     "speaker": "Aaron",
+     "claim": "Jesus's saying that his return will be like lightning from east to west was a warning about Paul and means a universal awakening of Christ consciousness.",
+     "kind": "theology",
+     "verdict": "INTERPRETATION",
+     "check": "The lightning saying is real (Matthew 24:27; Luke 17:24), and the verses just before it warn against people who say Christ is 'in the desert' or 'in the secret chambers', and against false Christs and false prophets. Paul is not named, and reading those warnings as about Paul is the speaker's interpretation. Reading the lightning as an inner awakening is also interpretive; most commentators read it as a sudden, public future coming. Luke 17:20-21, where the kingdom 'cometh not with observation', is the closer anchor for an inward reading.",
+     "verses": [
+      "Matthew 24:23-27",
+      "Luke 17:24"
+     ],
+     "repo": [
+      {
+       "card": "rapture-end-times",
+       "source": 8
+      },
+      {
+       "card": "two-ways-kingdom-within",
+       "source": 11
+      },
+      {
+       "card": "rapture-end-times",
+       "source": 3
+      }
+     ],
+     "sources": []
+    }
+   ]
+  },
+  {
+   "title": "FIRE, BREATH AND THE SPIRIT",
+   "lead": "John's 'baptism with fire', Jesus's fire sayings and the breath words ruach and pneuma are read as descriptions of kundalini's purifying heat and breathwork.",
+   "claims": [
+    {
+     "phrase": "will baptize you with the Holy Spirit and with fire",
+     "ts": "29:21",
+     "speaker": "Aaron",
+     "claim": "John the Baptist said the one coming after him would baptize with the Holy Spirit and with fire.",
+     "kind": "scripture",
+     "verdict": "HOLDS",
+     "check": "Matthew 3:11 and Luke 3:16 both say 'with the Holy Ghost, and with fire'. Mark 1:8, the earliest version, says only 'with the Holy Ghost', so the fire is the Matthew-Luke (Q) form of the saying. In Matthew and Luke the next verse speaks of burning up chaff, so the fire is read by most scholars as judgment or purification; reading it as kundalini heat is the episode's interpretation.",
+     "verses": [
+      "Matthew 3:11",
+      "Luke 3:16",
+      "Mark 1:8",
+      "Matthew 3:12"
+     ],
+     "repo": [
+      {
+       "card": "hell-afterlife",
+       "source": 4
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "a Bible verse that says the same, right? Our Our God is a purifying fire",
+     "ts": "29:35",
+     "speaker": "Aaron",
+     "claim": "The Bible says 'our God is a purifying fire'.",
+     "kind": "scripture",
+     "verdict": "NARROWER",
+     "check": "The verse is Hebrews 12:29, 'For our God is a consuming fire', quoting Deuteronomy 4:24. The word is consuming, not purifying, and Hebrews is not red text. The purifying image does exist elsewhere: Malachi 3:2-3 calls the coming messenger 'like a refiner's fire' who will 'purify the sons of Levi'.",
+     "verses": [
+      "Hebrews 12:29",
+      "Deuteronomy 4:24",
+      "Malachi 3:2-3"
+     ],
+     "repo": [],
+     "sources": []
+    },
+    {
+     "phrase": "I've come to cast a fire upon the world. Um Um whoever is near me",
+     "ts": "24:41",
+     "speaker": "Aaron",
+     "claim": "In the Gospel of Thomas Jesus says he has cast fire on the world and that whoever is near him is near the fire.",
+     "kind": "scripture",
+     "verdict": "HOLDS",
+     "check": "Both sayings are in Thomas (Lambdin): saying 10, 'I have cast fire upon the world, and see, I am guarding it until it blazes', and saying 82, 'He who is near me is near the fire, and he who is far from me is far from the kingdom.' The fire saying also has a canonical parallel at Luke 12:49. What the fire means is not explained in either text.",
+     "verses": [
+      "Luke 12:49"
+     ],
+     "repo": [],
+     "sources": []
+    },
+    {
+     "phrase": "ruach means spirit and breath. And pneuma in the Greek also means spirit and breath",
+     "ts": "1:41:40",
+     "speaker": "Chris Sartain",
+     "claim": "The Hebrew ruach and the Greek pneuma both mean both 'spirit' and 'breath'.",
+     "kind": "scholarship",
+     "verdict": "HOLDS",
+     "check": "Standard lexicons give 'breath, wind, spirit' for ruach and 'spirit, wind, breath' for pneuma. The two scenes cited are real: God breathes the breath of life into Adam (Genesis 2:7), and the risen Jesus breathes on the disciples and says 'Receive ye the Holy Ghost' (John 20:22). That this makes breathwork a spiritual practice is the speakers' inference.",
+     "verses": [
+      "Genesis 2:7",
+      "John 20:22"
+     ],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Strong's Hebrew 7307, ruach (Bible Hub, with Brown-Driver-Briggs)",
+       "url": "https://biblehub.com/hebrew/7307.htm",
+       "quote": "noun feminine Genesis 41:8 (less often masculine Exodus 10:13 +) breath, wind, spirit"
+      },
+      {
+       "title": "Strong's Greek 4151, pneuma (Bible Hub)",
+       "url": "https://biblehub.com/greek/4151.htm",
+       "quote": "pneuma: Spirit, wind, breath"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "THE HOLY SPIRIT AS MOTHER",
+   "lead": "Kundalini as the divine feminine is matched to early texts in which Jesus calls the Holy Spirit his mother and to the feminine gender of 'spirit' in Semitic languages.",
+   "claims": [
+    {
+     "phrase": "in all three Semitic languages, Holy Spirit is always a feminine word",
+     "ts": "1:40:37",
+     "speaker": "Aaron",
+     "claim": "In Hebrew, Aramaic and Syriac the word for the Holy Spirit is always grammatically feminine.",
+     "kind": "scholarship",
+     "verdict": "NARROWER",
+     "check": "Mostly true, with two limits. Hebrew ruach is usually feminine but sometimes masculine (Brown-Driver-Briggs: 'less often masculine'). In Syriac, Sebastian Brock shows the Spirit was treated as feminine up to about AD 400, then increasingly as masculine from the fifth century on. Grammatical gender also does not by itself make the Spirit a mother figure; Jerome, who reported the 'my mother' saying, made exactly that point.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Sebastian Brock, 'The Holy Spirit as Feminine in Early Syriac Literature' (reprinted at womenpriests.org)",
+       "url": "https://womenpriests.org/?p=1930",
+       "quote": "which, like Hebrew ruah, is grammatically feminine"
+      },
+      {
+       "title": "Strong's Hebrew 7307, ruach (Bible Hub, with Brown-Driver-Briggs)",
+       "url": "https://biblehub.com/hebrew/7307.htm",
+       "quote": "noun feminine Genesis 41:8 (less often masculine Exodus 10:13 +) breath, wind, spirit"
+      }
+     ]
+    },
+    {
+     "phrase": "the Hebrew Gospel, which we know is the earliest uh Gospel predating the four canonical Gospels",
+     "ts": "18:08",
+     "speaker": "Chris Sartain",
+     "claim": "In the Hebrew Gospel, the earliest gospel and older than the four canonical ones, Jesus calls the Holy Spirit his mother.",
+     "kind": "history",
+     "verdict": "NARROWER",
+     "check": "The 'mother' saying is real: Origen quotes the Gospel according to the Hebrews, where Jesus says 'My mother, the Holy Spirit took me just now by one of my hairs'. The 'earliest gospel' part is not established. The gospel survives only in quotations, and the usual scholarly dating is the early second century, after the canonical gospels; a minority (e.g. James R. Edwards) argue for an earlier Hebrew gospel. Aaron's later 'Hebrew gospel of Matthew' runs together two texts the Church Fathers themselves confused.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Origen, Commentary on John 2 (ANF, New Advent)",
+       "url": "https://www.newadvent.org/fathers/101502.htm",
+       "quote": "My mother, the Holy Spirit took me just now by one of my hairs"
+      },
+      {
+       "title": "Gospel of the Hebrews (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Gospel_of_the_Hebrews",
+       "quote": "in the first decades of the 2nd century"
+      }
+     ]
+    },
+    {
+     "phrase": "my earthly mother gave me death, but my true mother gave me life",
+     "ts": "1:41:11",
+     "speaker": "Aaron",
+     "claim": "In two sayings of Thomas Jesus calls the Holy Spirit his mother, contrasting his earthly mother who gave death with his true mother who gave life.",
+     "kind": "scripture",
+     "verdict": "NARROWER",
+     "check": "There is one such saying, not two: Thomas 101 (Lambdin) reads 'For my mother [...], but my true mother gave me life.' The half about the earthly mother falls in a gap in the manuscript, so 'gave me death' is not in the text as Lambdin prints it, and the saying does not name the Holy Spirit. Identifying the 'true mother' as the Spirit is a reasonable reading in light of the Gospel of the Hebrews, but it is a reading. Thomas 55 is a parallel hate-your-parents saying without the 'true mother' line.",
+     "verses": [],
+     "repo": [],
+     "sources": []
+    }
+   ]
+  },
+  {
+   "title": "CHRISM, SOMA AND THE PINEAL GLAND",
+   "lead": "The anointing oil behind the title 'Christ' is read esoterically as a nectar (soma, amrita) secreted in the brain during awakening.",
+   "claims": [
+    {
+     "phrase": "Messiah, Mashiach and chrism both mean the anointed one",
+     "ts": "45:18",
+     "speaker": "Chris Sartain",
+     "claim": "Messiah, Mashiach and chrism all mean 'the anointed one'.",
+     "kind": "scholarship",
+     "verdict": "NARROWER",
+     "check": "Messiah (Hebrew mashiach) and Christ (Greek christos) do both mean 'anointed one'; John 1:41 glosses Messias as 'the Christ'. Chrism (chrisma) is not the anointed person but the anointing or the oil itself. The New Testament's one use of chrisma for an inner reality is 1 John 2:27, 'the anointing which ye have received of him abideth in you', which is close to the episode's esoteric reading, though it is a letter, not red text.",
+     "verses": [
+      "John 1:41",
+      "1 John 2:27",
+      "Exodus 30:25",
+      "Exodus 30:30"
+     ],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Strong's Greek 5547, Christos (Bible Hub)",
+       "url": "https://biblehub.com/greek/5547.htm",
+       "quote": "Christos: Christ, Anointed One, Messiah"
+      },
+      {
+       "title": "Strong's Greek 5545, chrisma (Bible Hub)",
+       "url": "https://biblehub.com/greek/5545.htm",
+       "quote": "chrisma: Anointing"
+      }
+     ]
+    },
+    {
+     "phrase": "it's secreted by the pineal gland and that it does have trace amounts of DMT",
+     "ts": "42:20",
+     "speaker": "Chris Sartain",
+     "claim": "The nectar that drips down the back of the throat is secreted by the pineal gland and contains trace DMT.",
+     "kind": "science",
+     "verdict": "DOESN'T HOLD",
+     "check": "The pineal gland is an endocrine gland whose known secretion is the hormone melatonin, released into blood and cerebrospinal fluid; there is no physiological pathway for it to send a fluid into the throat. DMT is a separate open question: it has been detected in pineal fluid of live rats, and a 2019 study found rat cortex DMT at similar levels with or without the pineal, but human brain levels have never been measured. 'Trace DMT in a throat nectar' is untested.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Human Anatomy, 15.7 Pineal Gland (LibreTexts)",
+       "url": "https://med.libretexts.org/Bookshelves/Anatomy_and_Physiology/Human_Anatomy_(OERI)/15:_Endocrine_System/15.07:_Pineal_Gland",
+       "quote": "The pinealocyte cells that make up the pineal gland are known to produce and secrete the hormone melatonin"
+      },
+      {
+       "title": "Barker 2018, DMT, an Endogenous Hallucinogen (Frontiers in Neuroscience, PMC)",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6088236/",
+       "quote": "there have been no efforts to quantify the actual levels of endogenous DMT and its metabolites in human brain"
+      },
+      {
+       "title": "Dean et al. 2019, Biosynthesis and Extracellular Concentrations of DMT in Mammalian Brain (Scientific Reports, PMC)",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6597727/",
+       "quote": "with or without the pineal gland, were similar to those of canonical monoamine neurotransmitters"
+      }
+     ]
+    },
+    {
+     "phrase": "So I had this 8-year experience with this regular frequent uh production secretion of Soma nectar",
+     "ts": "41:54",
+     "speaker": "Chris Sartain",
+     "claim": "After chanting Sama Veda soma hymns, Chris experienced eight years of a nectar secreting from his brain.",
+     "kind": "experience",
+     "verdict": "EXPERIENCE",
+     "check": "A personal account of a sweet-tasting secretion experienced from 2011 to about 2019, which his teacher called soma. It is labelled here, not fact-checked. The physiological explanation offered for it is checked separately above.",
+     "verses": [],
+     "repo": [],
+     "sources": []
+    },
+    {
+     "phrase": "So, he could be referring here to to soma nectar.",
+     "ts": "50:35",
+     "speaker": "Chris Sartain",
+     "claim": "In Thomas 13, 'you have become intoxicated from the bubbling spring' may refer to soma nectar.",
+     "kind": "theology",
+     "verdict": "INTERPRETATION",
+     "check": "Chris quotes the saying accurately: Thomas 13 (Lambdin) has 'I am not your master. Because you have drunk, you have become intoxicated from the bubbling spring which I have measured out.' Chris himself gives the plainer reading first, that the spring is Jesus's teaching. Thomas 108 supports that reading: 'He who will drink from my mouth will become like me.' The soma reading is his own suggestion, offered as a possibility.",
+     "verses": [],
+     "repo": [
+      {
+       "card": "trinity-deity-of-jesus",
+       "source": 9
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "it's always been chanted for the last 5,000 years in the same way",
+     "ts": "40:44",
+     "speaker": "Chris Sartain",
+     "claim": "The Sama Veda is about 5,000 years old and has been chanted the same way ever since.",
+     "kind": "history",
+     "verdict": "DOESN'T HOLD",
+     "check": "The date is too early. Scholars place the Sama Veda's text at roughly 1200-1000 BCE, after the Rigveda (about 1500-1000 BCE), so about 3,000 years, not 5,000. The Vedas are not the oldest texts in the world either: Sumerian and Egyptian writings are older. The part that does hold is the remarkable oral transmission: Vedic chanting has been handed down with great precision for many centuries.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Samaveda (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Samaveda",
+       "quote": "the post-Rigvedic Mantra period of Vedic Sanskrit, between c. 1200 and 1000 BCE"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "THE KUNDALINI MAP AND ITS PHYSICS",
+   "lead": "Aaron lays out a seven-chakra model and likens a kundalini 'inner conjunction' to the physics of a lightning strike.",
+   "claims": [
+    {
+     "phrase": "there's six points attached to the spine. Um root, sacral, solar plexus, heart, throat, third eye",
+     "ts": "13:57",
+     "speaker": "Aaron",
+     "claim": "All Eastern traditions basically teach six energy centers on the spine plus a seventh at the crown, with the lower three colored red, orange and yellow.",
+     "kind": "scholarship",
+     "verdict": "NARROWER",
+     "check": "The six-plus-crown scheme is real but it is one tradition, not all of them. It comes from a 1577 Sanskrit text made famous in the West by John Woodroffe's The Serpent Power (1919); Buddhist tantric texts teach four or five chakras, and Hindu sources vary. The rainbow color sequence (red, orange, yellow...) is a modern Western addition, not from the Indian texts.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Chakra (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Chakra",
+       "quote": "Medieval Buddhist texts from 8th century CE mention four or five chakras, while Hindu sources have various numbers."
+      },
+      {
+       "title": "Chakra (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Chakra",
+       "quote": "Psychological and other attributes, rainbow colours, and a wide range of correspondences"
+      }
+     ]
+    },
+    {
+     "phrase": "touches the ground first receives the charge from the earth, the negative charge",
+     "ts": "31:11",
+     "speaker": "Aaron",
+     "claim": "In a lightning strike an invisible downward leader meets a charge from the ground that travels back up as the visible flash, and kundalini works the same way.",
+     "kind": "science",
+     "verdict": "NARROWER",
+     "check": "The physics is mostly right: an invisible negatively charged leader comes down, an upward streamer rises from the ground to meet it, and the bright flash is the return stroke travelling up. One detail is reversed: the ground's charge under a typical storm is positive, not negative. That kundalini works the same way is an analogy, not something the physics shows.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "NOAA National Severe Storms Laboratory, Lightning FAQ",
+       "url": "https://www.nssl.noaa.gov/education/svrwx101/lightning/faq/",
+       "quote": "Objects on the ground generally have a positive charge under a typical thunderstorm."
+      },
+      {
+       "title": "NOAA National Severe Storms Laboratory, Lightning FAQ",
+       "url": "https://www.nssl.noaa.gov/education/svrwx101/lightning/faq/",
+       "quote": "When these two paths meet, a return stroke zips back up to the sky."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "ESSENES AND THE FIRST COMMUNITY",
+   "lead": "The Essenes and early Jewish-Christian groups are presented as a meatless, wineless, long-lived community whose way of life supported awakening.",
+   "claims": [
+    {
+     "phrase": "the Essenes, the Nazarene, they all abstained from two things, meat and wine",
+     "ts": "1:16:48",
+     "speaker": "Chris Sartain",
+     "claim": "Jesus, all the disciples, the Essenes and the Nazarenes abstained from meat and wine.",
+     "kind": "history",
+     "verdict": "DOESN'T HOLD",
+     "check": "Too broad as stated. The gospels show Jesus drinking wine and called a 'winebibber', in contrast to John the Baptist. The best early witness is Hegesippus on one person, James ('he drank no wine nor strong drink, nor did he eat flesh'). Eusebius (4th century) says Jesus's disciples abstained from wine and meat. For the Essenes, Philo and Josephus never say it; Jerome (393) is the only ancient writer who does, and he wrongly credits Josephus. Philo's meatless, wineless table belongs to the Therapeutae, not the Essenes.",
+     "verses": [
+      "Luke 7:33-34",
+      "Matthew 11:19"
+     ],
+     "repo": [
+      {
+       "card": "sacrifice-culture-vegetarian-jesus",
+       "source": 14
+      },
+      {
+       "card": "sacrifice-culture-vegetarian-jesus",
+       "source": 15
+      },
+      {
+       "card": "essene-nazarene-origins",
+       "source": 17
+      },
+      {
+       "card": "essene-nazarene-origins",
+       "source": 16
+      },
+      {
+       "card": "essene-nazarene-origins",
+       "source": 9
+      },
+      {
+       "card": "sacrifice-culture-vegetarian-jesus",
+       "source": 16
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "They are more remarkable than any other race of men on Earth.",
+     "ts": "1:18:23",
+     "speaker": "Aaron",
+     "claim": "Philo said the Essenes were more remarkable than any other race of men on earth.",
+     "kind": "history",
+     "verdict": "NARROWER",
+     "check": "The wording fits Pliny the Elder (Natural History 5.15), not Philo: Pliny calls the Essenes 'marvellous beyond all others throughout the whole earth'. Philo does praise them highly, as 'above all men devoted to the service of God' (Every Good Man Is Free 75, held in the repo). So the praise is real, but this line should be credited to Pliny.",
+     "verses": [],
+     "repo": [
+      {
+       "card": "essene-nazarene-origins",
+       "source": 16
+      }
+     ],
+     "sources": [
+      {
+       "title": "Pliny the Elder, Natural History 5.15, tr. Bostock and Riley (Perseus)",
+       "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=5:chapter=15",
+       "quote": "marvellous beyond all others throughout the whole earth"
+      }
+     ]
+    },
+    {
+     "phrase": "the early historians would say that they all lived to be like a hundred or more",
+     "ts": "1:18:39",
+     "speaker": "Chris Sartain",
+     "claim": "Early historians say the Essenes all lived to a hundred or more.",
+     "kind": "history",
+     "verdict": "NARROWER",
+     "check": "Josephus says 'many', not all: 'many of them live above a hundred years', and he credits their simple diet and regular way of life. Chris also says Simeon son of Clopas lived to 120. Hegesippus (quoted by Eusebius) does report that Simeon was martyred at 120, and he calls him a cousin of Jesus, since Clopas was Joseph's brother. Both are ancient reports, not checked facts, and neither connects long life to kundalini.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Josephus, Jewish War 2.8.10, tr. Whiston (Project Gutenberg)",
+       "url": "https://www.gutenberg.org/cache/epub/2850/pg2850.txt",
+       "quote": "insomuch that many of them live above a hundred years, by means of the simplicity of their diet"
+      },
+      {
+       "title": "Eusebius, Church History 3.32, quoting Hegesippus (NPNF, New Advent)",
+       "url": "https://www.newadvent.org/fathers/250103.htm",
+       "quote": "at the age of one hundred and twenty years"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "questions": [
+  "Where does the identification of the Holy Spirit as 'mother' actually appear in early texts (Gospel of the Hebrews, Thomas 101, Gospel of Philip, the Odes of Solomon, early Syriac writers), and how early is each one?",
+  "What did John's 'baptism with fire' mean in its own setting, given that Mark has no fire and Matthew and Luke follow it with burning chaff?",
+  "Is 1 John 2:27 ('the anointing ... abideth in you, and ye need not that any man teach you') the strongest early Christian text for an inner anointing, and how does it relate to the title Christ?",
+  "Who among Christian mystics (Teresa of Avila, Johannes Tauler, others) described heat, movement or 'jubilation' in prayer, and in their own words, what did they think it was?",
+  "What does the evidence actually show about Essene diet and wine, once Josephus, Philo, Pliny and Jerome are read side by side?"
+ ],
+ "corrections": [
+  "'Our God is a purifying fire' is not the verse: Hebrews 12:29 (quoting Deuteronomy 4:24) says 'consuming fire'. The refining or purifying fire is Malachi 3:2-3.",
+  "The line 'more remarkable than any other race of men on Earth' is Pliny's praise of the Essenes (Natural History 5.15), not Philo's.",
+  "Thomas has one 'true mother' saying (101), not two, and it does not name the Holy Spirit; the 'earthly mother gave me death' half falls in a gap in the manuscript.",
+  "The Gospel of the Hebrews is not 'known' to be the earliest gospel; it survives only in quotations and is usually dated to the early 2nd century.",
+  "The Sama Veda is roughly 3,000 years old (c. 1200-1000 BCE), not 5,000, and the Vedas are not the oldest texts in the world.",
+  "The pineal gland secretes the hormone melatonin into blood and spinal fluid; it does not produce a fluid that drips down the throat. DMT has been found in rat brains, but human levels have never been measured.",
+  "No ancient evidence places Jesus in India; the best-known source for it (Notovitch, 1894) is regarded as a hoax.",
+  "Neither Josephus nor Philo says the Essenes abstained from meat and wine; Jerome is the only ancient writer who says so. Josephus says 'many' Essenes lived past 100, not all of them.",
+  "In the lightning comparison, the ground's charge under a typical storm is positive, not negative."
+ ]
+}

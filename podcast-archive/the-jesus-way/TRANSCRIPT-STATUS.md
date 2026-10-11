@@ -1,10 +1,10 @@
 # Jesus Way Podcast Transcript Status
 
-**Last Updated:** 2026-10-06
+**Last Updated:** 2026-10-10
 
 ---
 
-## ✅ TRANSCRIPTS COMPLETE (65 of 65 episodes) — all timestamped as of 2026-10-08
+## ✅ TRANSCRIPTS COMPLETE (66 of 66 episodes) — all timestamped as of 2026-10-10
 
 All available transcripts have been pulled from YouTube and appended to their respective markdown files.
 
@@ -13,6 +13,10 @@ All available transcripts have been pulled from YouTube and appended to their re
 Episodes 053–055 (Gregg Braden, Eastern Orthodox / Braden Wuerch, John St. Julien) were mined and added on 2026-06-02 — each file includes a synthesized research summary plus the full auto-generated transcript.
 
 Episodes 056–065 were pulled on 2026-10-06 — transcript + stub summary (synthesized notes pending; indexed summaries added to `00-overview.md`).
+
+Episode 066 (Kyle Cease, posted 2026-10-08) was pulled on 2026-10-10 through Apify (yt-dlp was rate-limited).
+
+**Not in the archive (short, unnumbered uploads on the channel, checked 2026-10-10):** `WCRVzKB99g0` Essenes bathing, with Veda Austin (19:41, 2026-07-20); `6OShBYWuzNo` PROOF Paul was a false prophet (10:31, 2026-05-11); `aJ17YN916kY` Responding to InspiringPhilosophy (9:37, 2026-08-11). Pull them if they become useful.
 
 | Episode | File | Status |
 |---------|------|--------|
@@ -81,6 +85,7 @@ Episodes 056–065 were pulled on 2026-10-06 — transcript + stub summary (synt
 | 63 | `063-9-problems-with-paul.md` | ✅ Done (2026-10-06) |
 | 64 | `064-spiritual-warfare-darius-j-wright.md` | ✅ Done (2026-10-06) |
 | 65 | `065-why-christians-hate-jesus-salvation-teachings.md` | ✅ Done (2026-10-06) |
+| 66 | `066-why-humanity-is-outgrowing-religion-kyle-cease.md` | ✅ Done (2026-10-10) |
 
 ---
 
@@ -88,9 +93,9 @@ Episodes 056–065 were pulled on 2026-10-06 — transcript + stub summary (synt
 
 | Status | Count |
 |--------|-------|
-| ✅ Completed | 64 |
+| ✅ Completed | 65 |
 | ✅ Captions disabled at source, transcribed locally with Whisper (ep. 045) | 1 |
-| **Total** | **65** |
+| **Total** | **66** |
 
 ---
 

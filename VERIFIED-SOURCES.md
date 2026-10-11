@@ -41,6 +41,7 @@ This is the companion to the Source Hierarchy in `CLAUDE.md`. The hierarchy says
 |---|---|---|---|---|
 | **Dead Sea Scrolls** (1QS, CD, 1QM, 1QHa, 4QMMT) | `christianity/dead-sea-scrolls/Incoming/dead-sea-scrolls-selected-texts.md` | Vermes (Penguin, 7th ed. 2011); Wise/Abegg/Cook (HarperOne, 2005); García Martínez (Brill/Eerdmans, 1996), attributed per quote | In copyright; short attributed excerpts (this file is the house model for copyrighted material) | Verified verbatim: 1QS 3:4-7, 3:17-19, 6:4-6, 8:1, 8:12-14; CD 1:10-11, 19:33-35; 1QM 1:1-3. **1QS 9:4-5 exists only as paraphrase** here; cite at reference level. **4Q473 is not in this repo** |
 | **Gospel of Philip** | `gnosticism/Incoming/gospel-of-philip-full-text.md` | Wesley Isenberg in Meyer, *The Nag Hammadi Scriptures* (2007); cross-checked with Layton (1987) | In copyright; selected passages | Selected key passages, not the full text despite the filename. All 10 quotations in the gnosticism cliff notes verified against it |
+| **Witnesses on flesh and sacrifice** (Hegesippus via Eusebius, Eusebius *HE* 2.17 and *DE* 3.5, Clement *Paed.* 2.1, Ancyra c. 14, Apostolic Canons 51/53, Philo *Prob.* 75 and *Contempl.* 73, Josephus *Ant.* 18.1.5 and *War* 2.8.5, Porphyry *Abst.* 4.11-12, Jerome *Jov.* 2.14, Schweitzer on Bahrdt) | `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md` | NPNF 2.1, 2.6, 2.14; ANF 2; Ferrar (1920); Yonge (1854-55); Whiston (1737); Taylor (1823); Montgomery (1910), named per excerpt | Public domain (Ferrar: PD in the US) | Thirteen excerpts, each sliced from the downloaded page text between anchor phrases, not retyped (2026-10-10). Each carries **Our note** on what it does *not* say: Porphyry never states Essene vegetarianism; Jerome does, but credits Josephus, who doesn't |
 | **Apocryphon of John** | `gnosticism/Incoming/apocryphon-of-john-full-text.md` | Marvin Meyer (2007); cross-checked with Wisse in Robinson | In copyright; extended excerpts of the Codex II long version | Key passages with commentary. Quote only the blockquoted text |
 
 ## Tier 3 — Reconstruction (say "reconstructed" every time)
@@ -63,15 +64,15 @@ These are real sources we lean on without owning. Until a text is added, cite th
 
 | Source | Cited on | Public-domain edition that could be added | Notes |
 |---|---|---|---|
-| Josephus (*Antiquities*, *Jewish War*, *Life*) | 5 cards | Whiston translation (1737), PD, on CCEL / Gutenberg | Essenes, James's death (Ant. 20.9.1), John the Baptist |
-| Eusebius, *Church History* | 4 cards | NPNF series 2 vol. 1 (McGiffert, 1890), PD | Hegesippus on James (2.23); the flight to Pella (3.5) |
-| Eusebius, *Demonstratio Evangelica* | 3 files | Ferrar (1920), PD in the US | "Abstinence from wine and meat" is cited at book level only; needs the chapter (3.5) |
+| Josephus (*Antiquities*, *Jewish War*, *Life*) | 5 cards | Whiston translation (1737), PD, on CCEL / Gutenberg | Essenes, James's death (Ant. 20.9.1), John the Baptist. **Excerpts now held:** *Ant.* 18.1.5 and *War* 2.8.5, in the witnesses file (Tier 2) |
+| Eusebius, *Church History* | 4 cards | NPNF series 2 vol. 1 (McGiffert, 1890), PD | Hegesippus on James (2.23); the flight to Pella (3.5). **Excerpts now held:** 2.23.4-7 and 2.17.22-24, in the witnesses file (Tier 2) |
+| Eusebius, *Demonstratio Evangelica* | 3 files | Ferrar (1920), PD in the US | **Now held (3.5)** in the witnesses file. It says *the disciples of Jesus* "embraced... abstinence from wine and meat" within a longer sentence; "the twelve apostles embraced abstinence" is a paraphrase |
 | Hegesippus | 5 cards | Survives only in Eusebius (above) | He says James **was** admitted to the holy place; "never entered the Temple" reverses him |
 | Epiphanius, *Panarion* | 5 cards | No PD English. Williams (Brill, 1987/2009) is in copyright | Excerpts only. The Ebionite Passover saying (30.22.4) is his quotation of *their alteration* |
 | Irenaeus, Justin Martyr, Tertullian, Origen | 1-2 cards each | ANF volumes, PD | The subordinationism quotations are in our secondary notes only; the argument stands without the quotation marks |
-| Philo (*Every Good Man Is Free*, *Hypothetica*) | 2 cards | Yonge (1854), PD | Essene sources |
-| Pliny the Elder, *Natural History* 5.15 | 2 cards | Bostock & Riley (1855), PD | Essenes; the vegetarian claim rests on Porphyry, not Pliny |
-| Porphyry, *De abstinentia* | 3 files | Thomas Taylor (1823), PD | The *only* witness to Essene vegetarianism; cited with no locus (it is 4.11-13) |
+| Philo (*Every Good Man Is Free*, *Hypothetica*) | 2 cards | Yonge (1854), PD | Essene sources. **Excerpts now held:** *Prob.* 75 (Essenes, "not sacrificing living animals") and *Contempl.* 73 (the Therapeutae's table, not the Essenes'), in the witnesses file |
+| Pliny the Elder, *Natural History* 5.15 | 2 cards | Bostock & Riley (1855), PD | Essenes. Pliny says nothing about Essene diet |
+| Porphyry, *De abstinentia* | 3 files | Thomas Taylor (1823), PD | **Corrected 2026-10-10: Porphyry never says the Essenes abstained from animal food.** He includes them in a book arguing for abstinence, following Josephus (4.11-13; excerpt held). The line "the Essenes, who are a sect of the Jews, abstain from all animal food" is not in Book 4. The only ancient text that says it outright is Jerome, *Against Jovinianus* 2.14, crediting Josephus, who doesn't say it |
 | Testaments of the Twelve Patriarchs | 1 card | Charles (1913), PD | "Spirit of truth / spirit of deceit" (T. Judah 20); needed to keep the DSS vocabulary claim honest |
 | Gospel of Mary | source hierarchy, tier 3 | Modern translations in copyright; short excerpts | Named in `CLAUDE.md` as a source; no file |
 | Gospel of the Ebionites (fragments) | sacrifice card | Only via Epiphanius; Ehrman, *Lost Scriptures* (in copyright) | Evidence of what the Ebionites believed, not of what Jesus said |

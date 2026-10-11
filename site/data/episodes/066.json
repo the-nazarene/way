@@ -1,0 +1,544 @@
+{
+ "episode": "066",
+ "title": "Why Humanity Is Outgrowing Religion",
+ "guests": [
+  "Kyle Cease"
+ ],
+ "date": "2026-10-08",
+ "summary": "Aaron Abke and comedian-teacher Kyle Cease argue that AI, social media and ET disclosure are breaking the ego's belief that 'I am what I do', and pushing humanity into a spiritual awakening. Aaron reads Jesus's sayings (ye are gods, deny yourself, the Beatitudes, judge-and-be-judged, the least of these) as teaching inner healing, karmic reciprocity and imitation of Christ, which he contrasts with doctrines he traces to Paul, the church fathers and Calvinism. The second half leans on near-death experiences, UFO encounters (Ruwa, Varginha) and channeled material as evidence for oneness.",
+ "topics": [
+  {
+   "title": "JESUS VS. THE LATER DOCTRINE",
+   "lead": "Aaron argues that the Jesus of the gospels judges by love and deeds, and that turn-or-burn exclusivism and 'you can never be like him' come from Paul and later theology.",
+   "claims": [
+    {
+     "phrase": "well, Jesus literally never said that, right?",
+     "ts": "54:46",
+     "speaker": "Aaron",
+     "claim": "Jesus never said that he is the only way to heaven and that everyone else will burn in hell.",
+     "kind": "scripture",
+     "verdict": "NARROWER",
+     "check": "No gospel has Jesus say both halves together in one saying. But John's Jesus does say 'no man cometh unto the Father, but by me' (John 14:6), and John 3:18 and 3:36 tie condemnation to unbelief, although those verses may be the evangelist talking, not Jesus. Mark 16:16 ('he that believeth not shall be damned') is in the longer ending, which the earliest manuscripts lack. The synoptic Jesus does warn of 'hell fire', but for how people act (Matthew 5:22, 25:41-46), not for what they fail to believe. The true narrower version: in the synoptic gospels, Jesus never makes believing in him the test for escaping hell.",
+     "verses": [
+      "John 14:6",
+      "John 3:18",
+      "John 3:36",
+      "Mark 16:16",
+      "Matthew 5:22",
+      "Matthew 25:41"
+     ],
+     "repo": [
+      {
+       "card": "how-we-read-john",
+       "source": 8
+      },
+      {
+       "card": "method-and-criteria",
+       "source": 14
+      },
+      {
+       "card": "hell-afterlife",
+       "source": 12
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "It's all from Paul and church fathers that came later.",
+     "ts": "00:15",
+     "speaker": "Aaron",
+     "claim": "The doctrines of exclusive salvation by belief, total depravity and blood atonement come from Paul and the later church fathers, not from Jesus.",
+     "kind": "theology",
+     "verdict": "NARROWER",
+     "check": "Much of it can be traced: Paul supplies justification 'by faith without the deeds of the law' (Romans 3:28) and 'none righteous' (Romans 3:10). Augustine shaped original sin, and Anselm (1098) shaped satisfaction atonement. But 'all' is too strong. The gospels themselves carry some of the material: John 14:6, the ransom saying in Mark 10:45, and the 'remission of sins' cup line in Matthew 26:28. The fair version: these doctrines rest mostly on Paul and on later systematizers, and only a few gospel verses, which can be read other ways, lend them support.",
+     "verses": [
+      "Romans 3:28",
+      "Romans 3:10",
+      "Mark 10:45",
+      "Matthew 26:28",
+      "John 14:6"
+     ],
+     "repo": [
+      {
+       "card": "pauls-legitimacy",
+       "source": 12
+      },
+      {
+       "card": "blood-atonement-and-salvation",
+       "source": 7
+      },
+      {
+       "card": "blood-atonement-and-salvation",
+       "source": 8
+      },
+      {
+       "card": "blood-atonement-and-salvation",
+       "source": 13
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "You'll never be like Christ. So just confess and believe.",
+     "ts": "58:50",
+     "speaker": "Aaron",
+     "claim": "Institutional Christianity teaches that Jesus is not an example to follow but a picture of what you can never become.",
+     "kind": "theology",
+     "verdict": "NARROWER",
+     "check": "This is a caricature of mainstream teaching. The New Testament and the historic churches openly teach imitating Christ: 'leaving us an example, that ye should follow his steps' (1 Peter 2:21), Paul's 'be ye followers of me, even as I also am of Christ' (1 Corinthians 11:1), and the whole imitatio Christi tradition. What Protestant theology does deny is that imitating him earns salvation (Ephesians 2:8-9). The narrow true version: many evangelical churches put so much weight on 'you can't earn it' that following his example becomes secondary. Jesus's own words point the other way: 'the works that I do shall he do also' (John 14:12).",
+     "verses": [
+      "1 Peter 2:21",
+      "1 Corinthians 11:1",
+      "Ephesians 2:8-9",
+      "John 14:12"
+     ],
+     "repo": [
+      {
+       "card": "what-we-actually-offer",
+       "source": 11
+      },
+      {
+       "card": "trinity-deity-of-jesus",
+       "source": 9
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "read the Gospels in isolation. All you get is Jesus being like,",
+     "ts": "1:00:12",
+     "speaker": "Aaron",
+     "claim": "In the gospels Jesus makes keeping his commandments and doing good works the basis of judgment ('Lord, Lord... I never knew you'; 'I was hungry and ye fed me not').",
+     "kind": "scripture",
+     "verdict": "HOLDS",
+     "check": "The texts say this. 'If ye love me, keep my commandments' (John 14:15). 'Not every one that saith unto me, Lord, Lord... but he that doeth the will of my Father' (Matthew 7:21-23). The sheep-and-goats judgment turns entirely on feeding, clothing and visiting (Matthew 25:31-46). Note that Aaron blends two passages into one: 'Lord, Lord, didn't we do miracles' is Matthew 7:22-23, and 'when I was hungry' is Matthew 25:42. Also, 'all you get' is slightly too strong, since the gospels also have 'thy faith hath saved thee' (Luke 7:50).",
+     "verses": [
+      "John 14:15",
+      "Matthew 7:21-23",
+      "Matthew 25:42",
+      "Matthew 19:17",
+      "Luke 7:50"
+     ],
+     "repo": [
+      {
+       "card": "two-ways-kingdom-within",
+       "source": 12
+      },
+      {
+       "card": "how-we-read-john",
+       "source": 5
+      },
+      {
+       "card": "blood-atonement-and-salvation",
+       "source": 0
+      },
+      {
+       "card": "what-we-actually-offer",
+       "source": 6
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "if you don't love your neighbor, you don't love me, bro, because I am your neighbor.",
+     "ts": "1:00:36",
+     "speaker": "Aaron",
+     "claim": "Jesus taught that he is present in every person, so neglecting your neighbor is neglecting him.",
+     "kind": "scripture",
+     "verdict": "INTERPRETATION",
+     "check": "This reads Matthew 25:40 and 25:45 ('Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me'). Scholars split on who 'the least of these my brethren' are. One reading takes it as everyone in need. The other, the older majority reading, takes it as Jesus's disciples, since in Matthew his 'brethren' are those who do the Father's will (Matthew 12:50). 'I'm in everybody' is the universal reading pushed one step further. It is a defensible reading, not the plain meaning of the text.",
+     "verses": [
+      "Matthew 25:40",
+      "Matthew 25:45",
+      "Matthew 12:50"
+     ],
+     "repo": [
+      {
+       "card": "hell-afterlife",
+       "source": 0
+      },
+      {
+       "card": "two-ways-kingdom-within",
+       "source": 2
+      }
+     ],
+     "sources": [
+      {
+       "title": "Jerry Ireland, \"Matthew 25:40 and 'The Least of These'\", Journal of the Evangelical Missiological Society",
+       "url": "https://www.journal-ems.org/index.php/home/article/view/178",
+       "quote": "a universal approach that considers Jesus' statement as establishing the way one treats the poor and needy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "YE ARE GODS, DIE TO THE FALSE SELF",
+   "lead": "Aaron reads Jesus's self-denial and 'ye are gods' sayings as dissolving the ego, the false self, so that the divine in us can follow him.",
+   "claims": [
+    {
+     "phrase": "Isn't it written in your scriptures, behold, ye are gods?",
+     "ts": "21:50",
+     "speaker": "Aaron",
+     "claim": "When accused of calling himself the Son of God, Jesus answered by quoting a psalm that calls his hearers 'gods'.",
+     "kind": "scripture",
+     "verdict": "HOLDS",
+     "check": "John 10:34-36 has this exchange, quoting Psalm 82:6 ('I have said, Ye are gods; and all of you are children of the most High'). Two details: John says the audience was 'the Jews' (10:31, 10:33), not the Pharisees, and the psalm's next verse says 'ye shall die like men' (82:7). Mainstream readings take the 'gods' to be human judges or members of the divine council, and read Jesus's argument as working from the lesser case to the greater, not as calling everyone divine. Aaron's reading, that it affirms divinity shared with humans, is a minority but long-standing mystical reading.",
+     "verses": [
+      "John 10:34-36",
+      "Psalms 82:6-7",
+      "John 10:33"
+     ],
+     "repo": [
+      {
+       "card": "trinity-deity-of-jesus",
+       "source": 7
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "If any man wishes to be my disciple, let him first deny himself.\"",
+     "ts": "19:22",
+     "speaker": "Aaron",
+     "claim": "Jesus said that a disciple must deny himself ('some translations say die to himself'), take up his cross daily and follow him, and Aaron takes this to mean the false self.",
+     "kind": "scripture",
+     "verdict": "NARROWER",
+     "check": "The saying is triple-attested: Matthew 16:24, Mark 8:34 and Luke 9:23. All three KJV versions say 'deny himself', and only Luke adds 'daily'. 'Die to himself' is a common sermon paraphrase, not the wording of the standard translations, though the next verse says 'whosoever will lose his life for my sake, the same shall save it' (Luke 9:24). Reading the self as the false self or ego is Aaron's interpretation. The mainstream reading is willingness to give up one's own interests, even one's life, out of loyalty to Jesus.",
+     "verses": [
+      "Luke 9:23-24",
+      "Matthew 16:24",
+      "Mark 8:34",
+      "Matthew 10:39"
+     ],
+     "repo": [
+      {
+       "card": "the-gospel-of-thomas",
+       "source": 10
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "the version of that passage in Thomas is longer than in our canonical gospels.",
+     "ts": "1:39:47",
+     "speaker": "Aaron",
+     "claim": "The 'if thine eye be single' saying has a longer version in the Gospel of Thomas about making the two one and the inside like the outside.",
+     "kind": "scripture",
+     "verdict": "NARROWER",
+     "check": "Thomas 22 (Lambdin) does say 'When you make the two one, and when you make the inside like the outside... and when you make the male and the female one and the same... then will you enter the kingdom.' But it is not a longer version of 'if thine eye be single' (Matthew 6:22, Luke 11:34), which is a separate saying about the eye as the lamp of the body. The only overlap is Thomas 22's 'when you fashion eyes in the place of an eye'. Aaron's paraphrase of Thomas 22's content is accurate. The link to the 'single eye' saying is his own connection.",
+     "verses": [
+      "Matthew 6:22",
+      "Luke 11:34"
+     ],
+     "repo": [
+      {
+       "card": "the-gospel-of-thomas",
+       "source": 5
+      }
+     ],
+     "sources": []
+    }
+   ]
+  },
+  {
+   "title": "MOURNING AS INNER WORK",
+   "lead": "Kyle teaches facing and crying out inner wounds, and Aaron hears that in the Beatitudes, while Kyle says the outer world mirrors what gets released inside.",
+   "claims": [
+    {
+     "phrase": "Blessed are those who mourn, for they shall be comforted.",
+     "ts": "33:15",
+     "speaker": "Aaron",
+     "claim": "'Blessed are they that mourn' can be read as blessing the grief that releases old identities, not only grief over the dead.",
+     "kind": "theology",
+     "verdict": "INTERPRETATION",
+     "check": "Matthew 5:4 reads 'Blessed are they that mourn: for they shall be comforted.' Luke's version is 'Blessed are ye that weep now: for ye shall laugh' (6:21). Mainstream scholarship hears an echo of Isaiah 61:2-3, 'to comfort all that mourn... in Zion', meaning those grieving the state of God's people and waiting for God to set things right. Reading it as shadow work is a modern application. The text doesn't say what kind of mourning is meant, which, as Aaron notes, leaves room for it.",
+     "verses": [
+      "Matthew 5:4",
+      "Luke 6:21",
+      "Isaiah 61:2-3"
+     ],
+     "repo": [],
+     "sources": []
+    },
+    {
+     "phrase": "He's saying if you if you go deep enough into poverty, you'll find the kingdom there.",
+     "ts": "33:38",
+     "speaker": "Aaron",
+     "claim": "'Blessed are the poor, for theirs is the kingdom' means the kingdom is found in non-attachment, like a Zen koan.",
+     "kind": "theology",
+     "verdict": "INTERPRETATION",
+     "check": "Matthew 5:3 says 'poor in spirit' and Luke 6:20 says simply 'Blessed be ye poor', paired with 'woe unto you that are rich' (6:24). Mainstream readings take Luke's version as God siding with the materially poor, and Matthew's as humble dependence on God. 'Non-attachment' is Aaron's contemplative reading. It fits Matthew's 'in spirit' better than Luke's economic version.",
+     "verses": [
+      "Matthew 5:3",
+      "Luke 6:20",
+      "Luke 6:24"
+     ],
+     "repo": [],
+     "sources": []
+    },
+    {
+     "phrase": "Last five minutes, her mom calls her because she released it.",
+     "ts": "31:35",
+     "speaker": "Kyle Cease",
+     "claim": "During a coaching call, a client released her expectation that her estranged mother would call, and the mother called within the same session.",
+     "kind": "experience",
+     "verdict": "EXPERIENCE",
+     "check": "A personal coaching story Kyle offers to show that 'the outside world is mirroring your inner world.' It is not fact-checked. It's labeled here as testimony, not evidence for the mirroring principle.",
+     "verses": [],
+     "repo": [],
+     "sources": []
+    }
+   ]
+  },
+  {
+   "title": "KARMA, REBIRTH AND THE LIFE REVIEW",
+   "lead": "Aaron reads Jesus's reciprocity sayings as a law of karma across lifetimes, and treats near-death life reviews as proof that life is a test of love.",
+   "claims": [
+    {
+     "phrase": "If you judge, you'll be judged. If you forgive, you'll be forgiven.",
+     "ts": "38:41",
+     "speaker": "Aaron",
+     "claim": "Jesus repeatedly taught a law of reciprocity: as you judge, forgive and measure, so it comes back to you.",
+     "kind": "scripture",
+     "verdict": "HOLDS",
+     "check": "This is well attested. 'Judge not, that ye be not judged' and 'with what measure ye mete, it shall be measured to you again' (Matthew 7:1-2). 'forgive, and ye shall be forgiven' and 'Give, and it shall be given unto you' (Luke 6:37-38). 'If ye forgive men their trespasses, your heavenly Father will also forgive you' (Matthew 6:14-15). The Golden Rule is Matthew 7:12. 'Sowing and reaping' as a formula is Paul's wording (Galatians 6:7), not Jesus's.",
+     "verses": [
+      "Matthew 7:1-2",
+      "Luke 6:37-38",
+      "Matthew 6:14-15",
+      "Matthew 7:12",
+      "Galatians 6:7"
+     ],
+     "repo": [
+      {
+       "card": "blood-atonement-and-salvation",
+       "source": 1
+      },
+      {
+       "card": "what-we-actually-offer",
+       "source": 5
+      }
+     ],
+     "sources": []
+    },
+    {
+     "phrase": "He was teaching us how to escape this cycle of karma on the wheel of samsara,",
+     "ts": "39:57",
+     "speaker": "Aaron",
+     "claim": "Jesus's reciprocity teaching was a method for getting off the wheel of reincarnation.",
+     "kind": "theology",
+     "verdict": "INTERPRETATION",
+     "check": "The reciprocity sayings are real. Nothing in the gospels mentions rebirth, karma or samsara, though, and the sayings are set in the context of God's final judgment. In fact, when asked whether a man born blind was paying for sin, Jesus answered 'Neither hath this man sinned, nor his parents' (John 9:2-3), and he rejected the idea that the Galileans who were killed, or the people under the tower of Siloam, were worse sinners (Luke 13:2-4). Mainstream Christianity rejects reincarnation outright (Catechism 1013; compare Hebrews 9:27). This is a perennialist reading brought to the text from outside it.",
+     "verses": [
+      "John 9:2-3",
+      "Luke 13:2-4",
+      "Hebrews 9:27"
+     ],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Catechism of the Catholic Church, para. 1013 (Vatican)",
+       "url": "https://www.vatican.va/archive/ENG0015/__P2I.HTM",
+       "quote": "There is no \"reincarnation\" after death."
+      }
+     ]
+    },
+    {
+     "phrase": "this little girl's soul had experienced multiple lifetimes of harming",
+     "ts": "40:32",
+     "speaker": "Aaron",
+     "claim": "Aaron felt he received a 'download' that a murdered child had abused children in past lives and was balancing karma.",
+     "kind": "experience",
+     "verdict": "EXPERIENCE",
+     "check": "This is Aaron's account of a private intuition, and he says himself he isn't sure whether it was 'my brain just trying to make meaning'. It isn't checkable, and it should not be repeated as teaching. Jesus's recorded answer to the closest question, whether suffering is payback for sin, is the opposite: 'Neither hath this man sinned, nor his parents' (John 9:3).",
+     "verses": [
+      "John 9:3"
+     ],
+     "repo": [],
+     "sources": []
+    },
+    {
+     "phrase": "millions of recorded near-death experiences now to me have closed the book on this.",
+     "ts": "59:17",
+     "speaker": "Aaron",
+     "claim": "Near-death experiences settle the question: life is a morality test, and people review their lives judged only by how loving they were.",
+     "kind": "science",
+     "verdict": "NARROWER",
+     "check": "NDEs are common and well documented: a 2024 scoping review found them in 6.3% to 39.3% of the cardiac-arrest survivors studied, and one feature reported is 'reliving the recording of my life: actions and intentions matter'. But not every NDE includes a life review, and researchers say the causes are still incompletely understood. 'Closed the book' is Aaron's conviction, not a research finding.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Near-death experiences after cardiac arrest: a scoping review (Discover Mental Health, 2024, PMC)",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11133272/",
+       "quote": "The reported incidence of near-death experiences in the included studies varied from 6.3% to 39.3%"
+      },
+      {
+       "title": "Near-death experiences after cardiac arrest: a scoping review (Discover Mental Health, 2024, PMC)",
+       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11133272/",
+       "quote": "the frequency, causes, and consequences of near-death experiences remain incompletely understood"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "ET DISCLOSURE AS AWAKENING",
+   "lead": "Aaron names AI, social media and ET disclosure as the three catalysts of awakening, and cites UFO encounters whose beings tell humans 'you don't know what's inside you'.",
+   "claims": [
+    {
+     "phrase": "One was the famous Zimbabwe uh UFO sighting in uh Zimbabwe in 1994.",
+     "ts": "1:07:50",
+     "speaker": "Aaron",
+     "claim": "In 1994 dozens of schoolchildren in Zimbabwe saw a craft land and beings who warned them telepathically about technology harming the planet.",
+     "kind": "history",
+     "verdict": "NARROWER",
+     "check": "The Ariel School event (Ruwa, Zimbabwe, 16 September 1994) is real as a reported event. Sixty-two pupils aged six to twelve described landed craft and figures, and some reported an environmental message about technology. It is testimony, not confirmed contact: skeptics propose mass hysteria, a rocket re-entry seen days earlier, or misidentification. Aaron later calls them 'South African children', but the school is near Harare, Zimbabwe.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Ariel School UFO incident (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Ariel_School_UFO_incident",
+       "quote": "Sixty-two pupils at Ariel School, ranging in age from six and twelve"
+      },
+      {
+       "title": "Ariel School UFO incident (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Ariel_School_UFO_incident",
+       "quote": "we're actually making harm on this world"
+      }
+     ]
+    },
+    {
+     "phrase": "And then the famous Vargia, Brazil UFO crash in um uh 1998 or whatever.",
+     "ts": "1:08:55",
+     "speaker": "Aaron",
+     "claim": "At Varginha, Brazil, a crashed ET was captured, treated at a hospital, and told a doctor telepathically 'you have no idea what's inside you'.",
+     "kind": "history",
+     "verdict": "OPEN",
+     "check": "The Varginha events were in 1996, not 1998. Residents' sightings are well documented as claims, and the doctor's story comes from James Fox's 2022 documentary Moment of Contact. The Brazilian Army's inquiry concluded a resident had been mistaken for an alien. No physical evidence has been made public, so the encounter rests on testimony.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Varginha UFO incident (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Varginha_UFO_incident",
+       "quote": "An investigation by the Brazilian Army concluded that a city resident was mistaken for an alien being"
+      },
+      {
+       "title": "Varginha UFO incident (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Varginha_UFO_incident",
+       "quote": "Moment of Contact, a 2022 documentary film by director James Fox"
+      }
+     ]
+    },
+    {
+     "phrase": "30 over 30 instances where the nukes have been disarmed from UFOs",
+     "ts": "1:24:46",
+     "speaker": "unclear",
+     "claim": "There are over 30 instances of UFOs disabling nuclear missiles.",
+     "kind": "history",
+     "verdict": "NARROWER",
+     "check": "What exists is a set of claims, mostly from former Air Force personnel collected by Robert Hastings, that UFOs were seen near nuclear sites. The best-known case, the March 1967 Echo Flight shutdown at Malmstrom, was investigated at the time, and the 1967 report says UFO rumors were 'disproven'. In 2025 the Pentagon attributed it to an electromagnetic pulse test. The narrow true version: witnesses have claimed UFO activity at missile sites, but no case of UFOs disarming nukes is established.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Malmstrom UFO incident (Wikipedia)",
+       "url": "https://en.wikipedia.org/wiki/Malmstrom_UFO_incident",
+       "quote": "In 2025, the Pentagon reported that incident had actually been caused by a test of a nuclear electromagnetic pulse device."
+      },
+      {
+       "title": "Malmstrom UFO incident (Wikipedia), quoting the 1967 Air Force report",
+       "url": "https://en.wikipedia.org/wiki/Malmstrom_UFO_incident",
+       "quote": "Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of the fault were disproven."
+      }
+     ]
+    },
+    {
+     "phrase": "the law of one they call themselves the brothers and sisters of sorrow",
+     "ts": "1:11:32",
+     "speaker": "Aaron",
+     "claim": "In the Law of One, the ETs call themselves the Brothers and Sisters of Sorrow because they hear the cries of suffering from Earth.",
+     "kind": "theology",
+     "verdict": "NARROWER",
+     "check": "The phrase is in the Law of One (Ra Material, 1981). In session 12.26, entities 'whom you may call the Brothers and Sisters of Sorrow' answer the 'calling of sorrow', and 23.10 has Ra say 'we are of the Brothers and Sisters of Sorrow'. In 12.26, at least, they are named by others ('whom you may call'). The 'cut on our own leg' analogy was not found in 12.26. Note too that this is a 1981 channeled text, not an ancient or Christian source.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "The Law of One, Session 12.26 (lawofone.info)",
+       "url": "https://www.lawofone.info/s/12",
+       "quote": "These entities whom you may call the Brothers and Sisters of Sorrow move towards this calling of sorrow."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "BORROWED SAYINGS, CHECKED",
+   "lead": "Quotations from other traditions are used to support oneness; two of them are credited to the wrong source.",
+   "claims": [
+    {
+     "phrase": "One of my favorite lines from the course says, \"Be kind always,",
+     "ts": "1:48:30",
+     "speaker": "Aaron",
+     "claim": "'Be kind always, for everyone is fighting a difficult battle' is a line from A Course in Miracles.",
+     "kind": "history",
+     "verdict": "DOESN'T HOLD",
+     "check": "The saying is much older than A Course in Miracles (1976). Quote Investigator traces it to the Scottish minister John Watson, writing as Ian Maclaren, in 1897-98, whose original wording was 'Be pitiful, for every man is fighting a hard battle.' It is also often misattributed to Plato or Philo.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Quote Investigator, \"Be Kind; Everyone You Meet is Fighting a Hard Battle\"",
+       "url": "https://quoteinvestigator.com/2010/06/29/be-kind/",
+       "quote": "Be pitiful, for every man is fighting a hard battle,"
+      },
+      {
+       "title": "Quote Investigator, \"Be Kind; Everyone You Meet is Fighting a Hard Battle\"",
+       "url": "https://quoteinvestigator.com/2010/06/29/be-kind/",
+       "quote": "Ian MacLaren was the pseudonym or pen name of Rev. John Watson."
+      }
+     ]
+    },
+    {
+     "phrase": "when I awakened the whole world awakened with me",
+     "ts": "1:15:19",
+     "speaker": "Aaron",
+     "claim": "The Buddha (Aaron suggests in the Diamond Sutra) said 'when I awakened the whole world awakened with me'.",
+     "kind": "history",
+     "verdict": "NARROWER",
+     "check": "A saying like this is told in Zen tradition about the Buddha's enlightenment ('Now I and all other beings are enlightened'), and Dogen is a prominent source for it. I found no evidence that it is in the Diamond Sutra, and Aaron himself hedges ('I believe it is the diamond sutra'). The 'thousand more lifetimes' exchange he also attributes to the Buddha was not located. Treat both as Zen tradition, not sutra quotations.",
+     "verses": [],
+     "repo": [],
+     "sources": [
+      {
+       "title": "Glasgow Zen Group, \"The Buddha's Enlightenment\"",
+       "url": "https://glasgowzengroup.com/301-the-buddhas-enlightenment/",
+       "quote": "Now I and all other beings are enlightened."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "questions": [
+  "Who are 'the least of these my brethren' in Matthew 25:40: every needy person, or Jesus's disciples? And how much of Aaron's 'I'm in everybody' does the text carry?",
+  "Jesus quotes Psalm 82:6 'Ye are gods' in John 10:34. What did Psalm 82 mean by 'gods', and what does verse 7 ('ye shall die like men') do to the reading?",
+  "If Jesus's reciprocity sayings are about final judgment, how do they square with John 9:3, where he denies that the blind man's suffering was payback for sin, and what would a karmic reading have to do with that verse?",
+  "Do near-death life reviews line up with the judgment-by-deeds of Matthew 25, and how often does a life review actually occur in the research?",
+  "Does Thomas 22's 'make the inside like the outside' have any real connection to the synoptic 'if thine eye be single' (Matthew 6:22)?"
+ ],
+ "corrections": [
+  "'Be kind always, for everyone is fighting a difficult battle' is not from A Course in Miracles. It traces to Ian Maclaren (John Watson), 1897-98, originally 'Be pitiful, for every man is fighting a hard battle.'",
+  "The Varginha, Brazil incident was in 1996, not 1998.",
+  "The 1994 Ariel School children were in Ruwa, Zimbabwe, not South Africa.",
+  "'Jesus literally never said' he is the only way: John 14:6 has 'no man cometh unto the Father, but by me.' Say instead that the synoptic Jesus never makes belief in him the test for escaping hell.",
+  "'If any man wishes to be my disciple... die to himself' is not the wording of standard translations. Matthew 16:24, Mark 8:34 and Luke 9:23 say 'deny himself', and only Luke adds 'daily'.",
+  "'Lord, Lord, didn't we do miracles in your name' (Matthew 7:22-23) and 'when I was hungry' (Matthew 25:42) are two separate passages, not one saying.",
+  "Jesus in John 10 answers 'the Jews' (John 10:31-33), not 'the Pharisees'.",
+  "The 'UFOs disarmed nukes 30+ times' claim should not be repeated as fact. The best-known case (Malmstrom 1967) was attributed by the Pentagon in 2025 to an electromagnetic pulse test."
+ ]
+}

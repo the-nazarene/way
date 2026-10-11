@@ -67,6 +67,7 @@ Direct challenges to blood atonement, the Trinity, the rapture, and eternal hell
 | 48 | `048-what-really-happened-at-resurrection.md` | What the resurrection actually was, apart from atonement theology |
 | 50 | `050-debunking-wes-huff-hell-theology.md` | Reaction/rebuttal to Wes Huff's defense of eternal hell |
 | 65 | `065-why-christians-hate-jesus-salvation-teachings.md` | Nathaniel Jordan: blood atonement as "blood magic," the no-blood gospel |
+| 66 | `066-why-humanity-is-outgrowing-religion-kyle-cease.md` | Kyle Cease: ego, inner work, near-death life reviews and ET disclosure as awakening |
 
 ### Diet, Health, and the Body as Temple
 The "Jesus Diet" -- vegetarianism, fasting, and physical health as spiritual practice.

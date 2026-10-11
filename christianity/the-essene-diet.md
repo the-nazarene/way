@@ -33,13 +33,15 @@ This isn't opinion. Every primary source that describes the original movement ag
 | Source | Date | What It Says |
 |--------|------|-------------|
 | **Genesis 1:29** | Torah | "I have given you every herb bearing seed... and every tree yielding seed; to you it shall be for meat." — God's original dietary command is plant-based. |
-| **Josephus** (*Jewish War* 2.8.5) | 1st c. CE | "Their food consists of loaves of bread, a dish of vegetables with salt, and water." |
-| **Philo of Alexandria** (*Every Good Man Is Free*) | 1st c. CE | "They do not bring sacrifices of animals." |
-| **Porphyry** (*De Abstinentia*) | 3rd c. CE | "The Essenes abstain from all animal food." |
-| **Hegesippus** (via Eusebius, *Eccl. History* 2.23) | 2nd c. CE | James the Just "drank no wine or strong drink, nor did he eat meat" — from his mother's womb. |
-| **Eusebius** (*Demonstratio Evangelica* 3.5) | 4th c. CE | "The twelve apostles embraced abstinence from wine and meat." |
-| **Clement of Alexandria** | 2nd c. CE | "The Apostle Matthew partook of seeds and nuts, hard-shelled fruits and vegetables without flesh." |
-| **Acts of Thomas** | 1st-2nd c. CE | Thomas "continually fasted and prayed, and abstaining from the eating of flesh... ate only bread with salt." |
+| **Josephus** (*Jewish War* 2.8.5) | 1st c. CE | The cook sets before each man "a single plate of one sort of food." No food is named. |
+| **Philo of Alexandria** (*Every Good Man Is Free* 75) | 1st c. CE | The Essenes are "devoted to the service of God, not sacrificing living animals." Nothing about diet. |
+| **Porphyry** (*De Abstinentia* 4.11-13) | 3rd c. CE | Includes the Essenes in a book arguing for abstinence, following Josephus, but does not say they abstained from animal food. |
+| **Hegesippus** (via Eusebius, *Eccl. History* 2.23.5) | 2nd c. CE | James "was holy from his mother's womb; and he drank no wine nor strong drink, nor did he eat flesh." |
+| **Eusebius** (*Demonstratio Evangelica* 3.5) | 4th c. CE | The disciples of Jesus "embraced and persevered in a strenuous and a laborious life, with fasting and abstinence from wine and meat." |
+| **Clement of Alexandria** (*Paedagogus* 2.1) | c. 200 CE | "the apostle Matthew partook of seeds, and nuts, and vegetables, without flesh" (Wilson, ANF 2). He adds that food is "indifferent to us." |
+| **Acts of Thomas** | 3rd c. CE | Thomas "continually fasted and prayed, and abstaining from the eating of flesh... ate only bread with salt." **Not verified in the 2026-10-10 pass**; check against M. R. James (1924) before quoting. |
+
+**Corrected 2026-10-10.** Five rows above quoted their sources inaccurately and have been replaced with the verified wording in `Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md`: the Josephus "dish of vegetables with salt" (not in *War* 2.8.5; it is Philo's Therapeutae), Philo (paraphrased), Porphyry (the quoted sentence is not in his text), Hegesippus ("meat" for "flesh") and Eusebius (a paraphrase in quotation marks). The Clement row now uses the Wilson translation. The Acts of Thomas date was given as 1st-2nd century; it is generally placed in the 3rd.
 | **Jerome** (Letter 75) | 380 CE | "The Nazarenes also reject animal food." Also: "Jesus joined the end with the beginning so we are no longer allowed to eat animal flesh." |
 | **Epiphanius** (*Panarion*) | 4th c. CE | "The disciples abstain from meat... they say it is unlawful to eat meat for it was not ordained by God." |
 | **Syriac Aramaic Gospel of Luke 24:42** | Early text | "Do not let your hearts be hardened by the drinking of wine or the eating of flesh." (Later Greek manuscripts changed this to "dissipation.") |

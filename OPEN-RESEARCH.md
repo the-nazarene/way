@@ -68,4 +68,6 @@ Listed with full briefs in `questions/OBJECTIONS.md` under "Open". In short: "Ch
 
 **What to add.** Whiston's Josephus (the Essene passages: *War* 2.119-161, *Antiquities* 18.18-22, and 20.200 on James); Yonge's Philo (*Every Good Man Is Free* 75-91, *Hypothetica* 11.1-18); the NPNF2 Eusebius *Church History* 2.23 (Hegesippus on James) and 3.5 (Pella), and the Ferrar *Demonstratio* 3.5. Excerpts, not whole works, each with its translator and edition in the header. Then the index rows.
 
+*Job 7 is partly done (2026-10-10): `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md` holds Josephus *Ant.* 18.1.5 and *War* 2.8.5, Philo *Prob.* 75 and *Contempl.* 73, Eusebius *HE* 2.17 and 2.23.4-7, *DE* 3.5, plus Clement, Ancyra, the Apostolic Canons, Porphyry and Jerome. Still to add: the rest of *War* 2.119-161, *Ant.* 20.200 on James, *Hypothetica* 11, *HE* 3.5 on Pella.*
+
 *Job 8 (Episode 045 transcript) was done 2026-10-08: transcribed locally with Whisper, in `podcast-archive/the-jesus-way/`.*

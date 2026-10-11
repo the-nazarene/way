@@ -1,0 +1,13 @@
+{
+  "name": "desk-tests",
+  "private": true,
+  "description": "Browser tests for the Desk. Not part of the site build: the site itself has no dependencies.",
+  "scripts": {
+    "test": "node run-all.js",
+    "serve": "node serve.js",
+    "make-essene-desk": "node make-essene-desk.js"
+  },
+  "devDependencies": {
+    "puppeteer-core": "23.11.1"
+  }
+}
