@@ -140,18 +140,82 @@ const PHONE = { width: 390, height: 844, isMobile: true, hasTouch: true, deviceS
   s = await state(p);
   ok('BACK TO THE LIST returns to the list', s.list && !s.desk);
 
-  /* Present on a phone, then Esc back to the list. */
-  await tap(p, '#btnPhonePresent');
-  await sleep(1200);
-  const pres = await p.evaluate(() => ({ on: document.body.classList.contains('presenting'),
-    caption: document.getElementById('presTitle') ? document.getElementById('presTitle').textContent : document.getElementById('presCaption').textContent,
-    listHidden: document.getElementById('phoneList').hidden }));
-  ok('▶ PRESENT walks the desk on a phone', pres.on && pres.listHidden, JSON.stringify(pres).slice(0, 120));
-  await p.screenshot({ path: OUT + '/ph05-present.png' });
-  await p.keyboard.press('Escape'); await sleep(600);
+  /* ---------- PRESENT on a phone walks the list, a section at a time ---------- */
+  const walk = () => p.evaluate(() => ({
+    on: document.body.classList.contains('phone-walk'), presenting: document.body.classList.contains('presenting'),
+    at: document.getElementById('phoneWalkAt').textContent,
+    shown: [].filter.call(document.querySelectorAll('#phoneBody .phone-sec'), x => x.offsetParent !== null).map(x => x.getAttribute('data-slide')),
+    total: document.querySelectorAll('#phoneBody .phone-sec').length,
+    prev: document.getElementById('phoneWalkPrev').disabled, next: document.getElementById('phoneWalkNext').disabled,
+    bar: (() => { const r = document.getElementById('phoneWalkBar').getBoundingClientRect(); return r.bottom <= innerHeight + 1 && r.top > innerHeight / 2; })(),
+    over: document.documentElement.scrollWidth - innerWidth }));
+  await tap(p, '#btnPhonePresent'); await sleep(500);
+  let wk = await walk();
+  ok('▶ PRESENT on a phone walks the list, one section at a time (not the whole board shrunk)', wk.on && !wk.presenting && wk.shown.length === 1 && /^1 \/ \d+ · /.test(wk.at) && wk.bar, JSON.stringify(wk));
+  ok('at the start, ‹ is off and › is on', wk.prev && !wk.next);
+  await p.screenshot({ path: OUT + '/ph05-walk.png' });
+  await tap(p, '#phoneWalkNext'); await sleep(250);
+  await tap(p, '#phoneWalkNext'); await sleep(250);
+  wk = await walk();
+  ok('› moves on a section, and back to the top of it', /^3 \/ /.test(wk.at) && wk.shown.length === 1 && await p.evaluate(() => scrollY) === 0, wk.at);
+  await tap(p, '#phoneWalkPrev'); await sleep(250);
+  ok('‹ moves back', /^2 \/ /.test((await walk()).at));
+  /* A card in the walk opens to read, and closing it keeps the walk. */
+  await tap(p, '#phoneBody .phone-sec.is-walk .pincard'); await sleep(400);
+  ok('a card tapped mid-walk opens to read', await p.evaluate(() => !document.getElementById('reader').hidden));
+  await tap(p, '#readerClose'); await sleep(300);
+  ok('closing it keeps the walk where it was', /^2 \/ /.test((await walk()).at) && (await walk()).on);
+  /* A sideways swipe turns the page, and is never taken as the browser's "back". */
+  const url0 = p.url();
+  const cdp = await p.target().createCDPSession();
+  const swipe = async (x0, x1) => {
+    await cdp.send('Input.dispatchTouchEvent', { type: 'touchStart', touchPoints: [{ x: x0, y: 420 }] });
+    for (let k = 1; k <= 5; k++) await cdp.send('Input.dispatchTouchEvent', { type: 'touchMove', touchPoints: [{ x: x0 + (x1 - x0) * k / 5, y: 420 }] });
+    await cdp.send('Input.dispatchTouchEvent', { type: 'touchEnd', touchPoints: [] });
+    await sleep(350);
+  };
+  await swipe(320, 80);
+  ok('swiping left goes to the next section', /^3 \/ /.test((await walk()).at), (await walk()).at);
+  await swipe(110, 340);
+  ok('swiping right goes back, and stays on the page', p.url() === url0 && /^2 \/ /.test((await walk()).at), p.url());
+  for (let k = 0; k < 12; k++) { if ((await walk()).next) break; await tap(p, '#phoneWalkNext'); await sleep(120); }
+  wk = await walk();
+  ok('at the end, › is off', wk.next && !wk.prev && new RegExp('^' + wk.total + ' / ').test(wk.at), wk.at);
+  ok('no sideways scroll while walking', wk.over <= 1);
+  await tap(p, '#phoneWalkExit'); await sleep(400);
+  wk = await walk();
   s = await state(p);
-  ok('ending it comes back to the list', s.list && !(await p.evaluate(() => document.body.classList.contains('presenting'))));
+  ok('THE LIST goes back to the whole list', !wk.on && wk.shown.length === wk.total && s.list);
+  await tap(p, '#btnPhonePresent'); await sleep(400);
+  await p.keyboard.press('Escape'); await sleep(300);
+  ok('Esc ends the walk too', !(await walk()).on);
   await p.close();
+
+  /* A present link opens a phone's walk on that section. */
+  const pl = await page('#desk=essenes-sacrifice-meat&present=3');
+  const plw = await pl.evaluate(() => ({ on: document.body.classList.contains('phone-walk'), presenting: document.body.classList.contains('presenting'),
+    shown: [].filter.call(document.querySelectorAll('#phoneBody .phone-sec'), x => x.offsetParent !== null).map(x => x.getAttribute('data-slide')) }));
+  ok('a present link (&present=3) opens the walk on section 3', plw.on && !plw.presenting && JSON.stringify(plw.shown) === '["3"]', JSON.stringify(plw));
+  await pl.close();
+
+  /* ---------- sizes for a finger ---------- */
+  const f = await page('#desk=essenes-sacrifice-meat');
+  const sizes = await f.evaluate(() => {
+    const toc = [].slice.call(document.querySelectorAll('#phoneToc button'));
+    const ties = [].slice.call(document.querySelectorAll('#phoneBody .phone-ties button'));
+    const small = [].slice.call(document.querySelectorAll('#phoneBody .phone-item *')).filter(e => e.offsetParent && [].some.call(e.childNodes, n => n.nodeType === 3 && n.textContent.trim()) && parseFloat(getComputedStyle(e).fontSize) < 11);
+    return { tocRows: new Set(toc.map(b => Math.round(b.getBoundingClientRect().top))).size, tocMinH: Math.min.apply(null, toc.map(b => b.getBoundingClientRect().height)),
+      tieMinH: Math.min.apply(null, ties.map(b => b.getBoundingClientRect().height)), small: small.map(e => e.className + ' ' + getComputedStyle(e).fontSize).slice(0, 5),
+      pins: [].filter.call(document.querySelectorAll('#phoneBody .pin'), e => e.offsetParent).length, over: document.documentElement.scrollWidth - innerWidth };
+  });
+  ok('the section buttons are one row that scrolls sideways, each at least 40px tall', sizes.tocRows === 1 && sizes.tocMinH >= 40 && sizes.over <= 1, JSON.stringify(sizes));
+  ok('TIED TO buttons are at least 40px tall', sizes.tieMinH >= 40, sizes.tieMinH);
+  ok('no text on the cards under 11px', sizes.small.length === 0, JSON.stringify(sizes.small));
+  ok('the pin heads, which do nothing on a phone, are not shown', sizes.pins === 0);
+  await tap(f, '#phoneBody .pincard'); await sleep(400);
+  const cb = await f.evaluate(() => { const r = document.getElementById('readerClose').getBoundingClientRect(); return [r.width, r.height]; });
+  ok('the reader close button is at least 44px', cb[0] >= 44 && cb[1] >= 44, JSON.stringify(cb));
+  await f.close();
 
   /* ---------- an episode board ---------- */
   const e = await page('#desk=jesus-way-066');

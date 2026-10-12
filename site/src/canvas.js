@@ -2081,6 +2081,7 @@
 
   function applyPhone() {
     var on = phoneReading();
+    if (!on && phoneWalk != null) endPhoneWalk();
     document.body.classList.toggle('phone-reading', on);
     document.body.classList.toggle('phone-desk', isPhone() && phoneDesk);
     $('phoneList').hidden = !on;
@@ -2188,6 +2189,9 @@
     groups.forEach(function (g, gi) {
       var sec = el('section', 'phone-sec');
       sec.id = 'phone-sec-' + gi;
+      /* Present mode counts the overview as slide 0 and each frame from 1. */
+      sec.setAttribute('data-slide', g.frame ? frames.indexOf(g.frame) + 1 : 0);
+      sec.setAttribute('data-title', g.title || (sharedMeta ? sharedMeta.title : 'Your desk'));
       if (g.frame) sec.style.setProperty('--fc', FRAME_COLORS[g.frame.ci || 0]);
       if (g.title) {
         sec.appendChild(el('h2', 'phone-sec-title', g.title));
@@ -2200,6 +2204,49 @@
       g.items.forEach(function (it) { var r = phoneCard(it); if (r) sec.appendChild(r); });
       body.appendChild(sec);
     });
+    if (phoneWalk != null) showWalk(phoneWalk, true);
+  }
+
+  /* ================= phones: walking the sections =================
+     PRESENT on a phone does not shrink the whole board into the screen; it
+     walks the list one section at a time, cards at reading size. ‹ › or a
+     sideways swipe move; THE LIST goes back to scrolling. */
+
+  var phoneWalk = null;      // the section index being shown, or null
+
+  function walkSecs() { return [].slice.call($('phoneBody').querySelectorAll('.phone-sec')); }
+
+  function startPhoneWalk(slide) {
+    var secs = walkSecs();
+    if (!secs.length) return;
+    /* A present slide number maps to the section showing that frame. */
+    var at = 0;
+    for (var i = 0; i < secs.length; i++) if (+secs[i].getAttribute('data-slide') === slide && slide > 0) { at = i; break; }
+    closeReader();
+    document.body.classList.add('phone-walk');
+    $('phoneWalkBar').hidden = false;
+    showWalk(at);
+  }
+
+  function showWalk(i, quiet) {
+    var secs = walkSecs();
+    if (!secs.length) { endPhoneWalk(); return; }
+    phoneWalk = clamp(i, 0, secs.length - 1);
+    secs.forEach(function (s, k) { s.classList.toggle('is-walk', k === phoneWalk); });
+    $('phoneWalkAt').textContent = (phoneWalk + 1) + ' / ' + secs.length + ' · ' + secs[phoneWalk].getAttribute('data-title');
+    $('phoneWalkPrev').disabled = phoneWalk === 0;
+    $('phoneWalkNext').disabled = phoneWalk === secs.length - 1;
+    if (!quiet) window.scrollTo(0, 0);
+  }
+
+  function endPhoneWalk() {
+    var at = phoneWalk;
+    phoneWalk = null;
+    document.body.classList.remove('phone-walk');
+    $('phoneWalkBar').hidden = true;
+    walkSecs().forEach(function (s) { s.classList.remove('is-walk'); });
+    var sec = walkSecs()[at || 0];
+    if (sec && at) sec.scrollIntoView({ block: 'start' }); else window.scrollTo(0, 0);
   }
 
   function wirePhone() {
@@ -2217,7 +2264,27 @@
       applyPhone();
       window.scrollTo(0, 0);
     });
-    $('btnPhonePresent').addEventListener('click', function () { startPresent(0, true); });
+    $('btnPhonePresent').addEventListener('click', function () { startPhoneWalk(0); });
+    $('phoneWalkPrev').addEventListener('click', function () { showWalk(phoneWalk - 1); });
+    $('phoneWalkNext').addEventListener('click', function () { showWalk(phoneWalk + 1); });
+    $('phoneWalkExit').addEventListener('click', function () { endPhoneWalk(); });
+    /* A sideways swipe turns the page; an upward or downward one still scrolls. */
+    var sw = null;
+    $('phoneBody').addEventListener('touchstart', function (e) {
+      sw = phoneWalk != null && e.touches.length === 1 ? { x: e.touches[0].clientX, y: e.touches[0].clientY } : null;
+    }, { passive: true });
+    $('phoneBody').addEventListener('touchend', function (e) {
+      if (!sw || phoneWalk == null) return;
+      var t = e.changedTouches[0], dx = t.clientX - sw.x, dy = t.clientY - sw.y;
+      sw = null;
+      if (Math.abs(dx) > 60 && Math.abs(dx) > 2 * Math.abs(dy)) showWalk(phoneWalk + (dx < 0 ? 1 : -1));
+    }, { passive: true });
+    document.addEventListener('keydown', function (e) {
+      if (phoneWalk == null || isTyping(e) || !$('reader').hidden) return;
+      if (e.key === 'ArrowRight' || e.key === 'PageDown') { showWalk(phoneWalk + 1); e.preventDefault(); }
+      else if (e.key === 'ArrowLeft' || e.key === 'PageUp') { showWalk(phoneWalk - 1); e.preventDefault(); }
+      else if (e.key === 'Escape') { endPhoneWalk(); e.preventDefault(); }
+    });
     if (!PHONE) return;
     var wasReading = false;   // a walk-through put away when the window went narrow
     var changed = function () {
@@ -2474,6 +2541,7 @@
   /* canvas.html#desk=<slug>&present[=n] opens straight into the show. */
   function presentFromHash() {
     var m = /[#&]present(?:=(\d+))?(?:&|$)/.exec(location.hash);
+    if (m && phoneReading()) { startPhoneWalk(m[1] ? +m[1] : 0); return; }
     if (m) { startPresent(m[1] ? +m[1] : 0, false); return; }
     /* A prepared board opens as a walk-through, not as a workbench. */
     if (viewingShared && sharedMeta && sharedMeta.slug && !isPhone() && items.length) startPresent(presentSlides().length > 1 ? 1 : 0, false, true);
