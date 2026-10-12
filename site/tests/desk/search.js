@@ -1,6 +1,6 @@
 /* The prepared Essene desk, its short link, and searching the trays. */
 const puppeteer = require('puppeteer-core');
-const { CHROME, BASE, URL, OUT } = require('./env');
+const { CHROME, BASE, URL, OUT, tool, workbench, layCase, browseCase } = require('./env');
 const pass = [], fail = [];
 const ok = (name, cond, extra) => { const l = name + (extra != null ? ' :: ' + extra : ''); (cond ? pass : fail).push(l); console.log((cond ? '  ok  ' : '  XX  ') + l); };
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -36,11 +36,12 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   console.log('page ok');
   await open(me);
   console.log('open ok');
-  await me.evaluate(() => [].slice.call(document.querySelectorAll('.tray-case')).filter(x => /Where did Jesus/.test(x.textContent))[0].click());
-  await sleep(200); await me.click('.tray-lay'); await sleep(1500);
+  await layCase(me, /Where did Jesus/);
   const mine = await me.evaluate(() => JSON.parse(localStorage.getItem('way.desk.v1')).it.length);
   console.log('pulled');
-  await me.click('#trayOpen .tray-back'); await sleep(200);
+  /* The trays start closed on your own desk; open them as a reader would. */
+  if (await me.$('#trayOpen .tray-back')) { await me.click('#trayOpen .tray-back'); await sleep(200); }
+  if (await me.evaluate(() => document.getElementById('tray').classList.contains('is-collapsed'))) { await me.click('#btnAdd'); await sleep(350); }
   console.log('back');
 
   /* ---------- the prepared desk ---------- */
@@ -48,6 +49,9 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
     /Essenes/.test(document.getElementById('trayDesks').textContent)));
   await me.click('[data-desk="essenes-sacrifice-meat"]');
   await sleep(1500);
+  /* A prepared board opens as a walk-through; the workbench is one click on. */
+  ok('a prepared board opens as a walk-through', await me.evaluate(() => document.body.classList.contains('reading') && !document.getElementById('presWork').hidden));
+  await workbench(me);
   const deskInfo = await me.evaluate(() => ({
     hash: location.hash,
     bar: document.getElementById('sharedEyebrow').textContent,
@@ -178,8 +182,8 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   /* Inside an open case file. */
   await search(me, '');
   await me.click('[data-desk="essenes-sacrifice-meat"]').catch(() => {});
-  await me.evaluate(() => [].slice.call(document.querySelectorAll('.tray-case')).filter(x => /Did Jesus oppose the sacrifice/.test(x.textContent))[0].click());
-  await sleep(200);
+  await sleep(1200); await workbench(me);
+  await browseCase(me, /Did Jesus oppose the sacrifice/);
   await search(me, 'fish');
   const inCase = await me.evaluate(() => [].slice.call(document.querySelectorAll('#trayOpen .tray-pins .fam-src')).filter(b => !b.parentNode.hidden).map(b => b.textContent));
   ok('in an open case file, search narrows its sources', inCase.length === 1 && /Luke 24:42/.test(inCase[0]), inCase.join(' | '));

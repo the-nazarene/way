@@ -1,7 +1,7 @@
 /* Features 1-3: the Reading Room door, browsing and dragging from the tray,
    and the thread (links that become cards). Real Chrome, real viewport. */
 const puppeteer = require('puppeteer-core');
-const { CHROME, BASE, URL, OUT } = require('./env');
+const { CHROME, BASE, URL, OUT, tool, workbench, layCase, browseCase } = require('./env');
 const pass = [], fail = [];
 const ok = (name, cond, extra) => (cond ? pass : fail).push(name + (extra != null ? ' :: ' + extra : ''));
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -129,6 +129,11 @@ const CASE = 'sacrifice-culture-vegetarian-jesus';
   /* ---------- 2. browse and drag from the tray ---------- */
   const t = await fresh();
   await desk(t);
+  /* An empty desk hides the trays and offers its own start; begin with a note,
+     then open the trays the way a reader would, with + ADD TO THE DESK. */
+  await t.click('#btnStartNote'); await sleep(200);
+  await t.evaluate(() => document.activeElement.blur());
+  await t.click('#btnAdd'); await sleep(350);
   const BA = 'blood-atonement-and-salvation';
   await t.evaluate(() => [].slice.call(document.querySelectorAll('.tray-case')).filter(x => /Does God need blood/.test(x.textContent))[0].click());
   await sleep(300);
@@ -141,7 +146,7 @@ const CASE = 'sacrifice-culture-vegetarian-jesus';
     firstPinVisible: document.querySelector('#trayOpen .tray-pins .fam-src').getBoundingClientRect().bottom <= innerHeight,
     nodes: document.querySelectorAll('.nodes .node').length
   }));
-  ok('clicking a case opens it in the tray, not on the desk', tv.open && tv.listHidden && tv.nodes === 0, JSON.stringify(tv));
+  ok('clicking a case opens it in the tray, not on the desk', tv.open && tv.listHidden && tv.nodes === 1, JSON.stringify(tv));
   ok('tray lists the verses the case cites', tv.finding && tv.verseChips > 0, 'verse chips=' + tv.verseChips);
   ok('the finding is clamped so the sources are in reach', tv.clamped && tv.firstPinVisible);
   await t.screenshot({ path: OUT + '/f03-tray-case.png' });
@@ -166,7 +171,7 @@ const CASE = 'sacrifice-culture-vegetarian-jesus';
   const st2 = await state(t);
   const baInfo = await t.evaluate(c => fetch('data.json').then(r => r.json()).then(d => d.cards.filter(x => x.slug === c)[0].sources.length), BA);
   const ids2 = await ids(t);
-  ok('dragging the case head lays out the whole case', ids2.length === baInfo + 1 && ids2.indexOf('q:' + BA) >= 0, ids2.length + ' for ' + baInfo);
+  ok('dragging the case head lays out the whole case', ids2.length === baInfo + 2 && /* the case, its question, and the starting note */ ids2.indexOf('q:' + BA) >= 0, ids2.length + ' for ' + baInfo);
   ok('the source already down was tied, not moved', tied(st2, 'q:' + BA, s0) &&
     JSON.stringify(await t.evaluate(id => { const e = document.querySelector('.nodes [data-id="' + id + '"]'); return [e.style.left, e.style.top]; }, s0)) === JSON.stringify(before0));
   ok('every source tied to the question', st2.ln.length === baInfo, st2.ln.length);
@@ -277,7 +282,7 @@ const CASE = 'sacrifice-culture-vegetarian-jesus';
   await r.keyboard.press('Escape'); await sleep(150);
 
   /* The question card as a hub. FIT first, as a reader would, so the card is in view. */
-  await r.click('#btnFit'); await sleep(300);
+  await tool(r, '#btnFit'); await sleep(300);
   const qpt = await r.evaluate(c => { const e = document.querySelector('.nodes [data-id="q:' + c + '"] .qcard'); const b = e.getBoundingClientRect(); return { x: b.left + b.width / 2, y: b.bottom - 8 }; }, CASE);
   await r.mouse.click(qpt.x, qpt.y);
   await sleep(300);

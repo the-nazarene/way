@@ -1,7 +1,7 @@
 /* Phones: the desk read as a list. Sections in reading order, every card
    tappable to read, strings as "tied to", and the real desk one tap away. */
 const puppeteer = require('puppeteer-core');
-const { CHROME, URL, OUT } = require('./env');
+const { CHROME, URL, OUT, tool, workbench, layCase, browseCase } = require('./env');
 const pass = [], fail = [];
 const ok = (name, cond, extra) => { const l = name + (extra != null ? ' :: ' + extra : ''); (cond ? pass : fail).push(l); console.log((cond ? 'live ok  ' : 'live XX  ') + l); };
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -175,7 +175,9 @@ const PHONE = { width: 390, height: 844, isMobile: true, hasTouch: true, deviceS
   const empty = await n.evaluate(() => ({ list: !document.getElementById('phoneList').hidden,
     text: document.getElementById('phoneBody').textContent,
     desks: document.querySelectorAll('.phone-empty .tool').length }));
-  ok('an empty desk offers the prepared desks', empty.list && /Nothing on your desk yet/.test(empty.text) && empty.desks >= 6, JSON.stringify(empty).slice(0, 120));
+  /* Only listed boards are offered (the episode boards are unlisted for now). */
+  const listed = await n.evaluate(() => fetch('desk.json').then(r => r.json()).then(d => d.desks.filter(x => x.listed !== false).length));
+  ok('an empty desk offers the listed prepared desks', empty.list && /Nothing on your desk yet/.test(empty.text) && empty.desks === listed && listed >= 1, JSON.stringify(empty).slice(0, 120));
   await tap(n, '.phone-empty .tool');
   await sleep(800);
   const opened = await n.evaluate(() => ({ hash: location.hash, cards: document.querySelectorAll('.phone-item').length }));
@@ -185,15 +187,23 @@ const PHONE = { width: 390, height: 844, isMobile: true, hasTouch: true, deviceS
   /* ---------- wide screens are untouched ---------- */
   const w = await page('#desk=essenes-sacrifice-meat', { width: 1500, height: 950 });
   s = await state(w);
-  ok('a wide screen gets the desk, never the list', !s.list && s.desk && s.tools, JSON.stringify(s));
-  /* A window narrowed to phone width switches to the list, and back. */
-  await w.setViewport({ width: 600, height: 900 }); await sleep(400);
-  const narrowed = await state(w);
-  await w.setViewport({ width: 1500, height: 950 }); await sleep(500);
-  const widened = await state(w);
+  const isReading = () => w.evaluate(() => document.body.classList.contains('reading'));
+  ok('a wide screen gets the desk (a prepared board as its walk-through), never the list', !s.list && s.desk && await isReading(), JSON.stringify(s));
+  /* A window narrowed (or a tablet turned) to phone width switches to the list,
+     and widening brings the walk-through back. */
+  await w.setViewport({ width: 600, height: 900 }); await sleep(500);
+  const narrowed = Object.assign(await state(w), { reading: await isReading() });
+  await w.setViewport({ width: 1500, height: 950 }); await sleep(900);
+  const widened = Object.assign(await state(w), { reading: await isReading() });
   const nodes = await w.evaluate(() => document.querySelectorAll('.nodes .node').length);
-  ok('narrowing a window switches to the list, widening switches back', narrowed.list && !narrowed.desk && !widened.list && widened.desk && nodes > 40,
+  ok('narrowing a window switches to the list, widening switches back', narrowed.list && !narrowed.desk && !narrowed.reading && !widened.list && widened.desk && widened.reading && nodes > 40,
     JSON.stringify({ narrowed, widened, nodes }));
+  /* From the workbench, the same round trip comes back to the workbench. */
+  await workbench(w);
+  await w.setViewport({ width: 600, height: 900 }); await sleep(500);
+  await w.setViewport({ width: 1500, height: 950 }); await sleep(900);
+  const back = Object.assign(await state(w), { reading: await isReading() });
+  ok('and a workbench narrowed and widened stays a workbench', !back.list && back.tools && !back.reading, JSON.stringify(back));
   await w.close();
 
   ok('no page errors', errs.length === 0, errs.slice(0, 3).join(' | '));

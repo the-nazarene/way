@@ -719,7 +719,9 @@ body.phone-reading .shared-bar .shared-text { display: none; }
 .reader-body, .reader-note { overflow-wrap: anywhere; }
 /* The real desk on a phone: the way back on top, the surface big, the editing kit put away. */
 body.phone-desk .desk-form, body.phone-desk .tray { display: none; }
-body.phone-desk .desk-tools .tool-group.tools-end > :not(.present) { display: none; }
+/* A phone's desk is for looking: PRESENT, SHARE and MORE (FIT, files) stay;
+   the trays never show here, so + ADD TO THE DESK goes, as do the editing tools. */
+body.phone-desk #btnAdd, body.phone-desk #fileOpen { display: none; }
 body.phone-desk #btnFrame, body.phone-desk #btnNote, body.phone-desk #btnTidy,
 body.phone-desk #btnSnap, body.phone-desk #btnString { display: none; }
 body.phone-desk .surface { height: 78vh; }

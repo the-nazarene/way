@@ -1024,6 +1024,7 @@
     function finish(keep) {
       if (done) return;
       done = true;
+      document.removeEventListener('pointerdown', away, true);
       var v = cleanWords(inp.value);
       if (inp.parentNode) inp.parentNode.removeChild(inp);
       wordsEdit = null;
@@ -1042,6 +1043,14 @@
       else if (e.key === 'Escape') { e.preventDefault(); e.stopPropagation(); finish(false); }
     });
     inp.addEventListener('blur', function () { finish(true); });
+    /* A press on the desk does not move the focus (the desk keeps it for its
+       keys), so a click away is caught here: it keeps what was written. */
+    var away = function (e) {
+      if (e.target === inp) return;
+      document.removeEventListener('pointerdown', away, true);
+      finish(true);
+    };
+    document.addEventListener('pointerdown', away, true);
     inp.focus(); inp.select();
     hint('Write what this string means. Enter keeps it, Esc leaves it as it was. Empty takes the words off.');
   }
@@ -2210,9 +2219,15 @@
     });
     $('btnPhonePresent').addEventListener('click', function () { startPresent(0, true); });
     if (!PHONE) return;
+    var wasReading = false;   // a walk-through put away when the window went narrow
     var changed = function () {
+      /* A prepared board's walk-through is for wide screens; a window turned
+         or narrowed to phone width gets the list, and the walk-through comes
+         back when it widens again. */
+      if (isPhone() && presenting && presenting.reading) { wasReading = true; exitPresent(); }
       var was = document.body.classList.contains('phone-reading');
       applyPhone();
+      if (!isPhone() && wasReading && !phoneDesk && viewingShared && items.length) { wasReading = false; presentFromHash(); return; }
       if (was && !phoneReading() && items.length) requestAnimationFrame(function () { fit(); drawLinks(); });
     };
     if (PHONE.addEventListener) PHONE.addEventListener('change', changed);
@@ -3518,6 +3533,12 @@
     });
 
     $('btnMore').addEventListener('click', function () { toggleMore(); });
+    /* Choosing from MORE closes it, as a menu does; SNAP and STRING MODE are
+       switches, so they leave it open to show ON or OFF. */
+    $('moreMenu').addEventListener('click', function (e) {
+      var b = e.target.closest('button');
+      if (b && !b.classList.contains('toggle')) closeMore();
+    });
     $('moreMenu').addEventListener('keydown', function (e) {
       var b = [].slice.call(this.querySelectorAll('button')), at = b.indexOf(document.activeElement);
       if (e.key === 'ArrowDown') { b[(at + 1) % b.length].focus(); e.preventDefault(); }

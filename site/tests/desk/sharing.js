@@ -1,6 +1,6 @@
 /* Opening a shared desk link must never overwrite the reader's own desk. */
 const puppeteer = require('puppeteer-core');
-const { CHROME, BASE, URL, OUT } = require('./env');
+const { CHROME, BASE, URL, OUT, tool, workbench, layCase, browseCase } = require('./env');
 const pass = [], fail = [];
 const ok = (name, cond, extra) => (cond ? pass : fail).push(name + (extra != null ? ' :: ' + extra : ''));
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -29,10 +29,7 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   /* My own desk: one case. */
   const me = await page();
   await open(me);
-  await me.evaluate(() => [].slice.call(document.querySelectorAll('.tray-case')).filter(x => /Did Jesus oppose the sacrifice/.test(x.textContent))[0].click());
-  await sleep(200);
-  await me.click('.tray-lay');
-  await sleep(1500);
+  await layCase(me, /Did Jesus oppose the sacrifice/);
   const mine = await stored(me);
   const mineIds = await ids(me);
   ok('my own desk is saved', !!mine && JSON.parse(mine).it.length === 24, mine && JSON.parse(mine).it.length);
