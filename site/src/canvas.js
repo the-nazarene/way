@@ -824,6 +824,8 @@
     drawLinks();
     updateCounts();
     $('emptyDesk').hidden = items.length > 0;
+    document.body.classList.toggle('is-empty', items.length === 0);
+    applyTrayDefault();
     applyPhone();
   }
 
@@ -1822,7 +1824,7 @@
       b.type = 'button';
       b.setAttribute('data-desk', d.slug);
       b.setAttribute('data-search', searchText([d.title, d.subtitle, d.by]));
-      b.appendChild(el('small', null, 'PREPARED · ' + d.desk.it.filter(function (x) { return x[0] !== 'f'; }).length + ' on the desk' + (d.by ? ' · ' + d.by : '')));
+      b.appendChild(el('small', null, 'PREPARED · ' + d.desk.it.filter(function (x) { return x[0] !== 'f'; }).length + ' on the desk'));
       b.appendChild(el('span', null, d.title));
       b.title = d.subtitle;
       b.addEventListener('click', function () {
@@ -1844,12 +1846,12 @@
     renderEmptyStart();
   }
 
-  /* An empty desk starts in one click: a prepared desk, or a first note. */
+  /* An empty desk asks one question. The answers: a board already laid out,
+     a case file (the whole case lays itself out), or a blank desk. */
   function renderEmptyStart() {
     var all = listedDesks(), box = $('emptyDesks');
     box.innerHTML = '';
-    $('emptyStart').hidden = !all.length;
-    all.slice(0, 3).forEach(function (d) {
+    all.forEach(function (d) {
       var b = el('button', 'tool');
       b.type = 'button';
       b.setAttribute('data-desk', d.slug);
@@ -1859,7 +1861,40 @@
       b.addEventListener('click', function () { location.hash = 'desk=' + d.slug; });
       box.appendChild(b);
     });
-    if (all.length > 3) box.appendChild(el('p', 'small', (all.length - 3) + ' more under PREPARED DESKS in the trays.'));
+    if (!all.length) box.appendChild(el('p', 'small', 'None in this build yet.'));
+    var cases = $('emptyCases');
+    cases.innerHTML = '';
+    var ordered = DATA.cards.slice().sort(function (a, b) { return a.call < b.call ? -1 : 1; });
+    ordered.forEach(function (card) {
+      var li = el('li');
+      var btn = el('button', 'tray-case');
+      btn.type = 'button';
+      btn.setAttribute('data-empty-case', card.slug);
+      btn.title = 'Lay the whole case out on the desk';
+      btn.appendChild(el('small', null, card.call + ' · ' + card.sources.length + ' sources'));
+      btn.appendChild(el('span', null, card.question));
+      btn.addEventListener('click', function () {
+        pullCase(card.slug);
+        hint('Laid out ' + card.call + ': ' + card.sources.length + ' sources, for and against. Click any card to read it.');
+      });
+      li.appendChild(btn);
+      cases.appendChild(li);
+    });
+  }
+
+  /* The trays start closed on your own desk and open on a prepared one, where
+     ON THIS DESK is the way around. Once you open or close them yourself, that
+     holds. */
+  var trayUserSet = false;
+  function showTray(on) {
+    $('tray').classList.toggle('is-collapsed', !on);
+    $('btnAdd').setAttribute('aria-expanded', on ? 'true' : 'false');
+    $('btnAdd').classList.toggle('is-on', on);
+    setTimeout(drawLinks, 220);
+  }
+  function applyTrayDefault() {
+    if (trayUserSet) return;
+    showTray(!!viewingShared);
   }
 
   function renderTrayPlaced() {
@@ -2116,7 +2151,7 @@
     if (!items.length) {
       var e = el('div', 'phone-empty');
       e.appendChild(el('p', null, 'Nothing on your desk yet. Open one of the prepared desks:'));
-      (LINKS.desks || []).forEach(function (d) {
+      listedDesks().forEach(function (d) {
         var b = el('button', 'tool', d.title);
         b.type = 'button';
         b.addEventListener('click', function () { location.hash = 'desk=' + d.slug; });
@@ -2421,6 +2456,8 @@
   function openTrayCase(slug) {
     var card = cardBySlug(slug);
     if (!card) return;
+    trayUserSet = true;
+    showTray(true);
     $('trayCasesSection').hidden = true;
     $('trayFamiliesSection').hidden = true;
     $('trayDesksSection').hidden = true;
@@ -3477,7 +3514,7 @@
     });
     $('btnStartNote').addEventListener('click', function () { $('btnNote').click(); });
     /* The start buttons sit on the surface; a press on them is not the start of a box-select. */
-    $('emptyStart').addEventListener('pointerdown', function (e) { e.stopPropagation(); });
+    $('emptyInner').addEventListener('pointerdown', function (e) { e.stopPropagation(); });
 
     $('btnClear').addEventListener('click', function () {
       closeMore();
@@ -3489,11 +3526,15 @@
       hint('Desk cleared.');
     });
 
+    $('btnAdd').addEventListener('click', function () {
+      trayUserSet = true;
+      var open = $('tray').classList.contains('is-collapsed');
+      showTray(open);
+      if (open) hint('The trays: open a case file to browse it, click a source to pin it, or drag anything onto the desk.');
+    });
     $('trayCollapse').addEventListener('click', function () {
-      var t = $('tray');
-      var collapsed = t.classList.toggle('is-collapsed');
-      this.setAttribute('aria-label', collapsed ? 'Expand the trays' : 'Collapse the trays');
-      setTimeout(drawLinks, 220);
+      trayUserSet = true;
+      showTray(false);
     });
 
     $('readerClose').addEventListener('click', closeReader);

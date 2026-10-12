@@ -50,22 +50,21 @@
 
 <div class="desk-tools">
   <div class="tool-group">
-    <button type="button" class="tool" id="btnFrame">+ FRAME</button>
-    <button type="button" class="tool" id="btnNote">+ NOTE</button>
-    <button type="button" class="tool" id="btnTidy" title="Stack the loose sources into clean columns">TIDY</button>
-    <button type="button" class="tool" id="btnFit" title="Zoom to fit everything on the desk">FIT</button>
-  </div>
-  <div class="tool-group">
-    <button type="button" class="tool toggle is-on" id="btnSnap" aria-pressed="true" title="Snap edges and stack spacing to the neighbours">SNAP</button>
-    <button type="button" class="tool toggle" id="btnString" aria-pressed="false" title="Drag from one source to another to tie string. Or drag a pin head at any time.">STRING</button>
+    <button type="button" class="tool" id="btnAdd" aria-expanded="false" aria-controls="tray" title="Open the trays: case files, prepared boards, every held source">+ ADD TO THE DESK</button>
+    <button type="button" class="tool" id="btnNote" title="Your own words on the legal pad. Never stamped, never a source.">+ NOTE</button>
   </div>
   <div class="tool-group tools-end">
     <button type="button" class="tool present" id="btnPresent" title="Walk the desk section by section, full screen. Arrow keys move, Esc ends. (P)">▶ PRESENT</button>
     <button type="button" class="tool" id="btnShare" title="Copy a link that rebuilds this exact desk for anyone who opens it">SHARE</button>
-    <button type="button" class="tool" id="btnSaveFile" title="Save this desk as a file you keep. Clearing the browser can't lose it. (Ctrl-S)">SAVE FILE</button>
     <div class="more">
-      <button type="button" class="tool more-btn" id="btnMore" aria-haspopup="true" aria-expanded="false" aria-controls="moreMenu" title="More: open a file, copy the JSON, clear the desk">⋯ MORE</button>
+      <button type="button" class="tool more-btn" id="btnMore" aria-haspopup="true" aria-expanded="false" aria-controls="moreMenu" title="More: sections, tidy, fit, snap, string, files">⋯ MORE</button>
       <div class="more-menu" id="moreMenu" role="menu" hidden>
+        <button type="button" role="menuitem" id="btnFrame" title="A titled section. Drag its name bar to move everything inside it.">+ FRAME (A SECTION)</button>
+        <button type="button" role="menuitem" id="btnTidy" title="Stack the loose sources into clean columns">TIDY</button>
+        <button type="button" role="menuitem" id="btnFit" title="Zoom to fit everything on the desk">FIT</button>
+        <button type="button" role="menuitem" class="toggle is-on" id="btnSnap" aria-pressed="true" title="Snap edges and stack spacing to the neighbours">SNAP</button>
+        <button type="button" role="menuitem" class="toggle" id="btnString" aria-pressed="false" title="Click one source, then another, to tie string. Or drag a pin head at any time.">STRING MODE</button>
+        <button type="button" role="menuitem" id="btnSaveFile" title="Save this desk as a file you keep. Clearing the browser can't lose it. (Ctrl-S)">SAVE FILE<span class="menu-key"><kbd data-mod>Ctrl</kbd> <kbd>S</kbd></span></button>
         <button type="button" role="menuitem" id="btnOpenFile" title="Open a desk file, or drop one onto the desk. Your own desk stays as it is.">OPEN FILE<span class="menu-key"><kbd data-mod>Ctrl</kbd> <kbd>O</kbd></span></button>
         <button type="button" role="menuitem" id="btnJson" title="Copy the desk as JSON, the form a prepared desk is kept in">COPY JSON</button>
         <button type="button" role="menuitem" class="danger" id="btnClear">CLEAR THE DESK</button>
@@ -152,17 +151,26 @@
       </datalist>
       <div class="marquee" id="marquee" hidden></div>
       <div class="empty-desk" id="emptyDesk">
-        <div class="empty-inner">
-          <div class="eyebrow">AN EMPTY DESK</div>
-          <div class="empty-start" id="emptyStart" hidden>
-            <p>Start with a desk already laid out:</p>
-            <div class="empty-desks" id="emptyDesks"></div>
-            <p class="small">or</p>
-            <button type="button" class="tool" id="btnStartNote">+ START WITH A NOTE</button>
+        <div class="empty-inner" id="emptyInner">
+          <div class="eyebrow">THE DESK · AN OPEN SURFACE FOR THE EVIDENCE</div>
+          <h1 class="empty-q">What goes on the desk?</h1>
+          <div class="empty-start" id="emptyStart">
+            <div class="empty-choice">
+              <div class="eyebrow">A BOARD ALREADY LAID OUT</div>
+              <div class="empty-desks" id="emptyDesks"></div>
+            </div>
+            <div class="empty-choice">
+              <div class="eyebrow">A CASE FILE FROM THE READING ROOM</div>
+              <p class="small">The whole case lays itself out: the question, the evidence for and against, the string.</p>
+              <ul class="empty-cases" id="emptyCases"></ul>
+            </div>
+            <div class="empty-choice">
+              <div class="eyebrow">OR START BLANK</div>
+              <button type="button" class="tool" id="btnStartNote">+ START WITH A NOTE</button>
+              <p class="small">Pull sources in as you go with <strong>+ ADD TO THE DESK</strong>.</p>
+            </div>
           </div>
-          <p>Drag a case file from the trays on the left onto the desk, or type a subject or a verse above and the held sources come to you.</p>
-          <p class="small">Click a card to read it and follow its thread: every verse and case it points to can come onto the desk, tied to it by string. Drag a card to move it. Drag from its pin head to tie string. Drag the desk to box-select. Middle-drag or hold space to pan. Ctrl-scroll to zoom.</p>
-          <p class="small">Press <kbd>?</kbd> any time for the controls.</p>
+          <p class="small empty-foot">Nothing on this desk is generated. Every card carries the stamp it was built with. Press <kbd>?</kbd> any time for the controls.</p>
         </div>
       </div>
 
