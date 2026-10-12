@@ -492,6 +492,17 @@ body.presenting .frame-title input { pointer-events: none; }
 body.presenting .node .notepad textarea { cursor: pointer; }
 body.presenting .node.is-selected .pincard, body.presenting .node.is-selected .qcard { outline: 0; }
 
+/* Reading a prepared board: the same walk as present mode, but under the
+   page's own header and inside the desk's frame, with nothing else on
+   screen. OPEN THE WORKBENCH brings the trays and tools back. */
+body.reading { overflow: auto; }
+body.reading .top { display: flex !important; }
+body.reading .surface {
+  position: relative; inset: auto; width: auto; height: calc(100vh - 150px); min-height: 440px;
+  border: 4px solid var(--board-border); z-index: auto; box-shadow: inset 0 0 90px rgba(0, 0, 0, 0.6);
+}
+body.reading .pres-caption { top: 22px; }
+
 /* The spotlight: the section on screen stays lit, the rest of the board recedes. */
 .node, .frame { transition: opacity 0.45s ease; }
 .node.pres-dim, .frame.pres-dim { opacity: 0.13; }
@@ -538,6 +549,10 @@ body.presenting .node.is-selected .pincard, body.presenting .node.is-selected .q
 /* Resting pointer: the bar and cursor get out of the way. */
 body.pres-idle .pres-bar { opacity: 0; pointer-events: none; }
 body.pres-idle.presenting .surface { cursor: none; }
+/* Reading a board, the bar stays: a visitor should not have to know it comes back on a mouse move. */
+body.reading .pres-bar { opacity: 1; pointer-events: auto; }
+body.reading #presLink, body.reading .pres-keys { display: none; }
+body.reading.pres-idle .surface { cursor: default; }
 
 /* Present from the tray: the section list and the prepared desks. */
 .tray-here li.has-play { display: flex; gap: 5px; align-items: stretch; }
