@@ -21,6 +21,9 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
     await p.waitForSelector('.tray-case');
     await p.waitForFunction(() => document.getElementById('hudCounts').textContent.length > 0);
     await sleep(1000);
+    /* A prepared board opens as a walk-through when the page loads fresh (on a
+       host that drops .html, every goto is a fresh load); step to the workbench. */
+    if (/desk=/.test(hash || '')) await workbench(p);
   };
   const hint = p => p.evaluate(() => document.getElementById('dhint').textContent);
   const search = async (p, q) => {
