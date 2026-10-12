@@ -2327,6 +2327,9 @@
      inside the frame. Full screen from there is the ordinary show. */
   function startPresent(at, full, reading) {
     if (!items.length) { hint('There is nothing on the desk to present yet.'); return; }
+    /* On a phone's list, every way in (the button, the P key, a link) walks
+       the list instead of shrinking the board into the screen. */
+    if (phoneReading()) { startPhoneWalk(at || 0); return; }
     closeMore();
     if (presenting) { goSlide(at || 0); return; }
     closeReader();
@@ -2915,6 +2918,7 @@
   }
 
   function openShared(s) {
+    if (phoneWalk != null) endPhoneWalk();   // a walk belongs to the board it started on
     try { decode(s.json); } catch (err) { hint('That desk link could not be read.'); return; }
     viewingShared = true;
     sharedMeta = s.prepared || null;

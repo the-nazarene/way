@@ -189,6 +189,9 @@ const PHONE = { width: 390, height: 844, isMobile: true, hasTouch: true, deviceS
   await tap(p, '#btnPhonePresent'); await sleep(400);
   await p.keyboard.press('Escape'); await sleep(300);
   ok('Esc ends the walk too', !(await walk()).on);
+  await p.keyboard.press('p'); await sleep(400);
+  ok('the P key on a phone (a keyboard case, a tablet) walks the list too', (await walk()).on && !(await walk()).presenting);
+  await p.keyboard.press('Escape'); await sleep(300);
   await p.close();
 
   /* A present link opens a phone's walk on that section. */
