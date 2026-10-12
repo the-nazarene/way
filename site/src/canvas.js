@@ -824,6 +824,8 @@
     drawLinks();
     updateCounts();
     $('emptyDesk').hidden = items.length > 0;
+    document.body.classList.toggle('is-empty', items.length === 0);
+    applyTrayDefault();
     applyPhone();
   }
 
@@ -1662,12 +1664,12 @@
 
   /* The view that fits box b inside the surface, less the padding on each
      side, no larger than maxScale. */
-  function fitTarget(b, pad, maxScale) {
+  function fitTarget(b, pad, maxScale, minScale) {
     pad = pad || { t: 56, r: 56, b: 56, l: 56 };
     var r = $('surface').getBoundingClientRect();
     var w = Math.max(1, r.width - pad.l - pad.r), h = Math.max(1, r.height - pad.t - pad.b);
     var bw = Math.max(1, b.x2 - b.x1), bh = Math.max(1, b.y2 - b.y1);
-    var s = clamp(Math.min(w / bw, h / bh), MIN_Z, maxScale || 1.15);
+    var s = clamp(Math.min(w / bw, h / bh), minScale || MIN_Z, maxScale || 1.15);
     return { scale: s, x: pad.l + (w - bw * s) / 2 - b.x1 * s, y: pad.t + (h - bh * s) / 2 - b.y1 * s };
   }
 
@@ -1822,11 +1824,11 @@
       b.type = 'button';
       b.setAttribute('data-desk', d.slug);
       b.setAttribute('data-search', searchText([d.title, d.subtitle, d.by]));
-      b.appendChild(el('small', null, 'PREPARED · ' + d.desk.it.filter(function (x) { return x[0] !== 'f'; }).length + ' on the desk' + (d.by ? ' · ' + d.by : '')));
+      b.appendChild(el('small', null, 'PREPARED · ' + d.desk.it.filter(function (x) { return x[0] !== 'f'; }).length + ' on the desk'));
       b.appendChild(el('span', null, d.title));
       b.title = d.subtitle;
       b.addEventListener('click', function () {
-        if (location.hash === '#desk=' + d.slug) openShared({ json: JSON.stringify(d.desk), prepared: d });
+        if (location.hash === '#desk=' + d.slug) { if (presenting) exitPresent(); openShared({ json: JSON.stringify(d.desk), prepared: d }); presentFromHash(); }
         else location.hash = 'desk=' + d.slug;
       });
       li.appendChild(b);
@@ -1844,12 +1846,12 @@
     renderEmptyStart();
   }
 
-  /* An empty desk starts in one click: a prepared desk, or a first note. */
+  /* An empty desk asks one question. The answers: a board already laid out,
+     a case file (the whole case lays itself out), or a blank desk. */
   function renderEmptyStart() {
     var all = listedDesks(), box = $('emptyDesks');
     box.innerHTML = '';
-    $('emptyStart').hidden = !all.length;
-    all.slice(0, 3).forEach(function (d) {
+    all.forEach(function (d) {
       var b = el('button', 'tool');
       b.type = 'button';
       b.setAttribute('data-desk', d.slug);
@@ -1859,7 +1861,40 @@
       b.addEventListener('click', function () { location.hash = 'desk=' + d.slug; });
       box.appendChild(b);
     });
-    if (all.length > 3) box.appendChild(el('p', 'small', (all.length - 3) + ' more under PREPARED DESKS in the trays.'));
+    if (!all.length) box.appendChild(el('p', 'small', 'None in this build yet.'));
+    var cases = $('emptyCases');
+    cases.innerHTML = '';
+    var ordered = DATA.cards.slice().sort(function (a, b) { return a.call < b.call ? -1 : 1; });
+    ordered.forEach(function (card) {
+      var li = el('li');
+      var btn = el('button', 'tray-case');
+      btn.type = 'button';
+      btn.setAttribute('data-empty-case', card.slug);
+      btn.title = 'Lay the whole case out on the desk';
+      btn.appendChild(el('small', null, card.call + ' · ' + card.sources.length + ' sources'));
+      btn.appendChild(el('span', null, card.question));
+      btn.addEventListener('click', function () {
+        pullCase(card.slug);
+        hint('Laid out ' + card.call + ': ' + card.sources.length + ' sources, for and against. Click any card to read it.');
+      });
+      li.appendChild(btn);
+      cases.appendChild(li);
+    });
+  }
+
+  /* The trays start closed on your own desk and open on a prepared one, where
+     ON THIS DESK is the way around. Once you open or close them yourself, that
+     holds. */
+  var trayUserSet = false;
+  function showTray(on) {
+    $('tray').classList.toggle('is-collapsed', !on);
+    $('btnAdd').setAttribute('aria-expanded', on ? 'true' : 'false');
+    $('btnAdd').classList.toggle('is-on', on);
+    setTimeout(drawLinks, 220);
+  }
+  function applyTrayDefault() {
+    if (trayUserSet) return;
+    showTray(!!viewingShared);
   }
 
   function renderTrayPlaced() {
@@ -2116,7 +2151,7 @@
     if (!items.length) {
       var e = el('div', 'phone-empty');
       e.appendChild(el('p', null, 'Nothing on your desk yet. Open one of the prepared desks:'));
-      (LINKS.desks || []).forEach(function (d) {
+      listedDesks().forEach(function (d) {
         var b = el('button', 'tool', d.title);
         b.type = 'button';
         b.addEventListener('click', function () { location.hash = 'desk=' + d.slug; });
@@ -2206,16 +2241,22 @@
   }
   function closeMore() { if (!$('moreMenu').hidden) toggleMore(false); }
 
-  function startPresent(at, full) {
+  /* reading: the walk-through a prepared board opens in, under the header and
+     inside the frame. Full screen from there is the ordinary show. */
+  function startPresent(at, full, reading) {
     if (!items.length) { hint('There is nothing on the desk to present yet.'); return; }
     closeMore();
     if (presenting) { goSlide(at || 0); return; }
     closeReader();
     toggleHelp(false);
     var slides = presentSlides();
-    presenting = { slides: slides, i: 0, before: { x: tf.x, y: tf.y, scale: tf.scale }, full: false, anim: 0, idle: 0 };
+    presenting = { slides: slides, i: 0, before: { x: tf.x, y: tf.y, scale: tf.scale }, full: false, anim: 0, idle: 0, reading: !!reading };
     sel = {}; renderSelection();
     document.body.classList.add('presenting');
+    document.body.classList.toggle('reading', !!reading);
+    $('presWork').hidden = !reading;
+    $('presExit').hidden = !!reading;
+    $('presKeys').textContent = reading ? '← → move · click a card to read it' : '← → move · click a card to read it · Esc ends';
     applyPhone();
     setNotesReadOnly(true);
     buildDots();
@@ -2224,7 +2265,10 @@
     wakeBar();
     if (full) toggleFull(true);
     /* The surface has just changed size; fit once the browser has laid it out. */
-    requestAnimationFrame(function () { requestAnimationFrame(function () { goSlide(clamp(at || 0, 0, slides.length - 1), true); }); });
+    requestAnimationFrame(function () { requestAnimationFrame(function () { goSlide(clamp(at || 0, 0, slides.length - 1), true); }); });    /* The caption is measured to keep the board clear of it; measure again once the
+       faces have arrived, or a title set in the fallback font sits on the cards. */
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { if (presenting) goSlide(presenting.i, true); });
+    setTimeout(function () { if (presenting) goSlide(presenting.i, true); }, 900);
   }
 
   function exitPresent() {
@@ -2233,7 +2277,7 @@
     presenting = null; presFocus = null;
     cancelAnimationFrame(P.anim);
     clearTimeout(P.idle);
-    document.body.classList.remove('presenting', 'pres-idle');
+    document.body.classList.remove('presenting', 'pres-idle', 'reading');
     applyPhone();
     $('presCaption').hidden = true;
     $('presBar').hidden = true;
@@ -2248,7 +2292,8 @@
       tf.x = P.before.x; tf.y = P.before.y; tf.scale = P.before.scale;
       applyTransform(); drawLinks();
     });
-    hint('Presentation ended. Press P, or the PRESENT button, to start again.');
+    hint(P.reading ? 'The workbench. Move anything, add sources from the trays, tie your own string. KEEP THIS AS MY DESK saves it as yours.' :
+      'Presentation ended. Press P, or the PRESENT button, to start again.');
   }
 
   function goSlide(i, instant) {
@@ -2262,7 +2307,7 @@
       presFocus[f.id] = true;
       membersOf(f).forEach(function (m) { presFocus[m.id] = true; });
       box = { x1: f.x - 24, y1: f.y - 36, x2: f.x + f.w + 24, y2: f.y + f.h + 24 };
-      $('presEyebrow').textContent = 'SECTION ' + i + ' OF ' + (P.slides.length - 1);
+      $('presEyebrow').textContent = (P.reading && sharedMeta ? sharedMeta.title.toUpperCase() + ' · ' : '') + 'SECTION ' + i + ' OF ' + (P.slides.length - 1);
       $('presTitle').textContent = f.title || 'UNTITLED';
       $('presSub').textContent = membersOf(f).length + ' on the board in this section';
     } else {
@@ -2279,7 +2324,9 @@
     var cap = $('presCaption').getBoundingClientRect(), bar = $('presBar').getBoundingClientRect();
     var pad = { t: Math.max(PRES_PAD.t, cap.bottom - sr.top + 26), r: PRES_PAD.r, l: PRES_PAD.l,
                 b: Math.max(PRES_PAD.b, sr.bottom - bar.top + 22) };
-    if (box) animateTo(fitTarget(box, pad, 1.8), instant ? 0 : 700);
+    /* Reading in the frame, the whole-board map may need to go smaller than the
+       desk's zoom floor; it is a map, not a page to read. */
+    if (box) animateTo(fitTarget(box, pad, 1.8, P.reading && !f ? 0.1 : MIN_Z), instant ? 0 : 700);
     applySpotlight(); drawLinks();
     var dots = $('presDots').children;
     for (var d = 0; d < dots.length; d++) {
@@ -2392,6 +2439,7 @@
     $('presOverview').addEventListener('click', function () { this.blur(); closeReader(); goSlide(0); });
     $('presFull').addEventListener('click', function () { this.blur(); toggleFull(); });
     $('presExit').addEventListener('click', function () { this.blur(); exitPresent(); });
+    $('presWork').addEventListener('click', function () { this.blur(); exitPresent(); });
     $('presLink').addEventListener('click', function () { copyText(presentLink(), this); this.blur(); });
     /* The bar and caption are not the desk: no panning starts on them. */
     ['presBar', 'presCaption'].forEach(function (id) {
@@ -2401,6 +2449,7 @@
     document.addEventListener('fullscreenchange', function () {
       if (!presenting) return;
       if (document.fullscreenElement) presenting.full = true;
+      else if (presenting.full && presenting.reading) presenting.full = false;   // back to reading in the frame
       else if (presenting.full) { exitPresent(); return; }   // Esc in full screen ends the show, as in any slideshow
       goSlide(presenting.i, true);
     });
@@ -2410,7 +2459,9 @@
   /* canvas.html#desk=<slug>&present[=n] opens straight into the show. */
   function presentFromHash() {
     var m = /[#&]present(?:=(\d+))?(?:&|$)/.exec(location.hash);
-    if (m) startPresent(m[1] ? +m[1] : 0, false);
+    if (m) { startPresent(m[1] ? +m[1] : 0, false); return; }
+    /* A prepared board opens as a walk-through, not as a workbench. */
+    if (viewingShared && sharedMeta && sharedMeta.slug && !isPhone() && items.length) startPresent(presentSlides().length > 1 ? 1 : 0, false, true);
   }
 
   /* ================= a case file, open in the tray =================
@@ -2421,6 +2472,8 @@
   function openTrayCase(slug) {
     var card = cardBySlug(slug);
     if (!card) return;
+    trayUserSet = true;
+    showTray(true);
     $('trayCasesSection').hidden = true;
     $('trayFamiliesSection').hidden = true;
     $('trayDesksSection').hidden = true;
@@ -3477,7 +3530,7 @@
     });
     $('btnStartNote').addEventListener('click', function () { $('btnNote').click(); });
     /* The start buttons sit on the surface; a press on them is not the start of a box-select. */
-    $('emptyStart').addEventListener('pointerdown', function (e) { e.stopPropagation(); });
+    $('emptyInner').addEventListener('pointerdown', function (e) { e.stopPropagation(); });
 
     $('btnClear').addEventListener('click', function () {
       closeMore();
@@ -3489,11 +3542,15 @@
       hint('Desk cleared.');
     });
 
+    $('btnAdd').addEventListener('click', function () {
+      trayUserSet = true;
+      var open = $('tray').classList.contains('is-collapsed');
+      showTray(open);
+      if (open) hint('The trays: open a case file to browse it, click a source to pin it, or drag anything onto the desk.');
+    });
     $('trayCollapse').addEventListener('click', function () {
-      var t = $('tray');
-      var collapsed = t.classList.toggle('is-collapsed');
-      this.setAttribute('aria-label', collapsed ? 'Expand the trays' : 'Collapse the trays');
-      setTimeout(drawLinks, 220);
+      trayUserSet = true;
+      showTray(false);
     });
 
     $('readerClose').addEventListener('click', closeReader);
