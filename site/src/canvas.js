@@ -460,6 +460,22 @@
 
   /* origin: the id of the card this came from, to tie string to (or null).
      at: a world point to drop at, or null to land beside the origin. */
+  /* On a phone the tray and the reader cover the desk. After a pin, put them
+     away, bring the desk into view and zoom to the card that just landed. */
+  function phoneShow(id) {
+    closeReader();
+    showTray(false);
+    var it = itemById(id);
+    if (!it) return;
+    var bx = boxOf(it);
+    $('surface').scrollIntoView({ block: 'center', behavior: 'smooth' });
+    /* Wait for the tray to close and the page to settle, or a re-fit undoes the zoom. */
+    setTimeout(function () {
+      animateTo(fitTarget({ x1: bx.x - 40, y1: bx.y - 60, x2: bx.x + bx.w + 40, y2: bx.y + bx.h + 60 }, { t: 20, r: 20, b: 20, l: 20 }, 0.85), 0);   // animateTo only glides while presenting
+      applyTransform(); setTimeout(function () { flash(id); }, 60);
+    }, 320);
+  }
+
   function spawn(p, origin, at) {
     var id = thingId(p);
     if (!id) return;
@@ -472,7 +488,7 @@
         drawLinks(); updateCounts(); save();
         hint(thingLabel(p) + ' was already on the desk, so the string was tied to it there.');
       } else hint(thingLabel(p) + ' is already on the desk.');
-      flash(id);
+      if (isPhone() && phoneDesk) phoneShow(id); else flash(id);
       return;
     }
     pushUndo();
@@ -488,7 +504,9 @@
     var it = addThing(p, spot.x, spot.y);
     if (!it) { cancelUndo(); return; }
     if (origin && origin !== id) links.push({ a: origin, b: id });
+    phoneFocusing = isPhone() && phoneDesk;
     renderAll();
+    phoneFocusing = false;
     /* A dropped card locks to its neighbours the same way a dragged one does. */
     sel = {}; sel[id] = true;
     if (at) {
@@ -497,7 +515,8 @@
       position(it);
     }
     renderSelection(); drawLinks(); updateCounts(); save();
-    if (!at) ensureVisible(it);
+    if (isPhone() && phoneDesk) phoneShow(id);
+    else if (!at) ensureVisible(it);
     hint(thingLabel(p) + (origin ? ' is on the desk, tied to the card it came from.' : ' is on the desk.') + ' Ctrl-Z takes it off.');
   }
 
@@ -829,7 +848,7 @@
        the tray away and show the desk, so the new card is in view. */
     if (isPhone() && phoneDesk && items.length > phoneSeen && !$('tray').classList.contains('is-collapsed')) {
       showTray(false);
-      requestAnimationFrame(function () { fit(); $('surface').scrollIntoView({ block: 'center', behavior: 'smooth' }); });
+      if (!phoneFocusing) requestAnimationFrame(function () { fit(); $('surface').scrollIntoView({ block: 'center', behavior: 'smooth' }); });
     }
     phoneSeen = items.length;
     applyTrayDefault();
@@ -1893,7 +1912,8 @@
      ON THIS DESK is the way around. Once you open or close them yourself, that
      holds. */
   var trayUserSet = false;
-  var phoneSeen = 0;   // items on the desk at the last render, to notice a pin on a phone
+  var phoneSeen = 0;
+  var phoneFocusing = false;   // spawn is about to zoom to the new card itself   // items on the desk at the last render, to notice a pin on a phone
   function showTray(on) {
     $('tray').classList.toggle('is-collapsed', !on);
     $('btnAdd').setAttribute('aria-expanded', on ? 'true' : 'false');
