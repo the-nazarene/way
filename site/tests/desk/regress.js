@@ -1,6 +1,6 @@
 /* Drive the Desk in a real viewport and assert the behaviour Rex asked for. */
 const puppeteer = require('puppeteer-core');
-const { CHROME, BASE, URL, OUT } = require('./env');
+const { CHROME, BASE, URL, OUT, tool, workbench, layCase, browseCase } = require('./env');
 const pass = [], fail = [];
 const ok = (name, cond, extra) => { const l = name + (extra ? ' :: ' + extra : ''); (cond ? pass : fail).push(l); console.log((cond ? 'live ok  ' : 'live XX  ') + l); };
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -35,14 +35,10 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   ok('empty state shows', boot.empty === true);
 
   // ---- pull a whole case ----
-  await page.evaluate(() => {
-    [].slice.call(document.querySelectorAll('.tray-case'))
-      .filter(x => /296\.1/.test(x.textContent))[0].click();
-  });
-  await sleep(200);
-  /* A tray row now opens the case for browsing; laying it out is one more click. */
-  await page.click('.tray-lay');
-  await sleep(500);
+  /* An empty desk offers the case files on the desk itself (the trays stay
+     hidden until there is something on it); one click lays the case out. */
+  await page.click('#emptyCases [data-empty-case="' + await page.evaluate(() => [].slice.call(document.querySelectorAll('#emptyCases .tray-case')).filter(x => /296\.1/.test(x.textContent))[0].getAttribute('data-empty-case')) + '"]');
+  await sleep(700);
   await page.screenshot({ path: OUT + '/shot-01-case.png' });
 
   const afterPull = await page.evaluate(() => {
@@ -151,7 +147,7 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   ok('ctrl-z restored the exact position', undone === yBeforeDrag, 'after undo=' + undone + ' before drag=' + yBeforeDrag);
 
   // ---- a frame carries its contents ----
-  await page.click('#btnFrame');
+  await tool(page, '#btnFrame');
   await sleep(300);
   const frameInfo = await page.evaluate(() => {
     const f = document.querySelector('.frame');
@@ -208,7 +204,7 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   ok('note added', await page.evaluate(() => !!document.querySelector('.notepad textarea')));
 
   // ---- tidy + fit ----
-  await page.click('#btnTidy');
+  await tool(page, '#btnTidy');
   await sleep(400);
   await page.screenshot({ path: OUT + '/shot-04-tidy.png' });
   const g2 = await measureGaps();

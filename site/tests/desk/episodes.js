@@ -3,7 +3,7 @@
 const puppeteer = require('puppeteer-core');
 const fs = require('fs');
 const path = require('path');
-const { CHROME, URL, OUT } = require('./env');
+const { CHROME, URL, OUT, tool, workbench, layCase, browseCase } = require('./env');
 const pass = [], fail = [];
 const ok = (name, cond, extra) => { const l = name + (extra != null ? ' :: ' + extra : ''); (cond ? pass : fail).push(l); console.log((cond ? 'live ok  ' : 'live XX  ') + l); };
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -23,6 +23,7 @@ const BOARDS = INDEX.desks.filter(d => /^jesus-way-/.test(d.slug));
     await p.goto(URL + hash, { waitUntil: 'load' });
     await p.waitForSelector('.tray-case');
     await sleep(1200);
+    await workbench(p);   // a prepared board opens as a walk-through
     return p;
   };
 

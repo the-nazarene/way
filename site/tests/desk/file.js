@@ -3,7 +3,7 @@ const puppeteer = require('puppeteer-core');
 const fs = require('fs');
 const os = require('os');
 const path = require('path');
-const { CHROME, URL } = require('./env');
+const { CHROME, URL, tool, workbench, layCase, browseCase } = require('./env');
 const pass = [], fail = [];
 const ok = (name, cond, extra) => { const l = name + (extra != null ? ' :: ' + extra : ''); (cond ? pass : fail).push(l); console.log((cond ? 'live ok  ' : 'live XX  ') + l); };
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -26,6 +26,7 @@ const waitFile = async (n, ms) => { const t0 = Date.now(); while (Date.now() - t
     await p.waitForSelector('.tray-case');
     await p.waitForFunction(() => document.getElementById('hudCounts').textContent.length > 0);
     await sleep(1000);
+    if (/desk=/.test(hash || '')) await workbench(p);   // prepared boards open as a walk-through
   };
   const nodes = () => p.evaluate(() => document.querySelectorAll('.nodes .node').length);
   const hint = () => p.evaluate(() => document.getElementById('dhint').textContent);
@@ -36,19 +37,20 @@ const waitFile = async (n, ms) => { const t0 = Date.now(); while (Date.now() - t
   await open();
   await p.evaluate(() => localStorage.clear());
   await open();
-  await p.click('#btnSaveFile'); await sleep(500);
+  /* An empty desk shows no tools; Ctrl-S still answers. */
+  await p.keyboard.down('Control'); await p.keyboard.press('s'); await p.keyboard.up('Control'); await sleep(500);
   ok('an empty desk has nothing to save, and says so', files().length === 0 && /nothing to save/.test(await hint()));
 
   await open('#desk=essenes-sacrifice-meat');
-  ok('SAVE FILE is on the toolbar, OPEN FILE one click away under MORE', await p.evaluate(() => {
+  ok('SAVE FILE and OPEN FILE are one click away under MORE', await p.evaluate(() => {
     const vis = id => document.getElementById(id).offsetParent !== null;
-    if (!vis('btnSaveFile') || vis('btnOpenFile')) return false;
+    if (vis('btnSaveFile') || vis('btnOpenFile')) return false;
     document.getElementById('btnMore').click();
-    const shown = vis('btnOpenFile');
+    const shown = vis('btnSaveFile') && vis('btnOpenFile');
     document.getElementById('btnMore').click();
     return shown;
   }));
-  await p.click('#btnSaveFile');
+  await tool(p, '#btnSaveFile');
   const got = await waitFile(1);
   const saved = got ? files()[0] : null;
   ok('SAVE FILE downloads the desk', got, saved);
@@ -121,7 +123,7 @@ const waitFile = async (n, ms) => { const t0 = Date.now(); while (Date.now() - t
 
   /* ---------- a saved file from a file keeps its name ---------- */
   await upload(raw); await sleep(800);
-  await p.click('#btnSaveFile'); await sleep(300);
+  await tool(p, '#btnSaveFile'); await sleep(300);
   ok('saving a desk opened from a file keeps that file\'s name', /Saved as copied-layout-\d{4}-\d{2}-\d{2}\.json/.test(await hint()), await hint());
 
   ok('no console errors', errs.length === 0, errs.join(' | '));

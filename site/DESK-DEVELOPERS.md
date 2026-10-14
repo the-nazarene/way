@@ -198,7 +198,7 @@ npm test             # builds the site, serves it, runs every suite
 npm test -- present  # one suite
 ```
 
-About five minutes for all of it, 439 checks. Chrome is found automatically. Set `CHROME_PATH` if it isn't, or `DESK_URL` to test a site that's already being served. Screenshots go to your temp folder (`desk-test-shots`).
+About five minutes for all of it, 467 checks. Chrome is found automatically. Set `CHROME_PATH` if it isn't, or `DESK_URL` to test a site that's already being served. Screenshots go to your temp folder (`desk-test-shots`).
 
 | Suite | Covers |
 |---|---|
@@ -212,8 +212,10 @@ About five minutes for all of it, 439 checks. Chrome is found automatically. Set
 | `help` | The ? panel: opening, closing, focus, small screens, out of the way while presenting |
 | `episodes` | Every episode board: each card the build kept is shown, no overlaps, moments stamped pointer, readers, search, keeping a board, invented moments dropped |
 | `words` | Words on string: writing them by double-click and Aa, Enter, Esc, clearing, the 40-letter limit, undo, saving, reloading, desk links, presenting, phones, bad data |
-| `toolbar` | The toolbar is one row at 1500, 1280 and 1024px; the MORE menu (keys, Esc, click away, each item); SHARE; search suggestions never cover it; the empty desk's one-click start; phones |
-| `phone` | Phones: the desk as a list (every card once, sections in order, TIED TO, no sideways scroll), tapping to read, the thread opening without pinning, OPEN AS A DESK and back, present, an empty desk, a window narrowed and widened |
+| `toolbar` | Matt's five-button rail is one row at 1500, 1280 and 1024px; + ADD TO THE DESK and the trays; the MORE menu (keys, Esc, click away, each item, closing on a choice); SHARE; search suggestions never cover it; the empty desk's one-click start; phones |
+| `phone` | Phones: the desk as a list (every card once, sections in order, TIED TO, no sideways scroll), tapping to read, the thread opening without pinning, OPEN AS A DESK and back, the section-by-section walk (buttons, swipes, Esc, `&present=n`), sizes for a finger, an empty desk, a window narrowed and widened |
+
+Helpers in `env.js` follow the Desk as a reader meets it: `workbench(p)` steps from a prepared board's walk-through to the workbench, `tool(p, '#btnFit')` opens MORE first when the tool lives there, `layCase(p, /question/)` lays out a case from the empty desk's offer or the trays, and `browseCase` opens one in the trays. Use them rather than clicking ids directly, so a change of layout means one fix, not twelve.
 
 Two things that bite when writing tests: Chrome doesn't paint background tabs, so call `bringToFront()` on a page before measuring or screenshotting it after opening another. And scroll a tray item into view before dragging it.
 

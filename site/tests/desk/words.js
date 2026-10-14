@@ -1,7 +1,7 @@
 /* Words on string: a string can say what it means ("answers", "quotes"),
    and the words travel with the desk: saved, shared, presented, on phones. */
 const puppeteer = require('puppeteer-core');
-const { CHROME, URL, OUT } = require('./env');
+const { CHROME, URL, OUT, tool, workbench, layCase, browseCase } = require('./env');
 const pass = [], fail = [];
 const ok = (name, cond, extra) => { const l = name + (extra != null ? ' :: ' + extra : ''); (cond ? pass : fail).push(l); console.log((cond ? 'live ok  ' : 'live XX  ') + l); };
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -50,7 +50,7 @@ const DESK = {
     localStorage.setItem('way.desk.v1', JSON.stringify(d)); sessionStorage.setItem('seeded', '1');
   }, DESK);
   await p.goto(URL, { waitUntil: 'load' }); await p.waitForSelector('.tray-case'); await sleep(900);
-  await p.click('#btnFit'); await sleep(500);
+  await tool(p, '#btnFit'); await sleep(500);
   ok('a desk opens with its words on the string', JSON.stringify(await words(p)) === '["answers"]', JSON.stringify(await words(p)));
   ok('a string saved without words still opens, plainly', await p.evaluate(() => document.querySelectorAll('#links .string-line').length) === 2);
   const lab = await midOf(p, '#linkWords .string-words');
@@ -125,7 +125,7 @@ const DESK = {
   ok('a reload keeps the words', JSON.stringify((await words(p)).sort()) === '["quotes","supports"]', JSON.stringify(await words(p)));
 
   /* Cutting a string takes its words with it. */
-  await p.click('#btnFit'); await sleep(400);
+  await tool(p, '#btnFit'); await sleep(400);
   const q = await midOf(p, '#linkWords .string-words');
   await p.mouse.click(q.x, q.y); await sleep(150);
   await key(p, 'Delete');
