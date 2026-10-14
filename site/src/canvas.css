@@ -833,3 +833,17 @@ body.phone-desk .surface { height: 78vh; }
   .desk-narrow .tool { margin-top: 0; flex: none; }
   .desk-body.is-empty .desk-narrow, body.reading .desk-narrow { display: none !important; }
 }
+/* Phone-only ways back: START OVER on your own desk, BACK on a board's walk-through. */
+.phone-only { display: none !important; }
+@media (max-width: 820px) {
+  .desk-tools #btnStartOver { display: inline-flex !important; align-items: center; }
+  body.reading #presBack { display: inline-block !important; }
+  body.phone-desk #btnNote { display: none; }
+}
+@media (max-width: 820px) {
+  body.reading .pres-bar button { white-space: nowrap; }
+  body.reading .pres-bar .pres-dot { width: 9px; height: 9px; }
+  body.reading .pres-dots { gap: 4px; padding: 0 2px; }
+  body.reading .pres-bar .pres-arrow { width: 34px; }
+}
+@media (max-width: 820px) { body.reading .pres-bar .pres-dot { flex: none; min-width: 0; padding: 0; aspect-ratio: 1; } }

@@ -3588,6 +3588,22 @@
       hint('Desk cleared.');
     });
 
+    /* A phone has no MORE menu and no Ctrl-Z: START OVER is the way back to the first question. */
+    $('btnStartOver').addEventListener('click', function () {
+      if (!items.length) return;
+      if (!window.confirm('Clear the desk and start over?')) return;
+      pushUndo();
+      items = []; links = []; sel = {};
+      closeReader();
+      renderAll(); save();
+      window.scrollTo(0, 0);
+    });
+    $('presBack').addEventListener('click', function () {
+      exitPresent();
+      if (viewingShared) backToMine();
+      window.scrollTo(0, 0);
+    });
+
     $('btnAdd').addEventListener('click', function () {
       trayUserSet = true;
       var open = $('tray').classList.contains('is-collapsed');

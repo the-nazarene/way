@@ -50,6 +50,7 @@
 
 <div class="desk-tools">
   <div class="tool-group">
+    <button type="button" class="tool phone-only" id="btnStartOver" title="Clear the desk and choose again">← START OVER</button>
     <button type="button" class="tool" id="btnAdd" aria-expanded="false" aria-controls="tray" title="Open the trays: case files, prepared boards, every held source">+ ADD TO THE DESK</button>
     <button type="button" class="tool" id="btnNote" title="Your own words on the legal pad. Never stamped, never a source.">+ NOTE</button>
   </div>
@@ -180,6 +181,7 @@
         <div class="pres-sub" id="presSub"></div>
       </div>
       <div class="pres-bar" id="presBar" hidden role="toolbar" aria-label="Presentation controls">
+        <button type="button" id="presBack" class="phone-only" title="Leave this board">← BACK</button>
         <button type="button" class="pres-arrow" id="presPrev" aria-label="Previous section">‹</button>
         <div class="pres-dots" id="presDots" role="tablist" aria-label="Sections"></div>
         <button type="button" class="pres-arrow" id="presNext" aria-label="Next section">›</button>
