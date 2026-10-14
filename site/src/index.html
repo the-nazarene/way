@@ -54,19 +54,17 @@
 
   <div class="cabinet" id="drawer-cabinet">
     <div class="cabinet-top">THE HARD QUESTIONS · <span id="homeCount"></span> CARDS</div>
-    <div class="drawers" id="drawers"></div>
+    <div class="qdrawer" id="drawers"></div>
   </div>
 
-  <div class="cabinet objections-cabinet" id="objections-cabinet">
-    <div class="cabinet-top">WHAT THEY'LL SAY · <span id="objCount"></span> OBJECTIONS · the critics' own words, and whether we have an answer</div>
-    <div class="obj-legend">
-      <span><span class="ostamp answered">ANSWERED</span> a card has a prepared response</span>
-      <span><span class="ostamp prepared">PREPARED</span> on a card, from the strongest traditional case</span>
-      <span><span class="ostamp thin">THIN</span> a card touches it, wouldn't hold up as written</span>
-      <span><span class="ostamp open">OPEN</span> nothing prepared yet; there's a brief</span>
+  <a class="obj-teaser" href="#/objections" id="objTeaser">
+    <div class="obj-teaser-top">WHAT THEY'LL SAY</div>
+    <div class="obj-teaser-body">
+      <p class="obj-teaser-line"><span id="objCount"></span> objections, <span id="objRaised"></span> of them raised by named critics in their own words. Each one is stamped with whether we have an answer.</p>
+      <div class="obj-teaser-stamps" id="objTally"></div>
     </div>
-    <div class="drawers" id="objDrawers"></div>
-  </div>
+    <span class="obj-teaser-go">OPEN THE CABINET →</span>
+  </a>
 
   <div class="howto">
     <div>
@@ -81,6 +79,20 @@
       <div class="eyebrow">3 · THE STAMPS</div>
       <p><span class="stamp held">HELD</span> means the text is in the repository and the cited phrase was found in it. <span class="stamp not-held">NOT YET HELD</span> means public domain and on the roadmap. Podcast transcripts are pointers, not proof.</p>
     </div>
+  </div>
+</section>
+
+<section class="objpage" id="objpage" hidden>
+  <a class="back" href="#/">← the hard questions</a>
+  <div class="cabinet objections-cabinet" id="objections-cabinet">
+    <div class="cabinet-top">WHAT THEY'LL SAY · <span id="objCount2"></span> OBJECTIONS · the critics' own words, and whether we have an answer</div>
+    <div class="obj-legend">
+      <span><span class="ostamp answered">ANSWERED</span> a card has a prepared response</span>
+      <span><span class="ostamp prepared">PREPARED</span> on a card, from the strongest traditional case</span>
+      <span><span class="ostamp thin">THIN</span> a card touches it, wouldn't hold up as written</span>
+      <span><span class="ostamp open">OPEN</span> nothing prepared yet; there's a brief</span>
+    </div>
+    <div class="drawers" id="objDrawers"></div>
   </div>
 </section>
 

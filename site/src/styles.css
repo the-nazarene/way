@@ -246,3 +246,39 @@ a { color: var(--blue); }
 .raised .eyebrow { color: var(--muted-light); }
 .raised ul { margin: 8px 0 0; padding-left: 16px; font-size: 13px; line-height: 1.5; display: flex; flex-direction: column; gap: 6px; color: var(--text-light); }
 .raised a { color: #ffd6a6; }
+
+/* Home: one drawer of question cards (replaces the eleven small drawers) */
+.qdrawer { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px 14px; padding: 18px 18px 0; }
+.qd-card { display: flex; flex-direction: column; gap: 6px; background: var(--cream-2); color: var(--ink); text-decoration: none; padding: 10px 14px 12px; border: 1px solid var(--card-border); font-family: var(--type); box-shadow: 0 6px 14px rgba(0,0,0,0.45); }
+.qd-card:hover, .qd-card:focus { background: var(--pad); transform: translateY(-2px); }
+.qd-top { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
+.qd-tab { font-size: 10px; letter-spacing: 1.5px; color: var(--muted); }
+.qd-top small { font-family: var(--mono); font-size: 10px; color: var(--muted); white-space: nowrap; }
+.qd-q { font-size: 16px; line-height: 1.3; }
+
+/* Home: the objections teaser, one line and a door */
+.obj-teaser { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 18px 24px; background: var(--drawer-dark); border: 8px solid #3a2a2a; padding: 16px 22px; color: var(--text-light); text-decoration: none; }
+.obj-teaser:hover, .obj-teaser:focus { background: var(--drawer); }
+.obj-teaser-top { font-family: var(--type); font-size: 12px; letter-spacing: 2px; color: var(--text-light); white-space: nowrap; }
+.obj-teaser-line { margin: 0 0 8px; font-size: 14px; line-height: 1.5; }
+.obj-teaser-stamps { display: flex; gap: 14px; flex-wrap: wrap; }
+.obj-tally { display: inline-flex; align-items: center; gap: 6px; font-family: var(--type); font-size: 13px; }
+.obj-teaser-go { font-family: var(--type); font-size: 13px; letter-spacing: 1px; padding: 10px 16px; min-height: 44px; display: inline-flex; align-items: center; background: var(--cream); color: var(--ink); white-space: nowrap; }
+
+/* The objections page */
+.objpage { max-width: 1380px; margin: 0 auto; display: flex; flex-direction: column; gap: 14px; }
+.objpage .back { color: var(--text-light); font-family: var(--type); font-size: 13px; letter-spacing: 1px; text-decoration: none; min-height: 44px; display: inline-flex; align-items: center; align-self: flex-start; }
+.objpage .back:hover { text-decoration: underline; }
+
+@media (max-width: 900px) {
+  .qdrawer { grid-template-columns: 1fr; }
+  .obj-teaser { grid-template-columns: 1fr; gap: 10px; }
+  .obj-teaser-go { justify-self: start; }
+}
+@media (max-width: 560px) {
+  .qdrawer { padding: 12px 10px 0; gap: 8px; }
+  .qd-card { box-shadow: 0 3px 8px rgba(0,0,0,0.4); }
+  .qd-q { font-size: 15px; }
+  .cabinet { border-width: 5px; }
+  .obj-teaser { border-width: 5px; padding: 14px 16px; }
+}
