@@ -747,7 +747,9 @@ body.phone-reading .shared-bar .shared-text { display: none; }
 /* Long addresses and unbroken lines wrap inside the reader instead of running off it. */
 .reader-body, .reader-note { overflow-wrap: anywhere; }
 /* The real desk on a phone: the way back on top, the surface big, the editing kit put away. */
-body.phone-desk .desk-form, body.phone-desk .tray { display: none; }
+body.phone-desk .desk-form { display: none; }
+/* The trays open on a phone too, as a panel above the desk; tap a source to pin it. */
+body.phone-desk .tray:not(.is-collapsed) { display: flex; max-height: 46vh; }
 body.phone-desk .desk-tools .tool-group.tools-end > :not(.present) { display: none; }
 body.phone-desk #btnFrame, body.phone-desk #btnNote, body.phone-desk #btnTidy,
 body.phone-desk #btnSnap, body.phone-desk #btnString { display: none; }

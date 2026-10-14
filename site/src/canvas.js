@@ -825,6 +825,13 @@
     updateCounts();
     $('emptyDesk').hidden = items.length > 0;
     document.body.classList.toggle('is-empty', items.length === 0);
+    /* On a phone the open tray sits above the desk. Once something lands, put
+       the tray away and show the desk, so the new card is in view. */
+    if (isPhone() && phoneDesk && items.length > phoneSeen && !$('tray').classList.contains('is-collapsed')) {
+      showTray(false);
+      requestAnimationFrame(function () { fit(); $('surface').scrollIntoView({ block: 'center', behavior: 'smooth' }); });
+    }
+    phoneSeen = items.length;
     applyTrayDefault();
     applyPhone();
   }
@@ -1886,6 +1893,7 @@
      ON THIS DESK is the way around. Once you open or close them yourself, that
      holds. */
   var trayUserSet = false;
+  var phoneSeen = 0;   // items on the desk at the last render, to notice a pin on a phone
   function showTray(on) {
     $('tray').classList.toggle('is-collapsed', !on);
     $('btnAdd').setAttribute('aria-expanded', on ? 'true' : 'false');
