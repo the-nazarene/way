@@ -711,7 +711,36 @@ body.phone-reading .reader .lay-out, body.phone-reading .reader .thread-head { d
 }
 .phone-item.is-found .node > * { animation: found 1.4s ease-out; }
 .phone-empty { font-family: var(--mono); font-size: 14px; line-height: 1.55; color: var(--text-light); }
-.phone-empty .tool { display: block; width: 100%; margin: 0 0 8px; text-align: left; }
+/* Empty on a phone: the list header has nothing to name yet, so the question stands alone. */
+body.phone-reading.is-empty .phone-top { display: none; }
+.phone-empty .eyebrow { font-family: var(--type); font-size: 11px; letter-spacing: 1.5px; color: var(--muted-light); }
+.phone-q { font-family: var(--type); font-weight: 400; font-size: 26px; line-height: 1.2; margin: 6px 0 8px; color: var(--cream); }
+.phone-lede { margin: 0 0 18px; font-size: 14px; line-height: 1.5; color: var(--muted-light); }
+.phone-label { font-family: var(--type); font-size: 11px; letter-spacing: 1.5px; color: var(--text-light); margin: 18px 0 8px; }
+.phone-pick { display: flex; flex-direction: column; gap: 3px; width: 100%; margin: 0 0 8px; padding: 10px 12px; min-height: 44px; text-align: left; cursor: pointer;
+  background: var(--cream-2); color: var(--ink); border: 1px solid var(--card-border); box-shadow: 0 3px 8px rgba(0,0,0,0.4); font-family: var(--type); }
+.phone-pick.board { background: var(--pad); }
+.phone-pick small { font-family: var(--mono); font-size: 10px; letter-spacing: 0.5px; color: var(--muted); }
+.phone-pick span { font-size: 15px; line-height: 1.3; }
+.phone-pick:active { transform: translateY(1px); }
+.phone-foot { margin: 16px 0 0; font-size: 12px; color: var(--muted-light); }
+/* A case laid out on a phone: FOR and AGAINST read like the case file's columns. */
+.phone-sec.side-for { --fc: #c9d8b6; }
+.phone-sec.side-against { --fc: #e3b3ab; }
+.phone-sec.side-other { --fc: #c9c4b8; }
+/* Reading a prepared board on a phone: no workbench buttons, just the way back. */
+body.phone-reading #btnKeepShared, body.phone-reading .shared-bar:not([hidden]) ~ .phone-list #btnPhoneDesk { display: none; }
+body.phone-reading .shared-bar { background: transparent; border: 0; box-shadow: none; padding: 0; margin: 0 0 4px; }
+body.phone-reading #btnBackMine { background: transparent; border: 0; padding: 6px 0; min-height: 36px; color: var(--text-light); font-size: 12px; }
+body.phone-reading #btnBackMine::before { content: "\2190  "; }
+/* The header and footer, sized for a phone. */
+@media (max-width: 820px) {
+  .desk-body .top { gap: 6px 14px; padding-bottom: 6px; }
+  .desk-body .brand { font-size: 18px; letter-spacing: 1.5px; }
+  .desk-body .nav { gap: 14px; font-size: 12px; }
+  .desk-body .nav a:not(:first-child):not(:last-child) { display: none; }
+  .desk-body .foot { font-size: 11px; line-height: 1.5; }
+}
 .desk-narrow .tool { margin-top: 8px; }
 /* The list header already names the desk, so the shared bar keeps only its buttons. */
 body.phone-reading .shared-bar .shared-text { display: none; }

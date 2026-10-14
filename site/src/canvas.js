@@ -2094,7 +2094,7 @@
     else if (p.kind === 'case') openCaseReader(p.slug, null);
   }
 
-  function phoneCard(it) {
+  function phoneCard(it, implied) {
     var build = { src: buildSrcNode, q: buildQNode, v: buildVerseNode, d: buildDocNode,
                   m: buildMomentNode, w: buildWebNode, note: buildNoteNode }[it.t];
     var n = build && build(it);
@@ -2112,7 +2112,8 @@
     links.forEach(function (l) {
       var o = l.a === it.id ? l.b : (l.b === it.id ? l.a : null);
       var oi = o && itemById(o);
-      if (oi && oi.t !== 'frame') tied.push({ it: oi, words: l.words || '' });
+      if (oi && implied && implied.indexOf('case:') === 0 && oi.t === 'src' && oi.c === implied.slice(5)) return;
+      if (oi && oi.t !== 'frame' && oi.id !== implied) tied.push({ it: oi, words: l.words || '' });
     });
     if (tied.length) {
       var w = el('div', 'phone-ties');
@@ -2140,6 +2141,38 @@
     setTimeout(function () { r.classList.remove('is-found'); }, 1600);
   }
 
+  /* An empty desk on a phone asks the same one question the laptop does,
+     with the two answers that work on a small screen. */
+  function phoneStart() {
+    var e = el('div', 'phone-empty');
+    e.appendChild(el('span', 'eyebrow', 'DEEP RESEARCH \u00b7 THE DESK'));
+    e.appendChild(el('h1', 'phone-q', 'What goes on the desk?'));
+    e.appendChild(el('p', 'phone-lede', 'Every source keeps its stamp here. Pick a board someone already laid out, or open a case file and its evidence lays itself out.'));
+    var desks = listedDesks();
+    if (desks.length) {
+      e.appendChild(el('div', 'phone-label', 'A BOARD ALREADY LAID OUT'));
+      desks.forEach(function (d) {
+        var b = el('button', 'phone-pick board');
+        b.type = 'button';
+        b.appendChild(el('small', null, 'PREPARED \u00b7 ' + d.desk.it.filter(function (x) { return x[0] !== 'f'; }).length + ' on the desk'));
+        b.appendChild(el('span', null, d.title));
+        b.addEventListener('click', function () { location.hash = 'desk=' + d.slug; });
+        e.appendChild(b);
+      });
+    }
+    e.appendChild(el('div', 'phone-label', 'A CASE FILE FROM THE READING ROOM'));
+    DATA.cards.slice().sort(function (a, b) { return a.call < b.call ? -1 : 1; }).forEach(function (card) {
+      var b = el('button', 'phone-pick');
+      b.type = 'button';
+      b.appendChild(el('small', null, card.drawer + ' \u00b7 ' + card.sources.length + ' sources'));
+      b.appendChild(el('span', null, card.question));
+      b.addEventListener('click', function () { pullCase(card.slug); window.scrollTo(0, 0); });
+      e.appendChild(b);
+    });
+    e.appendChild(el('p', 'phone-foot', 'Building your own board, pinning and tying string, works best on a laptop.'));
+    return e;
+  }
+
   function renderPhone() {
     $('phoneEyebrow').textContent = !viewingShared ? 'THE DESK' : !sharedMeta ? 'A SHARED DESK' :
       sharedMeta.file ? 'A DESK FROM A FILE' : 'A PREPARED DESK';
@@ -2148,19 +2181,7 @@
     var body = $('phoneBody'), toc = $('phoneToc');
     body.innerHTML = ''; toc.innerHTML = '';
     $('btnPhonePresent').hidden = !items.length;
-    if (!items.length) {
-      var e = el('div', 'phone-empty');
-      e.appendChild(el('p', null, 'Nothing on your desk yet. Open one of the prepared desks:'));
-      listedDesks().forEach(function (d) {
-        var b = el('button', 'tool', d.title);
-        b.type = 'button';
-        b.addEventListener('click', function () { location.hash = 'desk=' + d.slug; });
-        e.appendChild(b);
-      });
-      e.appendChild(el('p', null, 'Or OPEN AS A DESK to start your own.'));
-      body.appendChild(e);
-      return;
-    }
+    if (!items.length) { body.appendChild(phoneStart()); return; }
     /* Each card belongs to the first section it sits in; the rest are loose:
        those above the first section open the list, any others close it. */
     var frames = items.filter(function (x) { return x.t === 'frame'; }).sort(readingOrder);
@@ -2171,15 +2192,39 @@
       groups.push({ frame: f, title: f.title || 'UNTITLED', items: m.sort(columnOrder) });
     });
     var loose = items.filter(function (x) { return x.t !== 'frame' && !placed[x.id]; });
+    if (!frames.length) {
+      /* No sections: each question leads, its sources follow under FOR,
+         AGAINST and THE OTHER STACK, the way its case file reads. The string
+         to the question goes without saying, so it isn't repeated on every card. */
+      var qs = loose.filter(function (x) { return x.t === 'q'; }).sort(readingOrder);
+      var used = {};
+      qs.forEach(function (q) {
+        used[q.id] = true;
+        var card = cardBySlug(q.c);
+        groups.push({ frame: null, title: '', items: [q], implied: 'case:' + q.c });
+        [['for', 'FOR'], ['against', 'AGAINST'], ['other', 'THE OTHER STACK']].forEach(function (sd) {
+          var m = loose.filter(function (x) {
+            if (used[x.id] || x.t !== 'src' || x.c !== q.c || !card) return false;
+            var src = card.sources[x.i];
+            var side = src && src.side; if (side !== 'for' && side !== 'against') side = 'other';
+            return side === sd[0];
+          }).sort(columnOrder);
+          m.forEach(function (x) { used[x.id] = true; });
+          if (m.length) groups.push({ frame: null, title: sd[1], side: sd[0], items: m, implied: q.id });
+        });
+      });
+      loose = loose.filter(function (x) { return !used[x.id]; });
+    }
     var top = frames.length ? frames[0].y : Infinity;
     var head = loose.filter(function (x) { return x.y < top; }).sort(columnOrder);
     var rest = loose.filter(function (x) { return x.y >= top; }).sort(readingOrder);
-    if (head.length) groups.unshift({ frame: null, title: '', items: head });
+    if (head.length) { if (frames.length) groups.unshift({ frame: null, title: '', items: head }); else groups.push({ frame: null, title: groups.length ? 'ELSEWHERE ON THE DESK' : '', items: head }); }
     if (rest.length) groups.push({ frame: null, title: 'ELSEWHERE ON THE DESK', items: rest });
     groups.forEach(function (g, gi) {
       var sec = el('section', 'phone-sec');
       sec.id = 'phone-sec-' + gi;
       if (g.frame) sec.style.setProperty('--fc', FRAME_COLORS[g.frame.ci || 0]);
+      if (g.side) sec.classList.add('side-' + g.side);
       if (g.title) {
         sec.appendChild(el('h2', 'phone-sec-title', g.title));
         var tb = el('button', null, g.title);
@@ -2188,7 +2233,7 @@
         tb.addEventListener('click', function () { sec.scrollIntoView({ block: 'start' }); });
         toc.appendChild(tb);
       }
-      g.items.forEach(function (it) { var r = phoneCard(it); if (r) sec.appendChild(r); });
+      g.items.forEach(function (it) { var r = phoneCard(it, g.implied); if (r) sec.appendChild(r); });
       body.appendChild(sec);
     });
   }
