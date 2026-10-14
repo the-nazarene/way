@@ -2065,7 +2065,7 @@
      Nothing is lost; OPEN AS A DESK gives the real surface. */
 
   var PHONE = window.matchMedia ? window.matchMedia('(max-width: 820px)') : null;
-  var phoneDesk = false;     // a phone reader asked for the real desk
+  var phoneDesk = true;      // a phone gets the real desk; READ AS A LIST sets this false
 
   function isPhone() { return !!(PHONE && PHONE.matches); }
   function phoneReading() { return isPhone() && !phoneDesk && !presenting; }
@@ -2367,8 +2367,9 @@
        so a long title or a two-line subtitle never sits on the cards. */
     var sr = $('surface').getBoundingClientRect();
     var cap = $('presCaption').getBoundingClientRect(), bar = $('presBar').getBoundingClientRect();
-    var pad = { t: Math.max(PRES_PAD.t, cap.bottom - sr.top + 26), r: PRES_PAD.r, l: PRES_PAD.l,
-                b: Math.max(PRES_PAD.b, sr.bottom - bar.top + 22) };
+    var PP = isPhone() ? { t: 16, r: 10, b: 16, l: 10 } : PRES_PAD;   // a phone can't spare the margin
+    var pad = { t: Math.max(PP.t, cap.bottom - sr.top + (isPhone() ? 10 : 26)), r: PP.r, l: PP.l,
+                b: Math.max(PP.b, sr.bottom - bar.top + (isPhone() ? 10 : 22)) };
     /* Reading in the frame, the whole-board map may need to go smaller than the
        desk's zoom floor; it is a map, not a page to read. */
     if (box) animateTo(fitTarget(box, pad, 1.8, P.reading && !f ? 0.1 : MIN_Z), instant ? 0 : 700);
@@ -2506,7 +2507,7 @@
     var m = /[#&]present(?:=(\d+))?(?:&|$)/.exec(location.hash);
     if (m) { startPresent(m[1] ? +m[1] : 0, false); return; }
     /* A prepared board opens as a walk-through, not as a workbench. */
-    if (viewingShared && sharedMeta && sharedMeta.slug && !isPhone() && items.length) startPresent(presentSlides().length > 1 ? 1 : 0, false, true);
+    if (viewingShared && sharedMeta && sharedMeta.slug && items.length) startPresent(presentSlides().length > 1 ? 1 : 0, false, true);
   }
 
   /* ================= a case file, open in the tray =================

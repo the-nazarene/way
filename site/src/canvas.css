@@ -800,3 +800,36 @@ body.phone-desk .surface { height: 78vh; }
 .empty-desks .tool { white-space: normal; text-align: left; line-height: 1.35; }
 .empty-desks .tool small { display: block; font-family: var(--mono); font-size: 10px; letter-spacing: 0; color: var(--muted-light); margin-bottom: 2px; }
 .empty-start #btnStartNote { margin-top: 6px; }
+
+/* ---------- a phone gets the real desk ----------
+   The same dark surface as a laptop: an empty desk asks its one question
+   on it, a prepared board walks section by section. READ AS A LIST is the
+   fallback, not the default. */
+@media (max-width: 820px) {
+  .desk-body.is-empty .surface { height: auto; min-height: 0; }
+  .desk-body.is-empty .empty-desk { position: relative; inset: auto; padding: 22px 14px 18px; }
+  .desk-body.is-empty .desk-narrow, body.reading .desk-narrow { display: none; }
+  .empty-desks .tool, .empty-cases .tray-case { min-height: 44px; }
+  .empty-cases .tray-case span { font-size: 13px; }
+  .empty-cases .tray-case small { font-size: 10px; }
+  .empty-inner .empty-foot { display: none; }
+  body.reading .surface { height: calc(100svh - 120px); min-height: 420px; border-width: 3px; }
+  body.reading .pres-caption { left: 14px; right: 14px; top: 12px; max-width: none; }
+  body.reading .pres-caption .eyebrow { font-size: 10px; letter-spacing: 1.5px; }
+  body.reading .pres-title { font-size: 20px; }
+  body.reading .pres-sub { font-size: 11px; }
+  body.reading .pres-bar { bottom: 10px; gap: 6px; padding: 6px 8px; width: calc(100% - 20px); }
+  body.reading #presFull { display: none; }
+  body.reading .pres-dots { gap: 5px; }
+}
+@media (max-width: 820px) { body.reading #presWork { display: none; } }
+@media (max-width: 820px) {
+  body.reading .pres-bar { width: auto; flex-wrap: nowrap; }
+  body.reading .pres-sep { display: none; }
+  body.reading .pres-bar .pres-arrow { width: 38px; }
+  body.reading .pres-bar button { padding: 6px 8px; font-size: 10px; }
+  body.reading .pres-caption .pres-sub { display: none; }
+  .desk-narrow { padding: 8px 12px; font-size: 12px; line-height: 1.4; display: flex !important; align-items: center; justify-content: space-between; gap: 10px; }
+  .desk-narrow .tool { margin-top: 0; flex: none; }
+  .desk-body.is-empty .desk-narrow, body.reading .desk-narrow { display: none !important; }
+}
