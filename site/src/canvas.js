@@ -1918,10 +1918,14 @@
     $('tray').classList.toggle('is-collapsed', !on);
     $('btnAdd').setAttribute('aria-expanded', on ? 'true' : 'false');
     $('btnAdd').classList.toggle('is-on', on);
+    /* On a phone the open tray takes the whole screen; the page behind it holds still. */
+    document.body.classList.toggle('tray-sheet', on && isPhone());
+    if (on && isPhone()) $('tray').scrollTop = 0;
     setTimeout(drawLinks, 220);
   }
   function applyTrayDefault() {
     if (trayUserSet) return;
+    if (isPhone()) { showTray(false); return; }   // a phone opens the tray only when asked
     showTray(!!viewingShared);
   }
 
@@ -2016,6 +2020,7 @@
      comes to the centre at a readable size, and either is briefly marked. */
   function focusOn(it) {
     if (!itemById(it.id)) return;
+    if (isPhone() && phoneDesk && !presenting && it.t !== 'frame') { phoneShow(it.id); return; }
     if (it.t === 'frame') fitBox({ x1: it.x - 30, y1: it.y - 50, x2: it.x + it.w + 30, y2: it.y + it.h + 30 });
     else {
       var r = $('surface').getBoundingClientRect(), b = boxOf(it);
@@ -2652,8 +2657,12 @@
     var spot = freeSpot(Math.round(c.x), Math.round(c.y), SRC_W, 150);
     pushUndo();
     var it = addSource(row.slug, row.i, spot.x, spot.y);
-    if (!it) { hint('That one is already on the desk.'); cancelUndo(); return; }
+    var sid = 's:' + row.slug + ':' + row.i;
+    if (!it) { hint('That one is already on the desk.'); cancelUndo(); if (isPhone() && phoneDesk) phoneShow(sid); return; }
+    phoneFocusing = isPhone() && phoneDesk;
     renderAll(); save();
+    phoneFocusing = false;
+    if (isPhone() && phoneDesk) phoneShow(sid);
     hint('Pinned ' + (row.src.title || row.src.ref) + ' from ' + row.card.call + '.');
   }
 

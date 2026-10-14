@@ -849,3 +849,19 @@ body.phone-desk .surface { height: 78vh; }
   body.reading .pres-bar .pres-arrow { width: 34px; }
 }
 @media (max-width: 820px) { body.reading .pres-bar .pres-dot { flex: none; min-width: 0; padding: 0; aspect-ratio: 1; } }
+/* ---------- the tray on a phone: a full-screen sheet ----------
+   ADD TO THE DESK opens it over everything; CLOSE, or pinning anything,
+   puts it away and shows the desk. */
+@media (max-width: 820px) {
+  body.tray-sheet { overflow: hidden; }
+  body.phone-desk:not(.presenting) .tray:not(.is-collapsed) {
+    position: fixed; inset: 0; z-index: 60; width: auto; max-height: none; height: 100dvh;
+    padding: env(safe-area-inset-top, 0px) 0 env(safe-area-inset-bottom, 0px);
+    border: 0; box-shadow: none; background: var(--wall, #141416);
+  }
+  body.tray-sheet .tray-top { position: sticky; top: 0; z-index: 2; padding: 14px 16px; }
+  body.tray-sheet .tray-title { font-size: 0; }
+  body.tray-sheet .tray-title::before { content: "ADD TO THE DESK"; font-size: 14px; letter-spacing: 2px; }
+  body.tray-sheet .tray-collapse { font-size: 0; width: auto; height: auto; min-height: 40px; padding: 0 14px; }
+  body.tray-sheet .tray-collapse::before { content: "CLOSE \00d7"; font-family: var(--type); font-size: 13px; letter-spacing: 1px; }
+}
