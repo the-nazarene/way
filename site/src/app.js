@@ -9,6 +9,7 @@
   var DATA = null;
   var fuse = null;
   var current = null;
+  var onObjPage = false;
   var $ = function (id) { return document.getElementById(id); };
   var el = function (tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
 
@@ -282,7 +283,7 @@
   function closeReader() {
     $('reader').hidden = true; $('readerBackdrop').hidden = true;
     if (current && /^#\/[a-z0-9-]+\/\d+/.test(location.hash)) history.replaceState(null, '', '#/' + current.slug);
-    if (/^#\/o\//.test(location.hash)) history.replaceState(null, '', current ? '#/' + current.slug : '#/');
+    if (/^#\/o\//.test(location.hash)) history.replaceState(null, '', current ? '#/' + current.slug : (onObjPage ? '#/objections' : '#/'));
   }
 
   function search(q) {
@@ -346,36 +347,30 @@
 
   function renderHome() {
     current = null;
+    onObjPage = false;
     document.title = 'The Way \u00b7 Reading Room';
+    $('objpage').hidden = true;
     $('home').hidden = false;
     $('room').hidden = true;
     $('nocard').hidden = true;
     $('homeCount').textContent = DATA.cards.length;
     var wrap = $('drawers');
     wrap.innerHTML = '';
-    var groups = [];
-    DATA.cards.forEach(function (c) {
-      var g = groups.filter(function (x) { return x.label === c.drawer; })[0];
-      if (!g) { g = { label: c.drawer, cards: [] }; groups.push(g); }
-      g.cards.push(c);
+    var cards = DATA.cards.slice().sort(function (x, y) {
+      var ix = OBJ_ORDER.indexOf(x.drawer), iy = OBJ_ORDER.indexOf(y.drawer);
+      return (ix < 0 ? 99 : ix) - (iy < 0 ? 99 : iy);
     });
-    var ORDER = ['ATONEMENT \u00b7 SALVATION', 'WHO JESUS WAS', 'THE KINGDOM \u00b7 THE TWO WAYS', 'SACRIFICE \u00b7 DIET', 'ORIGINS \u00b7 THE NAZARENES', 'PAUL \u00b7 THE SOURCES', 'JESUS AND THE LAW', 'THE RESURRECTION', 'THE END TIMES', 'JUDGMENT \u00b7 AFTERLIFE', 'METHOD \u00b7 HOW WE READ'];
-    groups.sort(function (a, b) { var ia = ORDER.indexOf(a.label), ib = ORDER.indexOf(b.label); return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib); });
-    groups.forEach(function (g) {
-      var d = el('div', 'drawer-unit');
-      d.appendChild(el('div', 'drawer-plate', g.label));
-      var inner = el('div', 'drawer-inner');
-      g.cards.forEach(function (c) {
-        var a = el('a', 'drawer-card');
-        a.href = '#/' + c.slug;
-        a.appendChild(el('small', null, c.call));
-        a.appendChild(el('span', null, c.question));
-        inner.appendChild(a);
-      });
-      d.appendChild(inner);
-      wrap.appendChild(d);
+    cards.forEach(function (c) {
+      var a = el('a', 'qd-card');
+      a.href = '#/' + c.slug;
+      var top = el('span', 'qd-top');
+      top.appendChild(el('span', 'qd-tab', c.drawer));
+      top.appendChild(el('small', null, c.call));
+      a.appendChild(top);
+      a.appendChild(el('span', 'qd-q', c.question));
+      wrap.appendChild(a);
     });
-    renderObjectionCabinet();
+    renderObjTeaser();
     closeReader();
     window.scrollTo(0, 0);
   }
@@ -388,9 +383,37 @@
     return el('span', 'ostamp ' + cls, status);
   }
 
-  function renderObjectionCabinet() {
+  function renderObjTeaser() {
     var list = DATA.objections || [];
     $('objCount').textContent = list.length;
+    $('objRaised').textContent = list.filter(function (o) { return o.kind === 'raised'; }).length;
+    var tally = $('objTally');
+    tally.innerHTML = '';
+    ['ANSWERED', 'PREPARED', 'THIN', 'OPEN'].forEach(function (st) {
+      var n = list.filter(function (o) { return o.status === st; }).length;
+      if (!n) return;
+      var t = el('span', 'obj-tally');
+      t.appendChild(el('b', null, String(n)));
+      t.appendChild(ostamp(st));
+      tally.appendChild(t);
+    });
+  }
+
+  function renderObjPage() {
+    current = null;
+    onObjPage = true;
+    document.title = 'What they\u2019ll say \u00b7 The Way';
+    $('home').hidden = true;
+    $('room').hidden = true;
+    $('nocard').hidden = true;
+    $('objpage').hidden = false;
+    renderObjectionCabinet();
+    window.scrollTo(0, 0);
+  }
+
+  function renderObjectionCabinet() {
+    var list = DATA.objections || [];
+    $('objCount2').textContent = list.length;
     var wrap = $('objDrawers');
     wrap.innerHTML = '';
     var groups = [];
@@ -495,11 +518,14 @@
     var om = /^#\/o\/([A-Za-z0-9_-]+)/.exec(location.hash);
     if (om) {
       var o = (DATA.objections || []).filter(function (x) { return x.id === om[1]; })[0];
-      if (current) { /* stay on the card view if we came from one */ } else { renderHome(); }
+      if (current || onObjPage) { /* stay on the card or the cabinet if we came from one */ } else { renderObjPage(); }
       if (o) openObjection(o); else renderHome();
       return;
     }
+    if (location.hash === '#/objections') { closeReader(); if (!onObjPage) renderObjPage(); return; }
     if (!card) { renderHome(); return; }
+    onObjPage = false;
+    $('objpage').hidden = true;
     $('home').hidden = true;
     $('room').hidden = false;
     if (!current || current.slug !== card.slug) renderCard(card);
@@ -527,6 +553,8 @@
     $('readerClose').addEventListener('click', closeReader);
     $('readerBackdrop').addEventListener('click', closeReader);
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !$('reader').hidden) closeReader(); });
+    var pullBtn = document.querySelector('.welcome-btn');
+    if (pullBtn) pullBtn.addEventListener('click', function (e) { e.preventDefault(); $('drawer-cabinet').scrollIntoView({ behavior: 'smooth', block: 'start' }); });
     window.addEventListener('hashchange', route);
     window.addEventListener('resize', drawStrings);
     if (document.fonts && document.fonts.ready) document.fonts.ready.then(drawStrings);
