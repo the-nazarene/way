@@ -29,27 +29,66 @@ const N = (name, text, w) => ({ k: 'n', name, text, w: w || W });
 
 const notes = {
 
-  res: N('res', 'THE QUESTION\n\n' +
-    '"Did the historical Jesus belong to a Nazarene sect that rejected sacrifice and ' +
-    'flesh consumption?"\n\n' +
-    'Read the sentence carefully, because the grammar matters. The relative clause ' +
-    'attaches to THE SECT, not to Jesus. So this is not one claim, it is two — and they ' +
-    'are not equally strong.\n\n' +
-    'CLAIM A — the sect rejected sacrifice and abstained from flesh.\n' +
-    'CLAIM B — Jesus belonged to that sect.\n\n' +
-    'A is where the evidence is. B is where the fight will be. Keep them apart and you ' +
-    'can lose B without losing A. Merge them and every hit on B reads as a hit on A.', 560),
+  res: N('res', 'WHAT WE HAVE BEEN LOOKING INTO\n\n' +
+    'Whether the historical Jesus belonged to a Nazarene group that rejected animal ' +
+    'sacrifice and did not eat flesh.\n\n' +
+    'It turns out to be two separate questions, and noticing that changes everything. ' +
+    'The sentence people argue about attaches the practice to THE GROUP, not to Jesus:\n\n' +
+    'ONE — did that group reject sacrifice and abstain from flesh?\n' +
+    'TWO — was he part of it?\n\n' +
+    'The first is where almost all the evidence is. The second is where almost all the ' +
+    'argument is. Held apart, they are two findings. Run together, every weakness in the ' +
+    'second looks like a hole in the first — which is how this gets lost.\n\n' +
+    'So the sections below are questions, not positions.', 560),
 
-  how: N('how', 'HOW THIS BOARD IS LAID OUT\n\n' +
-    'Left to right, roughly in the order you would argue it: what to concede, the red ' +
-    'text on sacrifice, the prophets behind it, the movement after him, where he came ' +
-    'from, the single strongest move, what a prepared opponent will say, where this is ' +
-    'genuinely weakest, and then the new ground.\n\n' +
-    'Every card with a stamp is a real source checked against a text held in the ' +
-    'library. Cards marked NOTE · NOT A SOURCE are commentary — ours, not evidence. The ' +
-    'build refuses to publish a citation it cannot find in an actual file, so if a ' +
-    'quotation is on this board, it is in the library.\n\n' +
-    'Press → to walk it section by section. Click any card to read the whole source.', 540),
+  how: N('how', 'HOW THIS IS PUT TOGETHER\n\n' +
+    'One section per question. Inside each: the primary texts, then the common ' +
+    'counterpoints on that same question, sitting right next to the evidence they bear ' +
+    'on rather than collected into a separate pile.\n\n' +
+    'That is deliberate. Nobody reads a case for and then a case against. You read a ' +
+    'question and you want everything on it in one place.\n\n' +
+    'Any card with a stamp is a real source, checked against a text actually held in the ' +
+    'library — the build refuses to publish a citation it cannot find in a file. Cards ' +
+    'marked NOTE · NOT A SOURCE are ours: commentary, not evidence.\n\n' +
+    'Press → to walk it. Click any card to read the whole source. Drag anything out, add ' +
+    'your own, tie your own string — it is your desk once you open it.', 540),
+
+  /* section-internal counterpoint headers */
+
+  cp2: N('cp2', 'COMMON COUNTERPOINTS ON THIS QUESTION\n\n' +
+    'The strongest things said against the anti-sacrifice reading. They belong here, ' +
+    'beside the evidence, because this is the question they are about.'),
+
+  cp3: N('cp3', 'COMMON COUNTERPOINTS ON THIS QUESTION\n\n' +
+    'Two serious ones, and the second is the better of them.\n\n' +
+    'THE DAMASCUS DOCUMENT LEGISLATES EATING LOCUSTS AND FISH — CD 12:11-15. Locusts ' +
+    'thrown alive into fire or boiling water, fish cut open to drain the blood. ' +
+    'Substantially accurate, and CD 12 is not among the Dead Sea Scrolls excerpts the ' +
+    'library holds, so it cannot currently be checked here. Worth getting.\n\n' +
+    'Which is the reason to argue the NAZARENE MOVEMENT rather than the Essene menu. ' +
+    'That is the narrower claim and it is the one the evidence in this section actually ' +
+    'supports.\n\n' +
+    'ALSO: the witnesses here are late. Epiphanius is fourth century, Ancyra is 314. ' +
+    'True — and the answer is in the note beside them: late witnesses who were trying to ' +
+    'discredit the group are stronger evidence than early friendly ones.'),
+
+  cp4: N('cp4', 'COMMON COUNTERPOINTS ON THIS QUESTION\n\n' +
+    'THE NAME. Nazareth existed; archaeology settles that. And the later group spelled ' +
+    'itself differently. So "Nazarene" as a sect name rather than a hometown is ' +
+    'contested, and we do not need to win it — the sect designation in Acts 24:5 is in ' +
+    'the text either way.\n\n' +
+    'THE VOCABULARY. "Spirit of truth" and "children of light" show a shared religious ' +
+    'dialect, not membership. Agreed. That is why this section claims a stream.\n\n' +
+    'THE FATHERS CUT BOTH WAYS. Jerome and Epiphanius say the group of THEIR day was not ' +
+    'the one Paul collected for. A real point, and the honest reply is that we use their ' +
+    'reportage, not their verdicts.\n\n' +
+    'HE ATE WITH SINNERS AND DRANK WINE. Also true, and it is why a membership card is ' +
+    'the wrong thing to claim.'),
+
+  cp6: N('cp6', 'COMMON COUNTERPOINTS ON THIS QUESTION\n\n' +
+    'This question has the strongest counter-texts of any on the board, and all four are ' +
+    'laid out here rather than hidden. Two of them had no answer in this library until ' +
+    'this month.'),
 
   concede: N('concede', 'THE THREE THINGS THEY LEAD WITH — AND WHAT WE ACTUALLY HAVE\n\n' +
     'Not a list of things to give up. For each one: what is genuinely established, what ' +
@@ -117,7 +156,7 @@ const notes = {
     'The most interesting of the four, and the most often fumbled. Two things to get ' +
     'right: it is the OLD SYRIAC (Curetonian, and reportedly the Sinaitic too), not the ' +
     'Peshitta — the library currently says Peshitta and that should be corrected. And it ' +
-    'is Luke 21:34, which is easy to misspeak; an opponent used exactly that slip to ' +
+    'is Luke 21:34, which is easy to misspeak; that slip has been used, in public, to ' +
     'dismiss the whole point without engaging the manuscript.\n\n' +
     'Burkitt\'s 1904 edition is public domain. Worth holding before this is argued again.'),
 
@@ -159,7 +198,7 @@ const notes = {
     'It is also the canonical twin of Clementine Recognitions 1.36, whose chapter title ' +
     'is literally "Allowance of Sacrifice for a Time." The same logic in the red text and ' +
     'in the movement that claimed succession from him.\n\n' +
-    'In three hours of debate against a trained opponent, this went unanswered.', 540),
+    'It has been put to a credentialed critic in public, at length, and went unanswered.', 540),
 
   recog: N('recog', 'Recognitions 1.36 is titled "Allowance of Sacrifice for a Time."\n\n' +
     'The Jewish-Christian text says the sacrifices were a temporary concession to a ' +
@@ -167,7 +206,7 @@ const notes = {
     'Pair it with Matthew 19:8 and the argument is no longer ours. It belongs to the red ' +
     'text and to the earliest movement that claimed him.'),
 
-  /* ---- what a prepared opponent says ---- */
+  /* ---- counterpoints, distributed into their questions ---- */
 
   opp0: N('opp0', 'WHAT A PREPARED OPPONENT ACTUALLY SAYS\n\n' +
     'These are not hypothetical. Every one was argued by a named critic — two apologists ' +
@@ -183,7 +222,7 @@ const notes = {
     'But Peter said, Not so, Lord; for I have never eaten any thing that is common or ' +
     'unclean."\n\n' +
     'The defensible line is the vision\'s own stated meaning — Gentile inclusion (10:28, ' +
-    '10:34-35) — which opponents will usually concede outright.\n\n' +
+    '10:34-35) — which most critics grant outright.\n\n' +
     'Stay off the lexical route. Reading "a voice" as something other than God does not ' +
     'hold, because Peter answers "Not so, LORD" in the very next breath. The vision\'s ' +
     'own interpretation is the strong ground here.'),
@@ -194,8 +233,8 @@ const notes = {
     'Leviticus, because it is approval rather than legislation. OPEN — nothing on the ' +
     'card answers it.\n\n' +
     'The best available answer is in the NEW GROUND section: the Clementine reading makes ' +
-    'bloodshed the CAUSE of the flood, which reframes the whole scene before an opponent ' +
-    'gets to it.'),
+    'bloodshed the CAUSE of the flood, which reframes the whole scene before the ' +
+    'objection is even raised.'),
 
   opp3: N('opp3', 'GENESIS 9:3 IS THE NOAHIC COVENANT — the one we live under. The Adamic ' +
     'one ended.\n\n' +
@@ -225,12 +264,12 @@ const notes = {
 
   opp6: N('opp6', 'JOHN 21 — he COMMANDED the catch.\n\n' +
     'Not merely "he ate fish." He performed a miracle to fill the net, then cooked it. ' +
-    'And the closer, which is the best line any opponent has produced on this question:\n\n' +
+    'And the sharpest form anyone has given it:\n\n' +
     '"Pythagoras let the fish go but Jesus didn\'t. That\'s the point of the story — I\'m ' +
     'not Pythagoras, I\'m Jesus, we eat fish."\n\n' +
     'A separate and sharper argument than Luke 24. Prepare it separately. OPEN.'),
 
-  opp7: N('opp7', 'THE METHOD ATTACKS, which are harder than the texts:\n\n' +
+  opp7: N('opp7', 'THE HARDEST QUESTIONS HERE ARE NOT ABOUT TEXTS, THEY ARE ABOUT METHOD:\n\n' +
     '"We can\'t get behind the text. All we\'ve got is the text."\n\n' +
     'JOHN 14:26 — Jesus in the red text promises the Spirit so the apostles would not ' +
     'merely remember his words but UNDERSTAND them. So the apostolic interpretation is ' +
@@ -255,11 +294,13 @@ const notes = {
 
   /* ---- where it is weakest ---- */
 
-  weak0: N('weak0', 'WHERE THIS IS GENUINELY WEAKEST\n\n' +
-    'Put here deliberately. A position you cannot state the weaknesses of is a position ' +
-    'you will lose from, and conceding a real problem early is worth more than defending ' +
-    'it late.\n\n' +
-    'Six of them. One was found this month and is the worst.', 540),
+  weak0: N('weak0', 'WHAT IS STILL OPEN\n\n' +
+    'The honest list of what this research has not solved. It is here on purpose and near ' +
+    'the end on purpose.\n\n' +
+    'Every one of these is a place where the texts genuinely push back, and writing them ' +
+    'down is what makes the rest of the board trustworthy. If a section has no open ' +
+    'questions, nobody checked it hard enough.\n\n' +
+    'Six, and the first was found this month.', 540),
 
   hole5: N('hole5', '★ THE WORST ONE — Isaiah 25:6.\n\n' +
     '"And in this mountain shall the LORD of hosts make unto all people a feast of fat ' +
@@ -268,8 +309,8 @@ const notes = {
     'Isaiah 56:7 ("my holy mountain... house of prayer"). Fourteen chapters later. Same ' +
     'prophet.\n\n' +
     'An eschatological MEAT-AND-WINE BANQUET sitting underneath the entire peaceable-' +
-    'kingdom architecture. It was raised in one interrupted sentence in a recorded debate, ' +
-    'cut off, and took the point anyway.\n\n' +
+    'kingdom architecture. It has been raised in public exactly once, in one interrupted ' +
+    'sentence — and it landed anyway.\n\n' +
     'If you build on Isaiah 11, own Isaiah 25 first. It is not in the library in any form ' +
     'yet.', 540),
 
@@ -277,9 +318,9 @@ const notes = {
     'offerings, and Paul does it.\n\n' +
     'The highest-threat text, because it is the James household itself participating in ' +
     'the sacrificial system.\n\n' +
-    'Worth knowing: in three hours a trained opponent never raised it. He used the much ' +
-    'cheaper Acts 3:1 instead, and said he had spent the week researching James. Do not ' +
-    'volunteer it.'),
+    'Worth knowing: in three hours of public argument on exactly this question, nobody ' +
+    'raised it — the much cheaper Acts 3:1 came up instead. It is listed here because an ' +
+    'honest map includes it, not because anyone has pressed it yet.'),
 
   hole2: N('hole2', 'ISAIAH 56:7, FIRST HALF — "their burnt offerings and their ' +
     'sacrifices shall be accepted upon mine altar."\n\n' +
@@ -303,7 +344,7 @@ const notes = {
 
   hole4: N('hole4', 'THE JAMES-HOUSEHOLD INFERENCE.\n\n' +
     'Hegesippus on James\'s diet comes through Eusebius, is late, and is hagiography. ' +
-    'An opponent\'s version: "this idea that James was a vegetarian is in, like, two ' +
+    'As one critic put it: "this idea that James was a vegetarian is in, like, two ' +
     'obscure sources."\n\n' +
     'Two things not to do. Do not inflate the count — it is one source via one ' +
     'transmitter. And do not extend it to the household ("so Mary raised him that way"): ' +
@@ -318,10 +359,9 @@ const notes = {
     'Harder than Acts 21, because it is his own parents, in the infancy narrative, with ' +
     'no plausible distance. Not in the library in any form.'),
 
-  precise: N('precise', 'THREE PLACES WHERE PRECISION WINS THE EXCHANGE\n\n' +
+  precise: N('precise', 'THREE PLACES WHERE PRECISION MATTERS MOST\n\n' +
     'Each of these has a strong form and a loose form, and the loose form is refutable ' +
-    'by anyone with a lexicon open. Use the strong form — it makes the same point and it ' +
-    'holds.\n\n' +
+    'by anyone with a lexicon open. The strong form makes the same point and holds.\n\n' +
     'ISAIAH 11:9. The strong form is the link to Genesis 6:11, "the earth was corrupt" — ' +
     'same Hebrew word, shachath, genuinely. The loose form reads it as the word for ' +
     'ritual slaughter, which is a different root (shachat, final tet). Keep the Genesis ' +
@@ -424,11 +464,11 @@ const notes = {
     'to discredit it.\n\n' +
     'That sentence is defensible all night. Everything stronger than it is a liability.', 540),
 
-  acq: N('acq', 'WHAT WOULD MOST CHANGE THE NEXT DEBATE\n\n' +
+  acq: N('acq', 'WHAT WOULD MOST STRENGTHEN THIS RESEARCH NEXT\n\n' +
     '1. A LEXICON (LSJ, BDB — both public domain). Four of the recurring errors on this ' +
     'question are lexical; one lexicon ends all of them permanently.\n' +
-    '2. A critical apparatus. It is the physical object that decided the central exchange ' +
-    'in the biggest debate on this question.\n' +
+    '2. A critical apparatus. Having one at the table is what has decided the sharpest ' +
+    'public exchange on this question so far.\n' +
     '3. IRENAEUS 5.33 — public domain, free, and it closes the Eden question.\n' +
     '4. THE GENESIS APOCRYPHON column — closes Genesis 9:3.\n' +
     '5. CD 12:11-15 — the locust and fish rules, currently uncheckable.\n' +
@@ -439,7 +479,7 @@ const notes = {
     'Built from the question cards in this library. Every source card was checked against ' +
     'a text actually held here by the build, which refuses to publish a citation it ' +
     'cannot find. Cards marked NOTE · NOT A SOURCE are commentary, not evidence.\n\n' +
-    'Quotations from recorded debates are described, not quoted as sources: auto-captions ' +
+    'Quotations from recorded conversations are described, not quoted as sources: auto-captions ' +
     'carry no speaker labels, so attribution is inferred and has to be checked against ' +
     'the audio before anyone repeats it.\n\n' +
     'Nothing here is generated. Search retrieves; it never writes.\n\n' +
@@ -451,55 +491,58 @@ const header = { items: [notes.res, notes.how, Q(E), Q(SC)] };
 
 const rows = [
   [
-    { title: '1 · WHAT THEY LEAD WITH, AND WHAT WE HAVE', ci: 0,
-      cols: [[notes.concede], [notes.stream, S(E, 8), S(E, 9)]] },
-    { title: '★ THE FISH', ci: 3,
-      cols: [[notes.fish0, notes.fish3],
-             [notes.fish1, V('Mark 8:19-21'), notes.fish4],
-             [notes.fish2, V('Luke 24:42'), V('Luke 21:34')]] },
-    { title: '2 · CLAIM A · NO ALTAR (RED TEXT)', ci: 2,
+    { title: 'WHERE TO START', ci: 0,
+      cols: [[notes.concede], [notes.stream, S(E, 8), S(E, 9)]] }
+  ],
+  [
+    { title: '1 · DID HE OPPOSE THE SACRIFICES?', ci: 2,
       cols: [[S(SC, 0), S(SC, 1), S(SC, 2), S(SC, 6)],
              [S(SC, 3), S(SC, 4), S(SC, 5), S(SC, 8)],
-             [notes.red, S(JT, 7), S(JT, 3)]] },
-    { title: 'THE PROPHETS HE STOOD IN', ci: 1,
-      cols: [[V('Isaiah 1:11-17'), V('Amos 5:21-25')],
-             [V('Psalms 51:16-17'), V('Micah 6:6-8')]] }
+             [notes.red, S(JT, 7), S(JT, 3)],
+             [V('Isaiah 1:11-17'), V('Amos 5:21-25'), V('Micah 6:6-8')],
+             [notes.cp2, V('Psalms 51:16-17'), S(JT, 9)]] }
   ],
   [
-    { title: '3 · CLAIM A · NO FLESH (THE MOVEMENT AFTER HIM)', ci: 3,
+    { title: '2 · WHAT ABOUT THE FISH?', ci: 3,
+      cols: [[notes.fish0, notes.fish3],
+             [notes.fish1, V('Mark 8:19-21'), notes.fish4],
+             [notes.fish2, V('Luke 24:42'), V('Luke 21:34')],
+             [notes.opp6, S(SC, 10), S(SC, 11)]] },
+    { title: '3 · DID THE MOVEMENT AFTER HIM ABSTAIN FROM FLESH?', ci: 1,
       cols: [[S(SC, 17), S(SC, 14), S(SC, 15), S(SC, 21)],
              [S(SC, 18), S(SC, 19), S(SC, 20), S(SC, 22)],
-             [S(SC, 16), S(E, 13), S(E, 14), notes.after]] },
-    { title: '4 · CLAIM B · THE STREAM, NOT A MEMBERSHIP CARD', ci: 0,
+             [S(SC, 16), S(E, 13), S(E, 14), notes.after],
+             [notes.cp3, S(E, 17)]] }
+  ],
+  [
+    { title: '4 · WHERE DID HIS MOVEMENT COME FROM?', ci: 0,
       cols: [[S(E, 16), S(E, 0), S(E, 1), S(E, 2)],
              [S(E, 3), S(E, 4), S(E, 5), S(E, 6)],
-             [S(E, 7), S(TH, 2), S(PL, 7), S(E, 11)]] },
-    { title: '★ 5 · THE STRONGEST SINGLE MOVE', ci: 2,
-      cols: [[notes.divorce], [notes.recog, S(SC, 12), S(SC, 18)]] }
+             [S(E, 7), S(TH, 2), S(PL, 7), S(E, 11)],
+             [notes.cp4, S(E, 10)]] },
+    { title: '★ 5 · WAS SACRIFICE EVER COMMANDED AT ALL?', ci: 2,
+      cols: [[notes.divorce], [notes.recog, S(SC, 12), S(SC, 18)],
+             [notes.newD, notes.newE, notes.newF]] }
   ],
   [
-    { title: '6 · WHAT A PREPARED OPPONENT SAYS', ci: 1,
-      cols: [[notes.opp0, notes.opp1],
-             [notes.opp2, notes.opp3],
-             [notes.opp4, notes.opp5, S(PL, 4)],
-             [notes.opp6, notes.opp8, S(SC, 10)],
-             [notes.opp7, S(MC, 3)]] }
+    { title: '6 · EDEN, THE FLOOD, AND WHAT CHANGED AFTER', ci: 3,
+      cols: [[notes.cp6, notes.opp3],
+             [notes.opp2, notes.opp4, S(PL, 4)],
+             [notes.opp1, notes.precise],
+             [notes.newA, notes.newB],
+             [notes.newC, notes.new0]] }
   ],
   [
-    { title: '7 · WHERE THIS IS WEAKEST', ci: 2,
+    { title: '7 · HOW DO YOU READ A LIBRARY THAT ARGUES WITH ITSELF?', ci: 1,
+      cols: [[notes.opp7, S(MC, 3)], [notes.opp8, notes.hole2, V('Isaiah 56:7')]] },
+    { title: '8 · WHAT IS STILL OPEN', ci: 2,
       cols: [[notes.weak0, notes.hole5],
-             [notes.hole1, notes.hole2, V('Isaiah 56:7')],
-             [notes.hole3, notes.hole4, notes.luke2],
-             [notes.precise, S(SC, 11), S(JT, 9), S(JT, 10), S(E, 17)]] }
+             [notes.hole1, notes.hole4],
+             [notes.hole3, notes.luke2, S(JT, 10)]] }
   ],
   [
-    { title: '★★ 8 · NEW GROUND', ci: 2,
-      cols: [[notes.new0, notes.newD],
-             [notes.newA, notes.newE],
-             [notes.newB, notes.newF],
-             [notes.newC]] },
-    { title: '9 · CLOSE WITH THIS', ci: 3,
-      cols: [[notes.close, notes.acq]] },
+    { title: '9 · WHAT WE WOULD STILL LIKE TO GET HOLD OF', ci: 3,
+      cols: [[notes.acq, notes.close]] },
     { title: 'GO DEEPER', ci: 0,
       cols: [[D('questions/nazarene-sect-sacrifice-and-diet.md'),
               D('christianity/the-nazarenes.md'),
@@ -539,13 +582,14 @@ const strings = [
   ['divorce', 'recog'], ['divorce', 'opp3'], ['divorce', `s:${SC}:12`],
   ['recog', `s:${SC}:18`],
 
-  ['opp0', 'opp1'], ['opp3', 'newA'], ['opp2', 'newC'],
+  ['cp6', 'opp3'], ['opp3', 'newA'], ['opp2', 'newC'],
   ['opp4', `s:${PL}:4`], ['opp6', `s:${SC}:10`], ['opp7', `s:${MC}:3`],
+  ['opp1', 'precise'], ['cp2', 'v:Psalms 51:16-17'], ['cp2', `s:${JT}:9`],
+  ['cp3', `s:${E}:17`], ['cp4', `s:${E}:10`],
 
   ['weak0', 'hole5'], ['hole2', 'v:Isaiah 56:7'],
-  ['hole3', `s:${JT}:10`], ['hole3', `s:${JT}:9`],
-  ['hole4', `s:${E}:7`], [`s:${SC}:11`, 'hole3'],
-  ['precise', 'newA'], ['precise', `s:${E}:17`],
+  ['hole3', `s:${JT}:10`], ['hole4', `s:${E}:7`],
+  ['precise', 'newA'],
 
   ['new0', 'newA'], ['new0', 'newB'], ['new0', 'newC'],
   ['newC', `s:${SC}:19`], ['newC', `s:${SC}:18`],
@@ -648,8 +692,8 @@ const keyOf = item => item.k === 'n' ? 'n:' + item.name : item.id;
   });
   const file = {
     slug: 'sacrifice-and-flesh-the-case',
-    title: 'Did Jesus belong to a sect that rejected sacrifice and flesh?',
-    subtitle: 'The case as the evidence actually supports it — what to concede, what to lead with, what a prepared opponent says, where it is weakest, and the new ground.',
+    title: 'Jesus, sacrifice and flesh — what we have gathered',
+    subtitle: 'Nine questions, the primary texts under each, and the common counterpoints sitting beside the evidence they bear on. Plus what is still open, and what we would like to get hold of next.',
     by: 'Rex & Matt',
     listed: false,
     desk: d2
