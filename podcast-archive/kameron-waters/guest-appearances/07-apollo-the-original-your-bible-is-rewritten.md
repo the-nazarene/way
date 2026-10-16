@@ -17,7 +17,7 @@
 
 ## Full Transcript
 
-*Auto-generated YouTube captions, pulled 2026-10-16 with timestamps ([source](https://www.youtube.com/watch?v=LxSunzjgC80)). Cite a moment as `kam-guest-03 @ mm:ss`; the link plus `&t=` seconds jumps straight to it. Captions carry no speaker labels (`>>` appears only where YouTube marks a change of speaker) and are **pointers, not proof** — verify against a primary text before quoting anything here.*
+*Auto-generated YouTube captions, pulled 2026-10-16 with timestamps ([source](https://www.youtube.com/watch?v=LxSunzjgC80)). Cite a moment as `kam-guest-07 @ mm:ss`; the link plus `&t=` seconds jumps straight to it. Captions carry no speaker labels (`>>` appears only where YouTube marks a change of speaker), so in a two- or three-way conversation you must infer the speaker from content. **Pointers, not proof** — verify against a primary text before quoting anything here.*
 
 **[00:00]** This is by far the oldest, ultimate, most diabolical conspiracy there is. There's been a satanic agenda for satanic blood ritual infiltrated the Bible. >> So, be careful. >> Yeah. >> If you go look, that verse doesn't exist. It skips verse 21. >> I got three Bibles. It doesn't have one,
 

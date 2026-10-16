@@ -17,7 +17,7 @@
 
 ## Full Transcript
 
-*Auto-generated YouTube captions, pulled 2026-10-16 with timestamps ([source](https://www.youtube.com/watch?v=MNuUuhl3uTk)). Cite a moment as `kam-guest-02 @ mm:ss`; the link plus `&t=` seconds jumps straight to it. Captions carry no speaker labels (`>>` appears only where YouTube marks a change of speaker) and are **pointers, not proof** — verify against a primary text before quoting anything here.*
+*Auto-generated YouTube captions, pulled 2026-10-16 with timestamps ([source](https://www.youtube.com/watch?v=MNuUuhl3uTk)). Cite a moment as `kam-guest-06 @ mm:ss`; the link plus `&t=` seconds jumps straight to it. Captions carry no speaker labels (`>>` appears only where YouTube marks a change of speaker), so in a two- or three-way conversation you must infer the speaker from content. **Pointers, not proof** — verify against a primary text before quoting anything here.*
 
 **[00:00]** Yeshua was crucified because he freed the animals in the temple. The Jewish temple was was a slaughterhouse. So, Yeshua he was crucified because he liberated the animals because he he thought that animal sacrifice was morally reprehensible. So, he freed the animals and turned over
 

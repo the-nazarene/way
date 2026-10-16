@@ -17,7 +17,7 @@
 
 ## Full Transcript
 
-*Auto-generated YouTube captions, pulled 2026-10-16 with timestamps ([source](https://www.youtube.com/watch?v=pMG3QKx67Uk)). Cite a moment as `kam-guest-01 @ mm:ss`; the link plus `&t=` seconds jumps straight to it. Captions carry no speaker labels (`>>` appears only where YouTube marks a change of speaker) and are **pointers, not proof** — verify against a primary text before quoting anything here.*
+*Auto-generated YouTube captions, pulled 2026-10-16 with timestamps ([source](https://www.youtube.com/watch?v=pMG3QKx67Uk)). Cite a moment as `kam-guest-03 @ mm:ss`; the link plus `&t=` seconds jumps straight to it. Captions carry no speaker labels (`>>` appears only where YouTube marks a change of speaker), so in a two- or three-way conversation you must infer the speaker from content. **Pointers, not proof** — verify against a primary text before quoting anything here.*
 
 **[00:00]** Christians love casting shade at gnostics. I've been called a gnostic before, which I'm not, by the way. I repudiatenosticism. Why? Gnosticism is the idea that you can just attain the right knowledge and that somehow will save you. When you go so down the way of like it's works don't matter. It's only faith. That starts to becomenosticism because it's like what I say and believe
 

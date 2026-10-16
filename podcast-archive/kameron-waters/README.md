@@ -20,7 +20,7 @@ Numbered oldest-first by upload date.
 
 ## Guest appearances
 
-`guest-appearances/` holds the long-form interviews and debates where Kam is the guest on **someone else's** channel — three as of 2026-10-16, ~6h52m. Those are the better record of how the argument goes when it's contested, since he's answering questions he didn't choose. See that folder's README.
+`guest-appearances/` holds the long-form interviews and debates where Kam is the guest on **someone else's** channel — twelve as of 2026-10-16, ~22 hours, ~257,000 words. Those are the better record of how the argument goes when it's contested, since he's answering questions he didn't choose. Includes a joint appearance with Dr. James Tabor on the Ebionites and an adversarial cross-examination by a theologian. See that folder's README.
 
 ## Caveats
 

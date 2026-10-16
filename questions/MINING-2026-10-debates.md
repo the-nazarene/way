@@ -12,7 +12,7 @@ Ten and a half hours, ~133,000 words, read in full.
 
 | | Recording | Who | Runtime |
 |---|---|---|---|
-| 1 | "Death Before Humanity?" | Voice of Reason vs. Kam Waters (Digital Social Hour) | 10m |
+| 1 | "Death Before Humanity?" | Voice of Reason vs. Kam Waters (Digital Social Hour) | 10m — **a clip; see the correction in §2** |
 | 2 | Debate, part 1 | Wes Huff & Stephen Boyce vs. Aaron Abke & Kam Waters | 2h22m |
 | 3 | Response to the accusations | Abke & Kam (Boyce makes ~90% of the critiques; Huff was traveling) | 2h05m |
 | 4 | "Ethics of Eating Animals" | Kam vs. Ray Hicks, carnivore (Ellen Fisher) | 2h40m |
@@ -59,7 +59,11 @@ This is the most damaging text in ten hours of debate. **Same mountain as Isaiah
 
 ### "Death before humanity" — the objection that is upstream of everything
 
-Recording 1 is ten minutes and the repo has nothing on it. The critic sets a trap, Kam walks in, and the last six minutes are an uninterrupted monologue with Kam reduced to "Mhm" and "Right."
+**Correction, logged 2026-10-16 after this section was written.** Recording 1 is a **ten-minute clip**, uploaded 2025-08-23. The same two people have a **2h39m full debate** — Digital Social Hour #1448, 2025-07-15 — which was not read for this report. Both are now in the repo at `podcast-archive/kameron-waters/guest-appearances/` as 02 and 01 respectively.
+
+What that changes: the *gap* finding stands on its own, because the repo demonstrably has nothing on death before the fall regardless of what any recording contains. What it softens is the characterization of how Kam handled it — the judgment below is drawn from ten minutes and should not be taken as his full answer until someone reads recording 01. **Read the long one before anyone repeats "he had no answer."**
+
+The clip itself: the critic sets a trap, Kam walks in, and the last six minutes are an uninterrupted monologue with Kam reduced to "Mhm" and "Right."
 
 The hinge (1 @ 03:58): *"Was there death in the time of Adam and Eve before the fall?"* Kam: *"Reading the text plainly, death was not a part of the picture"* — a plain-reading literalism he had declined two sentences earlier ("both literal and metaphorical," @ 03:43). The critic then spends five minutes making plain-reading look like a 14-year-old's bookshelf, using **Origen, Augustine and Aquinas**, who all held there *was* death before the fall, plus dinosaurs, plus the classical move that natural evil came from the fall of the angels.
 
