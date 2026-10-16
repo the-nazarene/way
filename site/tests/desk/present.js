@@ -179,19 +179,24 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   await p.keyboard.press('ArrowRight'); await sleep(900);
   ok('→ with a reader open closes it and moves on', /^SECTION 5 OF 7/.test((await state(p)).eyebrow) && await p.evaluate(() => document.getElementById('reader').hidden));
 
-  /* ---------- nothing moves by accident ---------- */
+  /* ---------- a card can be moved during the show, and taken back ---------- */
   await p.keyboard.press('ArrowLeft'); await sleep(900);
   const c2 = await p.evaluate(id => { const n = document.querySelector('.nodes [data-id="' + id + '"]'); const r = n.getBoundingClientRect(); return { x: r.left + r.width / 2, y: r.top + r.height / 2 }; }, card.id);
   await p.mouse.move(c2.x, c2.y); await p.mouse.down(); await p.mouse.move(c2.x + 160, c2.y + 90, { steps: 8 }); await p.mouse.up(); await sleep(300);
   const moved = await p.evaluate(id => { const n = document.querySelector('.nodes [data-id="' + id + '"]'); return [n.style.left, n.style.top]; }, card.id);
-  ok('dragging a card while presenting does not move it', moved[0] === card.left && moved[1] === card.top, JSON.stringify([card.left, card.top, moved]));
+  ok('a card can be dragged while presenting', moved[0] !== card.left || moved[1] !== card.top, JSON.stringify([card.left, card.top, moved]));
   ok('a drag opens nothing and the show keeps running', (await state(p)).presenting && await p.evaluate(() => document.getElementById('reader').hidden));
+  /* and Ctrl-Z takes it back without leaving the show */
+  await p.keyboard.down('Control'); await p.keyboard.press('KeyZ'); await p.keyboard.up('Control'); await sleep(500);
+  const back = await p.evaluate(id => { const n = document.querySelector('.nodes [data-id="' + id + '"]'); return [n.style.left, n.style.top]; }, card.id);
+  ok('Ctrl-Z puts a presented card back', back[0] === card.left && back[1] === card.top, JSON.stringify([card.left, card.top, back]));
+  ok('undoing did not end the show', (await state(p)).presenting);
   const n0 = await p.evaluate(() => document.querySelectorAll('.nodes .node').length);
   await p.evaluate(() => { const n = document.querySelector('.nodes .node'); n.classList.add('is-selected'); });
   await p.keyboard.press('Delete');
   await p.keyboard.down('Control'); await p.keyboard.press('KeyZ'); await p.keyboard.up('Control');
   await sleep(200);
-  ok('Delete and Ctrl-Z do nothing while presenting', await p.evaluate(() => document.querySelectorAll('.nodes .node').length) === n0);
+  ok('Delete does nothing while presenting', await p.evaluate(() => document.querySelectorAll('.nodes .node').length) === n0);
   ok('notes cannot be typed into while presenting', await p.evaluate(() => [].slice.call(document.querySelectorAll('.notepad textarea')).every(t => t.readOnly)));
 
   /* ---------- exit ---------- */
@@ -204,7 +209,11 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
     notes: [].slice.call(document.querySelectorAll('.notepad textarea')).every(t => !t.readOnly),
     transform: document.getElementById('world').style.transform
   }));
-  ok('Esc ends the show and brings the desk back', !ex.presenting && ex.tools && ex.bar && ex.dim === 0 && ex.notes, JSON.stringify(ex));
+  ok('Esc ends the show and brings the desk back', !ex.presenting && ex.tools && ex.bar && ex.dim === 0, JSON.stringify(ex));
+  /* Notes stay read-only on the workbench too: a focused textarea swallows
+     Ctrl-Z, Delete and the arrows for the whole desk, so a note is opened
+     deliberately with two clicks instead of being editable by default. */
+  ok('notes are still read-only after the show, and open on two clicks', !ex.notes, JSON.stringify({ notes: ex.notes }));
   ok('and the view is where it was before', ex.transform === before, ex.transform + ' vs ' + before);
 
   /* ---------- shortcut and the tray ---------- */

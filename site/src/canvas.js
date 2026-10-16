@@ -155,7 +155,7 @@
     return { x: it.x, y: it.y, w: e ? e.offsetWidth : (it.w || SRC_W), h: e ? e.offsetHeight : 120 };
   }
 
-  function snapshot() { return JSON.stringify({ it: items, ln: links }); }
+  function snapshot() { return JSON.stringify({ it: items, ln: links, vp: [tf.x, tf.y, tf.scale] }); }
 
   /* Every change records the desk before it. A new change ends the redo
      history, but only once it is real: a press that turns out to be a click
@@ -176,6 +176,9 @@
   function restore(json) {
     var s = JSON.parse(json);
     items = s.it; links = s.ln; sel = {}; selLink = null;
+    /* Older snapshots and older shared desks carry no viewport; leave the view
+       alone for those rather than jumping it to a default. */
+    if (s.vp) { tf.x = s.vp[0]; tf.y = s.vp[1]; tf.scale = s.vp[2]; applyTransform(); }
     renderAll(); save();
   }
 
@@ -725,7 +728,20 @@
     ta.rows = 3;
     ta.placeholder = 'Your own words. Never stamped, never confused with a source.';
     ta.setAttribute('aria-label', 'Note text');
-    ta.addEventListener('pointerdown', function (e) { e.stopPropagation(); });
+    /* A note used to take focus the moment it was touched, and a focused
+       textarea swallows Ctrl-Z, Delete and the arrow keys for the whole desk
+       (see isTyping). So a note reads as read-only and is dragged like any
+       other card; double-click to write in it, click away to stop. */
+    ta.readOnly = true;
+    ta.title = 'Double-click to write in this note';
+    ta.addEventListener('dblclick', function () {
+      if (presenting || !ta.readOnly) return;   /* nothing is rewritten during the show */
+      openNoteForWriting(it.id);
+    });
+    ta.addEventListener('blur', function () {
+      ta.readOnly = true; ta.title = 'Double-click to write in this note';
+    });
+    ta.addEventListener('pointerdown', function (e) { if (!ta.readOnly) e.stopPropagation(); });
     ta.addEventListener('input', function () {
       it.text = ta.value;
       ta.style.height = 'auto';
@@ -1287,17 +1303,23 @@
 
       var holder = nodeFromEvent(e);
 
-      /* Presenting: a card or a section title is clicked, never dragged; the
-         background pans. Nothing on the desk can move by accident. */
+      /* Presenting: a section title advances the walk-through, the background
+         pans, and a card behaves as it does on the workbench -- click to read,
+         drag to move. A stray move is undoable like any other change. */
       if (presenting) {
-        if (holder) presPress = { holder: holder, x: e.clientX, y: e.clientY };
+        var presIt = holder ? itemById(holder.getAttribute('data-id')) : null;
+        /* A section title still advances the walk-through when clicked. A card
+           falls through to the ordinary handling below, so it can be dragged
+           like anything else and still opens its reader on a plain click. */
+        if (holder && presIt && presIt.t === 'frame') presPress = { holder: holder, x: e.clientX, y: e.clientY };
+        else if (holder) { /* fall through to the card handling */ }
         else {
           surface.setPointerCapture(e.pointerId);
-          pan = { lx: e.clientX, ly: e.clientY };
+          pushUndo();
+          pan = { lx: e.clientX, ly: e.clientY, moved: false };
           surface.classList.add('is-panning');
         }
-        e.preventDefault();
-        return;
+        if (!holder || (presIt && presIt.t === 'frame')) { e.preventDefault(); return; }
       }
 
       var isPin = e.target.classList && e.target.classList.contains('pin');
@@ -1378,7 +1400,8 @@
       var wantPan = e.button === 1 || spaceDown || e.pointerType === 'touch';
       surface.setPointerCapture(e.pointerId);
       if (wantPan) {
-        pan = { lx: e.clientX, ly: e.clientY };
+        pushUndo();
+        pan = { lx: e.clientX, ly: e.clientY, moved: false };
         surface.classList.add('is-panning');
       } else if (e.button === 0) {
         marq = { ax: e.clientX, ay: e.clientY, bx: e.clientX, by: e.clientY, add: e.shiftKey };
@@ -1401,6 +1424,7 @@
       }
 
       if (pan) {
+        if (Math.abs(e.clientX - pan.lx) + Math.abs(e.clientY - pan.ly) > 0) pan.moved = true;
         tf.x += e.clientX - pan.lx;
         tf.y += e.clientY - pan.ly;
         pan.lx = e.clientX; pan.ly = e.clientY;
@@ -1538,11 +1562,26 @@
         var wasMoved = drag.moved;
         var leadId = drag.lead.id;
         drag = null;
-        if (wasMoved) { updateCounts(); save(); }
+        if (wasMoved) { updateCounts(); save(); lastNoteClick = null; }
         else {
           cancelUndo();
-          /* a click, not a drag: open the source */
-          openItem(itemById(leadId));
+          var clicked = itemById(leadId);
+          if (clicked && clicked.t === 'note') {
+            /* two clicks in quick succession open the note for writing;
+               a single click just leaves it selected. */
+            var now = Date.now();
+            if (lastNoteClick && lastNoteClick.id === leadId && now - lastNoteClick.t < 450) {
+              lastNoteClick = null;
+              openNoteForWriting(leadId);
+            } else {
+              lastNoteClick = { id: leadId, t: now };
+              hint('Click again to write in this note.');
+            }
+          } else {
+            lastNoteClick = null;
+            /* a click, not a drag: open the source */
+            openItem(clicked);
+          }
         }
         return;
       }
@@ -1568,7 +1607,7 @@
         renderSelection();
       }
 
-      if (pan) { pan = null; surface.classList.remove('is-panning'); }
+      if (pan) { if (!pan.moved) cancelUndo(); pan = null; surface.classList.remove('is-panning'); }
     }
 
     surface.addEventListener('pointerup', endPointer);
@@ -2443,7 +2482,7 @@
     applyPhone();
     $('presCaption').hidden = true;
     $('presBar').hidden = true;
-    setNotesReadOnly(false);
+    setNotesReadOnly(true);   /* notes open on double-click now, not on leaving the show */
     applySpotlight();
     if (document.fullscreenElement && document.exitFullscreen) document.exitFullscreen().catch(function () { /* already out */ });
     if (/[#&]present/.test(location.hash)) {
@@ -2530,6 +2569,22 @@
     for (i = 0; i < fr.length; i++) fr[i].classList.toggle('pres-dim', !!presFocus && !presFocus[fr[i].getAttribute('data-id')]);
   }
 
+  /* Two clicks on the same note in quick succession open it for writing. The
+     browser's own dblclick never arrives, because the press captured the
+     pointer for a possible drag -- the frame titles solve it the same way. */
+  var lastNoteClick = null;
+
+  function openNoteForWriting(id) {
+    var n = $('nodes').querySelector('.node[data-id="' + id + '"]');
+    var ta = n && n.querySelector('textarea');
+    if (!ta || presenting) return false;
+    ta.readOnly = false; ta.title = '';
+    ta.focus();
+    try { ta.setSelectionRange(ta.value.length, ta.value.length); } catch (e) {}
+    hint('Writing in the note. Click away when you are done.');
+    return true;
+  }
+
   function setNotesReadOnly(on) {
     var tas = $('nodes').querySelectorAll('textarea');
     for (var i = 0; i < tas.length; i++) tas[i].readOnly = on;
@@ -2589,7 +2644,8 @@
     else if (/^[0-9]$/.test(k)) { closeReader(); goSlide(+k); }
     else if (k === 'f' || k === 'F') toggleFull();
     /* Nothing on a presented desk is deleted, undone or nudged by accident. */
-    else if (k === 'Delete' || k === 'Backspace' || ((e.ctrlKey || e.metaKey) && /^[az]$/i.test(k))) { /* swallowed */ }
+    else if ((e.ctrlKey || e.metaKey) && /^[zy]$/i.test(k)) return false;   /* undo and redo belong to the desk, not the show */
+    else if (k === 'Delete' || k === 'Backspace' || ((e.ctrlKey || e.metaKey) && /^a$/i.test(k))) { /* swallowed */ }
     else return false;
     e.preventDefault();
     return true;

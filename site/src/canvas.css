@@ -235,6 +235,12 @@
 .node.is-selected .pincard:hover { outline: 2px solid var(--sel); }
 .node.is-linking .pincard { outline: 2px dashed var(--string); }
 
+/* A note is read-only until double-clicked, so it drags like any other card and
+   does not steal the keyboard from the desk. Say which state it is in. */
+.node .notepad textarea[readonly] { cursor: grab; }
+.node.is-dragging .notepad textarea[readonly] { cursor: grabbing; }
+.node .notepad textarea:not([readonly]) { cursor: text; outline: 2px solid rgba(255, 244, 160, 0.55); }
+
 /* The pin head is the string handle, so it needs to be grabbable and to say so. */
 .node .pin { cursor: crosshair; z-index: 4; }
 .node .pin:hover { box-shadow: 0 0 0 4px rgba(208, 53, 42, 0.3); }
