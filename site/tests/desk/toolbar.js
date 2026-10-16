@@ -53,14 +53,20 @@ const MENU = ['btnFrame', 'btnTidy', 'btnFit', 'btnSnap', 'btnString', 'btnSaveF
     await p.close();
   }
 
-  /* ---------- + ADD TO THE DESK opens and closes the trays ---------- */
+  /* ---------- + ADD TO THE DESK opens the trays; the chevron closes them ---------- */
   const p = await fresh(null, null, '', MINE);
   const trayShown = () => p.evaluate(() => document.getElementById('tray').offsetWidth > 100);
   ok('on my own desk the trays start closed', !(await trayShown()) && await p.evaluate(() => document.getElementById('btnAdd').getAttribute('aria-expanded')) === 'false');
   await p.click('#btnAdd'); await sleep(350);
   ok('+ ADD TO THE DESK opens them', await trayShown() && await p.evaluate(() => document.getElementById('btnAdd').getAttribute('aria-expanded')) === 'true');
   await p.click('#btnAdd'); await sleep(350);
-  ok('and closes them again', !(await trayShown()));
+  /* Not a toggle: a button labelled ADD must never hide the thing you add from.
+     On a prepared desk the trays open themselves, so toggling meant the first
+     press appeared to do nothing at all. */
+  ok('pressing it again leaves them open', await trayShown());
+  ok('and says where to look instead', await p.evaluate(() => /already open/i.test((document.getElementById('dhint') || {}).textContent || '')));
+  await p.click('#trayCollapse'); await sleep(350);
+  ok("the '<' chevron is what closes them", !(await trayShown()));
 
   /* ---------- the MORE menu ---------- */
   ok('the menu starts closed', !(await menuOpen(p)) && await p.evaluate(() => document.getElementById('btnMore').getAttribute('aria-expanded')) === 'false');

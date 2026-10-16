@@ -3791,9 +3791,19 @@
 
     $('btnAdd').addEventListener('click', function () {
       trayUserSet = true;
-      var open = $('tray').classList.contains('is-collapsed');
-      showTray(open);
-      if (open) hint('The trays: open a case file to browse it, click a source to pin it, or drag anything onto the desk.');
+      var wasShut = $('tray').classList.contains('is-collapsed');
+      showTray(true);                      /* never a toggle: the label says ADD */
+      if (wasShut) {
+        hint('The trays: open a case file to browse it, click a source to pin it, or drag anything onto the desk.');
+      } else {
+        /* Already open, so say where to look instead of doing nothing visible. */
+        $('tray').classList.remove('is-found');
+        void $('tray').offsetWidth;        /* restart the animation */
+        $('tray').classList.add('is-found');
+        setTimeout(function () { $('tray').classList.remove('is-found'); }, 1600);
+        hint('The trays are already open, on the left. Search them, or drag anything onto the desk.');
+      }
+      try { $('tq').focus({ preventScroll: true }); } catch (e) { $('tq').focus(); }
     });
     $('trayCollapse').addEventListener('click', function () {
       trayUserSet = true;

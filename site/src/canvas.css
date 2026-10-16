@@ -235,6 +235,15 @@
 .node.is-selected .pincard:hover { outline: 2px solid var(--sel); }
 .node.is-linking .pincard { outline: 2px dashed var(--string); }
 
+/* + ADD TO THE DESK always opens the trays. Pressed when they are already open,
+   it says where to look rather than appearing to do nothing. */
+.tray.is-found { animation: trayfound 1.6s ease-out; }
+@keyframes trayfound {
+  0%, 25% { box-shadow: 0 0 0 5px rgba(255, 244, 160, 0.9); }
+  100%    { box-shadow: 0 0 0 0 rgba(255, 244, 160, 0); }
+}
+@media (prefers-reduced-motion: reduce) { .tray.is-found { animation: none; } }
+
 /* A note is read-only until double-clicked, so it drags like any other card and
    does not steal the keyboard from the desk. Say which state it is in. */
 .node .notepad textarea[readonly] { cursor: grab; }
