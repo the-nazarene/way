@@ -1,7 +1,7 @@
 /* Editing a laid-out desk: moving sections, renaming them, tying, selecting
    and deleting string, undo and redo, group moves. Run on the Essene desk. */
 const puppeteer = require('puppeteer-core');
-const { CHROME, URL } = require('./env');
+const { CHROME, URL, tool, workbench, layCase, browseCase } = require('./env');
 const pass = [], fail = [];
 const ok = (name, cond, extra) => { const l = name + (extra != null ? ' :: ' + extra : ''); (cond ? pass : fail).push(l); console.log((cond ? 'live ok  ' : 'live XX  ') + l); };
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -17,6 +17,7 @@ const SC = 'sacrifice-culture-vegetarian-jesus', E = 'essene-nazarene-origins';
   await p.goto(URL + '#desk=essenes-sacrifice-meat', { waitUntil: 'load' });
   await p.waitForSelector('.tray-case');
   await sleep(1300);
+  await workbench(p);
 
   const goTo = async name => {
     await p.evaluate(n => [].slice.call(document.querySelectorAll('#trayHere .here-row')).filter(x => x.textContent.indexOf(n) >= 0)[0].click(), name);
@@ -194,7 +195,7 @@ const SC = 'sacrifice-culture-vegetarian-jesus', E = 'essene-nazarene-origins';
   ok('one Ctrl-Z puts the group back', g2.every((q, i) => q.x === g0[i].x && q.y === g0[i].y));
 
   /* ---------- a new section names itself on the spot ---------- */
-  await p.click('#btnFrame'); await sleep(300);
+  await tool(p, '#btnFrame'); await sleep(300);
   ok('+ FRAME opens the new section\'s name for typing', await p.evaluate(() => { const a = document.activeElement; return a.tagName === 'INPUT' && a.classList.contains('is-editing'); }));
   await p.keyboard.type('MY SECTION'); await key('Enter');
   ok('and Enter names it', await p.evaluate(() => [].slice.call(document.querySelectorAll('.frame input')).some(i => i.value === 'MY SECTION')));

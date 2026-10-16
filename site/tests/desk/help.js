@@ -1,6 +1,6 @@
 /* The ? panel: the controls, one press away, out of the way otherwise. */
 const puppeteer = require('puppeteer-core');
-const { CHROME, URL, OUT } = require('./env');
+const { CHROME, URL, OUT, tool, workbench, layCase, browseCase } = require('./env');
 const pass = [], fail = [];
 const ok = (name, cond, extra) => { const l = name + (extra != null ? ' :: ' + extra : ''); (cond ? pass : fail).push(l); console.log((cond ? 'live ok  ' : 'live XX  ') + l); };
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -17,6 +17,7 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
     await p.goto(URL + '#desk=essenes-sacrifice-meat', { waitUntil: 'load' });
     await p.waitForSelector('.tray-case');
     await sleep(1100);
+    await workbench(p);   // a prepared board opens as a walk-through
     return p;
   };
   const shown = p => p.evaluate(() => !document.getElementById('helpPanel').hidden);

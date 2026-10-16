@@ -1,6 +1,6 @@
 /* Present mode: the Essene desk walked section by section. */
 const puppeteer = require('puppeteer-core');
-const { CHROME, BASE, URL, OUT } = require('./env');
+const { CHROME, BASE, URL, OUT, tool, workbench, layCase, browseCase } = require('./env');
 const pass = [], fail = [];
 const ok = (name, cond, extra) => { const l = name + (extra != null ? ' :: ' + extra : ''); (cond ? pass : fail).push(l); console.log((cond ? 'live ok  ' : 'live XX  ') + l); };
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -20,6 +20,9 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
     await p.waitForSelector('.tray-case');
     await p.waitForFunction(() => document.getElementById('hudCounts').textContent.length > 0);
     await sleep(1100);
+    /* A prepared board opens as a walk-through (checked below); these tests
+       start from the workbench. */
+    if (/desk=/.test(hash || '') && !/present/.test(hash || '')) await workbench(p);
   };
   const state = p => p.evaluate(() => ({
     presenting: document.body.classList.contains('presenting'),
@@ -46,6 +49,20 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
       otherFramesDim: [].slice.call(document.querySelectorAll('.frame')).filter(x => x !== f).every(x => x.classList.contains('pres-dim'))
     };
   }, title);
+
+  /* ---------- a prepared board opens as a walk-through ---------- */
+  const rd = await fresh();
+  await rd.goto(URL + '#desk=essenes-sacrifice-meat', { waitUntil: 'load' });
+  await rd.waitForSelector('.tray-case'); await sleep(1600);
+  const r0 = await rd.evaluate(() => ({ reading: document.body.classList.contains('reading'), work: !document.getElementById('presWork').hidden,
+    exit: !document.getElementById('presExit').hidden, eyebrow: document.getElementById('presEyebrow').textContent,
+    tools: document.querySelector('.desk-tools').offsetParent !== null }));
+  ok('a prepared board opens as a walk-through on section 1, with no workbench chrome', r0.reading && r0.work && !r0.exit && /JESUS, THE ESSENES.*SECTION 1 OF 7/.test(r0.eyebrow) && !r0.tools, JSON.stringify(r0));
+  await rd.click('#presWork'); await sleep(500);
+  const r1 = await rd.evaluate(() => ({ reading: document.body.classList.contains('reading'), presenting: document.body.classList.contains('presenting'),
+    bar: !document.getElementById('sharedBar').hidden, tools: document.querySelector('.desk-tools').offsetParent !== null }));
+  ok('OPEN THE WORKBENCH ends the walk and shows the tools and the KEEP bar', !r1.reading && !r1.presenting && r1.bar && r1.tools, JSON.stringify(r1));
+  await rd.close();
 
   /* ---------- start ---------- */
   const p = await fresh();
@@ -217,8 +234,7 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   /* ---------- a desk with no sections ---------- */
   const r = await fresh();
   await open(r);
-  await r.evaluate(() => [].slice.call(document.querySelectorAll('.tray-case')).filter(x => /Does God need blood/.test(x.textContent))[0].click());
-  await sleep(200); await r.click('.tray-lay'); await sleep(1500);
+  await layCase(r, /Does God need blood/);
   await r.click('#btnPresent'); await sleep(900);
   const sr = await state(r);
   ok('a desk with no frames presents its overview and says how to make sections', sr.presenting && sr.dots === 1 &&
@@ -226,7 +242,8 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   await r.keyboard.press('Escape'); await sleep(300);
   const empty = await fresh();
   await open(empty);
-  await empty.click('#btnPresent'); await sleep(300);
+  /* An empty desk shows no tools; the P key is still there. */
+  await empty.evaluate(() => document.getElementById('surface').focus()); await empty.keyboard.press('p'); await sleep(300);
   ok('an empty desk does not start a show', !(await state(empty)).presenting && /nothing on the desk/.test(await empty.evaluate(() => document.getElementById('dhint').textContent)));
 
   /* ---------- a small window ---------- */

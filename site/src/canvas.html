@@ -50,6 +50,7 @@
 
 <div class="desk-tools">
   <div class="tool-group">
+    <button type="button" class="tool phone-only" id="btnStartOver" title="Clear the desk and choose again">← START OVER</button>
     <button type="button" class="tool" id="btnAdd" aria-expanded="false" aria-controls="tray" title="Open the trays: case files, prepared boards, every held source">+ ADD TO THE DESK</button>
     <button type="button" class="tool" id="btnNote" title="Your own words on the legal pad. Never stamped, never a source.">+ NOTE</button>
   </div>
@@ -74,7 +75,7 @@
   </div>
 </div>
 
-<p class="desk-narrow">Drag with one finger to move around the desk, pinch to zoom, tap a card to read it. <button type="button" class="tool" id="btnPhoneList">BACK TO THE LIST</button></p>
+<p class="desk-narrow">Drag to move around, pinch to zoom, tap a card to read it. <button type="button" class="tool" id="btnPhoneList">READ AS A LIST</button></p>
 
 <section class="phone-list" id="phoneList" hidden aria-label="This desk as a list">
   <div class="phone-top">
@@ -90,6 +91,12 @@
     <nav class="phone-toc" id="phoneToc" aria-label="Sections"></nav>
   </div>
   <div class="phone-body" id="phoneBody"></div>
+  <div class="phone-walk-bar" id="phoneWalkBar" hidden role="toolbar" aria-label="Walk the sections">
+    <button type="button" id="phoneWalkPrev" aria-label="Previous section">‹</button>
+    <span class="phone-walk-at" id="phoneWalkAt" aria-live="polite"></span>
+    <button type="button" id="phoneWalkNext" aria-label="Next section">›</button>
+    <button type="button" id="phoneWalkExit">THE LIST</button>
+  </div>
 </section>
 
 <main class="desk">
@@ -180,6 +187,7 @@
         <div class="pres-sub" id="presSub"></div>
       </div>
       <div class="pres-bar" id="presBar" hidden role="toolbar" aria-label="Presentation controls">
+        <button type="button" id="presBack" class="phone-only" title="Leave this board">← BACK</button>
         <button type="button" class="pres-arrow" id="presPrev" aria-label="Previous section">‹</button>
         <div class="pres-dots" id="presDots" role="tablist" aria-label="Sections"></div>
         <button type="button" class="pres-arrow" id="presNext" aria-label="Next section">›</button>
