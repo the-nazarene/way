@@ -1,6 +1,6 @@
 # kameron-waters
 
-Raw transcripts from [Kameron Waters' YouTube channel](https://www.youtube.com/@Kameron_Waters) — all 7 videos as of 2026-10-06.
+Raw transcripts from [Kameron Waters' YouTube channel](https://www.youtube.com/@Kameron_Waters) — all 7 videos as of 2026-10-06 — plus `guest-appearances/`, his long-form interviews on other people's shows.
 
 Kam is the Christspiracy filmmaker and runs The Way Skool community. He's a frequent co-host on The Jesus Way podcast (see `../the-jesus-way/`, including episode 060, which is about him) and an incoming collaborator on this repo. His channel focuses on Christianity and animal compassion — the sacrifice critique lived out: animal rescue, vegetarian/vegan practice, and conversations with Christians about what Jesus actually taught regarding animals.
 
@@ -17,6 +17,10 @@ Numbered oldest-first by upload date.
 | 05 | `05-rescuing-fauci-lab-beagles.md` | Rescuing Fauci Lab Beagles During My Brother's Murder Trial |
 | 06 | `06-ufc-champion-stopped-eating-meat.md` | The Real Reason This UFC Champion Stopped Eating Meat |
 | 07 | `07-vegan-bodybuilder-bet-with-god.md` | This Vegan Bodybuilder Made a Bet With God. Then He Won His Pro Card. |
+
+## Guest appearances
+
+`guest-appearances/` holds the long-form interviews and debates where Kam is the guest on **someone else's** channel — three as of 2026-10-16, ~6h52m. Those are the better record of how the argument goes when it's contested, since he's answering questions he didn't choose. See that folder's README.
 
 ## Caveats
 

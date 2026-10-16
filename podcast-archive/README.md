@@ -3,7 +3,7 @@
 Raw working transcripts and synthesized research notes from two sources:
 
 - **`the-jesus-way/`** — The Jesus Way podcast (Aaron Abke & James Benefico). 65 episodes, ~13 MB. Documented in detail below.
-- **`kameron-waters/`** — Kameron Waters' YouTube channel (Christspiracy filmmaker, The Way Skool). 7 videos with full transcripts.
+- **`kameron-waters/`** — Kameron Waters (Christspiracy filmmaker, The Way Skool). 7 videos from his own channel, plus `guest-appearances/` — three long-form interviews on other people's shows (~6h52m), added 2026-10-16 so the repo knows what he has already argued in public.
 - **`dr-tabor/`** — Dr. James Tabor's "Paul" YouTube playlist: 77 videos synthesized into structured notes (summary, key teachings, scripture citations, scholars cited, quotable moments, plus the full raw transcript per file). See **`dr-tabor/00-overview.md`** for its thematic index and project notes.
 
 The rest of this file documents the **The Jesus Way** archive.
