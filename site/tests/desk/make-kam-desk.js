@@ -51,18 +51,75 @@ const notes = {
     'quotation is on this board, it is in the library.\n\n' +
     'Press → to walk it section by section. Click any card to read the whole source.', 540),
 
-  concede: N('concede', 'CONCEDE THESE IN THE FIRST TWO MINUTES\n\n' +
-    '1. No ancient source says "Jesus was an Essene." Not one. The word essene does not ' +
-    'even occur in the Dead Sea Scrolls.\n\n' +
-    '2. Luke 24:42-43 says the risen Jesus ate fish. That verse is textually secure — ' +
-    'P75, Sinaiticus, Vaticanus. Only the honeycomb is a variant. Grant it plainly: it ' +
-    'is the cheapest concession on the board, and contesting it is what costs the room.\n\n' +
-    '3. The Essene/Ebionite identification is not a scholarly consensus, and we are not ' +
-    'claiming it definitively.\n\n' +
-    'All three cost nothing and buy credibility for everything after. The honest-limits ' +
-    'formula that works under pressure: "I do not think any scholar would say this ' +
+  concede: N('concede', 'THE THREE THINGS THEY LEAD WITH — AND WHAT WE ACTUALLY HAVE\n\n' +
+    'Not a list of things to give up. For each one: what is genuinely established, what ' +
+    'is NOT established, and what we hold. The distinction between those is where this ' +
+    'argument is won.\n\n' +
+    '1. "NO ANCIENT SOURCE SAYS JESUS WAS AN ESSENE."\n' +
+    'Correct, and the word essene does not occur in the Dead Sea Scrolls either — which ' +
+    'cuts both ways, because it means nobody can quote the Essenes against us by name ' +
+    'either. What we hold is a vocabulary, a proof text, a wilderness programme and an ' +
+    'immersion practice that the gospels share with Qumran and with no other known group. ' +
+    'That supports a stream, and a stream is what we claim.\n\n' +
+    '2. "THE RISEN JESUS ATE FISH."\n' +
+    'The TEXT is secure. The MEANING is not, and we have four arguments on it — see the ' +
+    'FISH frame. Keep those two apart and this stops being a problem.\n\n' +
+    '3. "THE ESSENE/EBIONITE IDENTIFICATION IS NOT CONSENSUS."\n' +
+    'Also correct, and we do not need it to be. The claim that carries the weight is ' +
+    'succession through James, and that is attested by people trying to discredit it.\n\n' +
+    'The formula that holds under pressure: "I do not think any scholar would say this ' +
     'definitively, and I am not saying it definitively either — I am saying the evidence ' +
     'converges in that direction."', 540),
+
+  fish0: N('fish0', 'THE FISH — WHERE THE REAL ARGUMENT IS\n\n' +
+    'This gets treated as the knockout and it is not. But winning it requires separating ' +
+    'two questions that keep getting merged:\n\n' +
+    'IS THE TEXT THERE? Yes. Luke 24:42-43 is in P75, Sinaiticus and Vaticanus. Only the ' +
+    'honeycomb is a variant. Arguing that the verse is "textually unstable" has been tried ' +
+    'against someone holding a critical apparatus and it does not survive — every ' +
+    'manuscript has the fish, and none has honeycomb alone.\n\n' +
+    'DOES IT MEAN WHAT THEY SAY IT MEANS? That is open, and there are four real arguments ' +
+    'on it. None of them needs the manuscript to be shaky.\n\n' +
+    'So: grant the manuscript, take the meaning. That is a much stronger position than ' +
+    'contesting both — and it is the one the evidence actually supports.', 540),
+
+  fish1: N('fish1', '1. JESUS\'S OWN RECAP NAMES ONLY THE LOAVES.\n\n' +
+    'Mark 8:19-21 — he walks the disciples back through both feeding miracles and asks ' +
+    '"Do ye not yet understand?" about the LOAVES. The fish are absent from his own ' +
+    'interpretation of his own miracle.\n\n' +
+    'Mark 6:52 says the same thing from the narrator: "they considered not the miracle of ' +
+    'the loaves."\n\n' +
+    'This is the strongest of the four, because it is the text\'s own gloss rather than ' +
+    'ours. It is already on the sacrifice card and in the library.'),
+
+  fish2: N('fish2', '2. THE CALL NARRATIVE HAS NO MIRACULOUS CATCH.\n\n' +
+    'Mark and Matthew both call the fishermen with no miracle at all. Luke 5 alone adds ' +
+    'the filled nets.\n\n' +
+    'That matters for the John 21 version too: if the miraculous catch is a Lukan and ' +
+    'Johannine development rather than part of the earliest telling, "he commanded the ' +
+    'catch" is an argument about a later layer, not about the historical figure.\n\n' +
+    'State it as a redaction observation, which is defensible, not as "it never happened."'),
+
+  fish3: N('fish3', '3. THE GREEK WORDS ARE NOT ALL THE SAME WORD.\n\n' +
+    'John\'s feeding and John 21 use opsarion and prosphagion — the ordinary words for ' +
+    'the relish or side eaten with bread — rather than ichthys.\n\n' +
+    'Handle this one carefully. A lexicon gives opsarion as "fish" plainly enough, and ' +
+    'this argument has been answered on camera by someone simply holding one up. It is ' +
+    'genuine texture and a footnote. It is not a headline, and leading with it invites ' +
+    'the lexicon.\n\n' +
+    'The same caution applies to the ichthys acronym: it post-dates the gospels, so it ' +
+    'cannot be a wink planted inside the text.'),
+
+  fish4: N('fish4', '4. THE OLD SYRIAC AT LUKE 21:34.\n\n' +
+    '"Beware that your hearts do not become heavy with the EATING OF FLESH, with the ' +
+    'intoxication of wine, and with the anxiety of the world" — against the Greek, which ' +
+    'has a word meaning surfeiting or hangover (KJV: "surfeiting, and drunkenness").\n\n' +
+    'The most interesting of the four, and the most often fumbled. Two things to get ' +
+    'right: it is the OLD SYRIAC (Curetonian, and reportedly the Sinaitic too), not the ' +
+    'Peshitta — the library currently says Peshitta and that should be corrected. And it ' +
+    'is Luke 21:34, which is easy to misspeak; an opponent used exactly that slip to ' +
+    'dismiss the whole point without engaging the manuscript.\n\n' +
+    'Burkitt\'s 1904 edition is public domain. Worth holding before this is argued again.'),
 
   stream: N('stream', 'CLAIM IT AS A STREAM, NOT A MEMBERSHIP CARD.\n\n' +
     'A vocabulary found nowhere in the Hebrew Bible — "spirit of truth", "children of ' +
@@ -394,8 +451,12 @@ const header = { items: [notes.res, notes.how, Q(E), Q(SC)] };
 
 const rows = [
   [
-    { title: '1 · START BY CONCEDING THESE', ci: 0,
+    { title: '1 · WHAT THEY LEAD WITH, AND WHAT WE HAVE', ci: 0,
       cols: [[notes.concede], [notes.stream, S(E, 8), S(E, 9)]] },
+    { title: '★ THE FISH', ci: 3,
+      cols: [[notes.fish0, notes.fish3],
+             [notes.fish1, V('Mark 8:19-21'), notes.fish4],
+             [notes.fish2, V('Luke 24:42'), V('Luke 21:34')]] },
     { title: '2 · CLAIM A · NO ALTAR (RED TEXT)', ci: 2,
       cols: [[S(SC, 0), S(SC, 1), S(SC, 2), S(SC, 6)],
              [S(SC, 3), S(SC, 4), S(SC, 5), S(SC, 8)],
@@ -454,6 +515,11 @@ const rows = [
 
 const strings = [
   ['res', 'how'], ['res', `q:${E}`], ['res', `q:${SC}`], ['how', 'concede'],
+
+  ['concede', 'fish0'], ['fish0', 'fish1'], ['fish0', 'fish2'],
+  ['fish0', 'fish3'], ['fish0', 'fish4'],
+  ['fish1', 'v:Mark 8:19-21'], ['fish4', 'v:Luke 21:34'],
+  ['fish0', 'v:Luke 24:42'], [`s:${SC}:10`, 'fish0'],
 
   [`q:${SC}`, `s:${SC}:0`], [`s:${SC}:0`, `s:${SC}:1`], [`s:${SC}:1`, `s:${SC}:2`],
   [`s:${SC}:3`, `s:${SC}:4`], [`s:${SC}:4`, 'red'],

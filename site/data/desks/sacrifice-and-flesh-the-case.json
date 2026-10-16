@@ -14,7 +14,7 @@
   "it": [
    [
     "f",
-    "1 · START BY CONCEDING THESE",
+    "1 · WHAT THEY LEAD WITH, AND WHAT WE HAVE",
     0,
     460,
     868,
@@ -23,8 +23,17 @@
    ],
    [
     "f",
-    "2 · CLAIM A · NO ALTAR (RED TEXT)",
+    "★ THE FISH",
     958,
+    460,
+    1144,
+    1237,
+    3
+   ],
+   [
+    "f",
+    "2 · CLAIM A · NO ALTAR (RED TEXT)",
+    2192,
     460,
     854,
     674,
@@ -33,7 +42,7 @@
    [
     "f",
     "THE PROPHETS HE STOOD IN",
-    1902,
+    3136,
     460,
     578,
     352,
@@ -43,7 +52,7 @@
     "f",
     "3 · CLAIM A · NO FLESH (THE MOVEMENT AFTER HIM)",
     0,
-    1330,
+    1847,
     854,
     857,
     3
@@ -52,7 +61,7 @@
     "f",
     "4 · CLAIM B · THE STREAM, NOT A MEMBERSHIP CARD",
     944,
-    1330,
+    1847,
     854,
     493,
     0
@@ -61,7 +70,7 @@
     "f",
     "★ 5 · THE STRONGEST SINGLE MOVE",
     1888,
-    1330,
+    1847,
     868,
     615,
     2
@@ -70,7 +79,7 @@
     "f",
     "6 · WHAT A PREPARED OPPONENT SAYS",
     0,
-    2337,
+    2854,
     1986,
     1092,
     1
@@ -79,7 +88,7 @@
     "f",
     "7 · WHERE THIS IS WEAKEST",
     0,
-    3579,
+    4096,
     1710,
     1410,
     2
@@ -88,7 +97,7 @@
     "f",
     "★★ 8 · NEW GROUND",
     0,
-    5139,
+    5656,
     2290,
     986,
     2
@@ -97,7 +106,7 @@
     "f",
     "9 · CLOSE WITH THIS",
     2380,
-    5139,
+    5656,
     592,
     824,
     3
@@ -106,7 +115,7 @@
     "f",
     "GO DEEPER",
     3062,
-    5139,
+    5656,
     1144,
     571,
     0
@@ -141,7 +150,7 @@
    ],
    [
     "n",
-    "CONCEDE THESE IN THE FIRST TWO MINUTES\n\n1. No ancient source says \"Jesus was an Essene.\" Not one. The word essene does not even occur in the Dead Sea Scrolls.\n\n2. Luke 24:42-43 says the risen Jesus ate fish. That verse is textually secure — P75, Sinaiticus, Vaticanus. Only the honeycomb is a variant. Grant it plainly: it is the cheapest concession on the board, and contesting it is what costs the room.\n\n3. The Essene/Ebionite identification is not a scholarly consensus, and we are not claiming it definitively.\n\nAll three cost nothing and buy credibility for everything after. The honest-limits formula that works under pressure: \"I do not think any scholar would say this definitively, and I am not saying it definitively either — I am saying the evidence converges in that direction.\"",
+    "THE THREE THINGS THEY LEAD WITH — AND WHAT WE ACTUALLY HAVE\n\nNot a list of things to give up. For each one: what is genuinely established, what is NOT established, and what we hold. The distinction between those is where this argument is won.\n\n1. \"NO ANCIENT SOURCE SAYS JESUS WAS AN ESSENE.\"\nCorrect, and the word essene does not occur in the Dead Sea Scrolls either — which cuts both ways, because it means nobody can quote the Essenes against us by name either. What we hold is a vocabulary, a proof text, a wilderness programme and an immersion practice that the gospels share with Qumran and with no other known group. That supports a stream, and a stream is what we claim.\n\n2. \"THE RISEN JESUS ATE FISH.\"\nThe TEXT is secure. The MEANING is not, and we have four arguments on it — see the FISH frame. Keep those two apart and this stops being a problem.\n\n3. \"THE ESSENE/EBIONITE IDENTIFICATION IS NOT CONSENSUS.\"\nAlso correct, and we do not need it to be. The claim that carries the weight is succession through James, and that is attested by people trying to discredit it.\n\nThe formula that holds under pressure: \"I do not think any scholar would say this definitively, and I am not saying it definitively either — I am saying the evidence converges in that direction.\"",
     26,
     486,
     540
@@ -170,10 +179,66 @@
     250
    ],
    [
+    "n",
+    "THE FISH — WHERE THE REAL ARGUMENT IS\n\nThis gets treated as the knockout and it is not. But winning it requires separating two questions that keep getting merged:\n\nIS THE TEXT THERE? Yes. Luke 24:42-43 is in P75, Sinaiticus and Vaticanus. Only the honeycomb is a variant. Arguing that the verse is \"textually unstable\" has been tried against someone holding a critical apparatus and it does not survive — every manuscript has the fish, and none has honeycomb alone.\n\nDOES IT MEAN WHAT THEY SAY IT MEANS? That is open, and there are four real arguments on it. None of them needs the manuscript to be shaky.\n\nSo: grant the manuscript, take the meaning. That is a much stronger position than contesting both — and it is the one the evidence actually supports.",
+    984,
+    486,
+    540
+   ],
+   [
+    "n",
+    "3. THE GREEK WORDS ARE NOT ALL THE SAME WORD.\n\nJohn's feeding and John 21 use opsarion and prosphagion — the ordinary words for the relish or side eaten with bread — rather than ichthys.\n\nHandle this one carefully. A lexicon gives opsarion as \"fish\" plainly enough, and this argument has been answered on camera by someone simply holding one up. It is genuine texture and a footnote. It is not a headline, and leading with it invites the lexicon.\n\nThe same caution applies to the ichthys acronym: it post-dates the gospels, so it cannot be a wink planted inside the text.",
+    984,
+    856,
+    250
+   ],
+   [
+    "n",
+    "1. JESUS'S OWN RECAP NAMES ONLY THE LOAVES.\n\nMark 8:19-21 — he walks the disciples back through both feeding miracles and asks \"Do ye not yet understand?\" about the LOAVES. The fish are absent from his own interpretation of his own miracle.\n\nMark 6:52 says the same thing from the narrator: \"they considered not the miracle of the loaves.\"\n\nThis is the strongest of the four, because it is the text's own gloss rather than ours. It is already on the sacrifice card and in the library.",
+    1550,
+    486,
+    250
+   ],
+   [
+    "v",
+    "Mark 8:19-21",
+    1550,
+    928,
+    250
+   ],
+   [
+    "n",
+    "4. THE OLD SYRIAC AT LUKE 21:34.\n\n\"Beware that your hearts do not become heavy with the EATING OF FLESH, with the intoxication of wine, and with the anxiety of the world\" — against the Greek, which has a word meaning surfeiting or hangover (KJV: \"surfeiting, and drunkenness\").\n\nThe most interesting of the four, and the most often fumbled. Two things to get right: it is the OLD SYRIAC (Curetonian, and reportedly the Sinaitic too), not the Peshitta — the library currently says Peshitta and that should be corrected. And it is Luke 21:34, which is easy to misspeak; an opponent used exactly that slip to dismiss the whole point without engaging the manuscript.\n\nBurkitt's 1904 edition is public domain. Worth holding before this is argued again.",
+    1550,
+    1089,
+    250
+   ],
+   [
+    "n",
+    "2. THE CALL NARRATIVE HAS NO MIRACULOUS CATCH.\n\nMark and Matthew both call the fishermen with no miracle at all. Luke 5 alone adds the filled nets.\n\nThat matters for the John 21 version too: if the miraculous catch is a Lukan and Johannine development rather than part of the earliest telling, \"he commanded the catch\" is an argument about a later layer, not about the historical figure.\n\nState it as a redaction observation, which is defensible, not as \"it never happened.\"",
+    1826,
+    486,
+    250
+   ],
+   [
+    "v",
+    "Luke 24:42",
+    1826,
+    946,
+    250
+   ],
+   [
+    "v",
+    "Luke 21:34",
+    1826,
+    1068,
+    250
+   ],
+   [
     "s",
     "sacrifice-culture-vegetarian-jesus",
     0,
-    984,
+    2218,
     486,
     250
    ],
@@ -181,7 +246,7 @@
     "s",
     "sacrifice-culture-vegetarian-jesus",
     1,
-    984,
+    2218,
     605,
     250
    ],
@@ -189,7 +254,7 @@
     "s",
     "sacrifice-culture-vegetarian-jesus",
     2,
-    984,
+    2218,
     711,
     250
    ],
@@ -197,7 +262,7 @@
     "s",
     "sacrifice-culture-vegetarian-jesus",
     6,
-    984,
+    2218,
     817,
     250
    ],
@@ -205,7 +270,7 @@
     "s",
     "sacrifice-culture-vegetarian-jesus",
     3,
-    1260,
+    2494,
     486,
     250
    ],
@@ -213,7 +278,7 @@
     "s",
     "sacrifice-culture-vegetarian-jesus",
     4,
-    1260,
+    2494,
     592,
     250
    ],
@@ -221,7 +286,7 @@
     "s",
     "sacrifice-culture-vegetarian-jesus",
     5,
-    1260,
+    2494,
     711,
     250
    ],
@@ -229,14 +294,14 @@
     "s",
     "sacrifice-culture-vegetarian-jesus",
     8,
-    1260,
+    2494,
     817,
     250
    ],
    [
     "n",
     "THIS HALF IS RED TEXT ABOUT JESUS HIMSELF.\n\nHe threw Hosea 6:6 at the men running the cult — twice. He stopped the Temple traffic quoting the one chapter where God denies commanding burnt offerings. And the next verse says that is the moment they decided to kill him:\n\nMark 11:18 (KJV) — \"And the scribes and chief priests heard it, and sought how they might destroy him.\"\n\nNothing else on this board is this strong. Lead here.",
-    1536,
+    2770,
     486,
     250
    ],
@@ -244,7 +309,7 @@
     "s",
     "jesus-and-the-torah",
     7,
-    1536,
+    2770,
     892,
     250
    ],
@@ -252,35 +317,35 @@
     "s",
     "jesus-and-the-torah",
     3,
-    1536,
+    2770,
     1011,
     250
    ],
    [
     "v",
     "Isaiah 1:11-17",
-    1928,
+    3162,
     486,
     250
    ],
    [
     "v",
     "Amos 5:21-25",
-    1928,
+    3162,
     647,
     250
    ],
    [
     "v",
     "Psalms 51:16-17",
-    2204,
+    3438,
     486,
     250
    ],
    [
     "v",
     "Micah 6:6-8",
-    2204,
+    3438,
     647,
     250
    ],
@@ -289,7 +354,7 @@
     "sacrifice-culture-vegetarian-jesus",
     17,
     26,
-    1356,
+    1873,
     250
    ],
    [
@@ -297,7 +362,7 @@
     "sacrifice-culture-vegetarian-jesus",
     14,
     26,
-    1475,
+    1992,
     250
    ],
    [
@@ -305,7 +370,7 @@
     "sacrifice-culture-vegetarian-jesus",
     15,
     26,
-    1594,
+    2111,
     250
    ],
    [
@@ -313,7 +378,7 @@
     "sacrifice-culture-vegetarian-jesus",
     21,
     26,
-    1713,
+    2230,
     250
    ],
    [
@@ -321,7 +386,7 @@
     "sacrifice-culture-vegetarian-jesus",
     18,
     2480,
-    1809,
+    2326,
     250
    ],
    [
@@ -329,7 +394,7 @@
     "sacrifice-culture-vegetarian-jesus",
     19,
     302,
-    1488,
+    2005,
     250
    ],
    [
@@ -337,7 +402,7 @@
     "sacrifice-culture-vegetarian-jesus",
     20,
     302,
-    1620,
+    2137,
     250
    ],
    [
@@ -345,7 +410,7 @@
     "sacrifice-culture-vegetarian-jesus",
     22,
     302,
-    1739,
+    2256,
     250
    ],
    [
@@ -353,7 +418,7 @@
     "sacrifice-culture-vegetarian-jesus",
     16,
     578,
-    1356,
+    1873,
     250
    ],
    [
@@ -361,7 +426,7 @@
     "essene-nazarene-origins",
     13,
     578,
-    1485,
+    2002,
     250
    ],
    [
@@ -369,14 +434,14 @@
     "essene-nazarene-origins",
     14,
     578,
-    1627,
+    2144,
     250
    ],
    [
     "n",
     "WHY THIS SECTION HOLDS: every witness in it was hostile or disinterested.\n\nPaul concedes vegetable-only believers in Rome by 57 CE — against his own argument. Epiphanius is trying to discredit them. A church council legislates against what is actually happening.\n\nNobody in this list wanted the conclusion. That is what makes it evidence.\n\nConcede the asymmetry out loud: this is evidence about THE MOVEMENT, not about what was on Jesus's plate.",
     578,
-    1759,
+    2276,
     250
    ],
    [
@@ -384,7 +449,7 @@
     "essene-nazarene-origins",
     16,
     970,
-    1356,
+    1873,
     250
    ],
    [
@@ -392,7 +457,7 @@
     "essene-nazarene-origins",
     0,
     970,
-    1475,
+    1992,
     250
    ],
    [
@@ -400,7 +465,7 @@
     "essene-nazarene-origins",
     1,
     970,
-    1594,
+    2111,
     250
    ],
    [
@@ -408,7 +473,7 @@
     "essene-nazarene-origins",
     2,
     970,
-    1700,
+    2217,
     250
    ],
    [
@@ -416,7 +481,7 @@
     "essene-nazarene-origins",
     3,
     1246,
-    1356,
+    1873,
     250
    ],
    [
@@ -424,7 +489,7 @@
     "essene-nazarene-origins",
     4,
     1246,
-    1475,
+    1992,
     250
    ],
    [
@@ -432,7 +497,7 @@
     "essene-nazarene-origins",
     5,
     1246,
-    1581,
+    2098,
     250
    ],
    [
@@ -440,7 +505,7 @@
     "essene-nazarene-origins",
     6,
     1246,
-    1700,
+    2217,
     250
    ],
    [
@@ -448,7 +513,7 @@
     "essene-nazarene-origins",
     7,
     1522,
-    1356,
+    1873,
     250
    ],
    [
@@ -456,7 +521,7 @@
     "the-gospel-of-thomas",
     2,
     1522,
-    1462,
+    1979,
     250
    ],
    [
@@ -464,7 +529,7 @@
     "pauls-legitimacy",
     7,
     1522,
-    1578,
+    2095,
     250
    ],
    [
@@ -472,21 +537,21 @@
     "essene-nazarene-origins",
     11,
     1522,
-    1684,
+    2201,
     250
    ],
    [
     "n",
     "THE STRONGEST SINGLE MOVE\n\nMatthew 19:8 — \"Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so.\"\n\nJesus, in the red text, identifies a standing Torah permission as a CONCESSION to hardness of heart, and appeals past it to the beginning. That is the whole hermeneutic, in his own mouth, applied by him to a different question.\n\nIt answers \"Genesis 9:3 permits meat\" without denying that it permits meat. Permission is not endorsement — and he is the one who says so.\n\nIt is also the canonical twin of Clementine Recognitions 1.36, whose chapter title is literally \"Allowance of Sacrifice for a Time.\" The same logic in the red text and in the movement that claimed succession from him.\n\nIn three hours of debate against a trained opponent, this went unanswered.",
     1914,
-    1356,
+    1873,
     540
    ],
    [
     "n",
     "Recognitions 1.36 is titled \"Allowance of Sacrifice for a Time.\"\n\nThe Jewish-Christian text says the sacrifices were a temporary concession to a people who had learned the habit in Egypt — not a divine requirement.\n\nPair it with Matthew 19:8 and the argument is no longer ours. It belongs to the red text and to the earliest movement that claimed him.",
     2480,
-    1356,
+    1873,
     250
    ],
    [
@@ -494,49 +559,49 @@
     "sacrifice-culture-vegetarian-jesus",
     12,
     2480,
-    1690,
+    2207,
     250
    ],
    [
     "n",
     "WHAT A PREPARED OPPONENT ACTUALLY SAYS\n\nThese are not hypothetical. Every one was argued by a named critic — two apologists and a PhD who brought a Greek New Testament — across about ten hours of recorded debate on exactly this question.\n\nSeveral are not answered anywhere in the library yet. Those are marked OPEN, because pretending otherwise is how you get surprised on a recording.",
     26,
-    2363,
+    2880,
     540
    ],
    [
     "n",
     "ACTS 10 — \"rise, kill and eat\", and the author tells it TWICE (ch. 10 and again in 11).\n\nThe most-used text against this position, and it is not on the card at all.\n\nActs 10:13-14 (KJV) — \"And there came a voice to him, Rise, Peter; kill, and eat. But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean.\"\n\nThe defensible line is the vision's own stated meaning — Gentile inclusion (10:28, 10:34-35) — which opponents will usually concede outright.\n\nStay off the lexical route. Reading \"a voice\" as something other than God does not hold, because Peter answers \"Not so, LORD\" in the very next breath. The vision's own interpretation is the strong ground here.",
     26,
-    2589,
+    3106,
     250
    ],
    [
     "n",
     "GENESIS 8:20-21 — God smells Noah's burnt offering and calls it good.\n\n\"The sacrificial system of Israel was founded upon that sacrifice.\"\n\nGod's explicit approval of animal sacrifice at the narrative reset. Harder than Leviticus, because it is approval rather than legislation. OPEN — nothing on the card answers it.\n\nThe best available answer is in the NEW GROUND section: the Clementine reading makes bloodshed the CAUSE of the flood, which reframes the whole scene before an opponent gets to it.",
     592,
-    2363,
+    2880,
     250
    ],
    [
     "n",
     "GENESIS 9:3 IS THE NOAHIC COVENANT — the one we live under. The Adamic one ended.\n\nGenesis 9:3 (KJV) — \"Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.\"\n\nA clean structural answer to Genesis 1:29 that does not deny 1:29 — it dates it.\n\nTWO ANSWERS, and they work together: Matthew 19:8 (permission is not endorsement, in his own mouth), and the Genesis Apocryphon in the NEW GROUND section, where the same grant appears with no flesh permission at all.",
     592,
-    2841,
+    3358,
     250
    ],
    [
     "n",
     "DEUTERONOMY 14:3-5, and \"there are 635 laws in Torah and not one says you may not eat meat.\"\n\nDeuteronomy 14:4-5 (KJV) — \"These are the beasts which ye shall eat: the ox, the sheep, and the goat, the hart, and the roebuck, and the fallow deer...\"\n\nTrue, and it does not touch claim A as properly stated. The claim is about a SECT'S practice and a prophetic critique of the cult, not about a Torah prohibition. Agreeing here costs nothing at all.",
     868,
-    2363,
+    2880,
     250
    ],
    [
     "n",
     "THE DAMASCUS DOCUMENT LEGISLATES EATING LOCUSTS AND FISH — CD 12:11-15.\n\n\"Locusts thrown alive into fire or boiling water; fish cut open alive to drain the blood. These do not seem like animal liberationists.\"\n\nThe most damaging TECHNICAL argument on the other side, and substantially accurate. CD 12 is not among the Dead Sea Scrolls excerpts the library holds, so it cannot currently be checked.\n\nUntil it is held: argue the Nazarene movement, not the Essene menu. That is the narrower claim and it is the one the evidence supports.",
     868,
-    2751,
+    3268,
     250
    ],
    [
@@ -544,21 +609,21 @@
     "pauls-legitimacy",
     4,
     868,
-    3229,
+    3746,
     250
    ],
    [
     "n",
     "JOHN 21 — he COMMANDED the catch.\n\nNot merely \"he ate fish.\" He performed a miracle to fill the net, then cooked it. And the closer, which is the best line any opponent has produced on this question:\n\n\"Pythagoras let the fish go but Jesus didn't. That's the point of the story — I'm not Pythagoras, I'm Jesus, we eat fish.\"\n\nA separate and sharper argument than Luke 24. Prepare it separately. OPEN.",
     1144,
-    2363,
+    2880,
     250
    ],
    [
     "n",
     "WHY THE FATHERS, BUT NOT MARK 16?\n\n\"Your Hebrew Gospel argument depends heavily on the church fathers. Why are the fathers who mention the longer ending of Mark 16 not authoritative, but when they mention a Hebrew Matthew, they are?\"\n\nThe criterion of embarrassment does not answer this. Embarrassment vouches for a hostile witness reporting content against his own interest; it says nothing about whether the father correctly IDENTIFIED a text — which is the actual question. And Mark 16 is attested by the same fathers.\n\nOPEN, and the library has nothing on it anywhere. This is the one to think about before the next recording.",
     1144,
-    2769,
+    3286,
     250
    ],
    [
@@ -566,14 +631,14 @@
     "sacrifice-culture-vegetarian-jesus",
     10,
     1144,
-    3319,
+    3836,
     250
    ],
    [
     "n",
     "THE METHOD ATTACKS, which are harder than the texts:\n\n\"We can't get behind the text. All we've got is the text.\"\n\nJOHN 14:26 — Jesus in the red text promises the Spirit so the apostles would not merely remember his words but UNDERSTAND them. So the apostolic interpretation is authorised by Jesus himself, and red-letters-only is unbiblical on its own terms. This is the best unanswered objection on the whole question.\n\nTHE LXX RULE — the gospel writers quote the Greek. Both halves of the Temple quotation are verbatim LXX, and the phrase is spelaion leston, \"cave of bandits,\" identical across three gospels. This answers a whole family of Hebrew-lexical arguments at one stroke.\n\nBoth OPEN. Both will come up.",
     1420,
-    2363,
+    2880,
     540
    ],
    [
@@ -581,70 +646,70 @@
     "method-and-criteria",
     3,
     1420,
-    2715,
+    3232,
     250
    ],
    [
     "n",
     "WHERE THIS IS GENUINELY WEAKEST\n\nPut here deliberately. A position you cannot state the weaknesses of is a position you will lose from, and conceding a real problem early is worth more than defending it late.\n\nSix of them. One was found this month and is the worst.",
     26,
-    3605,
+    4122,
     540
    ],
    [
     "n",
     "★ THE WORST ONE — Isaiah 25:6.\n\n\"And in this mountain shall the LORD of hosts make unto all people a feast of fat things... of fat things full of marrow, of wines on the lees well refined.\"\n\nTHE SAME HOLY MOUNTAIN as Isaiah 11:9 (\"they shall not hurt nor destroy\") and Isaiah 56:7 (\"my holy mountain... house of prayer\"). Fourteen chapters later. Same prophet.\n\nAn eschatological MEAT-AND-WINE BANQUET sitting underneath the entire peaceable-kingdom architecture. It was raised in one interrupted sentence in a recorded debate, cut off, and took the point anyway.\n\nIf you build on Isaiah 11, own Isaiah 25 first. It is not in the library in any form yet.",
     26,
-    3795,
+    4312,
     540
    ],
    [
     "n",
     "ACTS 21:23-26 — James tells Paul to pay for four men's Temple offerings, and Paul does it.\n\nThe highest-threat text, because it is the James household itself participating in the sacrificial system.\n\nWorth knowing: in three hours a trained opponent never raised it. He used the much cheaper Acts 3:1 instead, and said he had spent the week researching James. Do not volunteer it.",
     592,
-    3605,
+    4122,
     250
    ],
    [
     "n",
     "ISAIAH 56:7, FIRST HALF — \"their burnt offerings and their sacrifices shall be accepted upon mine altar.\"\n\nWe quote the second half. The first half is pro-sacrifice, in the same verse.\n\nThe interpolation reading of that clause has no named scholar behind it, so it will not survive being asked for a source.\n\nThere IS a real interpolation argument, on a different text: PSALM 51:18-19, where the sacrifice coda reverses the two verses before it and is long recognised as a post-exilic addition. That one is in the library, it is defensible, and it makes the same point. Reach for it instead.",
     592,
-    3957,
+    4474,
     250
    ],
    [
     "v",
     "Isaiah 56:7",
     592,
-    4471,
+    4988,
     250
    ],
    [
     "n",
     "THOMAS 14 and Q 10:8 / LUKE 10:8 — \"eat such things as are set before you.\"\n\nJesus instructing his own itinerants not to be fussy about food, in two top-tier sources.\n\nAlso Q 7:34 — \"a gluttonous man, and a winebibber.\"\n\nThe upgrade on that one is textual rather than rhetorical: Luke 7:33 names BREAD (\"neither eating bread nor drinking wine\"), so the bare \"eating and drinking\" of 7:34 takes bread and wine as its antecedents. And Proverbs 23:20 pairs \"winebibbers\" with \"riotous eaters of flesh\" — the slur is a stock proverbial formula, not a menu.",
     868,
-    3605,
+    4122,
     250
    ],
    [
     "n",
     "THE JAMES-HOUSEHOLD INFERENCE.\n\nHegesippus on James's diet comes through Eusebius, is late, and is hagiography. An opponent's version: \"this idea that James was a vegetarian is in, like, two obscure sources.\"\n\nTwo things not to do. Do not inflate the count — it is one source via one transmitter. And do not extend it to the household (\"so Mary raised him that way\"): the Hegesippus clause is a matched pair that includes wine, and Q 7:34 has Jesus a winebibber. The inference breaks on its own sentence.\n\nA Nazirite vow does not forbid meat either — a DSS specialist volunteered that unprompted. The chain-of-custody argument is the answer here, and it is on the card.",
     868,
-    4101,
+    4618,
     250
    ],
    [
     "n",
     "LUKE 2:24 — the holy family brings two turtledoves to the Temple.\n\n\"Were Jesus's parents, who apparently were part of the Essene group of some sort, wrong for bringing these doves to the temple?\"\n\nHarder than Acts 21, because it is his own parents, in the infancy narrative, with no plausible distance. Not in the library in any form.",
     868,
-    4651,
+    5168,
     250
    ],
    [
     "n",
     "THREE PLACES WHERE PRECISION WINS THE EXCHANGE\n\nEach of these has a strong form and a loose form, and the loose form is refutable by anyone with a lexicon open. Use the strong form — it makes the same point and it holds.\n\nISAIAH 11:9. The strong form is the link to Genesis 6:11, \"the earth was corrupt\" — same Hebrew word, shachath, genuinely. The loose form reads it as the word for ritual slaughter, which is a different root (shachat, final tet). Keep the Genesis link; it is real and it is enough.\n\nTHE TEMPLE ACTION. The strong form is JOHN 2:15, which drives out the sheep and the oxen. The synoptics say he overthrew \"the seats of them that sold doves\" — they do not have him free an animal. Say John 2:15 and stop. The night-before look around the Temple is fine: that is Mark 11:11.\n\nGENESIS 9:3. The strong form is the Genesis Apocryphon in the NEW GROUND section — a manuscript, not an etymology. Do not argue over what \"every moving thing\" means; Genesis 9:2 already lists beast, fowl and fish, so the scope question is settled against you one verse earlier.",
     1144,
-    3605,
+    4122,
     540
    ],
    [
@@ -652,7 +717,7 @@
     "sacrifice-culture-vegetarian-jesus",
     11,
     1144,
-    4065,
+    4582,
     250
    ],
    [
@@ -660,7 +725,7 @@
     "jesus-and-the-torah",
     9,
     1144,
-    4171,
+    4688,
     250
    ],
    [
@@ -668,7 +733,7 @@
     "jesus-and-the-torah",
     10,
     1144,
-    4300,
+    4817,
     250
    ],
    [
@@ -676,152 +741,188 @@
     "essene-nazarene-origins",
     17,
     1144,
-    4406,
+    4923,
     250
    ],
    [
     "n",
     "★★ NEW GROUND — found this month\n\nThree agents read about twenty-two hours of recorded argument on this question against the whole library, asking one thing: is there anything STRONGER than what we currently lead with?\n\nHonest answer: nothing beats the Clementine block for claim A, and nothing is stronger for claim B. But six things are stronger at specific pressure points — and two of the six were already sitting in this library, held verbatim, never used.",
     26,
-    5165,
+    5682,
     540
    ],
    [
     "n",
     "4. EZEKIEL 20:25-26 — a canonical warrant for the concession reading\n\n\"Wherefore I gave them also statutes that were not good, and judgments whereby they should not live\" — and the next verse illustrates it with an OFFERING practice.\n\nBetter than Matthew 19:8 on subject matter: the not-good statute concerns offerings, not divorce. Prophetic, canonical, and it pre-empts the philosophical objection (\"God cannot command what is immoral\") from inside the canon.\n\nHeld in the library's KJV. Absent from every card.\n\nConcede first: the mainstream reading of v.26 is judicial abandonment to Molech practice. The narrow form is enough — the canon itself says God can give statutes that are not good, and the example it reaches for is an offering.",
     26,
-    5409,
+    5926,
     250
    ],
    [
     "n",
     "★ 1. THE GENESIS APOCRYPHON (1QapGen XI)\n\nNoah's post-flood grant, in a pre-Christian Hebrew and Aramaic manuscript:\n\n\"Do not fear, Noah... I give all of it to you and to your sons to eat the green things and the grass of the earth, but you shall not eat any blood.\"\n\nNO FLESH PERMISSION.\n\nThis is the same moment as Genesis 9:3 — the single most-used counter-text on this question, and a hole with no answer. A Dead Sea Scrolls specialist read it aloud, called it \"quite remarkable\", and said he had never read it with this in mind.\n\nNot held yet. Cave 1, not Cave 4. Use it as a PARALLEL TRADITION — it is rewritten Bible, not a Genesis manuscript, so it is not a textual variant and must not be called one.",
     592,
-    5165,
+    5682,
     540
    ],
    [
     "n",
     "5. JEREMIAH 7:21 — the clause we keep leaving out\n\nThe card quotes 7:22. Read 7:21 first:\n\n\"Put your burnt offerings unto your sacrifices, AND EAT FLESH.\"\n\nThe sarcastic permission names eating the flesh, not just the altar. It welds the diet half to the sacrifice half inside the verse the case already leads with — in the received Hebrew text, with no appeal to a versional variant.\n\nThis matters beyond the one verse. Reaching for an unheld Syriac or Peshitta reading when the plain text already carries the point is how these exchanges get lost.",
     592,
-    5571,
+    6088,
     250
    ],
    [
     "n",
     "★ 2. IRENAEUS, AGAINST HERESIES — Book 5, ch. 33, §§3-4\n\n\"...it is right that when the creation is restored, all the animals should obey and be in subjection to man and revert to the food originally given by God... that is, the productions of the earth.\"\n\nA hostile orthodox father, around 180, who CONDEMNS the Ebionites elsewhere — reading Isaiah 11 the same way we do.\n\nThat is the hostile-witness structure this whole case rests on, aimed at the Eden-to-Kingdom frame. And it answers the question that sits upstream of everything: whether Eden was ever a vision of non-violence at all.\n\nNot held — and the translation is PUBLIC DOMAIN, so this one costs nothing to add.",
     1158,
-    5165,
+    5682,
     540
    ],
    [
     "n",
     "6. TWO SMALLER UPGRADES\n\nLEVITICUS 5:11-13 — a bloodless flour sin offering, with atonement explicitly granted, INSIDE the priestly source. A DSS specialist calls it \"quite the anomaly.\"\n\nLimit: it is a concession for the poor, so it shows the blood requirement is not absolute — not that it was never commanded. Note how neatly it pairs with the ebionim self-designation.\n\n\"BE YE GOOD MONEY-CHANGERS\" — a saying attributed to Jesus, held verbatim three times in the Clementine Homilies, commissioning discrimination between true and false scripture. It is the best available answer to \"you are just discarding what you do not like\" and to John 14:26. Prefer Homilies 18.20, which sits outside the section the editors flag.",
     1158,
-    5517,
+    6034,
     250
    ],
    [
     "n",
     "★ 3. ALREADY IN THE LIBRARY, NEVER USED\n1 Enoch 7:5 + Clementine Homilies 8.16-8.17.\n\nThe card quotes Homilies 8.15 and stops. It never says what 8.15 is: the chapter is titled \"The Giants\", and the NEXT chapter is titled \"Cannibalism.\"\n\n8.16 — \"it was not a long step to the consumption of flesh like their own, having first tasted it in other forms.\"\n8.17 — \"by the shedding of much blood, the pure air being defiled\" — the flood as a purgation of bloodshed.\n1 Enoch 7:5 — the giants \"began to sin against birds, and beasts, and reptiles, and fish, and to devour one another's flesh, and drink the blood.\"\n\nTogether these answer Genesis 9:3, Genesis 8:20-21, and the \"nobody is innocent, there is no death-free meal\" objection — because 8.15 makes NECESSITY the hinge and 8.16 makes the objection INTENTIONAL killing.\n\nBoth Tier 1. Both verified verbatim. The library has been quoting the conclusion and dropping the premise.",
     1724,
-    5165,
+    5682,
     540
    ],
    [
     "n",
     "THE SENTENCE THAT HOLDS EVERY WORD\n\nThe movement that claimed succession from Jesus through his brother James rejected sacrifice and abstained from flesh — and we know it from the people who were trying to discredit it.\n\nThat sentence is defensible all night. Everything stronger than it is a liability.",
     2406,
-    5165,
+    5682,
     540
    ],
    [
     "n",
     "WHAT WOULD MOST CHANGE THE NEXT DEBATE\n\n1. A LEXICON (LSJ, BDB — both public domain). Four of the recurring errors on this question are lexical; one lexicon ends all of them permanently.\n2. A critical apparatus. It is the physical object that decided the central exchange in the biggest debate on this question.\n3. IRENAEUS 5.33 — public domain, free, and it closes the Eden question.\n4. THE GENESIS APOCRYPHON column — closes Genesis 9:3.\n5. CD 12:11-15 — the locust and fish rules, currently uncheckable.\n6. Panarion 18 / 29 / 30 in usable excerpts, and Jerome on Galatians 2:10.\n\nNumbers 3 and 4 are the two that change arguments rather than close gaps.",
     2406,
-    5373,
+    5890,
     250
    ],
    [
     "d",
     "questions/nazarene-sect-sacrifice-and-diet.md",
     3088,
-    5165,
+    5682,
     250
    ],
    [
     "d",
     "christianity/the-nazarenes.md",
     3088,
-    5299,
+    5816,
     250
    ],
    [
     "d",
     "christianity/prophetic-tradition-against-sacrifice.md",
     3088,
-    5438,
+    5955,
     250
    ],
    [
     "d",
     "christianity/biblical-case-for-vegetarian-jesus.md",
     3088,
-    5572,
+    6089,
     250
    ],
    [
     "d",
     "christianity/james-the-just-key-to-understanding-jesus.md",
     3364,
-    5165,
+    5682,
     250
    ],
    [
     "d",
     "christianity/clementine-literature-nazarene-writings.md",
     3364,
-    5299,
+    5816,
     250
    ],
    [
     "d",
     "questions/method-and-criteria.md",
     3364,
-    5433,
+    5950,
     250
    ],
    [
     "d",
     "questions/CITATION-NOTES.md",
     3364,
-    5556,
+    6073,
     250
    ],
    [
     "n",
     "ABOUT THIS BOARD\n\nBuilt from the question cards in this library. Every source card was checked against a text actually held here by the build, which refuses to publish a citation it cannot find. Cards marked NOTE · NOT A SOURCE are commentary, not evidence.\n\nQuotations from recorded debates are described, not quoted as sources: auto-captions carry no speaker labels, so attribution is inferred and has to be checked against the audio before anyone repeats it.\n\nNothing here is generated. Search retrieves; it never writes.\n\nFound a wrong citation? The link in the footer files it. Those get fixed on the cards, never on the board.",
     3640,
-    5165,
+    5682,
     540
    ]
   ],
   "ln": [
    [
-    "n:12",
-    "n:13"
-   ],
-   [
-    "n:12",
-    "q:essene-nazarene-origins"
-   ],
-   [
-    "n:12",
-    "q:sacrifice-culture-vegetarian-jesus"
+    "n:13",
+    "n:14"
    ],
    [
     "n:13",
-    "n:14"
+    "q:essene-nazarene-origins"
+   ],
+   [
+    "n:13",
+    "q:sacrifice-culture-vegetarian-jesus"
+   ],
+   [
+    "n:14",
+    "n:15"
+   ],
+   [
+    "n:15",
+    "n:17"
+   ],
+   [
+    "n:17",
+    "n:19"
+   ],
+   [
+    "n:17",
+    "n:21"
+   ],
+   [
+    "n:17",
+    "n:18"
+   ],
+   [
+    "n:17",
+    "n:20"
+   ],
+   [
+    "n:19",
+    "v:Mark 8:19-21"
+   ],
+   [
+    "n:20",
+    "v:Luke 21:34"
+   ],
+   [
+    "n:17",
+    "v:Luke 24:42"
+   ],
+   [
+    "s:sacrifice-culture-vegetarian-jesus:10",
+    "n:17"
    ],
    [
     "q:sacrifice-culture-vegetarian-jesus",
@@ -841,7 +942,7 @@
    ],
    [
     "s:sacrifice-culture-vegetarian-jesus:4",
-    "n:16"
+    "n:22"
    ],
    [
     "s:sacrifice-culture-vegetarian-jesus:5",
@@ -861,7 +962,7 @@
    ],
    [
     "s:sacrifice-culture-vegetarian-jesus:0",
-    "n:16"
+    "n:22"
    ],
    [
     "s:jesus-and-the-torah:3",
@@ -885,7 +986,7 @@
    ],
    [
     "s:sacrifice-culture-vegetarian-jesus:22",
-    "n:17"
+    "n:23"
    ],
    [
     "s:sacrifice-culture-vegetarian-jesus:16",
@@ -920,7 +1021,7 @@
     "s:pauls-legitimacy:7"
    ],
    [
-    "n:15",
+    "n:16",
     "s:essene-nazarene-origins:8"
    ],
    [
@@ -928,131 +1029,131 @@
     "s:essene-nazarene-origins:9"
    ],
    [
-    "n:18",
-    "n:19"
-   ],
-   [
-    "n:18",
-    "n:23"
-   ],
-   [
-    "n:18",
-    "s:sacrifice-culture-vegetarian-jesus:12"
-   ],
-   [
-    "n:19",
-    "s:sacrifice-culture-vegetarian-jesus:18"
-   ],
-   [
-    "n:20",
-    "n:21"
-   ],
-   [
-    "n:23",
-    "n:39"
-   ],
-   [
-    "n:22",
-    "n:43"
+    "n:24",
+    "n:25"
    ],
    [
     "n:24",
-    "s:pauls-legitimacy:4"
+    "n:29"
+   ],
+   [
+    "n:24",
+    "s:sacrifice-culture-vegetarian-jesus:12"
+   ],
+   [
+    "n:25",
+    "s:sacrifice-culture-vegetarian-jesus:18"
    ],
    [
     "n:26",
-    "s:sacrifice-culture-vegetarian-jesus:10"
-   ],
-   [
-    "n:28",
-    "s:method-and-criteria:3"
+    "n:27"
    ],
    [
     "n:29",
-    "n:30"
+    "n:45"
+   ],
+   [
+    "n:28",
+    "n:49"
+   ],
+   [
+    "n:30",
+    "s:pauls-legitimacy:4"
    ],
    [
     "n:32",
-    "v:Isaiah 56:7"
-   ],
-   [
-    "n:33",
-    "s:jesus-and-the-torah:10"
-   ],
-   [
-    "n:33",
-    "s:jesus-and-the-torah:9"
+    "s:sacrifice-culture-vegetarian-jesus:10"
    ],
    [
     "n:34",
+    "s:method-and-criteria:3"
+   ],
+   [
+    "n:35",
+    "n:36"
+   ],
+   [
+    "n:38",
+    "v:Isaiah 56:7"
+   ],
+   [
+    "n:39",
+    "s:jesus-and-the-torah:10"
+   ],
+   [
+    "n:39",
+    "s:jesus-and-the-torah:9"
+   ],
+   [
+    "n:40",
     "s:essene-nazarene-origins:7"
    ],
    [
     "s:sacrifice-culture-vegetarian-jesus:11",
-    "n:33"
-   ],
-   [
-    "n:36",
     "n:39"
-   ],
-   [
-    "n:36",
-    "s:essene-nazarene-origins:17"
-   ],
-   [
-    "n:37",
-    "n:39"
-   ],
-   [
-    "n:37",
-    "n:41"
-   ],
-   [
-    "n:37",
-    "n:43"
-   ],
-   [
-    "n:43",
-    "s:sacrifice-culture-vegetarian-jesus:19"
-   ],
-   [
-    "n:43",
-    "s:sacrifice-culture-vegetarian-jesus:18"
-   ],
-   [
-    "n:38",
-    "n:18"
-   ],
-   [
-    "n:40",
-    "s:sacrifice-culture-vegetarian-jesus:5"
    ],
    [
     "n:42",
-    "n:33"
+    "n:45"
+   ],
+   [
+    "n:42",
+    "s:essene-nazarene-origins:17"
+   ],
+   [
+    "n:43",
+    "n:45"
+   ],
+   [
+    "n:43",
+    "n:47"
+   ],
+   [
+    "n:43",
+    "n:49"
+   ],
+   [
+    "n:49",
+    "s:sacrifice-culture-vegetarian-jesus:19"
+   ],
+   [
+    "n:49",
+    "s:sacrifice-culture-vegetarian-jesus:18"
    ],
    [
     "n:44",
-    "n:12"
+    "n:24"
    ],
    [
-    "n:44",
-    "d:questions/nazarene-sect-sacrifice-and-diet.md"
+    "n:46",
+    "s:sacrifice-culture-vegetarian-jesus:5"
    ],
    [
-    "n:45",
-    "n:41"
-   ],
-   [
-    "n:45",
+    "n:48",
     "n:39"
    ],
    [
-    "n:36",
+    "n:50",
+    "n:13"
+   ],
+   [
+    "n:50",
+    "d:questions/nazarene-sect-sacrifice-and-diet.md"
+   ],
+   [
+    "n:51",
+    "n:47"
+   ],
+   [
+    "n:51",
+    "n:45"
+   ],
+   [
+    "n:42",
     "d:questions/CITATION-NOTES.md"
    ],
    [
-    "n:27",
+    "n:33",
     "d:questions/method-and-criteria.md"
    ]
   ]
