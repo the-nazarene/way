@@ -72,6 +72,24 @@ const notes = {
     'True — and the answer is in the note beside them: late witnesses who were trying to ' +
     'discredit the group are stronger evidence than early friendly ones.'),
 
+  netser: N('netser', 'WHERE THE NAME ITSELF MAY COME FROM — Isaiah 11.\n\n' +
+    'Isaiah 11:1 (KJV) — "And there shall come forth a rod out of the stem of Jesse, and ' +
+    'a BRANCH shall grow out of his roots." The Hebrew word for that branch is NETSER — ' +
+    'the same three consonants as Nazarene.\n\n' +
+    'Matthew 2:23 says he settled in Nazareth "that it might be fulfilled which was ' +
+    'spoken by the prophets, He shall be called a Nazarene" — and no Old Testament verse ' +
+    'says those words. The branch of Isaiah 11:1 is the oldest and most widely held ' +
+    'explanation of what Matthew is pointing at; Jerome read it that way in the fourth ' +
+    'century.\n\n' +
+    'And look what else lives in that same chapter: "with righteousness shall he judge ' +
+    'THE POOR" (11:4 — the ebionim\'s own self-designation), and the holy mountain where ' +
+    '"they shall not hurt nor destroy" (11:9). One chapter carrying the movement\'s name, ' +
+    'its self-designation, and its vision of the kingdom.\n\n' +
+    'Stated that way it holds. Two cautions: 11:9\'s "destroy" is NOT the Hebrew word for ' +
+    'ritual slaughter (different root — the real verbal link is to Genesis 6:11, "the ' +
+    'earth was corrupt"), and Isaiah 25:6 puts a feast of fat things on the same mountain ' +
+    '— see WHAT IS STILL OPEN.', 540),
+
   cp4: N('cp4', 'COMMON COUNTERPOINTS ON THIS QUESTION\n\n' +
     'THE NAME. Nazareth existed; archaeology settles that. And the later group spelled ' +
     'itself differently. So "Nazarene" as a sect name rather than a hometown is ' +
@@ -90,25 +108,23 @@ const notes = {
     'laid out here rather than hidden. Two of them had no answer in this library until ' +
     'this month.'),
 
-  concede: N('concede', 'THE THREE THINGS THEY LEAD WITH — AND WHAT WE ACTUALLY HAVE\n\n' +
-    'Not a list of things to give up. For each one: what is genuinely established, what ' +
-    'is NOT established, and what we hold. The distinction between those is where this ' +
-    'argument is won.\n\n' +
-    '1. "NO ANCIENT SOURCE SAYS JESUS WAS AN ESSENE."\n' +
-    'Correct, and the word essene does not occur in the Dead Sea Scrolls either — which ' +
-    'cuts both ways, because it means nobody can quote the Essenes against us by name ' +
-    'either. What we hold is a vocabulary, a proof text, a wilderness programme and an ' +
-    'immersion practice that the gospels share with Qumran and with no other known group. ' +
-    'That supports a stream, and a stream is what we claim.\n\n' +
-    '2. "THE RISEN JESUS ATE FISH."\n' +
-    'The TEXT is secure. The MEANING is not, and we have four arguments on it — see the ' +
-    'FISH frame. Keep those two apart and this stops being a problem.\n\n' +
-    '3. "THE ESSENE/EBIONITE IDENTIFICATION IS NOT CONSENSUS."\n' +
-    'Also correct, and we do not need it to be. The claim that carries the weight is ' +
-    'succession through James, and that is attested by people trying to discredit it.\n\n' +
-    'The formula that holds under pressure: "I do not think any scholar would say this ' +
-    'definitively, and I am not saying it definitively either — I am saying the evidence ' +
-    'converges in that direction."', 540),
+  concede: N('concede', 'THREE THINGS TO KNOW BEFORE READING ANYTHING ELSE\n\n' +
+    '1. NO ANCIENT TEXT CALLS JESUS AN ESSENE. True. The word "Essene" never appears in ' +
+    'the Dead Sea Scrolls either — the people who wrote the scrolls did not call ' +
+    'themselves that. So nobody on any side of this can produce a sentence that puts him ' +
+    'in, or keeps him out. What the texts DO show is the gospels and the scrolls using ' +
+    'the same unusual language ("sons of light," "spirit of truth"), quoting the same ' +
+    'proof text, and practicing the same wilderness immersion. He came out of that ' +
+    'world. Whether he carried its membership card, no text says.\n\n' +
+    '2. LUKE SAYS THE RISEN JESUS ATE FISH, AND THE VERSE IS REAL. It is in every early ' +
+    'manuscript. The live question is not whether the verse exists — it is what the fish ' +
+    'in the gospels are doing. Four arguments on that, in the FISH section.\n\n' +
+    '3. NO SCHOLAR SAYS "THE ESSENES BECAME THE EBIONITES" AS SETTLED FACT. And this ' +
+    'research does not need them to. The claim that carries the weight is simpler: the ' +
+    'movement led by Jesus\'s own brother rejected sacrifice and abstained from flesh — ' +
+    'and the people who recorded that were its enemies.\n\n' +
+    'The sentence that survives any pressure: "Nobody can say this definitively, and we ' +
+    'are not saying it definitively — we are saying the evidence converges."', 540),
 
   fish0: N('fish0', 'THE FISH — WHERE THE REAL ARGUMENT IS\n\n' +
     'This gets treated as the knockout and it is not. But winning it requires separating ' +
@@ -160,15 +176,14 @@ const notes = {
     'dismiss the whole point without engaging the manuscript.\n\n' +
     'Burkitt\'s 1904 edition is public domain. Worth holding before this is argued again.'),
 
-  stream: N('stream', 'CLAIM IT AS A STREAM, NOT A MEMBERSHIP CARD.\n\n' +
-    'A vocabulary found nowhere in the Hebrew Bible — "spirit of truth", "children of ' +
-    'light" — runs all through the gospels. Same proof text, same wilderness, same ' +
-    'immersion.\n\n' +
-    'That is a stream, and it is what the evidence supports. It is not a membership ' +
-    'roll, and you do not need one: he ate with sinners and drank wine, and reform ' +
-    'movements criticise their parent hardest.\n\n' +
-    'The scholarly frame that holds: a trajectory, a tendency, a thread — the ' +
-    'characteristics move through several groups, and that is the point.'),
+  stream: N('stream', 'THE SHAPE OF THE CLAIM: he came out of this world.\n\n' +
+    'Not "he was a card-carrying member of group X" — no text supports that, and he ate ' +
+    'with sinners and drank wine, which no sectarian rulebook allows.\n\n' +
+    'What the texts support is an inheritance: a shared vocabulary found nowhere in the ' +
+    'Hebrew Bible, a shared proof text, a shared wilderness-and-immersion pattern. These ' +
+    'characteristics run through several groups across two centuries — scrolls community, ' +
+    'Baptist movement, Jesus movement, Ebionites — and that continuity is itself the ' +
+    'finding. One tradition, several names.'),
 
   red: N('red', 'THIS HALF IS RED TEXT ABOUT JESUS HIMSELF.\n\n' +
     'He threw Hosea 6:6 at the men running the cult — twice. He stopped the Temple ' +
@@ -519,6 +534,7 @@ const rows = [
       cols: [[S(E, 16), S(E, 0), S(E, 1), S(E, 2)],
              [S(E, 3), S(E, 4), S(E, 5), S(E, 6)],
              [S(E, 7), S(TH, 2), S(PL, 7), S(E, 11)],
+             [notes.netser],
              [notes.cp4, S(E, 10)]] },
     { title: '★ 5 · WAS SACRIFICE EVER COMMANDED AT ALL?', ci: 2,
       cols: [[notes.divorce], [notes.recog, S(SC, 12), S(SC, 18)],
@@ -586,6 +602,7 @@ const strings = [
   ['opp4', `s:${PL}:4`], ['opp6', `s:${SC}:10`], ['opp7', `s:${MC}:3`],
   ['opp1', 'precise'], ['cp2', 'v:Psalms 51:16-17'], ['cp2', `s:${JT}:9`],
   ['cp3', `s:${E}:17`], ['cp4', `s:${E}:10`],
+  ['netser', `s:${E}:8`], ['netser', 'hole5'], ['netser', `s:${E}:3`],
 
   ['weak0', 'hole5'], ['hole2', 'v:Isaiah 56:7'],
   ['hole3', `s:${JT}:10`], ['hole4', `s:${E}:7`],
