@@ -34,6 +34,7 @@ This is the companion to the Source Hierarchy in `CLAUDE.md`. The hierarchy says
 | **Shepherd of Hermas** | `christianity/ethiopian-bible/shepherd-of-hermas.md` | Roberts-Donaldson, ANF vol. 2 (1885), via New Advent | Public domain | Verified (Mandates) | — |
 | **Epistula Apostolorum** | `christianity/ethiopian-bible/epistula-apostolorum.md` | M. R. James, *The Apocryphal New Testament* (1924) | Public domain in the US | Verified (16, 17, 26, 31, 33, 36) | **Read the whole chapter before using it on Paul.** The "root up the church" and "last of the last" fragments are verbatim, and the surrounding text is strongly *pro*-Paul ("a chosen vessel… preacher unto the Gentiles"). See `SOURCE-AUDIT.md` §7 |
 | **Ethiopic Didascalia** | `christianity/ethiopian-bible/didascalia-raw.md` | J. M. Harden (SPCK, 1920), OCR from the Internet Archive scan | Public domain | Held; OCR | **The OCR drops the letter "t" systematically** ("wih us our good and holy broher Paul"). Exact-phrase grep returns zero on genuine quotations. Verify by reading, and quote from the scan if the wording matters |
+| **Epiphanius, *Panarion*** | `christianity/Incoming/epiphanius-panarion-book-1-full-text.md`, `-book-2-full-text.md`, `-book-3-full-text.md` | Machine translation from the Greek of Holl (GCS 25, 1915; GCS 31, 1922) and Dindorf (vol. 3.1, 1861), checked by Craig Wescoe | Public domain (rights waived by Craig Wescoe) | Held; not yet audited | — |
 
 ## Tier 2 — Verified excerpts (quote only what is here, translator inline)
 
@@ -68,7 +69,6 @@ These are real sources we lean on without owning. Until a text is added, cite th
 | Eusebius, *Church History* | 4 cards | NPNF series 2 vol. 1 (McGiffert, 1890), PD | Hegesippus on James (2.23); the flight to Pella (3.5). **Excerpts now held:** 2.23.4-7 and 2.17.22-24, in the witnesses file (Tier 2) |
 | Eusebius, *Demonstratio Evangelica* | 3 files | Ferrar (1920), PD in the US | **Now held (3.5)** in the witnesses file. It says *the disciples of Jesus* "embraced... abstinence from wine and meat" within a longer sentence; "the twelve apostles embraced abstinence" is a paraphrase |
 | Hegesippus | 5 cards | Survives only in Eusebius (above) | He says James **was** admitted to the holy place; "never entered the Temple" reverses him |
-| Epiphanius, *Panarion* | 5 cards | No PD English. Williams (Brill, 1987/2009) is in copyright | Excerpts only. The Ebionite Passover saying (30.22.4) is his quotation of *their alteration* |
 | Irenaeus, Justin Martyr, Tertullian, Origen | 1-2 cards each | ANF volumes, PD | The subordinationism quotations are in our secondary notes only; the argument stands without the quotation marks |
 | Philo (*Every Good Man Is Free*, *Hypothetica*) | 2 cards | Yonge (1854), PD | Essene sources. **Excerpts now held:** *Prob.* 75 (Essenes, "not sacrificing living animals") and *Contempl.* 73 (the Therapeutae's table, not the Essenes'), in the witnesses file |
 | Pliny the Elder, *Natural History* 5.15 | 2 cards | Bostock & Riley (1855), PD | Essenes. Pliny says nothing about Essene diet |
