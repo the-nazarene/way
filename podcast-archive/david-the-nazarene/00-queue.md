@@ -302,24 +302,24 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 291 | [x] | [ ] | RSF - NazActs Bk 9 Ch 1-11 | 35:05 | [291-rsf-nazacts-bk-9-ch-1-11.md](291-rsf-nazacts-bk-9-ch-1-11.md) |
 | 292 | [x] | [ ] | RSF - NazActs Bk 9 Ch 12-30 | 24:45 | [292-rsf-nazacts-bk-9-ch-12-30.md](292-rsf-nazacts-bk-9-ch-12-30.md) |
 | 293 | [x] | [ ] | RSF - NazActs Bk 9 Ch 31-38 | 21:54 | [293-rsf-nazacts-bk-9-ch-31-38.md](293-rsf-nazacts-bk-9-ch-31-38.md) |
-| 294 | [ ] | [ ] | RSF - NazActs Bk 10 Ch 1-13 | 35:19 | [294-rsf-nazacts-bk-10-ch-1-13.md](294-rsf-nazacts-bk-10-ch-1-13.md) |
-| 295 | [ ] | [ ] | RSF - NazActs Bk 10 Ch 14-34 | 32:55 | [295-rsf-nazacts-bk-10-ch-14-34.md](295-rsf-nazacts-bk-10-ch-14-34.md) |
-| 296 | [ ] | [ ] | RSF - NazActs Bk 10 Ch 35-52 | 25:12 | [296-rsf-nazacts-bk-10-ch-35-52.md](296-rsf-nazacts-bk-10-ch-35-52.md) |
-| 297 | [ ] | [ ] | RSF - NazActs Bk 10 Ch 53-72 | 25:59 | [297-rsf-nazacts-bk-10-ch-53-72.md](297-rsf-nazacts-bk-10-ch-53-72.md) |
-| 298 | [ ] | [ ] | RSF - The Didache | 21:22 | [298-rsf-the-didache.md](298-rsf-the-didache.md) |
-| 299 | [ ] | [ ] | RSF - The Letter from James the Just | 15:44 | [299-rsf-the-letter-from-james-the-just.md](299-rsf-the-letter-from-james-the-just.md) |
-| 300 | [ ] | [ ] | RSF - The First Letter from Peter The Apostle | 15:02 | [300-rsf-the-first-letter-from-peter-the-apostle.md](300-rsf-the-first-letter-from-peter-the-apostle.md) |
-| 301 | [ ] | [ ] | RSF - The Second Letter from Peter the Apostle | 10:21 | [301-rsf-the-second-letter-from-peter-the-apostle.md](301-rsf-the-second-letter-from-peter-the-apostle.md) |
-| 302 | [ ] | [ ] | RSF - The First Letter From John | 21:13 | [302-rsf-the-first-letter-from-john.md](302-rsf-the-first-letter-from-john.md) |
-| 303 | [ ] | [ ] | RSF - The Second Letter From John | 2:02 | [303-rsf-the-second-letter-from-john.md](303-rsf-the-second-letter-from-john.md) |
-| 304 | [ ] | [ ] | RSF - The Third Letter From John | 2:06 | [304-rsf-the-third-letter-from-john.md](304-rsf-the-third-letter-from-john.md) |
-| 305 | [ ] | [ ] | RSF - The Letter From Judah | 11:23 | [305-rsf-the-letter-from-judah.md](305-rsf-the-letter-from-judah.md) |
+| 294 | [x] | [ ] | RSF - NazActs Bk 10 Ch 1-13 | 35:19 | [294-rsf-nazacts-bk-10-ch-1-13.md](294-rsf-nazacts-bk-10-ch-1-13.md) |
+| 295 | [x] | [ ] | RSF - NazActs Bk 10 Ch 14-34 | 32:55 | [295-rsf-nazacts-bk-10-ch-14-34.md](295-rsf-nazacts-bk-10-ch-14-34.md) |
+| 296 | [x] | [ ] | RSF - NazActs Bk 10 Ch 35-52 | 25:12 | [296-rsf-nazacts-bk-10-ch-35-52.md](296-rsf-nazacts-bk-10-ch-35-52.md) |
+| 297 | [x] | [ ] | RSF - NazActs Bk 10 Ch 53-72 | 25:59 | [297-rsf-nazacts-bk-10-ch-53-72.md](297-rsf-nazacts-bk-10-ch-53-72.md) |
+| 298 | [x] | [ ] | RSF - The Didache | 21:22 | [298-rsf-the-didache.md](298-rsf-the-didache.md) |
+| 299 | [x] | [ ] | RSF - The Letter from James the Just | 15:44 | [299-rsf-the-letter-from-james-the-just.md](299-rsf-the-letter-from-james-the-just.md) |
+| 300 | [x] | [ ] | RSF - The First Letter from Peter The Apostle | 15:02 | [300-rsf-the-first-letter-from-peter-the-apostle.md](300-rsf-the-first-letter-from-peter-the-apostle.md) |
+| 301 | [x] | [ ] | RSF - The Second Letter from Peter the Apostle | 10:21 | [301-rsf-the-second-letter-from-peter-the-apostle.md](301-rsf-the-second-letter-from-peter-the-apostle.md) |
+| 302 | [x] | [ ] | RSF - The First Letter From John | 21:13 | [302-rsf-the-first-letter-from-john.md](302-rsf-the-first-letter-from-john.md) |
+| 303 | [x] | [ ] | RSF - The Second Letter From John | 2:02 | [303-rsf-the-second-letter-from-john.md](303-rsf-the-second-letter-from-john.md) |
+| 304 | [x] | [ ] | RSF - The Third Letter From John | 2:06 | [304-rsf-the-third-letter-from-john.md](304-rsf-the-third-letter-from-john.md) |
+| 305 | [x] | [ ] | RSF - The Letter From Judah | 11:23 | [305-rsf-the-letter-from-judah.md](305-rsf-the-letter-from-judah.md) |
 | 306 | [ ] | [ ] | RSF - The Letter From Peter to James | 16:54 | [306-rsf-the-letter-from-peter-to-james.md](306-rsf-the-letter-from-peter-to-james.md) |
-| 307 | [ ] | [ ] | RSF - The Letter From Clement to James | 29:40 | [307-rsf-the-letter-from-clement-to-james.md](307-rsf-the-letter-from-clement-to-james.md) |
-| 308 | [ ] | [ ] | RSF - The Sermons of Peter Bk 1 Ch 1-22 | 31:31 | [308-rsf-the-sermons-of-peter-bk-1-ch-1-22.md](308-rsf-the-sermons-of-peter-bk-1-ch-1-22.md) |
-| 309 | [ ] | [ ] | RSF - The Sermons of Peter Bk 2 Ch 1-26 | 34:07 | [309-rsf-the-sermons-of-peter-bk-2-ch-1-26.md](309-rsf-the-sermons-of-peter-bk-2-ch-1-26.md) |
-| 310 | [ ] | [ ] | RSF - The Sermons of Peter Bk 2 Ch 27-52 | 34:41 | [310-rsf-the-sermons-of-peter-bk-2-ch-27-52.md](310-rsf-the-sermons-of-peter-bk-2-ch-27-52.md) |
-| 311 | [ ] | [ ] | RSF - The Sermons of Peter Bk 3 Ch 1-13 | 44:37 | [311-rsf-the-sermons-of-peter-bk-3-ch-1-13.md](311-rsf-the-sermons-of-peter-bk-3-ch-1-13.md) |
+| 307 | [x] | [ ] | RSF - The Letter From Clement to James | 29:40 | [307-rsf-the-letter-from-clement-to-james.md](307-rsf-the-letter-from-clement-to-james.md) |
+| 308 | [x] | [ ] | RSF - The Sermons of Peter Bk 1 Ch 1-22 | 31:31 | [308-rsf-the-sermons-of-peter-bk-1-ch-1-22.md](308-rsf-the-sermons-of-peter-bk-1-ch-1-22.md) |
+| 309 | [x] | [ ] | RSF - The Sermons of Peter Bk 2 Ch 1-26 | 34:07 | [309-rsf-the-sermons-of-peter-bk-2-ch-1-26.md](309-rsf-the-sermons-of-peter-bk-2-ch-1-26.md) |
+| 310 | [x] | [ ] | RSF - The Sermons of Peter Bk 2 Ch 27-52 | 34:41 | [310-rsf-the-sermons-of-peter-bk-2-ch-27-52.md](310-rsf-the-sermons-of-peter-bk-2-ch-27-52.md) |
+| 311 | [x] | [ ] | RSF - The Sermons of Peter Bk 3 Ch 1-13 | 44:37 | [311-rsf-the-sermons-of-peter-bk-3-ch-1-13.md](311-rsf-the-sermons-of-peter-bk-3-ch-1-13.md) |
 | 312 | [ ] | [ ] | RSF - The Sermons of Peter Bk 3 Ch 14-29 | 27:36 | [312-rsf-the-sermons-of-peter-bk-3-ch-14-29.md](312-rsf-the-sermons-of-peter-bk-3-ch-14-29.md) |
 | 313 | [ ] | [ ] | RSF - The Sermons of Peter Bk 3 Ch 30-73 | 40:14 | [313-rsf-the-sermons-of-peter-bk-3-ch-30-73.md](313-rsf-the-sermons-of-peter-bk-3-ch-30-73.md) |
 | 314 | [ ] | [ ] | RSF - The Sermons of Peter Bk 4 Ch 1-25 | 21:03 | [314-rsf-the-sermons-of-peter-bk-4-ch-1-25.md](314-rsf-the-sermons-of-peter-bk-4-ch-1-25.md) |

@@ -30,7 +30,7 @@ Tick **T** when the transcript is in, **N** when notes are written.
 | 019 | [x] | [x] | A Jesus Hideout in Jordan: Mapping Ancient Textual Traditions | 0:57:35 | [019-a-jesus-hideout-in-jordan-mapping-ancient-textual-traditions.md](019-a-jesus-hideout-in-jordan-mapping-ancient-textual-traditions.md) |
 | 020 | [x] | [x] | Is There Credible Archaeological Evidence Related to the Earliest Jesus Followers? | 0:42:44 | [020-is-there-credible-archaeological-evidence-related-to-the-ear.md](020-is-there-credible-archaeological-evidence-related-to-the-ear.md) |
 | 021 | [x] | [x] | Part A Lecture: The Search for Jerusalem's Essene Gate and the Church of the Apostles | 0:50:52 | [021-part-a-lecture-the-search-for-jerusalem-s-essene-gate-and-th.md](021-part-a-lecture-the-search-for-jerusalem-s-essene-gate-and-th.md) |
-| 022 | [ ] | [ ] | Part B Slides: The Search for Jerusalem's Essene Gate and the Church of the Apostles (Part B Slides) | 0:02:51 | not added: no captions on YouTube |
+| 022 | [ ] | [ ] | Part B Slides: The Search for Jerusalem's Essene Gate and the Church of the Apostles (Part B Slides) | 0:02:51 | not added: slides only, no speech (checked with Whisper 2026-10-20) |
 | 023 | [x] | [x] | The Parting of the Ways: When Did the New Religion of Christianity Begin? | 0:57:25 | [../dr-tabor/03-the-parting-of-the-ways-when-did-the-new-religion-of-christianity-begin.md](../dr-tabor/03-the-parting-of-the-ways-when-did-the-new-religion-of-christianity-begin.md) |
 | 024 | [x] | [x] | How and When Did Satan Become the God of this World? | 0:42:04 | [024-how-and-when-did-satan-become-the-god-of-this-world.md](024-how-and-when-did-satan-become-the-god-of-this-world.md) |
 | 025 | [x] | [x] | The Making of a Messiah | 0:41:46 | [025-the-making-of-a-messiah.md](025-the-making-of-a-messiah.md) |
@@ -54,7 +54,7 @@ Tick **T** when the transcript is in, **N** when notes are written.
 | 043 | [ ] | [ ] | Tracking the Historical Jesus | 0:01:34 | not added: clip, almost no speech |
 | 044 | [x] | [x] | What the Bible Really Says About Death, Afterlife, and Resurrection? | 0:50:17 | [background/044-what-the-bible-really-says-about-death-afterlife-and-resurre.md](background/044-what-the-bible-really-says-about-death-afterlife-and-resurre.md) |
 | 045 | [x] | [ ] | Here's How to Study the Gospel of Mark! | 0:01:03 | not added: promo, course ad or personal |
-| 046 | [ ] | [ ] | Understanding Mandean Baptism (Mashbuta): Video with Explanatory Text | 0:52:54 | not added: no captions on YouTube |
+| 046 | [x] | [x] | Understanding Mandean Baptism (Mashbuta): Video with Explanatory Text | 0:52:54 | [046-understanding-mandean-baptism-mashbuta-video-with-explanatory.md](046-understanding-mandean-baptism-mashbuta-video-with-explanatory.md) |
 | 047 | [x] | [ ] | My Last College Class after 45 Years! Special Guest Dr  Robert L. Kuhn Responds to the Big Questions | 1:08:43 | not added: promo, course ad or personal |
 | 048 | [x] | [x] | Discovering the Jesus Dynasty | 0:04:26 | [048-discovering-the-jesus-dynasty.md](048-discovering-the-jesus-dynasty.md) |
 | 049 | [x] | [x] | A Tale of Two Tombs--Part One:The Tomb of the Shroud | 0:12:23 | [049-a-tale-of-two-tombs-part-one-the-tomb-of-the-shroud.md](049-a-tale-of-two-tombs-part-one-the-tomb-of-the-shroud.md) |
@@ -245,7 +245,7 @@ Tick **T** when the transcript is in, **N** when notes are written.
 | 234 | [x] | [x] | Bible Prophecy # 22 Twenty-First  Century  Expectations--Putting it ALL Together! | 0:31:02 | [background/234-bible-prophecy-22-twenty-first-century-expectations-putting.md](background/234-bible-prophecy-22-twenty-first-century-expectations-putting.md) |
 | 235 | [x] | [x] | Bible Prophecy # 23 The Fatal Flaw of Popular Christian Prophecy Belief | 0:44:05 | [background/235-bible-prophecy-23-the-fatal-flaw-of-popular-christian-prophe.md](background/235-bible-prophecy-23-the-fatal-flaw-of-popular-christian-prophe.md) |
 | 236 | [x] | [x] | Do We Find Messianic Suffering in the Dead Sea Scrolls? | 0:31:20 | [236-do-we-find-messianic-suffering-in-the-dead-sea-scrolls.md](236-do-we-find-messianic-suffering-in-the-dead-sea-scrolls.md) |
-| 237 | [ ] | [ ] | Bible Prophecy # 24: The Origins of Preterism--Was All Bible Prophecy Fulfilled in 70 AD? | 0:45:22 | not added: no captions on YouTube |
+| 237 | [x] | [x] | Bible Prophecy # 24: The Origins of Preterism--Was All Bible Prophecy Fulfilled in 70 AD? | 0:45:22 | [background/237-bible-prophecy-24-the-origins-of-preterism-was-all-bible-prop.md](background/237-bible-prophecy-24-the-origins-of-preterism-was-all-bible-prop.md) |
 | 238 | [x] | [x] | Jesus and the Essene Movement--How Were They Related? An In Depth Conversation | 1:28:39 | [238-jesus-and-the-essene-movement-how-were-they-related-an-in-de.md](238-jesus-and-the-essene-movement-how-were-they-related-an-in-de.md) |
 | 239 | [x] | [ ] | How and When I Got Hooked on the Dead Sea Scrolls For Life! | 0:15:29 | not added: promo, course ad or personal |
 | 240 | [x] | [x] | Bible Prophecy # 25  FINALE: Fundamental Fatal  Flaws of Most Prophecy Interpretations Today | 0:48:22 | [background/240-bible-prophecy-25-finale-fundamental-fatal-flaws-of-most-pro.md](background/240-bible-prophecy-25-finale-fundamental-fatal-flaws-of-most-pro.md) |
@@ -424,7 +424,7 @@ Tick **T** when the transcript is in, **N** when notes are written.
 | 413 | [x] | [x] | How Historical Methods Get us Closer to the Real Jesus | 0:08:13 | [413-how-historical-methods-get-us-closer-to-the-real-jesus.md](413-how-historical-methods-get-us-closer-to-the-real-jesus.md) |
 | 414 | [x] | [x] | The Ebionites:  Heretics or Original Followers of Jesus? | 0:18:34 | [414-the-ebionites-heretics-or-original-followers-of-jesus.md](414-the-ebionites-heretics-or-original-followers-of-jesus.md) |
 | 415 | [x] | [x] | The Real Paul: What About that Thirteenth Apostle? | 0:22:45 | [../dr-tabor/60-the-real-paul-what-about-that-thirteenth-apostle.md](../dr-tabor/60-the-real-paul-what-about-that-thirteenth-apostle.md) |
-| 416 | [ ] | [ ] | A Lead Isotope Connection: The Talpiot Jesus Tomb and the Ancient Sepphoris/Nazareth Water System. | 0:04:40 | not added: no captions on YouTube |
+| 416 | [x] | [x] | A Lead Isotope Connection: The Talpiot Jesus Tomb and the Ancient Sepphoris/Nazareth Water System. | 0:04:40 | [416-a-lead-isotope-connection-the-talpiot-jesus-tomb-and-the-anc.md](416-a-lead-isotope-connection-the-talpiot-jesus-tomb-and-the-anc.md) |
 | 417 | [x] | [x] | Why Abrahamic  Faith is NOT a Religion | 0:13:08 | [417-why-abrahamic-faith-is-not-a-religion.md](417-why-abrahamic-faith-is-not-a-religion.md) |
 | 418 | [x] | [x] | A Most Troubled Coupling:  The Hebrew Bible (OT)  and the New Testament | 0:15:26 | [../dr-tabor/53-a-most-troubled-coupling-the-hebrew-bible-ot-and-the-new-testament.md](../dr-tabor/53-a-most-troubled-coupling-the-hebrew-bible-ot-and-the-new-testament.md) |
 | 419 | [x] | [x] | The Fading of the Jesus Family:  Phase Two | 0:37:52 | [419-the-fading-of-the-jesus-family-phase-two.md](419-the-fading-of-the-jesus-family-phase-two.md) |
