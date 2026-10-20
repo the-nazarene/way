@@ -58,6 +58,26 @@ In order. Put your name in **Who** when you take one.
 
 ---
 
+## Copyrighted Works We Hold
+
+🔴 **Copyrighted.** We have a full copy, but it can't go in the public repo. The repo gets notes and short attributed quotes only, unless the author gives permission.
+⚠️ **Rights unclear.** Check before publishing or relying on the full text.
+
+| | Work | Author | Format | Full copy held | Where | Contributed by |
+|---|---|---|---|---|---|---|
+| 🔴 | *Jesus' Words Only* (2007 edition) | Douglas Del Tondo | Book, 23 chapters and appendices | Yes: 23 PDFs + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
+| 🔴 | *Questioning Paul: Apostle or False Prophet* | Yada Yah | Book, 13 chapters | Yes: 13 PDFs + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
+| 🔴 | *The Nazarene Acts of the Apostles* ("True Names Translation" of the Recognitions of Clement) | Jackson H. Snyder, Theodore A. Dornan, Chris Plourde (© 2007-2010) | Book | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
+| 🔴 | 🔴 "Origin of Christianity and Judaism" | Manfred Davidmann (© 1994) | Web article | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
+| 🔴 | 🔴 "Denominational Testimony" | Walter J. Veith (2009, amazingdiscoveries.org) | Web article | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
+| 🔴 | 🔴 "Where did the term 'Christian' come from?" | Not named | Web article | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
+| ⚠️ | *Essene Gospel of Peace*, Book 1 | Edmond Bordeaux Szekely (1937) | Book | Yes, as full text **in the public repo** | `christianity/Incoming/essene-gospel-of-peace-book-1-full-text.md` | (predates this log) |
+| ⚠️ | ⚠️ Book of Enoch, "Simplified Version" | Charles's public-domain translation, edited by sherryshriner.com | Book | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
+
+The public-domain counterparts we can use instead: Thomas Smith's Recognitions (already in the repo) for the Nazarene Acts; R.H. Charles's 1917 Enoch for the simplified Enoch. The Essene Gospel of Peace's 1937 copyright depends on renewal records; check before relying on it being public.
+
+---
+
 ## Inventory
 
 Every item, newest first. One row per link or file as it was given to us.
@@ -66,12 +86,12 @@ Every item, newest first. One row per link or file as it was given to us.
 |---|---|---|---|---|---|---|
 | 2026-10-20 | Matt (source: Scott) | Scott's videos | Videos | (Matt to fill in) | Not yet pushed | Matt has processed; push pending |
 | 2026-10-20 | Matt | Tabor material | (Matt to fill in) | (Matt to fill in) | Not yet pushed | In progress with Matt |
-| 2026-10-20 | Chris Crutchfield | "6_Books and PDFs": Clementine Homilies (21 PDFs), Nazarene Acts / Recognitions, Book of Jasher, Jubilees ch 1-9, 1 Maccabees, Book of Enoch "simplified" | Drive folder, 26 PDFs | [folder](https://drive.google.com/drive/folders/1ZV-BJkxRrj1EaC60aYkZ2IFeYxCA012k) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
-| 2026-10-20 | Chris Crutchfield | *Questioning Paul: Apostle or False Prophet*, Yada Yah | Drive folder, 13 PDFs | [folder](https://drive.google.com/drive/folders/1Xt5QPXDzA_blh-zufAt1BySAgPWazCNZ) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
-| 2026-10-20 | Chris Crutchfield | *Jesus' Words Only*, 2007 edition, Douglas Del Tondo | Drive folder, 23 PDFs | [folder](https://drive.google.com/drive/folders/1DDHS1TRt8TzfllAVI54iw7JqOAoGxZzP) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
-| 2026-10-20 | Chris Crutchfield | "Denominational Testimony", Walter J. Veith (amazingdiscoveries.org, 2009) | Drive file, PDF of a web article | [file](https://drive.google.com/file/d/1NM8ZcNYcKq4WofJwDLZLjylzplsrT67r/view) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
-| 2026-10-20 | Chris Crutchfield | "Origin of Christianity and Judaism", Manfred Davidmann (1994) | Drive file, PDF of a web article | [file](https://drive.google.com/file/d/1Fhq9e0xjtiB5PIg0vx41a4E_REl5diHD/view) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
-| 2026-10-20 | Chris Crutchfield | "Where did the term 'Christian' come from?" (web article, author not named) | Drive file, PDF of a web article | [file](https://drive.google.com/file/d/1RSMPF_pbLh4KighuyxeHOup_JSKz0i7B/view) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | Chris Crutchfield | "6_Books and PDFs": Clementine Homilies (21 PDFs), 🔴 Nazarene Acts / Recognitions (copyrighted), Book of Jasher, Jubilees ch 1-9, 1 Maccabees, ⚠️ Book of Enoch "simplified" (rights unclear) | Drive folder, 26 PDFs | [folder](https://drive.google.com/drive/folders/1ZV-BJkxRrj1EaC60aYkZ2IFeYxCA012k) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | Chris Crutchfield | 🔴 Copyrighted: *Questioning Paul: Apostle or False Prophet*, Yada Yah | Drive folder, 13 PDFs | [folder](https://drive.google.com/drive/folders/1Xt5QPXDzA_blh-zufAt1BySAgPWazCNZ) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | Chris Crutchfield | 🔴 Copyrighted: *Jesus' Words Only*, 2007 edition, Douglas Del Tondo | Drive folder, 23 PDFs | [folder](https://drive.google.com/drive/folders/1DDHS1TRt8TzfllAVI54iw7JqOAoGxZzP) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | Chris Crutchfield | 🔴 Copyrighted: "Denominational Testimony", Walter J. Veith (amazingdiscoveries.org, 2009) | Drive file, PDF of a web article | [file](https://drive.google.com/file/d/1NM8ZcNYcKq4WofJwDLZLjylzplsrT67r/view) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | Chris Crutchfield | 🔴 Copyrighted: "Origin of Christianity and Judaism", Manfred Davidmann (1994) | Drive file, PDF of a web article | [file](https://drive.google.com/file/d/1Fhq9e0xjtiB5PIg0vx41a4E_REl5diHD/view) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | Chris Crutchfield | 🔴 Copyrighted: "Where did the term 'Christian' come from?" (web article, author not named) | Drive file, PDF of a web article | [file](https://drive.google.com/file/d/1RSMPF_pbLh4KighuyxeHOup_JSKz0i7B/view) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
 | 2026-10-19 | Chris Crutchfield | Shabbat Studies with Jen & Chris: who Jesus was, how the Bible was assembled, priests vs. prophets on sacrifice, Paul, recap | YouTube playlist, 10 videos, about 27 hours | [playlist](https://www.youtube.com/playlist?list=PLDRRnEIEvT3ITdxgosym8jwlvigIT4vrx) | `podcast-archive/shabbat-studies/` | Transcripts and notes done |
 | 2026-10-19 | Chris Crutchfield; also sent by Brad Brink on 2026-10-20 | David The Nazarene: Nazarene/Ebionite teaching on Jesus and Paul, sacrifice, diet, James, Dead Sea Scrolls, Revelation, readings from *The Rock of a Sure Foundation* | YouTube channel, 369 videos + 1 short | [@DavidTheNazarene](https://www.youtube.com/@DavidTheNazarene) | `podcast-archive/david-the-nazarene/` | Transcripts in progress |
 | 2026-10-19 | Chris Crutchfield | SixSeven Podcast: current events, end times, conversations with guests. Claude flagged as mostly outside this repo's core topics; read before deciding | YouTube channel, 34 videos | [@SixSevenPodcast](https://www.youtube.com/@SixSevenPodcast) | `podcast-archive/sixseven-podcast/` | Listed, transcripts not started |
@@ -100,7 +120,7 @@ For Claude and for anyone adding sources by hand.
 2. **Log it in the inventory before processing it,** even if processing is weeks away. Date received, who gave it to us, what it is, the link.
 3. **Credit the contributor** in the inventory, the contributors table, and a `**Contributed by:** Name, date` line in every file made from it. If the name isn't known yet, use a placeholder like "from 1234" (last four digits only, never a full phone number) or "not yet named", and replace it when we learn the name.
 4. **Convert to Markdown.** Every file ends up as Markdown, one file per work (join multi-part PDFs in order).
-5. **Check the rights before anything goes public.** Public domain or the contributor's own work: full text in the repo. Copyrighted: Markdown stays out of the public repo; the repo gets notes. Record the rights status in the batch details.
+5. **Check the rights before anything goes public.** Public domain or the contributor's own work: full text in the repo. Copyrighted: Markdown stays out of the public repo; the repo gets notes. Mark it 🔴 (or ⚠️ if unclear) everywhere it's listed, and add it to Copyrighted Works We Hold.
 6. **Describe, don't judge.** Contributors share this repo and read this file. Say what a source covers. Order of work goes in Next Up, not in labels on the source.
 7. **Add the next steps to Next Up** with the contributor's name.
 
@@ -131,16 +151,16 @@ Sent by Chris Crutchfield, passed on by Rex: 3 folders and 3 single files. All s
 | Work | Author / translator | Words | Rights | Already in repo? | Needs attention |
 |---|---|---|---|---|---|
 | Clementine Homilies (21 PDFs, New Advent printouts) | Thomas Smith et al., Ante-Nicene Fathers vol. 8 (1886) | 114,000 | Public domain translation | Yes, `christianity/Incoming/clementine-homilies-full-text.md` (same ANF translation) | Duplicate in content; keep as a cross-check only. The repo file's header names Peter Peterson and New Advent names Thomas Smith; the ANF volume credits its Clementine translations to more than one translator, so the repo header is worth checking |
-| *The Nazarene Acts of the Apostles* (Recognitions of Clement, "True Names Translation") | Jackson H. Snyder, Theodore A. Dornan, Chris Plourde, on Thomas Smith's translation | 135,000 | © 2007-2010 Jackson H. Snyder, all rights reserved | Smith's public-domain Recognitions is, as `clementine-recognitions-full-text.md` | Can't publish in full. Likely the "Nazarene Acts" text David The Nazarene reads on his channel |
+| 🔴 *The Nazarene Acts of the Apostles* (Recognitions of Clement, "True Names Translation") | Jackson H. Snyder, Theodore A. Dornan, Chris Plourde, on Thomas Smith's translation | 135,000 | © 2007-2010 Jackson H. Snyder, all rights reserved | Smith's public-domain Recognitions is, as `clementine-recognitions-full-text.md` | Can't publish in full. Likely the "Nazarene Acts" text David The Nazarene reads on his channel |
 | Book of Jasher | J.H. Parry edition (1887) of the 1840 translation | 175,000 | Public domain | No | Ready to add. The PDF opens with a modern web introduction by an unnamed compiler; leave that out |
 | Book of Jubilees, chapters 1-9 only | R.H. Charles translation, via theforbiddenknowledge.com | 13,000 | Translation public domain | Excerpts only | Partial. Add the full Charles text from a clean source instead |
 | 1 Maccabees ("version 2") | KJV Apocrypha | 25,000 | Public domain | No | Ready to add |
-| Book of Enoch, "Simplified Version" | Charles-based text edited by sherryshriner.com | 39,000 | Base text public domain; the edits are unclear | Excerpts only | Use R.H. Charles's 1917 translation instead of the edited version |
-| *Jesus' Words Only* (2007), 23 chapters and appendices | Douglas Del Tondo | 188,000 | Copyrighted (appears to be distributed free online by the author) | No | Notes file for the repo; full text only with the author's permission |
-| *Questioning Paul* (13 chapters) | Yada Yah (pen name) | 452,000 | Copyrighted (appears to be distributed free online) | No | Notes file for the repo; full text only with permission. Very large |
-| "Origin of Christianity and Judaism" | Manfred Davidmann | 14,000 | © 1994, all rights reserved | No | Notes only |
-| "Denominational Testimony" | Walter J. Veith (amazingdiscoveries.org) | 1,000 | Copyrighted web article | No | Notes only; it's mostly quotations from denominational sources, which can be cited directly |
-| "Where did the term 'Christian' come from?" | Not named (cites fossilizedcustoms.com) | 3,500 | Copyrighted web article | No | Notes only. Several of its claims overlap the Shabbat Studies "claims to check" (Christos and Mithras) |
+| ⚠️ Book of Enoch, "Simplified Version" | Charles-based text edited by sherryshriner.com | 39,000 | Base text public domain; the edits are unclear | Excerpts only | Use R.H. Charles's 1917 translation instead of the edited version |
+| 🔴 *Jesus' Words Only* (2007), 23 chapters and appendices | Douglas Del Tondo | 188,000 | Copyrighted (appears to be distributed free online by the author) | No | Notes file for the repo; full text only with the author's permission |
+| 🔴 *Questioning Paul* (13 chapters) | Yada Yah (pen name) | 452,000 | Copyrighted (appears to be distributed free online) | No | Notes file for the repo; full text only with permission. Very large |
+| 🔴 "Origin of Christianity and Judaism" | Manfred Davidmann | 14,000 | © 1994, all rights reserved | No | Notes only |
+| 🔴 "Denominational Testimony" | Walter J. Veith (amazingdiscoveries.org) | 1,000 | Copyrighted web article | No | Notes only; it's mostly quotations from denominational sources, which can be cited directly |
+| 🔴 "Where did the term 'Christian' come from?" | Not named (cites fossilizedcustoms.com) | 3,500 | Copyrighted web article | No | Notes only. Several of its claims overlap the Shabbat Studies "claims to check" (Christos and Mithras) |
 
 **Audit of this batch (re-checked 2026-10-20 against a fresh listing of all six links):** 67 items on Drive: 65 PDFs and 2 `.DS_Store` files (hidden Mac settings files, not documents, skipped on purpose). All 65 PDFs downloaded, and every PDF's text is in the Markdown (1,159,352 words in the PDFs; the Markdown adds only headings). The folder name "6_Books and PDFs" suggests it may be one of a numbered set. Worth asking the contributor whether folders 1 to 5 exist.
 
