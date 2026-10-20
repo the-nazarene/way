@@ -2,7 +2,7 @@
 
 **Creator:** David The Nazarene  
 **Source:** https://www.youtube.com/@DavidTheNazarene  
-**Contributed by:** Chris Crutchfield, 2026-10-19  
+**Contributed by:** Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20  
 **Total:** 370 videos, numbered oldest first.
 
 Each video has its own file in this folder. Tick **T** when the transcript is in, **N** when notes are written.
@@ -155,13 +155,13 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 144 | [x] | [ ] | The Greater Exodus In Ezekiel | 2:04:00 | [144-the-greater-exodus-in-ezekiel.md](144-the-greater-exodus-in-ezekiel.md) |
 | 145 | [x] | [ ] | The Greater Exodus In Hosea | 1:30:38 | [145-the-greater-exodus-in-hosea.md](145-the-greater-exodus-in-hosea.md) |
 | 146 | [ ] | [ ] | The Greater Exodus In Amos | 1:07:18 | [146-the-greater-exodus-in-amos.md](146-the-greater-exodus-in-amos.md) |
-| 147 | [ ] | [ ] | The Greater Exodus In Obadiah | 33:06 | [147-the-greater-exodus-in-obadiah.md](147-the-greater-exodus-in-obadiah.md) |
-| 148 | [ ] | [ ] | The Greater Exodus In Micah | 59:00 | [148-the-greater-exodus-in-micah.md](148-the-greater-exodus-in-micah.md) |
-| 149 | [ ] | [ ] | The Greater Exodus In Nahum | 30:13 | [149-the-greater-exodus-in-nahum.md](149-the-greater-exodus-in-nahum.md) |
-| 150 | [ ] | [ ] | The Greater Exodus In Habakkuk | 48:01 | [150-the-greater-exodus-in-habakkuk.md](150-the-greater-exodus-in-habakkuk.md) |
-| 151 | [ ] | [ ] | The Greater Exodus In Zephaniah | 34:01 | [151-the-greater-exodus-in-zephaniah.md](151-the-greater-exodus-in-zephaniah.md) |
-| 152 | [ ] | [ ] | The Greater Exodus In Malachi | 35:28 | [152-the-greater-exodus-in-malachi.md](152-the-greater-exodus-in-malachi.md) |
-| 153 | [ ] | [ ] | The Oera Linda Book in Jesus' Teachings | 1:16:41 | [153-the-oera-linda-book-in-jesus-teachings.md](153-the-oera-linda-book-in-jesus-teachings.md) |
+| 147 | [x] | [ ] | The Greater Exodus In Obadiah | 33:06 | [147-the-greater-exodus-in-obadiah.md](147-the-greater-exodus-in-obadiah.md) |
+| 148 | [x] | [ ] | The Greater Exodus In Micah | 59:00 | [148-the-greater-exodus-in-micah.md](148-the-greater-exodus-in-micah.md) |
+| 149 | [x] | [ ] | The Greater Exodus In Nahum | 30:13 | [149-the-greater-exodus-in-nahum.md](149-the-greater-exodus-in-nahum.md) |
+| 150 | [x] | [ ] | The Greater Exodus In Habakkuk | 48:01 | [150-the-greater-exodus-in-habakkuk.md](150-the-greater-exodus-in-habakkuk.md) |
+| 151 | [x] | [ ] | The Greater Exodus In Zephaniah | 34:01 | [151-the-greater-exodus-in-zephaniah.md](151-the-greater-exodus-in-zephaniah.md) |
+| 152 | [x] | [ ] | The Greater Exodus In Malachi | 35:28 | [152-the-greater-exodus-in-malachi.md](152-the-greater-exodus-in-malachi.md) |
+| 153 | [x] | [ ] | The Oera Linda Book in Jesus' Teachings | 1:16:41 | [153-the-oera-linda-book-in-jesus-teachings.md](153-the-oera-linda-book-in-jesus-teachings.md) |
 | 154 | [ ] | [ ] | What Was Really Decided at the Acts 15 Conference? - Putting The Controversy In Correct Context | 34:04 | [154-what-was-really-decided-at-the-acts-15-conference-putting-th.md](154-what-was-really-decided-at-the-acts-15-conference-putting-th.md) |
 | 155 | [ ] | [ ] | 7 Warnings From Jesus About Paul | 47:37 | [155-7-warnings-from-jesus-about-paul.md](155-7-warnings-from-jesus-about-paul.md) |
 | 156 | [ ] | [ ] | Does Peter "Certify" Paul as an Apostle?  Putting His Warning In The Correct Context | 41:05 | [156-does-peter-certify-paul-as-an-apostle-putting-his-warning-in.md](156-does-peter-certify-paul-as-an-apostle-putting-his-warning-in.md) |

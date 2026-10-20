@@ -28,10 +28,10 @@ In order. Put your name in **Who** when you take one.
 |---|---|---|---|---|
 | 1 | Scott's videos: Matt has processed these; push them and add them to the inventory | (Matt to fill in) | Matt | [ ] |
 | 2 | Tabor material | (Matt to fill in) | Matt | [ ] |
-| 3 | Name the contributor of the 2026-10-20 Google Drive batch (6 links, 11 works) | not yet named | Rex | [ ] |
-| 4 | Decide where the full Markdown of copyrighted books lives (they can't go in the public repo): Rex's local `/Incoming/`, a private repo, or a shared drive | Drive batch 2026-10-20 | Rex + Matt | [ ] |
-| 5 | Add the public-domain Drive texts to `christianity/Incoming/` with source headers and register them in `VERIFIED-SOURCES.md`: Book of Jasher (1840 translation), 1 Maccabees (KJV Apocrypha). For Jubilees and Enoch, use R.H. Charles's full public-domain translations rather than the partial and "simplified" Drive copies | Drive batch 2026-10-20 | | [ ] |
-| 6 | Notes files for the two big Paul books, *Jesus' Words Only* (Del Tondo) and *Questioning Paul* (Yada Yah): summary, main arguments, claims to check. Both are already cited in Shabbat Studies Ch 4 and on David The Nazarene's channel | Drive batch 2026-10-20 | | [ ] |
+| 3 | Name the contributor of the 2026-10-20 Google Drive batch (6 links, 11 works): Chris Crutchfield | Chris Crutchfield | Rex | [x] |
+| 4 | Decide where the full Markdown of copyrighted books lives (they can't go in the public repo): Rex's local `/Incoming/`, a private repo, or a shared drive | Chris Crutchfield | Rex + Matt | [ ] |
+| 5 | Add the public-domain Drive texts to `christianity/Incoming/` with source headers and register them in `VERIFIED-SOURCES.md`: Book of Jasher (1840 translation), 1 Maccabees (KJV Apocrypha). For Jubilees and Enoch, use R.H. Charles's full public-domain translations rather than the partial and "simplified" Drive copies | Chris Crutchfield | | [ ] |
+| 6 | Notes files for the two big Paul books, *Jesus' Words Only* (Del Tondo) and *Questioning Paul* (Yada Yah): summary, main arguments, claims to check. Both are already cited in Shabbat Studies Ch 4 and on David The Nazarene's channel | Chris Crutchfield | | [ ] |
 | 7 | Shabbat Studies overview: one page on the series plus a single combined "claims to check" list (the chapter notes repeat several items) | Chris Crutchfield | | [ ] |
 | 8 | Ask Chris for his sources: Joseph of Arimathea as Jesus's father; the Petrine text calling it "a religion of blood"; the Edomite priesthood since 160 BC | Chris Crutchfield | | [ ] |
 | 9 | Feed Shabbat Studies material into research files: Ch 3 additions on sacrifice (1 Samuel 15:22, Hosea 4, Ahaz in 2 Kings 16, altar logistics); "cease from sacrificing" is Panarion 30.16.5, not the Clementines; Ch 4D's Galatians 3 material matches `OPEN-RESEARCH.md` item 2 | Chris Crutchfield | | [ ] |
@@ -51,7 +51,7 @@ In order. Put your name in **Who** when you take one.
 
 | Source | Contributed by | Items | Transcripts | Notes | Queue |
 |---|---|---|---|---|---|
-| David The Nazarene | Chris Crutchfield, 2026-10-19 | 370 | 99 of 370 | 0 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
+| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 106 of 370 | 0 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
 | Shabbat Studies with Jen & Chris | Chris Crutchfield, 2026-10-19 | 10 | 10 of 10 | 10 of 10 | [queue](podcast-archive/shabbat-studies/00-queue.md) |
 | SixSeven Podcast | Chris Crutchfield, 2026-10-19 | 34 | 0 of 34 | 0 of 34 | [queue](podcast-archive/sixseven-podcast/00-queue.md) |
 <!-- STATUS:END -->
@@ -66,14 +66,14 @@ Every item, newest first. One row per link or file as it was given to us.
 |---|---|---|---|---|---|---|
 | 2026-10-20 | Matt (source: Scott) | Scott's videos | Videos | (Matt to fill in) | Not yet pushed | Matt has processed; push pending |
 | 2026-10-20 | Matt | Tabor material | (Matt to fill in) | (Matt to fill in) | Not yet pushed | In progress with Matt |
-| 2026-10-20 | not yet named (sent by Rex) | "6_Books and PDFs": Clementine Homilies (21 PDFs), Nazarene Acts / Recognitions, Book of Jasher, Jubilees ch 1-9, 1 Maccabees, Book of Enoch "simplified" | Drive folder, 26 PDFs | [folder](https://drive.google.com/drive/folders/1ZV-BJkxRrj1EaC60aYkZ2IFeYxCA012k) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
-| 2026-10-20 | not yet named (sent by Rex) | *Questioning Paul: Apostle or False Prophet*, Yada Yah | Drive folder, 13 PDFs | [folder](https://drive.google.com/drive/folders/1Xt5QPXDzA_blh-zufAt1BySAgPWazCNZ) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
-| 2026-10-20 | not yet named (sent by Rex) | *Jesus' Words Only*, 2007 edition, Douglas Del Tondo | Drive folder, 23 PDFs | [folder](https://drive.google.com/drive/folders/1DDHS1TRt8TzfllAVI54iw7JqOAoGxZzP) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
-| 2026-10-20 | not yet named (sent by Rex) | "Denominational Testimony", Walter J. Veith (amazingdiscoveries.org, 2009) | Drive file, PDF of a web article | [file](https://drive.google.com/file/d/1NM8ZcNYcKq4WofJwDLZLjylzplsrT67r/view) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
-| 2026-10-20 | not yet named (sent by Rex) | "Origin of Christianity and Judaism", Manfred Davidmann (1994) | Drive file, PDF of a web article | [file](https://drive.google.com/file/d/1Fhq9e0xjtiB5PIg0vx41a4E_REl5diHD/view) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
-| 2026-10-20 | not yet named (sent by Rex) | "Where did the term 'Christian' come from?" (web article, author not named) | Drive file, PDF of a web article | [file](https://drive.google.com/file/d/1RSMPF_pbLh4KighuyxeHOup_JSKz0i7B/view) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | Chris Crutchfield | "6_Books and PDFs": Clementine Homilies (21 PDFs), Nazarene Acts / Recognitions, Book of Jasher, Jubilees ch 1-9, 1 Maccabees, Book of Enoch "simplified" | Drive folder, 26 PDFs | [folder](https://drive.google.com/drive/folders/1ZV-BJkxRrj1EaC60aYkZ2IFeYxCA012k) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | Chris Crutchfield | *Questioning Paul: Apostle or False Prophet*, Yada Yah | Drive folder, 13 PDFs | [folder](https://drive.google.com/drive/folders/1Xt5QPXDzA_blh-zufAt1BySAgPWazCNZ) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | Chris Crutchfield | *Jesus' Words Only*, 2007 edition, Douglas Del Tondo | Drive folder, 23 PDFs | [folder](https://drive.google.com/drive/folders/1DDHS1TRt8TzfllAVI54iw7JqOAoGxZzP) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | Chris Crutchfield | "Denominational Testimony", Walter J. Veith (amazingdiscoveries.org, 2009) | Drive file, PDF of a web article | [file](https://drive.google.com/file/d/1NM8ZcNYcKq4WofJwDLZLjylzplsrT67r/view) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | Chris Crutchfield | "Origin of Christianity and Judaism", Manfred Davidmann (1994) | Drive file, PDF of a web article | [file](https://drive.google.com/file/d/1Fhq9e0xjtiB5PIg0vx41a4E_REl5diHD/view) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | Chris Crutchfield | "Where did the term 'Christian' come from?" (web article, author not named) | Drive file, PDF of a web article | [file](https://drive.google.com/file/d/1RSMPF_pbLh4KighuyxeHOup_JSKz0i7B/view) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
 | 2026-10-19 | Chris Crutchfield | Shabbat Studies with Jen & Chris: who Jesus was, how the Bible was assembled, priests vs. prophets on sacrifice, Paul, recap | YouTube playlist, 10 videos, about 27 hours | [playlist](https://www.youtube.com/playlist?list=PLDRRnEIEvT3ITdxgosym8jwlvigIT4vrx) | `podcast-archive/shabbat-studies/` | Transcripts and notes done |
-| 2026-10-19 | Chris Crutchfield | David The Nazarene: Nazarene/Ebionite teaching on Jesus and Paul, sacrifice, diet, James, Dead Sea Scrolls, Revelation, readings from *The Rock of a Sure Foundation* | YouTube channel, 369 videos + 1 short | [@DavidTheNazarene](https://www.youtube.com/@DavidTheNazarene) | `podcast-archive/david-the-nazarene/` | Transcripts in progress |
+| 2026-10-19 | Chris Crutchfield; also sent by Brad Brink on 2026-10-20 | David The Nazarene: Nazarene/Ebionite teaching on Jesus and Paul, sacrifice, diet, James, Dead Sea Scrolls, Revelation, readings from *The Rock of a Sure Foundation* | YouTube channel, 369 videos + 1 short | [@DavidTheNazarene](https://www.youtube.com/@DavidTheNazarene) | `podcast-archive/david-the-nazarene/` | Transcripts in progress |
 | 2026-10-19 | Chris Crutchfield | SixSeven Podcast: current events, end times, conversations with guests. Claude flagged as mostly outside this repo's core topics; read before deciding | YouTube channel, 34 videos | [@SixSevenPodcast](https://www.youtube.com/@SixSevenPodcast) | `podcast-archive/sixseven-podcast/` | Listed, transcripts not started |
 | 2026-10-17 | Craig Wescoe | Epiphanius, *Panarion*: complete translation from the Greek (Holl and Dindorf editions), public domain | Text, 3 files | PR #14 | `christianity/Incoming/epiphanius-panarion-book-{1,2,3}-full-text.md` | Merged, registered in `VERIFIED-SOURCES.md`; audit not started |
 
@@ -82,9 +82,9 @@ Every item, newest first. One row per link or file as it was given to us.
 | Name | What they've sent | First contribution |
 |---|---|---|
 | Craig Wescoe | Epiphanius, *Panarion* | 2026-10-17 |
-| Chris Crutchfield | Shabbat Studies with Jen & Chris, David The Nazarene, SixSeven Podcast | 2026-10-19 |
+| Chris Crutchfield | Shabbat Studies with Jen & Chris, David The Nazarene, SixSeven Podcast (YouTube); Google Drive batch of 11 works (3 folders, 3 files) | 2026-10-19 |
+| Brad Brink | David The Nazarene (YouTube channel; also sent by Chris) | 2026-10-20 |
 | Matt Fracek | Scott's videos, Tabor material (in progress) | 2026-10-20 |
-| not yet named | Google Drive batch: 3 folders, 3 files (11 works) | 2026-10-20 |
 
 Every file made from a contribution carries a `**Contributed by:**` line with the person's name and the date.
 
@@ -124,9 +124,9 @@ For Claude and for anyone adding sources by hand.
 
 ## Batch Details
 
-### 2026-10-20 — Google Drive batch (contributor not yet named)
+### 2026-10-20 — Google Drive batch from Chris Crutchfield
 
-Sent by Rex: 3 folders and 3 single files. All six links were public and all 65 PDFs downloaded. All have real text (no scans). Converted to 11 Markdown files, one per work, about 1.16 million words in total. Everything sits in Rex's local `/Incoming/drive-2026-10-20/` (PDFs, plus `markdown/`) until each item's rights are settled.
+Sent by Chris Crutchfield, passed on by Rex: 3 folders and 3 single files. All six links were public and all 65 PDFs downloaded. All have real text (no scans). Converted to 11 Markdown files, one per work, about 1.16 million words in total. Everything sits in Rex's local `/Incoming/drive-2026-10-20/` (PDFs, plus `markdown/`) until each item's rights are settled.
 
 | Work | Author / translator | Words | Rights | Already in repo? | Needs attention |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@ Sent by Rex: 3 folders and 3 single files. All six links were public and all 65 
 | "Denominational Testimony" | Walter J. Veith (amazingdiscoveries.org) | 1,000 | Copyrighted web article | No | Notes only; it's mostly quotations from denominational sources, which can be cited directly |
 | "Where did the term 'Christian' come from?" | Not named (cites fossilizedcustoms.com) | 3,500 | Copyrighted web article | No | Notes only. Several of its claims overlap the Shabbat Studies "claims to check" (Christos and Mithras) |
 
-**Audit of this batch:** every file in every folder was downloaded, including the "Homilies of Peter" subfolder; `.DS_Store` files were skipped. The folder name "6_Books and PDFs" suggests it may be one of a numbered set. Worth asking the contributor whether folders 1 to 5 exist.
+**Audit of this batch (re-checked 2026-10-20 against a fresh listing of all six links):** 67 items on Drive: 65 PDFs and 2 `.DS_Store` files (hidden Mac settings files, not documents, skipped on purpose). All 65 PDFs downloaded, and every PDF's text is in the Markdown (1,159,352 words in the PDFs; the Markdown adds only headings). The folder name "6_Books and PDFs" suggests it may be one of a numbered set. Worth asking the contributor whether folders 1 to 5 exist.
 
 ### 2026-10-19 — Three YouTube links from Chris Crutchfield
 

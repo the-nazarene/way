@@ -3,7 +3,7 @@
 **Creator:** David The Nazarene
 **Source:** [YouTube](https://www.youtube.com/watch?v=3a7RNjypjuY)
 **Length:** 22:48
-**Contributed by:** Chris Crutchfield, 2026-10-19 (shared the channel link)
+**Contributed by:** Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 (both shared the channel link)
 **Use:** auto-captioned transcript. Pointers, not proof. Never quote from this file.
 
 ---
