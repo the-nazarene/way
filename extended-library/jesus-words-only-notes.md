@@ -134,7 +134,7 @@ Held status follows `VERIFIED-SOURCES.md`. Del Tondo quotes the ASV, KJV and You
 | 1 Enoch; Jubilees 2 | Ethiopian canon dilemma; "elements" as angels | 2, 5 | Yes (Tier 1) |
 | Shepherd of Hermas, Mandate 11 | Origin of the "loose" test of a prophet | 3 | Yes (Tier 1) |
 | Clementine Homilies 17.19; Letter of Peter to James 2 | Peter against the vision-apostle; "the man who is my enemy" | 12 | Yes (Tier 1; the Homily 17 passage is verbatim in the held text) |
-| Epiphanius, *Panarion* 29.3.4; 30.13; 30.16.5-9; 30.22.4 | James first bishop; the Ebionite Matthew; the charge that Paul was a Greek who wanted the priest's daughter | 11, 12, App. B | Yes (Tier 1; 30.16.8-9 verbatim in book 1) |
+| Epiphanius, *Panarion* 29.3.4 (as Del Tondo cites it; in the held text the James-as-first-bishop line is 29,3,9); 30.13; 30.16.5-9; 30.22.4 | James first bishop; the Ebionite Matthew; the charge that Paul was a Greek who wanted the priest's daughter | 11, 12, App. B | Yes (Tier 1; 30.16.8-9 verbatim in book 1) |
 | Didache | Not used by Del Tondo | — | Yes (Tier 1) |
 | Dead Sea Scrolls: 1QpHab, CD, 1QM 11, 4Q175, 1QSb 5 | Balaam oracle as messianic; *ebyonim*; Spouter of Lies; faithfulness in Habakkuk 2:4 | 3, 12 | Partly (Tier 2 excerpts: 1QS, CD, 1QM 1, 1QHa, 4QMMT; the Habakkuk Pesher is not held) |
 | Josephus, *Antiquities* 13.10.6; 20.9.4 | Sadducees on Pharisaic tradition; "Saulus" of Herod's family | 1, 12 | No (only 18.1.5 and *War* 2.8.5 excerpts held) |
