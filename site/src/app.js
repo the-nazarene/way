@@ -343,7 +343,9 @@
   var libSeq = 0;
 
   function plain(md, n) {
-    var t = md.replace(/\*\*\[[0-9:]+\]\*\*/g, '').replace(/[*_#>`]/g, '').replace(/\s+/g, ' ').trim();
+    // Drop the section heading (shown above it already), timestamps, table rules and markup.
+    var t = md.replace(/^#{1,3} .*\n?/, '').replace(/\*\*\[[0-9:]+\]\*\*/g, '').replace(/\|?[\s|:-]*-{3,}[\s|:-]*/g, ' ')
+      .replace(/\s*\|\s*/g, ' \u00b7 ').replace(/[*_#>`]/g, '').replace(/\s+/g, ' ').replace(/^\u00b7 /, '').trim();
     return t.length > n ? t.slice(0, n).replace(/\s\S*$/, '') + '\u2026' : t;
   }
 
@@ -353,7 +355,7 @@
     a.href = r.url;
     if (!/^#/.test(r.url) && r.url.indexOf(location.origin) !== 0) { a.target = '_blank'; a.rel = 'noopener'; }
     li.appendChild(a);
-    var meta = group === 'talk' ? (r.speakers || '') : r.header;
+    var meta = group === 'talk' ? (r.speakers || r.header) : r.header;
     if (group === 'talk' && /&t=\d+/.test(r.url)) meta = '\u25b6 ' + meta;
     if (meta) li.appendChild(el('small', null, meta));
     li.appendChild(el('p', 'lib-text', plain(r.text || '', group === 'card' ? 160 : 260)));
@@ -372,7 +374,7 @@
         if (seq !== libSeq) return;
         var n = res.card.length + res.library.length + res.talk.length;
         $('libStatus').textContent = n ? '' : 'nothing close enough';
-        res.card.forEach(function (r) { $('libCard').appendChild(libItem(r, 'card')); });
+        res.card.slice(0, 3).forEach(function (r) { $('libCard').appendChild(libItem(r, 'card')); });
         res.library.forEach(function (r) { $('libLibrary').appendChild(libItem(r, 'library')); });
         res.talk.forEach(function (r) { $('libTalk').appendChild(libItem(r, 'talk')); });
       })
