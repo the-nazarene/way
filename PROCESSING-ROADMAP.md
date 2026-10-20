@@ -30,7 +30,7 @@ In order. Put your name in **Who** when you take one.
 | 2 | Tabor material | (Matt to fill in) | Matt | [ ] |
 | 3 | Name the contributor of the 2026-10-20 Google Drive batch (6 links, 11 works): Chris Crutchfield | Chris Crutchfield | Rex | [x] |
 | 4 | Decide where the full Markdown of copyrighted books lives (they can't go in the public repo): Rex's local `/Incoming/`, a private repo, or a shared drive | Chris Crutchfield | Rex + Matt | [ ] |
-| 5 | Add the public-domain Drive texts to `christianity/Incoming/` with source headers and register them in `VERIFIED-SOURCES.md`: Book of Jasher (1840 translation), 1 Maccabees (KJV Apocrypha). For Jubilees and Enoch, use R.H. Charles's full public-domain translations rather than the partial and "simplified" Drive copies | Chris Crutchfield | | [ ] |
+| 5 | Add the public-domain Drive texts to `christianity/Incoming/` with source headers and register them in `VERIFIED-SOURCES.md`: Book of Jasher (1840 translation), 1 Maccabees (KJV Apocrypha). (Enoch and Jubilees: already held in full; Charles's 1917 Enoch added 2026-10-20) | Chris Crutchfield | | [ ] |
 | 6 | Notes files for the two big Paul books, *Jesus' Words Only* (Del Tondo) and *Questioning Paul* (Yada Yah): summary, main arguments, claims to check. Both are already cited in Shabbat Studies Ch 4 and on David The Nazarene's channel | Chris Crutchfield | | [ ] |
 | 7 | Shabbat Studies overview: one page on the series plus a single combined "claims to check" list (the chapter notes repeat several items) | Chris Crutchfield | | [ ] |
 | 8 | Ask Chris for his sources: Joseph of Arimathea as Jesus's father; the Petrine text calling it "a religion of blood"; the Edomite priesthood since 160 BC | Chris Crutchfield | | [ ] |
@@ -68,13 +68,22 @@ In order. Put your name in **Who** when you take one.
 | 🔴 | *Jesus' Words Only* (2007 edition) | Douglas Del Tondo | Book, 23 chapters and appendices | Yes: 23 PDFs + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
 | 🔴 | *Questioning Paul: Apostle or False Prophet* | Yada Yah | Book, 13 chapters | Yes: 13 PDFs + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
 | 🔴 | *The Nazarene Acts of the Apostles* ("True Names Translation" of the Recognitions of Clement) | Jackson H. Snyder, Theodore A. Dornan, Chris Plourde (© 2007-2010) | Book | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
-| 🔴 | 🔴 "Origin of Christianity and Judaism" | Manfred Davidmann (© 1994) | Web article | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
-| 🔴 | 🔴 "Denominational Testimony" | Walter J. Veith (2009, amazingdiscoveries.org) | Web article | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
-| 🔴 | 🔴 "Where did the term 'Christian' come from?" | Not named | Web article | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
-| ⚠️ | *Essene Gospel of Peace*, Book 1 | Edmond Bordeaux Szekely (1937) | Book | Yes, as full text **in the public repo** | `christianity/Incoming/essene-gospel-of-peace-book-1-full-text.md` | (predates this log) |
-| ⚠️ | ⚠️ Book of Enoch, "Simplified Version" | Charles's public-domain translation, edited by sherryshriner.com | Book | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
+| 🔴 | "Origin of Christianity and Judaism" | Manfred Davidmann (© 1994) | Web article | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
+| 🔴 | "Denominational Testimony" | Walter J. Veith (2009, amazingdiscoveries.org) | Web article | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
+| 🔴 | "Where did the term 'Christian' come from?" | Not named | Web article | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
+| ⚠️ | *Essene Gospel of Peace*, Book 1 | Edmond Bordeaux Szekely (1937) | Book | Yes, as full text **in the public repo**. Rex, 2026-10-20: keep it in the repo | `christianity/Incoming/essene-gospel-of-peace-book-1-full-text.md` | (predates this log) |
+| ⚠️ | Book of Enoch, "Simplified Version" | Charles's public-domain translation, edited by sherryshriner.com | Book | Yes: 1 PDF + 1 Markdown file. Rex, 2026-10-20: keep it | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
 
-The public-domain counterparts we can use instead: Thomas Smith's Recognitions (already in the repo) for the Nazarene Acts; R.H. Charles's 1917 Enoch for the simplified Enoch. The Essene Gospel of Peace's 1937 copyright depends on renewal records; check before relying on it being public.
+**Rights check (2026-10-20).** Nothing found gives permission to republish any of the 🔴 works:
+
+- *The Nazarene Acts* and Davidmann's article print "All Rights Reserved" in the files themselves.
+- yadayah.com, the home of *Questioning Paul*, carries "Copyright 2001-2026".
+- *Jesus' Words Only*: its old site jesuswordsonly.com now belongs to someone else, and no license was found.
+- Veith's article and the unnamed "Christian" article: no license found, so normal copyright applies.
+
+Being free to download is not the same as permission to republish. To host any of them in full, we need the author's written permission. Del Tondo and Yada Yah look like the likeliest yeses.
+
+**Public-domain counterparts in the repo:** Thomas Smith's Recognitions (`clementine-recognitions-full-text.md`) for the Nazarene Acts; R. H. Charles's Enoch, both the 1913 text in `ethiopian-bible/unique-ethiopian-texts.md` and the 1917 text in `christianity/Incoming/book-of-enoch-charles-1917-full-text.md`, for the simplified Enoch. The Essene Gospel of Peace's 1937 copyright depends on renewal records; it stays in the repo by Rex's decision.
 
 ---
 
@@ -153,9 +162,9 @@ Sent by Chris Crutchfield, passed on by Rex: 3 folders and 3 single files. All s
 | Clementine Homilies (21 PDFs, New Advent printouts) | Thomas Smith et al., Ante-Nicene Fathers vol. 8 (1886) | 114,000 | Public domain translation | Yes, `christianity/Incoming/clementine-homilies-full-text.md` (same ANF translation) | Duplicate in content; keep as a cross-check only. The repo file's header names Peter Peterson and New Advent names Thomas Smith; the ANF volume credits its Clementine translations to more than one translator, so the repo header is worth checking |
 | 🔴 *The Nazarene Acts of the Apostles* (Recognitions of Clement, "True Names Translation") | Jackson H. Snyder, Theodore A. Dornan, Chris Plourde, on Thomas Smith's translation | 135,000 | © 2007-2010 Jackson H. Snyder, all rights reserved | Smith's public-domain Recognitions is, as `clementine-recognitions-full-text.md` | Can't publish in full. Likely the "Nazarene Acts" text David The Nazarene reads on his channel |
 | Book of Jasher | J.H. Parry edition (1887) of the 1840 translation | 175,000 | Public domain | No | Ready to add. The PDF opens with a modern web introduction by an unnamed compiler; leave that out |
-| Book of Jubilees, chapters 1-9 only | R.H. Charles translation, via theforbiddenknowledge.com | 13,000 | Translation public domain | Excerpts only | Partial. Add the full Charles text from a clean source instead |
+| Book of Jubilees, chapters 1-9 only | R.H. Charles translation, via theforbiddenknowledge.com | 13,000 | Translation public domain | Yes, in full: Charles 1913, all 50 chapters, in `ethiopian-bible/unique-ethiopian-texts.md` | Nothing to add; the Drive copy is a partial duplicate |
 | 1 Maccabees ("version 2") | KJV Apocrypha | 25,000 | Public domain | No | Ready to add |
-| ⚠️ Book of Enoch, "Simplified Version" | Charles-based text edited by sherryshriner.com | 39,000 | Base text public domain; the edits are unclear | Excerpts only | Use R.H. Charles's 1917 translation instead of the edited version |
+| ⚠️ Book of Enoch, "Simplified Version" | Charles-based text edited by sherryshriner.com | 39,000 | Base text public domain; the edits are unclear | Yes, in full: Charles 1913 (all 108 chapters) in `ethiopian-bible/unique-ethiopian-texts.md`, and Charles 1917 added 2026-10-20 as `christianity/Incoming/book-of-enoch-charles-1917-full-text.md` | Kept locally by Rex's decision; use Charles for anything public |
 | 🔴 *Jesus' Words Only* (2007), 23 chapters and appendices | Douglas Del Tondo | 188,000 | Copyrighted (appears to be distributed free online by the author) | No | Notes file for the repo; full text only with the author's permission |
 | 🔴 *Questioning Paul* (13 chapters) | Yada Yah (pen name) | 452,000 | Copyrighted (appears to be distributed free online) | No | Notes file for the repo; full text only with permission. Very large |
 | 🔴 "Origin of Christianity and Judaism" | Manfred Davidmann | 14,000 | © 1994, all rights reserved | No | Notes only |
