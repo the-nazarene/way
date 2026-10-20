@@ -327,9 +327,9 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 316 | [x] | [ ] | RSF - The Sermons of Peter Bk 6 Ch 1-26 | 30:20 | [316-rsf-the-sermons-of-peter-bk-6-ch-1-26.md](316-rsf-the-sermons-of-peter-bk-6-ch-1-26.md) |
 | 317 | [x] | [ ] | RSF - The Sermons of Peter Bk 7 Ch 1-12 | 33:12 | [317-rsf-the-sermons-of-peter-bk-7-ch-1-12.md](317-rsf-the-sermons-of-peter-bk-7-ch-1-12.md) |
 | 318 | [x] | [ ] | RSF - The Sermons of Peter Bk 8 Ch 1-24 | 27:45 | [318-rsf-the-sermons-of-peter-bk-8-ch-1-24.md](318-rsf-the-sermons-of-peter-bk-8-ch-1-24.md) |
-| 319 | [ ] | [ ] | RSF - The Sermons of Peter Bk 9 Ch 1-23 | 22:42 | [319-rsf-the-sermons-of-peter-bk-9-ch-1-23.md](319-rsf-the-sermons-of-peter-bk-9-ch-1-23.md) |
-| 320 | [ ] | [ ] | RSF - The Sermons of Peter Bk 10 Ch 1-26 | 26:04 | [320-rsf-the-sermons-of-peter-bk-10-ch-1-26.md](320-rsf-the-sermons-of-peter-bk-10-ch-1-26.md) |
-| 321 | [ ] | [ ] | RSF - The Sermons of Peter Bk 11 Ch 1-20 | 22:32 | [321-rsf-the-sermons-of-peter-bk-11-ch-1-20.md](321-rsf-the-sermons-of-peter-bk-11-ch-1-20.md) |
+| 319 | [x] | [ ] | RSF - The Sermons of Peter Bk 9 Ch 1-23 | 22:42 | [319-rsf-the-sermons-of-peter-bk-9-ch-1-23.md](319-rsf-the-sermons-of-peter-bk-9-ch-1-23.md) |
+| 320 | [x] | [ ] | RSF - The Sermons of Peter Bk 10 Ch 1-26 | 26:04 | [320-rsf-the-sermons-of-peter-bk-10-ch-1-26.md](320-rsf-the-sermons-of-peter-bk-10-ch-1-26.md) |
+| 321 | [x] | [ ] | RSF - The Sermons of Peter Bk 11 Ch 1-20 | 22:32 | [321-rsf-the-sermons-of-peter-bk-11-ch-1-20.md](321-rsf-the-sermons-of-peter-bk-11-ch-1-20.md) |
 | 322 | [ ] | [ ] | RSF - The Sermons of Peter Bk 11 Ch 21-36 | 15:01 | [322-rsf-the-sermons-of-peter-bk-11-ch-21-36.md](322-rsf-the-sermons-of-peter-bk-11-ch-21-36.md) |
 | 323 | [ ] | [ ] | RSF - The Sermons of Peter Bk 12 Ch 1-33 | 36:23 | [323-rsf-the-sermons-of-peter-bk-12-ch-1-33.md](323-rsf-the-sermons-of-peter-bk-12-ch-1-33.md) |
 | 324 | [ ] | [ ] | RSF - The Sermons of Peter Bk 13 Ch 1-21 | 27:04 | [324-rsf-the-sermons-of-peter-bk-13-ch-1-21.md](324-rsf-the-sermons-of-peter-bk-13-ch-1-21.md) |

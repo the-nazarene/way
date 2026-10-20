@@ -492,3 +492,12 @@ Tick **T** when the transcript is in, **N** when notes are written.
 | 481 | [x] | [ ] | Join Me on Zoom: Q & A in October! | 0:09:04 | not added: promo, course ad or personal |
 | 482 | [x] | [ ] | What is Blue? Notes from an AI Rabbit Hole | 0:18:34 | not added: promo, course ad or personal |
 | 483 | [x] | [x] | Did the First Witnesses Believe that Jesus' Body Left the Tomb? | 0:33:34 | [483-did-the-first-witnesses-believe-that-jesus-body-left-the-tom.md](483-did-the-first-witnesses-believe-that-jesus-body-left-the-tom.md) |
+
+## Other channels (found in Dr. Tabor's playlists)
+
+| # | T | N | Title | Length | File |
+|---|---|---|---|---|---|
+| oc-01 | [x] | [x] | A "NEW Covenant" 200 Years BEFORE Jesus / Dr. James D. Tabor | 17:05 | [other-channels/01-a-new-covenant-200-years-before-jesus-dr-james-d-tabor.md](other-channels/01-a-new-covenant-200-years-before-jesus-dr-james-d-tabor.md) |
+| oc-02 | [x] | [x] | "Saved By FAITH" 150 Years BEFORE Jesus | 19:09 | [other-channels/02-saved-by-faith-150-years-before-jesus.md](other-channels/02-saved-by-faith-150-years-before-jesus.md) |
+| oc-03 | [x] | [x] | Top 4 Reasons Jesus WOULDN'T EXIST without THEM | 23:33 | [other-channels/03-top-4-reasons-jesus-wouldn-t-exist-without-them.md](other-channels/03-top-4-reasons-jesus-wouldn-t-exist-without-them.md) |
+| oc-04 | [x] | [x] | I Interviewed a Josephus Expert. Luke Never Looked the Same. 🤯w/ Steve Mason | 1:13:37 | [other-channels/04-i-interviewed-a-josephus-expert-luke-never-looked-the-same-w.md](other-channels/04-i-interviewed-a-josephus-expert-luke-never-looked-the-same-w.md) |
