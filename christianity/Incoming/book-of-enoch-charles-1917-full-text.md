@@ -5,6 +5,7 @@
 **Original Language:** Ge'ez (Ethiopic), from Aramaic/Hebrew originals; Charles compares the Greek versions where they survive
 **Source:** Project Gutenberg eBook #77935 (released 2026-02-14), proofread by Distributed Proofreaders from Internet Archive scans
 **Rights:** Public domain in the United States (published 1917). Gutenberg's US clearance; check local law outside the US
+**Status:** Unverified — held, not yet checked
 **Contributed by:** Added by Rex, 2026-10-20, as the clean public-domain Enoch alongside the "simplified" Enoch sent by Chris Crutchfield
 **Converted:** 2026-10-20. Each paragraph is unwrapped onto one line so exact-phrase search works. Chapter headings follow Charles's own titles and his order (he relocates some passages, e.g. in chapters 91-93). Where Charles prints the Ethiopic (E) and Greek (G^g, G^s) versions side by side, the variants appear as indented quote blocks under their labels
 **Editorial marks:** kept as printed. 〚 〛 words in the Ethiopic but not the Greek; =thick type= emended words; † † corrupt text; ⌜ ⌝, ‹ › and [ ] as explained in the "Signs" key at the end of the Introduction below
