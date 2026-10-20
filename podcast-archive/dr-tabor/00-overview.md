@@ -276,3 +276,5 @@ The 77-file synthesis was produced over two sessions (2026-05-20 / 2026-05-21) u
 - **Phase 4 quality review** (2026-05-22): automated structural audit + 8 parallel content-review subagents flagging hallucinated quotes, broken cross-links, and tonal drift. 11 issues fixed across 9 files.
 
 Total budget: $0.44 Apify spend + Claude API tokens. Subagent retries occasionally overwrote files post-append; the append tooling (since removed from this repo) was idempotent to handle that.
+
+**The rest of the channel** (321 more talks) is in `../dr-tabor-channel/`; its `00-queue.md` lists every video on the channel and links back here for these 77.

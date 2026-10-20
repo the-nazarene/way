@@ -80,7 +80,7 @@ When users ask about Christian theology:
 | `gnosticism/` | The Gnostic gospels — Gospel of Thomas, Gospel of Philip, Nag Hammadi (Christianity's mystical wing, suppressed but recovered) |
 | `extended-library/` | Jesus-relevant secondary works — currently just `essene-gospel-of-peace.md` (with provenance caveats) |
 | `jesus-site-reference/` | Source for jesusactuallysaid.com + architectural notes |
-| `podcast-archive/` | Raw auto-caption transcripts — The Jesus Way (65 episodes), Dr. James Tabor's "Paul" playlist (77 videos, synthesized), Kam Waters' channel (7 videos). Working material: **pointers, not proof** — never quote as a source |
+| `podcast-archive/` | Raw auto-caption transcripts — The Jesus Way (65 episodes), Dr. James Tabor's "Paul" playlist (77 videos, synthesized) and the rest of his channel (`dr-tabor-channel/`, 321), Scott's Nazarene Way channel (84), Kam Waters' channel (7 videos), and more (see `podcast-archive/README.md`). Notes carry a `**Topics:**` line from `podcast-archive/TOPICS.md`. Working material: **pointers, not proof** — never quote as a source |
 | `site/` | The Reading Room — the public static site over the question cards. `site/build.py` stamps every source HELD / NOT YET HELD by checking the repo, and refuses to build a citation it can't find. Content follows the cards; fix the card first |
 | `questions/` | 14 cards on the hard questions (claim, evidence, questions people raise + responses, one-sentence versions) + `CITATION-NOTES.md`, which logs citations found to be fabricated or reversed. Read that file before quoting |
 | `scripts/` | `semantic-search.py` — meaning-based search over the whole repo (Gemini embeddings). Setup in `scripts/README.md` |

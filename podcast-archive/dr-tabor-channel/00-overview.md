@@ -1,0 +1,1434 @@
+# Dr. James Tabor, YouTube channel: overview
+
+The rest of Dr. Tabor's channel beyond the "Paul" playlist (which lives in `../dr-tabor/`). 275 talks on Jesus, his family, John the Baptist, James, the Ebionites and Nazarenes, the Dead Sea Scrolls, the gospels, the last week, the resurrection, and Abrahamic faith, plus 46 background talks in `background/`. File names use the channel's oldest-first numbering; cite a moment as `tabor-ch-NNN @ mm:ss` (the playlist files are `tabor-NN`). Same note layout as Scott's folder and the Paul playlist.
+
+Generated from each file's `**Topics:**` and `**Speakers:**` lines (machine-written, checked by spot reading). Topic tags come from a fixed list in `podcast-archive/TOPICS.md`; to see which question card a topic feeds, look there.
+
+## By topic
+
+### paul (107)
+
+- [Who is a Jew? Paul's Transformation of Jewish Identity](008-who-is-a-jew-paul-s-transformation-of-jewish-identity.md) · 2022-01-30
+- [Erasing James the Brother of Jesus from the New Testament](009-erasing-james-the-brother-of-jesus-from-the-new-testament.md) · 2022-02-16
+- [Dead Messiahs Who Don't Return](014-dead-messiahs-who-don-t-return.md) · 2022-03-05
+- [How and When Did Satan Become the God of this World?](024-how-and-when-did-satan-become-the-god-of-this-world.md) · 2022-04-04
+- [How Does Hebrew Matthew Compare with Greek Matthew in the New Testament?](033-how-does-hebrew-matthew-compare-with-greek-matthew-in-the-ne.md) · 2022-05-05
+- [The Bad Idea that Took Over the World](036-the-bad-idea-that-took-over-the-world.md) · 2022-05-13
+- [The Jesus Dynasty--Why the Royal Family of Jesus was Forgotten](037-the-jesus-dynasty-why-the-royal-family-of-jesus-was-forgotte.md) · 2022-05-16
+- [When Prophecy Fails: How Ancient Messianic Jews & Christians Survived Apocalyptic Disappointment](041-when-prophecy-fails-how-ancient-messianic-jews-christians-su.md) · 2022-06-09
+- [Six Minutes on How Resurrection Faith Was Born](054-six-minutes-on-how-resurrection-faith-was-born.md) · 2022-09-16
+- [If You Want to Follow Jesus: Go To James the Just](059-if-you-want-to-follow-jesus-go-to-james-the-just.md) · 2022-10-04
+- [James the Just--His Teachings and Tragic Death](061-james-the-just-his-teachings-and-tragic-death.md) · 2022-10-14
+- [Might Jews, Christians, and Muslims Find A New Unity By Recovering the Historical Jesus?](067-might-jews-christians-and-muslims-find-a-new-unity-by-recove.md) · 2022-11-14
+- [Can a Pre Christian Version of the Book of Revelation Be Recovered?](072-can-a-pre-christian-version-of-the-book-of-revelation-be-rec.md) · 2022-11-28
+- [Who Was James the Brother of the Lord?](073-who-was-james-the-brother-of-the-lord.md) · 2022-11-30
+- [Were Jesus and His First Followers Wrong About the End of the Age?](075-were-jesus-and-his-first-followers-wrong-about-the-end-of-th.md) · 2022-12-04
+- [Weeping and Mourning Through Easter--How, When, and Where Faith in Jesus' Resurrection Really Began](078-weeping-and-mourning-through-easter-how-when-and-where-faith.md) · 2022-12-11
+- [What Was Paul's Thorn in the Flesh?](080-what-was-paul-s-thorn-in-the-flesh.md) · 2022-12-15
+- [Why I Think Jesus Was a Vegetarian](084-why-i-think-jesus-was-a-vegetarian.md) · 2022-12-21
+- [How Paul, Not Jesus, Created Christian Baptism and the Eucharist](087-how-paul-not-jesus-created-christian-baptism-and-the-euchari.md) · 2022-12-31
+- [Were the Ebionites Heretics? Or Our Best Witness to the Jesus Movement?](090-were-the-ebionites-heretics-or-our-best-witness-to-the-jesus.md) · 2023-01-09
+- [How Christian Apologists Unintentionally DESTROY the Gospels](092-how-christian-apologists-unintentionally-destroy-the-gospels.md) · 2023-01-15
+- [Paul Williams Interview Part 3: Was Jesus a Torah Observant Jew? Its Complicated!](095-paul-williams-interview-part-3-was-jesus-a-torah-observant-j.md) · 2023-01-22
+- [Did Earliest Jewish-Christianity Influence Islam?](096-did-earliest-jewish-christianity-influence-islam.md) · 2023-01-25
+- [The Mysticism and Message of Paul--Cosmic Transformation](103-the-mysticism-and-message-of-paul-cosmic-transformation.md) · 2023-02-03
+- [Two More Hours with Barbara DeLong: Have the Tombs of the Jesus Family Been Found?](120-two-more-hours-with-barbara-delong-have-the-tombs-of-the-jes.md) · 2023-03-04
+- [Mark Is our Earliest Jesus Story--How We Know and Why it Matters!](124-mark-is-our-earliest-jesus-story-how-we-know-and-why-it-matt.md) · 2023-03-14
+- [The Historical Truth about the Last Supper--At Last!](133-the-historical-truth-about-the-last-supper-at-last.md) · 2023-04-05
+- [Did the Author of Mark's Gospel Think Jesus Was God?](140-did-the-author-of-mark-s-gospel-think-jesus-was-god.md) · 2023-04-12
+- [What Was Paul's View of Salvation?  It's Not What You Think!](145-what-was-paul-s-view-of-salvation-it-s-not-what-you-think.md) · 2023-04-21
+- [Children of a Different Father--Mother Mary and Her Band of Seven](157-children-of-a-different-father-mother-mary-and-her-band-of-s.md) · 2023-05-18
+- [Finding a Jesus Before Christianity--Why the Quest Matters](165-finding-a-jesus-before-christianity-why-the-quest-matters.md) · 2023-05-27
+- [Following James the Brother of Jesus Out of Christianity](167-following-james-the-brother-of-jesus-out-of-christianity.md) · 2023-05-29
+- [Ask Dr  Tabor Anything--with Derek Lambert: Part I](168-ask-dr-tabor-anything-with-derek-lambert-part-i.md) · 2023-05-31
+- [Ask Dr Tabor Anythng--with Derek Lambert Part II](169-ask-dr-tabor-anythng-with-derek-lambert-part-ii.md) · 2023-06-01
+- [Dateline November 1991: Our First Look at the Unpublished Dead Sea Scrolls](174-dateline-november-1991-our-first-look-at-the-unpublished-dea.md) · 2023-06-06
+- [Death & Afterlife: Jesus' Empty Tomb? Just the Facts Please!](194-death-afterlife-jesus-empty-tomb-just-the-facts-please.md) · 2023-07-17
+- [Why Evangelical Christians Ignore  the Earliest and only 1st-Person Testimony to Jesus' Resurrection](199-why-evangelical-christians-ignore-the-earliest-and-only-1st.md) · 2023-08-07
+- [Let's Read Together the So Called "Lost Gospel of Q"](201-let-s-read-together-the-so-called-lost-gospel-of-q.md) · 2023-08-12
+- [Did Jesus Ever Claim to be God in our Earliest Sources?](202-did-jesus-ever-claim-to-be-god-in-our-earliest-sources.md) · 2023-08-13
+- [Bible Prophecy #11 Did the Jesus Apocalypse Fail?](222-bible-prophecy-11-did-the-jesus-apocalypse-fail.md) · 2023-10-01
+- [Do We Find Messianic Suffering in the Dead Sea Scrolls?](236-do-we-find-messianic-suffering-in-the-dead-sea-scrolls.md) · 2023-11-23
+- [A Biblical Time Machine: Let's Meet Mary Again--for the First Time!](241-a-biblical-time-machine-let-s-meet-mary-again-for-the-first.md) · 2023-12-11
+- [Robert Eisenman & the Dead Sea Scrolls:  Best Interview Ever!](256-robert-eisenman-the-dead-sea-scrolls-best-interview-ever.md) · 2024-02-05
+- [JesusArchaeology #12:  The Last Night of Jesus' Life](263-jesusarchaeology-12-the-last-night-of-jesus-life.md) · 2024-02-21
+- [Tabor Commentary: Virtual Tour Jesus in Jerusalem](264-tabor-commentary-virtual-tour-jesus-in-jerusalem.md) · 2024-02-22
+- [Jesus Archaeology # 14 New Archaeological Evidence on Jesus' Crucifixion and Burial](268-jesus-archaeology-14-new-archaeological-evidence-on-jesus-cr.md) · 2024-02-27
+- [Three Earliest Resurrection Texts--Ignored, Overlooked, and Forgotten!](271-three-earliest-resurrection-texts-ignored-overlooked-and-for.md) · 2024-03-06
+- [How Christian Apologists Violate the Integrity of the Gospels Pt 2](279-how-christian-apologists-violate-the-integrity-of-the-gospel.md) · 2024-03-25
+- [The Religious Idea that Took Over the World](285-the-religious-idea-that-took-over-the-world.md) · 2024-03-31
+- [Top Seven Fateful New Testament Texts The Time of the End Has Drawn Very Near! (7)](300-top-seven-fateful-new-testament-texts-the-time-of-the-end-ha.md) · 2024-05-03
+- [Was Jesus a Failed Apocayptic Messiah?  Standing in the Shadow of Schweitzer](301-was-jesus-a-failed-apocayptic-messiah-standing-in-the-shadow.md) · 2024-05-06
+- [The Dead Sea WAR SCROLL: The First Grand Example of Apocalyptic Failure!](312-the-dead-sea-war-scroll-the-first-grand-example-of-apocalypt.md) · 2024-05-28
+- [Lost in Translation:  Are Humans Really Desperately Wicked Sinners?](313-lost-in-translation-are-humans-really-desperately-wicked-sin.md) · 2024-06-03
+- [How James [Yaaqov] Beloved Brother of Jesus Was Written out of Early Christianity](320-how-james-yaaqov-beloved-brother-of-jesus-was-written-out-of.md) · 2024-06-30
+- [Is Historical Biblical Scholarship Destructive or Constructive? Dr. Robyn Walsh Weighs In. . .](333-is-historical-biblical-scholarship-destructive-or-constructi.md) · 2024-08-23
+- [From Jewish Mother of Jesus to Virgin Mother of God: A Discussion and Dialogue](336-from-jewish-mother-of-jesus-to-virgin-mother-of-god-a-discus.md) · 2024-08-29
+- [Jonathan Z  Smith: The Core Idea I Learned  from the Greatest Historian of Religion of our Time!](344-jonathan-z-smith-the-core-idea-i-learned-from-the-greatest-h.md) · 2024-10-04
+- [The Lost Tomb of Jesus--A Critical Look from All Sides!](346-the-lost-tomb-of-jesus-a-critical-look-from-all-sides.md) · 2024-10-11
+- [Inventing Heaven and Hell--The Bible and the Afterlife](352-inventing-heaven-and-hell-the-bible-and-the-afterlife.md) · 2024-12-04
+- [Jesus' Resurrection  Physical or Spiritual? What Do our Earliest Texts Really Say?](358-jesus-resurrection-physical-or-spiritual-what-do-our-earlies.md) · 2024-12-28
+- [Expanding Q--Recovering  a Gospel written BEFORE our Gospels?](366-expanding-q-recovering-a-gospel-written-before-our-gospels.md) · 2025-02-18
+- [The Big Five Questions on Paul: My Responses](367-the-big-five-questions-on-paul-my-responses.md) · 2025-02-20
+- [The Didache: A Lost and Rediscovered Text of the Teaching of Jesus Pt 1](369-the-didache-a-lost-and-rediscovered-text-of-the-teaching-of.md) · 2025-02-26
+- [Part 2: The Didache: A Lost and Rediscovered Text of the Teaching of Jesus](370-part-2-the-didache-a-lost-and-rediscovered-text-of-the-teach.md) · 2025-03-10
+- [Exploring a More Historically Credible Version of Jesus' Last Supper](372-exploring-a-more-historically-credible-version-of-jesus-last.md) · 2025-03-20
+- [Was Jesus Naked at His Resurrection?](373-was-jesus-naked-at-his-resurrection.md) · 2025-03-23
+- [Last Days of Jesus--Pt 3 The King is Dead!](378-last-days-of-jesus-pt-3-the-king-is-dead.md) · 2025-04-13
+- [Last Days of Jesus--Pt 4: Dead and Twice Buried](380-last-days-of-jesus-pt-4-dead-and-twice-buried.md) · 2025-04-16
+- [Weeping Through Easter: A Credible Historical Reconstruction of What Most Likely Happened](381-weeping-through-easter-a-credible-historical-reconstruction.md) · 2025-04-20
+- [The Gospel Texts  That All Major Christian Apologists for Jesus' Resurrection Have Misinterpreted!](382-the-gospel-texts-that-all-major-christian-apologists-for-jes.md) · 2025-04-25
+- [Would  Jesus Followers Venerate a Tomb with His Corpse Inside?](383-would-jesus-followers-venerate-a-tomb-with-his-corpse-inside.md) · 2025-04-28
+- [Why I Don't Judge Another's Religious Experience](387-why-i-don-t-judge-another-s-religious-experience.md) · 2025-05-01
+- [Restoring Abrahamic Faith Again--For the First Time!](391-restoring-abrahamic-faith-again-for-the-first-time.md) · 2025-05-05
+- [But Dr. Tabor What do YOU Believe?](393-but-dr-tabor-what-do-you-believe.md) · 2025-05-19
+- [What Was "Christianity" Like Before Paul?](395-what-was-christianity-like-before-paul.md) · 2025-05-21
+- [The Fading of the Jesus Family--Phase One](411-the-fading-of-the-jesus-family-phase-one.md) · 2025-07-25
+- [How Historical Methods Get us Closer to the Real Jesus](413-how-historical-methods-get-us-closer-to-the-real-jesus.md) · 2025-07-28
+- [The Ebionites:  Heretics or Original Followers of Jesus?](414-the-ebionites-heretics-or-original-followers-of-jesus.md) · 2025-08-01
+- [What's the Real Story on the Pharisees and Jesus--with Dr. Amy-Jill Levine?](421-what-s-the-real-story-on-the-pharisees-and-jesus-with-dr-amy.md) · 2025-08-29
+- [What Kind of a Jew Was Jesus?  Dr  Joel Marcus on "Jesus and the Law"](424-what-kind-of-a-jew-was-jesus-dr-joel-marcus-on-jesus-and-the.md) · 2025-09-05
+- [Did the Historical Jesus Think He Was the Messiah?](428-did-the-historical-jesus-think-he-was-the-messiah.md) · 2025-09-12
+- [The Fading of the Jesus Family: Finale and Summing Up](432-the-fading-of-the-jesus-family-finale-and-summing-up.md) · 2025-10-12
+- [Jews, Christians, and Muslims--What is the Historic Abrahamic Faith?](435-jews-christians-and-muslims-what-is-the-historic-abrahamic-f.md) · 2025-10-28
+- [Did Jesus Expect to Regather the Lost Ten Tribes of israel?](438-did-jesus-expect-to-regather-the-lost-ten-tribes-of-israel.md) · 2025-11-02
+- [Aaron Abke Interview: The Lost Mary](442-aaron-abke-interview-the-lost-mary.md) · 2025-12-02
+- [Dr. Robert L.  Kuhn Interview: The Lost Mary](443-dr-robert-l-kuhn-interview-the-lost-mary.md) · 2025-12-04
+- [What Do Scholars Mean by  the "Historical" Jesus?](445-what-do-scholars-mean-by-the-historical-jesus.md) · 2025-12-08
+- [Why You Probably Have Never Heard of Bishop Theophilus of Antioch!](449-why-you-probably-have-never-heard-of-bishop-theophilus-of-an.md) · 2025-12-30
+- [What About Christianity Before Paul? A Conversation with Derek Lambert Pt 1](454-what-about-christianity-before-paul-a-conversation-with-dere.md) · 2026-01-22
+- [What About Christianity Before Paul? A Conversation with Derek Lambert Pt 2](456-what-about-christianity-before-paul-a-conversation-with-dere.md) · 2026-01-30
+- [Evangelist Johnny Ova Interview: The Lost Mary](463-evangelist-johnny-ova-interview-the-lost-mary.md) · 2026-03-07
+- [Ebionites, Nazarenes, Essenes, Nasareans Sorting out the Names!](472-ebionites-nazarenes-essenes-nasareans-sorting-out-the-names.md) · 2026-06-17
+- [Did Jesus Teach Eternal Hell Fire?](474-did-jesus-teach-eternal-hell-fire.md) · 2026-07-03
+- [Does Paul Misread His Two Favorite Bible Verses?](476-does-paul-misread-his-two-favorite-bible-verses.md) · 2026-07-13
+- [The Single Idea that Transformed ALL Biblical Faiths!](480-the-single-idea-that-transformed-all-biblical-faiths.md) · 2026-09-15
+- [Did the First Witnesses Believe that Jesus' Body Left the Tomb?](483-did-the-first-witnesses-believe-that-jesus-body-left-the-tom.md) · 2026-10-20
+- [Bible Prophecy # 16: "When  Jerusalem” Means Jerusalem--Prophecy Belief in the 21st Century"](background/007-bible-prophecy-16-when-jerusalem-means-jerusalem-prophecy-be.md) · 2022-01-21
+- [What the Bible Really Says About Death, Afterlife, and Resurrection?](background/044-what-the-bible-really-says-about-death-afterlife-and-resurre.md) · 2022-07-25
+- [Bible Prophecy: The Perils of Predicting the End of the Age Part 1](background/104-bible-prophecy-the-perils-of-predicting-the-end-of-the-age-p.md) · 2023-02-04
+- [Bible Prophecy: The Perils of Predicting the End of the Age Part 2](background/107-bible-prophecy-the-perils-of-predicting-the-end-of-the-age-p.md) · 2023-02-11
+- [Death & Afterlife: Loose Ends & Caveats](background/196-death-afterlife-loose-ends-caveats.md) · 2023-07-25
+- [WHY Prophecy Fails: A New Series](background/203-why-prophecy-fails-a-new-series.md) · 2023-08-16
+- [Bible Prophecy # 5  The Fundamental Flaw of Popular Christian Prophecy Beliefs](background/210-bible-prophecy-5-the-fundamental-flaw-of-popular-christian-p.md) · 2023-09-07
+- [Bible Prophecy #17  Strange Bedfellows--Where Bible Scholars and Christian Prophecy Believers Agree!](background/228-bible-prophecy-17-strange-bedfellows-where-bible-scholars-an.md) · 2023-10-31
+- [Bible Prophecy # 22 Twenty-First  Century  Expectations--Putting it ALL Together!](background/234-bible-prophecy-22-twenty-first-century-expectations-putting.md) · 2023-11-20
+- [Bible Prophecy # 23 The Fatal Flaw of Popular Christian Prophecy Belief](background/235-bible-prophecy-23-the-fatal-flaw-of-popular-christian-prophe.md) · 2023-11-23
+- [Bible Prophecy # 25  FINALE: Fundamental Fatal  Flaws of Most Prophecy Interpretations Today](background/240-bible-prophecy-25-finale-fundamental-fatal-flaws-of-most-pro.md) · 2023-12-09
+
+### james (81)
+
+- [The Jesus Dynasty: Author's Personal Introduction](006-the-jesus-dynasty-author-s-personal-introduction.md) · 2022-01-20
+- [Erasing James the Brother of Jesus from the New Testament](009-erasing-james-the-brother-of-jesus-from-the-new-testament.md) · 2022-02-16
+- [The James Ossuary--Getting the Facts Straight](017-the-james-ossuary-getting-the-facts-straight.md) · 2022-03-12
+- [Part A Lecture: The Search for Jerusalem's Essene Gate and the Church of the Apostles](021-part-a-lecture-the-search-for-jerusalem-s-essene-gate-and-th.md) · 2022-03-23
+- [The Jerusalem Talpiot "Jesus" Tombs  An Overview of the Discoveries](028-the-jerusalem-talpiot-jesus-tombs-the-discoveries.md) · 2022-04-21
+- [King of the Jews: A Tale of Two Dynasties and Two Burials](029-king-of-the-jews-a-tale-of-two-dynasties-and-two-burials.md) · 2022-04-24
+- [The Real Mary: The Marginalization and Transformation of  the Jewish Mother of Jesus](030-the-real-mary-the-marginalization-and-transformation-of-the.md) · 2022-04-26
+- [Tracking John the Baptizer and His Followers--Including Jesus!](032-tracking-john-the-baptizer-and-his-followers-including-jesus.md) · 2022-05-04
+- [Jesus and the Boys--Forgotten Brothers and Apostles](034-jesus-and-the-boys-forgotten-brothers-and-apostles.md) · 2022-05-09
+- [The Jesus Dynasty--Why the Royal Family of Jesus was Forgotten](037-the-jesus-dynasty-why-the-royal-family-of-jesus-was-forgotte.md) · 2022-05-16
+- [A Tale of Two Tombs-Part Two: The James Ossuary & The Talpiot Jesus Tomb](050-a-tale-of-two-tombs-part-two-the-james-ossuary-the-talpiot-j.md) · 2022-08-31
+- [Was Jesus' Final Burial in the Galilee?](053-was-jesus-final-burial-in-the-galilee.md) · 2022-09-14
+- [If You Want to Follow Jesus: Go To James the Just](059-if-you-want-to-follow-jesus-go-to-james-the-just.md) · 2022-10-04
+- [James the Just--His Teachings and Tragic Death](061-james-the-just-his-teachings-and-tragic-death.md) · 2022-10-14
+- [After James:  The Jesus Dynasty Survives and Continues](062-after-james-the-jesus-dynasty-survives-and-continues.md) · 2022-10-20
+- [Might Jews, Christians, and Muslims Find A New Unity By Recovering the Historical Jesus?](067-might-jews-christians-and-muslims-find-a-new-unity-by-recove.md) · 2022-11-14
+- [Can a Pre Christian Version of the Book of Revelation Be Recovered?](072-can-a-pre-christian-version-of-the-book-of-revelation-be-rec.md) · 2022-11-28
+- [Who Was James the Brother of the Lord?](073-who-was-james-the-brother-of-the-lord.md) · 2022-11-30
+- [Weeping and Mourning Through Easter--How, When, and Where Faith in Jesus' Resurrection Really Began](078-weeping-and-mourning-through-easter-how-when-and-where-faith.md) · 2022-12-11
+- [How Paul, Not Jesus, Created Christian Baptism and the Eucharist](087-how-paul-not-jesus-created-christian-baptism-and-the-euchari.md) · 2022-12-31
+- [Were the Ebionites Heretics? Or Our Best Witness to the Jesus Movement?](090-were-the-ebionites-heretics-or-our-best-witness-to-the-jesus.md) · 2023-01-09
+- [Paul Williams Interview Part 3: Was Jesus a Torah Observant Jew? Its Complicated!](095-paul-williams-interview-part-3-was-jesus-a-torah-observant-j.md) · 2023-01-22
+- [Did Earliest Jewish-Christianity Influence Islam?](096-did-earliest-jewish-christianity-influence-islam.md) · 2023-01-25
+- [Two More Hours with Barbara DeLong: Have the Tombs of the Jesus Family Been Found?](120-two-more-hours-with-barbara-delong-have-the-tombs-of-the-jes.md) · 2023-03-04
+- [That Most Wretched of Deaths--The Murder of Jesus of Nazareth](134-that-most-wretched-of-deaths-the-murder-of-jesus-of-nazareth.md) · 2023-04-06
+- [Dead, Twice Buried, and An Empty Tomb?](137-dead-twice-buried-and-an-empty-tomb.md) · 2023-04-08
+- [Jesus' Plan for Taking over the Kingdoms of the World](161-jesus-plan-for-taking-over-the-kingdoms-of-the-world.md) · 2023-05-23
+- [Discovering a Secret "Jesus Hideout" in Jordan--Jesus' Last Winter](164-discovering-a-secret-jesus-hideout-in-jordan-jesus-last-wint.md) · 2023-05-26
+- [Finding a Jesus Before Christianity--Why the Quest Matters](165-finding-a-jesus-before-christianity-why-the-quest-matters.md) · 2023-05-27
+- [Following James the Brother of Jesus Out of Christianity](167-following-james-the-brother-of-jesus-out-of-christianity.md) · 2023-05-29
+- [Why Evangelical Christians Ignore  the Earliest and only 1st-Person Testimony to Jesus' Resurrection](199-why-evangelical-christians-ignore-the-earliest-and-only-1st.md) · 2023-08-07
+- [How the Jewish Mother of Jesus Was Transformed into the Virgin Mother of God!](200-how-the-jewish-mother-of-jesus-was-transformed-into-the-virg.md) · 2023-08-10
+- [Did Jesus Ever Claim to be God in our Earliest Sources?](202-did-jesus-ever-claim-to-be-god-in-our-earliest-sources.md) · 2023-08-13
+- [Bible Prophecy #11 Did the Jesus Apocalypse Fail?](222-bible-prophecy-11-did-the-jesus-apocalypse-fail.md) · 2023-10-01
+- [My Greatest Discovery: A Jesus Hideout in Jordan](223-my-greatest-discovery-a-jesus-hideout-in-jordan.md) · 2023-10-03
+- [A Biblical Time Machine: Let's Meet Mary Again--for the First Time!](241-a-biblical-time-machine-let-s-meet-mary-again-for-the-first.md) · 2023-12-11
+- [Jesus Archaeology # 1 Ten Jerusalem Tombs from the Time of Jesus--Exciting  New Evidence!](245-jesus-archaeology-1-ten-jerusalem-tombs-from-the-time-of-jes.md) · 2023-12-21
+- [Jesus Archaeology # 8 Does the Gospel of John Have any Worthwhile Historical Evidence?](254-jesus-archaeology-8-does-the-gospel-of-john-have-any-worthwh.md) · 2024-01-29
+- [Robert Eisenman & the Dead Sea Scrolls:  Best Interview Ever!](256-robert-eisenman-the-dead-sea-scrolls-best-interview-ever.md) · 2024-02-05
+- [JesusArchaeology #12:  The Last Night of Jesus' Life](263-jesusarchaeology-12-the-last-night-of-jesus-life.md) · 2024-02-21
+- [Three Earliest Resurrection Texts--Ignored, Overlooked, and Forgotten!](271-three-earliest-resurrection-texts-ignored-overlooked-and-for.md) · 2024-03-06
+- [Jesus Final Week: Day Two--Temple Shutdown and Plot to Kill](280-jesus-final-week-day-two-temple-shutdown-and-plot-to-kill.md) · 2024-03-25
+- [Lost in Translation: The Son of Man Coming in the Clouds of Heaven is NOT Jesus!](310-lost-in-translation-the-son-of-man-coming-in-the-clouds-of-h.md) · 2024-05-24
+- [How James [Yaaqov] Beloved Brother of Jesus Was Written out of Early Christianity](320-how-james-yaaqov-beloved-brother-of-jesus-was-written-out-of.md) · 2024-06-30
+- [From Jewish Mother of Jesus to Virgin Mother of God: A Discussion and Dialogue](336-from-jewish-mother-of-jesus-to-virgin-mother-of-god-a-discus.md) · 2024-08-29
+- [The Forgotten Gospel According to James, Brother of Jesus](361-the-forgotten-gospel-according-to-james-brother-of-jesus.md) · 2025-01-11
+- [Expanding Q--Recovering  a Gospel written BEFORE our Gospels?](366-expanding-q-recovering-a-gospel-written-before-our-gospels.md) · 2025-02-18
+- [The Big Five Questions on Paul: My Responses](367-the-big-five-questions-on-paul-my-responses.md) · 2025-02-20
+- [The Didache: A Lost and Rediscovered Text of the Teaching of Jesus Pt 1](369-the-didache-a-lost-and-rediscovered-text-of-the-teaching-of.md) · 2025-02-26
+- [Part 2: The Didache: A Lost and Rediscovered Text of the Teaching of Jesus](370-part-2-the-didache-a-lost-and-rediscovered-text-of-the-teach.md) · 2025-03-10
+- [Last Days of Jesus--Pt 3 The King is Dead!](378-last-days-of-jesus-pt-3-the-king-is-dead.md) · 2025-04-13
+- [Last Days of Jesus--Pt 4: Dead and Twice Buried](380-last-days-of-jesus-pt-4-dead-and-twice-buried.md) · 2025-04-16
+- [The Fading of the Jesus Family--Phase One](411-the-fading-of-the-jesus-family-phase-one.md) · 2025-07-25
+- [The Fading of the Jesus Family:  Phase Two](419-the-fading-of-the-jesus-family-phase-two.md) · 2025-08-25
+- [The Fading of the Jesus Family Phase Three :  An Ever-Virgin Mary?](427-the-fading-of-the-jesus-family-phase-three-an-ever-virgin-ma.md) · 2025-09-09
+- [The Fading of the Jesus Family: Finale and Summing Up](432-the-fading-of-the-jesus-family-finale-and-summing-up.md) · 2025-10-12
+- [Jacob Berman Interview: The Lost Mary Part 1](433-jacob-berman-interview-the-lost-mary-part-1.md) · 2025-10-18
+- [John Crossan and James Tabor Conversation: The Lost Mary](436-john-crossan-and-james-tabor-conversation-the-lost-mary.md) · 2025-10-29
+- [Did Jesus Expect to Regather the Lost Ten Tribes of israel?](438-did-jesus-expect-to-regather-the-lost-ten-tribes-of-israel.md) · 2025-11-02
+- [Megan Lewis Interview: The Lost Mary](441-megan-lewis-interview-the-lost-mary.md) · 2025-11-30
+- [Aaron Abke Interview: The Lost Mary](442-aaron-abke-interview-the-lost-mary.md) · 2025-12-02
+- [Dr. Robert L.  Kuhn Interview: The Lost Mary](443-dr-robert-l-kuhn-interview-the-lost-mary.md) · 2025-12-04
+- [James Tabor Slide Show Lecture: The Lost Mary](444-james-tabor-slide-show-lecture-the-lost-mary.md) · 2025-12-04
+- [What Do Scholars Mean by  the "Historical" Jesus?](445-what-do-scholars-mean-by-the-historical-jesus.md) · 2025-12-08
+- [Helen Bond: Biblical Time Machine Interview: The Lost Mary](446-helen-bond-biblical-time-machine-interview-the-lost-mary.md) · 2025-12-10
+- [John Batchelor "CBS Eye on the World" Interview: The Lost Mary](447-john-batchelor-cbs-eye-on-the-world-interview-the-lost-mary.md) · 2025-12-22
+- [Why You Probably Have Never Heard of Bishop Theophilus of Antioch!](449-why-you-probably-have-never-heard-of-bishop-theophilus-of-an.md) · 2025-12-30
+- [Is a Quest for the Historical Mary, Mother of Jesus, Possible?](452-is-a-quest-for-the-historical-mary-mother-of-jesus-possible.md) · 2026-01-12
+- [What About Christianity Before Paul? A Conversation with Derek Lambert Pt 1](454-what-about-christianity-before-paul-a-conversation-with-dere.md) · 2026-01-22
+- [What About Christianity Before Paul? A Conversation with Derek Lambert Pt 2](456-what-about-christianity-before-paul-a-conversation-with-dere.md) · 2026-01-30
+- [Mary Mother of Jesus: My Archeological Journey of Discovery](457-mary-mother-of-jesus-my-archeological-journey-of-discovery.md) · 2026-02-04
+- [Academic Lecture: "The Lost Mary" at  the 2026  International Symposium on Archaeology and the Bible](459-academic-lecture-the-lost-mary-at-the-2026-international-sym.md) · 2026-02-17
+- [Sam Tideman Interview: The Lost Mary](460-sam-tideman-interview-the-lost-mary.md) · 2026-02-22
+- [A "Deep Dive" Dialogue on Tabor's Take on the Historical Mary](462-a-deep-dive-dialogue-on-tabor-s-take-on-the-historical-mary.md) · 2026-02-28
+- [Evangelist Johnny Ova Interview: The Lost Mary](463-evangelist-johnny-ova-interview-the-lost-mary.md) · 2026-03-07
+- [A Band of Sisters: The  Forgotten Treasure of the EARLY Jesus Movement!](464-a-band-of-sisters-the-forgotten-treasure-of-the-early-jesus.md) · 2026-03-18
+- [The Forgotten Ebionites--Found at Last!](465-the-forgotten-ebionites-found-at-last.md) · 2026-04-03
+- [When Heaven Replaced Earth](468-when-heaven-replaced-earth.md) · 2026-05-24
+- [Ebionites, Nazarenes, Essenes, Nasareans Sorting out the Names!](472-ebionites-nazarenes-essenes-nasareans-sorting-out-the-names.md) · 2026-06-17
+- [My First Catholic Audience: Presenting the Historical Mary to Catholic Sisters](477-my-first-catholic-audience-presenting-the-historical-mary-to.md) · 2026-07-27
+- [Did the First Witnesses Believe that Jesus' Body Left the Tomb?](483-did-the-first-witnesses-believe-that-jesus-body-left-the-tom.md) · 2026-10-20
+
+### ebionites-nazarenes (23)
+
+- [A Jesus Hideout in Jordan: Mapping Ancient Textual Traditions](019-a-jesus-hideout-in-jordan-mapping-ancient-textual-traditions.md) · 2022-03-18
+- [Part A Lecture: The Search for Jerusalem's Essene Gate and the Church of the Apostles](021-part-a-lecture-the-search-for-jerusalem-s-essene-gate-and-th.md) · 2022-03-23
+- [How Does Hebrew Matthew Compare with Greek Matthew in the New Testament?](033-how-does-hebrew-matthew-compare-with-greek-matthew-in-the-ne.md) · 2022-05-05
+- [Jesus and the Boys--Forgotten Brothers and Apostles](034-jesus-and-the-boys-forgotten-brothers-and-apostles.md) · 2022-05-09
+- [The Jesus Dynasty--Why the Royal Family of Jesus was Forgotten](037-the-jesus-dynasty-why-the-royal-family-of-jesus-was-forgotte.md) · 2022-05-16
+- [If You Want to Follow Jesus: Go To James the Just](059-if-you-want-to-follow-jesus-go-to-james-the-just.md) · 2022-10-04
+- [After James:  The Jesus Dynasty Survives and Continues](062-after-james-the-jesus-dynasty-survives-and-continues.md) · 2022-10-20
+- [Why I Think Jesus Was a Vegetarian](084-why-i-think-jesus-was-a-vegetarian.md) · 2022-12-21
+- [Disparaging Jesus: Roman Gossip and Jewish Legend](089-disparaging-jesus-roman-gossip-and-jewish-legend.md) · 2023-01-05
+- [Were the Ebionites Heretics? Or Our Best Witness to the Jesus Movement?](090-were-the-ebionites-heretics-or-our-best-witness-to-the-jesus.md) · 2023-01-09
+- [Did Earliest Jewish-Christianity Influence Islam?](096-did-earliest-jewish-christianity-influence-islam.md) · 2023-01-25
+- [Discovering a Secret "Jesus Hideout" in Jordan--Jesus' Last Winter](164-discovering-a-secret-jesus-hideout-in-jordan-jesus-last-wint.md) · 2023-05-26
+- [Jesus Archaeology #9  The Forgotten Last Winter of Jesus' Life  Explored](255-jesus-archaeology-9-the-forgotten-last-winter-of-jesus-life.md) · 2024-02-04
+- [Jesus Final Week: Day Two--Temple Shutdown and Plot to Kill](280-jesus-final-week-day-two-temple-shutdown-and-plot-to-kill.md) · 2024-03-25
+- [How James [Yaaqov] Beloved Brother of Jesus Was Written out of Early Christianity](320-how-james-yaaqov-beloved-brother-of-jesus-was-written-out-of.md) · 2024-06-30
+- [What Was "Christianity" Like Before Paul?](395-what-was-christianity-like-before-paul.md) · 2025-05-21
+- [My View of Biblical Faith After 45 Years of Academic Study](408-my-view-of-biblical-faith-after-45-years-of-academic-study.md) · 2025-07-18
+- [The Ebionites:  Heretics or Original Followers of Jesus?](414-the-ebionites-heretics-or-original-followers-of-jesus.md) · 2025-08-01
+- [The Fading of the Jesus Family:  Phase Two](419-the-fading-of-the-jesus-family-phase-two.md) · 2025-08-25
+- [What About Christianity Before Paul? A Conversation with Derek Lambert Pt 2](456-what-about-christianity-before-paul-a-conversation-with-dere.md) · 2026-01-30
+- [The Forgotten Ebionites--Found at Last!](465-the-forgotten-ebionites-found-at-last.md) · 2026-04-03
+- [Ebionites, Nazarenes, Essenes, Nasareans Sorting out the Names!](472-ebionites-nazarenes-essenes-nasareans-sorting-out-the-names.md) · 2026-06-17
+- [A Shared Utopian Vision? Enochians, Essenes, Ebionites, and Nazarenes](475-a-shared-utopian-vision-enochians-essenes-ebionites-and-naza.md) · 2026-07-07
+
+### essenes-dead-sea-scrolls (73)
+
+- [Dead Messiahs Who Don't Return](014-dead-messiahs-who-don-t-return.md) · 2022-03-05
+- [Who Wrote the Dead Sea Scrolls?](015-who-wrote-the-dead-sea-scrolls.md) · 2022-03-06
+- [Counting Time: The  Dead Sea Scroll Essene Calendar Explained](016-counting-time-the-dead-sea-scroll-essene-calendar-explained.md) · 2022-03-09
+- [How the Dead Sea Scrolls "Bible" Differs from the Traditional Hebrew Text](018-how-the-dead-sea-scrolls-bible-differs-from-the-traditional.md) · 2022-03-14
+- [A Jesus Hideout in Jordan: Mapping Ancient Textual Traditions](019-a-jesus-hideout-in-jordan-mapping-ancient-textual-traditions.md) · 2022-03-18
+- [Part A Lecture: The Search for Jerusalem's Essene Gate and the Church of the Apostles](021-part-a-lecture-the-search-for-jerusalem-s-essene-gate-and-th.md) · 2022-03-23
+- [The Making of a Messiah](025-the-making-of-a-messiah.md) · 2022-04-09
+- [Tracking John the Baptizer and His Followers--Including Jesus!](032-tracking-john-the-baptizer-and-his-followers-including-jesus.md) · 2022-05-04
+- [The High Cost of Holiness--Toilets, the Torah, and the Dead Sea Scrolls](040-the-high-cost-of-holiness-toilets-the-torah-and-the-dead-sea.md) · 2022-05-26
+- [When Prophecy Fails: How Ancient Messianic Jews & Christians Survived Apocalyptic Disappointment](041-when-prophecy-fails-how-ancient-messianic-jews-christians-su.md) · 2022-06-09
+- [Was the Oldest and Most Significant Dead Sea Scroll Mistakenly Declared a Forgery in 1883?](042-was-the-oldest-and-most-significant-dead-sea-scroll-mistaken.md) · 2022-06-19
+- [30 Years Ago:  My Take on the Dead Sea Scrolls in 1992](052-30-years-ago-my-take-on-the-dead-sea-scrolls-in-1992.md) · 2022-09-13
+- [How Was Jesus a Son of King David?](058-how-was-jesus-a-son-of-king-david.md) · 2022-09-27
+- [A Lost and Forgotten Dead Sea Scroll?](066-a-lost-and-forgotten-dead-sea-scroll.md) · 2022-11-13
+- [Were Jesus and His First Followers Wrong About the End of the Age?](075-were-jesus-and-his-first-followers-wrong-about-the-end-of-th.md) · 2022-12-04
+- [Was Jesus a Follower of John the Baptizer? Why the Ancient Idea of Two Messiahs Was Suppressed](079-was-jesus-a-follower-of-john-the-baptizer-why-the-ancient-id.md) · 2022-12-12
+- [Jesus the Jew--Where Does He Fit in the Ancient Jewish Landscape?](083-jesus-the-jew-where-does-he-fit-in-the-ancient-jewish-landsc.md) · 2022-12-19
+- [The Religion of Jesus the Jew](122-the-religion-of-jesus-the-jew.md) · 2023-03-08
+- [Jesus the Baptizer](125-jesus-the-baptizer.md) · 2023-03-17
+- [One, Two, or Three Messiahs?](159-one-two-or-three-messiahs.md) · 2023-05-20
+- [How Jesus Came to View Himself as the Davidic Messiah](160-how-jesus-came-to-view-himself-as-the-davidic-messiah.md) · 2023-05-22
+- [How and When Jesus Identified with the Suffering Servant Idea](162-how-and-when-jesus-identified-with-the-suffering-servant-ide.md) · 2023-05-24
+- [Ask Dr  Tabor Anything--with Derek Lambert: Part I](168-ask-dr-tabor-anything-with-derek-lambert-part-i.md) · 2023-05-31
+- [My FINAL University Class: Understanding the  Dead Sea Scrolls with Dr.  Charlesworth](170-my-final-university-class-understanding-the-dead-sea-scrolls.md) · 2023-06-01
+- [Dateline November 1991: Our First Look at the Unpublished Dead Sea Scrolls](174-dateline-november-1991-our-first-look-at-the-unpublished-dea.md) · 2023-06-06
+- [Did the Essenes Write the Dead Sea Scrolls--What Can We Say After 75 Years?](177-did-the-essenes-write-the-dead-sea-scrolls-what-can-we-say-a.md) · 2023-06-11
+- [Death and Afterlife: The Origins of the Idea of Bodily Resurrection](192-death-and-afterlife-the-origins-of-the-idea-of-bodily-resurr.md) · 2023-07-11
+- [Bible Prophecy # 2  The First Messiah](206-bible-prophecy-2-the-first-messiah.md) · 2023-08-24
+- [Finding the Toilets of the Dead Sea Scroll Group:  A Life or Death Matter](221-finding-the-toilets-of-the-dead-sea-scroll-group-a-life-or-d.md) · 2023-09-29
+- [Do We Find Messianic Suffering in the Dead Sea Scrolls?](236-do-we-find-messianic-suffering-in-the-dead-sea-scrolls.md) · 2023-11-23
+- [Jesus and the Essene Movement--How Were They Related? An In Depth Conversation](238-jesus-and-the-essene-movement-how-were-they-related-an-in-de.md) · 2023-11-30
+- [What Do We Really Know About the "Teacher of Righteousness" in the Dead Sea Scrolls?](251-what-do-we-really-know-about-the-teacher-of-righteousness-in.md) · 2024-01-20
+- [Investigating the Messiah Before Jesus](253-investigating-the-messiah-before-jesus.md) · 2024-01-26
+- [Jesus Archaeology #9  The Forgotten Last Winter of Jesus' Life  Explored](255-jesus-archaeology-9-the-forgotten-last-winter-of-jesus-life.md) · 2024-02-04
+- [Robert Eisenman & the Dead Sea Scrolls:  Best Interview Ever!](256-robert-eisenman-the-dead-sea-scrolls-best-interview-ever.md) · 2024-02-05
+- [JesusArchaeology #12:  The Last Night of Jesus' Life](263-jesusarchaeology-12-the-last-night-of-jesus-life.md) · 2024-02-21
+- [The Dead Sea WAR SCROLL: The First Grand Example of Apocalyptic Failure!](312-the-dead-sea-war-scroll-the-first-grand-example-of-apocalypt.md) · 2024-05-28
+- [The Most Puzzling Dead Sea Scroll : Rebuilding the Jewish Temple at the End of the Age!](321-the-most-puzzling-dead-sea-scroll-rebuilding-the-jewish-temp.md) · 2024-06-30
+- [Dateline 1992: RARE Archive Footage on the Release of the Dead Sea Scrolls](360-dateline-1992-rare-archive-footage-on-the-release-of-the-dea.md) · 2025-01-02
+- [Top Ten Differences in the Dead Sea Scrolls Biblical Texts  and our Traditional Old Testament](362-top-ten-differences-in-the-dead-sea-scrolls-biblical-texts-a.md) · 2025-01-13
+- [Countdown: Top Ten Differences Dead Sea Scrolls & Traditional Old Testament Pt 1](363-countdown-top-ten-differences-dead-sea-scrolls-traditional-o.md) · 2025-01-22
+- [Countdown: Top Ten Differences Dead Sea Scrolls & Traditional Old Testament Pt 2](364-countdown-top-ten-differences-dead-sea-scrolls-traditional-o.md) · 2025-02-05
+- [The Didache: A Lost and Rediscovered Text of the Teaching of Jesus Pt 1](369-the-didache-a-lost-and-rediscovered-text-of-the-teaching-of.md) · 2025-02-26
+- [Exploring a More Historically Credible Version of Jesus' Last Supper](372-exploring-a-more-historically-credible-version-of-jesus-last.md) · 2025-03-20
+- [Were there Connections Between Jesus and the Dead Sea Scrolls Community?](392-were-there-connections-between-jesus-and-the-dead-sea-scroll.md) · 2025-05-09
+- [When Prophecy Fails: The Teacher of Righteousness in the Dead Sea Scrolls](394-when-prophecy-fails-the-teacher-of-righteousness-in-the-dead.md) · 2025-05-20
+- [What Was "Christianity" Like Before Paul?](395-what-was-christianity-like-before-paul.md) · 2025-05-21
+- [Dating the Dead Sea Scrolls--What About the Latest  AI and Carbon 14 Methods?](400-dating-the-dead-sea-scrolls-what-about-the-latest-ai-and-car.md) · 2025-06-05
+- [Did Jesus Know the Dead Sea Scroll Group?](404-did-jesus-know-the-dead-sea-scroll-group.md) · 2025-06-28
+- [My View of Biblical Faith After 45 Years of Academic Study](408-my-view-of-biblical-faith-after-45-years-of-academic-study.md) · 2025-07-18
+- [What's the Real Story on the Pharisees and Jesus--with Dr. Amy-Jill Levine?](421-what-s-the-real-story-on-the-pharisees-and-jesus-with-dr-amy.md) · 2025-08-29
+- [What Do We Really KNOW About the Historical  Jesus? An In-Depth Conversation with Dr. Justin Sledge](422-what-do-we-really-know-about-the-historical-jesus-an-in-dept.md) · 2025-08-30
+- [The Dead Sea Scroll Teacher, Jesus, and the Making of a Messiah](429-the-dead-sea-scroll-teacher-jesus-and-the-making-of-a-messia.md) · 2025-09-13
+- [Messianic Self-Identity: Did the Gospels Create Jesus or Jesus the Gospels?](431-messianic-self-identity-did-the-gospels-create-jesus-or-jesu.md) · 2025-10-04
+- [The Suba Cave of John the Baptizer BAS 2003](450-the-suba-cave-of-john-the-baptizer-bas-2003.md) · 2026-01-05
+- [What About Christianity Before Paul? A Conversation with Derek Lambert Pt 1](454-what-about-christianity-before-paul-a-conversation-with-dere.md) · 2026-01-22
+- [Is There Archaeological Evidence for Earliest Christianity?](455-is-there-archaeological-evidence-for-earliest-christianity.md) · 2026-01-28
+- [The Forgotten Ebionites--Found at Last!](465-the-forgotten-ebionites-found-at-last.md) · 2026-04-03
+- [Study the Dead Sea Scrolls!   Dr. James D. Tabor](471-study-the-dead-sea-scrolls-dr-james-d-tabor.md) · 2026-06-15
+- [Ebionites, Nazarenes, Essenes, Nasareans Sorting out the Names!](472-ebionites-nazarenes-essenes-nasareans-sorting-out-the-names.md) · 2026-06-17
+- [A Shared Utopian Vision? Enochians, Essenes, Ebionites, and Nazarenes](475-a-shared-utopian-vision-enochians-essenes-ebionites-and-naza.md) · 2026-07-07
+- [Bible Prophecy: The Perils of Predicting the End of the Age Part 1](background/104-bible-prophecy-the-perils-of-predicting-the-end-of-the-age-p.md) · 2023-02-04
+- [Bible Prophecy: The Perils of Predicting the End of the Age Part 2](background/107-bible-prophecy-the-perils-of-predicting-the-end-of-the-age-p.md) · 2023-02-11
+- [Reading Genesis Again--for the First Time!](background/143-reading-genesis-again-for-the-first-time.md) · 2023-04-17
+- [The Five Unfulfilled Redemptive Themes of Isaiah Chapters 40-66](background/146-the-five-unfulfilled-redemptive-themes-of-isaiah-chapters-40.md) · 2023-04-25
+- [WHY Prophecy Fails: A New Series](background/203-why-prophecy-fails-a-new-series.md) · 2023-08-16
+- [Bible Prophecy #1  Believing Through the Ages](background/204-bible-prophecy-1-believing-through-the-ages.md) · 2023-08-18
+- [Bible Prophecy # 3: Has the Most Foundational Prophecy of the Bible Failed?](background/208-bible-prophecy-3-has-the-most-foundational-prophecy-of-the-b.md) · 2023-08-29
+- [Bible Prophecy # 5  The Fundamental Flaw of Popular Christian Prophecy Beliefs](background/210-bible-prophecy-5-the-fundamental-flaw-of-popular-christian-p.md) · 2023-09-07
+- [Bible Prophecy # 7 Inventing the AntiChrist](background/212-bible-prophecy-7-inventing-the-antichrist.md) · 2023-09-13
+- [Bible Prophecy # 14--Floating Prophesies: A Final Siege Of Jerusalem?](background/226-bible-prophecy-14-floating-prophesies-a-final-siege-of-jerus.md) · 2023-10-26
+- [Bible Prophecy # 20--Can We Recover a Non-Jesus Version of the Book of Revelation?](background/231-bible-prophecy-20-can-we-recover-a-non-jesus-version-of-the.md) · 2023-11-10
+- [How Popular Christian Prophecy Belief Was Made Fail-Safe!](background/306-how-popular-christian-prophecy-belief-was-made-fail-safe.md) · 2024-05-19
+
+### john-the-baptist (60)
+
+- [The Jesus Dynasty: Author's Personal Introduction](006-the-jesus-dynasty-author-s-personal-introduction.md) · 2022-01-20
+- [Excavating Jesus  Making Dead Stones Speak](011-excavating-jesus-making-dead-stones-speak.md) · 2022-02-17
+- [How, When, and Why John the Baptizer Was Marginalized in Early Christianity](012-how-when-and-why-john-the-baptizer-was-marginalized-in-early.md) · 2022-02-23
+- [Who Wrote the Dead Sea Scrolls?](015-who-wrote-the-dead-sea-scrolls.md) · 2022-03-06
+- [How the Dead Sea Scrolls "Bible" Differs from the Traditional Hebrew Text](018-how-the-dead-sea-scrolls-bible-differs-from-the-traditional.md) · 2022-03-14
+- [A Jesus Hideout in Jordan: Mapping Ancient Textual Traditions](019-a-jesus-hideout-in-jordan-mapping-ancient-textual-traditions.md) · 2022-03-18
+- [The Making of a Messiah](025-the-making-of-a-messiah.md) · 2022-04-09
+- [Tracking John the Baptizer and His Followers--Including Jesus!](032-tracking-john-the-baptizer-and-his-followers-including-jesus.md) · 2022-05-04
+- [How Does Hebrew Matthew Compare with Greek Matthew in the New Testament?](033-how-does-hebrew-matthew-compare-with-greek-matthew-in-the-ne.md) · 2022-05-05
+- [When Prophecy Fails: How Ancient Messianic Jews & Christians Survived Apocalyptic Disappointment](041-when-prophecy-fails-how-ancient-messianic-jews-christians-su.md) · 2022-06-09
+- [30 Years Ago:  My Take on the Dead Sea Scrolls in 1992](052-30-years-ago-my-take-on-the-dead-sea-scrolls-in-1992.md) · 2022-09-13
+- [Was Jesus a Follower of John the Baptizer? Why the Ancient Idea of Two Messiahs Was Suppressed](079-was-jesus-a-follower-of-john-the-baptizer-why-the-ancient-id.md) · 2022-12-12
+- [Jesus the Jew--Where Does He Fit in the Ancient Jewish Landscape?](083-jesus-the-jew-where-does-he-fit-in-the-ancient-jewish-landsc.md) · 2022-12-19
+- [How Paul, Not Jesus, Created Christian Baptism and the Eucharist](087-how-paul-not-jesus-created-christian-baptism-and-the-euchari.md) · 2022-12-31
+- [That Other King of the Jews: Part 2](110-that-other-king-of-the-jews-part-2.md) · 2023-02-21
+- [Two Hours with Barbara DeLong--The Historical Jesus](118-two-hours-with-barbara-delong-the-historical-jesus.md) · 2023-03-01
+- [The Religion of Jesus the Jew](122-the-religion-of-jesus-the-jew.md) · 2023-03-08
+- [Was John the Baptizer Greater Than Jesus?](123-was-john-the-baptizer-greater-than-jesus.md) · 2023-03-12
+- [Mark Is our Earliest Jesus Story--How We Know and Why it Matters!](124-mark-is-our-earliest-jesus-story-how-we-know-and-why-it-matt.md) · 2023-03-14
+- [Digging Mt Zion Jerusalem and the Suba John the Baptist Cave](151-digging-mt-zion-jerusalem-and-the-suba-john-the-baptist-cave.md) · 2023-05-08
+- [How Jesus Came to View Himself as the Davidic Messiah](160-how-jesus-came-to-view-himself-as-the-davidic-messiah.md) · 2023-05-22
+- [Jesus' Plan for Taking over the Kingdoms of the World](161-jesus-plan-for-taking-over-the-kingdoms-of-the-world.md) · 2023-05-23
+- [How and When Jesus Identified with the Suffering Servant Idea](162-how-and-when-jesus-identified-with-the-suffering-servant-ide.md) · 2023-05-24
+- [Dateline November 1991: Our First Look at the Unpublished Dead Sea Scrolls](174-dateline-november-1991-our-first-look-at-the-unpublished-dea.md) · 2023-06-06
+- [Did the Essenes Write the Dead Sea Scrolls--What Can We Say After 75 Years?](177-did-the-essenes-write-the-dead-sea-scrolls-what-can-we-say-a.md) · 2023-06-11
+- [Let's Read Together the So Called "Lost Gospel of Q"](201-let-s-read-together-the-so-called-lost-gospel-of-q.md) · 2023-08-12
+- [Bible Prophecy # 2  The First Messiah](206-bible-prophecy-2-the-first-messiah.md) · 2023-08-24
+- [My Greatest Discovery: A Jesus Hideout in Jordan](223-my-greatest-discovery-a-jesus-hideout-in-jordan.md) · 2023-10-03
+- [Jesus and the Essene Movement--How Were They Related? An In Depth Conversation](238-jesus-and-the-essene-movement-how-were-they-related-an-in-de.md) · 2023-11-30
+- [Jesus Archaeology #3  A Forgotten City--the Urban World of Jesus](247-jesus-archaeology-3-a-forgotten-city-the-urban-world-of-jesu.md) · 2024-01-03
+- [Jesus Archaeology # 4 Exploring 1st Century Nazareth in the Time of Jesus  What's the Evidence?](248-jesus-archaeology-4-exploring-1st-century-nazareth-in-the-ti.md) · 2024-01-07
+- [Exploring the Lost Cave of John the Baptizer](249-exploring-the-lost-cave-of-john-the-baptizer.md) · 2024-01-11
+- [Jesus Archaeology # 6 Exploring the "Ground Zero" HQ for the Jesus Movement](250-jesus-archaeology-6-exploring-the-ground-zero-hq-for-the-jes.md) · 2024-01-16
+- [Jesus Archaeology # 8 Does the Gospel of John Have any Worthwhile Historical Evidence?](254-jesus-archaeology-8-does-the-gospel-of-john-have-any-worthwh.md) · 2024-01-29
+- [Jesus Archaeology #9  The Forgotten Last Winter of Jesus' Life  Explored](255-jesus-archaeology-9-the-forgotten-last-winter-of-jesus-life.md) · 2024-02-04
+- [Robert Eisenman & the Dead Sea Scrolls:  Best Interview Ever!](256-robert-eisenman-the-dead-sea-scrolls-best-interview-ever.md) · 2024-02-05
+- [Jesus' Final Week: Day Three--The Secret of the Kingdom Revealed at Last!](282-jesus-final-week-day-three-the-secret-of-the-kingdom-reveale.md) · 2024-03-27
+- [Was  Jesus a Poor, Illiterate, Itinerant, Peasant?](354-was-jesus-a-poor-illiterate-itinerant-peasant.md) · 2024-12-17
+- [Top Ten Differences in the Dead Sea Scrolls Biblical Texts  and our Traditional Old Testament](362-top-ten-differences-in-the-dead-sea-scrolls-biblical-texts-a.md) · 2025-01-13
+- [Countdown: Top Ten Differences Dead Sea Scrolls & Traditional Old Testament Pt 2](364-countdown-top-ten-differences-dead-sea-scrolls-traditional-o.md) · 2025-02-05
+- [Expanding Q--Recovering  a Gospel written BEFORE our Gospels?](366-expanding-q-recovering-a-gospel-written-before-our-gospels.md) · 2025-02-18
+- [Were there Connections Between Jesus and the Dead Sea Scrolls Community?](392-were-there-connections-between-jesus-and-the-dead-sea-scroll.md) · 2025-05-09
+- [When Prophecy Fails: The Teacher of Righteousness in the Dead Sea Scrolls](394-when-prophecy-fails-the-teacher-of-righteousness-in-the-dead.md) · 2025-05-20
+- [How Historical Methods Get us Closer to the Real Jesus](413-how-historical-methods-get-us-closer-to-the-real-jesus.md) · 2025-07-28
+- [What Do We Really KNOW About the Historical  Jesus? An In-Depth Conversation with Dr. Justin Sledge](422-what-do-we-really-know-about-the-historical-jesus-an-in-dept.md) · 2025-08-30
+- [Prof. Goodacre: Why the Missing Pieces in our Gospel Stories are so Important](423-prof-goodacre-why-the-missing-pieces-in-our-gospel-stories-a.md) · 2025-09-03
+- [What Kind of a Jew Was Jesus?  Dr  Joel Marcus on "Jesus and the Law"](424-what-kind-of-a-jew-was-jesus-dr-joel-marcus-on-jesus-and-the.md) · 2025-09-05
+- [Was John the Baptist Greater than Jesus?](430-was-john-the-baptist-greater-than-jesus.md) · 2025-09-15
+- [The Fading of the Jesus Family: Finale and Summing Up](432-the-fading-of-the-jesus-family-finale-and-summing-up.md) · 2025-10-12
+- [John  Crossan and James Tabor : A Conversation on Lives, Careers, and Historical Jesus Studies](439-john-crossan-and-james-tabor-a-conversation-on-lives-careers.md) · 2025-11-07
+- [The Suba Cave of John the Baptizer BAS 2003](450-the-suba-cave-of-john-the-baptizer-bas-2003.md) · 2026-01-05
+- [The Suba Cave of John the Baptizer 2023](451-the-suba-cave-of-john-the-baptizer-2023.md) · 2026-01-05
+- [What About Christianity Before Paul? A Conversation with Derek Lambert Pt 1](454-what-about-christianity-before-paul-a-conversation-with-dere.md) · 2026-01-22
+- [Is There Archaeological Evidence for Earliest Christianity?](455-is-there-archaeological-evidence-for-earliest-christianity.md) · 2026-01-28
+- [The Forgotten Ebionites--Found at Last!](465-the-forgotten-ebionites-found-at-last.md) · 2026-04-03
+- [Tabor at the River Jordan--Was John Greater than Jesus?](470-tabor-at-the-river-jordan-was-john-greater-than-jesus.md) · 2026-06-12
+- [Study the Dead Sea Scrolls!   Dr. James D. Tabor](471-study-the-dead-sea-scrolls-dr-james-d-tabor.md) · 2026-06-15
+- [John the Baptist and Jesus:  Separating History from Myth](473-john-the-baptist-and-jesus-separating-history-from-myth.md) · 2026-07-01
+- [The Five Unfulfilled Redemptive Themes of Isaiah Chapters 40-66](background/146-the-five-unfulfilled-redemptive-themes-of-isaiah-chapters-40.md) · 2023-04-25
+- [Bible Prophecy # 20--Can We Recover a Non-Jesus Version of the Book of Revelation?](background/231-bible-prophecy-20-can-we-recover-a-non-jesus-version-of-the.md) · 2023-11-10
+
+### mary (46)
+
+- [Resurrecting Mary Magdalene](010-resurrecting-mary-magdalene.md) · 2022-02-16
+- [How, When, and Why John the Baptizer Was Marginalized in Early Christianity](012-how-when-and-why-john-the-baptizer-was-marginalized-in-early.md) · 2022-02-23
+- [Are Mary Magdalene and Mary of Bethany the Same Woman?](027-are-mary-magdalene-and-mary-of-bethany-the-same-woman.md) · 2022-04-14
+- [The Real Mary: The Marginalization and Transformation of  the Jewish Mother of Jesus](030-the-real-mary-the-marginalization-and-transformation-of-the.md) · 2022-04-26
+- [Mary's Pregnancy— Imagining the Best](035-mary-s-pregnancy-imagining-the-best.md) · 2022-05-11
+- [The Jesus Dynasty--Why the Royal Family of Jesus was Forgotten](037-the-jesus-dynasty-why-the-royal-family-of-jesus-was-forgotte.md) · 2022-05-16
+- [Mary Magdalene  Disciple, Companion, or Wife of Jesus?](039-mary-magdalene-disciple-companion-or-wife-of-jesus.md) · 2022-05-21
+- [A Virgin Shall Conceive](057-a-virgin-shall-conceive.md) · 2022-09-21
+- [How Was Jesus a Son of King David?](058-how-was-jesus-a-son-of-king-david.md) · 2022-09-27
+- [Did Jesus Have a Biological Father? Sorting Out the Pantera Traditions](077-did-jesus-have-a-biological-father-sorting-out-the-pantera-t.md) · 2022-12-09
+- [Disparaging Jesus: Roman Gossip and Jewish Legend](089-disparaging-jesus-roman-gossip-and-jewish-legend.md) · 2023-01-05
+- [A Unnamed Father of Jesus](155-a-unnamed-father-of-jesus.md) · 2023-05-15
+- [Does Matthew Support the Virgin Birth of Jesus? Let's Take a Closer Look!](156-does-matthew-support-the-virgin-birth-of-jesus-let-s-take-a.md) · 2023-05-16
+- [Children of a Different Father--Mother Mary and Her Band of Seven](157-children-of-a-different-father-mother-mary-and-her-band-of-s.md) · 2023-05-18
+- [One, Two, or Three Messiahs?](159-one-two-or-three-messiahs.md) · 2023-05-20
+- [How the Jewish Mother of Jesus Was Transformed into the Virgin Mother of God!](200-how-the-jewish-mother-of-jesus-was-transformed-into-the-virg.md) · 2023-08-10
+- [A Biblical Time Machine: Let's Meet Mary Again--for the First Time!](241-a-biblical-time-machine-let-s-meet-mary-again-for-the-first.md) · 2023-12-11
+- [Jesus Archaeology #3  A Forgotten City--the Urban World of Jesus](247-jesus-archaeology-3-a-forgotten-city-the-urban-world-of-jesu.md) · 2024-01-03
+- [Jesus' Final Week: Day Four--Who Anointed Jesus as Messiah?](283-jesus-final-week-day-four-who-anointed-jesus-as-messiah.md) · 2024-03-28
+- [From Jewish Mother of Jesus to Virgin Mother of God: A Discussion and Dialogue](336-from-jewish-mother-of-jesus-to-virgin-mother-of-god-a-discus.md) · 2024-08-29
+- [The Lost Tomb of Jesus--A Critical Look from All Sides!](346-the-lost-tomb-of-jesus-a-critical-look-from-all-sides.md) · 2024-10-11
+- [The Fading of the Jesus Family--Phase One](411-the-fading-of-the-jesus-family-phase-one.md) · 2025-07-25
+- [Prof. Goodacre: Why the Missing Pieces in our Gospel Stories are so Important](423-prof-goodacre-why-the-missing-pieces-in-our-gospel-stories-a.md) · 2025-09-03
+- [The Fading of the Jesus Family Phase Three :  An Ever-Virgin Mary?](427-the-fading-of-the-jesus-family-phase-three-an-ever-virgin-ma.md) · 2025-09-09
+- [Jacob Berman Interview: The Lost Mary Part 1](433-jacob-berman-interview-the-lost-mary-part-1.md) · 2025-10-18
+- [Jacob Berman Interview: The Lost Mary Part 2](434-jacob-berman-interview-the-lost-mary-part-2.md) · 2025-10-21
+- [John Crossan and James Tabor Conversation: The Lost Mary](436-john-crossan-and-james-tabor-conversation-the-lost-mary.md) · 2025-10-29
+- [Jacob Berman Interview: The Lost Mary Part 3](437-jacob-berman-interview-the-lost-mary-part-3.md) · 2025-10-31
+- [How Mary Lost her Sexuality!](440-how-mary-lost-her-sexuality.md) · 2025-11-13
+- [Megan Lewis Interview: The Lost Mary](441-megan-lewis-interview-the-lost-mary.md) · 2025-11-30
+- [Aaron Abke Interview: The Lost Mary](442-aaron-abke-interview-the-lost-mary.md) · 2025-12-02
+- [Dr. Robert L.  Kuhn Interview: The Lost Mary](443-dr-robert-l-kuhn-interview-the-lost-mary.md) · 2025-12-04
+- [James Tabor Slide Show Lecture: The Lost Mary](444-james-tabor-slide-show-lecture-the-lost-mary.md) · 2025-12-04
+- [Helen Bond: Biblical Time Machine Interview: The Lost Mary](446-helen-bond-biblical-time-machine-interview-the-lost-mary.md) · 2025-12-10
+- [John Batchelor "CBS Eye on the World" Interview: The Lost Mary](447-john-batchelor-cbs-eye-on-the-world-interview-the-lost-mary.md) · 2025-12-22
+- [The Suba Cave of John the Baptizer BAS 2003](450-the-suba-cave-of-john-the-baptizer-bas-2003.md) · 2026-01-05
+- [The Suba Cave of John the Baptizer 2023](451-the-suba-cave-of-john-the-baptizer-2023.md) · 2026-01-05
+- [Is a Quest for the Historical Mary, Mother of Jesus, Possible?](452-is-a-quest-for-the-historical-mary-mother-of-jesus-possible.md) · 2026-01-12
+- [Mary Mother of Jesus: My Archeological Journey of Discovery](457-mary-mother-of-jesus-my-archeological-journey-of-discovery.md) · 2026-02-04
+- [Academic Lecture: "The Lost Mary" at  the 2026  International Symposium on Archaeology and the Bible](459-academic-lecture-the-lost-mary-at-the-2026-international-sym.md) · 2026-02-17
+- [Sam Tideman Interview: The Lost Mary](460-sam-tideman-interview-the-lost-mary.md) · 2026-02-22
+- [A "Deep Dive" Dialogue on Tabor's Take on the Historical Mary](462-a-deep-dive-dialogue-on-tabor-s-take-on-the-historical-mary.md) · 2026-02-28
+- [Evangelist Johnny Ova Interview: The Lost Mary](463-evangelist-johnny-ova-interview-the-lost-mary.md) · 2026-03-07
+- [A Band of Sisters: The  Forgotten Treasure of the EARLY Jesus Movement!](464-a-band-of-sisters-the-forgotten-treasure-of-the-early-jesus.md) · 2026-03-18
+- [When Heaven Replaced Earth](468-when-heaven-replaced-earth.md) · 2026-05-24
+- [My First Catholic Audience: Presenting the Historical Mary to Catholic Sisters](477-my-first-catholic-audience-presenting-the-historical-mary-to.md) · 2026-07-27
+
+### jesus-family (82)
+
+- [The Jesus Dynasty: Author's Personal Introduction](006-the-jesus-dynasty-author-s-personal-introduction.md) · 2022-01-20
+- [Erasing James the Brother of Jesus from the New Testament](009-erasing-james-the-brother-of-jesus-from-the-new-testament.md) · 2022-02-16
+- [Resurrecting Mary Magdalene](010-resurrecting-mary-magdalene.md) · 2022-02-16
+- [Excavating Jesus  Making Dead Stones Speak](011-excavating-jesus-making-dead-stones-speak.md) · 2022-02-17
+- [The James Ossuary--Getting the Facts Straight](017-the-james-ossuary-getting-the-facts-straight.md) · 2022-03-12
+- [Is There Credible Archaeological Evidence Related to the Earliest Jesus Followers?](020-is-there-credible-archaeological-evidence-related-to-the-ear.md) · 2022-03-21
+- [Tracing the Last Days of Jesus The Latest Archaeological Evidence](026-tracing-the-last-days-of-jesus-the-latest-archaeological-evi.md) · 2022-04-10
+- [The Jerusalem Talpiot "Jesus" Tombs  An Overview of the Discoveries](028-the-jerusalem-talpiot-jesus-tombs-the-discoveries.md) · 2022-04-21
+- [King of the Jews: A Tale of Two Dynasties and Two Burials](029-king-of-the-jews-a-tale-of-two-dynasties-and-two-burials.md) · 2022-04-24
+- [The Real Mary: The Marginalization and Transformation of  the Jewish Mother of Jesus](030-the-real-mary-the-marginalization-and-transformation-of-the.md) · 2022-04-26
+- [Jesus and the Boys--Forgotten Brothers and Apostles](034-jesus-and-the-boys-forgotten-brothers-and-apostles.md) · 2022-05-09
+- [Mary's Pregnancy— Imagining the Best](035-mary-s-pregnancy-imagining-the-best.md) · 2022-05-11
+- [The Jesus Dynasty--Why the Royal Family of Jesus was Forgotten](037-the-jesus-dynasty-why-the-royal-family-of-jesus-was-forgotte.md) · 2022-05-16
+- [Mary Magdalene  Disciple, Companion, or Wife of Jesus?](039-mary-magdalene-disciple-companion-or-wife-of-jesus.md) · 2022-05-21
+- [A Tale of Two Tombs--Part One:The Tomb of the Shroud](049-a-tale-of-two-tombs-part-one-the-tomb-of-the-shroud.md) · 2022-08-30
+- [A Tale of Two Tombs-Part Two: The James Ossuary & The Talpiot Jesus Tomb](050-a-tale-of-two-tombs-part-two-the-james-ossuary-the-talpiot-j.md) · 2022-08-31
+- [Was Jesus' Final Burial in the Galilee?](053-was-jesus-final-burial-in-the-galilee.md) · 2022-09-14
+- [A Virgin Shall Conceive](057-a-virgin-shall-conceive.md) · 2022-09-21
+- [How Was Jesus a Son of King David?](058-how-was-jesus-a-son-of-king-david.md) · 2022-09-27
+- [If You Want to Follow Jesus: Go To James the Just](059-if-you-want-to-follow-jesus-go-to-james-the-just.md) · 2022-10-04
+- [James the Just--His Teachings and Tragic Death](061-james-the-just-his-teachings-and-tragic-death.md) · 2022-10-14
+- [Might Jews, Christians, and Muslims Find A New Unity By Recovering the Historical Jesus?](067-might-jews-christians-and-muslims-find-a-new-unity-by-recove.md) · 2022-11-14
+- [What's the Latest on the "James son of Joseph brother of Jesus" Ossuary--Is it Authentic?](070-what-s-the-latest-on-the-james-son-of-joseph-brother-of-jesu.md) · 2022-11-22
+- [Who Was James the Brother of the Lord?](073-who-was-james-the-brother-of-the-lord.md) · 2022-11-30
+- [Did Jesus Have a Biological Father? Sorting Out the Pantera Traditions](077-did-jesus-have-a-biological-father-sorting-out-the-pantera-t.md) · 2022-12-09
+- [Was Jesus a Follower of John the Baptizer? Why the Ancient Idea of Two Messiahs Was Suppressed](079-was-jesus-a-follower-of-john-the-baptizer-why-the-ancient-id.md) · 2022-12-12
+- [Disparaging Jesus: Roman Gossip and Jewish Legend](089-disparaging-jesus-roman-gossip-and-jewish-legend.md) · 2023-01-05
+- [The Lost Years of Jesus Revealed at Last!](108-the-lost-years-of-jesus-revealed-at-last.md) · 2023-02-16
+- [That Other King of the Jews: Part 2](110-that-other-king-of-the-jews-part-2.md) · 2023-02-21
+- [Two Hours with Barbara DeLong--The Historical Jesus](118-two-hours-with-barbara-delong-the-historical-jesus.md) · 2023-03-01
+- [Two More Hours with Barbara DeLong: Have the Tombs of the Jesus Family Been Found?](120-two-more-hours-with-barbara-delong-have-the-tombs-of-the-jes.md) · 2023-03-04
+- [The Religion of Jesus the Jew](122-the-religion-of-jesus-the-jew.md) · 2023-03-08
+- [Final Days of Jesus:  Digging into the Sources](131-final-days-of-jesus-digging-into-the-sources.md) · 2023-04-02
+- [Last Days of Jesus: Entering the Lions Den](132-last-days-of-jesus-entering-the-lions-den.md) · 2023-04-03
+- [That Most Wretched of Deaths--The Murder of Jesus of Nazareth](134-that-most-wretched-of-deaths-the-murder-of-jesus-of-nazareth.md) · 2023-04-06
+- [A Unnamed Father of Jesus](155-a-unnamed-father-of-jesus.md) · 2023-05-15
+- [Does Matthew Support the Virgin Birth of Jesus? Let's Take a Closer Look!](156-does-matthew-support-the-virgin-birth-of-jesus-let-s-take-a.md) · 2023-05-16
+- [Children of a Different Father--Mother Mary and Her Band of Seven](157-children-of-a-different-father-mother-mary-and-her-band-of-s.md) · 2023-05-18
+- [One, Two, or Three Messiahs?](159-one-two-or-three-messiahs.md) · 2023-05-20
+- [Jesus' Plan for Taking over the Kingdoms of the World](161-jesus-plan-for-taking-over-the-kingdoms-of-the-world.md) · 2023-05-23
+- [Discovering a Secret "Jesus Hideout" in Jordan--Jesus' Last Winter](164-discovering-a-secret-jesus-hideout-in-jordan-jesus-last-wint.md) · 2023-05-26
+- [Finding a Jesus Before Christianity--Why the Quest Matters](165-finding-a-jesus-before-christianity-why-the-quest-matters.md) · 2023-05-27
+- [Jesus son of Pantera:  Ancient Slander or Historical Probability?](172-jesus-son-of-pantera-ancient-slander-or-historical-probabili.md) · 2023-06-04
+- [How the Jewish Mother of Jesus Was Transformed into the Virgin Mother of God!](200-how-the-jewish-mother-of-jesus-was-transformed-into-the-virg.md) · 2023-08-10
+- [A Biblical Time Machine: Let's Meet Mary Again--for the First Time!](241-a-biblical-time-machine-let-s-meet-mary-again-for-the-first.md) · 2023-12-11
+- [Jesus Archaeology # 1 Ten Jerusalem Tombs from the Time of Jesus--Exciting  New Evidence!](245-jesus-archaeology-1-ten-jerusalem-tombs-from-the-time-of-jes.md) · 2023-12-21
+- [Jesus Archaeology #3  A Forgotten City--the Urban World of Jesus](247-jesus-archaeology-3-a-forgotten-city-the-urban-world-of-jesu.md) · 2024-01-03
+- [Jesus Archaeology # 4 Exploring 1st Century Nazareth in the Time of Jesus  What's the Evidence?](248-jesus-archaeology-4-exploring-1st-century-nazareth-in-the-ti.md) · 2024-01-07
+- [Jesus Archaeology # 6 Exploring the "Ground Zero" HQ for the Jesus Movement](250-jesus-archaeology-6-exploring-the-ground-zero-hq-for-the-jes.md) · 2024-01-16
+- [Jesus Archaeology #7 Excavating  Magdala:  Is this the 1st Century Town of Mary Magdalene? #migdal](252-jesus-archaeology-7-excavating-magdala-is-this-the-1st-centu.md) · 2024-01-24
+- [Jesus Archaeology # 14 New Archaeological Evidence on Jesus' Crucifixion and Burial](268-jesus-archaeology-14-new-archaeological-evidence-on-jesus-cr.md) · 2024-02-27
+- [How James [Yaaqov] Beloved Brother of Jesus Was Written out of Early Christianity](320-how-james-yaaqov-beloved-brother-of-jesus-was-written-out-of.md) · 2024-06-30
+- [From Jewish Mother of Jesus to Virgin Mother of God: A Discussion and Dialogue](336-from-jewish-mother-of-jesus-to-virgin-mother-of-god-a-discus.md) · 2024-08-29
+- [The Lost Tomb of Jesus--A Critical Look from All Sides!](346-the-lost-tomb-of-jesus-a-critical-look-from-all-sides.md) · 2024-10-11
+- [Was  Jesus a Poor, Illiterate, Itinerant, Peasant?](354-was-jesus-a-poor-illiterate-itinerant-peasant.md) · 2024-12-17
+- [The ONLY  Authentic 1st Century Burial Shroud Ever Found in Jerusalem!](401-the-only-authentic-1st-century-burial-shroud-ever-found-in-j.md) · 2025-06-15
+- [The Fading of the Jesus Family--Phase One](411-the-fading-of-the-jesus-family-phase-one.md) · 2025-07-25
+- [The Fading of the Jesus Family:  Phase Two](419-the-fading-of-the-jesus-family-phase-two.md) · 2025-08-25
+- [Prof. Goodacre: Why the Missing Pieces in our Gospel Stories are so Important](423-prof-goodacre-why-the-missing-pieces-in-our-gospel-stories-a.md) · 2025-09-03
+- [The Fading of the Jesus Family Phase Three :  An Ever-Virgin Mary?](427-the-fading-of-the-jesus-family-phase-three-an-ever-virgin-ma.md) · 2025-09-09
+- [The Fading of the Jesus Family: Finale and Summing Up](432-the-fading-of-the-jesus-family-finale-and-summing-up.md) · 2025-10-12
+- [Jacob Berman Interview: The Lost Mary Part 1](433-jacob-berman-interview-the-lost-mary-part-1.md) · 2025-10-18
+- [Jacob Berman Interview: The Lost Mary Part 2](434-jacob-berman-interview-the-lost-mary-part-2.md) · 2025-10-21
+- [John Crossan and James Tabor Conversation: The Lost Mary](436-john-crossan-and-james-tabor-conversation-the-lost-mary.md) · 2025-10-29
+- [Jacob Berman Interview: The Lost Mary Part 3](437-jacob-berman-interview-the-lost-mary-part-3.md) · 2025-10-31
+- [How Mary Lost her Sexuality!](440-how-mary-lost-her-sexuality.md) · 2025-11-13
+- [Megan Lewis Interview: The Lost Mary](441-megan-lewis-interview-the-lost-mary.md) · 2025-11-30
+- [Aaron Abke Interview: The Lost Mary](442-aaron-abke-interview-the-lost-mary.md) · 2025-12-02
+- [Dr. Robert L.  Kuhn Interview: The Lost Mary](443-dr-robert-l-kuhn-interview-the-lost-mary.md) · 2025-12-04
+- [James Tabor Slide Show Lecture: The Lost Mary](444-james-tabor-slide-show-lecture-the-lost-mary.md) · 2025-12-04
+- [Helen Bond: Biblical Time Machine Interview: The Lost Mary](446-helen-bond-biblical-time-machine-interview-the-lost-mary.md) · 2025-12-10
+- [John Batchelor "CBS Eye on the World" Interview: The Lost Mary](447-john-batchelor-cbs-eye-on-the-world-interview-the-lost-mary.md) · 2025-12-22
+- [Is a Quest for the Historical Mary, Mother of Jesus, Possible?](452-is-a-quest-for-the-historical-mary-mother-of-jesus-possible.md) · 2026-01-12
+- [What About Christianity Before Paul? A Conversation with Derek Lambert Pt 2](456-what-about-christianity-before-paul-a-conversation-with-dere.md) · 2026-01-30
+- [Mary Mother of Jesus: My Archeological Journey of Discovery](457-mary-mother-of-jesus-my-archeological-journey-of-discovery.md) · 2026-02-04
+- [Academic Lecture: "The Lost Mary" at  the 2026  International Symposium on Archaeology and the Bible](459-academic-lecture-the-lost-mary-at-the-2026-international-sym.md) · 2026-02-17
+- [Sam Tideman Interview: The Lost Mary](460-sam-tideman-interview-the-lost-mary.md) · 2026-02-22
+- [A "Deep Dive" Dialogue on Tabor's Take on the Historical Mary](462-a-deep-dive-dialogue-on-tabor-s-take-on-the-historical-mary.md) · 2026-02-28
+- [Evangelist Johnny Ova Interview: The Lost Mary](463-evangelist-johnny-ova-interview-the-lost-mary.md) · 2026-03-07
+- [A Band of Sisters: The  Forgotten Treasure of the EARLY Jesus Movement!](464-a-band-of-sisters-the-forgotten-treasure-of-the-early-jesus.md) · 2026-03-18
+- [Tabor at the River Jordan--Was John Greater than Jesus?](470-tabor-at-the-river-jordan-was-john-greater-than-jesus.md) · 2026-06-12
+- [My First Catholic Audience: Presenting the Historical Mary to Catholic Sisters](477-my-first-catholic-audience-presenting-the-historical-mary-to.md) · 2026-07-27
+
+### resurrection (84)
+
+- [Resurrecting Mary Magdalene](010-resurrecting-mary-magdalene.md) · 2022-02-16
+- [Excavating Jesus  Making Dead Stones Speak](011-excavating-jesus-making-dead-stones-speak.md) · 2022-02-17
+- [Dead Messiahs Who Don't Return](014-dead-messiahs-who-don-t-return.md) · 2022-03-05
+- [Who Wrote the Dead Sea Scrolls?](015-who-wrote-the-dead-sea-scrolls.md) · 2022-03-06
+- [Is There Credible Archaeological Evidence Related to the Earliest Jesus Followers?](020-is-there-credible-archaeological-evidence-related-to-the-ear.md) · 2022-03-21
+- [The Jerusalem Talpiot "Jesus" Tombs  An Overview of the Discoveries](028-the-jerusalem-talpiot-jesus-tombs-the-discoveries.md) · 2022-04-21
+- [King of the Jews: A Tale of Two Dynasties and Two Burials](029-king-of-the-jews-a-tale-of-two-dynasties-and-two-burials.md) · 2022-04-24
+- [The Bad Idea that Took Over the World](036-the-bad-idea-that-took-over-the-world.md) · 2022-05-13
+- [Mary Magdalene  Disciple, Companion, or Wife of Jesus?](039-mary-magdalene-disciple-companion-or-wife-of-jesus.md) · 2022-05-21
+- [30 Years Ago:  My Take on the Dead Sea Scrolls in 1992](052-30-years-ago-my-take-on-the-dead-sea-scrolls-in-1992.md) · 2022-09-13
+- [Was Jesus' Final Burial in the Galilee?](053-was-jesus-final-burial-in-the-galilee.md) · 2022-09-14
+- [Six Minutes on How Resurrection Faith Was Born](054-six-minutes-on-how-resurrection-faith-was-born.md) · 2022-09-16
+- [Following the God of Israel After Jerusalem's Destruction--The Earliest  Surviving Jewish Text Text](068-following-the-god-of-israel-after-jerusalem-s-destruction-th.md) · 2022-11-15
+- [Were Jesus and His First Followers Wrong About the End of the Age?](075-were-jesus-and-his-first-followers-wrong-about-the-end-of-th.md) · 2022-12-04
+- [Weeping and Mourning Through Easter--How, When, and Where Faith in Jesus' Resurrection Really Began](078-weeping-and-mourning-through-easter-how-when-and-where-faith.md) · 2022-12-11
+- [Creating Jesus--Why Mark's Gospel Was Forgotten](091-creating-jesus-why-mark-s-gospel-was-forgotten.md) · 2023-01-12
+- [How Christian Apologists Unintentionally DESTROY the Gospels](092-how-christian-apologists-unintentionally-destroy-the-gospels.md) · 2023-01-15
+- [The Mysticism and Message of Paul--Cosmic Transformation](103-the-mysticism-and-message-of-paul-cosmic-transformation.md) · 2023-02-03
+- [Three Forgeries vs. One Genuine:  How Did Mark's Gospel  Originally End?](114-three-forgeries-vs-one-genuine-how-did-mark-s-gospel-origina.md) · 2023-02-24
+- [Two More Hours with Barbara DeLong: Have the Tombs of the Jesus Family Been Found?](120-two-more-hours-with-barbara-delong-have-the-tombs-of-the-jes.md) · 2023-03-04
+- [Final Days of Jesus:  Digging into the Sources](131-final-days-of-jesus-digging-into-the-sources.md) · 2023-04-02
+- [Dead, Twice Buried, and An Empty Tomb?](137-dead-twice-buried-and-an-empty-tomb.md) · 2023-04-08
+- [Did the Author of Mark's Gospel Think Jesus Was God?](140-did-the-author-of-mark-s-gospel-think-jesus-was-god.md) · 2023-04-12
+- [What Was Paul's View of Salvation?  It's Not What You Think!](145-what-was-paul-s-view-of-salvation-it-s-not-what-you-think.md) · 2023-04-21
+- [Ask Dr  Tabor Anything--with Derek Lambert: Part I](168-ask-dr-tabor-anything-with-derek-lambert-part-i.md) · 2023-05-31
+- [Ask Dr Tabor Anythng--with Derek Lambert Part II](169-ask-dr-tabor-anythng-with-derek-lambert-part-ii.md) · 2023-06-01
+- [Dateline November 1991: Our First Look at the Unpublished Dead Sea Scrolls](174-dateline-november-1991-our-first-look-at-the-unpublished-dea.md) · 2023-06-06
+- [Death and Afterlife: The Origins of the Idea of Bodily Resurrection](192-death-and-afterlife-the-origins-of-the-idea-of-bodily-resurr.md) · 2023-07-11
+- [Death & Afterlife: Jesus' Empty Tomb? Just the Facts Please!](194-death-afterlife-jesus-empty-tomb-just-the-facts-please.md) · 2023-07-17
+- [Why Evangelical Christians Ignore  the Earliest and only 1st-Person Testimony to Jesus' Resurrection](199-why-evangelical-christians-ignore-the-earliest-and-only-1st.md) · 2023-08-07
+- [Bible Prophecy #11 Did the Jesus Apocalypse Fail?](222-bible-prophecy-11-did-the-jesus-apocalypse-fail.md) · 2023-10-01
+- [Is the Holiest Site of Christianity in the Wrong Location?](232-is-the-holiest-site-of-christianity-in-the-wrong-location.md) · 2023-11-12
+- [Jesus Archaeology # 1 Ten Jerusalem Tombs from the Time of Jesus--Exciting  New Evidence!](245-jesus-archaeology-1-ten-jerusalem-tombs-from-the-time-of-jes.md) · 2023-12-21
+- [Jesus Archaeology #7 Excavating  Magdala:  Is this the 1st Century Town of Mary Magdalene? #migdal](252-jesus-archaeology-7-excavating-magdala-is-this-the-1st-centu.md) · 2024-01-24
+- [Investigating the Messiah Before Jesus](253-investigating-the-messiah-before-jesus.md) · 2024-01-26
+- [The Lost Gospel of Mark](260-the-lost-gospel-of-mark.md) · 2024-02-16
+- [Jesus Archaeology # 14 New Archaeological Evidence on Jesus' Crucifixion and Burial](268-jesus-archaeology-14-new-archaeological-evidence-on-jesus-cr.md) · 2024-02-27
+- [Three Earliest Resurrection Texts--Ignored, Overlooked, and Forgotten!](271-three-earliest-resurrection-texts-ignored-overlooked-and-for.md) · 2024-03-06
+- [How Christian Apologists Violate the Integrity of the Gospels Pt 2](279-how-christian-apologists-violate-the-integrity-of-the-gospel.md) · 2024-03-25
+- [Jesus' Final Week: Day Three--The Secret of the Kingdom Revealed at Last!](282-jesus-final-week-day-three-the-secret-of-the-kingdom-reveale.md) · 2024-03-27
+- [The Religious Idea that Took Over the World](285-the-religious-idea-that-took-over-the-world.md) · 2024-03-31
+- [Top Seven Fateful New Testament Texts The Time of the End Has Drawn Very Near! (7)](300-top-seven-fateful-new-testament-texts-the-time-of-the-end-ha.md) · 2024-05-03
+- [Was Jesus a Failed Apocayptic Messiah?  Standing in the Shadow of Schweitzer](301-was-jesus-a-failed-apocayptic-messiah-standing-in-the-shadow.md) · 2024-05-06
+- [The Dead Sea WAR SCROLL: The First Grand Example of Apocalyptic Failure!](312-the-dead-sea-war-scroll-the-first-grand-example-of-apocalypt.md) · 2024-05-28
+- [Lost in Translation:The Redeemer in the Book of Job is NOT Jesus!](316-lost-in-translation-the-redeemer-in-the-book-of-job-is-not-j.md) · 2024-06-17
+- [Is Historical Biblical Scholarship Destructive or Constructive? Dr. Robyn Walsh Weighs In. . .](333-is-historical-biblical-scholarship-destructive-or-constructi.md) · 2024-08-23
+- [The Lost Tomb of Jesus--A Critical Look from All Sides!](346-the-lost-tomb-of-jesus-a-critical-look-from-all-sides.md) · 2024-10-11
+- [Inventing Heaven and Hell--The Bible and the Afterlife](352-inventing-heaven-and-hell-the-bible-and-the-afterlife.md) · 2024-12-04
+- [Jesus' Resurrection  Physical or Spiritual? What Do our Earliest Texts Really Say?](358-jesus-resurrection-physical-or-spiritual-what-do-our-earlies.md) · 2024-12-28
+- [Countdown: Top Ten Differences Dead Sea Scrolls & Traditional Old Testament Pt 2](364-countdown-top-ten-differences-dead-sea-scrolls-traditional-o.md) · 2025-02-05
+- [Identifying Gospel Interpolations: Can You Spot These SEVEN?](371-identifying-gospel-interpolations-can-you-spot-these-seven.md) · 2025-03-17
+- [Was Jesus Naked at His Resurrection?](373-was-jesus-naked-at-his-resurrection.md) · 2025-03-23
+- [Last Days of Jesus--Pt 4: Dead and Twice Buried](380-last-days-of-jesus-pt-4-dead-and-twice-buried.md) · 2025-04-16
+- [Weeping Through Easter: A Credible Historical Reconstruction of What Most Likely Happened](381-weeping-through-easter-a-credible-historical-reconstruction.md) · 2025-04-20
+- [The Gospel Texts  That All Major Christian Apologists for Jesus' Resurrection Have Misinterpreted!](382-the-gospel-texts-that-all-major-christian-apologists-for-jes.md) · 2025-04-25
+- [Would  Jesus Followers Venerate a Tomb with His Corpse Inside?](383-would-jesus-followers-venerate-a-tomb-with-his-corpse-inside.md) · 2025-04-28
+- [Five Final Post-Easter Questions for Dr  Tabor](384-five-final-post-easter-questions-for-dr-tabor.md) · 2025-04-29
+- [Why I Don't Judge Another's Religious Experience](387-why-i-don-t-judge-another-s-religious-experience.md) · 2025-05-01
+- [Did the Early Christians Keep Sunday as a New Sabbath Day?](388-did-the-early-christians-keep-sunday-as-a-new-sabbath-day.md) · 2025-05-01
+- [Go with Me into the 1st century Jerusalem Tomb of the Shroud!](390-go-with-me-into-the-1st-century-jerusalem-tomb-of-the-shroud.md) · 2025-05-03
+- [Is the Jesus Story Modeled after a Typical Hellenistic Divine Man Matrix](396-is-the-jesus-story-modeled-after-a-typical-hellenistic-divin.md) · 2025-05-25
+- [The ONLY  Authentic 1st Century Burial Shroud Ever Found in Jerusalem!](401-the-only-authentic-1st-century-burial-shroud-ever-found-in-j.md) · 2025-06-15
+- [Is Mark the  Earliest Surviving  JEWISH Text  after the JerusalemTemple Was Destroyed?](407-is-mark-the-earliest-surviving-jewish-text-after-the-jerusal.md) · 2025-07-13
+- [Why Abrahamic  Faith is NOT a Religion](417-why-abrahamic-faith-is-not-a-religion.md) · 2025-08-16
+- [John  Crossan and James Tabor : A Conversation on Lives, Careers, and Historical Jesus Studies](439-john-crossan-and-james-tabor-a-conversation-on-lives-careers.md) · 2025-11-07
+- [Why You Probably Have Never Heard of Bishop Theophilus of Antioch!](449-why-you-probably-have-never-heard-of-bishop-theophilus-of-an.md) · 2025-12-30
+- [Is There Archaeological Evidence for Earliest Christianity?](455-is-there-archaeological-evidence-for-earliest-christianity.md) · 2026-01-28
+- [A Band of Sisters: The  Forgotten Treasure of the EARLY Jesus Movement!](464-a-band-of-sisters-the-forgotten-treasure-of-the-early-jesus.md) · 2026-03-18
+- [Did Jesus Teach Eternal Hell Fire?](474-did-jesus-teach-eternal-hell-fire.md) · 2026-07-03
+- [The Single Idea that Transformed ALL Biblical Faiths!](480-the-single-idea-that-transformed-all-biblical-faiths.md) · 2026-09-15
+- [Did the First Witnesses Believe that Jesus' Body Left the Tomb?](483-did-the-first-witnesses-believe-that-jesus-body-left-the-tom.md) · 2026-10-20
+- [What the Bible Really Says About Death, Afterlife, and Resurrection?](background/044-what-the-bible-really-says-about-death-afterlife-and-resurre.md) · 2022-07-25
+- [Bible Prophecy: The Perils of Predicting the End of the Age Part 1](background/104-bible-prophecy-the-perils-of-predicting-the-end-of-the-age-p.md) · 2023-02-04
+- [Death & Afterlife: The Ancient Hebrew View](background/186-death-afterlife-the-ancient-hebrew-view.md) · 2023-06-26
+- [Death & Afterlife: A Hebrew Revolution](background/191-death-afterlife-a-hebrew-revolution.md) · 2023-07-08
+- [Death & Afterlife: Loose Ends & Caveats](background/196-death-afterlife-loose-ends-caveats.md) · 2023-07-25
+- [Bible Prophecy # 6--Does the Longest Prophecy in the Bible "Foretell" Events After They Happened?](background/211-bible-prophecy-6-does-the-longest-prophecy-in-the-bible-fore.md) · 2023-09-09
+- [Bible Prophecy # 15--The "Isaiah Apocalypse" A Hidden Book of the Bible](background/227-bible-prophecy-15-the-isaiah-apocalypse-a-hidden-book-of-the.md) · 2023-10-27
+- [Bible Prophecy #17  Strange Bedfellows--Where Bible Scholars and Christian Prophecy Believers Agree!](background/228-bible-prophecy-17-strange-bedfellows-where-bible-scholars-an.md) · 2023-10-31
+- [Bible Prophecy # 18 The Wars of Gog and Magog --When, Where, What?](background/229-bible-prophecy-18-the-wars-of-gog-and-magog-when-where-what.md) · 2023-11-03
+- [Bible Prophecy # 23 The Fatal Flaw of Popular Christian Prophecy Belief](background/235-bible-prophecy-23-the-fatal-flaw-of-popular-christian-prophe.md) · 2023-11-23
+- [Bible Prophecy # 25  FINALE: Fundamental Fatal  Flaws of Most Prophecy Interpretations Today](background/240-bible-prophecy-25-finale-fundamental-fatal-flaws-of-most-pro.md) · 2023-12-09
+- [Lost in Translation--Lovers of the King James Version Take Note!](background/328-lost-in-translation-lovers-of-the-king-james-version-take-no.md) · 2024-08-08
+- [Outside the Gates of Eden: The Hebrew  View of Life, Death, and the Future](background/453-outside-the-gates-of-eden-the-hebrew-view-of-life-death-and.md) · 2026-01-18
+
+### afterlife-hell (40)
+
+- [How and When Did Satan Become the God of this World?](024-how-and-when-did-satan-become-the-god-of-this-world.md) · 2022-04-04
+- [The Bad Idea that Took Over the World](036-the-bad-idea-that-took-over-the-world.md) · 2022-05-13
+- [Jesus the Jew--Where Does He Fit in the Ancient Jewish Landscape?](083-jesus-the-jew-where-does-he-fit-in-the-ancient-jewish-landsc.md) · 2022-12-19
+- [The Mysticism and Message of Paul--Cosmic Transformation](103-the-mysticism-and-message-of-paul-cosmic-transformation.md) · 2023-02-03
+- [What Was Paul's View of Salvation?  It's Not What You Think!](145-what-was-paul-s-view-of-salvation-it-s-not-what-you-think.md) · 2023-04-21
+- [Ask Dr Tabor Anythng--with Derek Lambert Part II](169-ask-dr-tabor-anythng-with-derek-lambert-part-ii.md) · 2023-06-01
+- [Death and Afterlife: The Origins of the Idea of Bodily Resurrection](192-death-and-afterlife-the-origins-of-the-idea-of-bodily-resurr.md) · 2023-07-11
+- [Death & Afterlife: Jesus' Empty Tomb? Just the Facts Please!](194-death-afterlife-jesus-empty-tomb-just-the-facts-please.md) · 2023-07-17
+- [The Religious Idea that Took Over the World](285-the-religious-idea-that-took-over-the-world.md) · 2024-03-31
+- [Is There a Single Chapter that Sums Up the Entire Bible?](293-is-there-a-single-chapter-that-sums-up-the-entire-bible.md) · 2024-04-21
+- [Lost in Translation:The Redeemer in the Book of Job is NOT Jesus!](316-lost-in-translation-the-redeemer-in-the-book-of-job-is-not-j.md) · 2024-06-17
+- [Jonathan Z  Smith: The Core Idea I Learned  from the Greatest Historian of Religion of our Time!](344-jonathan-z-smith-the-core-idea-i-learned-from-the-greatest-h.md) · 2024-10-04
+- [Understanding the Forbidden Fruit:  Why There is NO FALL of Humankind in Genesis](345-understanding-the-forbidden-fruit-why-there-is-no-fall-of-hu.md) · 2024-10-07
+- [Inventing Heaven and Hell--The Bible and the Afterlife](352-inventing-heaven-and-hell-the-bible-and-the-afterlife.md) · 2024-12-04
+- [Jesus' Resurrection  Physical or Spiritual? What Do our Earliest Texts Really Say?](358-jesus-resurrection-physical-or-spiritual-what-do-our-earlies.md) · 2024-12-28
+- [Five Final Post-Easter Questions for Dr  Tabor](384-five-final-post-easter-questions-for-dr-tabor.md) · 2025-04-29
+- [Restoring Abrahamic Faith Again--For the First Time!](391-restoring-abrahamic-faith-again-for-the-first-time.md) · 2025-05-05
+- [Abrahamic Hebrew Faith:  God Talk](412-abrahamic-hebrew-faith-god-talk.md) · 2025-07-27
+- [Why Abrahamic  Faith is NOT a Religion](417-why-abrahamic-faith-is-not-a-religion.md) · 2025-08-16
+- [When Heaven Replaced Earth](468-when-heaven-replaced-earth.md) · 2026-05-24
+- [Did Jesus Teach Eternal Hell Fire?](474-did-jesus-teach-eternal-hell-fire.md) · 2026-07-03
+- [The Single Idea that Transformed ALL Biblical Faiths!](480-the-single-idea-that-transformed-all-biblical-faiths.md) · 2026-09-15
+- [Did the First Witnesses Believe that Jesus' Body Left the Tomb?](483-did-the-first-witnesses-believe-that-jesus-body-left-the-tom.md) · 2026-10-20
+- [What the Bible Really Says About Death, Afterlife, and Resurrection?](background/044-what-the-bible-really-says-about-death-afterlife-and-resurre.md) · 2022-07-25
+- [Five Forgotten Concepts from the Book of Genesis](background/106-five-forgotten-concepts-from-the-book-of-genesis.md) · 2023-02-09
+- [Reading Genesis Again--for the First Time!](background/143-reading-genesis-again-for-the-first-time.md) · 2023-04-17
+- [New Series: Death, Afterlife, and the Future](background/183-new-series-death-afterlife-and-the-future.md) · 2023-06-21
+- [Death & Afterlife: The Ancient Hebrew View](background/186-death-afterlife-the-ancient-hebrew-view.md) · 2023-06-26
+- [Death & Afterlife : Ancient Babylonian Views](background/187-death-afterlife-ancient-babylonian-views.md) · 2023-06-28
+- [Death & Afterlife:  From Homer to Plato--Overturning the World](background/188-death-afterlife-from-homer-to-plato-overturning-the-world.md) · 2023-06-30
+- [Special Segment: The Tomb Artifact that Changed the World](background/189-special-segment-the-tomb-artifact-that-changed-the-world.md) · 2023-06-30
+- [Death & Afterlife: Ancient Egyptian Views](background/190-death-afterlife-ancient-egyptian-views.md) · 2023-07-04
+- [Death & Afterlife: A Hebrew Revolution](background/191-death-afterlife-a-hebrew-revolution.md) · 2023-07-08
+- [Death & Afterlife: Loose Ends & Caveats](background/196-death-afterlife-loose-ends-caveats.md) · 2023-07-25
+- [Bible Prophecy # 15--The "Isaiah Apocalypse" A Hidden Book of the Bible](background/227-bible-prophecy-15-the-isaiah-apocalypse-a-hidden-book-of-the.md) · 2023-10-27
+- [Bible Prophecy # 18 The Wars of Gog and Magog --When, Where, What?](background/229-bible-prophecy-18-the-wars-of-gog-and-magog-when-where-what.md) · 2023-11-03
+- [Bible Prophecy # 22 Twenty-First  Century  Expectations--Putting it ALL Together!](background/234-bible-prophecy-22-twenty-first-century-expectations-putting.md) · 2023-11-20
+- [Lost in Translation: Did Adam Have an Immortal Soul?](background/315-lost-in-translation-did-adam-have-an-immortal-soul.md) · 2024-06-13
+- [Lost in Translation--Lovers of the King James Version Take Note!](background/328-lost-in-translation-lovers-of-the-king-james-version-take-no.md) · 2024-08-08
+- [Outside the Gates of Eden: The Hebrew  View of Life, Death, and the Future](background/453-outside-the-gates-of-eden-the-hebrew-view-of-life-death-and.md) · 2026-01-18
+
+### torah (75)
+
+- [Who is a Jew? Paul's Transformation of Jewish Identity](008-who-is-a-jew-paul-s-transformation-of-jewish-identity.md) · 2022-01-30
+- [Who Wrote the Dead Sea Scrolls?](015-who-wrote-the-dead-sea-scrolls.md) · 2022-03-06
+- [Counting Time: The  Dead Sea Scroll Essene Calendar Explained](016-counting-time-the-dead-sea-scroll-essene-calendar-explained.md) · 2022-03-09
+- [How the Dead Sea Scrolls "Bible" Differs from the Traditional Hebrew Text](018-how-the-dead-sea-scrolls-bible-differs-from-the-traditional.md) · 2022-03-14
+- [The High Cost of Holiness--Toilets, the Torah, and the Dead Sea Scrolls](040-the-high-cost-of-holiness-toilets-the-torah-and-the-dead-sea.md) · 2022-05-26
+- [Was the Oldest and Most Significant Dead Sea Scroll Mistakenly Declared a Forgery in 1883?](042-was-the-oldest-and-most-significant-dead-sea-scroll-mistaken.md) · 2022-06-19
+- [A Lost and Forgotten Dead Sea Scroll?](066-a-lost-and-forgotten-dead-sea-scroll.md) · 2022-11-13
+- [Might Jews, Christians, and Muslims Find A New Unity By Recovering the Historical Jesus?](067-might-jews-christians-and-muslims-find-a-new-unity-by-recove.md) · 2022-11-14
+- [Following the God of Israel After Jerusalem's Destruction--The Earliest  Surviving Jewish Text Text](068-following-the-god-of-israel-after-jerusalem-s-destruction-th.md) · 2022-11-15
+- [Jesus the Jew--Where Does He Fit in the Ancient Jewish Landscape?](083-jesus-the-jew-where-does-he-fit-in-the-ancient-jewish-landsc.md) · 2022-12-19
+- [Why I Think Jesus Was a Vegetarian](084-why-i-think-jesus-was-a-vegetarian.md) · 2022-12-21
+- [How Paul, Not Jesus, Created Christian Baptism and the Eucharist](087-how-paul-not-jesus-created-christian-baptism-and-the-euchari.md) · 2022-12-31
+- [Were the Ebionites Heretics? Or Our Best Witness to the Jesus Movement?](090-were-the-ebionites-heretics-or-our-best-witness-to-the-jesus.md) · 2023-01-09
+- [How Christian Apologists Unintentionally DESTROY the Gospels](092-how-christian-apologists-unintentionally-destroy-the-gospels.md) · 2023-01-15
+- [Paul Williams Interview Part 3: Was Jesus a Torah Observant Jew? Its Complicated!](095-paul-williams-interview-part-3-was-jesus-a-torah-observant-j.md) · 2023-01-22
+- [Did Earliest Jewish-Christianity Influence Islam?](096-did-earliest-jewish-christianity-influence-islam.md) · 2023-01-25
+- [How and Why Matthew and Luke Destroy Mark](097-how-and-why-matthew-and-luke-destroy-mark.md) · 2023-01-26
+- [The Lost Years of Jesus Revealed at Last!](108-the-lost-years-of-jesus-revealed-at-last.md) · 2023-02-16
+- [How Matthew and Luke Abuse Mark's Gospel?](113-how-matthew-and-luke-abuse-mark-s-gospel.md) · 2023-02-23
+- [The Religion of Jesus the Jew](122-the-religion-of-jesus-the-jew.md) · 2023-03-08
+- [Mark Is our Earliest Jesus Story--How We Know and Why it Matters!](124-mark-is-our-earliest-jesus-story-how-we-know-and-why-it-matt.md) · 2023-03-14
+- [Did the Author of Mark's Gospel Think Jesus Was God?](140-did-the-author-of-mark-s-gospel-think-jesus-was-god.md) · 2023-04-12
+- [Children of a Different Father--Mother Mary and Her Band of Seven](157-children-of-a-different-father-mother-mary-and-her-band-of-s.md) · 2023-05-18
+- [Finding a Jesus Before Christianity--Why the Quest Matters](165-finding-a-jesus-before-christianity-why-the-quest-matters.md) · 2023-05-27
+- [Following James the Brother of Jesus Out of Christianity](167-following-james-the-brother-of-jesus-out-of-christianity.md) · 2023-05-29
+- [Did the Essenes Write the Dead Sea Scrolls--What Can We Say After 75 Years?](177-did-the-essenes-write-the-dead-sea-scrolls-what-can-we-say-a.md) · 2023-06-11
+- [Finding the Toilets of the Dead Sea Scroll Group:  A Life or Death Matter](221-finding-the-toilets-of-the-dead-sea-scroll-group-a-life-or-d.md) · 2023-09-29
+- [Jesus and the Essene Movement--How Were They Related? An In Depth Conversation](238-jesus-and-the-essene-movement-how-were-they-related-an-in-de.md) · 2023-11-30
+- [Jesus Archaeology # 4 Exploring 1st Century Nazareth in the Time of Jesus  What's the Evidence?](248-jesus-archaeology-4-exploring-1st-century-nazareth-in-the-ti.md) · 2024-01-07
+- [What Do We Really Know About the "Teacher of Righteousness" in the Dead Sea Scrolls?](251-what-do-we-really-know-about-the-teacher-of-righteousness-in.md) · 2024-01-20
+- [Five Examples of How  Christian Apologists Violate the Integrity of the Gospels! Pt 1](277-five-examples-of-how-christian-apologists-violate-the-integr.md) · 2024-03-24
+- [Is There a Single Chapter that Sums Up the Entire Bible?](293-is-there-a-single-chapter-that-sums-up-the-entire-bible.md) · 2024-04-21
+- [The Most Puzzling Dead Sea Scroll : Rebuilding the Jewish Temple at the End of the Age!](321-the-most-puzzling-dead-sea-scroll-rebuilding-the-jewish-temp.md) · 2024-06-30
+- [Lost in Translation: A Bit of Toilet Humor From Jesus that Everyone  Misses!](324-lost-in-translation-a-bit-of-toilet-humor-from-jesus-that-ev.md) · 2024-07-16
+- [Understanding the Forbidden Fruit:  Why There is NO FALL of Humankind in Genesis](345-understanding-the-forbidden-fruit-why-there-is-no-fall-of-hu.md) · 2024-10-07
+- [Is This the Earliest Source for the Teachings of Jesus?](351-is-this-the-earliest-source-for-the-teachings-of-jesus.md) · 2024-12-02
+- [The Forgotten Gospel According to James, Brother of Jesus](361-the-forgotten-gospel-according-to-james-brother-of-jesus.md) · 2025-01-11
+- [Top Ten Differences in the Dead Sea Scrolls Biblical Texts  and our Traditional Old Testament](362-top-ten-differences-in-the-dead-sea-scrolls-biblical-texts-a.md) · 2025-01-13
+- [Countdown: Top Ten Differences Dead Sea Scrolls & Traditional Old Testament Pt 1](363-countdown-top-ten-differences-dead-sea-scrolls-traditional-o.md) · 2025-01-22
+- [Countdown: Top Ten Differences Dead Sea Scrolls & Traditional Old Testament Pt 2](364-countdown-top-ten-differences-dead-sea-scrolls-traditional-o.md) · 2025-02-05
+- [Expanding Q--Recovering  a Gospel written BEFORE our Gospels?](366-expanding-q-recovering-a-gospel-written-before-our-gospels.md) · 2025-02-18
+- [The Big Five Questions on Paul: My Responses](367-the-big-five-questions-on-paul-my-responses.md) · 2025-02-20
+- [Part 2: The Didache: A Lost and Rediscovered Text of the Teaching of Jesus](370-part-2-the-didache-a-lost-and-rediscovered-text-of-the-teach.md) · 2025-03-10
+- [Last Days of Jesus Pt 2--What Got Him Killed?](377-last-days-of-jesus-pt-2-what-got-him-killed.md) · 2025-04-10
+- [Palm Sunday, Passover, Lord's Supper, Good Friday, Easter Sunday--Getting the Facts Straight!](379-palm-sunday-passover-lord-s-supper-good-friday-easter-sunday.md) · 2025-04-13
+- [Did the Early Christians Keep Sunday as a New Sabbath Day?](388-did-the-early-christians-keep-sunday-as-a-new-sabbath-day.md) · 2025-05-01
+- [Restoring Abrahamic Faith Again--For the First Time!](391-restoring-abrahamic-faith-again-for-the-first-time.md) · 2025-05-05
+- [Were there Connections Between Jesus and the Dead Sea Scrolls Community?](392-were-there-connections-between-jesus-and-the-dead-sea-scroll.md) · 2025-05-09
+- [But Dr. Tabor What do YOU Believe?](393-but-dr-tabor-what-do-you-believe.md) · 2025-05-19
+- [Is Mark the  Earliest Surviving  JEWISH Text  after the JerusalemTemple Was Destroyed?](407-is-mark-the-earliest-surviving-jewish-text-after-the-jerusal.md) · 2025-07-13
+- [My View of Biblical Faith After 45 Years of Academic Study](408-my-view-of-biblical-faith-after-45-years-of-academic-study.md) · 2025-07-18
+- [Abrahamic Hebrew Faith:  God Talk](412-abrahamic-hebrew-faith-god-talk.md) · 2025-07-27
+- [The Ebionites:  Heretics or Original Followers of Jesus?](414-the-ebionites-heretics-or-original-followers-of-jesus.md) · 2025-08-01
+- [Why Abrahamic  Faith is NOT a Religion](417-why-abrahamic-faith-is-not-a-religion.md) · 2025-08-16
+- [What's the Real Story on the Pharisees and Jesus--with Dr. Amy-Jill Levine?](421-what-s-the-real-story-on-the-pharisees-and-jesus-with-dr-amy.md) · 2025-08-29
+- [What Kind of a Jew Was Jesus?  Dr  Joel Marcus on "Jesus and the Law"](424-what-kind-of-a-jew-was-jesus-dr-joel-marcus-on-jesus-and-the.md) · 2025-09-05
+- [Did Jesus Reject Biblical  Laws of Ritual Purity? Dr  Paula Fredriksen](426-did-jesus-reject-biblical-laws-of-ritual-purity-dr-paula-fre.md) · 2025-09-07
+- [Jews, Christians, and Muslims--What is the Historic Abrahamic Faith?](435-jews-christians-and-muslims-what-is-the-historic-abrahamic-f.md) · 2025-10-28
+- [Why You Probably Have Never Heard of Bishop Theophilus of Antioch!](449-why-you-probably-have-never-heard-of-bishop-theophilus-of-an.md) · 2025-12-30
+- [The Forgotten Ebionites--Found at Last!](465-the-forgotten-ebionites-found-at-last.md) · 2026-04-03
+- [John the Baptist and Jesus:  Separating History from Myth](473-john-the-baptist-and-jesus-separating-history-from-myth.md) · 2026-07-01
+- [A Shared Utopian Vision? Enochians, Essenes, Ebionites, and Nazarenes](475-a-shared-utopian-vision-enochians-essenes-ebionites-and-naza.md) · 2026-07-07
+- [Are You Lost in Translation? Reading Genesis in a New Light](background/099-are-you-lost-in-translation-reading-genesis-in-a-new-light.md) · 2023-01-28
+- [Five Forgotten Concepts from the Book of Genesis](background/106-five-forgotten-concepts-from-the-book-of-genesis.md) · 2023-02-09
+- [Bible Prophecy # 12: Five Great Themes of the Hebrew Prophets](background/109-bible-prophecy-12-five-great-themes-of-the-hebrew-prophets.md) · 2023-02-19
+- [Reading Genesis Again--for the First Time!](background/143-reading-genesis-again-for-the-first-time.md) · 2023-04-17
+- [Death & Afterlife: The Ancient Hebrew View](background/186-death-afterlife-the-ancient-hebrew-view.md) · 2023-06-26
+- [Death & Afterlife : Ancient Babylonian Views](background/187-death-afterlife-ancient-babylonian-views.md) · 2023-06-28
+- [Bible Prophecy #10--Is the Messiah Predicted in the Torah?](background/220-bible-prophecy-10-is-the-messiah-predicted-in-the-torah.md) · 2023-09-28
+- [Most Bible Prophecy Is Not About a Future Apocalyptic End of the World](background/305-most-bible-prophecy-is-not-about-a-future-apocalyptic-end-of.md) · 2024-05-18
+- [Lost in Translation: Genesis 1 is NOT About the Creation of the World!](background/309-lost-in-translation-genesis-1-is-not-about-the-creation-of-t.md) · 2024-05-23
+- [Lost in Translation: The Jerusalem Temple as a Den of Ravenous Wild Beasts!](background/314-lost-in-translation-the-jerusalem-temple-as-a-den-of-ravenou.md) · 2024-06-05
+- [Lost in Translation: Did Adam Have an Immortal Soul?](background/315-lost-in-translation-did-adam-have-an-immortal-soul.md) · 2024-06-13
+- [Identifying Bible Interpolations: The False Pen of the Scribes!](background/317-identifying-bible-interpolations-the-false-pen-of-the-scribe.md) · 2024-06-20
+- [Outside the Gates of Eden: The Hebrew  View of Life, Death, and the Future](background/453-outside-the-gates-of-eden-the-hebrew-view-of-life-death-and.md) · 2026-01-18
+
+### sacrifice (34)
+
+- [Tracing the Last Days of Jesus The Latest Archaeological Evidence](026-tracing-the-last-days-of-jesus-the-latest-archaeological-evi.md) · 2022-04-10
+- [Following the God of Israel After Jerusalem's Destruction--The Earliest  Surviving Jewish Text Text](068-following-the-god-of-israel-after-jerusalem-s-destruction-th.md) · 2022-11-15
+- [Jesus the Jew--Where Does He Fit in the Ancient Jewish Landscape?](083-jesus-the-jew-where-does-he-fit-in-the-ancient-jewish-landsc.md) · 2022-12-19
+- [Why I Think Jesus Was a Vegetarian](084-why-i-think-jesus-was-a-vegetarian.md) · 2022-12-21
+- [Were the Ebionites Heretics? Or Our Best Witness to the Jesus Movement?](090-were-the-ebionites-heretics-or-our-best-witness-to-the-jesus.md) · 2023-01-09
+- [The Lost Years of Jesus Revealed at Last!](108-the-lost-years-of-jesus-revealed-at-last.md) · 2023-02-16
+- [Last Days of Jesus: Entering the Lions Den](132-last-days-of-jesus-entering-the-lions-den.md) · 2023-04-03
+- [The Historical Truth about the Last Supper--At Last!](133-the-historical-truth-about-the-last-supper-at-last.md) · 2023-04-05
+- [Jesus Archaeology # 10 The Day Jesus Sealed His Fate!](259-jesus-archaeology-10-the-day-jesus-sealed-his-fate.md) · 2024-02-14
+- [Jesus Archaeology #11: Jesus Final Week--A  Virtual Tour!](261-jesus-archaeology-11-jesus-final-week-a-virtual-tour.md) · 2024-02-18
+- [How Christian Apologists Violate the Integrity of the Gospels Pt 2](279-how-christian-apologists-violate-the-integrity-of-the-gospel.md) · 2024-03-25
+- [Jesus Final Week: Day Two--Temple Shutdown and Plot to Kill](280-jesus-final-week-day-two-temple-shutdown-and-plot-to-kill.md) · 2024-03-25
+- [Bonus Interview: Jesus' Final Week:  Day Two--Temple Shutdown](281-bonus-interview-jesus-final-week-day-two-temple-shutdown.md) · 2024-03-27
+- [Jesus' Final Week: Day Three--The Secret of the Kingdom Revealed at Last!](282-jesus-final-week-day-three-the-secret-of-the-kingdom-reveale.md) · 2024-03-27
+- [Lost in Translation:  Are Humans Really Desperately Wicked Sinners?](313-lost-in-translation-are-humans-really-desperately-wicked-sin.md) · 2024-06-03
+- [How James [Yaaqov] Beloved Brother of Jesus Was Written out of Early Christianity](320-how-james-yaaqov-beloved-brother-of-jesus-was-written-out-of.md) · 2024-06-30
+- [The Most Puzzling Dead Sea Scroll : Rebuilding the Jewish Temple at the End of the Age!](321-the-most-puzzling-dead-sea-scroll-rebuilding-the-jewish-temp.md) · 2024-06-30
+- [The Didache: A Lost and Rediscovered Text of the Teaching of Jesus Pt 1](369-the-didache-a-lost-and-rediscovered-text-of-the-teaching-of.md) · 2025-02-26
+- [Last Days of Jesus Pt 2--What Got Him Killed?](377-last-days-of-jesus-pt-2-what-got-him-killed.md) · 2025-04-10
+- [Were there Connections Between Jesus and the Dead Sea Scrolls Community?](392-were-there-connections-between-jesus-and-the-dead-sea-scroll.md) · 2025-05-09
+- [What Was "Christianity" Like Before Paul?](395-what-was-christianity-like-before-paul.md) · 2025-05-21
+- [Is Mark the  Earliest Surviving  JEWISH Text  after the JerusalemTemple Was Destroyed?](407-is-mark-the-earliest-surviving-jewish-text-after-the-jerusal.md) · 2025-07-13
+- [Abrahamic Hebrew Faith:  God Talk](412-abrahamic-hebrew-faith-god-talk.md) · 2025-07-27
+- [The Ebionites:  Heretics or Original Followers of Jesus?](414-the-ebionites-heretics-or-original-followers-of-jesus.md) · 2025-08-01
+- [Did Jesus Reject Biblical  Laws of Ritual Purity? Dr  Paula Fredriksen](426-did-jesus-reject-biblical-laws-of-ritual-purity-dr-paula-fre.md) · 2025-09-07
+- [The Dead Sea Scroll Teacher, Jesus, and the Making of a Messiah](429-the-dead-sea-scroll-teacher-jesus-and-the-making-of-a-messia.md) · 2025-09-13
+- [Messianic Self-Identity: Did the Gospels Create Jesus or Jesus the Gospels?](431-messianic-self-identity-did-the-gospels-create-jesus-or-jesu.md) · 2025-10-04
+- [Jews, Christians, and Muslims--What is the Historic Abrahamic Faith?](435-jews-christians-and-muslims-what-is-the-historic-abrahamic-f.md) · 2025-10-28
+- [A Shared Utopian Vision? Enochians, Essenes, Ebionites, and Nazarenes](475-a-shared-utopian-vision-enochians-essenes-ebionites-and-naza.md) · 2026-07-07
+- [The Five Unfulfilled Redemptive Themes of Isaiah Chapters 40-66](background/146-the-five-unfulfilled-redemptive-themes-of-isaiah-chapters-40.md) · 2023-04-25
+- [Bible Prophecy #4 Why the End Should Have Come in 164 BC](background/209-bible-prophecy-4-why-the-end-should-have-come-in-164-bc.md) · 2023-09-02
+- [Bible Prophecy # 6--Does the Longest Prophecy in the Bible "Foretell" Events After They Happened?](background/211-bible-prophecy-6-does-the-longest-prophecy-in-the-bible-fore.md) · 2023-09-09
+- [Lost in Translation: The Jerusalem Temple as a Den of Ravenous Wild Beasts!](background/314-lost-in-translation-the-jerusalem-temple-as-a-den-of-ravenou.md) · 2024-06-05
+- [Identifying Bible Interpolations: The False Pen of the Scribes!](background/317-identifying-bible-interpolations-the-false-pen-of-the-scribe.md) · 2024-06-20
+
+### diet (5)
+
+- [Why I Think Jesus Was a Vegetarian](084-why-i-think-jesus-was-a-vegetarian.md) · 2022-12-21
+- [Bonus Interview: Jesus' Final Week:  Day Two--Temple Shutdown](281-bonus-interview-jesus-final-week-day-two-temple-shutdown.md) · 2024-03-27
+- [Lost in Translation: A Bit of Toilet Humor From Jesus that Everyone  Misses!](324-lost-in-translation-a-bit-of-toilet-humor-from-jesus-that-ev.md) · 2024-07-16
+- [The Ebionites:  Heretics or Original Followers of Jesus?](414-the-ebionites-heretics-or-original-followers-of-jesus.md) · 2025-08-01
+- [A Shared Utopian Vision? Enochians, Essenes, Ebionites, and Nazarenes](475-a-shared-utopian-vision-enochians-essenes-ebionites-and-naza.md) · 2026-07-07
+
+### nonviolence (2)
+
+- [Bonus Interview: Jesus' Final Week:  Day Two--Temple Shutdown](281-bonus-interview-jesus-final-week-day-two-temple-shutdown.md) · 2024-03-27
+- [John Crossan and James Tabor Conversation: The Lost Mary](436-john-crossan-and-james-tabor-conversation-the-lost-mary.md) · 2025-10-29
+
+### kingdom (65)
+
+- [The Jesus Dynasty: Author's Personal Introduction](006-the-jesus-dynasty-author-s-personal-introduction.md) · 2022-01-20
+- [How Does Hebrew Matthew Compare with Greek Matthew in the New Testament?](033-how-does-hebrew-matthew-compare-with-greek-matthew-in-the-ne.md) · 2022-05-05
+- [After James:  The Jesus Dynasty Survives and Continues](062-after-james-the-jesus-dynasty-survives-and-continues.md) · 2022-10-20
+- [Who Was James the Brother of the Lord?](073-who-was-james-the-brother-of-the-lord.md) · 2022-11-30
+- [Were Jesus and His First Followers Wrong About the End of the Age?](075-were-jesus-and-his-first-followers-wrong-about-the-end-of-th.md) · 2022-12-04
+- [Was Jesus a Follower of John the Baptizer? Why the Ancient Idea of Two Messiahs Was Suppressed](079-was-jesus-a-follower-of-john-the-baptizer-why-the-ancient-id.md) · 2022-12-12
+- [That Other King of the Jews: Part 2](110-that-other-king-of-the-jews-part-2.md) · 2023-02-21
+- [What is Secret of the Kingdom in Mark's Gospel?](112-what-is-secret-of-the-kingdom-in-mark-s-gospel.md) · 2023-02-22
+- [How Matthew and Luke Abuse Mark's Gospel?](113-how-matthew-and-luke-abuse-mark-s-gospel.md) · 2023-02-23
+- [Don't Be Fooled--Jesus' Miracles in Mark Are Not to Show He is the Messiah](115-don-t-be-fooled-jesus-miracles-in-mark-are-not-to-show-he-is.md) · 2023-02-26
+- [That Other King of the Jews Part 1](116-that-other-king-of-the-jews-part-1.md) · 2023-02-27
+- [Two Hours with Barbara DeLong--The Historical Jesus](118-two-hours-with-barbara-delong-the-historical-jesus.md) · 2023-03-01
+- [Last Days of Jesus: Entering the Lions Den](132-last-days-of-jesus-entering-the-lions-den.md) · 2023-04-03
+- [The Failed Apocalypticism of Jesus and its Afterlives](136-the-failed-apocalypticism-of-jesus-and-its-afterlives.md) · 2023-04-07
+- [How Jesus Came to View Himself as the Davidic Messiah](160-how-jesus-came-to-view-himself-as-the-davidic-messiah.md) · 2023-05-22
+- [Jesus' Plan for Taking over the Kingdoms of the World](161-jesus-plan-for-taking-over-the-kingdoms-of-the-world.md) · 2023-05-23
+- [How and When Jesus Identified with the Suffering Servant Idea](162-how-and-when-jesus-identified-with-the-suffering-servant-ide.md) · 2023-05-24
+- [Discovering a Secret "Jesus Hideout" in Jordan--Jesus' Last Winter](164-discovering-a-secret-jesus-hideout-in-jordan-jesus-last-wint.md) · 2023-05-26
+- [Why Evangelical Christians Ignore  the Earliest and only 1st-Person Testimony to Jesus' Resurrection](199-why-evangelical-christians-ignore-the-earliest-and-only-1st.md) · 2023-08-07
+- [How the Jewish Mother of Jesus Was Transformed into the Virgin Mother of God!](200-how-the-jewish-mother-of-jesus-was-transformed-into-the-virg.md) · 2023-08-10
+- [Bible Prophecy #The 8: The Job Description of the Messiah--Has Anyone Ever Done Any of This? Pt I](214-bible-prophecy-the-8-the-job-description-of-the-messiah-has.md) · 2023-09-17
+- [Bible Prophecy # 9 The Job Description of the Messiah--Has Anyone Ever Done Any of This? Pt 2](218-bible-prophecy-9-the-job-description-of-the-messiah-has-anyo.md) · 2023-09-25
+- [Jesus and the Essene Movement--How Were They Related? An In Depth Conversation](238-jesus-and-the-essene-movement-how-were-they-related-an-in-de.md) · 2023-11-30
+- [Jesus Archaeology # 6 Exploring the "Ground Zero" HQ for the Jesus Movement](250-jesus-archaeology-6-exploring-the-ground-zero-hq-for-the-jes.md) · 2024-01-16
+- [Jesus Archaeology # 10 The Day Jesus Sealed His Fate!](259-jesus-archaeology-10-the-day-jesus-sealed-his-fate.md) · 2024-02-14
+- [Jesus Archaeology #11: Jesus Final Week--A  Virtual Tour!](261-jesus-archaeology-11-jesus-final-week-a-virtual-tour.md) · 2024-02-18
+- [Jesus' Final Week: Day Three--The Secret of the Kingdom Revealed at Last!](282-jesus-final-week-day-three-the-secret-of-the-kingdom-reveale.md) · 2024-03-27
+- [Top Seven Fateful New Testament Texts The Time of the End Has Drawn Very Near! (7)](300-top-seven-fateful-new-testament-texts-the-time-of-the-end-ha.md) · 2024-05-03
+- [Was Jesus a Failed Apocayptic Messiah?  Standing in the Shadow of Schweitzer](301-was-jesus-a-failed-apocayptic-messiah-standing-in-the-shadow.md) · 2024-05-06
+- [Lost in Translation: The Son of Man Coming in the Clouds of Heaven is NOT Jesus!](310-lost-in-translation-the-son-of-man-coming-in-the-clouds-of-h.md) · 2024-05-24
+- [Lost in Translation: The LORD is Not Jesus Returning on the Mt of Olives!](311-lost-in-translation-the-lord-is-not-jesus-returning-on-the-m.md) · 2024-05-27
+- [The Dead Sea WAR SCROLL: The First Grand Example of Apocalyptic Failure!](312-the-dead-sea-war-scroll-the-first-grand-example-of-apocalypt.md) · 2024-05-28
+- [Lost in Translation: Did Isaiah Call the Messiah the Mighty God and Everlasting Father?](322-lost-in-translation-did-isaiah-call-the-messiah-the-mighty-g.md) · 2024-07-05
+- [Is Historical Biblical Scholarship Destructive or Constructive? Dr. Robyn Walsh Weighs In. . .](333-is-historical-biblical-scholarship-destructive-or-constructi.md) · 2024-08-23
+- [Exploring a More Historically Credible Version of Jesus' Last Supper](372-exploring-a-more-historically-credible-version-of-jesus-last.md) · 2025-03-20
+- [Last Days of Jesus Pt 1-A Temple Takeover Recon](376-last-days-of-jesus-pt-1-a-temple-takeover-recon.md) · 2025-04-06
+- [Last Days of Jesus Pt 2--What Got Him Killed?](377-last-days-of-jesus-pt-2-what-got-him-killed.md) · 2025-04-10
+- [But Dr. Tabor What do YOU Believe?](393-but-dr-tabor-what-do-you-believe.md) · 2025-05-19
+- [When Prophecy Fails: The Teacher of Righteousness in the Dead Sea Scrolls](394-when-prophecy-fails-the-teacher-of-righteousness-in-the-dead.md) · 2025-05-20
+- [My View of Biblical Faith After 45 Years of Academic Study](408-my-view-of-biblical-faith-after-45-years-of-academic-study.md) · 2025-07-18
+- [Abrahamic Hebrew Faith:  God Talk](412-abrahamic-hebrew-faith-god-talk.md) · 2025-07-27
+- [How Historical Methods Get us Closer to the Real Jesus](413-how-historical-methods-get-us-closer-to-the-real-jesus.md) · 2025-07-28
+- [Why Abrahamic  Faith is NOT a Religion](417-why-abrahamic-faith-is-not-a-religion.md) · 2025-08-16
+- [Prof. Goodacre: Why the Missing Pieces in our Gospel Stories are so Important](423-prof-goodacre-why-the-missing-pieces-in-our-gospel-stories-a.md) · 2025-09-03
+- [Did the Historical Jesus Think He Was the Messiah?](428-did-the-historical-jesus-think-he-was-the-messiah.md) · 2025-09-12
+- [Jews, Christians, and Muslims--What is the Historic Abrahamic Faith?](435-jews-christians-and-muslims-what-is-the-historic-abrahamic-f.md) · 2025-10-28
+- [Did Jesus Expect to Regather the Lost Ten Tribes of israel?](438-did-jesus-expect-to-regather-the-lost-ten-tribes-of-israel.md) · 2025-11-02
+- [A "Deep Dive" Dialogue on Tabor's Take on the Historical Mary](462-a-deep-dive-dialogue-on-tabor-s-take-on-the-historical-mary.md) · 2026-02-28
+- [When Heaven Replaced Earth](468-when-heaven-replaced-earth.md) · 2026-05-24
+- [Tabor at the River Jordan--Was John Greater than Jesus?](470-tabor-at-the-river-jordan-was-john-greater-than-jesus.md) · 2026-06-12
+- [The Single Idea that Transformed ALL Biblical Faiths!](480-the-single-idea-that-transformed-all-biblical-faiths.md) · 2026-09-15
+- [Bible Prophecy # 16: "When  Jerusalem” Means Jerusalem--Prophecy Belief in the 21st Century"](background/007-bible-prophecy-16-when-jerusalem-means-jerusalem-prophecy-be.md) · 2022-01-21
+- [Bible Prophecy: The Perils of Predicting the End of the Age Part 1](background/104-bible-prophecy-the-perils-of-predicting-the-end-of-the-age-p.md) · 2023-02-04
+- [Bible Prophecy: The Perils of Predicting the End of the Age Part 2](background/107-bible-prophecy-the-perils-of-predicting-the-end-of-the-age-p.md) · 2023-02-11
+- [Bible Prophecy # 12: Five Great Themes of the Hebrew Prophets](background/109-bible-prophecy-12-five-great-themes-of-the-hebrew-prophets.md) · 2023-02-19
+- [The Five Unfulfilled Redemptive Themes of Isaiah Chapters 40-66](background/146-the-five-unfulfilled-redemptive-themes-of-isaiah-chapters-40.md) · 2023-04-25
+- [Death & Afterlife: A Hebrew Revolution](background/191-death-afterlife-a-hebrew-revolution.md) · 2023-07-08
+- [Bible Prophecy #4 Why the End Should Have Come in 164 BC](background/209-bible-prophecy-4-why-the-end-should-have-come-in-164-bc.md) · 2023-09-02
+- [Bible Prophecy #13--Floating Prophecies and Israel's Future](background/224-bible-prophecy-13-floating-prophecies-and-israel-s-future.md) · 2023-10-19
+- [Bible Prophecy #17  Strange Bedfellows--Where Bible Scholars and Christian Prophecy Believers Agree!](background/228-bible-prophecy-17-strange-bedfellows-where-bible-scholars-an.md) · 2023-10-31
+- [Bible Prophecy # 18 The Wars of Gog and Magog --When, Where, What?](background/229-bible-prophecy-18-the-wars-of-gog-and-magog-when-where-what.md) · 2023-11-03
+- [Bible Prophecy # 19: Is the Current War in Israel Predicted in Bible Prophecy?](background/230-bible-prophecy-19-is-the-current-war-in-israel-predicted-in.md) · 2023-11-06
+- [Bible Prophecy # 21 The Book of Revelation UNVEILED at Last!](background/233-bible-prophecy-21-the-book-of-revelation-unveiled-at-last.md) · 2023-11-18
+- [Bible Prophecy # 23 The Fatal Flaw of Popular Christian Prophecy Belief](background/235-bible-prophecy-23-the-fatal-flaw-of-popular-christian-prophe.md) · 2023-11-23
+- [Bible Prophecy # 25  FINALE: Fundamental Fatal  Flaws of Most Prophecy Interpretations Today](background/240-bible-prophecy-25-finale-fundamental-fatal-flaws-of-most-pro.md) · 2023-12-09
+
+### christology (71)
+
+- [How, When, and Why John the Baptizer Was Marginalized in Early Christianity](012-how-when-and-why-john-the-baptizer-was-marginalized-in-early.md) · 2022-02-23
+- [The Making of a Messiah](025-the-making-of-a-messiah.md) · 2022-04-09
+- [Tracking John the Baptizer and His Followers--Including Jesus!](032-tracking-john-the-baptizer-and-his-followers-including-jesus.md) · 2022-05-04
+- [30 Years Ago:  My Take on the Dead Sea Scrolls in 1992](052-30-years-ago-my-take-on-the-dead-sea-scrolls-in-1992.md) · 2022-09-13
+- [Might Jews, Christians, and Muslims Find A New Unity By Recovering the Historical Jesus?](067-might-jews-christians-and-muslims-find-a-new-unity-by-recove.md) · 2022-11-14
+- [Can a Pre Christian Version of the Book of Revelation Be Recovered?](072-can-a-pre-christian-version-of-the-book-of-revelation-be-rec.md) · 2022-11-28
+- [Was Jesus a Follower of John the Baptizer? Why the Ancient Idea of Two Messiahs Was Suppressed](079-was-jesus-a-follower-of-john-the-baptizer-why-the-ancient-id.md) · 2022-12-12
+- [What Was Paul's Thorn in the Flesh?](080-what-was-paul-s-thorn-in-the-flesh.md) · 2022-12-15
+- [Creating Jesus--Why Mark's Gospel Was Forgotten](091-creating-jesus-why-mark-s-gospel-was-forgotten.md) · 2023-01-12
+- [Did Earliest Jewish-Christianity Influence Islam?](096-did-earliest-jewish-christianity-influence-islam.md) · 2023-01-25
+- [How and Why Matthew and Luke Destroy Mark](097-how-and-why-matthew-and-luke-destroy-mark.md) · 2023-01-26
+- [Was Peter's Confession of Jesus in Mark Inspired by Satan?](098-was-peter-s-confession-of-jesus-in-mark-inspired-by-satan.md) · 2023-01-27
+- [The Mysticism and Message of Paul--Cosmic Transformation](103-the-mysticism-and-message-of-paul-cosmic-transformation.md) · 2023-02-03
+- [What is Secret of the Kingdom in Mark's Gospel?](112-what-is-secret-of-the-kingdom-in-mark-s-gospel.md) · 2023-02-22
+- [How Matthew and Luke Abuse Mark's Gospel?](113-how-matthew-and-luke-abuse-mark-s-gospel.md) · 2023-02-23
+- [Don't Be Fooled--Jesus' Miracles in Mark Are Not to Show He is the Messiah](115-don-t-be-fooled-jesus-miracles-in-mark-are-not-to-show-he-is.md) · 2023-02-26
+- [Was John the Baptizer Greater Than Jesus?](123-was-john-the-baptizer-greater-than-jesus.md) · 2023-03-12
+- [Did the Author of Mark's Gospel Think Jesus Was God?](140-did-the-author-of-mark-s-gospel-think-jesus-was-god.md) · 2023-04-12
+- [What Was Paul's View of Salvation?  It's Not What You Think!](145-what-was-paul-s-view-of-salvation-it-s-not-what-you-think.md) · 2023-04-21
+- [One, Two, or Three Messiahs?](159-one-two-or-three-messiahs.md) · 2023-05-20
+- [How Jesus Came to View Himself as the Davidic Messiah](160-how-jesus-came-to-view-himself-as-the-davidic-messiah.md) · 2023-05-22
+- [How and When Jesus Identified with the Suffering Servant Idea](162-how-and-when-jesus-identified-with-the-suffering-servant-ide.md) · 2023-05-24
+- [Ask Dr Tabor Anythng--with Derek Lambert Part II](169-ask-dr-tabor-anythng-with-derek-lambert-part-ii.md) · 2023-06-01
+- [My FINAL University Class: Understanding the  Dead Sea Scrolls with Dr.  Charlesworth](170-my-final-university-class-understanding-the-dead-sea-scrolls.md) · 2023-06-01
+- [Dateline November 1991: Our First Look at the Unpublished Dead Sea Scrolls](174-dateline-november-1991-our-first-look-at-the-unpublished-dea.md) · 2023-06-06
+- [Did Jesus Ever Claim to be God in our Earliest Sources?](202-did-jesus-ever-claim-to-be-god-in-our-earliest-sources.md) · 2023-08-13
+- [Bible Prophecy # 2  The First Messiah](206-bible-prophecy-2-the-first-messiah.md) · 2023-08-24
+- [Bible Prophecy #The 8: The Job Description of the Messiah--Has Anyone Ever Done Any of This? Pt I](214-bible-prophecy-the-8-the-job-description-of-the-messiah-has.md) · 2023-09-17
+- [Bible Prophecy # 9 The Job Description of the Messiah--Has Anyone Ever Done Any of This? Pt 2](218-bible-prophecy-9-the-job-description-of-the-messiah-has-anyo.md) · 2023-09-25
+- [Do We Find Messianic Suffering in the Dead Sea Scrolls?](236-do-we-find-messianic-suffering-in-the-dead-sea-scrolls.md) · 2023-11-23
+- [What Do We Really Know About the "Teacher of Righteousness" in the Dead Sea Scrolls?](251-what-do-we-really-know-about-the-teacher-of-righteousness-in.md) · 2024-01-20
+- [Investigating the Messiah Before Jesus](253-investigating-the-messiah-before-jesus.md) · 2024-01-26
+- [The Lost Gospel of Mark](260-the-lost-gospel-of-mark.md) · 2024-02-16
+- [Five Examples of How  Christian Apologists Violate the Integrity of the Gospels! Pt 1](277-five-examples-of-how-christian-apologists-violate-the-integr.md) · 2024-03-24
+- [Jesus' Final Week:  Day One--A Strategic Plan that Got Jesus Killed!](278-jesus-final-week-day-one-a-strategic-plan-that-got-jesus-kil.md) · 2024-03-24
+- [Jesus' Final Week: Day Four--Who Anointed Jesus as Messiah?](283-jesus-final-week-day-four-who-anointed-jesus-as-messiah.md) · 2024-03-28
+- [Lost in Translation: The Son of Man Coming in the Clouds of Heaven is NOT Jesus!](310-lost-in-translation-the-son-of-man-coming-in-the-clouds-of-h.md) · 2024-05-24
+- [Lost in Translation: The LORD is Not Jesus Returning on the Mt of Olives!](311-lost-in-translation-the-lord-is-not-jesus-returning-on-the-m.md) · 2024-05-27
+- [Lost in Translation: Did the Prophet Isaiah Predict the Virgin Birth?](318-lost-in-translation-did-the-prophet-isaiah-predict-the-virgi.md) · 2024-06-24
+- [Lost in Translation: If the Historical Emmanuel is NOT Jesus Who is He?](319-lost-in-translation-if-the-historical-emmanuel-is-not-jesus.md) · 2024-06-27
+- [Lost in Translation: Did Isaiah Call the Messiah the Mighty God and Everlasting Father?](322-lost-in-translation-did-isaiah-call-the-messiah-the-mighty-g.md) · 2024-07-05
+- [Dateline 1992: RARE Archive Footage on the Release of the Dead Sea Scrolls](360-dateline-1992-rare-archive-footage-on-the-release-of-the-dea.md) · 2025-01-02
+- [Top Ten Differences in the Dead Sea Scrolls Biblical Texts  and our Traditional Old Testament](362-top-ten-differences-in-the-dead-sea-scrolls-biblical-texts-a.md) · 2025-01-13
+- [Countdown: Top Ten Differences Dead Sea Scrolls & Traditional Old Testament Pt 2](364-countdown-top-ten-differences-dead-sea-scrolls-traditional-o.md) · 2025-02-05
+- [Last Days of Jesus Pt 1-A Temple Takeover Recon](376-last-days-of-jesus-pt-1-a-temple-takeover-recon.md) · 2025-04-06
+- [Is the Jesus Story Modeled after a Typical Hellenistic Divine Man Matrix](396-is-the-jesus-story-modeled-after-a-typical-hellenistic-divin.md) · 2025-05-25
+- [My View of Biblical Faith After 45 Years of Academic Study](408-my-view-of-biblical-faith-after-45-years-of-academic-study.md) · 2025-07-18
+- [How Historical Methods Get us Closer to the Real Jesus](413-how-historical-methods-get-us-closer-to-the-real-jesus.md) · 2025-07-28
+- [What Do We Really KNOW About the Historical  Jesus? An In-Depth Conversation with Dr. Justin Sledge](422-what-do-we-really-know-about-the-historical-jesus-an-in-dept.md) · 2025-08-30
+- [Did Jesus Really Do Miracles?   Dr. Dale Allison Weights In](425-did-jesus-really-do-miracles-dr-dale-allison-weights-in.md) · 2025-09-07
+- [Did the Historical Jesus Think He Was the Messiah?](428-did-the-historical-jesus-think-he-was-the-messiah.md) · 2025-09-12
+- [The Dead Sea Scroll Teacher, Jesus, and the Making of a Messiah](429-the-dead-sea-scroll-teacher-jesus-and-the-making-of-a-messia.md) · 2025-09-13
+- [Was John the Baptist Greater than Jesus?](430-was-john-the-baptist-greater-than-jesus.md) · 2025-09-15
+- [Messianic Self-Identity: Did the Gospels Create Jesus or Jesus the Gospels?](431-messianic-self-identity-did-the-gospels-create-jesus-or-jesu.md) · 2025-10-04
+- [Jews, Christians, and Muslims--What is the Historic Abrahamic Faith?](435-jews-christians-and-muslims-what-is-the-historic-abrahamic-f.md) · 2025-10-28
+- [Did Jesus Expect to Regather the Lost Ten Tribes of israel?](438-did-jesus-expect-to-regather-the-lost-ten-tribes-of-israel.md) · 2025-11-02
+- [John  Crossan and James Tabor : A Conversation on Lives, Careers, and Historical Jesus Studies](439-john-crossan-and-james-tabor-a-conversation-on-lives-careers.md) · 2025-11-07
+- [What Do Scholars Mean by  the "Historical" Jesus?](445-what-do-scholars-mean-by-the-historical-jesus.md) · 2025-12-08
+- [Why You Probably Have Never Heard of Bishop Theophilus of Antioch!](449-why-you-probably-have-never-heard-of-bishop-theophilus-of-an.md) · 2025-12-30
+- [The Day the Children in the Temple Got Jesus Arrested!](458-the-day-the-children-in-the-temple-got-jesus-arrested.md) · 2026-02-08
+- [Study the Dead Sea Scrolls!   Dr. James D. Tabor](471-study-the-dead-sea-scrolls-dr-james-d-tabor.md) · 2026-06-15
+- [Ebionites, Nazarenes, Essenes, Nasareans Sorting out the Names!](472-ebionites-nazarenes-essenes-nasareans-sorting-out-the-names.md) · 2026-06-17
+- [John the Baptist and Jesus:  Separating History from Myth](473-john-the-baptist-and-jesus-separating-history-from-myth.md) · 2026-07-01
+- [WHY Prophecy Fails: A New Series](background/203-why-prophecy-fails-a-new-series.md) · 2023-08-16
+- [Bible Prophecy #1  Believing Through the Ages](background/204-bible-prophecy-1-believing-through-the-ages.md) · 2023-08-18
+- [Bible Prophecy # 5  The Fundamental Flaw of Popular Christian Prophecy Beliefs](background/210-bible-prophecy-5-the-fundamental-flaw-of-popular-christian-p.md) · 2023-09-07
+- [Bible Prophecy # 7 Inventing the AntiChrist](background/212-bible-prophecy-7-inventing-the-antichrist.md) · 2023-09-13
+- [Bible Prophecy #10--Is the Messiah Predicted in the Torah?](background/220-bible-prophecy-10-is-the-messiah-predicted-in-the-torah.md) · 2023-09-28
+- [Bible Prophecy # 20--Can We Recover a Non-Jesus Version of the Book of Revelation?](background/231-bible-prophecy-20-can-we-recover-a-non-jesus-version-of-the.md) · 2023-11-10
+- [Bible Prophecy # 21 The Book of Revelation UNVEILED at Last!](background/233-bible-prophecy-21-the-book-of-revelation-unveiled-at-last.md) · 2023-11-18
+- [Identifying Bible Interpolations: The False Pen of the Scribes!](background/317-identifying-bible-interpolations-the-false-pen-of-the-scribe.md) · 2024-06-20
+
+### virgin-birth (27)
+
+- [Jesus and the Boys--Forgotten Brothers and Apostles](034-jesus-and-the-boys-forgotten-brothers-and-apostles.md) · 2022-05-09
+- [Mary's Pregnancy— Imagining the Best](035-mary-s-pregnancy-imagining-the-best.md) · 2022-05-11
+- [A Virgin Shall Conceive](057-a-virgin-shall-conceive.md) · 2022-09-21
+- [Did Jesus Have a Biological Father? Sorting Out the Pantera Traditions](077-did-jesus-have-a-biological-father-sorting-out-the-pantera-t.md) · 2022-12-09
+- [Disparaging Jesus: Roman Gossip and Jewish Legend](089-disparaging-jesus-roman-gossip-and-jewish-legend.md) · 2023-01-05
+- [A Unnamed Father of Jesus](155-a-unnamed-father-of-jesus.md) · 2023-05-15
+- [Does Matthew Support the Virgin Birth of Jesus? Let's Take a Closer Look!](156-does-matthew-support-the-virgin-birth-of-jesus-let-s-take-a.md) · 2023-05-16
+- [One, Two, or Three Messiahs?](159-one-two-or-three-messiahs.md) · 2023-05-20
+- [Jesus son of Pantera:  Ancient Slander or Historical Probability?](172-jesus-son-of-pantera-ancient-slander-or-historical-probabili.md) · 2023-06-04
+- [How the Jewish Mother of Jesus Was Transformed into the Virgin Mother of God!](200-how-the-jewish-mother-of-jesus-was-transformed-into-the-virg.md) · 2023-08-10
+- [Lost in Translation: Did the Prophet Isaiah Predict the Virgin Birth?](318-lost-in-translation-did-the-prophet-isaiah-predict-the-virgi.md) · 2024-06-24
+- [Lost in Translation: If the Historical Emmanuel is NOT Jesus Who is He?](319-lost-in-translation-if-the-historical-emmanuel-is-not-jesus.md) · 2024-06-27
+- [From Jewish Mother of Jesus to Virgin Mother of God: A Discussion and Dialogue](336-from-jewish-mother-of-jesus-to-virgin-mother-of-god-a-discus.md) · 2024-08-29
+- [Is the Jesus Story Modeled after a Typical Hellenistic Divine Man Matrix](396-is-the-jesus-story-modeled-after-a-typical-hellenistic-divin.md) · 2025-05-25
+- [The Fading of the Jesus Family Phase Three :  An Ever-Virgin Mary?](427-the-fading-of-the-jesus-family-phase-three-an-ever-virgin-ma.md) · 2025-09-09
+- [Jacob Berman Interview: The Lost Mary Part 1](433-jacob-berman-interview-the-lost-mary-part-1.md) · 2025-10-18
+- [Jacob Berman Interview: The Lost Mary Part 2](434-jacob-berman-interview-the-lost-mary-part-2.md) · 2025-10-21
+- [Megan Lewis Interview: The Lost Mary](441-megan-lewis-interview-the-lost-mary.md) · 2025-11-30
+- [Aaron Abke Interview: The Lost Mary](442-aaron-abke-interview-the-lost-mary.md) · 2025-12-02
+- [Dr. Robert L.  Kuhn Interview: The Lost Mary](443-dr-robert-l-kuhn-interview-the-lost-mary.md) · 2025-12-04
+- [Helen Bond: Biblical Time Machine Interview: The Lost Mary](446-helen-bond-biblical-time-machine-interview-the-lost-mary.md) · 2025-12-10
+- [John Batchelor "CBS Eye on the World" Interview: The Lost Mary](447-john-batchelor-cbs-eye-on-the-world-interview-the-lost-mary.md) · 2025-12-22
+- [Is a Quest for the Historical Mary, Mother of Jesus, Possible?](452-is-a-quest-for-the-historical-mary-mother-of-jesus-possible.md) · 2026-01-12
+- [Academic Lecture: "The Lost Mary" at  the 2026  International Symposium on Archaeology and the Bible](459-academic-lecture-the-lost-mary-at-the-2026-international-sym.md) · 2026-02-17
+- [Sam Tideman Interview: The Lost Mary](460-sam-tideman-interview-the-lost-mary.md) · 2026-02-22
+- [A "Deep Dive" Dialogue on Tabor's Take on the Historical Mary](462-a-deep-dive-dialogue-on-tabor-s-take-on-the-historical-mary.md) · 2026-02-28
+- [Evangelist Johnny Ova Interview: The Lost Mary](463-evangelist-johnny-ova-interview-the-lost-mary.md) · 2026-03-07
+
+### apocalyptic (99)
+
+- [Who is a Jew? Paul's Transformation of Jewish Identity](008-who-is-a-jew-paul-s-transformation-of-jewish-identity.md) · 2022-01-30
+- [Dead Messiahs Who Don't Return](014-dead-messiahs-who-don-t-return.md) · 2022-03-05
+- [Counting Time: The  Dead Sea Scroll Essene Calendar Explained](016-counting-time-the-dead-sea-scroll-essene-calendar-explained.md) · 2022-03-09
+- [How the Dead Sea Scrolls "Bible" Differs from the Traditional Hebrew Text](018-how-the-dead-sea-scrolls-bible-differs-from-the-traditional.md) · 2022-03-14
+- [How and When Did Satan Become the God of this World?](024-how-and-when-did-satan-become-the-god-of-this-world.md) · 2022-04-04
+- [The Making of a Messiah](025-the-making-of-a-messiah.md) · 2022-04-09
+- [The High Cost of Holiness--Toilets, the Torah, and the Dead Sea Scrolls](040-the-high-cost-of-holiness-toilets-the-torah-and-the-dead-sea.md) · 2022-05-26
+- [When Prophecy Fails: How Ancient Messianic Jews & Christians Survived Apocalyptic Disappointment](041-when-prophecy-fails-how-ancient-messianic-jews-christians-su.md) · 2022-06-09
+- [After James:  The Jesus Dynasty Survives and Continues](062-after-james-the-jesus-dynasty-survives-and-continues.md) · 2022-10-20
+- [Following the God of Israel After Jerusalem's Destruction--The Earliest  Surviving Jewish Text Text](068-following-the-god-of-israel-after-jerusalem-s-destruction-th.md) · 2022-11-15
+- [Can a Pre Christian Version of the Book of Revelation Be Recovered?](072-can-a-pre-christian-version-of-the-book-of-revelation-be-rec.md) · 2022-11-28
+- [Were Jesus and His First Followers Wrong About the End of the Age?](075-were-jesus-and-his-first-followers-wrong-about-the-end-of-th.md) · 2022-12-04
+- [Paul Williams Interview Part 3: Was Jesus a Torah Observant Jew? Its Complicated!](095-paul-williams-interview-part-3-was-jesus-a-torah-observant-j.md) · 2023-01-22
+- [The Mysticism and Message of Paul--Cosmic Transformation](103-the-mysticism-and-message-of-paul-cosmic-transformation.md) · 2023-02-03
+- [Two Hours with Barbara DeLong--The Historical Jesus](118-two-hours-with-barbara-delong-the-historical-jesus.md) · 2023-03-01
+- [The Religion of Jesus the Jew](122-the-religion-of-jesus-the-jew.md) · 2023-03-08
+- [Was John the Baptizer Greater Than Jesus?](123-was-john-the-baptizer-greater-than-jesus.md) · 2023-03-12
+- [Jesus the Baptizer](125-jesus-the-baptizer.md) · 2023-03-17
+- [That Most Wretched of Deaths--The Murder of Jesus of Nazareth](134-that-most-wretched-of-deaths-the-murder-of-jesus-of-nazareth.md) · 2023-04-06
+- [The Failed Apocalypticism of Jesus and its Afterlives](136-the-failed-apocalypticism-of-jesus-and-its-afterlives.md) · 2023-04-07
+- [What Was Paul's View of Salvation?  It's Not What You Think!](145-what-was-paul-s-view-of-salvation-it-s-not-what-you-think.md) · 2023-04-21
+- [Jesus' Plan for Taking over the Kingdoms of the World](161-jesus-plan-for-taking-over-the-kingdoms-of-the-world.md) · 2023-05-23
+- [Discovering a Secret "Jesus Hideout" in Jordan--Jesus' Last Winter](164-discovering-a-secret-jesus-hideout-in-jordan-jesus-last-wint.md) · 2023-05-26
+- [Following James the Brother of Jesus Out of Christianity](167-following-james-the-brother-of-jesus-out-of-christianity.md) · 2023-05-29
+- [Did the Essenes Write the Dead Sea Scrolls--What Can We Say After 75 Years?](177-did-the-essenes-write-the-dead-sea-scrolls-what-can-we-say-a.md) · 2023-06-11
+- [Death and Afterlife: The Origins of the Idea of Bodily Resurrection](192-death-and-afterlife-the-origins-of-the-idea-of-bodily-resurr.md) · 2023-07-11
+- [Did Jesus Ever Claim to be God in our Earliest Sources?](202-did-jesus-ever-claim-to-be-god-in-our-earliest-sources.md) · 2023-08-13
+- [Bible Prophecy # 2  The First Messiah](206-bible-prophecy-2-the-first-messiah.md) · 2023-08-24
+- [Bible Prophecy # 9 The Job Description of the Messiah--Has Anyone Ever Done Any of This? Pt 2](218-bible-prophecy-9-the-job-description-of-the-messiah-has-anyo.md) · 2023-09-25
+- [Bible Prophecy #11 Did the Jesus Apocalypse Fail?](222-bible-prophecy-11-did-the-jesus-apocalypse-fail.md) · 2023-10-01
+- [My Greatest Discovery: A Jesus Hideout in Jordan](223-my-greatest-discovery-a-jesus-hideout-in-jordan.md) · 2023-10-03
+- [Jesus and the Essene Movement--How Were They Related? An In Depth Conversation](238-jesus-and-the-essene-movement-how-were-they-related-an-in-de.md) · 2023-11-30
+- [What Do We Really Know About the "Teacher of Righteousness" in the Dead Sea Scrolls?](251-what-do-we-really-know-about-the-teacher-of-righteousness-in.md) · 2024-01-20
+- [Investigating the Messiah Before Jesus](253-investigating-the-messiah-before-jesus.md) · 2024-01-26
+- [Jesus Archaeology #9  The Forgotten Last Winter of Jesus' Life  Explored](255-jesus-archaeology-9-the-forgotten-last-winter-of-jesus-life.md) · 2024-02-04
+- [Jesus Archaeology # 10 The Day Jesus Sealed His Fate!](259-jesus-archaeology-10-the-day-jesus-sealed-his-fate.md) · 2024-02-14
+- [Jesus Archaeology #11: Jesus Final Week--A  Virtual Tour!](261-jesus-archaeology-11-jesus-final-week-a-virtual-tour.md) · 2024-02-18
+- [Top Seven Fateful New Testament Texts The Time of the End Has Drawn Very Near! (7)](300-top-seven-fateful-new-testament-texts-the-time-of-the-end-ha.md) · 2024-05-03
+- [Was Jesus a Failed Apocayptic Messiah?  Standing in the Shadow of Schweitzer](301-was-jesus-a-failed-apocayptic-messiah-standing-in-the-shadow.md) · 2024-05-06
+- [Lost in Translation: The Son of Man Coming in the Clouds of Heaven is NOT Jesus!](310-lost-in-translation-the-son-of-man-coming-in-the-clouds-of-h.md) · 2024-05-24
+- [Lost in Translation: The LORD is Not Jesus Returning on the Mt of Olives!](311-lost-in-translation-the-lord-is-not-jesus-returning-on-the-m.md) · 2024-05-27
+- [The Dead Sea WAR SCROLL: The First Grand Example of Apocalyptic Failure!](312-the-dead-sea-war-scroll-the-first-grand-example-of-apocalypt.md) · 2024-05-28
+- [The Most Puzzling Dead Sea Scroll : Rebuilding the Jewish Temple at the End of the Age!](321-the-most-puzzling-dead-sea-scroll-rebuilding-the-jewish-temp.md) · 2024-06-30
+- [Inventing Heaven and Hell--The Bible and the Afterlife](352-inventing-heaven-and-hell-the-bible-and-the-afterlife.md) · 2024-12-04
+- [Dateline 1992: RARE Archive Footage on the Release of the Dead Sea Scrolls](360-dateline-1992-rare-archive-footage-on-the-release-of-the-dea.md) · 2025-01-02
+- [Top Ten Differences in the Dead Sea Scrolls Biblical Texts  and our Traditional Old Testament](362-top-ten-differences-in-the-dead-sea-scrolls-biblical-texts-a.md) · 2025-01-13
+- [The Big Five Questions on Paul: My Responses](367-the-big-five-questions-on-paul-my-responses.md) · 2025-02-20
+- [Part 2: The Didache: A Lost and Rediscovered Text of the Teaching of Jesus](370-part-2-the-didache-a-lost-and-rediscovered-text-of-the-teach.md) · 2025-03-10
+- [Last Days of Jesus Pt 2--What Got Him Killed?](377-last-days-of-jesus-pt-2-what-got-him-killed.md) · 2025-04-10
+- [Were there Connections Between Jesus and the Dead Sea Scrolls Community?](392-were-there-connections-between-jesus-and-the-dead-sea-scroll.md) · 2025-05-09
+- [When Prophecy Fails: The Teacher of Righteousness in the Dead Sea Scrolls](394-when-prophecy-fails-the-teacher-of-righteousness-in-the-dead.md) · 2025-05-20
+- [What Was "Christianity" Like Before Paul?](395-what-was-christianity-like-before-paul.md) · 2025-05-21
+- [Dating the Dead Sea Scrolls--What About the Latest  AI and Carbon 14 Methods?](400-dating-the-dead-sea-scrolls-what-about-the-latest-ai-and-car.md) · 2025-06-05
+- [Is Mark the  Earliest Surviving  JEWISH Text  after the JerusalemTemple Was Destroyed?](407-is-mark-the-earliest-surviving-jewish-text-after-the-jerusal.md) · 2025-07-13
+- [What Do We Really KNOW About the Historical  Jesus? An In-Depth Conversation with Dr. Justin Sledge](422-what-do-we-really-know-about-the-historical-jesus-an-in-dept.md) · 2025-08-30
+- [What Kind of a Jew Was Jesus?  Dr  Joel Marcus on "Jesus and the Law"](424-what-kind-of-a-jew-was-jesus-dr-joel-marcus-on-jesus-and-the.md) · 2025-09-05
+- [Did Jesus Reject Biblical  Laws of Ritual Purity? Dr  Paula Fredriksen](426-did-jesus-reject-biblical-laws-of-ritual-purity-dr-paula-fre.md) · 2025-09-07
+- [Did the Historical Jesus Think He Was the Messiah?](428-did-the-historical-jesus-think-he-was-the-messiah.md) · 2025-09-12
+- [The Dead Sea Scroll Teacher, Jesus, and the Making of a Messiah](429-the-dead-sea-scroll-teacher-jesus-and-the-making-of-a-messia.md) · 2025-09-13
+- [Messianic Self-Identity: Did the Gospels Create Jesus or Jesus the Gospels?](431-messianic-self-identity-did-the-gospels-create-jesus-or-jesu.md) · 2025-10-04
+- [John Crossan and James Tabor Conversation: The Lost Mary](436-john-crossan-and-james-tabor-conversation-the-lost-mary.md) · 2025-10-29
+- [John  Crossan and James Tabor : A Conversation on Lives, Careers, and Historical Jesus Studies](439-john-crossan-and-james-tabor-a-conversation-on-lives-careers.md) · 2025-11-07
+- [Is a Quest for the Historical Mary, Mother of Jesus, Possible?](452-is-a-quest-for-the-historical-mary-mother-of-jesus-possible.md) · 2026-01-12
+- [Study the Dead Sea Scrolls!   Dr. James D. Tabor](471-study-the-dead-sea-scrolls-dr-james-d-tabor.md) · 2026-06-15
+- [Did Jesus Teach Eternal Hell Fire?](474-did-jesus-teach-eternal-hell-fire.md) · 2026-07-03
+- [The Single Idea that Transformed ALL Biblical Faiths!](480-the-single-idea-that-transformed-all-biblical-faiths.md) · 2026-09-15
+- [Bible Prophecy # 16: "When  Jerusalem” Means Jerusalem--Prophecy Belief in the 21st Century"](background/007-bible-prophecy-16-when-jerusalem-means-jerusalem-prophecy-be.md) · 2022-01-21
+- [What the Bible Really Says About Death, Afterlife, and Resurrection?](background/044-what-the-bible-really-says-about-death-afterlife-and-resurre.md) · 2022-07-25
+- [Bible Prophecy: The Perils of Predicting the End of the Age Part 1](background/104-bible-prophecy-the-perils-of-predicting-the-end-of-the-age-p.md) · 2023-02-04
+- [Bible Prophecy: The Perils of Predicting the End of the Age Part 2](background/107-bible-prophecy-the-perils-of-predicting-the-end-of-the-age-p.md) · 2023-02-11
+- [Bible Prophecy # 12: Five Great Themes of the Hebrew Prophets](background/109-bible-prophecy-12-five-great-themes-of-the-hebrew-prophets.md) · 2023-02-19
+- [The Five Unfulfilled Redemptive Themes of Isaiah Chapters 40-66](background/146-the-five-unfulfilled-redemptive-themes-of-isaiah-chapters-40.md) · 2023-04-25
+- [New Series: Death, Afterlife, and the Future](background/183-new-series-death-afterlife-and-the-future.md) · 2023-06-21
+- [Death & Afterlife: Ancient Egyptian Views](background/190-death-afterlife-ancient-egyptian-views.md) · 2023-07-04
+- [Death & Afterlife: A Hebrew Revolution](background/191-death-afterlife-a-hebrew-revolution.md) · 2023-07-08
+- [Death & Afterlife: Loose Ends & Caveats](background/196-death-afterlife-loose-ends-caveats.md) · 2023-07-25
+- [WHY Prophecy Fails: A New Series](background/203-why-prophecy-fails-a-new-series.md) · 2023-08-16
+- [Bible Prophecy #1  Believing Through the Ages](background/204-bible-prophecy-1-believing-through-the-ages.md) · 2023-08-18
+- [Bible Prophecy # 3: Has the Most Foundational Prophecy of the Bible Failed?](background/208-bible-prophecy-3-has-the-most-foundational-prophecy-of-the-b.md) · 2023-08-29
+- [Bible Prophecy #4 Why the End Should Have Come in 164 BC](background/209-bible-prophecy-4-why-the-end-should-have-come-in-164-bc.md) · 2023-09-02
+- [Bible Prophecy # 5  The Fundamental Flaw of Popular Christian Prophecy Beliefs](background/210-bible-prophecy-5-the-fundamental-flaw-of-popular-christian-p.md) · 2023-09-07
+- [Bible Prophecy # 6--Does the Longest Prophecy in the Bible "Foretell" Events After They Happened?](background/211-bible-prophecy-6-does-the-longest-prophecy-in-the-bible-fore.md) · 2023-09-09
+- [Bible Prophecy # 7 Inventing the AntiChrist](background/212-bible-prophecy-7-inventing-the-antichrist.md) · 2023-09-13
+- [Bible Prophecy #10--Is the Messiah Predicted in the Torah?](background/220-bible-prophecy-10-is-the-messiah-predicted-in-the-torah.md) · 2023-09-28
+- [Bible Prophecy #13--Floating Prophecies and Israel's Future](background/224-bible-prophecy-13-floating-prophecies-and-israel-s-future.md) · 2023-10-19
+- [Bible Prophecy # 14--Floating Prophesies: A Final Siege Of Jerusalem?](background/226-bible-prophecy-14-floating-prophesies-a-final-siege-of-jerus.md) · 2023-10-26
+- [Bible Prophecy # 15--The "Isaiah Apocalypse" A Hidden Book of the Bible](background/227-bible-prophecy-15-the-isaiah-apocalypse-a-hidden-book-of-the.md) · 2023-10-27
+- [Bible Prophecy #17  Strange Bedfellows--Where Bible Scholars and Christian Prophecy Believers Agree!](background/228-bible-prophecy-17-strange-bedfellows-where-bible-scholars-an.md) · 2023-10-31
+- [Bible Prophecy # 18 The Wars of Gog and Magog --When, Where, What?](background/229-bible-prophecy-18-the-wars-of-gog-and-magog-when-where-what.md) · 2023-11-03
+- [Bible Prophecy # 19: Is the Current War in Israel Predicted in Bible Prophecy?](background/230-bible-prophecy-19-is-the-current-war-in-israel-predicted-in.md) · 2023-11-06
+- [Bible Prophecy # 20--Can We Recover a Non-Jesus Version of the Book of Revelation?](background/231-bible-prophecy-20-can-we-recover-a-non-jesus-version-of-the.md) · 2023-11-10
+- [Bible Prophecy # 21 The Book of Revelation UNVEILED at Last!](background/233-bible-prophecy-21-the-book-of-revelation-unveiled-at-last.md) · 2023-11-18
+- [Bible Prophecy # 22 Twenty-First  Century  Expectations--Putting it ALL Together!](background/234-bible-prophecy-22-twenty-first-century-expectations-putting.md) · 2023-11-20
+- [Bible Prophecy # 23 The Fatal Flaw of Popular Christian Prophecy Belief](background/235-bible-prophecy-23-the-fatal-flaw-of-popular-christian-prophe.md) · 2023-11-23
+- [Bible Prophecy # 25  FINALE: Fundamental Fatal  Flaws of Most Prophecy Interpretations Today](background/240-bible-prophecy-25-finale-fundamental-fatal-flaws-of-most-pro.md) · 2023-12-09
+- [Is the End Really Near? Flashing Caution Lights on Apocalypticism](background/258-is-the-end-really-near-flashing-caution-lights-on-apocalypti.md) · 2024-02-10
+- [Most Bible Prophecy Is Not About a Future Apocalyptic End of the World](background/305-most-bible-prophecy-is-not-about-a-future-apocalyptic-end-of.md) · 2024-05-18
+- [How Popular Christian Prophecy Belief Was Made Fail-Safe!](background/306-how-popular-christian-prophecy-belief-was-made-fail-safe.md) · 2024-05-19
+- [The Fatal Flaw of Modern Apocalyptic Prophecy Interpretations](background/307-the-fatal-flaw-of-modern-apocalyptic-prophecy-interpretation.md) · 2024-05-20
+
+### last-week-crucifixion (78)
+
+- [Resurrecting Mary Magdalene](010-resurrecting-mary-magdalene.md) · 2022-02-16
+- [Excavating Jesus  Making Dead Stones Speak](011-excavating-jesus-making-dead-stones-speak.md) · 2022-02-17
+- [Counting Time: The  Dead Sea Scroll Essene Calendar Explained](016-counting-time-the-dead-sea-scroll-essene-calendar-explained.md) · 2022-03-09
+- [Part A Lecture: The Search for Jerusalem's Essene Gate and the Church of the Apostles](021-part-a-lecture-the-search-for-jerusalem-s-essene-gate-and-th.md) · 2022-03-23
+- [The Making of a Messiah](025-the-making-of-a-messiah.md) · 2022-04-09
+- [Tracing the Last Days of Jesus The Latest Archaeological Evidence](026-tracing-the-last-days-of-jesus-the-latest-archaeological-evi.md) · 2022-04-10
+- [Are Mary Magdalene and Mary of Bethany the Same Woman?](027-are-mary-magdalene-and-mary-of-bethany-the-same-woman.md) · 2022-04-14
+- [The Jerusalem Talpiot "Jesus" Tombs  An Overview of the Discoveries](028-the-jerusalem-talpiot-jesus-tombs-the-discoveries.md) · 2022-04-21
+- [King of the Jews: A Tale of Two Dynasties and Two Burials](029-king-of-the-jews-a-tale-of-two-dynasties-and-two-burials.md) · 2022-04-24
+- [Mary Magdalene  Disciple, Companion, or Wife of Jesus?](039-mary-magdalene-disciple-companion-or-wife-of-jesus.md) · 2022-05-21
+- [Discovering the Jesus Dynasty](048-discovering-the-jesus-dynasty.md) · 2022-08-28
+- [A Tale of Two Tombs--Part One:The Tomb of the Shroud](049-a-tale-of-two-tombs-part-one-the-tomb-of-the-shroud.md) · 2022-08-30
+- [A Tale of Two Tombs-Part Two: The James Ossuary & The Talpiot Jesus Tomb](050-a-tale-of-two-tombs-part-two-the-james-ossuary-the-talpiot-j.md) · 2022-08-31
+- [Was Jesus' Final Burial in the Galilee?](053-was-jesus-final-burial-in-the-galilee.md) · 2022-09-14
+- [James the Just--His Teachings and Tragic Death](061-james-the-just-his-teachings-and-tragic-death.md) · 2022-10-14
+- [Weeping and Mourning Through Easter--How, When, and Where Faith in Jesus' Resurrection Really Began](078-weeping-and-mourning-through-easter-how-when-and-where-faith.md) · 2022-12-11
+- [How Christian Apologists Unintentionally DESTROY the Gospels](092-how-christian-apologists-unintentionally-destroy-the-gospels.md) · 2023-01-15
+- [Was Peter's Confession of Jesus in Mark Inspired by Satan?](098-was-peter-s-confession-of-jesus-in-mark-inspired-by-satan.md) · 2023-01-27
+- [Three Forgeries vs. One Genuine:  How Did Mark's Gospel  Originally End?](114-three-forgeries-vs-one-genuine-how-did-mark-s-gospel-origina.md) · 2023-02-24
+- [Final Days of Jesus:  Digging into the Sources](131-final-days-of-jesus-digging-into-the-sources.md) · 2023-04-02
+- [Last Days of Jesus: Entering the Lions Den](132-last-days-of-jesus-entering-the-lions-den.md) · 2023-04-03
+- [The Historical Truth about the Last Supper--At Last!](133-the-historical-truth-about-the-last-supper-at-last.md) · 2023-04-05
+- [That Most Wretched of Deaths--The Murder of Jesus of Nazareth](134-that-most-wretched-of-deaths-the-murder-of-jesus-of-nazareth.md) · 2023-04-06
+- [Date, Time, and Year of the Final Days of Jesus--A Brief Comment](135-date-time-and-year-of-the-final-days-of-jesus-a-brief-commen.md) · 2023-04-06
+- [Dead, Twice Buried, and An Empty Tomb?](137-dead-twice-buried-and-an-empty-tomb.md) · 2023-04-08
+- [How and When Jesus Identified with the Suffering Servant Idea](162-how-and-when-jesus-identified-with-the-suffering-servant-ide.md) · 2023-05-24
+- [Ask Dr  Tabor Anything--with Derek Lambert: Part I](168-ask-dr-tabor-anything-with-derek-lambert-part-i.md) · 2023-05-31
+- [Death & Afterlife: Jesus' Empty Tomb? Just the Facts Please!](194-death-afterlife-jesus-empty-tomb-just-the-facts-please.md) · 2023-07-17
+- [Has the Family Tomb of Simon of Cyrene Been Found?](207-has-the-family-tomb-of-simon-of-cyrene-been-found.md) · 2023-08-27
+- [Is the Holiest Site of Christianity in the Wrong Location?](232-is-the-holiest-site-of-christianity-in-the-wrong-location.md) · 2023-11-12
+- [Do We Find Messianic Suffering in the Dead Sea Scrolls?](236-do-we-find-messianic-suffering-in-the-dead-sea-scrolls.md) · 2023-11-23
+- [Jesus Archaeology # 1 Ten Jerusalem Tombs from the Time of Jesus--Exciting  New Evidence!](245-jesus-archaeology-1-ten-jerusalem-tombs-from-the-time-of-jes.md) · 2023-12-21
+- [Jesus Archaeology # 2 Did Jesus Meet This Man?](246-jesus-archaeology-2-did-jesus-meet-this-man.md) · 2023-12-29
+- [Jesus Archaeology #3  A Forgotten City--the Urban World of Jesus](247-jesus-archaeology-3-a-forgotten-city-the-urban-world-of-jesu.md) · 2024-01-03
+- [Jesus Archaeology #7 Excavating  Magdala:  Is this the 1st Century Town of Mary Magdalene? #migdal](252-jesus-archaeology-7-excavating-magdala-is-this-the-1st-centu.md) · 2024-01-24
+- [Investigating the Messiah Before Jesus](253-investigating-the-messiah-before-jesus.md) · 2024-01-26
+- [Jesus Archaeology # 8 Does the Gospel of John Have any Worthwhile Historical Evidence?](254-jesus-archaeology-8-does-the-gospel-of-john-have-any-worthwh.md) · 2024-01-29
+- [Robert Eisenman & the Dead Sea Scrolls:  Best Interview Ever!](256-robert-eisenman-the-dead-sea-scrolls-best-interview-ever.md) · 2024-02-05
+- [Jesus Archaeology # 10 The Day Jesus Sealed His Fate!](259-jesus-archaeology-10-the-day-jesus-sealed-his-fate.md) · 2024-02-14
+- [Jesus Archaeology #11: Jesus Final Week--A  Virtual Tour!](261-jesus-archaeology-11-jesus-final-week-a-virtual-tour.md) · 2024-02-18
+- [JesusArchaeology #12:  The Last Night of Jesus' Life](263-jesusarchaeology-12-the-last-night-of-jesus-life.md) · 2024-02-21
+- [Tabor Commentary: Virtual Tour Jesus in Jerusalem](264-tabor-commentary-virtual-tour-jesus-in-jerusalem.md) · 2024-02-22
+- [Jesus Archaeology # 13 Killing Jesus--The Mafia Backstory](266-jesus-archaeology-13-killing-jesus-the-mafia-backstory.md) · 2024-02-23
+- [Jesus Archaeology # 14 New Archaeological Evidence on Jesus' Crucifixion and Burial](268-jesus-archaeology-14-new-archaeological-evidence-on-jesus-cr.md) · 2024-02-27
+- [Latest Archaeology on Crucifixion of Jesus](270-latest-archaeology-on-crucifixion-of-jesus.md) · 2024-03-04
+- [Three Earliest Resurrection Texts--Ignored, Overlooked, and Forgotten!](271-three-earliest-resurrection-texts-ignored-overlooked-and-for.md) · 2024-03-06
+- [Jesus' Final Week:  Day One--A Strategic Plan that Got Jesus Killed!](278-jesus-final-week-day-one-a-strategic-plan-that-got-jesus-kil.md) · 2024-03-24
+- [How Christian Apologists Violate the Integrity of the Gospels Pt 2](279-how-christian-apologists-violate-the-integrity-of-the-gospel.md) · 2024-03-25
+- [Jesus Final Week: Day Two--Temple Shutdown and Plot to Kill](280-jesus-final-week-day-two-temple-shutdown-and-plot-to-kill.md) · 2024-03-25
+- [Bonus Interview: Jesus' Final Week:  Day Two--Temple Shutdown](281-bonus-interview-jesus-final-week-day-two-temple-shutdown.md) · 2024-03-27
+- [Jesus' Final Week: Day Three--The Secret of the Kingdom Revealed at Last!](282-jesus-final-week-day-three-the-secret-of-the-kingdom-reveale.md) · 2024-03-27
+- [Jesus' Final Week: Day Four--Who Anointed Jesus as Messiah?](283-jesus-final-week-day-four-who-anointed-jesus-as-messiah.md) · 2024-03-28
+- [Jesus' Final Week: Day Five--Jesus Died on a Thursday Not a Friday!](284-jesus-final-week-day-five-jesus-died-on-a-thursday-not-a-fri.md) · 2024-03-29
+- [Jesus' Final Week: A Post-Easter Wrap-Up](286-jesus-final-week-a-post-easter-wrap-up.md) · 2024-04-04
+- [The Most Puzzling Dead Sea Scroll : Rebuilding the Jewish Temple at the End of the Age!](321-the-most-puzzling-dead-sea-scroll-rebuilding-the-jewish-temp.md) · 2024-06-30
+- [Exploring a More Historically Credible Version of Jesus' Last Supper](372-exploring-a-more-historically-credible-version-of-jesus-last.md) · 2025-03-20
+- [Last Days of Jesus Pt 1-A Temple Takeover Recon](376-last-days-of-jesus-pt-1-a-temple-takeover-recon.md) · 2025-04-06
+- [Last Days of Jesus Pt 2--What Got Him Killed?](377-last-days-of-jesus-pt-2-what-got-him-killed.md) · 2025-04-10
+- [Last Days of Jesus--Pt 3 The King is Dead!](378-last-days-of-jesus-pt-3-the-king-is-dead.md) · 2025-04-13
+- [Palm Sunday, Passover, Lord's Supper, Good Friday, Easter Sunday--Getting the Facts Straight!](379-palm-sunday-passover-lord-s-supper-good-friday-easter-sunday.md) · 2025-04-13
+- [Last Days of Jesus--Pt 4: Dead and Twice Buried](380-last-days-of-jesus-pt-4-dead-and-twice-buried.md) · 2025-04-16
+- [Weeping Through Easter: A Credible Historical Reconstruction of What Most Likely Happened](381-weeping-through-easter-a-credible-historical-reconstruction.md) · 2025-04-20
+- [The Gospel Texts  That All Major Christian Apologists for Jesus' Resurrection Have Misinterpreted!](382-the-gospel-texts-that-all-major-christian-apologists-for-jes.md) · 2025-04-25
+- [Would  Jesus Followers Venerate a Tomb with His Corpse Inside?](383-would-jesus-followers-venerate-a-tomb-with-his-corpse-inside.md) · 2025-04-28
+- [Five Final Post-Easter Questions for Dr  Tabor](384-five-final-post-easter-questions-for-dr-tabor.md) · 2025-04-29
+- [Did the Early Christians Keep Sunday as a New Sabbath Day?](388-did-the-early-christians-keep-sunday-as-a-new-sabbath-day.md) · 2025-05-01
+- [Go with Me into the 1st century Jerusalem Tomb of the Shroud!](390-go-with-me-into-the-1st-century-jerusalem-tomb-of-the-shroud.md) · 2025-05-03
+- [The ONLY  Authentic 1st Century Burial Shroud Ever Found in Jerusalem!](401-the-only-authentic-1st-century-burial-shroud-ever-found-in-j.md) · 2025-06-15
+- [The Fading of the Jesus Family:  Phase Two](419-the-fading-of-the-jesus-family-phase-two.md) · 2025-08-25
+- [The Last HOURS of Jesus--What Really Happened?](420-the-last-hours-of-jesus-what-really-happened.md) · 2025-08-27
+- [The Dead Sea Scroll Teacher, Jesus, and the Making of a Messiah](429-the-dead-sea-scroll-teacher-jesus-and-the-making-of-a-messia.md) · 2025-09-13
+- [Messianic Self-Identity: Did the Gospels Create Jesus or Jesus the Gospels?](431-messianic-self-identity-did-the-gospels-create-jesus-or-jesu.md) · 2025-10-04
+- [John  Crossan and James Tabor : A Conversation on Lives, Careers, and Historical Jesus Studies](439-john-crossan-and-james-tabor-a-conversation-on-lives-careers.md) · 2025-11-07
+- [Is There Archaeological Evidence for Earliest Christianity?](455-is-there-archaeological-evidence-for-earliest-christianity.md) · 2026-01-28
+- [The Day the Children in the Temple Got Jesus Arrested!](458-the-day-the-children-in-the-temple-got-jesus-arrested.md) · 2026-02-08
+- [A Band of Sisters: The  Forgotten Treasure of the EARLY Jesus Movement!](464-a-band-of-sisters-the-forgotten-treasure-of-the-early-jesus.md) · 2026-03-18
+- [Bible Prophecy # 14--Floating Prophesies: A Final Siege Of Jerusalem?](background/226-bible-prophecy-14-floating-prophesies-a-final-siege-of-jerus.md) · 2023-10-26
+- [Lost in Translation: The Jerusalem Temple as a Den of Ravenous Wild Beasts!](background/314-lost-in-translation-the-jerusalem-temple-as-a-den-of-ravenou.md) · 2024-06-05
+
+### archaeology (97)
+
+- [The Jesus Dynasty: Author's Personal Introduction](006-the-jesus-dynasty-author-s-personal-introduction.md) · 2022-01-20
+- [Erasing James the Brother of Jesus from the New Testament](009-erasing-james-the-brother-of-jesus-from-the-new-testament.md) · 2022-02-16
+- [Excavating Jesus  Making Dead Stones Speak](011-excavating-jesus-making-dead-stones-speak.md) · 2022-02-17
+- [How, When, and Why John the Baptizer Was Marginalized in Early Christianity](012-how-when-and-why-john-the-baptizer-was-marginalized-in-early.md) · 2022-02-23
+- [Who Wrote the Dead Sea Scrolls?](015-who-wrote-the-dead-sea-scrolls.md) · 2022-03-06
+- [The James Ossuary--Getting the Facts Straight](017-the-james-ossuary-getting-the-facts-straight.md) · 2022-03-12
+- [A Jesus Hideout in Jordan: Mapping Ancient Textual Traditions](019-a-jesus-hideout-in-jordan-mapping-ancient-textual-traditions.md) · 2022-03-18
+- [Is There Credible Archaeological Evidence Related to the Earliest Jesus Followers?](020-is-there-credible-archaeological-evidence-related-to-the-ear.md) · 2022-03-21
+- [Part A Lecture: The Search for Jerusalem's Essene Gate and the Church of the Apostles](021-part-a-lecture-the-search-for-jerusalem-s-essene-gate-and-th.md) · 2022-03-23
+- [Tracing the Last Days of Jesus The Latest Archaeological Evidence](026-tracing-the-last-days-of-jesus-the-latest-archaeological-evi.md) · 2022-04-10
+- [The Jerusalem Talpiot "Jesus" Tombs  An Overview of the Discoveries](028-the-jerusalem-talpiot-jesus-tombs-the-discoveries.md) · 2022-04-21
+- [King of the Jews: A Tale of Two Dynasties and Two Burials](029-king-of-the-jews-a-tale-of-two-dynasties-and-two-burials.md) · 2022-04-24
+- [The Real Mary: The Marginalization and Transformation of  the Jewish Mother of Jesus](030-the-real-mary-the-marginalization-and-transformation-of-the.md) · 2022-04-26
+- [Tracking John the Baptizer and His Followers--Including Jesus!](032-tracking-john-the-baptizer-and-his-followers-including-jesus.md) · 2022-05-04
+- [Jesus and the Boys--Forgotten Brothers and Apostles](034-jesus-and-the-boys-forgotten-brothers-and-apostles.md) · 2022-05-09
+- [The Bad Idea that Took Over the World](036-the-bad-idea-that-took-over-the-world.md) · 2022-05-13
+- [The High Cost of Holiness--Toilets, the Torah, and the Dead Sea Scrolls](040-the-high-cost-of-holiness-toilets-the-torah-and-the-dead-sea.md) · 2022-05-26
+- [Was the Oldest and Most Significant Dead Sea Scroll Mistakenly Declared a Forgery in 1883?](042-was-the-oldest-and-most-significant-dead-sea-scroll-mistaken.md) · 2022-06-19
+- [Discovering the Jesus Dynasty](048-discovering-the-jesus-dynasty.md) · 2022-08-28
+- [A Tale of Two Tombs--Part One:The Tomb of the Shroud](049-a-tale-of-two-tombs-part-one-the-tomb-of-the-shroud.md) · 2022-08-30
+- [A Tale of Two Tombs-Part Two: The James Ossuary & The Talpiot Jesus Tomb](050-a-tale-of-two-tombs-part-two-the-james-ossuary-the-talpiot-j.md) · 2022-08-31
+- [Was Jesus' Final Burial in the Galilee?](053-was-jesus-final-burial-in-the-galilee.md) · 2022-09-14
+- [A Virgin Shall Conceive](057-a-virgin-shall-conceive.md) · 2022-09-21
+- [How Was Jesus a Son of King David?](058-how-was-jesus-a-son-of-king-david.md) · 2022-09-27
+- [After James:  The Jesus Dynasty Survives and Continues](062-after-james-the-jesus-dynasty-survives-and-continues.md) · 2022-10-20
+- [A Lost and Forgotten Dead Sea Scroll?](066-a-lost-and-forgotten-dead-sea-scroll.md) · 2022-11-13
+- [What's the Latest on the "James son of Joseph brother of Jesus" Ossuary--Is it Authentic?](070-what-s-the-latest-on-the-james-son-of-joseph-brother-of-jesu.md) · 2022-11-22
+- [Did Jesus Have a Biological Father? Sorting Out the Pantera Traditions](077-did-jesus-have-a-biological-father-sorting-out-the-pantera-t.md) · 2022-12-09
+- [Disparaging Jesus: Roman Gossip and Jewish Legend](089-disparaging-jesus-roman-gossip-and-jewish-legend.md) · 2023-01-05
+- [The Lost Years of Jesus Revealed at Last!](108-the-lost-years-of-jesus-revealed-at-last.md) · 2023-02-16
+- [Two Hours with Barbara DeLong--The Historical Jesus](118-two-hours-with-barbara-delong-the-historical-jesus.md) · 2023-03-01
+- [Two More Hours with Barbara DeLong: Have the Tombs of the Jesus Family Been Found?](120-two-more-hours-with-barbara-delong-have-the-tombs-of-the-jes.md) · 2023-03-04
+- [Was John the Baptizer Greater Than Jesus?](123-was-john-the-baptizer-greater-than-jesus.md) · 2023-03-12
+- [Jesus the Baptizer](125-jesus-the-baptizer.md) · 2023-03-17
+- [Final Days of Jesus:  Digging into the Sources](131-final-days-of-jesus-digging-into-the-sources.md) · 2023-04-02
+- [Last Days of Jesus: Entering the Lions Den](132-last-days-of-jesus-entering-the-lions-den.md) · 2023-04-03
+- [That Most Wretched of Deaths--The Murder of Jesus of Nazareth](134-that-most-wretched-of-deaths-the-murder-of-jesus-of-nazareth.md) · 2023-04-06
+- [Dead, Twice Buried, and An Empty Tomb?](137-dead-twice-buried-and-an-empty-tomb.md) · 2023-04-08
+- [Digging Mt Zion Jerusalem and the Suba John the Baptist Cave](151-digging-mt-zion-jerusalem-and-the-suba-john-the-baptist-cave.md) · 2023-05-08
+- [A Unnamed Father of Jesus](155-a-unnamed-father-of-jesus.md) · 2023-05-15
+- [My FINAL University Class: Understanding the  Dead Sea Scrolls with Dr.  Charlesworth](170-my-final-university-class-understanding-the-dead-sea-scrolls.md) · 2023-06-01
+- [Jesus son of Pantera:  Ancient Slander or Historical Probability?](172-jesus-son-of-pantera-ancient-slander-or-historical-probabili.md) · 2023-06-04
+- [Did the Essenes Write the Dead Sea Scrolls--What Can We Say After 75 Years?](177-did-the-essenes-write-the-dead-sea-scrolls-what-can-we-say-a.md) · 2023-06-11
+- [Has the Family Tomb of Simon of Cyrene Been Found?](207-has-the-family-tomb-of-simon-of-cyrene-been-found.md) · 2023-08-27
+- [Finding the Toilets of the Dead Sea Scroll Group:  A Life or Death Matter](221-finding-the-toilets-of-the-dead-sea-scroll-group-a-life-or-d.md) · 2023-09-29
+- [My Greatest Discovery: A Jesus Hideout in Jordan](223-my-greatest-discovery-a-jesus-hideout-in-jordan.md) · 2023-10-03
+- [Is the Holiest Site of Christianity in the Wrong Location?](232-is-the-holiest-site-of-christianity-in-the-wrong-location.md) · 2023-11-12
+- [A Biblical Time Machine: Let's Meet Mary Again--for the First Time!](241-a-biblical-time-machine-let-s-meet-mary-again-for-the-first.md) · 2023-12-11
+- [Introducing a New Series: Jesus Archaeology](244-introducing-a-new-series-jesus-archaeology.md) · 2023-12-20
+- [Jesus Archaeology # 1 Ten Jerusalem Tombs from the Time of Jesus--Exciting  New Evidence!](245-jesus-archaeology-1-ten-jerusalem-tombs-from-the-time-of-jes.md) · 2023-12-21
+- [Jesus Archaeology # 2 Did Jesus Meet This Man?](246-jesus-archaeology-2-did-jesus-meet-this-man.md) · 2023-12-29
+- [Jesus Archaeology #3  A Forgotten City--the Urban World of Jesus](247-jesus-archaeology-3-a-forgotten-city-the-urban-world-of-jesu.md) · 2024-01-03
+- [Jesus Archaeology # 4 Exploring 1st Century Nazareth in the Time of Jesus  What's the Evidence?](248-jesus-archaeology-4-exploring-1st-century-nazareth-in-the-ti.md) · 2024-01-07
+- [Exploring the Lost Cave of John the Baptizer](249-exploring-the-lost-cave-of-john-the-baptizer.md) · 2024-01-11
+- [Jesus Archaeology # 6 Exploring the "Ground Zero" HQ for the Jesus Movement](250-jesus-archaeology-6-exploring-the-ground-zero-hq-for-the-jes.md) · 2024-01-16
+- [Jesus Archaeology #7 Excavating  Magdala:  Is this the 1st Century Town of Mary Magdalene? #migdal](252-jesus-archaeology-7-excavating-magdala-is-this-the-1st-centu.md) · 2024-01-24
+- [Jesus Archaeology # 8 Does the Gospel of John Have any Worthwhile Historical Evidence?](254-jesus-archaeology-8-does-the-gospel-of-john-have-any-worthwh.md) · 2024-01-29
+- [Jesus Archaeology #9  The Forgotten Last Winter of Jesus' Life  Explored](255-jesus-archaeology-9-the-forgotten-last-winter-of-jesus-life.md) · 2024-02-04
+- [Jesus Archaeology # 10 The Day Jesus Sealed His Fate!](259-jesus-archaeology-10-the-day-jesus-sealed-his-fate.md) · 2024-02-14
+- [Jesus Archaeology #11: Jesus Final Week--A  Virtual Tour!](261-jesus-archaeology-11-jesus-final-week-a-virtual-tour.md) · 2024-02-18
+- [Jesus in the Jerusalem Temple--A Virtual Tour](262-jesus-in-the-jerusalem-temple-a-virtual-tour.md) · 2024-02-20
+- [JesusArchaeology #12:  The Last Night of Jesus' Life](263-jesusarchaeology-12-the-last-night-of-jesus-life.md) · 2024-02-21
+- [Tabor Commentary: Virtual Tour Jesus in Jerusalem](264-tabor-commentary-virtual-tour-jesus-in-jerusalem.md) · 2024-02-22
+- [Jesus Archaeology # 13 Killing Jesus--The Mafia Backstory](266-jesus-archaeology-13-killing-jesus-the-mafia-backstory.md) · 2024-02-23
+- [Jesus Archaeology # 14 New Archaeological Evidence on Jesus' Crucifixion and Burial](268-jesus-archaeology-14-new-archaeological-evidence-on-jesus-cr.md) · 2024-02-27
+- [Latest Archaeology on Crucifixion of Jesus](270-latest-archaeology-on-crucifixion-of-jesus.md) · 2024-03-04
+- [Jesus Final Week: Day Two--Temple Shutdown and Plot to Kill](280-jesus-final-week-day-two-temple-shutdown-and-plot-to-kill.md) · 2024-03-25
+- [Jesus' Final Week: A Post-Easter Wrap-Up](286-jesus-final-week-a-post-easter-wrap-up.md) · 2024-04-04
+- [The Lost Tomb of Jesus--A Critical Look from All Sides!](346-the-lost-tomb-of-jesus-a-critical-look-from-all-sides.md) · 2024-10-11
+- [Was  Jesus a Poor, Illiterate, Itinerant, Peasant?](354-was-jesus-a-poor-illiterate-itinerant-peasant.md) · 2024-12-17
+- [The Day I  Entered a Sealed 1st Century Jerusalem Tomb--Virtually!](355-the-day-i-entered-a-sealed-1st-century-jerusalem-tomb-virtua.md) · 2024-12-20
+- [Countdown: Top Ten Differences Dead Sea Scrolls & Traditional Old Testament Pt 1](363-countdown-top-ten-differences-dead-sea-scrolls-traditional-o.md) · 2025-01-22
+- [Last Days of Jesus Pt 1-A Temple Takeover Recon](376-last-days-of-jesus-pt-1-a-temple-takeover-recon.md) · 2025-04-06
+- [Last Days of Jesus--Pt 3 The King is Dead!](378-last-days-of-jesus-pt-3-the-king-is-dead.md) · 2025-04-13
+- [The Gospel Texts  That All Major Christian Apologists for Jesus' Resurrection Have Misinterpreted!](382-the-gospel-texts-that-all-major-christian-apologists-for-jes.md) · 2025-04-25
+- [Would  Jesus Followers Venerate a Tomb with His Corpse Inside?](383-would-jesus-followers-venerate-a-tomb-with-his-corpse-inside.md) · 2025-04-28
+- [Go with Me into the 1st century Jerusalem Tomb of the Shroud!](390-go-with-me-into-the-1st-century-jerusalem-tomb-of-the-shroud.md) · 2025-05-03
+- [Dating the Dead Sea Scrolls--What About the Latest  AI and Carbon 14 Methods?](400-dating-the-dead-sea-scrolls-what-about-the-latest-ai-and-car.md) · 2025-06-05
+- [The ONLY  Authentic 1st Century Burial Shroud Ever Found in Jerusalem!](401-the-only-authentic-1st-century-burial-shroud-ever-found-in-j.md) · 2025-06-15
+- [The Last HOURS of Jesus--What Really Happened?](420-the-last-hours-of-jesus-what-really-happened.md) · 2025-08-27
+- [What's the Real Story on the Pharisees and Jesus--with Dr. Amy-Jill Levine?](421-what-s-the-real-story-on-the-pharisees-and-jesus-with-dr-amy.md) · 2025-08-29
+- [Jacob Berman Interview: The Lost Mary Part 2](434-jacob-berman-interview-the-lost-mary-part-2.md) · 2025-10-21
+- [Jacob Berman Interview: The Lost Mary Part 3](437-jacob-berman-interview-the-lost-mary-part-3.md) · 2025-10-31
+- [Megan Lewis Interview: The Lost Mary](441-megan-lewis-interview-the-lost-mary.md) · 2025-11-30
+- [James Tabor Slide Show Lecture: The Lost Mary](444-james-tabor-slide-show-lecture-the-lost-mary.md) · 2025-12-04
+- [What Do Scholars Mean by  the "Historical" Jesus?](445-what-do-scholars-mean-by-the-historical-jesus.md) · 2025-12-08
+- [John Batchelor "CBS Eye on the World" Interview: The Lost Mary](447-john-batchelor-cbs-eye-on-the-world-interview-the-lost-mary.md) · 2025-12-22
+- [The Suba Cave of John the Baptizer BAS 2003](450-the-suba-cave-of-john-the-baptizer-bas-2003.md) · 2026-01-05
+- [The Suba Cave of John the Baptizer 2023](451-the-suba-cave-of-john-the-baptizer-2023.md) · 2026-01-05
+- [Is There Archaeological Evidence for Earliest Christianity?](455-is-there-archaeological-evidence-for-earliest-christianity.md) · 2026-01-28
+- [Mary Mother of Jesus: My Archeological Journey of Discovery](457-mary-mother-of-jesus-my-archeological-journey-of-discovery.md) · 2026-02-04
+- [Academic Lecture: "The Lost Mary" at  the 2026  International Symposium on Archaeology and the Bible](459-academic-lecture-the-lost-mary-at-the-2026-international-sym.md) · 2026-02-17
+- [Tabor at the River Jordan--Was John Greater than Jesus?](470-tabor-at-the-river-jordan-was-john-greater-than-jesus.md) · 2026-06-12
+- [John the Baptist and Jesus:  Separating History from Myth](473-john-the-baptist-and-jesus-separating-history-from-myth.md) · 2026-07-01
+- [My First Catholic Audience: Presenting the Historical Mary to Catholic Sisters](477-my-first-catholic-audience-presenting-the-historical-mary-to.md) · 2026-07-27
+- [Death & Afterlife : Ancient Babylonian Views](background/187-death-afterlife-ancient-babylonian-views.md) · 2023-06-28
+- [Special Segment: The Tomb Artifact that Changed the World](background/189-special-segment-the-tomb-artifact-that-changed-the-world.md) · 2023-06-30
+
+### gospels-canon (123)
+
+- [Erasing James the Brother of Jesus from the New Testament](009-erasing-james-the-brother-of-jesus-from-the-new-testament.md) · 2022-02-16
+- [Resurrecting Mary Magdalene](010-resurrecting-mary-magdalene.md) · 2022-02-16
+- [How, When, and Why John the Baptizer Was Marginalized in Early Christianity](012-how-when-and-why-john-the-baptizer-was-marginalized-in-early.md) · 2022-02-23
+- [Dead Messiahs Who Don't Return](014-dead-messiahs-who-don-t-return.md) · 2022-03-05
+- [A Jesus Hideout in Jordan: Mapping Ancient Textual Traditions](019-a-jesus-hideout-in-jordan-mapping-ancient-textual-traditions.md) · 2022-03-18
+- [Is There Credible Archaeological Evidence Related to the Earliest Jesus Followers?](020-is-there-credible-archaeological-evidence-related-to-the-ear.md) · 2022-03-21
+- [Tracing the Last Days of Jesus The Latest Archaeological Evidence](026-tracing-the-last-days-of-jesus-the-latest-archaeological-evi.md) · 2022-04-10
+- [Are Mary Magdalene and Mary of Bethany the Same Woman?](027-are-mary-magdalene-and-mary-of-bethany-the-same-woman.md) · 2022-04-14
+- [The Real Mary: The Marginalization and Transformation of  the Jewish Mother of Jesus](030-the-real-mary-the-marginalization-and-transformation-of-the.md) · 2022-04-26
+- [How Does Hebrew Matthew Compare with Greek Matthew in the New Testament?](033-how-does-hebrew-matthew-compare-with-greek-matthew-in-the-ne.md) · 2022-05-05
+- [Mary Magdalene  Disciple, Companion, or Wife of Jesus?](039-mary-magdalene-disciple-companion-or-wife-of-jesus.md) · 2022-05-21
+- [30 Years Ago:  My Take on the Dead Sea Scrolls in 1992](052-30-years-ago-my-take-on-the-dead-sea-scrolls-in-1992.md) · 2022-09-13
+- [Six Minutes on How Resurrection Faith Was Born](054-six-minutes-on-how-resurrection-faith-was-born.md) · 2022-09-16
+- [A Virgin Shall Conceive](057-a-virgin-shall-conceive.md) · 2022-09-21
+- [How Was Jesus a Son of King David?](058-how-was-jesus-a-son-of-king-david.md) · 2022-09-27
+- [If You Want to Follow Jesus: Go To James the Just](059-if-you-want-to-follow-jesus-go-to-james-the-just.md) · 2022-10-04
+- [James the Just--His Teachings and Tragic Death](061-james-the-just-his-teachings-and-tragic-death.md) · 2022-10-14
+- [Following the God of Israel After Jerusalem's Destruction--The Earliest  Surviving Jewish Text Text](068-following-the-god-of-israel-after-jerusalem-s-destruction-th.md) · 2022-11-15
+- [Who Was James the Brother of the Lord?](073-who-was-james-the-brother-of-the-lord.md) · 2022-11-30
+- [Did Jesus Have a Biological Father? Sorting Out the Pantera Traditions](077-did-jesus-have-a-biological-father-sorting-out-the-pantera-t.md) · 2022-12-09
+- [Weeping and Mourning Through Easter--How, When, and Where Faith in Jesus' Resurrection Really Began](078-weeping-and-mourning-through-easter-how-when-and-where-faith.md) · 2022-12-11
+- [How Paul, Not Jesus, Created Christian Baptism and the Eucharist](087-how-paul-not-jesus-created-christian-baptism-and-the-euchari.md) · 2022-12-31
+- [Creating Jesus--Why Mark's Gospel Was Forgotten](091-creating-jesus-why-mark-s-gospel-was-forgotten.md) · 2023-01-12
+- [How Christian Apologists Unintentionally DESTROY the Gospels](092-how-christian-apologists-unintentionally-destroy-the-gospels.md) · 2023-01-15
+- [Paul Williams Interview Part 3: Was Jesus a Torah Observant Jew? Its Complicated!](095-paul-williams-interview-part-3-was-jesus-a-torah-observant-j.md) · 2023-01-22
+- [How and Why Matthew and Luke Destroy Mark](097-how-and-why-matthew-and-luke-destroy-mark.md) · 2023-01-26
+- [Was Peter's Confession of Jesus in Mark Inspired by Satan?](098-was-peter-s-confession-of-jesus-in-mark-inspired-by-satan.md) · 2023-01-27
+- [The Lost Years of Jesus Revealed at Last!](108-the-lost-years-of-jesus-revealed-at-last.md) · 2023-02-16
+- [That Other King of the Jews: Part 2](110-that-other-king-of-the-jews-part-2.md) · 2023-02-21
+- [What is Secret of the Kingdom in Mark's Gospel?](112-what-is-secret-of-the-kingdom-in-mark-s-gospel.md) · 2023-02-22
+- [How Matthew and Luke Abuse Mark's Gospel?](113-how-matthew-and-luke-abuse-mark-s-gospel.md) · 2023-02-23
+- [Three Forgeries vs. One Genuine:  How Did Mark's Gospel  Originally End?](114-three-forgeries-vs-one-genuine-how-did-mark-s-gospel-origina.md) · 2023-02-24
+- [Don't Be Fooled--Jesus' Miracles in Mark Are Not to Show He is the Messiah](115-don-t-be-fooled-jesus-miracles-in-mark-are-not-to-show-he-is.md) · 2023-02-26
+- [Was John the Baptizer Greater Than Jesus?](123-was-john-the-baptizer-greater-than-jesus.md) · 2023-03-12
+- [Mark Is our Earliest Jesus Story--How We Know and Why it Matters!](124-mark-is-our-earliest-jesus-story-how-we-know-and-why-it-matt.md) · 2023-03-14
+- [Jesus the Baptizer](125-jesus-the-baptizer.md) · 2023-03-17
+- [Final Days of Jesus:  Digging into the Sources](131-final-days-of-jesus-digging-into-the-sources.md) · 2023-04-02
+- [The Historical Truth about the Last Supper--At Last!](133-the-historical-truth-about-the-last-supper-at-last.md) · 2023-04-05
+- [Dead, Twice Buried, and An Empty Tomb?](137-dead-twice-buried-and-an-empty-tomb.md) · 2023-04-08
+- [Did the Author of Mark's Gospel Think Jesus Was God?](140-did-the-author-of-mark-s-gospel-think-jesus-was-god.md) · 2023-04-12
+- [Five Minutes on How Harmonizing the Gospels Destroys Them](150-five-minutes-on-how-harmonizing-the-gospels-destroys-them.md) · 2023-05-06
+- [A Unnamed Father of Jesus](155-a-unnamed-father-of-jesus.md) · 2023-05-15
+- [Does Matthew Support the Virgin Birth of Jesus? Let's Take a Closer Look!](156-does-matthew-support-the-virgin-birth-of-jesus-let-s-take-a.md) · 2023-05-16
+- [Children of a Different Father--Mother Mary and Her Band of Seven](157-children-of-a-different-father-mother-mary-and-her-band-of-s.md) · 2023-05-18
+- [Following James the Brother of Jesus Out of Christianity](167-following-james-the-brother-of-jesus-out-of-christianity.md) · 2023-05-29
+- [Ask Dr  Tabor Anything--with Derek Lambert: Part I](168-ask-dr-tabor-anything-with-derek-lambert-part-i.md) · 2023-05-31
+- [Ask Dr Tabor Anythng--with Derek Lambert Part II](169-ask-dr-tabor-anythng-with-derek-lambert-part-ii.md) · 2023-06-01
+- [My FINAL University Class: Understanding the  Dead Sea Scrolls with Dr.  Charlesworth](170-my-final-university-class-understanding-the-dead-sea-scrolls.md) · 2023-06-01
+- [Jesus son of Pantera:  Ancient Slander or Historical Probability?](172-jesus-son-of-pantera-ancient-slander-or-historical-probabili.md) · 2023-06-04
+- [Death & Afterlife: Jesus' Empty Tomb? Just the Facts Please!](194-death-afterlife-jesus-empty-tomb-just-the-facts-please.md) · 2023-07-17
+- [Why Evangelical Christians Ignore  the Earliest and only 1st-Person Testimony to Jesus' Resurrection](199-why-evangelical-christians-ignore-the-earliest-and-only-1st.md) · 2023-08-07
+- [Let's Read Together the So Called "Lost Gospel of Q"](201-let-s-read-together-the-so-called-lost-gospel-of-q.md) · 2023-08-12
+- [Did Jesus Ever Claim to be God in our Earliest Sources?](202-did-jesus-ever-claim-to-be-god-in-our-earliest-sources.md) · 2023-08-13
+- [Has the Family Tomb of Simon of Cyrene Been Found?](207-has-the-family-tomb-of-simon-of-cyrene-been-found.md) · 2023-08-27
+- [Bible Prophecy #11 Did the Jesus Apocalypse Fail?](222-bible-prophecy-11-did-the-jesus-apocalypse-fail.md) · 2023-10-01
+- [My Greatest Discovery: A Jesus Hideout in Jordan](223-my-greatest-discovery-a-jesus-hideout-in-jordan.md) · 2023-10-03
+- [Is the Holiest Site of Christianity in the Wrong Location?](232-is-the-holiest-site-of-christianity-in-the-wrong-location.md) · 2023-11-12
+- [Exploring the Lost Cave of John the Baptizer](249-exploring-the-lost-cave-of-john-the-baptizer.md) · 2024-01-11
+- [Jesus Archaeology # 6 Exploring the "Ground Zero" HQ for the Jesus Movement](250-jesus-archaeology-6-exploring-the-ground-zero-hq-for-the-jes.md) · 2024-01-16
+- [Jesus Archaeology #7 Excavating  Magdala:  Is this the 1st Century Town of Mary Magdalene? #migdal](252-jesus-archaeology-7-excavating-magdala-is-this-the-1st-centu.md) · 2024-01-24
+- [Jesus Archaeology # 8 Does the Gospel of John Have any Worthwhile Historical Evidence?](254-jesus-archaeology-8-does-the-gospel-of-john-have-any-worthwh.md) · 2024-01-29
+- [The Lost Gospel of Mark](260-the-lost-gospel-of-mark.md) · 2024-02-16
+- [Jesus Archaeology # 13 Killing Jesus--The Mafia Backstory](266-jesus-archaeology-13-killing-jesus-the-mafia-backstory.md) · 2024-02-23
+- [Three Earliest Resurrection Texts--Ignored, Overlooked, and Forgotten!](271-three-earliest-resurrection-texts-ignored-overlooked-and-for.md) · 2024-03-06
+- [Five Examples of How  Christian Apologists Violate the Integrity of the Gospels! Pt 1](277-five-examples-of-how-christian-apologists-violate-the-integr.md) · 2024-03-24
+- [Jesus' Final Week:  Day One--A Strategic Plan that Got Jesus Killed!](278-jesus-final-week-day-one-a-strategic-plan-that-got-jesus-kil.md) · 2024-03-24
+- [How Christian Apologists Violate the Integrity of the Gospels Pt 2](279-how-christian-apologists-violate-the-integrity-of-the-gospel.md) · 2024-03-25
+- [Jesus' Final Week: Day Four--Who Anointed Jesus as Messiah?](283-jesus-final-week-day-four-who-anointed-jesus-as-messiah.md) · 2024-03-28
+- [Jesus' Final Week: Day Five--Jesus Died on a Thursday Not a Friday!](284-jesus-final-week-day-five-jesus-died-on-a-thursday-not-a-fri.md) · 2024-03-29
+- [Jesus' Final Week: A Post-Easter Wrap-Up](286-jesus-final-week-a-post-easter-wrap-up.md) · 2024-04-04
+- [Was Jesus a Failed Apocayptic Messiah?  Standing in the Shadow of Schweitzer](301-was-jesus-a-failed-apocayptic-messiah-standing-in-the-shadow.md) · 2024-05-06
+- [Lost in Translation: The Son of Man Coming in the Clouds of Heaven is NOT Jesus!](310-lost-in-translation-the-son-of-man-coming-in-the-clouds-of-h.md) · 2024-05-24
+- [Lost in Translation: Did the Prophet Isaiah Predict the Virgin Birth?](318-lost-in-translation-did-the-prophet-isaiah-predict-the-virgi.md) · 2024-06-24
+- [Lost in Translation: A Bit of Toilet Humor From Jesus that Everyone  Misses!](324-lost-in-translation-a-bit-of-toilet-humor-from-jesus-that-ev.md) · 2024-07-16
+- [Is This the Earliest Source for the Teachings of Jesus?](351-is-this-the-earliest-source-for-the-teachings-of-jesus.md) · 2024-12-02
+- [Was  Jesus a Poor, Illiterate, Itinerant, Peasant?](354-was-jesus-a-poor-illiterate-itinerant-peasant.md) · 2024-12-17
+- [Jesus' Resurrection  Physical or Spiritual? What Do our Earliest Texts Really Say?](358-jesus-resurrection-physical-or-spiritual-what-do-our-earlies.md) · 2024-12-28
+- [Dateline 1992: RARE Archive Footage on the Release of the Dead Sea Scrolls](360-dateline-1992-rare-archive-footage-on-the-release-of-the-dea.md) · 2025-01-02
+- [Expanding Q--Recovering  a Gospel written BEFORE our Gospels?](366-expanding-q-recovering-a-gospel-written-before-our-gospels.md) · 2025-02-18
+- [The Didache: A Lost and Rediscovered Text of the Teaching of Jesus Pt 1](369-the-didache-a-lost-and-rediscovered-text-of-the-teaching-of.md) · 2025-02-26
+- [Part 2: The Didache: A Lost and Rediscovered Text of the Teaching of Jesus](370-part-2-the-didache-a-lost-and-rediscovered-text-of-the-teach.md) · 2025-03-10
+- [Identifying Gospel Interpolations: Can You Spot These SEVEN?](371-identifying-gospel-interpolations-can-you-spot-these-seven.md) · 2025-03-17
+- [Exploring a More Historically Credible Version of Jesus' Last Supper](372-exploring-a-more-historically-credible-version-of-jesus-last.md) · 2025-03-20
+- [Was Jesus Naked at His Resurrection?](373-was-jesus-naked-at-his-resurrection.md) · 2025-03-23
+- [Last Days of Jesus--Pt 3 The King is Dead!](378-last-days-of-jesus-pt-3-the-king-is-dead.md) · 2025-04-13
+- [Last Days of Jesus--Pt 4: Dead and Twice Buried](380-last-days-of-jesus-pt-4-dead-and-twice-buried.md) · 2025-04-16
+- [Weeping Through Easter: A Credible Historical Reconstruction of What Most Likely Happened](381-weeping-through-easter-a-credible-historical-reconstruction.md) · 2025-04-20
+- [The Gospel Texts  That All Major Christian Apologists for Jesus' Resurrection Have Misinterpreted!](382-the-gospel-texts-that-all-major-christian-apologists-for-jes.md) · 2025-04-25
+- [Five Final Post-Easter Questions for Dr  Tabor](384-five-final-post-easter-questions-for-dr-tabor.md) · 2025-04-29
+- [Why Study Jesus in Unbelief?](386-why-study-jesus-in-unbelief.md) · 2025-05-01
+- [Is the Jesus Story Modeled after a Typical Hellenistic Divine Man Matrix](396-is-the-jesus-story-modeled-after-a-typical-hellenistic-divin.md) · 2025-05-25
+- [The ONLY  Authentic 1st Century Burial Shroud Ever Found in Jerusalem!](401-the-only-authentic-1st-century-burial-shroud-ever-found-in-j.md) · 2025-06-15
+- [Is Mark the  Earliest Surviving  JEWISH Text  after the JerusalemTemple Was Destroyed?](407-is-mark-the-earliest-surviving-jewish-text-after-the-jerusal.md) · 2025-07-13
+- [The Fading of the Jesus Family--Phase One](411-the-fading-of-the-jesus-family-phase-one.md) · 2025-07-25
+- [How Historical Methods Get us Closer to the Real Jesus](413-how-historical-methods-get-us-closer-to-the-real-jesus.md) · 2025-07-28
+- [The Fading of the Jesus Family:  Phase Two](419-the-fading-of-the-jesus-family-phase-two.md) · 2025-08-25
+- [The Last HOURS of Jesus--What Really Happened?](420-the-last-hours-of-jesus-what-really-happened.md) · 2025-08-27
+- [What Do We Really KNOW About the Historical  Jesus? An In-Depth Conversation with Dr. Justin Sledge](422-what-do-we-really-know-about-the-historical-jesus-an-in-dept.md) · 2025-08-30
+- [Prof. Goodacre: Why the Missing Pieces in our Gospel Stories are so Important](423-prof-goodacre-why-the-missing-pieces-in-our-gospel-stories-a.md) · 2025-09-03
+- [What Kind of a Jew Was Jesus?  Dr  Joel Marcus on "Jesus and the Law"](424-what-kind-of-a-jew-was-jesus-dr-joel-marcus-on-jesus-and-the.md) · 2025-09-05
+- [Did Jesus Really Do Miracles?   Dr. Dale Allison Weights In](425-did-jesus-really-do-miracles-dr-dale-allison-weights-in.md) · 2025-09-07
+- [The Fading of the Jesus Family Phase Three :  An Ever-Virgin Mary?](427-the-fading-of-the-jesus-family-phase-three-an-ever-virgin-ma.md) · 2025-09-09
+- [Did the Historical Jesus Think He Was the Messiah?](428-did-the-historical-jesus-think-he-was-the-messiah.md) · 2025-09-12
+- [Was John the Baptist Greater than Jesus?](430-was-john-the-baptist-greater-than-jesus.md) · 2025-09-15
+- [The Fading of the Jesus Family: Finale and Summing Up](432-the-fading-of-the-jesus-family-finale-and-summing-up.md) · 2025-10-12
+- [Jacob Berman Interview: The Lost Mary Part 1](433-jacob-berman-interview-the-lost-mary-part-1.md) · 2025-10-18
+- [James Tabor Slide Show Lecture: The Lost Mary](444-james-tabor-slide-show-lecture-the-lost-mary.md) · 2025-12-04
+- [What Do Scholars Mean by  the "Historical" Jesus?](445-what-do-scholars-mean-by-the-historical-jesus.md) · 2025-12-08
+- [The Suba Cave of John the Baptizer 2023](451-the-suba-cave-of-john-the-baptizer-2023.md) · 2026-01-05
+- [What About Christianity Before Paul? A Conversation with Derek Lambert Pt 1](454-what-about-christianity-before-paul-a-conversation-with-dere.md) · 2026-01-22
+- [What About Christianity Before Paul? A Conversation with Derek Lambert Pt 2](456-what-about-christianity-before-paul-a-conversation-with-dere.md) · 2026-01-30
+- [The Day the Children in the Temple Got Jesus Arrested!](458-the-day-the-children-in-the-temple-got-jesus-arrested.md) · 2026-02-08
+- [Sam Tideman Interview: The Lost Mary](460-sam-tideman-interview-the-lost-mary.md) · 2026-02-22
+- [Tabor at the River Jordan--Was John Greater than Jesus?](470-tabor-at-the-river-jordan-was-john-greater-than-jesus.md) · 2026-06-12
+- [John the Baptist and Jesus:  Separating History from Myth](473-john-the-baptist-and-jesus-separating-history-from-myth.md) · 2026-07-01
+- [Did Jesus Teach Eternal Hell Fire?](474-did-jesus-teach-eternal-hell-fire.md) · 2026-07-03
+- [Did the First Witnesses Believe that Jesus' Body Left the Tomb?](483-did-the-first-witnesses-believe-that-jesus-body-left-the-tom.md) · 2026-10-20
+- [Reading Genesis Again--for the First Time!](background/143-reading-genesis-again-for-the-first-time.md) · 2023-04-17
+- [Bible Prophecy # 3: Has the Most Foundational Prophecy of the Bible Failed?](background/208-bible-prophecy-3-has-the-most-foundational-prophecy-of-the-b.md) · 2023-08-29
+- [Bible Prophecy #13--Floating Prophecies and Israel's Future](background/224-bible-prophecy-13-floating-prophecies-and-israel-s-future.md) · 2023-10-19
+- [Bible Prophecy # 22 Twenty-First  Century  Expectations--Putting it ALL Together!](background/234-bible-prophecy-22-twenty-first-century-expectations-putting.md) · 2023-11-20
+- [Bible Prophecy # 25  FINALE: Fundamental Fatal  Flaws of Most Prophecy Interpretations Today](background/240-bible-prophecy-25-finale-fundamental-fatal-flaws-of-most-pro.md) · 2023-12-09
+- [Identifying Bible Interpolations: The False Pen of the Scribes!](background/317-identifying-bible-interpolations-the-false-pen-of-the-scribe.md) · 2024-06-20
+
+## Guests and hosts
+
+- **Derek Lambert**: [Six Minutes on How Resurrection Faith Was Born](054-six-minutes-on-how-resurrection-faith-was-born.md), [Can a Pre Christian Version of the Book of Revelation Be Recovered?](072-can-a-pre-christian-version-of-the-book-of-revelation-be-rec.md), [Were Jesus and His First Followers Wrong About the End of the Age?](075-were-jesus-and-his-first-followers-wrong-about-the-end-of-th.md), [Did Jesus Have a Biological Father? Sorting Out the Pantera Traditions](077-did-jesus-have-a-biological-father-sorting-out-the-pantera-t.md), [Weeping and Mourning Through Easter--How, When, and Where Faith in Jesus' Resurrection Really Began](078-weeping-and-mourning-through-easter-how-when-and-where-faith.md), [What Was Paul's Thorn in the Flesh?](080-what-was-paul-s-thorn-in-the-flesh.md), [Jesus the Jew--Where Does He Fit in the Ancient Jewish Landscape?](083-jesus-the-jew-where-does-he-fit-in-the-ancient-jewish-landsc.md), [Why I Think Jesus Was a Vegetarian](084-why-i-think-jesus-was-a-vegetarian.md), [How Paul, Not Jesus, Created Christian Baptism and the Eucharist](087-how-paul-not-jesus-created-christian-baptism-and-the-euchari.md), [Were the Ebionites Heretics? Or Our Best Witness to the Jesus Movement?](090-were-the-ebionites-heretics-or-our-best-witness-to-the-jesus.md), [How Christian Apologists Unintentionally DESTROY the Gospels](092-how-christian-apologists-unintentionally-destroy-the-gospels.md), [Ask Dr  Tabor Anything--with Derek Lambert: Part I](168-ask-dr-tabor-anything-with-derek-lambert-part-i.md), [Ask Dr Tabor Anythng--with Derek Lambert Part II](169-ask-dr-tabor-anythng-with-derek-lambert-part-ii.md), [Do We Find Messianic Suffering in the Dead Sea Scrolls?](236-do-we-find-messianic-suffering-in-the-dead-sea-scrolls.md), [What Do We Really Know About the "Teacher of Righteousness" in the Dead Sea Scrolls?](251-what-do-we-really-know-about-the-teacher-of-righteousness-in.md), [Investigating the Messiah Before Jesus](253-investigating-the-messiah-before-jesus.md), [Five Examples of How  Christian Apologists Violate the Integrity of the Gospels! Pt 1](277-five-examples-of-how-christian-apologists-violate-the-integr.md), [How Christian Apologists Violate the Integrity of the Gospels Pt 2](279-how-christian-apologists-violate-the-integrity-of-the-gospel.md), [Jesus' Resurrection  Physical or Spiritual? What Do our Earliest Texts Really Say?](358-jesus-resurrection-physical-or-spiritual-what-do-our-earlies.md), [John Crossan and James Tabor Conversation: The Lost Mary](436-john-crossan-and-james-tabor-conversation-the-lost-mary.md), [John  Crossan and James Tabor : A Conversation on Lives, Careers, and Historical Jesus Studies](439-john-crossan-and-james-tabor-a-conversation-on-lives-careers.md), [What About Christianity Before Paul? A Conversation with Derek Lambert Pt 1](454-what-about-christianity-before-paul-a-conversation-with-dere.md), [What About Christianity Before Paul? A Conversation with Derek Lambert Pt 2](456-what-about-christianity-before-paul-a-conversation-with-dere.md), [The Forgotten Ebionites--Found at Last!](465-the-forgotten-ebionites-found-at-last.md)
+- **Jacob Berman**: [Mark Is our Earliest Jesus Story--How We Know and Why it Matters!](124-mark-is-our-earliest-jesus-story-how-we-know-and-why-it-matt.md), [Why Evangelical Christians Ignore  the Earliest and only 1st-Person Testimony to Jesus' Resurrection](199-why-evangelical-christians-ignore-the-earliest-and-only-1st.md), [Jesus and the Essene Movement--How Were They Related? An In Depth Conversation](238-jesus-and-the-essene-movement-how-were-they-related-an-in-de.md), [The ONLY  Authentic 1st Century Burial Shroud Ever Found in Jerusalem!](401-the-only-authentic-1st-century-burial-shroud-ever-found-in-j.md), [Jacob Berman Interview: The Lost Mary Part 1](433-jacob-berman-interview-the-lost-mary-part-1.md), [Jacob Berman Interview: The Lost Mary Part 2](434-jacob-berman-interview-the-lost-mary-part-2.md), [Jacob Berman Interview: The Lost Mary Part 3](437-jacob-berman-interview-the-lost-mary-part-3.md), [Ebionites, Nazarenes, Essenes, Nasareans Sorting out the Names!](472-ebionites-nazarenes-essenes-nasareans-sorting-out-the-names.md), [A Shared Utopian Vision? Enochians, Essenes, Ebionites, and Nazarenes](475-a-shared-utopian-vision-enochians-essenes-ebionites-and-naza.md), [Reading Genesis Again--for the First Time!](background/143-reading-genesis-again-for-the-first-time.md)
+- **Aaron Abke**: [Were there Connections Between Jesus and the Dead Sea Scrolls Community?](392-were-there-connections-between-jesus-and-the-dead-sea-scroll.md), [When Prophecy Fails: The Teacher of Righteousness in the Dead Sea Scrolls](394-when-prophecy-fails-the-teacher-of-righteousness-in-the-dead.md), [What Was "Christianity" Like Before Paul?](395-what-was-christianity-like-before-paul.md), [My View of Biblical Faith After 45 Years of Academic Study](408-my-view-of-biblical-faith-after-45-years-of-academic-study.md), [Aaron Abke Interview: The Lost Mary](442-aaron-abke-interview-the-lost-mary.md)
+- **Kameron Waters**: [Were there Connections Between Jesus and the Dead Sea Scrolls Community?](392-were-there-connections-between-jesus-and-the-dead-sea-scroll.md), [When Prophecy Fails: The Teacher of Righteousness in the Dead Sea Scrolls](394-when-prophecy-fails-the-teacher-of-righteousness-in-the-dead.md), [What Was "Christianity" Like Before Paul?](395-what-was-christianity-like-before-paul.md), [My View of Biblical Faith After 45 Years of Academic Study](408-my-view-of-biblical-faith-after-45-years-of-academic-study.md), [A Shared Utopian Vision? Enochians, Essenes, Ebionites, and Nazarenes](475-a-shared-utopian-vision-enochians-essenes-ebionites-and-naza.md)
+- **Paul Williams**: [Paul Williams Interview Part 3: Was Jesus a Torah Observant Jew? Its Complicated!](095-paul-williams-interview-part-3-was-jesus-a-torah-observant-j.md), [Did Earliest Jewish-Christianity Influence Islam?](096-did-earliest-jewish-christianity-influence-islam.md), [Did the Author of Mark's Gospel Think Jesus Was God?](140-did-the-author-of-mark-s-gospel-think-jesus-was-god.md), [Did Jesus Ever Claim to be God in our Earliest Sources?](202-did-jesus-ever-claim-to-be-god-in-our-earliest-sources.md), [Jews, Christians, and Muslims--What is the Historic Abrahamic Faith?](435-jews-christians-and-muslims-what-is-the-historic-abrahamic-f.md)
+- **Helen Bond**: [A Biblical Time Machine: Let's Meet Mary Again--for the First Time!](241-a-biblical-time-machine-let-s-meet-mary-again-for-the-first.md), [Inventing Heaven and Hell--The Bible and the Afterlife](352-inventing-heaven-and-hell-the-bible-and-the-afterlife.md), [The Last HOURS of Jesus--What Really Happened?](420-the-last-hours-of-jesus-what-really-happened.md), [Helen Bond: Biblical Time Machine Interview: The Lost Mary](446-helen-bond-biblical-time-machine-interview-the-lost-mary.md)
+- **Derek**: [Creating Jesus--Why Mark's Gospel Was Forgotten](091-creating-jesus-why-mark-s-gospel-was-forgotten.md), [What is Secret of the Kingdom in Mark's Gospel?](112-what-is-secret-of-the-kingdom-in-mark-s-gospel.md), [Don't Be Fooled--Jesus' Miracles in Mark Are Not to Show He is the Messiah](115-don-t-be-fooled-jesus-miracles-in-mark-are-not-to-show-he-is.md)
+- **Justin Holmes**: [Did the Historical Jesus Think He Was the Messiah?](428-did-the-historical-jesus-think-he-was-the-messiah.md), [The Dead Sea Scroll Teacher, Jesus, and the Making of a Messiah](429-the-dead-sea-scroll-teacher-jesus-and-the-making-of-a-messia.md), [Was John the Baptist Greater than Jesus?](430-was-john-the-baptist-greater-than-jesus.md)
+- **Megan Lewis**: [Megan Lewis Interview: The Lost Mary](441-megan-lewis-interview-the-lost-mary.md), [What Do Scholars Mean by  the "Historical" Jesus?](445-what-do-scholars-mean-by-the-historical-jesus.md), [Study the Dead Sea Scrolls!   Dr. James D. Tabor](471-study-the-dead-sea-scrolls-dr-james-d-tabor.md)
+- **Barbara DeLong**: [Two Hours with Barbara DeLong--The Historical Jesus](118-two-hours-with-barbara-delong-the-historical-jesus.md), [Two More Hours with Barbara DeLong: Have the Tombs of the Jesus Family Been Found?](120-two-more-hours-with-barbara-delong-have-the-tombs-of-the-jes.md)
+- **David LeBlanc**: [The Mysticism and Message of Paul--Cosmic Transformation](103-the-mysticism-and-message-of-paul-cosmic-transformation.md), [Are You Lost in Translation? Reading Genesis in a New Light](background/099-are-you-lost-in-translation-reading-genesis-in-a-new-light.md)
+- **David Roos**: [A Biblical Time Machine: Let's Meet Mary Again--for the First Time!](241-a-biblical-time-machine-let-s-meet-mary-again-for-the-first.md), [Inventing Heaven and Hell--The Bible and the Afterlife](352-inventing-heaven-and-hell-the-bible-and-the-afterlife.md)
+- **Jeremiah Giehl**: [How Historical Methods Get us Closer to the Real Jesus](413-how-historical-methods-get-us-closer-to-the-real-jesus.md), [The Ebionites:  Heretics or Original Followers of Jesus?](414-the-ebionites-heretics-or-original-followers-of-jesus.md)
+- **John Dominic Crossan**: [John Crossan and James Tabor Conversation: The Lost Mary](436-john-crossan-and-james-tabor-conversation-the-lost-mary.md), [John  Crossan and James Tabor : A Conversation on Lives, Careers, and Historical Jesus Studies](439-john-crossan-and-james-tabor-a-conversation-on-lives-careers.md)
+- **Jono**: [Following James the Brother of Jesus Out of Christianity](167-following-james-the-brother-of-jesus-out-of-christianity.md), [Is There a Single Chapter that Sums Up the Entire Bible?](293-is-there-a-single-chapter-that-sums-up-the-entire-bible.md)
+- **Kipp Davis**: [Five Examples of How  Christian Apologists Violate the Integrity of the Gospels! Pt 1](277-five-examples-of-how-christian-apologists-violate-the-integr.md), [How Christian Apologists Violate the Integrity of the Gospels Pt 2](279-how-christian-apologists-violate-the-integrity-of-the-gospel.md)
+- **Robert Eisenman**: [Robert Eisenman & the Dead Sea Scrolls:  Best Interview Ever!](256-robert-eisenman-the-dead-sea-scrolls-best-interview-ever.md), [Dateline 1992: RARE Archive Footage on the Release of the Dead Sea Scrolls](360-dateline-1992-rare-archive-footage-on-the-release-of-the-dea.md)
+- **Shimon Gibson**: [Digging Mt Zion Jerusalem and the Suba John the Baptist Cave](151-digging-mt-zion-jerusalem-and-the-suba-john-the-baptist-cave.md), [Go with Me into the 1st century Jerusalem Tomb of the Shroud!](390-go-with-me-into-the-1st-century-jerusalem-tomb-of-the-shroud.md)
+- **lecture given at a Biblical Archaeology Society seminar)**: [The Jerusalem Talpiot "Jesus" Tombs  An Overview of the Discoveries](028-the-jerusalem-talpiot-jesus-tombs-the-discoveries.md), [The High Cost of Holiness--Toilets, the Torah, and the Dead Sea Scrolls](040-the-high-cost-of-holiness-toilets-the-torah-and-the-dead-sea.md)
+- **2006 Biblical Archaeology Society seminar lecture)**: [Tracking John the Baptizer and His Followers--Including Jesus!](032-tracking-john-the-baptizer-and-his-followers-including-jesus.md)
+- **Amy-Jill Levine**: [What's the Real Story on the Pharisees and Jesus--with Dr. Amy-Jill Levine?](421-what-s-the-real-story-on-the-pharisees-and-jesus-with-dr-amy.md)
+- **Bart Ehrman**: [Did Jesus Teach Eternal Hell Fire?](474-did-jesus-teach-eternal-hell-fire.md)
+- **Cameron Tribble**: [Excavating Jesus  Making Dead Stones Speak](011-excavating-jesus-making-dead-stones-speak.md)
+- **Cameron Waters**: [Bonus Interview: Jesus' Final Week:  Day Two--Temple Shutdown](281-bonus-interview-jesus-final-week-day-two-temple-shutdown.md)
+- **Chris Corinthwaite**: [Is a Quest for the Historical Mary, Mother of Jesus, Possible?](452-is-a-quest-for-the-historical-mary-mother-of-jesus-possible.md)
+- **Colleen O'Sullivan**: [My First Catholic Audience: Presenting the Historical Mary to Catholic Sisters](477-my-first-catholic-audience-presenting-the-historical-mary-to.md)
+- **Dale Allison**: [Did Jesus Really Do Miracles?   Dr. Dale Allison Weights In](425-did-jesus-really-do-miracles-dr-dale-allison-weights-in.md)
+- **Darrell Bock**: [The Lost Tomb of Jesus--A Critical Look from All Sides!](346-the-lost-tomb-of-jesus-a-critical-look-from-all-sides.md)
+- **David O'Connell**: [The Lost Tomb of Jesus--A Critical Look from All Sides!](346-the-lost-tomb-of-jesus-a-critical-look-from-all-sides.md)
+- **Dereck Lambert**: [Was Jesus a Follower of John the Baptizer? Why the Ancient Idea of Two Messiahs Was Suppressed](079-was-jesus-a-follower-of-john-the-baptizer-why-the-ancient-id.md)
+- **Glenn**: [Following the God of Israel After Jerusalem's Destruction--The Earliest  Surviving Jewish Text Text](068-following-the-god-of-israel-after-jerusalem-s-destruction-th.md)
+- **Gordon Govier**: [Digging Mt Zion Jerusalem and the Suba John the Baptist Cave](151-digging-mt-zion-jerusalem-and-the-suba-john-the-baptist-cave.md)
+- **Hershel Shanks**: [Dateline 1992: RARE Archive Footage on the Release of the Dead Sea Scrolls](360-dateline-1992-rare-archive-footage-on-the-release-of-the-dea.md)
+- **James H. Charlesworth**: [My FINAL University Class: Understanding the  Dead Sea Scrolls with Dr.  Charlesworth](170-my-final-university-class-understanding-the-dead-sea-scrolls.md)
+- **James McGrath**: [John the Baptist and Jesus:  Separating History from Myth](473-john-the-baptist-and-jesus-separating-history-from-myth.md)
+- **James VanderKam**: [Dateline 1992: RARE Archive Footage on the Release of the Dead Sea Scrolls](360-dateline-1992-rare-archive-footage-on-the-release-of-the-dea.md)
+- **Jason**: [Following James the Brother of Jesus Out of Christianity](167-following-james-the-brother-of-jesus-out-of-christianity.md)
+- **Jeramiah Giehl**: [Why Abrahamic  Faith is NOT a Religion](417-why-abrahamic-faith-is-not-a-religion.md)
+- **Joel Marcus**: [What Kind of a Jew Was Jesus?  Dr  Joel Marcus on "Jesus and the Law"](424-what-kind-of-a-jew-was-jesus-dr-joel-marcus-on-jesus-and-the.md)
+- **John Batchelor**: [John Batchelor "CBS Eye on the World" Interview: The Lost Mary](447-john-batchelor-cbs-eye-on-the-world-interview-the-lost-mary.md)
+- **John Hagee**: [Bible Prophecy # 23 The Fatal Flaw of Popular Christian Prophecy Belief](background/235-bible-prophecy-23-the-fatal-flaw-of-popular-christian-prophe.md)
+- **Johnny Ova**: [Evangelist Johnny Ova Interview: The Lost Mary](463-evangelist-johnny-ova-interview-the-lost-mary.md)
+- **Jonathan Reed**: [The Lost Tomb of Jesus--A Critical Look from All Sides!](346-the-lost-tomb-of-jesus-a-critical-look-from-all-sides.md)
+- **Judy Fentress-Williams**: [The Lost Tomb of Jesus--A Critical Look from All Sides!](346-the-lost-tomb-of-jesus-a-critical-look-from-all-sides.md)
+- **Justin Sledge**: [What Do We Really KNOW About the Historical  Jesus? An In-Depth Conversation with Dr. Justin Sledge](422-what-do-we-really-know-about-the-historical-jesus-an-in-dept.md)
+- **Kip Anderson**: [Bonus Interview: Jesus' Final Week:  Day Two--Temple Shutdown](281-bonus-interview-jesus-final-week-day-two-temple-shutdown.md)
+- **Lawrence Schiffman**: [Dateline 1992: RARE Archive Footage on the Release of the Dead Sea Scrolls](360-dateline-1992-rare-archive-footage-on-the-release-of-the-dea.md)
+- **Lloyd Llewellyn-Jones**: [Helen Bond: Biblical Time Machine Interview: The Lost Mary](446-helen-bond-biblical-time-machine-interview-the-lost-mary.md)
+- **Mark Goodacre**: [Prof. Goodacre: Why the Missing Pieces in our Gospel Stories are so Important](423-prof-goodacre-why-the-missing-pieces-in-our-gospel-stories-a.md)
+- **Matt and Lori Crouch**: [Bible Prophecy # 23 The Fatal Flaw of Popular Christian Prophecy Belief](background/235-bible-prophecy-23-the-fatal-flaw-of-popular-christian-prophe.md)
+- **Michael Wise**: [Dateline 1992: RARE Archive Footage on the Release of the Dead Sea Scrolls](360-dateline-1992-rare-archive-footage-on-the-release-of-the-dea.md)
+- **Neal Sendlack**: [Did the Essenes Write the Dead Sea Scrolls--What Can We Say After 75 Years?](177-did-the-essenes-write-the-dead-sea-scrolls-what-can-we-say-a.md)
+- **Neal Sendlank**: [Jesus son of Pantera:  Ancient Slander or Historical Probability?](172-jesus-son-of-pantera-ancient-slander-or-historical-probabili.md)
+- **Paula Fredriksen**: [Did Jesus Reject Biblical  Laws of Ritual Purity? Dr  Paula Fredriksen](426-did-jesus-reject-biblical-laws-of-ritual-purity-dr-paula-fre.md)
+- **Peter Pringle**: [Death & Afterlife : Ancient Babylonian Views](background/187-death-afterlife-ancient-babylonian-views.md)
+- **Philip Arnold**: [30 Years Ago:  My Take on the Dead Sea Scrolls in 1992](052-30-years-ago-my-take-on-the-dead-sea-scrolls-in-1992.md)
+- **Richard Ostling**: [Dateline 1992: RARE Archive Footage on the Release of the Dead Sea Scrolls](360-dateline-1992-rare-archive-footage-on-the-release-of-the-dea.md)
+- **Robert Beckford**: [Tabor at the River Jordan--Was John Greater than Jesus?](470-tabor-at-the-river-jordan-was-john-greater-than-jesus.md)
+- **Robert Cune**: [The Fading of the Jesus Family: Finale and Summing Up](432-the-fading-of-the-jesus-family-finale-and-summing-up.md)
+- **Robert L. Kuhn**: [Dr. Robert L.  Kuhn Interview: The Lost Mary](443-dr-robert-l-kuhn-interview-the-lost-mary.md)
+- **Robyn Faith Walsh**: [Is Historical Biblical Scholarship Destructive or Constructive? Dr. Robyn Walsh Weighs In. . .](333-is-historical-biblical-scholarship-destructive-or-constructi.md)
+- **Sam**: [What Was Paul's View of Salvation?  It's Not What You Think!](145-what-was-paul-s-view-of-salvation-it-s-not-what-you-think.md)
+- **Sam Tideman**: [Sam Tideman Interview: The Lost Mary](460-sam-tideman-interview-the-lost-mary.md)
+- **Shirley Paulson**: [From Jewish Mother of Jesus to Virgin Mother of God: A Discussion and Dialogue](336-from-jewish-mother-of-jesus-to-virgin-mother-of-god-a-discus.md)
+- **Simcha Jacobovici**: [The Lost Tomb of Jesus--A Critical Look from All Sides!](346-the-lost-tomb-of-jesus-a-critical-look-from-all-sides.md)
+- **Ted Koppel**: [The Lost Tomb of Jesus--A Critical Look from All Sides!](346-the-lost-tomb-of-jesus-a-critical-look-from-all-sides.md)
+- **Tina**: [Mary Magdalene  Disciple, Companion, or Wife of Jesus?](039-mary-magdalene-disciple-companion-or-wife-of-jesus.md)
+- **Tracy Glaab**: [A Lost and Forgotten Dead Sea Scroll?](066-a-lost-and-forgotten-dead-sea-scroll.md)
+- **Violet**: [My FINAL University Class: Understanding the  Dead Sea Scrolls with Dr.  Charlesworth](170-my-final-university-class-understanding-the-dead-sea-scrolls.md)
+- **William Dever**: [The Lost Tomb of Jesus--A Critical Look from All Sides!](346-the-lost-tomb-of-jesus-a-critical-look-from-all-sides.md)
+- **a colleague called "Tina" is referred to in the talk but her role is not stated)**: [How, When, and Why John the Baptizer Was Marginalized in Early Christianity](012-how-when-and-why-john-the-baptizer-was-marginalized-in-early.md)
+- **called "Steve" in the captions)**: [Excavating Jesus  Making Dead Stones Speak](011-excavating-jesus-making-dead-stones-speak.md)
+- **captions carry no speaker label, so the reader is not confirmed)**: [The Forgotten Gospel According to James, Brother of Jesus](361-the-forgotten-gospel-according-to-james-brother-of-jesus.md)
+- **captions carry no speaker labels)**: [Paul Williams Interview Part 3: Was Jesus a Torah Observant Jew? Its Complicated!](095-paul-williams-interview-part-3-was-jesus-a-torah-observant-j.md)
+- **does not speak in this video)**: [A "Deep Dive" Dialogue on Tabor's Take on the Historical Mary](462-a-deep-dive-dialogue-on-tabor-s-take-on-the-historical-mary.md)
+- **his lines are unlabeled in the captions)**: [Why Abrahamic  Faith is NOT a Religion](417-why-abrahamic-faith-is-not-a-religion.md)
+- **live session recorded for Bart Ehrman's BiblicalStudies Academy)**: [The Big Five Questions on Paul: My Responses](367-the-big-five-questions-on-paul-my-responses.md)
+- **moderates the Q&A)**: [Excavating Jesus  Making Dead Stones Speak](011-excavating-jesus-making-dead-stones-speak.md)
+- **name as captioned)**: [The Fading of the Jesus Family: Finale and Summing Up](432-the-fading-of-the-jesus-family-finale-and-summing-up.md)
+- **no guest or host is identified)**: [Death & Afterlife: Jesus' Empty Tomb? Just the Facts Please!](194-death-afterlife-jesus-empty-tomb-just-the-facts-please.md)
+- **no other speaker**: [Might Jews, Christians, and Muslims Find A New Unity By Recovering the Historical Jesus?](067-might-jews-christians-and-muslims-find-a-new-unity-by-recove.md)
+- **not heard as a speaker in this transcript)**: [The Ebionites:  Heretics or Original Followers of Jesus?](414-the-ebionites-heretics-or-original-followers-of-jesus.md)
+- **retired Professor of Religious Studies/Christian Origins, UNC Charlotte, per the description)**: [Bible Prophecy # 25  FINALE: Fundamental Fatal  Flaws of Most Prophecy Interpretations Today](background/240-bible-prophecy-25-finale-fundamental-fatal-flaws-of-most-pro.md)
+- **solo talk, no guest)**: [Bible Prophecy # 6--Does the Longest Prophecy in the Bible "Foretell" Events After They Happened?](background/211-bible-prophecy-6-does-the-longest-prophecy-in-the-bible-fore.md)
+- **students Jeff, Lee and Vicky**: [Go with Me into the 1st century Jerusalem Tomb of the Shroud!](390-go-with-me-into-the-1st-century-jerusalem-tomb-of-the-shroud.md)
+- **the excerpt is a solo segment, and the description says it was taken from an interview with Robert Kuhn of Closer to Truth, but Kuhn does not speak in this excerpt)**: [How Mary Lost her Sexuality!](440-how-mary-lost-her-sexuality.md)
+- **the interviewer's questions are not labeled in the captions)**: [Was John the Baptist Greater than Jesus?](430-was-john-the-baptist-greater-than-jesus.md)
+- **the opening moderator is not named in the captions)**: [John  Crossan and James Tabor : A Conversation on Lives, Careers, and Historical Jesus Studies](439-john-crossan-and-james-tabor-a-conversation-on-lives-careers.md)
+- **the transcript carries no labels and he is at most briefly audible, possibly at 04:07)**: [How Historical Methods Get us Closer to the Real Jesus](413-how-historical-methods-get-us-closer-to-the-real-jesus.md)
+- **the transcript carries no speaker labels)**: [Last Days of Jesus--Pt 3 The King is Dead!](378-last-days-of-jesus-pt-3-the-king-is-dead.md)
+- **the transcript itself names no one)**: [Is a Quest for the Historical Mary, Mother of Jesus, Possible?](452-is-a-quest-for-the-historical-mary-mother-of-jesus-possible.md)
+- **unlabeled in the captions)**: [The Dead Sea Scroll Teacher, Jesus, and the Making of a Messiah](429-the-dead-sea-scroll-teacher-jesus-and-the-making-of-a-messia.md)

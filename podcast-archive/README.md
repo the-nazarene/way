@@ -1,10 +1,15 @@
 # podcast-archive
 
-Raw working transcripts and synthesized research notes from two sources:
+Raw working transcripts and synthesized research notes from these sources (Rex's later additions, such as `david-the-nazarene/` and `shabbat-studies/`, have their own `00-queue.md`):
 
 - **`the-jesus-way/`** — The Jesus Way podcast (Aaron Abke & James Benefico). 65 episodes, ~13 MB. Documented in detail below.
 - **`kameron-waters/`** — Kameron Waters (Christspiracy filmmaker, The Way Skool). 7 videos from his own channel, plus `guest-appearances/` — twelve long-form interviews and debates on other people's shows (~22 hours, ~257,000 words), added 2026-10-16 so the repo knows what he has already argued in public.
 - **`dr-tabor/`** — Dr. James Tabor's "Paul" YouTube playlist: 77 videos synthesized into structured notes (summary, key teachings, scripture citations, scholars cited, quotable moments, plus the full raw transcript per file). See **`dr-tabor/00-overview.md`** for its thematic index and project notes.
+- **`dr-tabor-channel/`** — the rest of Dr. Tabor's YouTube channel: 321 talks with notes (275 main, 46 in `background/`), added 2026-10-20. Start at `00-overview.md` (by topic and by guest) or `00-queue.md` (every video on the channel, including what was left out and why). Cite as `tabor-ch-NNN @ mm:ss`.
+- **`scott-nazarene-way/`** — Scott's Nazarene Way channel: 84 videos, 79 with notes, added 2026-10-20. `00-overview.md`, `00-queue.md`.
+- **`TOPICS.md`** — the fixed topic tags on machine-written notes, and which question card each feeds. `grep -rl "Topics:.*james" podcast-archive/` lists every tagged talk on James.
+
+Notes in `dr-tabor-channel/` and `scott-nazarene-way/` are machine-written by `scripts/summarize-transcripts.py` (Claude Haiku 5.5). Their Quotable Moments were checked word-for-word against the captions near each timestamp; the captions themselves are still pointers, not proof.
 
 The rest of this file documents the **The Jesus Way** archive.
 

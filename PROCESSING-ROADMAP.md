@@ -26,8 +26,12 @@ In order. Put your name in **Who** when you take one.
 
 | # | Item | Contributed by | Who | Done |
 |---|---|---|---|---|
-| 1 | Scott's videos: Matt has processed these; push them and add them to the inventory | (Matt to fill in) | Matt | [ ] |
-| 2 | Tabor material | (Matt to fill in) | Matt | [ ] |
+| 1 | Scott's videos done 2026-10-20: `podcast-archive/scott-nazarene-way/`, 84 videos (63 on the videos tab plus 21 found only in his playlists, mostly his Matthew 12-13 sermons). 83 transcripts, 79 with notes; the four Nazarene Music songs have no notes, #74 has no captions | Matt Fracek (Scott's own channel) | Matt | [x] |
+| 2 | Tabor's channel done 2026-10-20: `podcast-archive/dr-tabor-channel/`, 321 new talks with transcripts and notes (275 main, 46 in `background/`); the 77 Paul-playlist videos already in `dr-tabor/` are linked from the queue. 85 not added (Waco, promos and personal clips, astrology, the Turin Shroud, general archaeology, no captions); reasons in the queue | Matt Fracek | Matt | [x] |
+| 2a | Notes for Scott's and Tabor's talks are machine-written (Claude Haiku 5.5 via `scripts/summarize-transcripts.py`): Summary, Key Teachings, Scripture, Sources, Quotable Moments, Misconceptions, Connections, Books. Every quote was checked word-for-word against the captions near its timestamp (about 1.4% failed and were dropped). Each file has **Speakers**, **Published** and **Topics** lines; the topic list and its mapping to the question cards are in `podcast-archive/TOPICS.md`. Spot-read before relying on any one file | Matt Fracek | Matt | [x] |
+| 2b | Ask Scott whether he's happy for his talks to be public in the repo (he's in the group). Ask Dr. Tabor too, ideally before the site links to these | Matt Fracek | Matt | [ ] |
+| 2c | No captions on YouTube, so Whisper needed: Scott #74 ("The Sign of Jonah"); Tabor channel #22 (Essene Gate slides), #46 (Mandaean baptism), #237 (origins of preterism), #416 (lead isotopes and the Talpiot tomb) | Matt Fracek | | [ ] |
+| 2d | Four videos with Tabor on other people's channels, found in his playlists: "A NEW Covenant 200 Years BEFORE Jesus", "Top 4 Reasons Jesus WOULDN'T EXIST without THEM", "Saved By FAITH 150 Years BEFORE Jesus", and Steve Mason on Josephus and Luke (IDs in the Tabor queue). Not yet added | Matt Fracek | | [ ] |
 | 3 | Name the contributor of the 2026-10-20 Google Drive batch (6 links, 11 works): Chris Crutchfield | Chris Crutchfield | Rex | [x] |
 | 4 | Private library for the 🔴 copyrighted books: create a private repo (suggested `the-nazarene/way-library`) that only invited members can see, and Claude moves the PDFs and Markdown there. Until then they sit only on Rex's laptop and nobody else can reach them | Chris Crutchfield | Rex + Matt | [ ] |
 | 4a | Ask the authors for permission to host their books in full: Douglas Del Tondo (*Jesus' Words Only*) and Yada Yah (*Questioning Paul*) first, since both share their work freely; then Jackson Snyder (*Nazarene Acts*), Manfred Davidmann, Walter Veith. Group to decide: ask, or sideline for now | Chris Crutchfield | Rex + group | [ ] |
@@ -56,6 +60,8 @@ In order. Put your name in **Who** when you take one.
 | Source | Contributed by | Items | Transcripts | Notes | Queue |
 |---|---|---|---|---|---|
 | David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 168 of 370 | 22 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
+| Dr. James Tabor, YouTube channel | Matt Fracek, 2026-10-20 | 398 | 398 of 398 | 398 of 398 | [queue](podcast-archive/dr-tabor-channel/00-queue.md) |
+| Scott, Nazarene Way | Matt Fracek, 2026-10-20 | 84 | 83 of 84 | 79 of 84 | [queue](podcast-archive/scott-nazarene-way/00-queue.md) |
 | Shabbat Studies with Jen & Chris | Chris Crutchfield, 2026-10-19 | 10 | 10 of 10 | 10 of 10 | [queue](podcast-archive/shabbat-studies/00-queue.md) |
 | SixSeven Podcast | Chris Crutchfield, 2026-10-19 | 34 | 0 of 34 | 0 of 34 | [queue](podcast-archive/sixseven-podcast/00-queue.md) |
 <!-- STATUS:END -->
@@ -101,8 +107,8 @@ Every item, newest first. One row per link or file as it was given to us.
 
 | Received | Contributed by | Item | Type | Link | Where it lives | Status |
 |---|---|---|---|---|---|---|
-| 2026-10-20 | Matt (source: Scott) | Scott's videos | Videos | (Matt to fill in) | Not yet pushed | Matt has processed; push pending |
-| 2026-10-20 | Matt | Tabor material | (Matt to fill in) | (Matt to fill in) | Not yet pushed | In progress with Matt |
+| 2026-10-20 | Matt Fracek (Scott's own channel) | Scott, Nazarene Way | YouTube channel, 84 videos | https://www.youtube.com/@NazareneWay | `podcast-archive/scott-nazarene-way/` | Transcripts and notes done; see Next Up 1 |
+| 2026-10-20 | Matt Fracek | Dr. James Tabor's channel | YouTube channel, 483 videos | https://www.youtube.com/@JamesTaborVideos | `podcast-archive/dr-tabor-channel/` (+ `dr-tabor/` for the Paul playlist) | 398 with transcripts and notes; 85 not added; see Next Up 2 |
 | 2026-10-20 | Chris Crutchfield | "6_Books and PDFs": Clementine Homilies (21 PDFs), 🔴 Nazarene Acts / Recognitions (copyrighted), Book of Jasher, Jubilees ch 1-9, 1 Maccabees, ⚠️ Book of Enoch "simplified" (rights unclear) | Drive folder, 26 PDFs | [folder](https://drive.google.com/drive/folders/1ZV-BJkxRrj1EaC60aYkZ2IFeYxCA012k) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
 | 2026-10-20 | Chris Crutchfield | 🔴 Copyrighted: *Questioning Paul: Apostle or False Prophet*, Yada Yah | Drive folder, 13 PDFs | [folder](https://drive.google.com/drive/folders/1Xt5QPXDzA_blh-zufAt1BySAgPWazCNZ) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
 | 2026-10-20 | Chris Crutchfield | 🔴 Copyrighted: *Jesus' Words Only*, 2007 edition, Douglas Del Tondo | Drive folder, 23 PDFs | [folder](https://drive.google.com/drive/folders/1DDHS1TRt8TzfllAVI54iw7JqOAoGxZzP) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
@@ -121,7 +127,7 @@ Every item, newest first. One row per link or file as it was given to us.
 | Craig Wescoe | Epiphanius, *Panarion* | 2026-10-17 |
 | Chris Crutchfield | Shabbat Studies with Jen & Chris, David The Nazarene, SixSeven Podcast (YouTube); Google Drive batch of 11 works (3 folders, 3 files) | 2026-10-19 |
 | Brad Brink | David The Nazarene (YouTube channel; also sent by Chris) | 2026-10-20 |
-| Matt Fracek | Scott's videos, Tabor material (in progress) | 2026-10-20 |
+| Matt Fracek | Scott's Nazarene Way channel (84 videos), Dr. James Tabor's channel (483 videos) | 2026-10-20 |
 
 Every file made from a contribution carries a `**Contributed by:**` line with the person's name and the date.
 
