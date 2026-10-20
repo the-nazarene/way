@@ -29,7 +29,8 @@ In order. Put your name in **Who** when you take one.
 | 1 | Scott's videos: Matt has processed these; push them and add them to the inventory | (Matt to fill in) | Matt | [ ] |
 | 2 | Tabor material | (Matt to fill in) | Matt | [ ] |
 | 3 | Name the contributor of the 2026-10-20 Google Drive batch (6 links, 11 works): Chris Crutchfield | Chris Crutchfield | Rex | [x] |
-| 4 | Decide where the full Markdown of copyrighted books lives (they can't go in the public repo): Rex's local `/Incoming/`, a private repo, or a shared drive | Chris Crutchfield | Rex + Matt | [ ] |
+| 4 | Private library for the 🔴 copyrighted books: create a private repo (suggested `the-nazarene/way-library`) that only invited members can see, and Claude moves the PDFs and Markdown there. Until then they sit only on Rex's laptop and nobody else can reach them | Chris Crutchfield | Rex + Matt | [ ] |
+| 4a | Ask the authors for permission to host their books in full: Douglas Del Tondo (*Jesus' Words Only*) and Yada Yah (*Questioning Paul*) first, since both share their work freely; then Jackson Snyder (*Nazarene Acts*), Manfred Davidmann, Walter Veith. Group to decide: ask, or sideline for now | Chris Crutchfield | Rex + group | [ ] |
 | 5 | Add the public-domain Drive texts to `christianity/Incoming/` with source headers and register them in `VERIFIED-SOURCES.md`: Book of Jasher (1840 translation), 1 Maccabees (KJV Apocrypha). (Enoch and Jubilees: already held in full; Charles's 1917 Enoch added 2026-10-20) | Chris Crutchfield | | [ ] |
 | 6 | Notes files for the two big Paul books, *Jesus' Words Only* (Del Tondo) and *Questioning Paul* (Yada Yah): summary, main arguments, claims to check. Both are already cited in Shabbat Studies Ch 4 and on David The Nazarene's channel | Chris Crutchfield | | [ ] |
 | 7 | Shabbat Studies overview: one page on the series plus a single combined "claims to check" list (the chapter notes repeat several items) | Chris Crutchfield | | [ ] |
@@ -51,7 +52,7 @@ In order. Put your name in **Who** when you take one.
 
 | Source | Contributed by | Items | Transcripts | Notes | Queue |
 |---|---|---|---|---|---|
-| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 106 of 370 | 0 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
+| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 111 of 370 | 0 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
 | Shabbat Studies with Jen & Chris | Chris Crutchfield, 2026-10-19 | 10 | 10 of 10 | 10 of 10 | [queue](podcast-archive/shabbat-studies/00-queue.md) |
 | SixSeven Podcast | Chris Crutchfield, 2026-10-19 | 34 | 0 of 34 | 0 of 34 | [queue](podcast-archive/sixseven-podcast/00-queue.md) |
 <!-- STATUS:END -->
@@ -73,6 +74,8 @@ In order. Put your name in **Who** when you take one.
 | 🔴 | "Where did the term 'Christian' come from?" | Not named | Web article | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
 | ⚠️ | *Essene Gospel of Peace*, Book 1 | Edmond Bordeaux Szekely (1937) | Book | Yes, as full text **in the public repo**. Rex, 2026-10-20: keep it in the repo | `christianity/Incoming/essene-gospel-of-peace-book-1-full-text.md` | (predates this log) |
 | ⚠️ | Book of Enoch, "Simplified Version" | Charles's public-domain translation, edited by sherryshriner.com | Book | Yes: 1 PDF + 1 Markdown file. Rex, 2026-10-20: keep it | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
+
+**Where these can live.** A public repo is public all the way through: every file, every branch, and the full history. Deleting a file later doesn't remove it from the history. So copyrighted books go in a separate **private** repo (invite-only), not in a hidden folder here. A private copy keeps them out of public view but isn't a license; asking the authors is still the clean answer.
 
 **Rights check (2026-10-20).** Nothing found gives permission to republish any of the 🔴 works:
 
@@ -129,7 +132,7 @@ For Claude and for anyone adding sources by hand.
 2. **Log it in the inventory before processing it,** even if processing is weeks away. Date received, who gave it to us, what it is, the link.
 3. **Credit the contributor** in the inventory, the contributors table, and a `**Contributed by:** Name, date` line in every file made from it. If the name isn't known yet, use a placeholder like "from 1234" (last four digits only, never a full phone number) or "not yet named", and replace it when we learn the name.
 4. **Convert to Markdown.** Every file ends up as Markdown, one file per work (join multi-part PDFs in order).
-5. **Check the rights before anything goes public.** Public domain or the contributor's own work: full text in the repo. Copyrighted: Markdown stays out of the public repo; the repo gets notes. Mark it 🔴 (or ⚠️ if unclear) everywhere it's listed, and add it to Copyrighted Works We Hold.
+5. **Check the rights before anything goes public, and never push a copyrighted file even briefly** (git history keeps it forever). Public domain or the contributor's own work: full text in the repo. Copyrighted: Markdown stays out of the public repo; the repo gets notes. Mark it 🔴 (or ⚠️ if unclear) everywhere it's listed, and add it to Copyrighted Works We Hold.
 6. **Describe, don't judge.** Contributors share this repo and read this file. Say what a source covers. Order of work goes in Next Up, not in labels on the source.
 7. **Add the next steps to Next Up** with the contributor's name.
 
