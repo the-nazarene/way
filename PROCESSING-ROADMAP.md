@@ -71,7 +71,7 @@ In order. Put your name in **Who** when you take one.
 | 7 | Shabbat Studies overview done 2026-10-20: `podcast-archive/shabbat-studies/00-overview.md` (chapter guide, main arguments, combined sources, where it meets the repo, 173 combined claims to check with 74 duplicates merged, 17 questions for the hosts) | Chris Crutchfield | Claude | [x] |
 | 8 | Ask Chris for his sources. The top three: Joseph of Arimathea as Jesus's father; the Petrine text calling it "a religion of blood"; the Edomite priesthood since 160 BC. The full list of 17 is in the overview's "Questions for the Hosts" | Chris Crutchfield | Rex | [ ] |
 | 9 | Feed Shabbat Studies material into research files: Ch 3 additions on sacrifice (1 Samuel 15:22, Hosea 4, Ahaz in 2 Kings 16, altar logistics); "cease from sacrificing" is Panarion 30.16.5, not the Clementines; Ch 4D's Galatians 3 material matches `OPEN-RESEARCH.md` item 2 | Chris Crutchfield | Claude drafting proposals; Rex approves before any research file changes | [ ] |
-| 10 | Finish David The Nazarene transcripts (download stopped at 99 of 370; YouTube rate-limits it; an Apify token would finish it in minutes) | Chris Crutchfield | | [ ] |
+| 10 | Finish David The Nazarene transcripts: download running, 251 of 370 as of 2026-10-20 (YouTube rate-limits it; an Apify token would finish it in minutes). SixSeven Podcast (item 12) is queued right after it in the same job | Chris Crutchfield; Brad Brink | Claude | [ ] |
 | 11 | Confirmed 2026-10-20: David The Nazarene is David H. Notsari, guest on The Jesus Way episode 23. That episode's description links "David Notsari YT" to a David The Nazarene video, and his own video descriptions link to his Odysee account @DavidHNotsari | Chris Crutchfield | Claude | [x] |
 | 12 | Pull SixSeven Podcast transcripts (34) | Chris Crutchfield | | [ ] |
 | 13 | Notes on David The Nazarene: the most relevant videos first, not all 370. First batch of 22 done 2026-10-20 (sacrifice, diet, Essenes, Ebionite 101-202, Gospel of the Hebrews, James and Paul in the Dead Sea Scrolls, "Paul vs the True Church", law). His Panarion and Clementine quotations check out against held texts; his NazActs readings carry Snyder's changes. Next batch: pick from the queue as transcripts arrive | Chris Crutchfield; Brad Brink | Claude | [ ] |
@@ -101,7 +101,7 @@ Judgment calls collected as they come up, for Rex and Matt to go through togethe
 
 | Source | Contributed by | Items | Transcripts | Notes | Queue |
 |---|---|---|---|---|---|
-| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 244 of 370 | 22 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
+| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 251 of 370 | 22 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
 | Dr. James Tabor, YouTube channel | Matt Fracek, 2026-10-20 | 401 | 401 of 401 | 401 of 401 | [queue](podcast-archive/dr-tabor-channel/00-queue.md) |
 | Scott, Nazarene Way | Matt Fracek, 2026-10-20 | 84 | 84 of 84 | 80 of 84 | [queue](podcast-archive/scott-nazarene-way/00-queue.md) |
 | Shabbat Studies with Jen & Chris | Chris Crutchfield, 2026-10-19 | 10 | 10 of 10 | 10 of 10 | [queue](podcast-archive/shabbat-studies/00-queue.md) |

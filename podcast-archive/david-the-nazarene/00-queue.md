@@ -320,13 +320,13 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 309 | [x] | [ ] | RSF - The Sermons of Peter Bk 2 Ch 1-26 | 34:07 | [309-rsf-the-sermons-of-peter-bk-2-ch-1-26.md](309-rsf-the-sermons-of-peter-bk-2-ch-1-26.md) |
 | 310 | [x] | [ ] | RSF - The Sermons of Peter Bk 2 Ch 27-52 | 34:41 | [310-rsf-the-sermons-of-peter-bk-2-ch-27-52.md](310-rsf-the-sermons-of-peter-bk-2-ch-27-52.md) |
 | 311 | [x] | [ ] | RSF - The Sermons of Peter Bk 3 Ch 1-13 | 44:37 | [311-rsf-the-sermons-of-peter-bk-3-ch-1-13.md](311-rsf-the-sermons-of-peter-bk-3-ch-1-13.md) |
-| 312 | [ ] | [ ] | RSF - The Sermons of Peter Bk 3 Ch 14-29 | 27:36 | [312-rsf-the-sermons-of-peter-bk-3-ch-14-29.md](312-rsf-the-sermons-of-peter-bk-3-ch-14-29.md) |
-| 313 | [ ] | [ ] | RSF - The Sermons of Peter Bk 3 Ch 30-73 | 40:14 | [313-rsf-the-sermons-of-peter-bk-3-ch-30-73.md](313-rsf-the-sermons-of-peter-bk-3-ch-30-73.md) |
-| 314 | [ ] | [ ] | RSF - The Sermons of Peter Bk 4 Ch 1-25 | 21:03 | [314-rsf-the-sermons-of-peter-bk-4-ch-1-25.md](314-rsf-the-sermons-of-peter-bk-4-ch-1-25.md) |
-| 315 | [ ] | [ ] | RSF - The Sermons of Peter Bk 5 Ch 1-30 | 29:58 | [315-rsf-the-sermons-of-peter-bk-5-ch-1-30.md](315-rsf-the-sermons-of-peter-bk-5-ch-1-30.md) |
-| 316 | [ ] | [ ] | RSF - The Sermons of Peter Bk 6 Ch 1-26 | 30:20 | [316-rsf-the-sermons-of-peter-bk-6-ch-1-26.md](316-rsf-the-sermons-of-peter-bk-6-ch-1-26.md) |
-| 317 | [ ] | [ ] | RSF - The Sermons of Peter Bk 7 Ch 1-12 | 33:12 | [317-rsf-the-sermons-of-peter-bk-7-ch-1-12.md](317-rsf-the-sermons-of-peter-bk-7-ch-1-12.md) |
-| 318 | [ ] | [ ] | RSF - The Sermons of Peter Bk 8 Ch 1-24 | 27:45 | [318-rsf-the-sermons-of-peter-bk-8-ch-1-24.md](318-rsf-the-sermons-of-peter-bk-8-ch-1-24.md) |
+| 312 | [x] | [ ] | RSF - The Sermons of Peter Bk 3 Ch 14-29 | 27:36 | [312-rsf-the-sermons-of-peter-bk-3-ch-14-29.md](312-rsf-the-sermons-of-peter-bk-3-ch-14-29.md) |
+| 313 | [x] | [ ] | RSF - The Sermons of Peter Bk 3 Ch 30-73 | 40:14 | [313-rsf-the-sermons-of-peter-bk-3-ch-30-73.md](313-rsf-the-sermons-of-peter-bk-3-ch-30-73.md) |
+| 314 | [x] | [ ] | RSF - The Sermons of Peter Bk 4 Ch 1-25 | 21:03 | [314-rsf-the-sermons-of-peter-bk-4-ch-1-25.md](314-rsf-the-sermons-of-peter-bk-4-ch-1-25.md) |
+| 315 | [x] | [ ] | RSF - The Sermons of Peter Bk 5 Ch 1-30 | 29:58 | [315-rsf-the-sermons-of-peter-bk-5-ch-1-30.md](315-rsf-the-sermons-of-peter-bk-5-ch-1-30.md) |
+| 316 | [x] | [ ] | RSF - The Sermons of Peter Bk 6 Ch 1-26 | 30:20 | [316-rsf-the-sermons-of-peter-bk-6-ch-1-26.md](316-rsf-the-sermons-of-peter-bk-6-ch-1-26.md) |
+| 317 | [x] | [ ] | RSF - The Sermons of Peter Bk 7 Ch 1-12 | 33:12 | [317-rsf-the-sermons-of-peter-bk-7-ch-1-12.md](317-rsf-the-sermons-of-peter-bk-7-ch-1-12.md) |
+| 318 | [x] | [ ] | RSF - The Sermons of Peter Bk 8 Ch 1-24 | 27:45 | [318-rsf-the-sermons-of-peter-bk-8-ch-1-24.md](318-rsf-the-sermons-of-peter-bk-8-ch-1-24.md) |
 | 319 | [ ] | [ ] | RSF - The Sermons of Peter Bk 9 Ch 1-23 | 22:42 | [319-rsf-the-sermons-of-peter-bk-9-ch-1-23.md](319-rsf-the-sermons-of-peter-bk-9-ch-1-23.md) |
 | 320 | [ ] | [ ] | RSF - The Sermons of Peter Bk 10 Ch 1-26 | 26:04 | [320-rsf-the-sermons-of-peter-bk-10-ch-1-26.md](320-rsf-the-sermons-of-peter-bk-10-ch-1-26.md) |
 | 321 | [ ] | [ ] | RSF - The Sermons of Peter Bk 11 Ch 1-20 | 22:32 | [321-rsf-the-sermons-of-peter-bk-11-ch-1-20.md](321-rsf-the-sermons-of-peter-bk-11-ch-1-20.md) |
