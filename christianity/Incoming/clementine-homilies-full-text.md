@@ -1,7 +1,7 @@
 # The Clementine Homilies
 
 **Attribution:** Anonymous (traditionally attributed to Clement of Rome; modern scholars treat as 3rd-4th century Syrian Jewish-Christian composition)
-**Translation:** Rev. Peter Peterson (Ante-Nicene Fathers Volume 8, 1886) — from the Greek
+**Translation:** Ante-Nicene Fathers Volume 8 (1886), from the Greek: Books I-V by Rev. Thomas Smith, D.D.; Books VI-XII by Peter Peterson, M.A.; Books XIII-XX by James Donaldson (per the volume's own note, below). Name the translator of the book you quote
 **Original Language:** Greek (extant; Paris and Ottobonian manuscripts)
 **Estimated Date:** c. 220-300 CE composition; draws on earlier Jewish-Christian source material
 **Source:** ccel.org/ccel/schaff/anf08/cache/anf08.txt (Roberts-Donaldson edition, public domain)
