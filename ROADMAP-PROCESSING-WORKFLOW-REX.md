@@ -46,10 +46,10 @@ One addition the Gold Standard didn't need: **credit.** Material here comes from
 | 6. Transcribe what has no captions | Local Whisper on the GPU | Script | Free |
 | 7. Convert to Markdown | One file per work; multi-part PDFs joined in order | Script (`pdftotext`, `markitdown`) | Free |
 | 8. Rights check | Public domain, contributor's own, or copyrighted (🔴) / unclear (⚠️) | Claude, with web checks | Small |
-| 9. Notes | Per-item notes in the house format | Haiku for routine talks; Fable for dense or contested material | Main cost |
-| 10. Overview | One page per series or channel, combined claims-to-check list | Fable | Moderate |
+| 9. Notes | Per-item notes in the house format | Haiku for routine talks; Opus 5.5 for dense or contested material | Main cost |
+| 10. Overview | One page per series or channel, combined claims-to-check list | Opus 5.5 | Moderate |
 | 11. Verify | Quote checks, completeness counts, held-text checks, site build | Scripts plus the session | Small |
-| 12. Integrate | Proposed changes to research files, approved before applying | Fable drafts; Rex or Matt approves | Moderate |
+| 12. Integrate | Proposed changes to research files, approved before applying | Opus 5.5 drafts; Rex or Matt approves | Moderate |
 | 13. Save | Commit, push to `main`, refresh the status table | Session | Free |
 
 ---
@@ -62,7 +62,7 @@ The rule of thumb Rex was given holds up: **don't spend a big model on mechanica
 
 **Tier 1: Haiku, for structured, repeatable jobs.** A quick readable summary of what a channel contains. Notes in a fixed template on ordinary talks, where the job is summarizing what was said. Matt's notes on Scott's and Tabor's channels came from Haiku in batch, via `scripts/summarize-transcripts.py`, as did the notes on the Whisper and guest videos in this run. Every quoted line is checked against the transcript, and lines that fail are dropped.
 
-**Tier 2: Fable (or Opus), for judgment.** This is what "high-level processing" means in practice:
+**Tier 2: Opus 5.5, for judgment.** This is what "high-level processing" means in practice:
 - **Reading dense or contested material** and stating the argument fairly: a 27-hour study series, a 450,000-word book.
 - **Checking claims against the texts we hold.** For example, finding that a book's Clementine quotations match our ANF texts word for word, while its dating of Irenaeus is wrong.
 - **Catching what a summary would miss.** For example, that Snyder's *Nazarene Acts* adds "which is Y'shua" to Recognitions 1.39, and that David The Nazarene reads from that edition.
@@ -71,6 +71,17 @@ The rule of thumb Rex was given holds up: **don't spend a big model on mechanica
 - **Audits:** for example, checking every Panarion quotation in the repo against the held translation and the Greek.
 
 Rule of thumb: if the output is a summary of one talk in a fixed shape, use Tier 1. If the output depends on comparing it with other sources, deciding what holds, or writing in the repo's own voice, use Tier 2.
+
+**Why Opus and not Fable (decided 2026-10-20, Rex and Matt).** The first batch used Fable for Tier 2. Looking back, the results that mattered came from the *instructions*: "check every quotation against the held text, name the translator, list claims to check." Examples are catching Snyder's "which is Y'shua" addition, the Panarion mismatches, and the Clementine translator error. A careful Opus run with the same brief would very likely have caught the same things, and the orchestration, spot-checks and fixes in that run were all done at Opus level. Fable costs more per token. So:
+
+| Model | Use it for |
+|---|---|
+| Scripts | Fetching, Whisper, conversion, checklists |
+| Haiku | Template notes on ordinary talks; listings; quick lookups |
+| **Opus 5.5 (default for Tier 2)** | Notes on dense or contested material, overviews, audits, proposals, anything compared against held texts |
+| Fable (optional) | Only for a specific hard case, after the comparison test below shows it beats Opus. Candidates: one-pass reading of a very long text against several sources, Greek or Hebrew checks, final wording of changes to public research files |
+
+**Comparison test (open).** Take one file already done with Fable (a Shabbat Studies chapter) and have Opus redo it in a scratch copy with the identical brief. Compare claims caught, errors, and quote accuracy. If Opus matches, Fable leaves the workflow for good. If it doesn't, write down exactly where Fable was better.
 
 ---
 
@@ -147,7 +158,7 @@ One per series or channel, covering:
 
 ### Integrate: from notes to research
 
-This is where the value is realized. Fable drafts proposals in `Incoming/proposals/`, which is local. Each proposal gives:
+This is where the value is realized. Opus 5.5 drafts proposals, which are published in `audits/` as drafts. Each proposal gives:
 - The exact file and section.
 - The proposed text.
 - Why.
@@ -202,9 +213,9 @@ Rough sizes, so future runs can be planned:
 | Captions for ~750 videos, Whisper for 7, 65 PDFs to Markdown | 0 | Free; limited only by YouTube's rate limits, roughly 6-minute pauses after bursts |
 | Listing a channel's contents | 0 (plus Haiku for a summary) | Tiny |
 | Notes on four talks in the house format | 1 (Haiku) | About 120,000-150,000 tokens per batch of four |
-| Notes on one long chapter or 5-11 videos, checked against held texts | 2 (Fable) | About 200,000-430,000 tokens per run |
-| Notes on a large book | 2 (Fable) | Up to about 750,000 tokens; split books over 250,000 words across readers |
-| Proposals or audits | 2 (Fable) | About 300,000 tokens |
+| Notes on one long chapter or 5-11 videos, checked against held texts | 2 (run on Fable in this batch) | About 200,000-430,000 tokens per run |
+| Notes on a large book | 2 (run on Fable in this batch) | Up to about 750,000 tokens; split books over 250,000 words across readers |
+| Proposals or audits | 2 (run on Fable in this batch) | About 300,000 tokens |
 
 Lessons:
 - **The YouTube rate limit is the slowest step.** An Apify token, which `pull-transcripts.py` already supports, would turn hours into minutes for a few dollars.
@@ -261,7 +272,7 @@ Lessons:
 
 Points to line up when the two documents are merged:
 
-1. **Notes model:** Matt ran Haiku in batch over whole channels (Scott, 84; Tabor, 398). Rex's sessions used Fable selectively on the most relevant items. When is each right? Possibly Haiku for every talk, then Fable for the top 10-20% and for anything feeding research files.
+1. **Notes model:** Matt ran Haiku in batch over whole channels (Scott, 84; Tabor, 398). Rex's sessions used Fable selectively on the most relevant items (Opus 5.5 is now the default; see section 4). When is each right? Possibly Haiku for every talk, then Fable for the top 10-20% and for anything feeding research files.
 2. **Note template:** Matt's eight sections with Topics tags, against the Shabbat-style six with "Where This Overlaps the Repo" and "Claims to Check." These could become one template: Haiku sections plus a Fable "Claims to Check" pass on selected files.
 3. **Quote checking:** Matt's script drops quotes not found near their timestamp, about 1.4% failed. Rex's subagents check by search. Make the script's check the standard for both.
 4. **Fetching:** both use `pull-transcripts.py`. Agree on an Apify token for speed, and on where Whisper runs.
