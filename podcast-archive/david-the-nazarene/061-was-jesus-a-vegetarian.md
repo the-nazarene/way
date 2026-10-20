@@ -10,7 +10,64 @@
 
 ## Summary
 
-*Notes pending.*
+A roundup on method and evidence, made because the fish passages (Luke 24, the feeding, John 21) kept coming back as if one verse settled the question. He sets out how he weighs doctrine: what Jesus said, then the apostles, then impartial historians; what the scholars say; what science says (a whole-food plant diet is the healthiest, so which diet would a loving creator give); and personal revelation, which he says is what finally moved him after he resisted the Clementine teaching that eating flesh exposes one to demons. He argues scripture is not inerrant: hand-copying, additions at the ends of books (Luke 24, John 21, and a late endorsement of a pseudo-apostle at the end of an epistle, i.e. 2 Peter 3:15), the obscuring of James the brother, and the documentary hypothesis (J, E, D, P; Friedman's two books; a Bar-Ilan computer study reported as separating priestly from non-priestly text and placing Genesis 1 outside P, which matters to him because Genesis 1:29 is the vegetarian diet). Then the Nazarene doctrines: Homilies 2.38 (falsehoods in scripture); Panarion 18.1 (Nasaraeans), 19.3-5 (Ossaeans, Elxai), 29 (Nazoraeans), 30.15-16 (the Travels of Peter; Peter a vegetarian; "I came to abolish sacrifices"; the Ascents of James), 30.18 (the calf and the milk; Christ revealed it to me); Homilies 2.45 (grave of lust), 3.50 (the true things of the scriptures; prudent money-changers), 3.56 (mercy not sacrifice); the temple action in John 2; Isaiah 1:11-16. He recommends Eisenman and the two Clementine texts, and concludes that the weight of evidence is that Jesus was vegetarian.
+
+## Key Points
+
+- [00:02] The fish objections are one verse against a body of historical evidence; he was a meat-eater when the evidence changed him.
+- [01:35] His four-legged stool: reliable sources (Jesus, the apostles, impartial historians); scholars with or without credentials; science including archaeology; divine revelation.
+- [06:19] The revelation story: reading in the Recognitions that eating dead flesh invites demonic spirits, resisting it, and hearing that he sounded like a Christian who did not want to give up his bacon.
+- [07:54] Religion is not proof; the Spirit, not the Bible, is the word of God (John 16:13); John 10:35 read as sarcasm against the Pharisees' doctrine of infallibility; autographs vs copies.
+- [09:31] How texts get altered: you replace, you do not delete. James the brother renamed or obscured, although Thomas 12 and the Recognitions make him successor. Additions go at the end: Luke 24 against the Marcionites; John 21; an epistle ending that calls a pseudo-apostle a beloved brother.
+- [14:09] Manuscripts differ, and modern version disputes show even inerrantists do not hold inerrancy in practice.
+- [15:46] The documentary hypothesis, which he calls near fact: J and E oldest, P newest and holding the sacrifices and the temple texts; Friedman's Who Wrote the Bible? and The Hidden Book in the Bible (J and E read on their own). Peter's examples of false texts fall almost entirely in P; Jesus quotes Deuteronomy, so D stands.
+- [20:29] The Bar-Ilan software study (Koppel), read from a news report: 90% agreement with scholars on the priestly/non-priestly split; Genesis 1 assigned outside P; Isaiah's second author from chapter 33.
+- [23:36] Why that matters: Genesis 1 holds the vegetarian diet. Matthew 15:9 and 15:13 (every plant not planted by the Father) read as the falsehoods in scripture to be uprooted.
+- [25:10] The Clementines: pseudo explained; he calls them the Nazarene Acts and the Nazarene Homilies; Clement as Peter's scribe on James's commission. Homilies 2.38 read.
+- [28:16] Epiphanius as a 4th-century heresiologist who admits these groups descend from the apostles and Pella while calling them heretics. Panarion 18.1 read; Hemerobaptists explained as repeat immersion.
+- [31:26] Panarion 18.1.3-4; then a line about the Passover lamb being famous among the Egyptians, which he turns around: the lamb was borrowed from Egypt and the original command was unleavened bread.
+- [33:00] Ossaeans as "doers"; Elxai probably a book, not a person; 19.3.6 read (bans burnt offerings; rejects eating meat; pray toward Jerusalem); 19.5.1 and 19.5.5 (four sects); he takes "Ebionites and Nazoraeans" as one group with an added "and."
+- [36:06] Panarion 29: Epiphanius does not know the Nazoraeans; all Christians were once called Nazarenes. 30.15 Travels of Peter; the "slander" that Peter bathed daily and ate no flesh; 30.16.5-7 read; the Ascents of James is Recognitions book 1; 30.18.7-9 read.
+- [39:13] The Gospel of the Hebrews was rewritten by Jerome and the fathers for Gentiles and hunted down and burned (his account).
+- [41:00] Peter in the Recognitions: once you know he is the True Prophet, believe him over the lesser; the greater validates the lesser.
+- [42:27] Eisenman: James the Brother of Jesus; The Dead Sea Scrolls and the First Christians (read this one first).
+- [42:27] Homilies "3.45" (it is 2.45) read; Numbers 11 again.
+- [45:36] Homilies 3.50 read (the true things of the scriptures; prudent money-changers, which he says Eusebius records); 3.56 (which he attributes to Jeremiah; it is Hosea 6:6).
+- [48:45] John 2:13-16: the whip for the sellers; the animals released; the money-changers remembered, the animals forgotten.
+- [50:18] Isaiah 1:11-16: the stench of the smoke (ISR) against "incense"; hands full of blood extended to eating flesh.
+- [52:00] Pointers to his other videos; read both Clementine texts.
+
+## Sources He Cites
+
+- Homilies 2.38, 2.45, 3.50, 3.56. **Held** (Smith). 2.45 is cited on screen as 3.45; 3.56's line is Hosea 6:6, not Jeremiah.
+- Recognitions (Peter on flesh and demons; James as successor; the greater validates the lesser). **Held**; passages not named. The nearest on flesh and spirits: Recognitions 2.71-72 and Homilies 8.19.
+- Panarion 18.1.3-4; 19.3.6-7; 19.5.1, 19.5.5; 29.1-9; 30.15.1-3; 30.16.5-7; 30.18.7-9. **Held**; content matches. The Passover-lamb line (Panarion 18.3?) was not located in this check.
+- Gospel of Thomas 12. **Held** (Lambdin): "you are to go to James the righteous, for whose sake heaven and earth came into being."
+- John 16:13; 10:35; Matthew 15:9, 13; John 2:13-16; Isaiah 1:11-16; Genesis 1:29; Numbers 11; 2 Peter 3:15. **Held** (KJV).
+- Friedman (two books); Koppel et al., Bar-Ilan 2011 (via a news article); Eisenman (two books). Secondary; not held.
+- Eusebius on the money-changers saying. **Not held**; see Claims 3.
+
+## Where This Overlaps the Repo
+
+- TOPIC-INDEX §8: `christianity/biblical-case-for-vegetarian-jesus.md` → `## V. The "Fish" Question`, `## I. The Genesis Ideal: God's Original Diet`, `### The Temple Cleansing`; `questions/sacrifice-culture-vegetarian-jesus.md` → the fish objection.
+- `christianity/clementine-literature-nazarene-writings.md` → `### The Torah Was Corrupted`, `### Peter as Vegetarian`; `VERIFIED-SOURCES.md` on Homilies 2.38 as the correct locus of the falsehoods passage.
+- `christianity/nazarene-sect-predated-jesus.md` → `### 1. Epiphanius Says So (Despite Himself)` (the same use of a hostile witness).
+- `christianity/blood-magic-origins-saturn-sacrifice.md` → `## The Documentary Hypothesis: Who Wrote the Sacrifice Laws?`.
+- `christianity/james-the-just-key-to-understanding-jesus.md` → `### The Erasure of James`.
+- `questions/pauls-legitimacy.md` → the 2 Peter 3:15-16 objection.
+- `questions/method-and-criteria.md`, which answers the "what is your criterion" question his four-legged stool is meant to answer.
+
+## Claims to Check
+
+1. **Genesis 1 is non-priestly, per the Bar-Ilan software.** The 2011 study (Koppel, Akiva, Dershowitz and Dershowitz) was reported that way; nearly all source critics assign Genesis 1 to P, and the authors presented disagreements as leads. Note too that Genesis 1:29 can be read as P's own vegetarian ideal, with 9:3 as P's concession, which cuts across his argument either way.
+2. **Peter's examples of false texts fall almost entirely in P.** The Homilies' examples (2.43-44, 3.39-47: God repenting, tempting Abraham, Adam's sin, Noah drunk, the quail) are mostly J/E narrative. Check before repeating.
+3. **Eusebius records "be ye prudent money-changers."** The agraphon is cited by Clement of Alexandria, Origen, Apelles (via Panarion 44.2), Dionysius of Alexandria and others; a Eusebius citation was not found.
+4. **The Gospel of the Hebrews was rewritten by Jerome and hunted and burned.** Jerome says he translated it (De viris 2-3; Comm. Matt. 12:13). Loss, not destruction, is the usual account.
+5. **The Passover lamb was borrowed from Egypt.** Epiphanius's remark is an apologetic aside, not text-critical evidence; the lamb and the unleavened bread are both in Exodus 12.
+6. **Elxai was not a person.** Panarion 19.1.4 (held) says Elchasai was a man of Trajan's time who composed a book; Hippolytus (Ref. 9.13) and Origen (via Eusebius HE 6.38) also treat him as a person. Scholars debate the name; "probably not a person" overstates.
+7. **Luke 24 was added to refute Marcion.** Luke 24 is in every manuscript, including P75 (c. 200); Marcion's Luke is reconstructed from Tertullian and Epiphanius. The repo lists Luke 24:42-43 as an objection to answer, not an interpolation.
+8. **Homilies 2.45 cited as 3.45; Homilies 3.56 attributed to Jeremiah.** Slips; see Sources.
+9. **James as successor.** Thomas 12 (held) says it; Recognitions 1.43 (held) says James was "ordained bishop in it by the Lord." This one holds.
 
 ---
 

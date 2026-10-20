@@ -10,7 +10,64 @@
 
 ## Summary
 
-*Notes pending.*
+Continues the Josephus comparison from file 064. The Essenes honour "their legislator" above all and died under torture rather than blaspheme him or eat forbidden food (War 2.8.9-10); he argues the legislator is Jesus, not Moses, since torture to make people renounce a lawgiver sounds to him like the persecution of Christians. Then longevity (War 2.8.10; Hippolytus; Hegesippus on Simeon at 120; Epiphanius on James at 96); providence (Ant. 18.1.5; Recognitions 1.21; Didache 3.10); lustrations in place of sacrifice (Ant. 18.1.5; Recognitions 1.39 in Snyder's wording, with "which is Yeshua"; Panarion 30.16.5; Philo, Prob. 75; Panarion 18.1.4, 19.3.6-7; Recognitions 7.6; Jerome, Jov. 2.14, which he explains by an Aramaic Josephus); community of goods (Ant. 18.1.5; Acts 5; Philo; Didache 1.5); the Sabbath (Philo; Panarion 18.1, 19.5); God the cause of good only (Philo; Homilies 2.38; Panarion 18.1.3, 30.18.7); an appointed leader (Hippolytus; Eusebius on James and the bishops of the circumcision; Recognitions 1.17, 3.74, 1.43; Thomas 12; Recognitions 4.35 on the testimonial of James, which he thinks was aimed at Paul); prayer for enemies (Hippolytus; Matthew 5:43-45; Didache 1.3); Render to Caesar read against Hippolytus's Essenes who would not handle coins with images, with the Tiberius denarius legend, as a word against idolatry rather than for taxes; Hippolytus's Zealot and Sicarii parties among the Essenes identified with the circumcision party, with Iscariot read as Sicarii; and the Pythagorean link (Hippolytus; Ant. 15.10.4; a book, Plutarch's Parable, on Pythagorean numbers in Luke).
+
+## Key Points
+
+- [00:00] War 2.8.9: the name of their legislator, whom none may blaspheme. Footnotes say Moses; he argues Josephus, a Jew, would have said "our" legislator, and that the torture to make them blaspheme him (2.8.10) matches Christian persecution, not Jewish.
+- [03:10] Or to eat what was forbidden them: in 70 CE they would die rather than eat forbidden food, against Paul's "done away with" and Peter's vision.
+- [04:43] Longevity: War 2.8.10 (over a hundred); Hegesippus via Eusebius (Simeon son of Clopas martyred at 120 under Trajan); Jude's family in the same period; Panarion 78 (James died at 96); Hippolytus in the present tense.
+- [07:54] Providence: Ant. 18.1.5; Recognitions 1.21 (he who believes the world is administered by God's providence takes nothing amiss); Didache 3.10.
+- [09:28] Ant. 18.1.5, "more pure lustrations"; the word explained as ritual washing; Recognitions 1.39 read in Snyder's wording (baptism instituted in place of sacrifice; purified not by the blood of beasts but by the wisdom of God, "which is Yeshua"); Panarion 30.16.5.
+- [11:01] Philo, Prob. 75 (more than four thousand; not sacrificing living animals); Panarion 18.1.4; 19.3.6-7 (Elxai bans burnt offerings; children, go not to the sight of fire but to the sound of water). He floats the idea that the Elxai text could have been written by Jesus. 30.16.5-7; Recognitions 7.6.
+- [14:14] Jerome, Jov. 2.14, read: Josephus gives the Essenes wondrous praise for abstaining from wives, wine and flesh; he infers Jerome had the Aramaic Josephus.
+- [15:47] Ant. 18.1.5 (only among the Essenes is wealth fully shared); Acts 5:1-10 (Ananias and Sapphira); Philo (one storehouse; wages to the common stock; the sick and the elders cared for); Didache 1.5 (give to everyone; woe to the one who takes without need).
+- [18:51] Sabbath: Philo (synagogues, seated by age); Panarion 18.1.1-2 (Nasaraeans from Gilead, Bashan and the Transjordan, which he places around Pella); 19.5.1.
+- [20:27] God only good: Philo (the deity the cause of everything good and nothing evil); Homilies 2.38 read; everything written against God is false; Panarion 18.1.3, 30.18.7.
+- [23:35] Leadership: Hippolytus (a president obeyed as law); Eusebius HE 2.23 (James) and HE 4.5 (the bishops of the circumcision, "I think 14"); Recognitions 1.17 (Clement writes to his lord James), 3.74 (an annual account sent by James's command, so Peter takes orders from James), 1.43 (James ordained bishop by the Lord); Thomas 12; Recognitions 4.35 (receive no teacher without James's testimonial), which he suspects was made because of Paul, who complains about letters of recommendation (2 Corinthians 3:1-2). Aside: King James renamed Jacob.
+- [28:21] Pray for enemies: Hippolytus (the Essene oath includes not hating the one who injures you but praying for him); Matthew 5:43-45; Didache 1.3.
+- [29:55] Render to Caesar: Hippolytus on a stricter Essene party that would not handle or look at coins with images or pass gates with statues; Matthew 22:17-22; the Tiberius denarius (son of the divine Augustus; Pontifex Maximus). His reading: Jesus exposes their hypocrisy over idolatry; what is due to a man claiming divinity under the Torah is stoning, not tribute.
+- [34:40] Hippolytus on Zealots or Sicarii who force circumcision at knife-point, identified with the circumcision party that opposed Paul; Judas Iscariot as Sicarii; Simon the Zealot; Acts 21:20; Acts 16:3 vs Galatians 2:3 (Timothy and Titus taken as the same name); the party that calls no one lord but God, compared to "no king but Jesus."
+- [37:47] Hippolytus: the Jewish legislation is older than the Greeks; Pythagoreans and Stoics derived their systems from the Jews; Josephus, Ant. 15.10.4 (Essenes excused from Herod's oath; live like Pythagoreans); Pythagoras in Babylon with the exiles and the Magi (his suggestion); Plutarch's Parable (Pythagorean sacred numbers in Luke; Luke-Acts by Plutarch, whose name was Lucius); he finds its Mary Magdalene material weak but the Pythagorean part worth reading.
+- [42:32] Conclusion: enough circumstantial connections that it stops being coincidence.
+
+## Sources He Cites
+
+- Josephus, War 2.8.9-11; Ant. 15.10.4; Ant. 18.1.5. **Ant. 18.1.5 held** (witnesses §7), with the repo's note that the same sentence says they offer sacrifices themselves and that the "not" is textually disputed. The rest **not held**.
+- Hippolytus, Refutation 9.18-29. **Not held**.
+- Philo, Prob. 75. **Held** (witnesses §6). Hypothetica: **not held**.
+- Eusebius, HE 2.23 (Hegesippus on James). **Held** excerpt. HE 3.20, 3.32, 4.5: **not held**.
+- Jerome, Against Jovinianus 2.14. **Held** (witnesses §10) with the editors' note that the abstinence claim rests on nothing in Josephus and is borrowed from Porphyry.
+- Panarion 18.1.1-4; 19.3.6-7; 19.5.1; 30.16.5-7; 30.18.7; 78.14.5. **Held**.
+- Recognitions 1.17, 1.21, 1.39, 1.43, 3.74, 4.35, 7.6; Homilies 2.38. **Held** (Smith). Recognitions 1.39 is read with Snyder's added "which is Yeshua," not in Smith.
+- Gospel of Thomas 12. **Held**.
+- Didache 1.3, 1.5, 3.10. **Held** (Richardson).
+- Matthew 5:43-45; 22:17-22; Acts 5:1-10; 16:3; 21:20; Galatians 2:3; 2 Corinthians 3:1-2. **Held** (KJV).
+- Plutarch's Parable (book). **Not held**.
+
+## Where This Overlaps the Repo
+
+- `questions/essene-nazarene-origins.md` → `### 5. The line of succession runs through Jesus's own family, and it has a forwarding address` and the Temple Scroll objection; `christianity/flight-to-pella-golden-thread.md` → `## The Chain of Leadership`.
+- `questions/nazarene-sect-sacrifice-and-diet.md` → `### The Recognitions block` (1.39) and `### The James succession — the best-attested structural fact available`.
+- `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md` §6, §7, §10: the exact passages he reads, with the repo's cautions attached.
+- `christianity/james-the-just-key-to-understanding-jesus.md` → `### The Dynasty Argument`.
+- TOPIC-INDEX §8, last row → `christianity/vegetarian-pythagorean-jesus/vegetarian-connection-across-traditions.md`.
+- `questions/pauls-legitimacy.md` (letters of recommendation; Galatians 2).
+- `extended-library/nazarene-acts-snyder-notes.md` → Claims to Check 4 (1.39).
+
+## Claims to Check
+
+1. **Josephus's "legislator" (War 2.8.9) is Jesus.** Josephus calls Moses "our legislator" throughout (Ant. proem; Apion 2), and Essene reverence for Moses fits CD and 1QS. The torture passage concerns the war of 66-73. Josephus describes every sect in the third person, so "their" carries no weight. No scholar reads it as Jesus.
+2. **Jerome had an Aramaic Josephus.** The held editorial note at Jov. 2.14: Jerome borrows the claim from Porphyry; Josephus nowhere says it.
+3. **Recognitions 1.39, "which is Yeshua."** Snyder's gloss, absent from Smith and Rufinus. Quote Smith: "purified not by the blood of beasts, but by the purification of the Wisdom of God."
+4. **A text of Elxai possibly written by Jesus.** Panarion 19.1.4: Elchasai, after the Saviour's coming, under Trajan, composed a book; Hippolytus (Ref. 9.13) describes its contents. No basis.
+5. **Ant. 18.1.5 as "the Essenes did not sacrifice."** The repo's note at the held excerpt says not to quote it that way.
+6. **Simeon at 120; Jude's family to the same age; James at 96.** Eusebius HE 3.32 gives 120 for Simeon; HE 3.20 says Jude's grandsons lived to Trajan's reign, with no ages; the 96 for James is Epiphanius alone and sits oddly with the usual chronology.
+7. **Render to Caesar as a call to stone Caesar.** Interpretive. The Hippolytus detail about coins is real (Ref. 9.26) but concerns one sub-party.
+8. **Iscariot = Sicarii; Titus = Timothy.** The Sicarii derivation is an old proposal, disputed (Ish-Kerioth is the common reading). Titus (a Latin praenomen) and Timotheos (Greek, "honouring God") are different names, not two forms of one.
+9. **Pythagoras learned from the Jews; Plutarch wrote Luke.** Hippolytus's claim (Ref. 9.27) is an apologetic commonplace (compare Josephus, Apion 1.22). The Plutarch authorship claim has no scholarly standing found.
+10. **Bishops of the circumcision, "I think 14."** Eusebius HE 4.5 lists 15; corrected in file 187.
+11. **King James renamed Jacob.** "James" is the English form via Old French from Latin Iacomus, in use centuries before 1611 (Wycliffe's Bible, 1382, has James).
 
 ---
 

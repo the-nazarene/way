@@ -191,13 +191,13 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 180 | [x] | [ ] | Update #2 - The Print Book With The Corrected Text  Is Live! | 28:08 | [180-update-the-print-book-with-the-corrected-text-is-live.md](180-update-the-print-book-with-the-corrected-text-is-live.md) |
 | 181 | [x] | [ ] | The Antichrist and the Abomination of Desolation - Uncovering the Meanings in Matthew 24 | 58:18 | [181-the-antichrist-and-the-abomination-of-desolation-uncovering.md](181-the-antichrist-and-the-abomination-of-desolation-uncovering.md) |
 | 182 | [x] | [ ] | Did Yeshua Multiply Death and Feed It To The People? - Loaves Without The Fish in Early Writings | 29:02 | [182-did-yeshua-multiply-death-and-feed-it-to-the-people-loaves-w.md](182-did-yeshua-multiply-death-and-feed-it-to-the-people-loaves-w.md) |
-| 183 | [x] | [ ] | What Is The Gospel of The Hebrews? Part 1   Mentions from History | 43:05 | [183-what-is-the-gospel-of-the-hebrews-part-1-mentions-from-histo.md](183-what-is-the-gospel-of-the-hebrews-part-1-mentions-from-histo.md) |
+| 183 | [x] | [x] | What Is The Gospel of The Hebrews? Part 1   Mentions from History | 43:05 | [183-what-is-the-gospel-of-the-hebrews-part-1-mentions-from-histo.md](183-what-is-the-gospel-of-the-hebrews-part-1-mentions-from-histo.md) |
 | 184 | [x] | [x] | What Is The Gospel of The Hebrews? Part 2   Quotations from History | 1:09:23 | [184-what-is-the-gospel-of-the-hebrews-part-2-quotations-from-his.md](184-what-is-the-gospel-of-the-hebrews-part-2-quotations-from-his.md) |
-| 185 | [x] | [ ] | Ebionite 101   A Statement of Faith   The Doctrines of the Original Assembly | 1:09:34 | [185-ebionite-101-a-statement-of-faith-the-doctrines-of-the-origi.md](185-ebionite-101-a-statement-of-faith-the-doctrines-of-the-origi.md) |
-| 186 | [x] | [ ] | Ebionite 102  - Become As Little Children - YHWH Doesn't Change | 1:34:58 | [186-ebionite-102-become-as-little-children-yhwh-doesn-t-change.md](186-ebionite-102-become-as-little-children-yhwh-doesn-t-change.md) |
-| 187 | [x] | [ ] | Ebionite 201 - Who Were The First Christians & What Did the Apostles Believe and Teach | 51:06 | [187-ebionite-201-who-were-the-first-christians-what-did-the-apos.md](187-ebionite-201-who-were-the-first-christians-what-did-the-apos.md) |
+| 185 | [x] | [x] | Ebionite 101   A Statement of Faith   The Doctrines of the Original Assembly | 1:09:34 | [185-ebionite-101-a-statement-of-faith-the-doctrines-of-the-origi.md](185-ebionite-101-a-statement-of-faith-the-doctrines-of-the-origi.md) |
+| 186 | [x] | [x] | Ebionite 102  - Become As Little Children - YHWH Doesn't Change | 1:34:58 | [186-ebionite-102-become-as-little-children-yhwh-doesn-t-change.md](186-ebionite-102-become-as-little-children-yhwh-doesn-t-change.md) |
+| 187 | [x] | [x] | Ebionite 201 - Who Were The First Christians & What Did the Apostles Believe and Teach | 51:06 | [187-ebionite-201-who-were-the-first-christians-what-did-the-apos.md](187-ebionite-201-who-were-the-first-christians-what-did-the-apos.md) |
 | 188 | [x] | [ ] | Channel Update - Invitation to Baptism, Hearing God's Voice, The Holy Spirit, Ebionite Videos | 23:09 | [188-channel-update-invitation-to-baptism-hearing-god-s-voice-the.md](188-channel-update-invitation-to-baptism-hearing-god-s-voice-the.md) |
-| 189 | [x] | [ ] | Ebionite 202: The Ebionite  Understanding Of The Father and The Son | 2:07:26 | [189-ebionite-202-the-ebionite-understanding-of-the-father-and-th.md](189-ebionite-202-the-ebionite-understanding-of-the-father-and-th.md) |
+| 189 | [x] | [x] | Ebionite 202: The Ebionite  Understanding Of The Father and The Son | 2:07:26 | [189-ebionite-202-the-ebionite-understanding-of-the-father-and-th.md](189-ebionite-202-the-ebionite-understanding-of-the-father-and-th.md) |
 | 190 | [ ] | [ ] | Free Books From My Personal Library | 11:21 | [190-free-books-from-my-personal-library.md](190-free-books-from-my-personal-library.md) |
 | 191 | [x] | [ ] | Is The Identity Of Paul's Messiah Revealed In The Nazarene Acts? | 1:21:37 | [191-is-the-identity-of-paul-s-messiah-revealed-in-the-nazarene-a.md](191-is-the-identity-of-paul-s-messiah-revealed-in-the-nazarene-a.md) |
 | 192 | [x] | [ ] | Is The Identity Of The Roman Church's "Simon Peter" Really Simon Magus? | 1:15:28 | [192-is-the-identity-of-the-roman-church-s-simon-peter-really-sim.md](192-is-the-identity-of-the-roman-church-s-simon-peter-really-sim.md) |
@@ -224,14 +224,14 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 213 | [x] | [ ] | RSF - Reconstructed GoTH Ch 1-3 | 24:39 | [213-rsf-reconstructed-goth-ch-1-3.md](213-rsf-reconstructed-goth-ch-1-3.md) |
 | 214 | [x] | [ ] | RSF - Reconstructed GoTH Ch 4-5 | 26:24 | [214-rsf-reconstructed-goth-ch-4-5.md](214-rsf-reconstructed-goth-ch-4-5.md) |
 | 215 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 6-7 | 26:03 | [215-rsf-reconstructed-goth-ch-6-7.md](215-rsf-reconstructed-goth-ch-6-7.md) |
-| 216 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 8 | 19:49 | [216-rsf-reconstructed-goth-ch-8.md](216-rsf-reconstructed-goth-ch-8.md) |
-| 217 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 9-10 | 29:31 | [217-rsf-reconstructed-goth-ch-9-10.md](217-rsf-reconstructed-goth-ch-9-10.md) |
-| 218 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 11-12 | 20:07 | [218-rsf-reconstructed-goth-ch-11-12.md](218-rsf-reconstructed-goth-ch-11-12.md) |
-| 219 | [ ] | [ ] | Levels of Development and How It Limits Our Understanding - Paul vs Jesus | 1:08:25 | [219-levels-of-development-and-how-it-limits-our-understanding-pa.md](219-levels-of-development-and-how-it-limits-our-understanding-pa.md) |
-| 220 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 13-14 | 15:11 | [220-rsf-reconstructed-goth-ch-13-14.md](220-rsf-reconstructed-goth-ch-13-14.md) |
-| 221 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 15 | 22:34 | [221-rsf-reconstructed-goth-ch-15.md](221-rsf-reconstructed-goth-ch-15.md) |
-| 222 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 16-17 | 14:20 | [222-rsf-reconstructed-goth-ch-16-17.md](222-rsf-reconstructed-goth-ch-16-17.md) |
-| 223 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 18-19 | 10:26 | [223-rsf-reconstructed-goth-ch-18-19.md](223-rsf-reconstructed-goth-ch-18-19.md) |
+| 216 | [x] | [ ] | RSF - Reconstructed GoTH Ch 8 | 19:49 | [216-rsf-reconstructed-goth-ch-8.md](216-rsf-reconstructed-goth-ch-8.md) |
+| 217 | [x] | [ ] | RSF - Reconstructed GoTH Ch 9-10 | 29:31 | [217-rsf-reconstructed-goth-ch-9-10.md](217-rsf-reconstructed-goth-ch-9-10.md) |
+| 218 | [x] | [ ] | RSF - Reconstructed GoTH Ch 11-12 | 20:07 | [218-rsf-reconstructed-goth-ch-11-12.md](218-rsf-reconstructed-goth-ch-11-12.md) |
+| 219 | [x] | [ ] | Levels of Development and How It Limits Our Understanding - Paul vs Jesus | 1:08:25 | [219-levels-of-development-and-how-it-limits-our-understanding-pa.md](219-levels-of-development-and-how-it-limits-our-understanding-pa.md) |
+| 220 | [x] | [ ] | RSF - Reconstructed GoTH Ch 13-14 | 15:11 | [220-rsf-reconstructed-goth-ch-13-14.md](220-rsf-reconstructed-goth-ch-13-14.md) |
+| 221 | [x] | [ ] | RSF - Reconstructed GoTH Ch 15 | 22:34 | [221-rsf-reconstructed-goth-ch-15.md](221-rsf-reconstructed-goth-ch-15.md) |
+| 222 | [x] | [ ] | RSF - Reconstructed GoTH Ch 16-17 | 14:20 | [222-rsf-reconstructed-goth-ch-16-17.md](222-rsf-reconstructed-goth-ch-16-17.md) |
+| 223 | [x] | [ ] | RSF - Reconstructed GoTH Ch 18-19 | 10:26 | [223-rsf-reconstructed-goth-ch-18-19.md](223-rsf-reconstructed-goth-ch-18-19.md) |
 | 224 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 20-21 | 19:22 | [224-rsf-reconstructed-goth-ch-20-21.md](224-rsf-reconstructed-goth-ch-20-21.md) |
 | 225 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 22-23 | 16:38 | [225-rsf-reconstructed-goth-ch-22-23.md](225-rsf-reconstructed-goth-ch-22-23.md) |
 | 226 | [ ] | [ ] | What is the Long Suffering of Our Lord in 2 Peter 3:15? | 26:00 | [226-what-is-the-long-suffering-of-our-lord-in-2-peter-3-15.md](226-what-is-the-long-suffering-of-our-lord-in-2-peter-3-15.md) |

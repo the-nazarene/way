@@ -10,7 +10,56 @@
 
 ## Summary
 
-*Notes pending.*
+Part one of two on the Gospel of the Hebrews: the historical mentions (part two, not in this batch, is the quotations). Opens with an Erasmus quote on correcting the gospels from the earliest codices, taken from Stanford Rives's The Original Gospel of Matthew. His thesis: the Gospel of the Hebrews was Matthew's original Hebrew gospel, lost, or rather suppressed, by the Roman church, which once held copies. A long aside revisits his bread-and-fish video: early writers on the feeding do not mention fish; a nun told him in parochial school that fish stories were added; Luke 24's ending is anti-Marcionite and contradicts Matthew and Mark (Galilee) and Acts 1 (forty days); John 21 is an addition; additions go at the ends of books; and he challenges critics to dispute his sources rather than his conclusions. Then the mentions, read from a sources PDF he distributes: Papias (via Eusebius HE 3.39); Irenaeus (AH 3.1.1; 1.26.2, the Ebionites use Matthew only and call Paul an apostate from the law, which he endorses); Origen (via HE 6.25); Eusebius (HE 3.25, 3.27, 4.22 on Hegesippus, 5.10 on Pantaenus in India); Epiphanius (29.9.4; 30.3.7; 46.1 on the Diatessaron); Philip of Side; Theodoret; Nicephorus's stichometry (2200 lines against Matthew's 2500); a Codex Vaticanus note on the eight days of Passover and the judgment. He restates the "shell game" reading of Epiphanius and denies there was a separate Gospel of the Ebionites. He describes his reconstruction's method: most changes from the Shem Tov Hebrew Matthew, some Luke passages thought to derive from the Hebrew gospel, a few Thomas sayings, possibly the Didache, and removal of what contradicts Ebionite doctrine. Recommends James Edwards and Rives.
+
+## Key Points
+
+- [00:00] The Rock's sources PDF, divided into quotations and mentions; the Gospel of the Hebrews as Matthew's eyewitness original, changed in translation to Greek.
+- [03:05] Erasmus via Rives; the Vatican's lost copies, with a joke about overdue library books.
+- [06:18] Fish: Eusebius on the feeding mentions only bread (his claim); the nun who said fish stories were added and that the church changed the Sabbath.
+- [09:23] Luke 24 as a refutation of Marcion; Galilee vs Jerusalem; Acts 1's forty days vs the same-night ascension; additions at the ends of books; John 21 (John in the third person; James the son of Zebedee named only there; written after John's death).
+- [14:05] Critics disputed his phrase about multiplying dead fish, not his sources; the vegetarian playlist; "give me the source"; Genesis 1:29.
+- [19:00] Papias via Eusebius (Matthew in the Hebrew dialect arranged the oracles); Irenaeus AH 3.1.1 (Matthew's gospel among the Hebrews while Peter and Paul were in Rome); AH 1.26.2 (Ebionites use Matthew only, reject Paul as an apostate from the law; he agrees).
+- [21:52] Pella; James murdered; James, Simeon and the family (desposyni) leading for four or five hundred years; eighteen bishops per Eusebius; the names of the groups.
+- [25:00] Origen via Eusebius (Matthew first, in Hebrew letters, for Jewish believers); HE 3.25 (the Hebrews gospel used by Hebrew Christians); HE 3.27 (Ebionites reject all of Paul's epistles, use only the Hebrews gospel); HE 4.22 (Hegesippus quotes the Hebrews gospel and the Syriac, a Hebrew believer himself); HE 5.10 (Pantaenus found Bartholomew's Hebrew Matthew in India and, he adds, brought it to Alexandria).
+- [28:07] Panarion 29.9.4 (the Nazoraeans' complete Hebrew Matthew); 30.3.7 (the Ebionites' called according to the Hebrews); Epiphanius implies the Ebionites' copy is mutilated, which he reads as the shell game; no separate Gospel of the Ebionites.
+- [31:13] Everyone early knew the Nazarenes were the original church (Acts 24:5); Epiphanius obscures it to protect the Roman line.
+- [34:20] Panarion 46.1 (Tatian's Diatessaron called by some according to the Hebrews); Philip of Side (the fathers cast out the gospels of the Hebrews, Peter and Thomas as heretical; "he's right"); Theodoret (Nazarenes use Matthew/Hebrews, call Paul apostate; also a Gospel according to Peter); Nicephorus 2200 lines.
+- [37:28] His reconstruction is longer than canonical Matthew because he added fragments and removed little; the stichometry implies 300-plus lines were added to Greek Matthew.
+- [39:03] The Codex Vaticanus note on eight days of Passover and the judgment of Adam's seed; not used in the reconstruction.
+- [40:36] Method: Shem Tov Matthew for most (minor) changes; passages from Luke; a few Thomas sayings; the Didache perhaps; Edwards, The Hebrew Gospel and the Development of the Synoptic Tradition; Rives vols. 1-2 (vol. 3 is his reconstruction).
+
+## Sources He Cites
+
+- Panarion 29.9.4; 30.3.7; 30.13.2 (by implication); 46.1. **Held** (46.1 in book 2; not checked here).
+- Eusebius, HE 3.25.5; 3.27.4; 3.39.16 (Papias); 4.22.8 (Hegesippus); 5.10.3 (Pantaenus); 6.25.4 (Origen). **Not held**; McGiffert is public domain.
+- Irenaeus, AH 1.26.2; 3.1.1. **Not held**.
+- Philip of Side; Theodoret, Haer. fab. 2.1-2; Nicephorus's stichometry; the Vatican Latin note. **Not held**; standard items in the fragment collections (Klijn; Ehrman and Pleše).
+- Erasmus via Rives; Edwards (2009); Rives (2013). Secondary; not held.
+- Shem Tov Hebrew Matthew (Howard's edition). **Not held**.
+- Gospel of Thomas; Didache. **Held**.
+- Luke 24:36-53; Acts 1:3; Matthew 28:7, 10; Mark 16:7; John 20:30-31; 21; Acts 24:5; Genesis 1:29. **Held** (KJV).
+
+## Where This Overlaps the Repo
+
+- TOPIC-INDEX §6, "Was there an original Hebrew Matthew?" → `christianity/hebrew-gospel-of-matthew.md` → `## The Patristic Evidence`, `## The Three Related Texts` (the repo keeps Nazarenes, Ebionites and Hebrews as three texts; he collapses them to one), `## Why the Hebrew Original Was Lost`.
+- `questions/sacrifice-culture-vegetarian-jesus.md` → the Luke 24:42-43 fish objection; `christianity/biblical-case-for-vegetarian-jesus.md` → `## V. The "Fish" Question`.
+- `questions/resurrection.md` → `### 4. The earliest gospel *promises* an appearance and then narrates none — and the later gospels can't agree on where it happened` (the Galilee/Jerusalem tension he uses).
+- `christianity/flight-to-pella-golden-thread.md`; `questions/pauls-legitimacy.md` → `### 5.` (Irenaeus and Eusebius on the Ebionites rejecting Paul).
+- `christianity/Incoming/q-source-reconstruction.md` as the repo's model for labelling a reconstruction (Tier 3).
+
+## Claims to Check
+
+1. **One Gospel of the Hebrews = Matthew's Hebrew original = the Ebionites' gospel.** The repo and most scholars distinguish a Gospel of the Hebrews (Greek, Alexandrian), a Gospel of the Nazarenes (Aramaic, close to Matthew) and a Gospel of the Ebionites (a Greek harmony, quoted by Epiphanius 30.13-14 without genealogy). Edwards argues for one Hebrew gospel behind Luke's special material; Rives for Hebrew Matthew. Open; his reconstruction must be labelled as one.
+2. **Early sources on the feeding mention bread only.** Not checked here; from his separate video. All four gospels have fish; patristic summaries often abbreviate. Make the list before repeating.
+3. **Luke 24 as an anti-Marcionite addition.** See file 061, Claims 7. The Galilee/Jerusalem tension is real and the repo uses it, but it is a tension between gospels, not evidence of a late ending.
+4. **John 21 a later addition.** A widely held critical view, though the chapter is in every manuscript.
+5. **The Vatican lost or destroyed its copies.** Jerome saw a copy in the library at Caesarea and with the Nazarenes at Beroea; no source says Rome held one.
+6. **Eighteen bishops; a dynasty of four or five hundred years.** Eusebius HE 4.5 lists fifteen to 135 CE; Julius Africanus (HE 1.7) coined desposyni; no centuries-long dynasty is attested. He gives fifteen in file 187.
+7. **The nun's remark.** An anecdote, offered as one.
+8. **Nicephorus's 2200 lines prove 300 lines were added to Matthew.** The stichometry is real (9th century) but approximate, and the inference assumes the two are one book.
+9. **Theodoret's Gospel according to Peter for the Nazarenes.** He does say it (Haer. fab. 2.2); usually taken as Theodoret's confusion.
+10. **Hegesippus was a Hebrew believer who quoted the Hebrews gospel.** Eusebius HE 4.22.8 says so; this one holds.
 
 ---
 

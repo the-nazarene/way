@@ -42,7 +42,7 @@ In order. Put your name in **Who** when you take one.
 | 10 | Finish David The Nazarene transcripts (download stopped at 99 of 370; YouTube rate-limits it; an Apify token would finish it in minutes) | Chris Crutchfield | | [ ] |
 | 11 | Confirmed 2026-10-20: David The Nazarene is David H. Notsari, guest on The Jesus Way episode 23. That episode's description links "David Notsari YT" to a David The Nazarene video, and his own video descriptions link to his Odysee account @DavidHNotsari | Chris Crutchfield | Claude | [x] |
 | 12 | Pull SixSeven Podcast transcripts (34) | Chris Crutchfield | | [ ] |
-| 13 | Notes on David The Nazarene: the most relevant videos first, not all 370. First batch of 22 in progress (sacrifice, diet, Essenes, the Ebionite 101-202 series, Gospel of the Hebrews, James and Paul in the Dead Sea Scrolls, "Paul vs the True Church", law). Raw transcripts are pointers; notes are where the value is | Chris Crutchfield; Brad Brink | Claude | [ ] |
+| 13 | Notes on David The Nazarene: the most relevant videos first, not all 370. First batch of 22 done 2026-10-20 (sacrifice, diet, Essenes, Ebionite 101-202, Gospel of the Hebrews, James and Paul in the Dead Sea Scrolls, "Paul vs the True Church", law). His Panarion and Clementine quotations check out against held texts; his NazActs readings carry Snyder's changes. Next batch: pick from the queue as transcripts arrive | Chris Crutchfield; Brad Brink | Claude | [ ] |
 | 14 | Audit the Panarion passages we quote (Nazarenes, Ebionites) against the Greek | Craig Wescoe | | [ ] |
 | 15 | Read SixSeven Podcast transcripts and decide what, if anything, goes deeper | Chris Crutchfield | | [ ] |
 
@@ -55,7 +55,7 @@ In order. Put your name in **Who** when you take one.
 
 | Source | Contributed by | Items | Transcripts | Notes | Queue |
 |---|---|---|---|---|---|
-| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 160 of 370 | 17 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
+| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 168 of 370 | 22 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
 | Shabbat Studies with Jen & Chris | Chris Crutchfield, 2026-10-19 | 10 | 10 of 10 | 10 of 10 | [queue](podcast-archive/shabbat-studies/00-queue.md) |
 | SixSeven Podcast | Chris Crutchfield, 2026-10-19 | 34 | 0 of 34 | 0 of 34 | [queue](podcast-archive/sixseven-podcast/00-queue.md) |
 <!-- STATUS:END -->

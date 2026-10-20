@@ -10,7 +10,67 @@
 
 ## Summary
 
-*Notes pending.*
+First of a series restating Ebionite doctrine after pushback on his claims that the earliest believers were vegetarian and that the fish was not in the original feeding story. He sets out his identification: Nazarenes, Ebionites and Essenes (with the Ossaeans, Nasaraeans and Jessaeans) are one people under different names; the Nazarene sect predated Jesus (Panarion 29.6.1); "Ebionite," like "Christian," began as a name given by others and stuck; Jerusalem's Essene quarter became the Christian quarter. The body is a guided reading of the Panarion as a hostile witness: 18.1 (Nasaraeans: not this legislation; no sacrifice, no meat; the books forgeries), 19.1-5 (Ossaeans; Elxai as a book rather than a person; bans burnt offerings; "Ossenes" close to Essenes), 19.5.5 (four sects), 29.1-9 (Nazoraeans; Jessaeans; Epiphanius does not know them first-hand; Pella and Kokaba; the complete Hebrew Matthew), 30.1-3 (Ebion; the "shell game"; no person Ebion), 30.2.6-7 (virginity; Pella), 30.3.7-9 (Hebrew Matthew; John and Acts in Hebrew at Tiberias), 30.15-16 (Travels of Peter; daily baptism; no flesh; unleavened bread and water; two princes; chosen; created like an archangel; "I came to abolish sacrifices"; the Ascents; Paul a Greek proselyte), 30.17 (Ebion means poor; sold their possessions), 30.18 (the prophets rejected; the calf and the milk; Christ revealed it to me), 30.22 (the Passover saying altered). A long aside defends Doug of Jesus' Words Only and himself against the "mere man" charge: denying the virgin birth is not calling Jesus a mere man; Peter says he pre-existed as the firstborn of creation; the Sinaitic Syriac says Joseph begot Jesus; "begotten" at the baptism is not adoption. He closes with his own story of giving up meat. He offers his own highlighted Panarion PDF to viewers; the repo holds its own text.
+
+## Key Points
+
+- [00:16] The occasion: pushback on the baptism video and on the fish not being original to the feeding. Nazarenes and Ebionites are two names for one people; the sect predated Jesus.
+- [02:07] His channel name: Notsri, branch; Nazarene; he openly identifies as an Ebionite and asks why anyone would be surprised he teaches Ebionite doctrine.
+- [04:43] The Essene quarter of Jerusalem became the Christian quarter; Josephus's three philosophies; the Essenes Jews by birth, from which he infers that the Hebrews proper identified as Essenes; Jesus an Essene of the Nazarene sect; Epiphanius says the Nasaraeans existed before Christ.
+- [07:04] Ebion means poor; a derogatory name adopted later, like Christian and, he says, Jew; early theologians' letters use Ebionite and Nazarene interchangeably.
+- [08:36] The Panarion (medicine chest) as a heresiology; Epiphanius a 4th-century bishop in Palestine who spoke with Ebionites; the "shell game" of names to separate the Ebionites from the Nazarenes; a hostile witness whose doctrines reappear in Peter's mouth in the Nazarene Acts and the Homilies (his "Sermons of Peter"), collected in his Rock of a Sure Foundation.
+- [13:51] Panarion 18.1.1-5 read: Nasaraeans, Jews by nationality from Gilead, Bashan and the Transjordan; the fathers from Adam to Moses; Moses received legislation but not this one; no sacrifice, no meat; forgeries.
+- [17:13] Peter on additions to the law; the prophets against sacrifice (pointer to files 010 and 006).
+- [18:46] "They said" shows face-to-face contact with the Nasaraeans; nothing of the kind with the Nazoraeans of chapter 29.
+- [19:27] Panarion 19.1.1-3: Ossaeans, which he derives from the Hebrew for "do" (Epiphanius: sturdy); from beyond the Dead Sea, near Pella. Elxai as the Book of the God of Life, mistaken by Epiphanius for a person. 19.3.6 read: bans burnt offerings and sacrifices as foreign to God, rejects eating meat. 19.5.1: "Ossenes."
+- [26:06] 19.5.4-5: four sects use Elxai; the same group under four names.
+- [26:50] Panarion 29.1.1-4: contemporaries; Epiphanius cannot say who succeeded whom; all Christians once called Nazoraeans; Jessaeans, which he hears as a garbled memory that Christians were called Essenes.
+- [30:52] 29.7.1-7 read: Jews in every way; Law, Prophets and Writings in Hebrew; one God and his son Jesus Christ; Epiphanius cannot say whether they hold him a mere man.
+- [32:47] The "mere man" rant: no group believed that; Doug (Jesus' Words Only) on the virgin birth as an addition; Joseph's genealogy; the Syriac gospels "from 340" say Joseph begot Jesus; Peter says Jesus pre-existed as the firstborn of creation; John 3:12; "this day I have begotten you" is begetting, not adoption; Epiphanius a liar for saying mere man and then a 96-mile archangel.
+- [39:53] 29.7.7-8: Beroea, Pella, Kokaba; the disciples left Jerusalem before the siege on Christ's instruction. 29.9.4: the complete Hebrew Matthew.
+- [41:46] Panarion 30.1.1-3 read: Ebion the hydra, of the Nazoraeans' school, with the Samaritans' loathsomeness, the Jews' name, the Ossaeans' and Nazoraeans' thinking, the Cerinthians' shape, the Carpocratians' perversity. No person Ebion (Ehrman, Tabor).
+- [44:13]-[47:51] Captions missing for about three and a half minutes; resumes on 30.2.6 (they once prided themselves on virginity because of James; the Scrolls on abstinence).
+- [48:34] 30.2.7 (origins after the fall of Jerusalem; Pella); 30.3.7-9 (Hebrew Matthew; John and Acts in Hebrew in the treasuries at Tiberias); 30.15.1 (Travels of Peter, which he takes as the Homilies/Recognitions material).
+- [50:09] 30.15.3 read with heavy sarcasm: the "slander" that Peter bathed daily and abstained from flesh and all dishes made from meat, as the Ebionites do. He presents this as the proof that the Ebionites did not eat meat. 30.16.1: initiation baptism plus daily baptisms; the yearly mysteries with unleavened bread and water.
+- [52:15] 30.16.2-5: two appointed by God, Christ and the devil (which he maps to the chiefs or princes of Recognitions 1.45); born of a man's seed and chosen; created like one of the archangels; "I came to abolish sacrifices." Epiphanius cannot keep his story straight.
+- [54:38] 30.16.6-9: other Acts; the Ascents of James (Recognitions book 1); Paul a Greek proselyte who wanted the priest's daughter. 30.17.1-2: Ebion means poor; they sold their possessions in the apostles' time; "called poor by everyone," which he takes to mean they first called themselves Nazarenes.
+- [57:29] 30.18.4-6: reject David, Solomon and the prophets; he doubts it, and reads Peter as saying the prophets saw as through a smoky glass while the True Prophet saw clearly.
+- [59:18] 30.18.7-9 read; his own stance stated plainly: if Jesus said not to eat meat, Genesis stories about Abraham or Noah do not move him.
+- [1:03:09] 30.15.4 and 30.16 (Peter bathed before eating bread). 30.22.3-4 read: "I have not desired to eat meat this Passover with you" as a Gospel of the Hebrews reading; lost because it disagreed with Paul.
+- [1:05:42] His story again: read Peter, resisted, heard that he sounded like a Christian who would not give up bacon.
+
+## Sources He Cites
+
+- Panarion 18.1.1-5; 19.1.1-4; 19.3.6-7; 19.5.1-5; 29.1.1-4; 29.6.1; 29.7.1-8; 29.9.4; 30.1.1-3; 30.2.6-8; 30.3.7-9; 30.13.7; 30.15.1-4; 30.16.1-9; 30.17.1-3; 30.18.4-9; 30.22.3-5. **All held** (`epiphanius-panarion-book-1-full-text.md`) and checked; content matches throughout. Note 19.1.4 (Elchasai a man of Trajan's time who composed a book) and 30.17.5 (the 96-mile Christ comes from Elchasai; "Ebion knew nothing of these things").
+- Josephus, War 2.8.2 (Jews by birth). **Not held**.
+- Jerome, Ep. 112.13 (Ebionites and Nazarenes named together). **Not held**; real.
+- Recognitions and Homilies via his Rock of a Sure Foundation. **Held** in Smith. The firstborn-of-creation point is Recognitions 1.45 ("the Son of God, and the beginning of all things").
+- Sinaitic Syriac Matthew 1:16. **Not held**.
+- Dead Sea Scrolls on celibacy. Tier 2 excerpts held; nothing on celibacy in the held file.
+- Matthew 2:23; John 3:12; 15:5; Acts 11:26. **Held** (KJV).
+
+## Where This Overlaps the Repo
+
+- `christianity/nazarene-sect-predated-jesus.md` → `### 1. Epiphanius Says So (Despite Himself)` and `## The Trans-Jordan Homeland`: the same reading of Panarion 29.6.1.
+- `questions/essene-nazarene-origins.md` → the objections `### "The Ebionites were heretics. Irenaeus and Epiphanius both say so."` and `### "You discredit Epiphanius in one breath and lean on him in the next."`, which his hostile-witness framing has to answer.
+- `christianity/2026-02-25-essene-nazarene-ebionite-lineage.md` → `## The Vegetarian Evidence Chain` (30.15.3).
+- `christianity/hebrew-gospel-of-matthew.md` → `## The Patristic Evidence` and `### Gospel of the Ebionites`.
+- `christianity/biblical-case-for-vegetarian-jesus.md` → `### The Passover Substitution` (30.22.4) and `### The Ebionites and Nazarenes`.
+- `questions/trinity-deity-of-jesus.md` on the baptism and "begotten."
+- `christianity/Incoming/epiphanius-panarion-book-1-full-text.md` → Sects 18, 19, 29, 30 (the repo's own copy; no need for his PDF).
+
+## Claims to Check
+
+1. **Essenes, Nasaraeans, Ossaeans, Nazoraeans, Ebionites and Jessaeans are one group.** Epiphanius says otherwise in passages he reads (29.6.1: the Nasaraeans did not know Christ; 20.3.4: Essenes listed apart from the Ossaeans). The repo treats this as a lineage with overlaps, not identity.
+2. **Jessaeans sounds like Essenes.** Epiphanius derives it from Jesse or Jesus (29.4.9) and then identifies Philo's Therapeutae as these Christians (29.5.1); witnesses §13 holds Eusebius making the same identification. A phonetic argument only.
+3. **Ossaeans means doers.** Epiphanius: sturdy. Scholars generally connect Ossaeans/Ossenes with Essenes (perhaps Aramaic hasayya, pious). All the etymologies are uncertain.
+4. **Elxai was a book, not a person.** Panarion 19.1.4 says a man of Trajan's day who wrote a book; Hippolytus (Ref. 9.13-17) and Origen (HE 6.38) agree. The name may be a title ("hidden power"), but the sources treat him as a founder.
+5. **Epiphanius contradicts himself (mere man vs a 96-mile archangel).** The held text separates Ebion's original view (30.2.2) from later Elchasaite accretions (30.3.1-2; 30.17.5). Inconsistent reports about a sect over time are not self-contradiction.
+6. **The Syriac gospels "from 340" say Joseph begot Jesus.** The Sinaitic Syriac (a 4th-5th-century manuscript) reads at Matthew 1:16 that Joseph, to whom Mary the virgin was betrothed, begot Jesus; the same manuscript keeps 1:18-25. One witness; not evidence the virgin birth was added later.
+7. **The Ebionites did not reject the prophets (against 30.18.4).** The Clementine false-pericopes doctrine (Homilies 3.42-50, held) and 30.18.5 (prophets of their own understanding) are consistent with Epiphanius; the Recognitions elsewhere honour the prophets. Open.
+8. **The Essene quarter became the Christian quarter.** Pixner's Mount Zion thesis; archaeological and contested.
+9. **Jews did not name themselves Jews; Christians did.** Yehudim is self-designation in Nehemiah, Esther and Josephus. Wrong as stated.
+10. **"Ebionite" began as a slur.** 30.17.2 (called poor by everyone) is consistent; Origen (De principiis 4.3.8) derives it from their poor understanding; "the poor" is also self-designation in Galatians 2:10 and the Scrolls. Open.
 
 ---
 

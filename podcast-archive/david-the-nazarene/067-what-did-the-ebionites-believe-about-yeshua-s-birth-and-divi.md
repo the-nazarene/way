@@ -10,7 +10,49 @@
 
 ## Summary
 
-*Notes pending.*
+A short answer to a question about the virgin birth. He rejects it chiefly because the Ebionites did not hold it, and the Jerusalem assembly under James, with Mary among its members, was best placed to know. His further reasons: the virgin-born sun gods of paganism; the Watchers of Genesis 6 and 1 Enoch were punished for mating with women, so a divine impregnation would make Jesus a Nephilim; and the Holy Spirit is feminine in Hebrew. His own position: Mary conceived by Joseph under the Spirit's orchestration; the pre-existent Jesus was an angelic being (the angel of YHWH who gave the Torah) who came to dwell in that body; perhaps the Spirit entered at the baptism. He reads Panarion 28.1 on Cerinthus and 30.2-3, 30.14 and 30.16 on the Ebionites (born of Joseph's seed; chosen; created like one of the archangels; instructed us to abolish the sacrifices), finds the primal-Adam material unclear, and argues from Panarion 78 (James Joseph's firstborn; died at 96) that James was Jesus' older brother by the same mother, against Jerome's two-Marys solution. He answers a challenge (where does God turn one kind of being into another?) with Matthew 22:30 and Recognitions 3.30: in the resurrection men become like angels, so the reverse is within God's power.
+
+## Key Points
+
+- [00:00] The Jerusalem assembly under James to 62 CE, then Simeon son of Clopas (cousin or brother; he leans brother), then Pella; Ebionites, Nazarenes, Ossaeans and the rest treated as one people. They did not believe in the virgin birth, so he does not either.
+- [01:34] Other reasons: every pagan sun god is said to be virgin-born; the Watchers were punished for mating with women; a line he attributes to Peter in the Nazarene Acts about two females having no offspring, since the Spirit is female. His view: Joseph and Mary, with the Spirit orchestrating.
+- [04:43] Rejecting the virgin birth is not the same as calling Jesus merely a man. Panarion 28.1 on Cerinthus: born of Mary and Joseph's seed; the law and prophets given by angels; the lawgiver one of the angels. He says he holds the same: the Torah was given by the angel of YHWH, who was the pre-incarnate Jesus, a belief he had before meeting the Ebionites.
+- [07:56] Panarion 30.2.2 and 30.3.1: Ebion said Christ was conceived of Joseph's seed. The primal-Adam doctrine he finds self-contradictory as Epiphanius presents it.
+- [09:32] He reads the genealogy argument (Panarion 30.14.2) as the Ebionites proving Joseph's paternity from their Matthew; then 30.16.3-5: chosen, named Son of God by election, created as one of the archangels, ruler of angels and creatures, came and instructed us to abolish the sacrifices. This matches his prior belief: an angelic being indwelling the body from the womb, the Spirit at the baptism.
+- [11:07] James the older brother: 96 at death in 61 or 62 CE puts his birth around 34 BCE; Panarion 78.7.7 read (James Joseph's firstborn; a Nazirite).
+- [12:40] Jerome, De viris 2: James the son of Mary, the sister of the Lord's mother. Two sisters both named Mary; he finds this absurd and calls it the church's workaround for James's mother being Mary and Joseph's wife. His view: the same Mary, James older, and James would have known his mother was no virgin when the claim spread, which he lays to Paul.
+- [15:50] The challenge from Facebook; the answer he says came in prayer: Matthew 22:23-30 (in the resurrection they are as the angels); Mark 12:25; Luke 20:36.
+- [19:04] Recognitions 3.30 read: God is seen by the mind, not the body; after the resurrection men are made like the angels and see God; blessed are the pure in heart.
+- [22:12] He holds the primal-Adam reading loosely; the female Spirit descended at the baptism; questioning the virgin birth does not bar salvation.
+
+## Sources He Cites
+
+- Panarion 28.1.2-7 (Cerinthus). **Held**; matches. 30.2.2, 30.3.1-6, 30.14.2-4, 30.16.3-5. **Held**; see Claims 2 on 30.14. 78.7.7 and 78.14.5. **Held** (`epiphanius-panarion-book-3-full-text.md`): "His firstborn was James, who was surnamed Oblias... being a Nazoraean, which is interpreted 'holy'"; James "died... at ninety-six years of age."
+- Jerome, De viris illustribus 2. **Not held**.
+- Recognitions 3.30. **Held** (Smith); matches.
+- The "two females" line in the Nazarene Acts. **Not located** in Smith's Recognitions; see Claims 6.
+- Matthew 22:23-30; Mark 12:25; Luke 20:36; Genesis 6:1-4. **Held** (KJV). 1 Enoch 6-10 (the Watchers). **Held** (Charles, both editions).
+- Eusebius, HE 3.11 (Simeon son of Clopas). **Not held**.
+
+## Where This Overlaps the Repo
+
+- TOPIC-INDEX §3: `questions/trinity-deity-of-jesus.md` → `### 1. The subordination runs one direction and is never reversed` and `### 5. The timeline`; `christianity/was-jesus-god-incarnate-red-text-evidence.md`.
+- `christianity/james-the-just-key-to-understanding-jesus.md` → `### Who Was James?` and `### The Dynasty Argument`.
+- `christianity/2026-02-25-essene-nazarene-ebionite-lineage.md` → `### 3. Ebionites (post-70 CE, after the temple falls)`.
+- `christianity/hebrew-gospel-of-matthew.md` → `### Gospel of the Ebionites` (no genealogy, no birth narrative).
+- The repo has no card on the virgin birth; `OPEN-RESEARCH.md` is where that gap would be logged.
+
+## Claims to Check
+
+1. **The Ebionites rejected the virgin birth.** Panarion 30.2.2 and 30.14.3-4 (held) say so; Origen (Contra Celsum 5.61) knows Ebionites of both views, and Irenaeus (AH 1.26.2) reports the denial. "The Ebionites" were not uniform.
+2. **The Ebionites proved Joseph's paternity from Matthew's genealogy.** Panarion 30.14.2-3 attributes that to Cerinthus and Carpocrates and says the Ebionites cut the genealogies away, beginning with John's baptism. The held text contradicts the attribution.
+3. **James born c. 34 BCE, so older than Jesus.** The 96 comes from Epiphanius alone (78.14.5), who uses it to support his own view that James was Joseph's son by a first wife (78.7.6-7), the very theory David rejects. Hegesippus (held) gives no age.
+4. **The two Marys as "the church's" theory.** Jerome's cousin theory (Mary of Clopas as the Virgin's sister, from John 19:25) and Epiphanius's first-wife theory are rival ancient solutions; the video runs them together. The full-brother reading (Helvidius, whom Jerome attacked) is itself ancient.
+5. **Simeon son of Clopas, cousin or brother.** Hegesippus (HE 3.11, 4.22) makes Clopas Joseph's brother, so cousin.
+6. **"How can a female and a female have offspring" in the Nazarene Acts.** Not found in Smith; possibly a paraphrase of the male-female pairs in Homilies 3.22-27 or Snyder's wording. Locate before repeating.
+7. **Jesus as the angel of YHWH who gave the Torah.** His own belief, stated as such; Panarion 28.1.3 gives the angel-lawgiver idea to Cerinthus; the Ebionite "created like one of the archangels" is 30.16.4.
+8. **Pagan virgin births as a general rule.** Most parallels usually cited (Mithras, Horus) are not virgin births in the sources; weak either way.
+9. **The Nephilim argument.** Assumes the virgin-birth narrative describes angelic mating; Matthew and Luke do not say that.
 
 ---
 

@@ -10,7 +10,62 @@
 
 ## Summary
 
-*Notes pending.*
+Part two turns from the prophets to Jesus' words and the temple. After a recap of the Ebionite doctrine and the documentary hypothesis (J, E, P, D), he observes that the corruptions Peter names in the Recognitions fall in P. Then Homilies 3.56 with Matthew 9:13 and 12:1-8 (David and the showbread, the priests profaning the sabbath), which he reads as Jesus pointing at contradictory, altered texts; Matthew 24 tied to Recognitions 1.64 (temple destroyed, abomination afterward); and his own conjecture about where the Ebionite saying stood in the Hebrew Matthew: at the trial (Matthew 26:59-65), because the high priest's blasphemy charge does not fit the Son of Man saying, the false-witness charge about destroying the temple fits a threat against sacrifice, and Stephen (whom he takes for James) made the same Son of Man statement. The temple action in John 2, Mark 11 and Luke 19 is read with the animals first and the money-changers as an afterthought; "den of robbers" comes from Jeremiah 7, the chapter that also says God never commanded sacrifice (7:22); Mark 11:16's "anything" is sacrificial animals; the chief priests (Sadducees, not Pharisees) move against him immediately afterward and later against the apostles, with Saul as the high priest's agent. Eusebius, Demonstratio 3.3, is read on Jesus not ordaining sacrifice. Friedman on sacrifice as the ordinary meat meal (not applying to fish or fowl) gives him a tentative answer to the fish question, offered as a guess. Didache 6.2-3 is read as implying a diet stricter than kosher. He closes with a theory, flagged as needing deeper study, that Paul reinserted sacrificial atonement.
+
+## Key Points
+
+- [00:00] Recap: Panarion 30.16.5-7; the Nazarenes' controversy with the temple.
+- [01:35] The Ebionites affirmed an eternal Torah and denied the Pentateuch is it; J, E, P, D sketched; God in P is aloof and reached through priests, in J and E personal; P placed in the 600s BCE.
+- [03:09] Nearly every corruption Peter names in the Recognitions is P material, so the stratum scholars call latest is the one the Nazarenes objected to.
+- [04:43] Recognitions 1.36-37 recap; the Homilies take the stronger line (never commanded).
+- [06:18] Homilies 3.56 read (God wishes mercy, not sacrifice); Matthew 9:13; Matthew 12:1-8: David ate the showbread though the Torah reserves it for priests (he suspects the priests-only rule is P and post-David); the priests profane the sabbath by sacrificing (which the Nazarenes held unlawful anyway). His reading: Jesus is showing the scriptures contradict themselves because they were changed; commentators give weak answers because they lack this key.
+- [11:01] Matthew 24:1-2, 14-16: destruction, gospel to the nations, abomination. Recognitions 1.64 puts the abomination after the destruction; he suggests the al-Aqsa mosque.
+- [14:10] Where was the saying said? His premise: the Gospel of the Ebionites is the original Hebrew Matthew. Matthew 26:59-65 read. The high priest's reaction does not fit; Son of Man he takes as the divine title and Son of God as the Davidic royal one (he notes this is the reverse of what people expect); Stephen says the same Son of Man line (Acts 7:56); so the trial is where "I came to abolish sacrifices" stood, and it fits the false witnesses' charge about destroying the temple.
+- [18:52] John 2:19 against the false witnesses' version; Thomas 71 as a parallel.
+- [20:25] John 2:13-16: oxen, sheep and pigeons first, money-changers last; the whip for the sellers. Mark 11:15-17: he would not let anyone carry anything through the temple, which he reads as sacrificial animals. Luke 19:45-46: den of robbers means theft, not overcharging.
+- [23:35] Luke 19:41-44: the destruction prophecy immediately precedes the temple action. Jeremiah 7:8-11 (den of robbers) is in the same chapter as 7:22-23, so Jesus is quoting an anti-sacrifice chapter.
+- [26:42] Mark 11:18, Luke 19:47-48, Matthew 21:15 and 21:23, 26:47: the chief priests and elders seek to destroy him right after the temple action and send the arresting party; Acts 4:1, Acts 7, Acts 9:1-2: the Sadducean temple establishment, not the Pharisees, persecutes Jesus and then the apostles. His conclusion: he exposed a lucrative fraud, and that is what got him killed.
+- [31:22] Eusebius, Demonstratio 3.3, read: Jesus had not ordained that God be honoured with sacrifices of bulls; the acceptable sacrifice is keeping his commandments; be ye perfect.
+- [32:59] Friedman: sacrifice was the normal way to eat meat (a priest, an altar, a portion to the priest), and it did not apply to fish or fowl. His tentative take on the fish passages: perhaps fish were outside the sacrificial system, perhaps a creature without breath; he says plainly he does not know whether they ate fish. He adds that the Qumran community did not eat meat because it held the temple impure.
+- [36:04] Didache dated by him to the 40s CE; 6.2-3 read (bear the whole yoke if you can; about eating, do what you can; abstain entirely from idol meat). He argues "do what you can" implies more than giving up pork, i.e. a vegetarian norm with allowance for the struggling; contrasts Paul in 1 Corinthians 8 and 10.
+- [39:11] Closing theory: Paul, sent by the high priest to destroy the Nazarenes, switched sides in appearance and reinserted sacrificial atonement; blood atonement comes from Paul, not from the gospels, James, John or Peter. Offered as a subject for deeper study.
+
+## Sources He Cites
+
+- Panarion 30.16.5-7. **Held**.
+- Recognitions 1.36-37, 1.64. **Held** (Smith); read in Snyder's wording ("devoted place").
+- Homilies 3.56. **Held**; Smith: "God wishes mercy, and not sacrifices—the knowledge of Himself, and not holocausts." He correctly names Hosea 6:6 as the source here.
+- Matthew 9:13; 12:1-8; 21:12-23; 24:1-16; 26:47, 59-65; Mark 11:15-18; Luke 19:41-48; John 2:13-22; Acts 4:1-3; 7:1, 56; 9:1-2; Jeremiah 7:8-11, 21-23; Hosea 6:6-9; 1 Corinthians 8, 10. **Held** (KJV). KJV Mark 11:16: "any vessel."
+- Gospel of Thomas 71. **Held** (Lambdin): "I shall destroy this house, and no one will be able to build it [...]."
+- Eusebius, Demonstratio Evangelica 3.3. **Not held**; only 3.5 is excerpted in the witnesses file. Ferrar (1920) is public domain in the US and could be added.
+- Didache 6.2-3. **Held** (Richardson): "Now about food: undertake what you can. But keep strictly away from what is offered to idols."
+- Friedman, Who Wrote the Bible? Secondary; not held.
+- Dead Sea Scrolls, unspecified. Tier 2 excerpts held; nothing on diet in them.
+
+## Where This Overlaps the Repo
+
+- `questions/sacrifice-culture-vegetarian-jesus.md` → `### 2. The Temple action was an attack on the sacrifice trade, not on exchange rates` and the objection `### "The Temple cleansing was about corrupt money-changers..."`; `christianity/biblical-case-for-vegetarian-jesus.md` → `### The Temple Cleansing` and `## V. The "Fish" Question`.
+- TOPIC-INDEX §1, "I desire mercy, not sacrifice" → `christianity/matt-26-28-textual-layers.md` → `## "I Desire Mercy, Not Sacrifice"`.
+- `christianity/2026-03-09-did-jesus-teach-apocalypse.md` → `## 2. The Olivet Discourse` (Matthew 24).
+- `christianity/didache-eucharist-vs-pauline-eucharist.md`; `christianity/Incoming/didache-full-text.md` → `## Chapter 6`.
+- `questions/pauls-legitimacy.md` → `### 5. The Jewish-Christian tradition remembers him as the opponent`; `christianity/blood-magic-origins-saturn-sacrifice.md` → `## How Blood Atonement Re-Entered Through Paul`.
+- `questions/nazarene-sect-sacrifice-and-diet.md` → `## What to concede, early and in your own words` and `### HOLE 2 — Isaiah 56:7` (the "house of prayer" line he quotes via Mark 11:17).
+- `questions/CITATION-NOTES.md` → `### Three verses that must never be absent again` (Mark 10:45, Matthew 26:28), against his "only in Paul" closing.
+
+## Claims to Check
+
+1. **The Gospel of the Ebionites is the original Hebrew Matthew.** Epiphanius says the Ebionites call their Matthew "according to the Hebrews" (30.3.7) but calls it falsified and mutilated, and quotes it beginning with John's baptism without genealogies (30.13-14). Most scholars treat the Gospel of the Ebionites as a Greek harmony distinct from the Gospel of the Hebrews. Open; he addresses the names in file 183.
+2. **The saying stood at the trial (Matthew 26:59-65).** His conjecture, offered as such; no source places it anywhere.
+3. **Son of Man means divinity, Son of God means kingship.** The Daniel 7 background is the usual explanation for the high priest's reaction; see `questions/trinity-deity-of-jesus.md` on Mark 14:61-64.
+4. **Mark 11:16's "any vessel" means sacrificial animals.** The Greek is skeuos (vessel, object); the Mishnah (Berakhot 9:5) forbids using the temple mount as a shortcut while carrying things. His reading is possible, not the only one.
+5. **"Den of robbers" means theft, not overcharging.** Lēstēs is bandit; Jeremiah 7:11's context is people committing crimes and then sheltering in the temple. The overcharging reading is modern; neither is settled.
+6. **Qumran did not eat meat because the temple was impure.** Not supported: animal-bone deposits at Qumran, and the Temple Scroll prescribes sacrifice; see `questions/essene-nazarene-origins.md` on the Temple Scroll. Philo, Prob. 75 (held) says the Essenes did not sacrifice living animals and says nothing about diet.
+7. **The Didache dates to the 40s.** Most date it c. 50-120; a few argue the 50s. The 40s is an outer edge.
+8. **Didache 6.3 implies vegetarianism.** The held text: "undertake what you can"; the only explicit rule is idol food. Inference, not text.
+9. **Blood atonement is only in Paul.** Mark 10:45 and Matthew 26:28 are in the gospels; the repo's own case rests on textual layering, not on absence.
+10. **Paul as a double agent who reinserted atonement.** A thesis; no source states it.
+11. **The abomination after the destruction is the al-Aqsa mosque.** His reading of Recognitions 1.64.
+12. **Eusebius DE 3.3 wording.** Unverified here; the text is not held.
 
 ---
 

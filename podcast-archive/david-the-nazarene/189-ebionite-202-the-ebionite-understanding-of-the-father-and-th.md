@@ -10,7 +10,63 @@
 
 ## Summary
 
-*Notes pending.*
+The longest of the series, on the Father and the Son, made in answer to requests about whether Jesus pre-existed his birth. A long preface from the Recognitions sets the frame: Christ "who was from the beginning, and always" (1.52); an apostle may not speak anything of his own (2.33); seek his righteousness first, for we are judged by works, not by knowledge of hidden things (2.20-22), which he spends half an hour on, telling viewers that none of what follows is what salvation turns on. Then Panarion 30 on Ebionite christology (30.2.2; 30.3.3-6 on Christ as Adam, created before all things, appearing to the patriarchs; 30.14.4; 30.16.2-4 on the two princes, election, and creation like an archangel; 30.17.6 on the 96-mile Christ; 30.18.5-6; 30.13.7 "today I have begotten you"), with his own position: the body was Joseph's and Mary's, the spirit in it an angelic being created at the beginning; he thinks the Ebionites held a form of reincarnation (Jesus as Adam; John as Elijah as Phinehas). Then Recognitions 1.45 (chiefs over every kind of creature; the Son of God, the beginning of all things, became man; anointed from the tree of life; the pious anointed likewise, so believers become like Messiah), 2.46-48 (Jesus preached the God of the Jews; the Son revealed the Father to Moses and the prophets) and 3.1 (truth before a mixed multitude). The centrepiece is Recognitions 3.2-11, which Smith omitted as untranslatable: he had them translated from the Latin with Syriac supplements for his Rock of a Sure Foundation and reads them at length as Peter on the unoriginated Father, the begotten Son who is also a creation and a creature and not of the same substance, the immortal soul, and the Holy Spirit third and made through the Son; he reads the block as a direct refutation of the Nicene Creed and notes that this is why some scholars date the Recognitions to the 300s. He ends with the Gospel of the Hebrews fragment in which Jesus calls the Holy Spirit his mother (Origen, Jerome), ruach being feminine, and a reply to a viewer who called the feminine Spirit the whore of Babylon.
+
+## Key Points
+
+- [00:00] The question: pre-existence prior to his birth to Mary, not from eternity. He refuses to speculate beyond Peter and John; the Trinity as blanks filled in by churchmen.
+- [04:40] Recognitions 1.52 read: Christ from the beginning, ever present with the pious, who frequently appeared to those who waited for him. "Beginning" means creation.
+- [09:25] Recognitions 2.33: an apostle is sent and delivers the sender's message or is a false apostle; disciple vs apostle; James leader but not an apostle (Thomas 12); Jesus the apostle of the Father (John).
+- [15:39] The order of inquiry: Recognitions 2.20-22 read at length; righteousness first, then the True Prophet, the gate, the city; "we are judged on account of works, not knowledge of hidden things"; a long application to his viewers and to a critic of his food teaching.
+- [32:55] Panarion 30 as hostile witness; 30.2.1-2 read; Ebion not a person.
+- [36:03] The "mere man" straw man; 30.3.3 (Adam is Christ) read as reincarnation, pieced together by him from several documents and flagged as his understanding.
+- [39:10] 30.3.4-6 read (from above; created before all things; higher than the angels; came in Adam and appeared to the patriarchs; the Spirit which is the Christ came into him); the Book of the Rolls (Kitab al-Magall) as a Clementine-attributed text on the same theme, which he trusts less; 30.14.2-4 read.
+- [42:15] His view: the body from Joseph and Mary; the spirit an angelic identity that pre-existed; we pre-existed too.
+- [43:48] 30.16.2 (two appointed) mapped to the chiefs of Recognitions 1.45; 30.16.3-4; 30.17.6-7 (96 miles; the Spirit female, same size); 30.18.5-6; the Ebionite gospel's "today I have begotten you" (30.13.7) as begetting, not adoption; any contradiction is in our view of time.
+- [48:30] Recognitions 1.45 read in Snyder's wording (the son of man over the sons of men, who is Messiah Yeshua); Son of God in the beginning of all things, he became man; anointed with oil from the tree of life; the pious anointed likewise, so believers become like Messiah; Father, Son and Spirit a kind of family, not a trinity.
+- [53:28] Recognitions 2.46: Jesus preached the God of the Jews, against commenters who say he taught a different God; yet some things written of YHWH are additions (sacrifices; anything painting him as evil); pointer to his video on what Jesus taught about the law.
+- [57:00] A critic who would reject Jesus before rejecting the written Torah; he would rather believe Jeremiah 8:8.
+- [1:01:15] 2.47-48: Jesus taught them to seek the kingdom, not to inquire after a God they already knew; Simon's unknown God from Matthew 11:27; Peter: the Son, with the Father from the beginning, revealed the Father to Moses and the prophets; Simon's objection that a son implies passions as in animals and plants. An aside about "Edomite Jews" and the Talmud (see Claims 6).
+- [1:07:29] Recognitions 3.1 read (truth before a mixed multitude; pearls before swine); Smith's note on 3.2-12; his commissioned translation and the days spent per chapter.
+- [1:12:12] 3.2-9 in his translation: "primal" for a Greek word meaning beginning or ruler; sensible vs intelligible (knowable); sun, moon and man as primals; the one without origin is no primal; God unoriginated, not self-made; those who call him father to himself and son to himself blaspheme like demoniacs, which he reads against "begotten not made"; the soul immortal and unaffected by the body (Matthew 10:28); Matthew 5:27-28 addressed to the soul; the soul's growing mastery with age.
+- [1:34:08] Not to ask what he is, only that he is; God begot his firstborn son before all creation without changing, dividing or emanating; begot "whom we have also learned to call a creation"; the Son a begotten and created thing, not of the unoriginated substance; the body-and-shadow analogy; he recants his own earlier "broke off a part of himself" view.
+- [1:42:04] The Son begotten by will, not out of something and not by intercourse; the charge of a hermaphroditic God rejected; against those who say the unbegotten differs from the begotten by name alone (read as the Nicene "same substance"); Psalm 110:1 shows two; the only-begotten formed creation in six days.
+- [1:48:21] The Holy Spirit: the seal from the only-begotten, numbered after Father and Son, made through something made; the Son as image and mirror of the unoriginated; a hierarchy like one he attributes to Eusebius.
+- [1:53:04] Summary: the Father without beginning; the Son with a beginning before the rest of creation; not a trinity.
+- [1:56:12] The Gospel of the Hebrews fragment (my mother the Holy Spirit took me by one of my hairs to Tabor), with citations from Origen (on John; on Jeremiah) and Jerome (on Micah 7:6; Isaiah 40:9; Ezekiel 16:13); placed after the baptism in his reconstruction; ruach feminine; the viewer who called the Spirit the whore of Babylon; Matthew 12:32.
+
+## Sources He Cites
+
+- Recognitions 1.45; 1.52; 2.20-22; 2.33; 2.46-48; 3.1 and Smith's note at 3.1. **Held** (Smith) and checked; all match. Snyder's wording in 1.45 and 1.52.
+- Recognitions 3.2-11. **Not held in any form.** Smith omitted them; Snyder's 2010 edition omits them (`extended-library/nazarene-acts-snyder-notes.md`, Claims 3); they survive in Rufinus's Latin (Rehm's edition) and the Syriac (411 CE). What he reads is his own commissioned translation.
+- Panarion 30.2.1-2; 30.3.3-6; 30.13.7; 30.14.2-4; 30.16.2-4; 30.17.6-7; 30.18.5-6. **Held**; match.
+- Gospel of Thomas 12. **Held**.
+- Gospel of the Hebrews fragment (Origen, Comm. John 2.12; Hom. Jer. 15.4; Jerome on Micah 7:6, Isaiah 40:9, Ezekiel 16:13). **Not held**; real fragments.
+- Kitab al-Magall (Book of the Rolls). **Not held**; a medieval Arabic text attributed to Clement.
+- Matthew 5:27-28; 10:28; 11:27; 12:32; John 14; Psalm 110:1; Isaiah 44:6; Jeremiah 8:8. **Held** (KJV).
+- Eusebius on a Father-Son-Spirit hierarchy. **Not held**; passage unspecified.
+
+## Where This Overlaps the Repo
+
+- TOPIC-INDEX §3: `questions/trinity-deity-of-jesus.md` → `### 1. The subordination runs one direction and is never reversed` and `### 5. The timeline: triadic language is early, co-equal substance is not`; `christianity/trinity-fourth-century-construction.md` → `### The Historical Timeline: From Plato to Chalcedon` and `### The Logical Problems`.
+- `christianity/was-jesus-god-incarnate-red-text-evidence.md` → `## Where Jesus DISTINGUISHES Himself from God`.
+- `christianity/eastern-orthodox-theosis-closest-to-original.md` → `## What Is Theosis?` (his reading of Recognitions 1.45: the pious anointed as Messiah was).
+- `questions/pauls-legitimacy.md` → `### "The Clementines are 3rd-4th century anti-Pauline fiction"` (the dating problem he raises himself).
+- `questions/method-and-criteria.md` and `questions/what-we-actually-offer.md` (his righteousness-first framing from 2.20-22).
+- `questions/hell-afterlife.md` (Matthew 10:28 and Gehenna).
+- `extended-library/nazarene-acts-snyder-notes.md` → Claims 3 (Book III, chapters 2-11).
+
+## Claims to Check
+
+1. **Recognitions 3.2-11 as Peter's teaching.** Smith's note calls the chapters no part of the original work; modern editors print them from Rufinus; they are widely regarded as a late block engaging 4th-century debates on the unbegotten and begotten, which is why they read like a reply to Nicaea. He concedes the dating problem. Any quotation from these chapters is from his translation, not a held text.
+2. **His translation method.** Latin with Syriac supplements, reworded for comprehension over days per chapter; a translation of a translation, in his words. Treat it as his paraphrase.
+3. **Begotten means created; the Son a creature.** That is the reading of the 3.2-11 block (and of Arius). Recognitions 1.45 (held) says "the Son of God, and the beginning of all things, He became man," which is compatible but less explicit.
+4. **Ebionite reincarnation (Jesus as Adam; John as Elijah as Phinehas).** Panarion 30.3.3-5 speaks of Christ coming "in Adam" and putting on the body; appearance in a body, not transmigration. Phinehas as Elijah is a rabbinic and Pseudo-Philo tradition. A reconstruction, labelled as such by him.
+5. **No scholar thinks Ebion was a person.** Standard (Hilgenfeld onward); Tertullian and Hippolytus also treat Ebion as a founder, so the error predates Epiphanius.
+6. **"Edomite Jews"; the Talmud as satanic and permitting rape and murder.** Not supported by any source this repo holds; a characterization, not a claim traceable to a text. Leave it out of any synthesis.
+7. **The Holy Spirit made through the Son and third in rank.** From 3.2-11; contrast Homilies 3.20-27 and the Didache's triadic baptismal formula (held); see the Didache objection on the trinity card.
+8. **Eusebius's three-tier hierarchy.** Eusebius's subordinationism is real (Demonstratio 4-5; Ecclesiastical Theology), but cite a passage.
+9. **The "my mother the Holy Spirit" fragment placed after the baptism.** Origen quotes it without context; Jerome on Isaiah 40:9-11 connects it with the Spirit's descent. Reasonable, conjectural.
 
 ---
 

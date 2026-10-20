@@ -10,7 +10,68 @@
 
 ## Summary
 
-*Notes pending.*
+A survey of what the first believers taught, organized after Keith Akers's The Lost Religion of Jesus (which he recommends alongside his own Rock of a Sure Foundation: a reconstructed Gospel of the Hebrews, John, the Nazarene Acts, the "Sermons of Peter," the Didache and more). He sets out three early divisions (Nazarenes/Ebionites; Gnostics, whom he says were Paul's followers, with Marcion's canon and Lüdemann's remark that without Marcion there would be no letters of Paul; the Gentile church), then the Nazarene beliefs: Jesus the True Prophet of Deuteronomy 18 (John 14:10-12), bearing the three anointings; the eternal Torah kept more strictly than the Pharisees; YHWH the God of Jesus, no demiurge; the New Testament as a set of competing agendas, so a theory about Jesus should be tested against what the Nazarenes held. Sources: the church fathers, the two Clementine writings, Josephus, Philo and the Dead Sea Scrolls (which he says appear to be Nazarene). Names of the groups; Zealot and Sicarii links; Eusebius HE 4.5 read (fifteen bishops of the circumcision, all of Jesus' family); the circumcision party as the leadership Paul fought (Acts 11, 15, 21; Galatians 1-2; Timothy and Titus). Then a doctrinal list with passages from his reconstruction ("20:35," the rich man; "21:12," the temple action with the abolish-sacrifices saying inserted); vegetarianism (Panarion 30.18.9; Eusebius DE 3.5); one Torah for all; a corrupted Torah; nonviolence (Recognitions 1.71, 3.24; Didache 16.1); the Messiah's earlier appearances (Panarion 30.3; Recognitions 1.45); baptism in place of sacrifice; one God, no Trinity, a pre-existent Son; Paul an apostate (Recognitions 1.70-71; Panarion 30.16.8-9, which he thinks preserves a garbled charge that Paul was a Herodian, with Romans 16:10-11). He closes on what separates Ebionites from Christianity, Hebrew Roots and Messianic Judaism: Torah obedience as necessary and stricter, becoming poor, and no killing except in self-defence, animals included.
+
+## Key Points
+
+- [00:00] The Ebionites as the Jerusalem assembly under James, then Pella and the Decapolis; "Jewish Christian" as the academic search term, which he dislikes: there was nothing called Jewish in the first century (Ioudaios means Judean), and most Jews today are not from the Hebrews (he points to his Esau/Edom playlist).
+- [03:07] The Rock of a Sure Foundation; Akers's book as a companion.
+- [06:15] Divisions; Jesus' Hebraic identity swamped by Gentile converts; Torah obedience made a heresy despite Matthew 5:18 and John 5:46-47; the original faith as simple living, nonviolence and a personal Father without priestly intermediaries.
+- [09:23] Jesus the True Prophet; prophet, king and priest anointings; "prophets born of women" saw dimly, Jesus clearly; the Torah kept more strictly than the Pharisees, whom Jesus accuses of not keeping it.
+- [12:31] Gnosticism: loosely defined by church people; in his view based on Paul; two gods; Marcion's canon (a Luke and ten letters); Luke's ending altered against Marcion; Lüdemann's line; Marcionite ideas surviving in the church.
+- [18:48] The Nazarenes held YHWH to be Jesus' God and the Torah corrupted (Jeremiah 8:8). Why not just read the New Testament: competing agendas, mostly Paul's and Hebrews' (Akers p. 15). Test any theory against the Nazarenes.
+- [22:00] Names: Nazarenes, Ebionites, Essenes, Ossaeans, Nasaraeans, Nazoraeans, the circumcision party; Zealot and Sicarii links (Iscariot); the Scrolls' self-designations (sons of Zadok, the Way, sons of light, the poor, the meek) matching the gospels.
+- [25:01] Eusebius HE 4.5.1-4 read: fifteen Hebrew bishops to Hadrian's siege, James first ("so-called brother" a 4th-century qualifier), Simeon second, all of the family; Aelia and the first Gentile bishop Marcus.
+- [28:08] Acts 11:2, 15, 21:20; Galatians 1-2; Acts 16:3 vs Galatians 2:3-5; Acts 15:2 vs Galatians 2:2; Paul's opponents as loyal to Torah, with James, denying his apostleship, ethical vegetarians; the leadership itself, not a faction. Galatians 2:4-11 read.
+- [32:50] Three sources (Panarion; Nazarene Acts; the Homilies). Deuteronomy 18:15-19 read; John 14:10-12 (the Father speaking in him; two beings, not one).
+- [36:00] Simple living; ebion = poor; his reconstruction "20:35" (the rich man; sons of Abraham clad in filth; a rope through a needle's eye).
+- [37:30] "21:12": the temple action with "I came to abolish sacrifices" and a fiery light from his eyes; the True Prophet to end sacrifice and institute baptism.
+- [39:03] Vegetarianism: Panarion 30.18.9 (Christ revealed it to me); Eusebius DE 3.5 read; one Torah for everyone (Homilies 8.10; Recognitions 5.34).
+- [40:35] The corrupted Torah (Recognitions 1); nonviolence (Recognitions 1.71, no resistance in the temple; 3.24, Peter against war; Didache 16.1, which he reads as a command to be armed, keeping self-defence); the Messiah appeared before (Panarion 30.3; Recognitions 1.45 on all believers anointed; Hippolytus).
+- [42:09] Baptism as the replacement for sacrifice; one Elohim, no Trinity; Jesus pre-existent, creation through him; Paul: Recognitions 1.70-71 (the enemy leads the attack and tries to kill James; no conversion recorded); Peter's debates target Pauline doctrines.
+- [43:43] Panarion 30.16.8-9 read; the story resembles Herod wanting the high priest's daughter; Romans 16:10-11 (Aristobulus, Herodion) suggests Paul was a Herodian and Epiphanius garbled the charge.
+- [45:17] The difference from the other movements: Torah obedience matters for salvation and is stricter; not enough to help the poor, you became poor; no killing except self-defence, animals included; the Torah read through the one who gave it. Epiphanius, Jerome and Theodoret put Nazarenes and Ebionites together.
+- [48:25] Eisenman's two books; the Panarion; the Rock.
+
+## Sources He Cites
+
+- Akers, The Lost Religion of Jesus (2000). **Not held**; the structure of this video and several of its formulations.
+- Eusebius, HE 4.5.1-4. **Not held**; his reading matches McGiffert. HE 2.23: held excerpt.
+- Lüdemann, Heretics (1996). **Not held**.
+- Deuteronomy 18:15-19; John 14:10-12; Matthew 5:18; Acts 11:2, 15, 16:3, 21:20; Galatians 1-2; Romans 16:10-11; Jeremiah 8:8; Mark 10:17-25 and parallels; Matthew 21:12-13. **Held** (KJV).
+- Gospel of the Hebrews fragments: the rich man (Origen, Latin Comm. Matt. 15.14). **Not held**. The temple saying is Panarion 30.16.5 (held), spliced by him into Matthew 21.
+- Panarion 30.3.3-5; 30.16.5, 30.16.8-9; 30.18.9. **Held**.
+- Recognitions 1.45, 1.70-71, 3.24, 5.34; Homilies 8.10. **Held**; 1.45 and 1.70-71 checked (1.45: Christ "anoints with similar oil every one of the pious"); 3.24, 5.34 and 8.10 not checked here.
+- Eusebius, DE 3.5. **Held** (witnesses §2).
+- Didache 16.1. **Held**: "do not keep your loins ungirded," not a command to arm.
+- Hippolytus, Refutation (Ebionites; the Christ who appears repeatedly). **Not held**.
+- Gospel of Thomas 12. **Held**.
+- Dead Sea Scrolls (1QS, CD). Tier 2 excerpts held; the poor, the Way and sons of light vocabulary is there.
+
+## Where This Overlaps the Repo
+
+- `questions/essene-nazarene-origins.md` → `### 1. Sectarian vocabulary that isn't in the Hebrew Bible` and `### 5. The line of succession`; `christianity/flight-to-pella-golden-thread.md` → `## The Chain of Leadership`.
+- `questions/pauls-legitimacy.md` → `### 1.`, `### 5.`, and the objections on Galatians 1:18-19 and on the Clementines as late fiction.
+- `christianity/paul-false-prophet-deuteronomy-18-test.md` (Deuteronomy 18 applied to Paul; here applied to Jesus as the Prophet).
+- `christianity/clementine-literature-nazarene-writings.md` → `### Paul as "Enemy" of the True Teaching`; `extended-library/nazarene-acts-snyder-notes.md` → Claims 2 (how far 1.70 identifies Paul).
+- `christianity/hebrew-gospel-of-matthew.md` → `## The Anti-Sacrifice Content`.
+- `christianity/early-christian-pacifism-before-constantine.md`.
+- `christianity/trinity-fourth-century-construction.md`; `questions/trinity-deity-of-jesus.md`.
+- `christianity/2026-02-25-essene-nazarene-ebionite-lineage.md` → `## Why They Lost`.
+
+## Claims to Check
+
+1. **"Gospel of the Hebrews 20:35" and "21:12."** Chapter-and-verse numbers of his own reconstruction. The rich-man fragment is Origen's; the temple-saying placement is his splice of Panarion 30.16.5 into Matthew 21. Describe as a reconstruction (the repo's Tier 3 rule), never as a text.
+2. **The Gnostics were based on Paul; all of them believed Paul.** Valentinians and Marcion prized Paul; the Sethian texts (Apocryphon of John, held) show little interest in him. Overgeneralized.
+3. **Luke's ending altered against Marcion.** See file 061, Claims 7.
+4. **The Dead Sea Scrolls appear to be Nazarene Christian writings.** Eisenman's dating; palaeography and radiocarbon place most sectarian scrolls before 30 CE. The repo's guardrail: `christianity/dead-sea-scrolls/cliff-notes-quick-reference.md` → `## What the Scrolls Do NOT Say`.
+5. **Nothing called Jewish in the first century; most Jews today not from the Hebrews.** The first is a translation question about Ioudaios (Judean/Jew) with a real scholarly literature; the second is a descent claim with no support in the sources he cites and should not be carried into any synthesis from this repo.
+6. **Titus = Timothy.** See file 065, Claims 8.
+7. **Paul a Herodian (Romans 16:10-11).** Eisenman's thesis; Herodion is a personal name and Aristobulus's household is a household. Possible, unproven.
+8. **Becoming poor; no killing except self-defence, animals included.** Akers's formulations of the Ebionite ideal, not quotations from a source.
+9. **Didache 16.1 commands bearing arms.** Held text: loins ungirded.
+10. **Hippolytus states plainly that the Ebionites held Christ appeared many times.** In Hippolytus (Ref. 9.14; 10.29) that is the Elchasaite doctrine; Epiphanius 30.3.5 attributes it to some Ebionites.
+11. **Fifteen bishops here, eighteen and a four-to-five-century dynasty in file 183.** Eusebius lists fifteen to 135 CE.
 
 ---
 

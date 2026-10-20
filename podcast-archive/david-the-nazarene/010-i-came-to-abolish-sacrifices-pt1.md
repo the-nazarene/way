@@ -10,7 +10,63 @@
 
 ## Summary
 
-*Notes pending.*
+Part one of two. The thesis is the Ebionite saying Epiphanius records (Panarion 30.16.5): Jesus came to abolish the sacrifices, and the Ebionites held that the Pentateuch is not the Torah given to Moses but a text with later additions, the sacrificial legislation among them. He builds the case in four moves: Epiphanius on the Nasaraeans (18.1) and the Ebionites (30.18); the Recognitions (1.36-37, Moses allowed sacrifice for a time and the Prophet would end it; 1.63-64, the temple to be destroyed because the time of sacrifice had passed) against the Homilies (2.45, God never ordained sacrifice; the grave of lust) with Numbers 11 read as a no-meat rule in the wilderness; then the prophets in sequence (Isaiah 1, Isaiah 66, Amos 5, Ezekiel 20, Micah 6, Jeremiah 7, Hosea 6 and 8), plus Hosea 2 and Isaiah 11 on the covenant with the animals and Genesis 1:29-30 on the original diet; and finally Eusebius, Demonstratio 3.5, on the disciples' abstinence, closing on Revelation 21:4. Along the way he ties Stephen's speech in Acts 7 (which quotes Amos 5:25 and Isaiah 66:1-2) to the Ascents of James and repeats the claim from his video 004 that Stephen is a stand-in for James, and he offers the documentary hypothesis (P as the last stratum) as corroboration. Part two (file 006) turns to Jesus' own words and the temple.
+
+He reads the Recognitions from Jackson Snyder's Nazarene Acts edition (Kefa, Yahweh, Elohim; see `extended-library/nazarene-acts-snyder-notes.md`) and the Bible from the ISR Scriptures, a Hebrew-roots translation, which he flags himself when it matters.
+
+## Key Points
+
+- [00:01] Opens with Panarion 30.16.5-7 (the saying; the Ascents of James against the temple, the sacrifices and the fire on the altar). Frames the subject as a controversy between the Nazarenes and the temple.
+- [01:34] Ebionite doctrine as he states it: they affirmed the Torah given to Moses but denied that the Pentateuch is that Torah. Reads 30.18.7 (the calf and the milk; what need to read the law when the gospel has come).
+- [03:09] The True Prophet doctrine: Jesus came to turn people back to the original eternal Torah; the Matthew 5 antitheses as his examples of Jesus correcting the written text.
+- [04:45] Panarion 18.1.3-4 on the Nasaraeans: they acknowledged Moses but not this legislation; no sacrifice, no meat; the books are forgeries. He explains his own usage: Torah for the law, Pentateuch for the five books.
+- [06:19] Recognitions 1.36-37 read in Snyder's wording (including Snyder's "hakma" at 1.37): Moses allowed sacrifice, to God only, to cut off half the evil; the Prophet would teach mercy not sacrifice; the chosen place would be destroyed.
+- [07:53] 1.37 continued: a people who sacrifice are driven into captivity; those who do mercy and righteousness are restored without sacrifice; very few understood. His gloss: Josiah's reform and reinstated sacrifices, then Nebuchadnezzar.
+- [10:59] Sacrifice is ancient (Abel, Abraham, Moses); the question has only become live again with talk of rebuilding the temple, partly from the Hebrew-roots movement.
+- [12:32] The documentary hypothesis: a redactor in the captivity; P, the document holding the sacrifices, was one of the last items incorporated, which he dates to the 6th century BCE. He finds it compelling.
+- [14:08] The Recognitions 1 temple debate parallels Acts 7; Stephen as stand-in for James (his video 004). Reads 1.63-64: unlearned fishermen; the time of sacrificing has passed; the temple will be destroyed; the abomination of desolation; the gospel to the Gentiles.
+- [15:41] Two doctrines in the Clementines: Recognitions (Moses allowed it) vs Homilies (never commanded; added later). Reads Homilies 2.45: the grave of lust; God did not ordain sacrifices nor require them from the beginning.
+- [17:15] Numbers 11: the people came out of Egypt with herds, yet lusted after meat and were struck when they ate the quail. Why not slaughter their own flocks? His answer: the original plan did not include meat. Reads 11:16-20, 31-34.
+- [20:23] Isaiah 1:11-16 from the ISR Scriptures; compares with the NET and says most English translations make the sacrifices themselves the sin, not the people's apostasy; cautions that ISR leans toward supporting sacrifice.
+- [21:56] Isaiah 66:1-4: the house, the rest, "he who kills an ox is as one who slays a man"; he reads it as about temple sacrifice, not pagan rites, because verse 1 sets the temple as the subject.
+- [25:05] Amos 5:21-27: not "rather than" but "not"; 5:25 as a rhetorical question implying no sacrifices in the wilderness, which he says explains Numbers 11 and matches Acts 7:42-43.
+- [28:12] Stephen's speech praises the tabernacle, not the temple, and quotes Isaiah 66:1-2, the verses before the anti-sacrifice lines; this is his further support for Stephen = James and for the Ascents.
+- [29:48] Ezekiel 20:24-26: laws that were not good; the firstborn through the fire includes animals, not only children. He notes most translations read "I gave them" against ISR's "gave them up to," and applies Peter's rule (anything painting God badly is an insertion).
+- [32:54] Micah 6:6-8 (rhetorical questions); Jeremiah 7:21-25 (did not command burnt offerings; sent the prophets persistently, which he links to the vineyard parable).
+- [34:27] Hosea 6:4-9 (mercy not sacrifice; Gilead tracked with blood; priests murdering on the way to Shechem, read as sacrifice); Hosea 8:11-13; Hosea 2:16-20 (a covenant with the beasts of the field, safety for all creatures); Isaiah 11:6-10.
+- [40:01] Genesis 1:29-30: every creature on a plant diet, and it was very good; the prophets' vision is a return to Eden.
+- [41:36] Eusebius, Demonstratio 3.5, read (he first says bishop of Rome, then Caesarea); "poor" there is the Hebrew ebion.
+- [43:12] Revelation 21:4: no more death in the kingdom, so why would the temple require it.
+
+## Sources He Cites
+
+- Epiphanius, Panarion 18.1.3-4; 30.16.5-7; 30.18.7-9. **Held**, `christianity/Incoming/epiphanius-panarion-book-1-full-text.md`. He reads Williams's English; the held file is a machine translation from Holl, so wording differs ("I have come to do away with the sacrifices" for his "abolish"), but the content matches at every point checked.
+- Clementine Recognitions 1.36-37, 1.63-64. **Held** (Smith, ANF 8). He reads Snyder; Smith's numbering is the same. Smith 1.64: "God is much rather displeased with the sacrifices which you offer, the time of sacrifices having now passed away."
+- Clementine Homilies 2.45. **Held**; cited correctly here as book two, chapter 45.
+- Numbers 11; Isaiah 1:11-17, 66:1-4; Amos 5:21-27; Ezekiel 20:24-26; Micah 6:6-8; Jeremiah 7:21-25; Hosea 2:16-20, 6:4-9, 8:11-13; Isaiah 11:6-10; Genesis 1:29-31; Acts 7:42-50; Matthew 5; Revelation 21:4. **Held** (KJV). He reads ISR, not KJV: KJV Isaiah 1:13 has "incense is an abomination unto me" (he argues the Hebrew is smoke); KJV Ezekiel 20:25 has "I gave them also statutes that were not good."
+- Eusebius, Demonstratio Evangelica 3.5. **Held** as an excerpt (Ferrar) in `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md` §2; his reading matches it.
+- Friedman, Who Wrote the Bible? Secondary; not held.
+
+## Where This Overlaps the Repo
+
+- TOPIC-INDEX §8, "Sacrifice was commanded by God" → `christianity/prophetic-tradition-against-sacrifice.md` → `## The Full Prophetic Record` (the same chapters, in the same order).
+- `christianity/blood-magic-origins-saturn-sacrifice.md` → `## The Documentary Hypothesis: Who Wrote the Sacrifice Laws?` and `## Did God Command Sacrifice? The Biblical Evidence Against`.
+- `questions/sacrifice-culture-vegetarian-jesus.md` → `## Strongest Evidence`; `questions/nazarene-sect-sacrifice-and-diet.md` → `### The Recognitions block` (1.36-39) and `### The Homilies passages that weld the two claims together`.
+- `christianity/2026-02-25-essene-nazarene-ebionite-lineage.md` → `## The Vegetarian Evidence Chain` (Eusebius DE 3.5).
+- `christianity/hebrew-gospel-of-matthew.md` → `## The Anti-Sacrifice Content`.
+- Stephen/James: his file `004-live-presentation-of-james-paul-and-the-stoning-of-stephen-t.md`; `christianity/clementine-literature-nazarene-writings.md`.
+- `extended-library/nazarene-acts-snyder-notes.md` for the edition he reads.
+
+## Claims to Check
+
+1. **Stephen is a stand-in for James (Acts 7 = Recognitions 1.66-71).** Argued from parallel content. Recognitions 1.70 names the attacker only as the enemy, and Acts and the Recognitions give different fates to the victim. Eisenman has argued along these lines; it is not a mainstream position. A pointer, not evidence.
+2. **P dated to the 6th century, right before the first temple fell, as one of the last items added.** Friedman, whom he cites, dates P to Hezekiah's reign (pre-exilic); the Wellhausen school dated it exilic or later. The hypothesis itself is contested in current scholarship.
+3. **Josiah's reform followed by Nebuchadnezzar proves sacrifice brings exile.** Recognitions 1.37 is a 3rd-4th-century argument, not a historical record; the Deuteronomistic history draws the opposite moral.
+4. **Numbers 11 shows a no-meat rule in the wilderness.** The text's own explanation is the craving and the complaint (11:4, 11:20). Amos 5:25 as "no sacrifices in the wilderness" is one reading; many commentators read it as "sacrifice was not the point."
+5. **Ezekiel 20:25 overridden by Peter's rule.** KJV: "I gave them also statutes that were not good." He sets the plain reading aside by appeal to the Clementine principle; say so if the verse is used.
+6. **Isaiah 66:3 is about temple sacrifice, not syncretism.** Translations differ; many commentators read it as pairing legitimate rites with abominations to condemn hypocrisy. Open.
+7. **Hosea 6:9, priests murdering on the way to Shechem, means sacrifice.** His gloss; the KJV says "murder."
+8. **Eusebius as a bishop of Rome.** A slip; Caesarea (he corrects himself in the same breath).
 
 ---
 

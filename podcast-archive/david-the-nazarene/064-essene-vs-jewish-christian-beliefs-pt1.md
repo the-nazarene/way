@@ -10,7 +10,57 @@
 
 ## Summary
 
-*Notes pending.*
+The first half of a two-part comparison of Josephus's Essenes (War 2.8, with Philo and Hippolytus alongside) against the Nazarene and Ebionite picture drawn from the Clementines, the Panarion, the Didache and the New Testament, arguing that they were the same people, or that the Nazarenes were one sect under the Essene umbrella. His opening frame: Josephus names three sects and never mentions Nazarenes though he lived in Judea for forty years; the New Testament never mentions Essenes; identity is the simplest explanation. The comparison then runs trait by trait: adoption of orphans; contempt for riches and community of goods; no oil and white linen garments; travelling with nothing but weapons through a network of hospitality; prayer before sunrise and daily immersion; no oaths; study of ancient writings and remedies; a probationary initiation and an oath before table fellowship; and secret doctrines. For each he pairs Josephus with a Clementine, Didache or gospel passage. He identifies his own congregation (the "Vero Yahad") with Josephus's description. Part two is file 065.
+
+## Key Points
+
+- [00:00] Traits claimed up front: communal life, vegetarian, scorned wealth, no oaths, rejected slavery, abstained from war. Josephus is the main source; others largely repeat him; Josephus wrote Aramaic and Greek versions, so later writers may have had a different text.
+- [01:36] War 2.8.2: three sects; the Essenes Jews by birth. Josephus's silence on Nazarenes and the New Testament's silence on Essenes, resolved as identity.
+- [04:48] Orphans: War 2.8.2 (they adopt other men's children); Homilies 3.71 (Peter's charge to Zacchaeus: honour widows, orphans as children); Recognitions 7.6 (Peter and Andrew orphans); Homilies 2.19 (Justa the Syrophoenician of Matthew 15 and Mark 7) and 13.7 (Justa adopted Niceta and Aquila).
+- [07:54] War 2.8.13: a second order of Essenes who marry; the apostles had wives.
+- [09:29] Community of goods: War 2.8.3; Philo (poor by choice, accounted very rich); Panarion 30.17.2 (sold their possessions, laid them at the apostles' feet); Recognitions 7.6 (bread, olives, pot-herbs; a tunic and pallium); Matthew 6:24; Acts 4:33-35.
+- [14:11] Oil and garments: War 2.8.3 (oil a defilement; white garments); Hippolytus (linen at meals); Hegesippus on James (no oil, no bath, linen only, entered the holy place). He puzzles over Matthew 6:17 and James 5:14 and suggests the avoided practice was soaking the hair, or expensive perfume (Matthew 26:7). Mark 9:2-3 (garments became exceedingly white, so already white); Mark 16:5; Revelation 3:4-5, 7:9.
+- [20:26] Travel: War 2.8.4 (nothing but weapons; a steward for strangers in each city; shoes worn till they fall apart); Philo; Hippolytus; Didache 4.8 (partners in the imperishable) and 16.1 (which he reads as a belt not without a weapon); Matthew 10:9-11 (he says Matthew 5), where "ask who is worthy" he takes to mean ask who is an Essene; Luke 22:35-36 (buy a sword).
+- [26:41] Prayer before sunrise: War 2.8.5; Hippolytus; Mark 1:35; Peter bathing in the sea and praying in the Nazarene Acts; Homilies 3.1 (second cock-crow, the lamp, Peter kneeling); Panarion 30.15.3 and 30.16.1 (daily baptisms plus the initiation baptism).
+- [28:17] Oaths: War 2.8.6 (swearing worse than perjury); Matthew 5:33-37; the Contestation (adjure by the water, do not swear, for that is unlawful). He reads the enemy in Peter's letter to James as Paul.
+- [31:25] War 2.8.6: study of the writings of the ancients and medicinal roots; he applies it to the "Vero Yahad" and his viewers; Panarion 30.15-16 (Travels of Peter, Ascents) as the Ebionites' ancient books; Jude 3.
+- [34:38] Initiation: War 2.8.7 (a year outside with hatchet, girdle and white garment; the waters of purification; two more years; a tremendous oath before touching the common food). Recognitions 1.19 (Clement eats alone until baptism); 2.71 (whoever worshipped idols or ate what was sacrificed to them has an unclean spirit; baptism expels it); 2.72 (it lies with you when you come to our table).
+- [39:19] Hence Acts 15:20 (the four decrees as purity requirements) and his reading of Galatians 2:11-13: Peter withdrew because he learned Paul was letting Gentiles eat idol meat; everyone including Barnabas went with Peter, so Paul was the one rebuked.
+- [42:29] War 2.8.7, the oath's contents (fidelity to those in authority; conceal nothing from the sect, reveal nothing to outsiders even under compulsion; preserve the books and the names of the angels). Matthew 13:11, 7:6. The Contestation 1-2 read: six years' probation; witness heaven, earth, water and air; the books passed only to one found worthy; then bread and salt. Salt as covenant (Trumbull), so a meal is a covenant and Peter's caution follows; contrast with the "Jesus force field" he was taught.
+- [47:16] Contestation 5 (the elders in an agony of terror; James: better the books stay with us). Why the Essenes would die to protect their teachings. The present situation, in his words, is reverse-engineering the doctrines. Panarion 30.3.8-9 (John and Acts in Hebrew in the Tiberias treasuries; other Acts that Epiphanius has not seen).
+
+## Sources He Cites
+
+- Josephus, War 2.8.2-13. **Not held** (the witnesses file §8 holds only War 2.8.5). Whiston is public domain and could be added.
+- Philo, Hypothetica 11 (via Eusebius, Praep. Ev. 8.11). **Not held**; Prob. 75 is held (witnesses §6).
+- Hippolytus, Refutation 9.18-28. **Not held**; largely dependent on Josephus.
+- Hegesippus via Eusebius, HE 2.23.4-7. **Held** (witnesses §1); his reading agrees with the held text that James entered the holy place (compare `questions/CITATION-NOTES.md` #2).
+- Homilies 2.19, 3.1, 3.71, 13.7; Recognitions 1.19, 2.71-72, 7.6; the Epistle of Peter to James; the Contestation 1-5. **Held** (Smith, at the head of `clementine-homilies-full-text.md` for the letters). Read in Snyder's wording (Kefa, mebakker, mikvah; "ageless" for Smith's "eternal" at 7.6).
+- Panarion 30.3.8-9, 30.15.1-3, 30.16.1, 30.16.5-7, 30.17.2. **Held**.
+- Didache 4.8, 16.1. **Held** (Richardson). 16.1 reads "do not keep your loins ungirded," not a weapon.
+- Matthew 5:33-37; 6:17, 24; 7:6; 10:9-11; 13:11; 15:21-28; 26:7; Mark 1:35; 7:24-30; 9:2-3; 16:5; Luke 22:35-36; Acts 4:33-35; 15:20; Galatians 2:11-13; James 5:14; Jude 3; Revelation 3:4-5, 7:9. **Held** (KJV).
+- Trumbull, The Covenant of Salt (1899). **Not held**; public domain.
+
+## Where This Overlaps the Repo
+
+- TOPIC-INDEX §6: `questions/essene-nazarene-origins.md` → `### 3. The organizational blueprint matches, point for point`; `christianity/dead-sea-scrolls/cliff-notes-quick-reference.md` → `## The Jesus-Essene Connection -- 12 Shared Characteristics` and `## What the Scrolls Do NOT Say`.
+- `christianity/2026-02-25-essene-nazarene-ebionite-lineage.md` → `## The Three Stages`; `christianity/nazarene-sect-predated-jesus.md` → `### 2. The Essene Connection`.
+- `christianity/james-the-just-key-to-understanding-jesus.md` → `### The Hegesippus Portrait`.
+- `christianity/acts-15-james-four-decrees.md` (Acts 15:20 as entry rules); `questions/pauls-legitimacy.md` → `### 3. James ruled, and Paul reversed it in writing`.
+- `christianity/clementine-literature-nazarene-writings.md` → `### Paul as "Enemy" of the True Teaching`.
+- `extended-library/nazarene-acts-snyder-notes.md` (the letters are Snyder's appendices A and B; the Vero name).
+
+## Claims to Check
+
+1. **Essenes = Nazarenes/Ebionites.** The argument is cumulative resemblance plus mutual silence. Josephus also omits many groups; silence is weak evidence. The repo's position is lineage with overlap, not identity (`questions/essene-nazarene-origins.md`; the cliff-notes guardrail).
+2. **Josephus wrote an Aramaic version that later writers used.** Josephus says the War first appeared in his native tongue (War 1.3); no Aramaic text survives, and the NPNF editors say Jerome's Essene-diet claim comes from Porphyry, not from any Josephus (witnesses §10). See file 065.
+3. **The Essenes rejected slavery.** That is Philo (Prob. 79) and Josephus, Ant. 18.1.5, not War 2.8.
+4. **Didache 16.1 commands a weapon on the belt.** Held text: loins ungirded, the Luke 12:35 idiom.
+5. **"Ask who is worthy" means ask who is an Essene (Matthew 10:11).** Inference.
+6. **Mark 9:3 implies Jesus habitually wore white.** Inference from "became."
+7. **The Contestation's oath is Josephus's Essene oath.** Real parallels exist (the ANF editor's note at Contestation 1 compares the Elkesaite forms), but the Clementine text is 3rd-4th century; the dependence may run through the Elchasaites rather than from first-century practice.
+8. **Galatians 2:13 shows everyone turned against Paul, so he was rebuked.** KJV: Barnabas "was carried away with their dissimulation"; Paul reports his rebuke of Peter and no outcome. His fuller argument is in file 186.
+9. **The "Vero Essene Yahad" as the Essenes of Josephus.** Self-description, not history; the Snyder notes record that Plourde's Netzari Vero Yahad shares the Vero name.
 
 ---
 

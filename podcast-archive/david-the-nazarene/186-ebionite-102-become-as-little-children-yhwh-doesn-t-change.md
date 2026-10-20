@@ -10,7 +10,66 @@
 
 ## Summary
 
-*Notes pending.*
+Second in the series, on diet, built around the Antioch incident. Galatians 2:11-14 is reread through the Recognitions: Peter withdrew from table fellowship not from fear or pride but because the Nazarenes did not eat with the unbaptized, whose contact with idol sacrifices leaves an unclean spirit (Recognitions 1.19, 2.70-72, 7.29); a shared meal with salt is a covenant (Trumbull); Acts 15:20 gives four starter purity rules, three about eating; he reconstructs that James learned of 1 Corinthians 8-10 and sent men to Antioch, whereupon Peter withdrew; Galatians 2:13's verb means played a part with, not hypocrisy, and since the Judeans and Barnabas sided with Peter, Paul was the one rebuked. Idol meat and meat as such are two issues, both forbidden, one worse. Then 1 Timothy 4:1-5, which Hebrew-roots people had used against him, answered by asking whether God made animals for food: Genesis 1:24-30 says no; God does not change (Malachi 3:6, 1 Samuel 15:29, Psalm 55:19, James 1:17); Matthew 19:3-8 (Moses permitted divorce for hardness of heart; from the beginning it was not so) as a model Jesus could apply to meat; Isaiah 11:6-10 with its children and Matthew 18:3; Luke 17:20-21; Homilies 7.4 (not to taste dead flesh); Exodus 20:13 with ratsach as kill, not murder (Numbers 35:11, 30; Isaiah 1:21; Hosea 6:9; Ahab in 1 Kings 21, guilty though Jezebel acted, as the case for buying meat); Isaiah 1:11-17 and 66:1-4; Hosea 6:6-9; Jeremiah 8:8 (a pen, not a tongue); Homilies 3.51-52 (what Jesus seemed to destroy did not belong to the law; sacrifices have passed away); Exodus's debt to Hammurabi; sacrifice and meat-eating inseparable in antiquity. He ends with a challenge to watch Dairy Is Scary and Earthlings, his conversion story, and a description of his Rock of a Sure Foundation.
+
+## Key Points
+
+- [00:00] Recap of 101: Epiphanius splits the group to protect a church founded on Paul; the real controversy should be preferring a thirteenth apostle to Jesus' chosen ones.
+- [03:06] Galatians 2:11-14 read; "Judaize" a Pauline coinage; the circumcision was the Jerusalem assembly's leadership (Eusebius's bishops of the circumcision), not a faction, so Peter was not afraid of James.
+- [07:48] Recognitions 1.19 (Clement eats alone until baptized); Trumbull's Covenant of Salt; Recognitions 2.70 (Peter dines with the eleven, Clement with the catechumens, who were greatly beloved); 2.71 read: not from pride; whoever worshipped idols or ate idol food has an unclean spirit, expelled by baptism.
+- [14:06] The Acts 15 decrees (he says Acts 19) as starter purity commands, the first of many; a Gentile is someone outside the covenant; 2.72 read (it lies with you when you come to our table).
+- [17:15] His reconstruction: James read 1 Corinthians, sent men, Peter withdrew out of self-preservation; Revelation 2:14 and 2:20 (teaching people to eat idol meat is Balaam's doctrine); Recognitions 7.29 (no common table with Gentiles unless baptized, even father or mother); idol meat and all meat as two issues.
+- [23:29] Galatians 2:13: synypokrinomai rendered "joined him in this hypocrisy" is the translator reinforcing Paul; it means to play a part with; the Judeans, the men from James and Barnabas were on one side, Paul alone; Paul reverses blame.
+- [28:09] To Torah-keeping viewers: explaining Christmas, Sabbath and pork to family; he is not inspecting anyone's kitchen.
+- [31:16] 1 Timothy 4:1-5 read; the irony of Hebrew-roots people using it against him as Christians had used it against them; is a healthier diet Satan's master plan.
+- [34:27] Did God create animals for food? Genesis 1:24-30: no such statement; Genesis 2: companions. God does not change: Malachi 3:6; 1 Samuel 15:29; Psalm 55:19; James 1:17.
+- [37:41] Matthew 19:3-8 as a model: from the beginning it was not so.
+- [39:15] Isaiah 11:6-10: verse 10 (the root of Jesse; the remnant) comes after the harmony of 6-9, so the harmony is a condition, not a result; the child motif leads to Matthew 18:3.
+- [43:57] Matthew 7:21; Homilies 7.4 read: the things well-pleasing to God include abstaining from the table of devils, not tasting dead flesh, not touching blood. He says these are Peter's words and that Peter says they are Jesus'.
+- [47:04] Luke 17:20-21: the kingdom in your midst depends on our actions; live as if back in the garden.
+- [48:43] Exodus 20:13: ratsach; Numbers 35:11 (the unintentional killer) and 35:30 show it means kill, not murder.
+- [53:26] Isaiah 1:11-17; 1:21 (murderers, ratsach); 66:1-4; a Peter line that God has no desire for your money.
+- [58:11] A listener's story: God told him he made the animals with the blood in them and it is Satan who wants it on the ground.
+- [1:01:19] Hosea 6:6-9: Gilead; Shechem as Gerizim, the northern sanctuary (John 4:20); the murder is the sacrifice; buying meat is paying someone to kill.
+- [1:04:27] Objection answered: the Ebionites were not vegetarian merely because the temple fell; they never sacrificed. Jeremiah 8:8: the pen of the scribes, not the tongue; exactly what Jesus taught Peter.
+- [1:07:31] Homilies 3.51 read; Matthew 5:17-18; the eye-for-eye law from Hammurabi (older than Exodus; Hammurabi perhaps Nimrod or his son, Abraham's contemporary); Homilies 3.52 read (sacrifices passed away; every plant; the gate of life); following Hammurabi or Ezra while thinking you follow Moses, as Christians follow Paul thinking they follow Jesus.
+- [1:13:47] Sacrifice and meat inseparable in antiquity (high places; a portion to the priest); Homilies 7.4 does not mention sacrifice; the Ebionites still ate no meat centuries later.
+- [1:18:31] 1 Kings 21 read: Ahab "killed" (ratsach) though Jezebel did it; repentance available.
+- [1:24:49] The challenge: Dairy Is Scary (Erin Janus) and Earthlings (narrated by Joaquin Phoenix); kosher slaughter shown there; Matthew 10:29-31.
+- [1:31:00] His conversion again; the Rock of a Sure Foundation (free PDF, print at cost, footnoted; Paul's letters excluded) as what the New Testament would have been without Saul of Tarsus.
+
+## Sources He Cites
+
+- Recognitions 1.19; 2.70-72; 7.29. **Held** (Smith); match.
+- Homilies 3.51-52; 7.4. **Held**; match. Smith 7.4: "to abstain from the table of devils, not to taste dead flesh, not to touch blood."
+- Galatians 2:11-14; Acts 15:20, 29; 1 Corinthians 8, 10; Revelation 2:14, 20, 24; 1 Timothy 4:1-5; Genesis 1:24-30, 2:18-20; Malachi 3:6; 1 Samuel 15:29; Psalm 55:19; James 1:17; Matthew 5:17-18, 7:21, 10:29-31, 18:3, 19:3-8; Luke 17:20-21; Isaiah 1:11-21, 11:6-10, 66:1-4; Hosea 6:6-9; Jeremiah 8:8; Exodus 20:13; Numbers 35:11, 30; 1 Kings 21; John 4:20, 5:46-47. **Held** (KJV). KJV Jeremiah 8:8: "the pen of the scribes is in vain"; KJV Exodus 20:13: "Thou shalt not kill"; KJV Galatians 2:13: "dissembled."
+- Eusebius, HE 4.5 (bishops of the circumcision). **Not held**.
+- Trumbull, The Covenant of Salt (1899); the Code of Hammurabi. **Not held**; public-domain translations exist.
+- Dairy Is Scary; Earthlings. Advocacy films, not sources.
+
+## Where This Overlaps the Repo
+
+- TOPIC-INDEX §2: `questions/pauls-legitimacy.md` → `### 3. James ruled, and Paul reversed it in writing`; `jesus-site-reference/source/docs/paul-vs-the-twelve.md` → `## Paul vs. Peter — To His Face`.
+- `christianity/acts-15-james-four-decrees.md` → `## The Most Misread Chapter in Acts`.
+- `questions/jesus-and-the-torah.md` → `### 1. He says it himself, and then raises the bar` and `### "If he kept the Law, why do you reject Leviticus's sacrificial system?"`.
+- `questions/nazarene-sect-sacrifice-and-diet.md` → `### The Homilies passages that weld the two claims together` (7.4, 7.8); `christianity/clementine-literature-nazarene-writings.md` → `### Peter as Vegetarian`.
+- `christianity/biblical-case-for-vegetarian-jesus.md` → `## I. The Genesis Ideal`, `### Isaiah 11:6-9 -- The Peaceable Kingdom`, `## VI. The Golden Rule Extended`.
+- `christianity/prophetic-tradition-against-sacrifice.md`; `questions/CITATION-NOTES.md` #3 (the pen of the scribes is Jeremiah 8:8, not Clementine; he attributes it correctly).
+- `christianity/the-essene-diet.md` → `### Why No Flesh? — The Historical Evidence`.
+- `questions/two-ways-kingdom-within.md` (Luke 17:21).
+
+## Claims to Check
+
+1. **Galatians 2:13's verb has nothing to do with hypocrisy.** The Greek is synypekrithēsan (synypokrinomai), built on hypokrinomai; standard lexica: to join in playing a part, join in pretending. The translators are not inventing it. His further conclusion (Paul lost) does not follow from the verb.
+2. **Peter withdrew because James had read 1 Corinthians.** Antioch (Galatians 2) is usually dated before 1 Corinthians (mid-50s). Offered as "probably."
+3. **The Acts 15 decrees as entry-level rules, the first of many.** Recognitions 4.36 and Homilies 7.8 (held) list similar rules as the appointed service; Acts 15:28 calls them "necessary things," not a first step. The repo's own reading in `acts-15-james-four-decrees.md` is close to his.
+4. **Homilies 7.4's "not to taste dead flesh" as Jesus' command.** The passage is Peter's address at Tripolis and does not attribute the rule to Jesus there; his basis is the Clementine claim that Peter teaches only what he received (Recognitions 2.33, held).
+5. **Ratsach means kill, so Exodus 20:13 covers animals.** Numbers 35 supports kill over murder, but every biblical use is of humans, including Isaiah 1:21 and Hosea 6:9. The extension to animals is his; no lexicon is held (see `VERIFIED-SOURCES.md` on lexica).
+6. **Exodus borrowed from Hammurabi; Hammurabi may have been Nimrod, Abraham's contemporary.** The lex talionis parallel is standard; direct borrowing is debated; Hammurabi reigned c. 1792-1750 BCE; the Nimrod identification has no support in the sources he uses.
+7. **Ezra wrote most of the Torah, per textual critics.** Friedman makes Ezra a candidate for the redactor; "most" overstates.
+8. **The Ebionites ate no meat for hundreds of years after Jesus.** Epiphanius (c. 375) is the witness; Irenaeus and Origen say nothing about diet.
+9. **The Rock of a Sure Foundation as what the New Testament would have been.** An editorial compilation (his Hebrew Matthew reconstruction, John, the Clementines, the Didache and others); describe it as his.
+10. **"God has no desire for your money" (Peter).** Locus not given.
 
 ---
 
