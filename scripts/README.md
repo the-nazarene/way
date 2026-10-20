@@ -29,6 +29,19 @@ Captions are pointers, not proof. Nothing the script writes is a source.
 
 ---
 
+## summarize-transcripts.py — machine-written notes for timed transcripts
+
+Writes Summary, Key Teachings, Scripture Citations, Sources & Scholars, Quotable Moments, Misconceptions, Connections and Books above a file's `## Full Transcript`, plus **Speakers**, **Published** and **Topics** header lines (tags from `podcast-archive/TOPICS.md` only). Uses Claude Haiku 5.5 on the Batch API (half price; Scott + Tabor, 400 talks, cost about $1.10). Every quote is checked word-for-word against the captions within four minutes of its timestamp; failures are dropped and listed in the run log.
+
+```bash
+pip install anthropic          # needs ANTHROPIC_API_KEY (and ANTHROPIC_WORKSPACE_ID for an org-scoped key)
+python scripts/summarize-transcripts.py submit podcast-archive/<folder>/[0-9]*.md --state /tmp/b.json
+python scripts/summarize-transcripts.py status --state /tmp/b.json
+python scripts/summarize-transcripts.py collect --state /tmp/b.json --dates dates.txt   # dates: "<id> <YYYYMMDD>" lines from yt-dlp
+```
+
+Rerunning `collect` is safe: it replaces the notes rather than stacking them. A very long talk can stop at `max_tokens`; resubmit it with `--max-tokens 40000`.
+
 ## semantic-search.py — search the whole collection by meaning
 
 Keyword search (`grep`, GitHub search) only finds the words you already

@@ -1,0 +1,117 @@
+# Digging Mt Zion Jerusalem and the Suba John the Baptist Cave
+
+**Speakers:** Gordon Govier (host, Book and the Spade podcast); James Tabor (interviewee, co-director of the Mount Zion and Suba excavations); Shimon Gibson (interviewee, co-director of the Mount Zion excavation)  
+**Source:** https://www.youtube.com/watch?v=C3WL1T0pHi8  
+**Channel:** https://www.youtube.com/@JamesTaborVideos  
+**Duration:** 0:12:51  
+**Published:** 2023-05-08  
+**Topics:** archaeology, john-the-baptist  
+**Contributed by:** Matt Fracek, 2026-10-20  
+**Use:** auto-captioned transcript with machine-written notes. Quotable Moments were checked against the captions, not the audio; attribute positions by paraphrase and verify in the video before quoting. See `questions/CITATION-NOTES.md`.
+
+---
+
+## Summary
+
+This is an on-site segment from Book and the Spade, recorded during the magazine's 25th-anniversary Holy Land tour. Host Gordon Govier interviews two co-directors, James Tabor and Shimon Gibson, on the first day of a new University of North Carolina at Charlotte excavation on Mount Zion, just outside the Southern Wall of Jerusalem's Old City. The captions do not label speakers, so attribution of some lines to Gibson or Tabor is inferred from context. The talk also covers the team's earlier dig at the Suba cave, which they associate with the tradition of John the Baptist.
+
+The Mount Zion dig is presented as the first academic excavation in Jerusalem in a long time, and the site is expected to show layers from the Crusader, Byzantine (including a church built by Justinian), Roman and Second Temple periods, with possible Iron Age material below. The speakers say the site was partly dug by Magen Broshi in the late 1970s, and the team plans to preserve a visible sequence of levels. Gibson argues that Jesus was not restricted to a poor background, citing the Bethany family and Joseph of Arimathea, and he links the upper city to the Passover-eve setting of the Gospels, though he treats that link as a possibility.
+
+On the Suba cave, Tabor reports that the cave was used in the Iron Age, that a spring was dammed, and that the first century saw large-scale smashing of small jugs that he suggests may have been ceremonial cleansing. The John the Baptist imagery, he says, dates from the Byzantine period. The talk ends with workers breaking up a large stone and the team preparing for a short March season and a longer summer one.
+
+## Key Teachings
+
+### Jesus was not restricted to the poor
+Gibson disputes the assumption, which he says "is held by many," that Jesus came from a poor family and mostly spent his time among the poor. He points to Jesus staying in Bethany with a middle-class family, having middle-class friends such as Joseph of Arimathea, and moving between social classes. He presents this as part of his forthcoming archaeology book on Jesus in Jerusalem, to be published by HarperCollins. He also suggests that Jesus and his disciples could have spent the Passover eve in the lower part of the upper city, noting a reference to "the man with a pitch of water" that would point to the Gihon spring or the Siloam pool. He frames this as speculative.
+
+### Priestly houses on Mount Zion
+Tabor and Gibson say they expected to find homes of the priestly families on the upper slope. Tabor cites the Gospel of John's depiction of the priests living in the upper city, "quite well off," and looking down on the temple. Last season, Tabor reports, the team found a stone vessel with egg-and-dart decoration, which they associate with the priestly families of the "burnt house" in the city. A Pontius Pilate coin had also been found. The three coins from the first day had not yet been identified.
+
+### Preserving a layered excavation
+Gibson describes a plan to keep the site as a "Journey Through Time," with the sloping levels from the Crusader, Byzantine, Islamic and Turkish periods left visible, instead of being removed. He credits the preservation of the vaulted rooms below to the Nea Church platform built over them, which buried the site under rubble that protected the structures. The plan is to go down to bedrock if possible.
+
+### Mount Zion and the Iron Age
+Gibson notes that the Bible describes Mount Zion as the highest mountain, while people often identify Mount Zion with the valley to the south. He suggests that the biblical reference may point to the whole area, with this spot as the highest peak. He thinks Iron Age material may be present below, overlooking the City of David.
+
+### The Crusaders and lost local traditions
+Tabor argues that local traditions traceable to the Gospel writers, or even to the time of Jesus, were "disrupted quite viciously" by the Crusaders, who "rampaged across the country seeking out relics." He says that as a result those original traditions are lost. He uses this to explain why the Suba cave's John the Baptist associations appear to break off around the time of the Crusaders.
+
+### The Suba cave: Iron Age use and first-century jug ritual
+At the Suba cave, Tabor says the team has now established that the cave was used in the Iron Age, long before John the Baptist. A spring was dammed, and in the first century there was "tremendous activity" that they identify as ritual. Thousands of small jugs, up to about 40 per square meter, were carried in by hand and smashed. Tabor says he knows of no record of this type of ritual, and they "wondered if it might have to do with some sort of ceremonial cleansing." He presents that link to John the Baptist as "somewhat speculative." The John the Baptist drawings on the walls are Byzantine, which Tabor dates to the fourth or fifth centuries, with the cave used as a memorial until about the ninth century or later.
+
+## Scripture Citations
+
+| Verse | Context/Teaching |
+|---|---|
+| Gospel of John (no verse given) | Tabor cites John's depiction of the priests living in the upper city, quite well off and looking down on the temple, and says Jesus calls them a "den of robbers." |
+| Not specified (a "man with a pitcher of water") | Gibson mentions this reference as a possible clue that Jesus and his disciples were coming from the Gihon spring or the Siloam pool on the eve of Passover. The book is not named in the talk. |
+| Not specified (Passover eve) | Gibson suggests Jesus and his disciples may have spent their last evening in a palatial building at the base of the upper city. |
+| Not specified (Bethany) | Gibson describes Jesus staying with a middle-class family in Bethany as evidence against the idea of a poor background. |
+| Not specified (Joseph of Arimathea) | Gibson names him as one of Jesus's middle-class friends. |
+| Not specified (Mount Zion as highest mountain) | Gibson says the Bible calls Mount Zion "the highest mountain," and suggests the phrase may refer to the whole area with this spot as the peak. |
+
+## Historical Sources & Scholars Cited
+
+| Source | Reference | Context |
+|---|---|---|
+| Gospel of John | Gospel of John (no chapter given) | Used for the portrayal of priests living in the upper city. |
+| Magen Broshi | Excavation in the late 1970s (no publication named) | Partly excavated the Mount Zion site; the speakers say he dug to a system of intact first-century vaults. |
+| Kathleen Kenyon | Not specified | Gibson says no academic excavations have been undertaken in Jerusalem since her time. The transcript garbles the name. |
+| Eilat Mazar | "Palace of David" work (no publication named) | Gibson mentions her work as separate from academic excavation. |
+| Pontius Pilate coin | Found at the Mount Zion site last season (no reference) | Mentioned as an interesting find. |
+| Stone vessel with egg-and-dart decoration | Found last season on Mount Zion (no reference) | Associated with the priestly families in the "burnt house" inside the city. |
+| Nea Church (Justinian, mid-sixth century) | Byzantine church built behind the wall (no source named) | Its platform helped preserve the vaulted rooms below. |
+| John the Baptist drawings, Suba cave | Byzantine, fourth or fifth centuries (no source named) | Tabor's date for the wall drawings. |
+| Iron Age and first-century jug deposits, Suba cave | Excavated by Tabor and Gibson team (no publication named) | Basis for the proposed ceremonial cleansing link to John the Baptist. |
+
+## Quotable Moments
+
+- **[00:01]** "we decided that the time had come for this University to undertake academic excavations here" — Gibson's explanation of why the University of North Carolina at Charlotte began the Mount Zion work. (Attribution to Gibson is inferred from context.)
+- **[01:35]** "I promised myself that one day I would return" — Gibson recalls joining Broshi's late-1970s dig as a child and planning to come back, which frames the new excavation.
+- **[03:07]** "I don't think that's exactly the case" — Gibson rejects the common view that Jesus was poor and spent his time mainly among the poor (speaker inferred as Gibson).
+- **[09:20]** "as a result those original Traditions are lost to us which is pretty" — Tabor's claim that the Crusaders destroyed local traditions, which he uses to explain the gap in the Suba cave's John the Baptist associations.
+- **[10:53]** "the John the Baptist evidence is really later it's from the Byzantine period with the drawings on the wall" — Tabor's dating of the cave's John the Baptist imagery, separating it from the earlier first-century jug activity.
+
+## Misconceptions Addressed
+
+- **Jesus came from a poor family and mostly moved among the poor.** Gibson argues that he moved across social classes, stayed with a middle-class family in Bethany, and had middle-class friends.
+- **Mount Zion is the valley to the south.** Gibson suggests the Bible's "highest mountain" language may refer to the whole area, with this spot as the peak.
+- **The John the Baptist tradition at Suba is a continuous local memory from the first century.** Tabor says the drawings are Byzantine, and the earlier first-century jug activity is only speculatively linked to John.
+
+## Connection to the Repo's Questions
+
+- **Who Jesus was and where he came from:** Gibson's argument against the poor-Jesus assumption bears on the repo's question of how Jesus's social setting shaped his teaching. The talk offers the claim as an archaeology-informed hypothesis, not a settled result.
+- **The Jerusalem community and the Temple's priests:** Tabor's and Gibson's discussion of priestly houses on Mount Zion, with the Gospel of John's depiction of priests, is relevant to the repo's focus on Jerusalem before 70 CE.
+- **John the Baptist and the Jordan-side tradition:** The Suba cave is presented as a site tied to John the Baptist tradition, but the talk itself marks the link as speculative and the imagery as Byzantine.
+- **How traditions are lost:** Tabor's account of the Crusaders disrupting local memory bears on how early site traditions were preserved or destroyed, which is relevant to the repo's question about how the first followers' memory was handed on.
+
+## Books & Resources Mentioned
+
+- Gibson's forthcoming book on the archaeology of Jesus in Jerusalem, to be published by HarperCollins "this coming year," as stated in the talk.
+- The Mount Zion excavation volunteer information, given as digmountzion.com in the talk.
+- Book and the Spade (Gordon Govier's podcast and magazine, named as the source of the interview).
+- Note: the video description also links a course, "Creating Jesus," and Tabor's Patreon and academic blog. These are not discussed in the talk.
+
+---
+
+## Full Transcript
+
+*Auto-generated YouTube captions, pulled 2026-10-20 with timestamps ([source](https://www.youtube.com/watch?v=C3WL1T0pHi8)). Cite a moment as `tabor-ch-151 @ mm:ss`; the link plus `&t=` seconds jumps straight to it. Captions carry no speaker labels (`>>` appears only where YouTube marks a change) and are **pointers, not proof** — verify in the primary text before quoting.*
+
+**[00:01]** [Music] this is the book in the spade a report on the latest discoveries and developments in biblical archeology here's your host Gordon govier an archaeological excavation in Jerusalem was just getting underway during our recent book in the Spade 25th anniversary Holy Land Tour so on the first day of the Dig called the Mount Zion excavation we made our way to the dig site to find out in person what was going on we found dig director Shimon Gibson working just outside the Southern Wall of the Old City on a hillside located between the Zion gate and the dungay there's an excavation which is being conducted by the University of North Carolina at Charlotte and is co-directed by myself and James Taylor yeah we decided that the time had come for this University to undertake academic excavations here and you've got to take into account that no academic excavations have been undertaken in Jerusalem since the time of cattle in Kenyon I'm not talking about Salvage emergency work which is undertaken all over the city by the Israel Antiquities Authority and indeed I'm not talking about the work of elat Mazar with the so-called Palace of David Perhaps it is because that also is an emergency operation as a result of building operations which we intended to take place there here this is in a garden there's no threats the idea is for us to come and study what's
+
+**[01:35]** the opposite of Jerusalem from the time of Jesus looked like roughly between the years 37 BC and up to the year 70 when the city is destroyed by the Romans and we know in advance to certain extent what we're going to find and usually archaeologists can't say that and that's simply because their site was partly excavated by Miguel burashi back in the late 1970s and I was very happy to have participated in that sad excavation as a child I was only so high and I participate in that excavation and when the excavation came to an abrupt sort of close I I promised myself that one day I would return together with my my colleague here at taba we're back and we're starting and today is really the first day of this thing now I said we know what we're going to find and that's because he dug behind this tent where we're working and he came down onto a whole system of vaults intact the ceilings intact from the first century ad including the first story which was also preserved to about five meters above but because he had dug these very deep areas he couldn't really access them properly what we're going to be doing is we're expanding the area all around going through level by level working our way back in history from the Crusader period back into the Islamic period to the Byzantine period where there was a major church built by Justinian in the mid-6 century just behind the wall where we are at the moment called The Nair Church which is
+
+**[03:07]** figures of map I'm sure you've seen it or you've seen that and then all the way back to the second temple period where we know that they're going to be major buildings and houses here tabe and I were just discussing but a moment ago the fact that the assumption is which is held by many that Jesus came from a poor background he came from a poor family he was poor he if he came to Jerusalem then he would have spent all of his time in a from being in the temple and of course at the Salam in Bethesda pools rubbing shoulders with the poor well I don't think that's exactly the case looking for a number of different reasons he comes to Bethany he stays with a middle class family he has middle class friends Joseph almathar he comes across as a as a person I think since I've just completed the book on archeology of Jesus in Jerusalem it's going to be published this coming year by Harper Collins he comes across as a person who really interlinked if I may put her that werewolves connected to people from all sorts of backgrounds and from different classes as well his idea that he only hobnobbed with their lower classes I think is incorrect and so it is feasible that if he comes and spends the eve of Passover in the upper City or the lower part of the upper City because there's a reference to the the man with a pitch of water and that would suggest that he was coming from the spring of Gehan or perhaps in the salaam pool so maybe at the base of the upper City in one of the palatial buildings which have only
+
+**[04:40]** recently been excavated there he and his disciples might have spent that last evening so it's it's all very exciting and we have lots of expectations and and desires to find different things and who knows I mean this is the first day we only have three coins three coins and a bunch of party and uh last season we dug just this is Tabor just uh for a couple of weeks in June and in this Square behind me we found the realm of a stone vessel with the egg and dart decoration that we associate in the temporary you know the burnt house inside the city with the Priestly families so we expected well for the Gospel of John the priests are living up here they're they're quite well off they're the people Jesus Calls the den of robbers but they're sitting up here in their Verandas and able to look down at the temple I mean that wall wouldn't have been there and it's sort of a nice view we also found a Pontius pilot coin which I thought was rather interesting so that was one of the oh that was the last time just the last time but everything is here now the three coins that you found so far I haven't been able to identify them yet and we're gonna deal a month right now in March and then in uh June in July about six weeks and if any of you want to volunteer it's open you go to digmount zion.com and there's all the information you can see we have several
+
+**[06:13]** Young Folks over here this fellow is 80 years old now he's 75 and he's one of the strongest guys thank you so we don't put an age limit as long as you can lift this rock if you can lift this rock you're okay we want to turn this site also into uh and lots of archeology you just remove everything and depending on your interest often it tends to be herodian or Roman uh you you get down to that level and that's what you really want and we're going to leave a kind of cascading level so it'll be the only place in Jerusalem really where you could go and do a sort of Journey Through Time I think that's very important people need to be able to see Byzantine and uh Crusader and Islamic and Turkish and so you can see how this slopes from the top to the bottom I want to preserve that so no it's usually not done so it's my understanding that the fact that the Naya church was right here and such a platform was built for that that helped preserve absolutely it's it's like you know for us good luck or a miracle because normally these houses would just be destroyed over the years but all the rubble that we're cleaning out here was put over the site and so uh those rooms down below where we're standing are intact they're not collapsed do you have any prospect that there might be something beneath the second temple period homes perhaps yeah perhaps I mean we would
+
+**[07:46]** take it down to bedrock and you would think in the Iron Age overlooking again the city the city of David there might have been things on Mount Zion it is the highest point it's puzzling in the Bible uh you know Mount Zion is called the highest mountain and yet we tend to think of Mount Zion as that Valley down that way so who knows maybe they're referring to the whole area is Mount Zion with this being the highest peak so yeah that it's very possible that there'll be Iron Age material as well down below how many do you have on site here today I think we just have 15 15 or 20. but we plan to have as many as 50. you know when everything's going right [Music] if you've just joined us we're presenting an on-site interview from our just concluded book of the Spade 25th anniversary Holy Land Tour we happen to be in Jerusalem when archaeologist Shimon Gibson and James Tabor started working on their new excavation on Mount Zion along the southern wall of the old city of Jerusalem an area that was probably occupied by the houses of Temple priests during the time of Jesus in addition to a briefing on their newest excavation Gibson and Tabor gave us a short update on their most recent previous excavation at kibbutzuba just west of Jerusalem between 2000 and 2006
+
+**[09:20]** they had excavated a cave that they believe was connected with John the Baptist or at least the tradition of John the Baptist based on what they found inside the idea was was to understand the interior of This Magnificent cave which has these remarkable drawings of John the Baptist and his symbols from the Byzantine period uh somewhere from the fourth or fifth centuries A.D and then the cave continued as a memorial Cave of John the Baptist up till the 9th century or perhaps a little late until the time of the coming of the Crusaders the Crusaders I have to say mess things up in the sense that if you had local Traditions which could be traced back in time to those who wrote the gospels or indeed even back to the time of Jesus those Traditions were disrupted quite viciously I would put by the Crusaders who came rampaged across the country seeking out relics to take back as trophies to Europe and as a result those original Traditions are lost to us which is pretty and this is what captains in the cave of John the Baptist that suddenly at the time roughly of the time of the coming of the Crusaders that's it you have have a situation where the cave is abandoned here you have James Tabor my co-director in this project on behalf of the University of North Carolina at Charlotte so I'll just explain the background relating to our previous worker gave it on the Baptist
+
+**[10:53]** have you come to any new conclusions about any new ideas and what it might be about all about we now know that it was Doug in the Iron Age so it's long before John the Baptist but what interests us inside the cave is that it goes out of use quite quickly there's a spring that we found it's dammed up and then it begins to build up and in the first century there's this tremendous activity that we identify as some sort of ritual activity it's not practical these small jugs by the thousands as many as 40 per square meter have been brought in there a little hand carrying judge and they've been smashed and we don't know of a record of this type of ritual but uh we wondered if it might have to do with some sort of ceremonial cleansing of some type the John the Baptist evidence is really later it's from the Byzantine period with the drawings on the wall but what we've wondered is whether if this baptismal ritual activity is going on in the first century and John is growing up in the area are they remembering his association with the cave and that's you know somewhat speculative so are they are they going to break the whole stone or they're just yeah it's too heavy to lift by hands as the workers behind us began to break apart the large stone that they had just uncovered in order to move it out of the way archaeologist Shimon Gibson and James tabork return to their work
+
+**[12:25]** supervising the excavation on Mount Zion just outside the Southern Wall of the old city of Jerusalem as they mentioned they have a short excavation season during the month of March and then they are returning this summer for a longer excavation season [Music] foreign [Music]
