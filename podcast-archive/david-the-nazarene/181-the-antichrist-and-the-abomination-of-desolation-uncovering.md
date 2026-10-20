@@ -1,0 +1,19 @@
+# The Antichrist and the Abomination of Desolation - Uncovering the Meanings in Matthew 24
+
+**Creator:** David The Nazarene
+**Source:** [YouTube](https://www.youtube.com/watch?v=_Wzk0AuD-vs)
+**Length:** 58:18
+**Contributed by:** Chris Crutchfield, 2026-10-19 (shared the channel link)
+**Use:** auto-captioned transcript. Pointers, not proof. Never quote from this file.
+
+---
+
+## Summary
+
+*Notes pending.*
+
+---
+
+## Full Transcript
+
+*Pending.*

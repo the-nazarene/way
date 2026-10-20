@@ -239,3 +239,16 @@ Idempotent: re-running overwrites the same 66 files. The site build
 (`site/build.py`) reads these files to stamp scripture citations HELD and to
 show the verse text in the reader pane. Note for the semantic index: this adds
 ~4.5 MB of text (31,102 verses), so the next `--rebuild` is larger than before.
+
+---
+
+## processing-status.py
+
+Keeps `PROCESSING-ROADMAP.md` current and catches duplicates before anything is added.
+
+```
+python scripts/processing-status.py                       # tick every podcast-archive/*/00-queue.md from the files, rewrite the status table
+python scripts/processing-status.py --check URL [URL ...]  # is this YouTube video, playlist, @handle or Google Drive file already in the repo?
+```
+
+A file still showing `*Pending.*` under its transcript heading counts as no transcript; `*Notes pending.*` counts as no notes. Sync also lists any YouTube video that appears in more than one archive file.

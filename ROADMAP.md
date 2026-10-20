@@ -1,6 +1,6 @@
 # Roadmap
 
-Working to-do list for The Way. Current as of 2026-10-07.
+Working to-do list for The Way. Current as of 2026-10-19.
 
 **The governing fact:** this repo is **public**. Anyone can read it, clone it, quote it, and check it. That changes the priority order — a wrong claim here is not a private note we'll tidy up later, it's something a stranger can screenshot. Accuracy work outranks new content.
 
@@ -32,6 +32,7 @@ Working to-do list for The Way. Current as of 2026-10-07.
 | 7 | **Episode 045 transcript** | **Done 2026-10-08** — transcribed locally with Whisper (large-v3-turbo) from the audio, since captions are disabled at the source. Labeled as such in the file. |
 | 8 | **Matthew 2:23 has zero coverage** | "He shall be called a Nazarene" — no such OT prophecy exists verbatim. It's the first thing a prepared critic raises about the Nazarene claim and the repo says nothing about it. |
 | 8a | **Open research jobs for contributors** | `OPEN-RESEARCH.md` — eight sized jobs from a read of the podcast archive against the research files (Romans 14, Paul's four texts, the Baptist's diet, Mark and Paul, the five open objections in `questions/OBJECTIONS.md`, the critics' originals, Josephus/Philo/Eusebius as held texts, episode 045). New ground, not repairs. |
+| 8b | **Processing roadmap: sources from contributors** | Everything people send us (YouTube, Google Drive, documents) is inventoried, credited and queued in `PROCESSING-ROADMAP.md`. Ask Claude "what's next on the processing roadmap?" Current: Craig Wescoe's *Panarion* (audit pending); Chris Crutchfield's three YouTube links, 414 videos (Shabbat Studies fully transcribed and noted; David The Nazarene and SixSeven Podcast transcripts in progress). |
 
 ---
 

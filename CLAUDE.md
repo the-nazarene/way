@@ -26,6 +26,8 @@ Don't search the repo blind — there are three purpose-built entry points, in t
 
 **The Desk (infinite canvas, in review).** If asked about the infinite canvas or "the desk", or to work on it, read `site/DESK-DEVELOPERS.md` first (how to run it, the code map, the rules, the tests), then `site/DESK.md` (features and open questions). Merged to `main` 2026-10-11 (PR #9) as a second room: the nav's **deep research** link (Matt's call, Oct 12), a case file's OPEN ON THE DESK tab, or a `canvas.html#desk=<slug>` link. The episode boards (`site/data/desks/jesus-way-*.json`) are `"listed": false` until Aaron has seen them; they still open by link.
 
+**Someone sent us links or files?** Use `PROCESSING-ROADMAP.md`. When Rex or Matt drops YouTube links, Google Drive links, documents or transcripts and says who they came from: run `python scripts/processing-status.py --check <links>` for duplicates, log every item in the inventory with the contributor's name, add a `**Contributed by:**` line to every file made from it, and add the next steps to Next Up. Describe sources, don't judge them: contributors share this repo and read that file. When asked "what's next on the processing roadmap?", answer from Next Up. After processing, run `python scripts/processing-status.py` to refresh the status table.
+
 **Looking for something to work on?** `OPEN-RESEARCH.md` lists the gaps (sized, with what "done" looks like). `FIX-LIST.md` is for repairing existing claims; `OPEN-RESEARCH.md` is for new ground.
 
 ---
