@@ -1,0 +1,20 @@
+name = "the-way-search"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+# Matt's account, which runs nazareneway.com. Pinned so wrangler can't pick another.
+account_id = "a7dc5999bd87dca2db4de77a5ac27e66"
+workers_dev = false
+routes = [{ pattern = "search.nazareneway.com", custom_domain = true }]
+
+[ai]
+binding = "AI"
+
+[[vectorize]]
+binding = "VECTORIZE"
+index_name = "the-way"
+
+# Per-address limit on /search and /mcp, so a bot can't run up the bill.
+[[ratelimits]]
+name = "LIMITER"
+namespace_id = "1001"
+simple = { limit = 30, period = 60 }

@@ -1,0 +1,36 @@
+# Keeps search.nazareneway.com current: on every push to main that touches
+# Markdown, embed the changed files and drop their old passages.
+# Running it by hand (Actions → search index → Run workflow) re-embeds everything.
+name: search index
+
+on:
+  push:
+    branches: [main]
+    paths: ['**.md']
+  workflow_dispatch:
+
+concurrency:
+  group: search-index
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      CLOUDFLARE_ACCOUNT_ID: a7dc5999bd87dca2db4de77a5ac27e66
+      CLOUDFLARE_SEARCH_TOKEN: ${{ secrets.CLOUDFLARE_SEARCH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Sync changed files
+        run: |
+          BEFORE="${{ github.event.before }}"
+          if [ -z "$BEFORE" ] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            python scripts/vectorize-sync.py --all
+          else
+            python scripts/vectorize-sync.py --since "$BEFORE"
+          fi

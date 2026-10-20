@@ -337,10 +337,55 @@
     $('nocard').scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 
+  // The whole-library search (site/search/): passages from the texts and the
+  // talks, never a generated answer. The card drawer above works without it.
+  var SEARCH_API = 'https://search.nazareneway.com/search';
+  var libSeq = 0;
+
+  function plain(md, n) {
+    var t = md.replace(/\*\*\[[0-9:]+\]\*\*/g, '').replace(/[*_#>`]/g, '').replace(/\s+/g, ' ').trim();
+    return t.length > n ? t.slice(0, n).replace(/\s\S*$/, '') + '\u2026' : t;
+  }
+
+  function libItem(r, group) {
+    var li = el('li');
+    var a = el('a', 'lib-title', r.title);
+    a.href = r.url;
+    if (!/^#/.test(r.url) && r.url.indexOf(location.origin) !== 0) { a.target = '_blank'; a.rel = 'noopener'; }
+    li.appendChild(a);
+    var meta = group === 'talk' ? (r.speakers || '') : r.header;
+    if (group === 'talk' && /&t=\d+/.test(r.url)) meta = '\u25b6 ' + meta;
+    if (meta) li.appendChild(el('small', null, meta));
+    li.appendChild(el('p', 'lib-text', plain(r.text || '', group === 'card' ? 160 : 260)));
+    return li;
+  }
+
+  function librarySearch(q) {
+    var box = $('libsearch');
+    var seq = ++libSeq;
+    box.hidden = false;
+    $('libStatus').textContent = 'searching\u2026';
+    ['libCard', 'libLibrary', 'libTalk'].forEach(function (id) { $(id).innerHTML = ''; });
+    fetch(SEARCH_API + '?limit=5&q=' + encodeURIComponent(q))
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (res) {
+        if (seq !== libSeq) return;
+        var n = res.card.length + res.library.length + res.talk.length;
+        $('libStatus').textContent = n ? '' : 'nothing close enough';
+        res.card.forEach(function (r) { $('libCard').appendChild(libItem(r, 'card')); });
+        res.library.forEach(function (r) { $('libLibrary').appendChild(libItem(r, 'library')); });
+        res.talk.forEach(function (r) { $('libTalk').appendChild(libItem(r, 'talk')); });
+      })
+      .catch(function () {
+        if (seq === libSeq) $('libStatus').textContent = 'library search is unavailable right now';
+      });
+  }
+
   function submit(e) {
     e.preventDefault();
     var q = $('q').value;
-    if (!q.trim()) { location.hash = '#/'; return; }
+    if (!q.trim()) { $('libsearch').hidden = true; location.hash = '#/'; return; }
+    librarySearch(q);
     var res = search(q);
     if (res.length && res[0].score <= 0.55) go(res[0].card); else noCard(q);
   }
