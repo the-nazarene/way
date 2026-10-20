@@ -20,6 +20,34 @@ We refine these over time. Change them here when Rex and Matt agree on something
 
 ---
 
+## Where We Are
+
+*Checkpoint 2026-10-20. Update this section at every checkpoint; the details live in Next Up, Decisions Waiting and the inventory below.*
+
+**Done**
+- **Craig Wescoe:** Epiphanius, *Panarion*, merged and registered as a source (audit of quoted passages still open).
+- **Chris Crutchfield, YouTube:** every video from all three links listed (414) with Chris credited on each; Shabbat Studies fully transcribed (Ch 2 via local Whisper), notes on all 10 chapters, and a series overview with one combined claims-to-check list; David The Nazarene confirmed as David H. Notsari (Jesus Way ep. 23); 22 of David's most relevant videos have notes.
+- **Chris Crutchfield, Google Drive:** all 65 PDFs downloaded and converted to Markdown (11 works); public-domain texts added and registered (1 Maccabees, Book of Jasher, plus R. H. Charles's 1917 Enoch); notes written for all six 🔴 copyrighted works; copyright check done (no permission to republish found).
+- **Matt Fracek:** Scott's Nazarene Way channel (84 videos) and the rest of Dr. Tabor's channel (398) with transcripts and notes.
+- **Fixes to the repo found along the way:** Clementine Homilies translator credits corrected (Smith, Peterson, Donaldson), including five public site citations.
+
+**Running**
+- David The Nazarene transcripts (download in progress; SixSeven Podcast is queued after it).
+
+**Next, Claude can do**
+- More David The Nazarene notes, most relevant videos first (Next Up 13).
+- Whisper transcripts for the five videos with no captions (Next Up 2c).
+- Audit the Panarion passages the repo quotes (Next Up 14).
+- Sabbath-to-Sunday research from Veith's public-domain sources (Next Up 6c).
+- The four Tabor guest appearances on other channels (Next Up 2d).
+
+**Waiting on people**
+- Rex: which item 9 research-file changes to apply (D1); create the private library repo (D5); send Chris the source questions (Next Up 8).
+- Group: ask the authors for permission, or sideline (D4).
+- Matt: ask Scott and Dr. Tabor about their talks being public (Next Up 2b).
+
+---
+
 ## Next Up
 
 In order. Put your name in **Who** when you take one.
@@ -73,7 +101,7 @@ Judgment calls collected as they come up, for Rex and Matt to go through togethe
 
 | Source | Contributed by | Items | Transcripts | Notes | Queue |
 |---|---|---|---|---|---|
-| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 149 of 370 | 22 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
+| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 227 of 370 | 22 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
 | Dr. James Tabor, YouTube channel | Matt Fracek, 2026-10-20 | 398 | 398 of 398 | 398 of 398 | [queue](podcast-archive/dr-tabor-channel/00-queue.md) |
 | Scott, Nazarene Way | Matt Fracek, 2026-10-20 | 84 | 83 of 84 | 79 of 84 | [queue](podcast-archive/scott-nazarene-way/00-queue.md) |
 | Shabbat Studies with Jen & Chris | Chris Crutchfield, 2026-10-19 | 10 | 10 of 10 | 10 of 10 | [queue](podcast-archive/shabbat-studies/00-queue.md) |

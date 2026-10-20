@@ -209,99 +209,99 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 198 | [x] | [ ] | Moses And The Exodus - Seeking God's Justice | 44:29 | [198-moses-and-the-exodus-seeking-god-s-justice.md](198-moses-and-the-exodus-seeking-god-s-justice.md) |
 | 199 | [x] | [ ] | The Structure and Function Of The Sinai Covenant - Seeking God's Justice | 1:20:14 | [199-the-structure-and-function-of-the-sinai-covenant-seeking-god.md](199-the-structure-and-function-of-the-sinai-covenant-seeking-god.md) |
 | 200 | [ ] | [ ] | Are You Fit To Be In A Covenant With God? -  Seeking God's Justice | 36:36 | [200-are-you-fit-to-be-in-a-covenant-with-god-seeking-god-s-justi.md](200-are-you-fit-to-be-in-a-covenant-with-god-seeking-god-s-justi.md) |
-| 201 | [ ] | [ ] | The 12 Tribe Federation and the Conquest of the Land - Seeking God's Justice | 45:37 | [201-the-12-tribe-federation-and-the-conquest-of-the-land-seeking.md](201-the-12-tribe-federation-and-the-conquest-of-the-land-seeking.md) |
-| 202 | [ ] | [ ] | The Transition to Monarchy - Seeking God's Justice | 47:32 | [202-the-transition-to-monarchy-seeking-god-s-justice.md](202-the-transition-to-monarchy-seeking-god-s-justice.md) |
-| 203 | [ ] | [ ] | King David and The Jebusite Influence - Seeking God's Justice | 51:48 | [203-king-david-and-the-jebusite-influence-seeking-god-s-justice.md](203-king-david-and-the-jebusite-influence-seeking-god-s-justice.md) |
-| 204 | [ ] | [ ] | Being Led By God - Witnessing Miracles, Listening to The Holy Spirit, and Confirming The Word | 41:16 | [204-being-led-by-god-witnessing-miracles-listening-to-the-holy-s.md](204-being-led-by-god-witnessing-miracles-listening-to-the-holy-s.md) |
-| 205 | [ ] | [ ] | The Legacy of King Solomon - Seeking God's Justice | 1:08:29 | [205-the-legacy-of-king-solomon-seeking-god-s-justice.md](205-the-legacy-of-king-solomon-seeking-god-s-justice.md) |
-| 206 | [ ] | [ ] | Josiah Reforms the Imperial Religion - Seeking God's Justice | 59:19 | [206-josiah-reforms-the-imperial-religion-seeking-god-s-justice.md](206-josiah-reforms-the-imperial-religion-seeking-god-s-justice.md) |
-| 207 | [ ] | [ ] | Destruction and Exile - Seeking God's Justice | 56:05 | [207-destruction-and-exile-seeking-god-s-justice.md](207-destruction-and-exile-seeking-god-s-justice.md) |
-| 208 | [ ] | [ ] | Yeshua and the Renewal of an Old Faith / Part 1 - Seeking God's Justice | 43:43 | [208-yeshua-and-the-renewal-of-an-old-faith-part-1-seeking-god-s.md](208-yeshua-and-the-renewal-of-an-old-faith-part-1-seeking-god-s.md) |
-| 209 | [ ] | [ ] | Yeshua and the Renewal of an Old Faith / Pt 2 - Seeking God's Justice | 49:23 | [209-yeshua-and-the-renewal-of-an-old-faith-pt-2-seeking-god-s-ju.md](209-yeshua-and-the-renewal-of-an-old-faith-pt-2-seeking-god-s-ju.md) |
+| 201 | [x] | [ ] | The 12 Tribe Federation and the Conquest of the Land - Seeking God's Justice | 45:37 | [201-the-12-tribe-federation-and-the-conquest-of-the-land-seeking.md](201-the-12-tribe-federation-and-the-conquest-of-the-land-seeking.md) |
+| 202 | [x] | [ ] | The Transition to Monarchy - Seeking God's Justice | 47:32 | [202-the-transition-to-monarchy-seeking-god-s-justice.md](202-the-transition-to-monarchy-seeking-god-s-justice.md) |
+| 203 | [x] | [ ] | King David and The Jebusite Influence - Seeking God's Justice | 51:48 | [203-king-david-and-the-jebusite-influence-seeking-god-s-justice.md](203-king-david-and-the-jebusite-influence-seeking-god-s-justice.md) |
+| 204 | [x] | [ ] | Being Led By God - Witnessing Miracles, Listening to The Holy Spirit, and Confirming The Word | 41:16 | [204-being-led-by-god-witnessing-miracles-listening-to-the-holy-s.md](204-being-led-by-god-witnessing-miracles-listening-to-the-holy-s.md) |
+| 205 | [x] | [ ] | The Legacy of King Solomon - Seeking God's Justice | 1:08:29 | [205-the-legacy-of-king-solomon-seeking-god-s-justice.md](205-the-legacy-of-king-solomon-seeking-god-s-justice.md) |
+| 206 | [x] | [ ] | Josiah Reforms the Imperial Religion - Seeking God's Justice | 59:19 | [206-josiah-reforms-the-imperial-religion-seeking-god-s-justice.md](206-josiah-reforms-the-imperial-religion-seeking-god-s-justice.md) |
+| 207 | [x] | [ ] | Destruction and Exile - Seeking God's Justice | 56:05 | [207-destruction-and-exile-seeking-god-s-justice.md](207-destruction-and-exile-seeking-god-s-justice.md) |
+| 208 | [x] | [ ] | Yeshua and the Renewal of an Old Faith / Part 1 - Seeking God's Justice | 43:43 | [208-yeshua-and-the-renewal-of-an-old-faith-part-1-seeking-god-s.md](208-yeshua-and-the-renewal-of-an-old-faith-part-1-seeking-god-s.md) |
+| 209 | [x] | [ ] | Yeshua and the Renewal of an Old Faith / Pt 2 - Seeking God's Justice | 49:23 | [209-yeshua-and-the-renewal-of-an-old-faith-pt-2-seeking-god-s-ju.md](209-yeshua-and-the-renewal-of-an-old-faith-pt-2-seeking-god-s-ju.md) |
 | 210 | [ ] | [ ] | Do This In Remembrance Of Me?  The Last Supper as an Oath-Taking Ceremony To The King | 54:04 | [210-do-this-in-remembrance-of-me-the-last-supper-as-an-oath-taki.md](210-do-this-in-remembrance-of-me-the-last-supper-as-an-oath-taki.md) |
-| 211 | [ ] | [ ] | "The Vengeance of YHWH" or "The Dispensing of Justice" | 44:24 | [211-the-vengeance-of-yhwh-or-the-dispensing-of-justice.md](211-the-vengeance-of-yhwh-or-the-dispensing-of-justice.md) |
-| 212 | [ ] | [ ] | RSF - Introduction & DHN Letter | 32:12 | [212-rsf-introduction-dhn-letter.md](212-rsf-introduction-dhn-letter.md) |
-| 213 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 1-3 | 24:39 | [213-rsf-reconstructed-goth-ch-1-3.md](213-rsf-reconstructed-goth-ch-1-3.md) |
-| 214 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 4-5 | 26:24 | [214-rsf-reconstructed-goth-ch-4-5.md](214-rsf-reconstructed-goth-ch-4-5.md) |
+| 211 | [x] | [ ] | "The Vengeance of YHWH" or "The Dispensing of Justice" | 44:24 | [211-the-vengeance-of-yhwh-or-the-dispensing-of-justice.md](211-the-vengeance-of-yhwh-or-the-dispensing-of-justice.md) |
+| 212 | [x] | [ ] | RSF - Introduction & DHN Letter | 32:12 | [212-rsf-introduction-dhn-letter.md](212-rsf-introduction-dhn-letter.md) |
+| 213 | [x] | [ ] | RSF - Reconstructed GoTH Ch 1-3 | 24:39 | [213-rsf-reconstructed-goth-ch-1-3.md](213-rsf-reconstructed-goth-ch-1-3.md) |
+| 214 | [x] | [ ] | RSF - Reconstructed GoTH Ch 4-5 | 26:24 | [214-rsf-reconstructed-goth-ch-4-5.md](214-rsf-reconstructed-goth-ch-4-5.md) |
 | 215 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 6-7 | 26:03 | [215-rsf-reconstructed-goth-ch-6-7.md](215-rsf-reconstructed-goth-ch-6-7.md) |
-| 216 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 8 | 19:49 | [216-rsf-reconstructed-goth-ch-8.md](216-rsf-reconstructed-goth-ch-8.md) |
-| 217 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 9-10 | 29:31 | [217-rsf-reconstructed-goth-ch-9-10.md](217-rsf-reconstructed-goth-ch-9-10.md) |
-| 218 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 11-12 | 20:07 | [218-rsf-reconstructed-goth-ch-11-12.md](218-rsf-reconstructed-goth-ch-11-12.md) |
-| 219 | [ ] | [ ] | Levels of Development and How It Limits Our Understanding - Paul vs Jesus | 1:08:25 | [219-levels-of-development-and-how-it-limits-our-understanding-pa.md](219-levels-of-development-and-how-it-limits-our-understanding-pa.md) |
-| 220 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 13-14 | 15:11 | [220-rsf-reconstructed-goth-ch-13-14.md](220-rsf-reconstructed-goth-ch-13-14.md) |
-| 221 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 15 | 22:34 | [221-rsf-reconstructed-goth-ch-15.md](221-rsf-reconstructed-goth-ch-15.md) |
-| 222 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 16-17 | 14:20 | [222-rsf-reconstructed-goth-ch-16-17.md](222-rsf-reconstructed-goth-ch-16-17.md) |
-| 223 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 18-19 | 10:26 | [223-rsf-reconstructed-goth-ch-18-19.md](223-rsf-reconstructed-goth-ch-18-19.md) |
+| 216 | [x] | [ ] | RSF - Reconstructed GoTH Ch 8 | 19:49 | [216-rsf-reconstructed-goth-ch-8.md](216-rsf-reconstructed-goth-ch-8.md) |
+| 217 | [x] | [ ] | RSF - Reconstructed GoTH Ch 9-10 | 29:31 | [217-rsf-reconstructed-goth-ch-9-10.md](217-rsf-reconstructed-goth-ch-9-10.md) |
+| 218 | [x] | [ ] | RSF - Reconstructed GoTH Ch 11-12 | 20:07 | [218-rsf-reconstructed-goth-ch-11-12.md](218-rsf-reconstructed-goth-ch-11-12.md) |
+| 219 | [x] | [ ] | Levels of Development and How It Limits Our Understanding - Paul vs Jesus | 1:08:25 | [219-levels-of-development-and-how-it-limits-our-understanding-pa.md](219-levels-of-development-and-how-it-limits-our-understanding-pa.md) |
+| 220 | [x] | [ ] | RSF - Reconstructed GoTH Ch 13-14 | 15:11 | [220-rsf-reconstructed-goth-ch-13-14.md](220-rsf-reconstructed-goth-ch-13-14.md) |
+| 221 | [x] | [ ] | RSF - Reconstructed GoTH Ch 15 | 22:34 | [221-rsf-reconstructed-goth-ch-15.md](221-rsf-reconstructed-goth-ch-15.md) |
+| 222 | [x] | [ ] | RSF - Reconstructed GoTH Ch 16-17 | 14:20 | [222-rsf-reconstructed-goth-ch-16-17.md](222-rsf-reconstructed-goth-ch-16-17.md) |
+| 223 | [x] | [ ] | RSF - Reconstructed GoTH Ch 18-19 | 10:26 | [223-rsf-reconstructed-goth-ch-18-19.md](223-rsf-reconstructed-goth-ch-18-19.md) |
 | 224 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 20-21 | 19:22 | [224-rsf-reconstructed-goth-ch-20-21.md](224-rsf-reconstructed-goth-ch-20-21.md) |
-| 225 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 22-23 | 16:38 | [225-rsf-reconstructed-goth-ch-22-23.md](225-rsf-reconstructed-goth-ch-22-23.md) |
-| 226 | [ ] | [ ] | What is the Long Suffering of Our Lord in 2 Peter 3:15? | 26:00 | [226-what-is-the-long-suffering-of-our-lord-in-2-peter-3-15.md](226-what-is-the-long-suffering-of-our-lord-in-2-peter-3-15.md) |
+| 225 | [x] | [ ] | RSF - Reconstructed GoTH Ch 22-23 | 16:38 | [225-rsf-reconstructed-goth-ch-22-23.md](225-rsf-reconstructed-goth-ch-22-23.md) |
+| 226 | [x] | [ ] | What is the Long Suffering of Our Lord in 2 Peter 3:15? | 26:00 | [226-what-is-the-long-suffering-of-our-lord-in-2-peter-3-15.md](226-what-is-the-long-suffering-of-our-lord-in-2-peter-3-15.md) |
 | 227 | [ ] | [ ] | The Prophets Agree!  God Never Commanded Sacrifices! | 43:40 | [227-the-prophets-agree-god-never-commanded-sacrifices.md](227-the-prophets-agree-god-never-commanded-sacrifices.md) |
-| 228 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 24-25 | 27:09 | [228-rsf-reconstructed-goth-ch-24-25.md](228-rsf-reconstructed-goth-ch-24-25.md) |
-| 229 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 26 | 13:42 | [229-rsf-reconstructed-goth-ch-26.md](229-rsf-reconstructed-goth-ch-26.md) |
-| 230 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 27 | 10:13 | [230-rsf-reconstructed-goth-ch-27.md](230-rsf-reconstructed-goth-ch-27.md) |
+| 228 | [x] | [ ] | RSF - Reconstructed GoTH Ch 24-25 | 27:09 | [228-rsf-reconstructed-goth-ch-24-25.md](228-rsf-reconstructed-goth-ch-24-25.md) |
+| 229 | [x] | [ ] | RSF - Reconstructed GoTH Ch 26 | 13:42 | [229-rsf-reconstructed-goth-ch-26.md](229-rsf-reconstructed-goth-ch-26.md) |
+| 230 | [x] | [ ] | RSF - Reconstructed GoTH Ch 27 | 10:13 | [230-rsf-reconstructed-goth-ch-27.md](230-rsf-reconstructed-goth-ch-27.md) |
 | 231 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 28 | 6:11 | [231-rsf-reconstructed-goth-ch-28.md](231-rsf-reconstructed-goth-ch-28.md) |
-| 232 | [ ] | [ ] | RSF - John Ch 1-2 | 14:12 | [232-rsf-john-ch-1-2.md](232-rsf-john-ch-1-2.md) |
+| 232 | [x] | [ ] | RSF - John Ch 1-2 | 14:12 | [232-rsf-john-ch-1-2.md](232-rsf-john-ch-1-2.md) |
 | 233 | [ ] | [ ] | RSF - John Ch 3-4 | 22:49 | [233-rsf-john-ch-3-4.md](233-rsf-john-ch-3-4.md) |
-| 234 | [ ] | [ ] | RSF - John Ch 5-6 | 29:26 | [234-rsf-john-ch-5-6.md](234-rsf-john-ch-5-6.md) |
-| 235 | [ ] | [ ] | RSF - John Ch 7 | 40:13 | [235-rsf-john-ch-7.md](235-rsf-john-ch-7.md) |
-| 236 | [ ] | [ ] | RSF - John Ch 8-9 | 22:47 | [236-rsf-john-ch-8-9.md](236-rsf-john-ch-8-9.md) |
-| 237 | [ ] | [ ] | RSF - John Ch 10-11 | 17:14 | [237-rsf-john-ch-10-11.md](237-rsf-john-ch-10-11.md) |
+| 234 | [x] | [ ] | RSF - John Ch 5-6 | 29:26 | [234-rsf-john-ch-5-6.md](234-rsf-john-ch-5-6.md) |
+| 235 | [x] | [ ] | RSF - John Ch 7 | 40:13 | [235-rsf-john-ch-7.md](235-rsf-john-ch-7.md) |
+| 236 | [x] | [ ] | RSF - John Ch 8-9 | 22:47 | [236-rsf-john-ch-8-9.md](236-rsf-john-ch-8-9.md) |
+| 237 | [x] | [ ] | RSF - John Ch 10-11 | 17:14 | [237-rsf-john-ch-10-11.md](237-rsf-john-ch-10-11.md) |
 | 238 | [ ] | [ ] | RSF - John Ch 12-13 | 13:17 | [238-rsf-john-ch-12-13.md](238-rsf-john-ch-12-13.md) |
-| 239 | [ ] | [ ] | RSF - John Ch 14 | 21:41 | [239-rsf-john-ch-14.md](239-rsf-john-ch-14.md) |
-| 240 | [ ] | [ ] | RSF - John Ch 15-16 | 24:42 | [240-rsf-john-ch-15-16.md](240-rsf-john-ch-15-16.md) |
-| 241 | [ ] | [ ] | RSF - John Ch 17-18 | 12:44 | [241-rsf-john-ch-17-18.md](241-rsf-john-ch-17-18.md) |
-| 242 | [ ] | [ ] | RSF - John Ch 19-20 | 10:08 | [242-rsf-john-ch-19-20.md](242-rsf-john-ch-19-20.md) |
-| 243 | [ ] | [ ] | RSF - NazActs Bk 1 Ch 1-6 | 20:11 | [243-rsf-nazacts-bk-1-ch-1-6.md](243-rsf-nazacts-bk-1-ch-1-6.md) |
-| 244 | [ ] | [ ] | RSF - NazActs Bk 1 Ch 7-11 | 18:08 | [244-rsf-nazacts-bk-1-ch-7-11.md](244-rsf-nazacts-bk-1-ch-7-11.md) |
-| 245 | [ ] | [ ] | RSF - NazActs Bk 1 Ch 12-18 | 31:22 | [245-rsf-nazacts-bk-1-ch-12-18.md](245-rsf-nazacts-bk-1-ch-12-18.md) |
-| 246 | [ ] | [ ] | RSF - NazActs Bk 1 Ch 19-21 | 33:17 | [246-rsf-nazacts-bk-1-ch-19-21.md](246-rsf-nazacts-bk-1-ch-19-21.md) |
-| 247 | [ ] | [ ] | RSF - NazActs Bk 1 Ch 22-26 | 24:14 | [247-rsf-nazacts-bk-1-ch-22-26.md](247-rsf-nazacts-bk-1-ch-22-26.md) |
+| 239 | [x] | [ ] | RSF - John Ch 14 | 21:41 | [239-rsf-john-ch-14.md](239-rsf-john-ch-14.md) |
+| 240 | [x] | [ ] | RSF - John Ch 15-16 | 24:42 | [240-rsf-john-ch-15-16.md](240-rsf-john-ch-15-16.md) |
+| 241 | [x] | [ ] | RSF - John Ch 17-18 | 12:44 | [241-rsf-john-ch-17-18.md](241-rsf-john-ch-17-18.md) |
+| 242 | [x] | [ ] | RSF - John Ch 19-20 | 10:08 | [242-rsf-john-ch-19-20.md](242-rsf-john-ch-19-20.md) |
+| 243 | [x] | [ ] | RSF - NazActs Bk 1 Ch 1-6 | 20:11 | [243-rsf-nazacts-bk-1-ch-1-6.md](243-rsf-nazacts-bk-1-ch-1-6.md) |
+| 244 | [x] | [ ] | RSF - NazActs Bk 1 Ch 7-11 | 18:08 | [244-rsf-nazacts-bk-1-ch-7-11.md](244-rsf-nazacts-bk-1-ch-7-11.md) |
+| 245 | [x] | [ ] | RSF - NazActs Bk 1 Ch 12-18 | 31:22 | [245-rsf-nazacts-bk-1-ch-12-18.md](245-rsf-nazacts-bk-1-ch-12-18.md) |
+| 246 | [x] | [ ] | RSF - NazActs Bk 1 Ch 19-21 | 33:17 | [246-rsf-nazacts-bk-1-ch-19-21.md](246-rsf-nazacts-bk-1-ch-19-21.md) |
+| 247 | [x] | [ ] | RSF - NazActs Bk 1 Ch 22-26 | 24:14 | [247-rsf-nazacts-bk-1-ch-22-26.md](247-rsf-nazacts-bk-1-ch-22-26.md) |
 | 248 | [ ] | [ ] | RSF - NazActs Bk 1 Ch 27-34 | 22:44 | [248-rsf-nazacts-bk-1-ch-27-34.md](248-rsf-nazacts-bk-1-ch-27-34.md) |
-| 249 | [ ] | [ ] | RSF - NazActs Bk 1 Ch 35-42 | 19:30 | [249-rsf-nazacts-bk-1-ch-35-42.md](249-rsf-nazacts-bk-1-ch-35-42.md) |
-| 250 | [ ] | [ ] | RSF - NazActs Bk 1 Ch 43-51 | 18:06 | [250-rsf-nazacts-bk-1-ch-43-51.md](250-rsf-nazacts-bk-1-ch-43-51.md) |
-| 251 | [ ] | [ ] | RSF - NazActs Bk 1 Ch 52-59 | 33:35 | [251-rsf-nazacts-bk-1-ch-52-59.md](251-rsf-nazacts-bk-1-ch-52-59.md) |
-| 252 | [ ] | [ ] | RSF - NazActs Bk 1 Ch 60-74 | 28:56 | [252-rsf-nazacts-bk-1-ch-60-74.md](252-rsf-nazacts-bk-1-ch-60-74.md) |
-| 253 | [ ] | [ ] | RSF - NazActs Bk 2 Ch 1-8 | 28:18 | [253-rsf-nazacts-bk-2-ch-1-8.md](253-rsf-nazacts-bk-2-ch-1-8.md) |
-| 254 | [ ] | [ ] | RSF - NazActs Bk 2 Ch 9-17 | 26:18 | [254-rsf-nazacts-bk-2-ch-9-17.md](254-rsf-nazacts-bk-2-ch-9-17.md) |
-| 255 | [ ] | [ ] | RSF - NazActs Bk 2 Ch 18-22 | 27:20 | [255-rsf-nazacts-bk-2-ch-18-22.md](255-rsf-nazacts-bk-2-ch-18-22.md) |
+| 249 | [x] | [ ] | RSF - NazActs Bk 1 Ch 35-42 | 19:30 | [249-rsf-nazacts-bk-1-ch-35-42.md](249-rsf-nazacts-bk-1-ch-35-42.md) |
+| 250 | [x] | [ ] | RSF - NazActs Bk 1 Ch 43-51 | 18:06 | [250-rsf-nazacts-bk-1-ch-43-51.md](250-rsf-nazacts-bk-1-ch-43-51.md) |
+| 251 | [x] | [ ] | RSF - NazActs Bk 1 Ch 52-59 | 33:35 | [251-rsf-nazacts-bk-1-ch-52-59.md](251-rsf-nazacts-bk-1-ch-52-59.md) |
+| 252 | [x] | [ ] | RSF - NazActs Bk 1 Ch 60-74 | 28:56 | [252-rsf-nazacts-bk-1-ch-60-74.md](252-rsf-nazacts-bk-1-ch-60-74.md) |
+| 253 | [x] | [ ] | RSF - NazActs Bk 2 Ch 1-8 | 28:18 | [253-rsf-nazacts-bk-2-ch-1-8.md](253-rsf-nazacts-bk-2-ch-1-8.md) |
+| 254 | [x] | [ ] | RSF - NazActs Bk 2 Ch 9-17 | 26:18 | [254-rsf-nazacts-bk-2-ch-9-17.md](254-rsf-nazacts-bk-2-ch-9-17.md) |
+| 255 | [x] | [ ] | RSF - NazActs Bk 2 Ch 18-22 | 27:20 | [255-rsf-nazacts-bk-2-ch-18-22.md](255-rsf-nazacts-bk-2-ch-18-22.md) |
 | 256 | [ ] | [ ] | RSF - NazActs Bk 2 Ch 22-33 | 19:52 | [256-rsf-nazacts-bk-2-ch-22-33.md](256-rsf-nazacts-bk-2-ch-22-33.md) |
-| 257 | [ ] | [ ] | RSF - NazActs Bk 2 Ch 34-36 | 23:29 | [257-rsf-nazacts-bk-2-ch-34-36.md](257-rsf-nazacts-bk-2-ch-34-36.md) |
-| 258 | [ ] | [ ] | RSF - NazActs Bk 2 Ch 37-43 | 15:14 | [258-rsf-nazacts-bk-2-ch-37-43.md](258-rsf-nazacts-bk-2-ch-37-43.md) |
-| 259 | [ ] | [ ] | RSF - NazActs Bk 2 Ch 44-56 | 19:32 | [259-rsf-nazacts-bk-2-ch-44-56.md](259-rsf-nazacts-bk-2-ch-44-56.md) |
+| 257 | [x] | [ ] | RSF - NazActs Bk 2 Ch 34-36 | 23:29 | [257-rsf-nazacts-bk-2-ch-34-36.md](257-rsf-nazacts-bk-2-ch-34-36.md) |
+| 258 | [x] | [ ] | RSF - NazActs Bk 2 Ch 37-43 | 15:14 | [258-rsf-nazacts-bk-2-ch-37-43.md](258-rsf-nazacts-bk-2-ch-37-43.md) |
+| 259 | [x] | [ ] | RSF - NazActs Bk 2 Ch 44-56 | 19:32 | [259-rsf-nazacts-bk-2-ch-44-56.md](259-rsf-nazacts-bk-2-ch-44-56.md) |
 | 260 | [ ] | [ ] | Chat GDP's Analysis of The Rock Of a Sure Foundation | 24:48 | [260-chat-gdp-s-analysis-of-the-rock-of-a-sure-foundation.md](260-chat-gdp-s-analysis-of-the-rock-of-a-sure-foundation.md) |
-| 261 | [ ] | [ ] | RSF - NazActs Bk 2 Ch 57-66 | 18:48 | [261-rsf-nazacts-bk-2-ch-57-66.md](261-rsf-nazacts-bk-2-ch-57-66.md) |
-| 262 | [ ] | [ ] | RSF - NazActs Bk 2 Ch 67-72 | 19:24 | [262-rsf-nazacts-bk-2-ch-67-72.md](262-rsf-nazacts-bk-2-ch-67-72.md) |
+| 261 | [x] | [ ] | RSF - NazActs Bk 2 Ch 57-66 | 18:48 | [261-rsf-nazacts-bk-2-ch-57-66.md](261-rsf-nazacts-bk-2-ch-57-66.md) |
+| 262 | [x] | [ ] | RSF - NazActs Bk 2 Ch 67-72 | 19:24 | [262-rsf-nazacts-bk-2-ch-67-72.md](262-rsf-nazacts-bk-2-ch-67-72.md) |
 | 263 | [ ] | [ ] | RSF - NazActs Bk 3 Ch 1-7 | 35:15 | [263-rsf-nazacts-bk-3-ch-1-7.md](263-rsf-nazacts-bk-3-ch-1-7.md) |
 | 264 | [ ] | [ ] | RSF - NazActs Bk 3 Ch 8-11 | 27:27 | [264-rsf-nazacts-bk-3-ch-8-11.md](264-rsf-nazacts-bk-3-ch-8-11.md) |
-| 265 | [ ] | [ ] | RSF - NazActs Bk 3 Ch 12 - 24 | 32:07 | [265-rsf-nazacts-bk-3-ch-12-24.md](265-rsf-nazacts-bk-3-ch-12-24.md) |
-| 266 | [ ] | [ ] | RSF - NazActs Bk 3 Ch 25 - 30 | 23:16 | [266-rsf-nazacts-bk-3-ch-25-30.md](266-rsf-nazacts-bk-3-ch-25-30.md) |
-| 267 | [ ] | [ ] | RSF - NazActs Bk 3 Ch 31- 38 | 49:56 | [267-rsf-nazacts-bk-3-ch-31-38.md](267-rsf-nazacts-bk-3-ch-31-38.md) |
-| 268 | [ ] | [ ] | RSF - NazActs Bk 3 Ch 39 - 50 | 33:00 | [268-rsf-nazacts-bk-3-ch-39-50.md](268-rsf-nazacts-bk-3-ch-39-50.md) |
+| 265 | [x] | [ ] | RSF - NazActs Bk 3 Ch 12 - 24 | 32:07 | [265-rsf-nazacts-bk-3-ch-12-24.md](265-rsf-nazacts-bk-3-ch-12-24.md) |
+| 266 | [x] | [ ] | RSF - NazActs Bk 3 Ch 25 - 30 | 23:16 | [266-rsf-nazacts-bk-3-ch-25-30.md](266-rsf-nazacts-bk-3-ch-25-30.md) |
+| 267 | [x] | [ ] | RSF - NazActs Bk 3 Ch 31- 38 | 49:56 | [267-rsf-nazacts-bk-3-ch-31-38.md](267-rsf-nazacts-bk-3-ch-31-38.md) |
+| 268 | [x] | [ ] | RSF - NazActs Bk 3 Ch 39 - 50 | 33:00 | [268-rsf-nazacts-bk-3-ch-39-50.md](268-rsf-nazacts-bk-3-ch-39-50.md) |
 | 269 | [ ] | [ ] | RSF - NazActs Bk 3 Ch 51- 61 | 47:33 | [269-rsf-nazacts-bk-3-ch-51-61.md](269-rsf-nazacts-bk-3-ch-51-61.md) |
-| 270 | [ ] | [ ] | RSF - NazActs Bk 3 Ch 62 - 75 | 25:43 | [270-rsf-nazacts-bk-3-ch-62-75.md](270-rsf-nazacts-bk-3-ch-62-75.md) |
-| 271 | [ ] | [ ] | RSF - NazActs Bk 4 Ch 1-10 | 30:50 | [271-rsf-nazacts-bk-4-ch-1-10.md](271-rsf-nazacts-bk-4-ch-1-10.md) |
-| 272 | [ ] | [ ] | RSF - NazActs Bk 4 Ch 11-19 | 41:22 | [272-rsf-nazacts-bk-4-ch-11-19.md](272-rsf-nazacts-bk-4-ch-11-19.md) |
-| 273 | [ ] | [ ] | RSF - NazActs Bk 4 Ch 20-30 | 36:51 | [273-rsf-nazacts-bk-4-ch-20-30.md](273-rsf-nazacts-bk-4-ch-20-30.md) |
-| 274 | [ ] | [ ] | RSF - NazActs Bk 4 Ch 31-37 | 18:45 | [274-rsf-nazacts-bk-4-ch-31-37.md](274-rsf-nazacts-bk-4-ch-31-37.md) |
-| 275 | [ ] | [ ] | RSF - NazActs Bk 5 Ch 1-10 | 35:12 | [275-rsf-nazacts-bk-5-ch-1-10.md](275-rsf-nazacts-bk-5-ch-1-10.md) |
-| 276 | [ ] | [ ] | RSF - NazActs Bk 5 Ch 11-16 | 43:45 | [276-rsf-nazacts-bk-5-ch-11-16.md](276-rsf-nazacts-bk-5-ch-11-16.md) |
-| 277 | [ ] | [ ] | RSF - NazActs Bk 5 Ch 17-23 | 26:32 | [277-rsf-nazacts-bk-5-ch-17-23.md](277-rsf-nazacts-bk-5-ch-17-23.md) |
-| 278 | [ ] | [ ] | RSF - NazActs Bk 5 Ch 24-30 | 17:11 | [278-rsf-nazacts-bk-5-ch-24-30.md](278-rsf-nazacts-bk-5-ch-24-30.md) |
-| 279 | [ ] | [ ] | RSF - NazActs Bk 5 Ch 31-36 | 9:59 | [279-rsf-nazacts-bk-5-ch-31-36.md](279-rsf-nazacts-bk-5-ch-31-36.md) |
-| 280 | [ ] | [ ] | RSF - NazActs Bk 6 Ch 1-10 | 19:43 | [280-rsf-nazacts-bk-6-ch-1-10.md](280-rsf-nazacts-bk-6-ch-1-10.md) |
-| 281 | [ ] | [ ] | RSF - NazActs Bk 6 Ch 11-15 | 8:50 | [281-rsf-nazacts-bk-6-ch-11-15.md](281-rsf-nazacts-bk-6-ch-11-15.md) |
-| 282 | [ ] | [ ] | RSF - NazActs Bk 7 Ch 1-11 | 13:46 | [282-rsf-nazacts-bk-7-ch-1-11.md](282-rsf-nazacts-bk-7-ch-1-11.md) |
-| 283 | [ ] | [ ] | RSF - NazActs Bk 7 Ch 12-24 | 25:34 | [283-rsf-nazacts-bk-7-ch-12-24.md](283-rsf-nazacts-bk-7-ch-12-24.md) |
-| 284 | [ ] | [ ] | RSF - NazActs Bk 7 Ch 25-38 | 31:12 | [284-rsf-nazacts-bk-7-ch-25-38.md](284-rsf-nazacts-bk-7-ch-25-38.md) |
-| 285 | [ ] | [ ] | RSF - NazActs Bk 8 Ch 1-12 | 21:03 | [285-rsf-nazacts-bk-8-ch-1-12.md](285-rsf-nazacts-bk-8-ch-1-12.md) |
-| 286 | [ ] | [ ] | RSF - NazActs Bk 8 Ch 13-25 | 21:33 | [286-rsf-nazacts-bk-8-ch-13-25.md](286-rsf-nazacts-bk-8-ch-13-25.md) |
-| 287 | [ ] | [ ] | RSF - NazActs Bk 8 Ch 26-36 | 16:43 | [287-rsf-nazacts-bk-8-ch-26-36.md](287-rsf-nazacts-bk-8-ch-26-36.md) |
+| 270 | [x] | [ ] | RSF - NazActs Bk 3 Ch 62 - 75 | 25:43 | [270-rsf-nazacts-bk-3-ch-62-75.md](270-rsf-nazacts-bk-3-ch-62-75.md) |
+| 271 | [x] | [ ] | RSF - NazActs Bk 4 Ch 1-10 | 30:50 | [271-rsf-nazacts-bk-4-ch-1-10.md](271-rsf-nazacts-bk-4-ch-1-10.md) |
+| 272 | [x] | [ ] | RSF - NazActs Bk 4 Ch 11-19 | 41:22 | [272-rsf-nazacts-bk-4-ch-11-19.md](272-rsf-nazacts-bk-4-ch-11-19.md) |
+| 273 | [x] | [ ] | RSF - NazActs Bk 4 Ch 20-30 | 36:51 | [273-rsf-nazacts-bk-4-ch-20-30.md](273-rsf-nazacts-bk-4-ch-20-30.md) |
+| 274 | [x] | [ ] | RSF - NazActs Bk 4 Ch 31-37 | 18:45 | [274-rsf-nazacts-bk-4-ch-31-37.md](274-rsf-nazacts-bk-4-ch-31-37.md) |
+| 275 | [x] | [ ] | RSF - NazActs Bk 5 Ch 1-10 | 35:12 | [275-rsf-nazacts-bk-5-ch-1-10.md](275-rsf-nazacts-bk-5-ch-1-10.md) |
+| 276 | [x] | [ ] | RSF - NazActs Bk 5 Ch 11-16 | 43:45 | [276-rsf-nazacts-bk-5-ch-11-16.md](276-rsf-nazacts-bk-5-ch-11-16.md) |
+| 277 | [x] | [ ] | RSF - NazActs Bk 5 Ch 17-23 | 26:32 | [277-rsf-nazacts-bk-5-ch-17-23.md](277-rsf-nazacts-bk-5-ch-17-23.md) |
+| 278 | [x] | [ ] | RSF - NazActs Bk 5 Ch 24-30 | 17:11 | [278-rsf-nazacts-bk-5-ch-24-30.md](278-rsf-nazacts-bk-5-ch-24-30.md) |
+| 279 | [x] | [ ] | RSF - NazActs Bk 5 Ch 31-36 | 9:59 | [279-rsf-nazacts-bk-5-ch-31-36.md](279-rsf-nazacts-bk-5-ch-31-36.md) |
+| 280 | [x] | [ ] | RSF - NazActs Bk 6 Ch 1-10 | 19:43 | [280-rsf-nazacts-bk-6-ch-1-10.md](280-rsf-nazacts-bk-6-ch-1-10.md) |
+| 281 | [x] | [ ] | RSF - NazActs Bk 6 Ch 11-15 | 8:50 | [281-rsf-nazacts-bk-6-ch-11-15.md](281-rsf-nazacts-bk-6-ch-11-15.md) |
+| 282 | [x] | [ ] | RSF - NazActs Bk 7 Ch 1-11 | 13:46 | [282-rsf-nazacts-bk-7-ch-1-11.md](282-rsf-nazacts-bk-7-ch-1-11.md) |
+| 283 | [x] | [ ] | RSF - NazActs Bk 7 Ch 12-24 | 25:34 | [283-rsf-nazacts-bk-7-ch-12-24.md](283-rsf-nazacts-bk-7-ch-12-24.md) |
+| 284 | [x] | [ ] | RSF - NazActs Bk 7 Ch 25-38 | 31:12 | [284-rsf-nazacts-bk-7-ch-25-38.md](284-rsf-nazacts-bk-7-ch-25-38.md) |
+| 285 | [x] | [ ] | RSF - NazActs Bk 8 Ch 1-12 | 21:03 | [285-rsf-nazacts-bk-8-ch-1-12.md](285-rsf-nazacts-bk-8-ch-1-12.md) |
+| 286 | [x] | [ ] | RSF - NazActs Bk 8 Ch 13-25 | 21:33 | [286-rsf-nazacts-bk-8-ch-13-25.md](286-rsf-nazacts-bk-8-ch-13-25.md) |
+| 287 | [x] | [ ] | RSF - NazActs Bk 8 Ch 26-36 | 16:43 | [287-rsf-nazacts-bk-8-ch-26-36.md](287-rsf-nazacts-bk-8-ch-26-36.md) |
 | 288 | [x] | [ ] | RSF - NazActs Bk 8 Ch 37-50 | 39:24 | [288-rsf-nazacts-bk-8-ch-37-50.md](288-rsf-nazacts-bk-8-ch-37-50.md) |
 | 289 | [x] | [ ] | RSF - NazActs Bk 8 Ch 51-56 | 29:18 | [289-rsf-nazacts-bk-8-ch-51-56.md](289-rsf-nazacts-bk-8-ch-51-56.md) |
-| 290 | [ ] | [ ] | RSF - NazActs Bk 8 Ch 57-62 | 25:25 | [290-rsf-nazacts-bk-8-ch-57-62.md](290-rsf-nazacts-bk-8-ch-57-62.md) |
-| 291 | [ ] | [ ] | RSF - NazActs Bk 9 Ch 1-11 | 35:05 | [291-rsf-nazacts-bk-9-ch-1-11.md](291-rsf-nazacts-bk-9-ch-1-11.md) |
-| 292 | [ ] | [ ] | RSF - NazActs Bk 9 Ch 12-30 | 24:45 | [292-rsf-nazacts-bk-9-ch-12-30.md](292-rsf-nazacts-bk-9-ch-12-30.md) |
-| 293 | [ ] | [ ] | RSF - NazActs Bk 9 Ch 31-38 | 21:54 | [293-rsf-nazacts-bk-9-ch-31-38.md](293-rsf-nazacts-bk-9-ch-31-38.md) |
+| 290 | [x] | [ ] | RSF - NazActs Bk 8 Ch 57-62 | 25:25 | [290-rsf-nazacts-bk-8-ch-57-62.md](290-rsf-nazacts-bk-8-ch-57-62.md) |
+| 291 | [x] | [ ] | RSF - NazActs Bk 9 Ch 1-11 | 35:05 | [291-rsf-nazacts-bk-9-ch-1-11.md](291-rsf-nazacts-bk-9-ch-1-11.md) |
+| 292 | [x] | [ ] | RSF - NazActs Bk 9 Ch 12-30 | 24:45 | [292-rsf-nazacts-bk-9-ch-12-30.md](292-rsf-nazacts-bk-9-ch-12-30.md) |
+| 293 | [x] | [ ] | RSF - NazActs Bk 9 Ch 31-38 | 21:54 | [293-rsf-nazacts-bk-9-ch-31-38.md](293-rsf-nazacts-bk-9-ch-31-38.md) |
 | 294 | [ ] | [ ] | RSF - NazActs Bk 10 Ch 1-13 | 35:19 | [294-rsf-nazacts-bk-10-ch-1-13.md](294-rsf-nazacts-bk-10-ch-1-13.md) |
 | 295 | [ ] | [ ] | RSF - NazActs Bk 10 Ch 14-34 | 32:55 | [295-rsf-nazacts-bk-10-ch-14-34.md](295-rsf-nazacts-bk-10-ch-14-34.md) |
 | 296 | [ ] | [ ] | RSF - NazActs Bk 10 Ch 35-52 | 25:12 | [296-rsf-nazacts-bk-10-ch-35-52.md](296-rsf-nazacts-bk-10-ch-35-52.md) |
