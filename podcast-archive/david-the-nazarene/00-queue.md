@@ -150,10 +150,10 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 139 | [x] | [ ] | Who Is God's Chosen People™? | 47:12 | [139-who-is-god-s-chosen-people.md](139-who-is-god-s-chosen-people.md) |
 | 140 | [x] | [ ] | The Greater Exodus and David The Prince | 57:01 | [140-the-greater-exodus-and-david-the-prince.md](140-the-greater-exodus-and-david-the-prince.md) |
 | 141 | [ ] | [ ] | The Greater Exodus Preliminary Comments | 46:25 | [141-the-greater-exodus-preliminary-comments.md](141-the-greater-exodus-preliminary-comments.md) |
-| 142 | [ ] | [ ] | The Greater Exodus In Isaiah | 1:25:29 | [142-the-greater-exodus-in-isaiah.md](142-the-greater-exodus-in-isaiah.md) |
-| 143 | [ ] | [ ] | The Greater Exodus In Jeremiah | 1:50:43 | [143-the-greater-exodus-in-jeremiah.md](143-the-greater-exodus-in-jeremiah.md) |
-| 144 | [ ] | [ ] | The Greater Exodus In Ezekiel | 2:04:00 | [144-the-greater-exodus-in-ezekiel.md](144-the-greater-exodus-in-ezekiel.md) |
-| 145 | [ ] | [ ] | The Greater Exodus In Hosea | 1:30:38 | [145-the-greater-exodus-in-hosea.md](145-the-greater-exodus-in-hosea.md) |
+| 142 | [x] | [ ] | The Greater Exodus In Isaiah | 1:25:29 | [142-the-greater-exodus-in-isaiah.md](142-the-greater-exodus-in-isaiah.md) |
+| 143 | [x] | [ ] | The Greater Exodus In Jeremiah | 1:50:43 | [143-the-greater-exodus-in-jeremiah.md](143-the-greater-exodus-in-jeremiah.md) |
+| 144 | [x] | [ ] | The Greater Exodus In Ezekiel | 2:04:00 | [144-the-greater-exodus-in-ezekiel.md](144-the-greater-exodus-in-ezekiel.md) |
+| 145 | [x] | [ ] | The Greater Exodus In Hosea | 1:30:38 | [145-the-greater-exodus-in-hosea.md](145-the-greater-exodus-in-hosea.md) |
 | 146 | [ ] | [ ] | The Greater Exodus In Amos | 1:07:18 | [146-the-greater-exodus-in-amos.md](146-the-greater-exodus-in-amos.md) |
 | 147 | [ ] | [ ] | The Greater Exodus In Obadiah | 33:06 | [147-the-greater-exodus-in-obadiah.md](147-the-greater-exodus-in-obadiah.md) |
 | 148 | [ ] | [ ] | The Greater Exodus In Micah | 59:00 | [148-the-greater-exodus-in-micah.md](148-the-greater-exodus-in-micah.md) |

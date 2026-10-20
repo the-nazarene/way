@@ -1,10 +1,19 @@
 # Processing Roadmap
 
-Every source people hand us goes here: YouTube links, Google Drive links, documents, transcripts. It's the full inventory, with the name of the person who gave it to us, and the order we're working through it. Nothing gets dropped. A backlog is fine as long as it's listed.
+Every source people hand us goes here: YouTube links, Google Drive links, PDFs, Word documents, transcripts. It's the full inventory, with the name of the person who gave it to us, and the order we're working through it. Nothing gets dropped. A backlog is fine as long as it's listed.
+
+## Goals
+
+We refine these over time. Change them here when Rex and Matt agree on something new.
+
+1. **A full, thorough inventory.** Every item anyone sends us is listed, with who contributed it, when, and where it lives now. Nothing falls through the cracks, even if processing waits.
+2. **Everything in Markdown.** PDFs, Word documents, transcripts, web pages: all of it gets converted to Markdown files, so it's saved in one format we can search and read efficiently.
+3. **Process into research.** Once it's in Markdown, we read it, write notes, and feed what holds up into the research files.
+4. **Publish only what we're allowed to.** The repo is public. Public-domain texts and contributors' own work go in the repo as full text. Copyrighted books are converted too, but kept out of the public repo; the repo gets notes and short quotes instead (see `CONTRIBUTING.md`).
 
 ## How Rex and Matt use this
 
-1. **Drop the links into a Claude session** and say who they came from. Claude checks for duplicates, logs every item in the inventory below with the contributor's name, and sets up the files.
+1. **Drop the links into a Claude session** and say who they came from. Claude checks for duplicates, logs every item in the inventory below with the contributor's name, downloads it, and converts it to Markdown.
 2. **Ask "what's next on the processing roadmap?"** Claude answers from the Next Up list.
 3. **Claim an item** by putting your name in its Who column, so the two of you don't double up.
 4. **After any processing,** run `python scripts/processing-status.py` to refresh the status table.
@@ -17,15 +26,21 @@ In order. Put your name in **Who** when you take one.
 
 | # | Item | Contributed by | Who | Done |
 |---|---|---|---|---|
-| 1 | Shabbat Studies overview: one page on the series plus a single combined "claims to check" list (the chapter notes repeat several items) | Chris Crutchfield | | [ ] |
-| 2 | Ask Chris for his sources: Joseph of Arimathea as Jesus's father; the Petrine text calling it "a religion of blood"; the Edomite priesthood since 160 BC | Chris Crutchfield | | [ ] |
-| 3 | Feed Shabbat Studies material into research files: Ch 3 additions on sacrifice (1 Samuel 15:22, Hosea 4, Ahaz in 2 Kings 16, altar logistics); "cease from sacrificing" is Panarion 30.16.5, not the Clementines; Ch 4D's Galatians 3 material matches `OPEN-RESEARCH.md` item 2 | Chris Crutchfield | | [ ] |
-| 4 | Finish David The Nazarene transcripts (download stopped at 95 of 370; YouTube rate-limits it; an Apify token would finish it in minutes) | Chris Crutchfield | | [ ] |
-| 5 | Confirm whether David The Nazarene is David Notsari (guest on The Jesus Way episode 23) | Chris Crutchfield | | [ ] |
-| 6 | Pull SixSeven Podcast transcripts (34) | Chris Crutchfield | | [ ] |
-| 7 | Notes on David The Nazarene, starting with the Paul, sacrifice and Ebionite series | Chris Crutchfield | | [ ] |
-| 8 | Audit the Panarion passages we quote (Nazarenes, Ebionites) against the Greek | Craig Wescoe | | [ ] |
-| 9 | Read SixSeven Podcast transcripts and decide what, if anything, goes deeper | Chris Crutchfield | | [ ] |
+| 1 | Scott's videos: Matt has processed these; push them and add them to the inventory | (Matt to fill in) | Matt | [ ] |
+| 2 | Tabor material | (Matt to fill in) | Matt | [ ] |
+| 3 | Name the contributor of the 2026-10-20 Google Drive batch (6 links, 11 works) | not yet named | Rex | [ ] |
+| 4 | Decide where the full Markdown of copyrighted books lives (they can't go in the public repo): Rex's local `/Incoming/`, a private repo, or a shared drive | Drive batch 2026-10-20 | Rex + Matt | [ ] |
+| 5 | Add the public-domain Drive texts to `christianity/Incoming/` with source headers and register them in `VERIFIED-SOURCES.md`: Book of Jasher (1840 translation), 1 Maccabees (KJV Apocrypha). For Jubilees and Enoch, use R.H. Charles's full public-domain translations rather than the partial and "simplified" Drive copies | Drive batch 2026-10-20 | | [ ] |
+| 6 | Notes files for the two big Paul books, *Jesus' Words Only* (Del Tondo) and *Questioning Paul* (Yada Yah): summary, main arguments, claims to check. Both are already cited in Shabbat Studies Ch 4 and on David The Nazarene's channel | Drive batch 2026-10-20 | | [ ] |
+| 7 | Shabbat Studies overview: one page on the series plus a single combined "claims to check" list (the chapter notes repeat several items) | Chris Crutchfield | | [ ] |
+| 8 | Ask Chris for his sources: Joseph of Arimathea as Jesus's father; the Petrine text calling it "a religion of blood"; the Edomite priesthood since 160 BC | Chris Crutchfield | | [ ] |
+| 9 | Feed Shabbat Studies material into research files: Ch 3 additions on sacrifice (1 Samuel 15:22, Hosea 4, Ahaz in 2 Kings 16, altar logistics); "cease from sacrificing" is Panarion 30.16.5, not the Clementines; Ch 4D's Galatians 3 material matches `OPEN-RESEARCH.md` item 2 | Chris Crutchfield | | [ ] |
+| 10 | Finish David The Nazarene transcripts (download stopped at 99 of 370; YouTube rate-limits it; an Apify token would finish it in minutes) | Chris Crutchfield | | [ ] |
+| 11 | Confirm whether David The Nazarene is David Notsari (guest on The Jesus Way episode 23) | Chris Crutchfield | | [ ] |
+| 12 | Pull SixSeven Podcast transcripts (34) | Chris Crutchfield | | [ ] |
+| 13 | Notes on David The Nazarene, starting with the Paul, sacrifice and Ebionite series | Chris Crutchfield | | [ ] |
+| 14 | Audit the Panarion passages we quote (Nazarenes, Ebionites) against the Greek | Craig Wescoe | | [ ] |
+| 15 | Read SixSeven Podcast transcripts and decide what, if anything, goes deeper | Chris Crutchfield | | [ ] |
 
 ---
 
@@ -36,7 +51,7 @@ In order. Put your name in **Who** when you take one.
 
 | Source | Contributed by | Items | Transcripts | Notes | Queue |
 |---|---|---|---|---|---|
-| David The Nazarene | Chris Crutchfield, 2026-10-19 | 370 | 95 of 370 | 0 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
+| David The Nazarene | Chris Crutchfield, 2026-10-19 | 370 | 99 of 370 | 0 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
 | Shabbat Studies with Jen & Chris | Chris Crutchfield, 2026-10-19 | 10 | 10 of 10 | 10 of 10 | [queue](podcast-archive/shabbat-studies/00-queue.md) |
 | SixSeven Podcast | Chris Crutchfield, 2026-10-19 | 34 | 0 of 34 | 0 of 34 | [queue](podcast-archive/sixseven-podcast/00-queue.md) |
 <!-- STATUS:END -->
@@ -49,6 +64,14 @@ Every item, newest first. One row per link or file as it was given to us.
 
 | Received | Contributed by | Item | Type | Link | Where it lives | Status |
 |---|---|---|---|---|---|---|
+| 2026-10-20 | Matt (source: Scott) | Scott's videos | Videos | (Matt to fill in) | Not yet pushed | Matt has processed; push pending |
+| 2026-10-20 | Matt | Tabor material | (Matt to fill in) | (Matt to fill in) | Not yet pushed | In progress with Matt |
+| 2026-10-20 | not yet named (sent by Rex) | "6_Books and PDFs": Clementine Homilies (21 PDFs), Nazarene Acts / Recognitions, Book of Jasher, Jubilees ch 1-9, 1 Maccabees, Book of Enoch "simplified" | Drive folder, 26 PDFs | [folder](https://drive.google.com/drive/folders/1ZV-BJkxRrj1EaC60aYkZ2IFeYxCA012k) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | not yet named (sent by Rex) | *Questioning Paul: Apostle or False Prophet*, Yada Yah | Drive folder, 13 PDFs | [folder](https://drive.google.com/drive/folders/1Xt5QPXDzA_blh-zufAt1BySAgPWazCNZ) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | not yet named (sent by Rex) | *Jesus' Words Only*, 2007 edition, Douglas Del Tondo | Drive folder, 23 PDFs | [folder](https://drive.google.com/drive/folders/1DDHS1TRt8TzfllAVI54iw7JqOAoGxZzP) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | not yet named (sent by Rex) | "Denominational Testimony", Walter J. Veith (amazingdiscoveries.org, 2009) | Drive file, PDF of a web article | [file](https://drive.google.com/file/d/1NM8ZcNYcKq4WofJwDLZLjylzplsrT67r/view) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | not yet named (sent by Rex) | "Origin of Christianity and Judaism", Manfred Davidmann (1994) | Drive file, PDF of a web article | [file](https://drive.google.com/file/d/1Fhq9e0xjtiB5PIg0vx41a4E_REl5diHD/view) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
+| 2026-10-20 | not yet named (sent by Rex) | "Where did the term 'Christian' come from?" (web article, author not named) | Drive file, PDF of a web article | [file](https://drive.google.com/file/d/1RSMPF_pbLh4KighuyxeHOup_JSKz0i7B/view) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
 | 2026-10-19 | Chris Crutchfield | Shabbat Studies with Jen & Chris: who Jesus was, how the Bible was assembled, priests vs. prophets on sacrifice, Paul, recap | YouTube playlist, 10 videos, about 27 hours | [playlist](https://www.youtube.com/playlist?list=PLDRRnEIEvT3ITdxgosym8jwlvigIT4vrx) | `podcast-archive/shabbat-studies/` | Transcripts and notes done |
 | 2026-10-19 | Chris Crutchfield | David The Nazarene: Nazarene/Ebionite teaching on Jesus and Paul, sacrifice, diet, James, Dead Sea Scrolls, Revelation, readings from *The Rock of a Sure Foundation* | YouTube channel, 369 videos + 1 short | [@DavidTheNazarene](https://www.youtube.com/@DavidTheNazarene) | `podcast-archive/david-the-nazarene/` | Transcripts in progress |
 | 2026-10-19 | Chris Crutchfield | SixSeven Podcast: current events, end times, conversations with guests. Claude flagged as mostly outside this repo's core topics; read before deciding | YouTube channel, 34 videos | [@SixSevenPodcast](https://www.youtube.com/@SixSevenPodcast) | `podcast-archive/sixseven-podcast/` | Listed, transcripts not started |
@@ -60,6 +83,8 @@ Every item, newest first. One row per link or file as it was given to us.
 |---|---|---|
 | Craig Wescoe | Epiphanius, *Panarion* | 2026-10-17 |
 | Chris Crutchfield | Shabbat Studies with Jen & Chris, David The Nazarene, SixSeven Podcast | 2026-10-19 |
+| Matt Fracek | Scott's videos, Tabor material (in progress) | 2026-10-20 |
+| not yet named | Google Drive batch: 3 folders, 3 files (11 works) | 2026-10-20 |
 
 Every file made from a contribution carries a `**Contributed by:**` line with the person's name and the date.
 
@@ -73,33 +98,59 @@ For Claude and for anyone adding sources by hand.
 
 1. **Check for duplicates first.** Run `python scripts/processing-status.py --check <link> [<link> ...]`. It reports anything already in the repo and where.
 2. **Log it in the inventory before processing it,** even if processing is weeks away. Date received, who gave it to us, what it is, the link.
-3. **Credit the contributor** in the inventory, the contributors table, and a `**Contributed by:** Name, date` line in every file made from it. If the name isn't known yet, use a placeholder like "from 1234" (last four digits only, never a full phone number) and replace it when we learn the name.
-4. **Describe, don't judge.** Contributors share this repo and read this file. Say what a source covers. Order of work goes in Next Up, not in labels on the source.
-5. **Add the next steps to Next Up** with the contributor's name.
+3. **Credit the contributor** in the inventory, the contributors table, and a `**Contributed by:** Name, date` line in every file made from it. If the name isn't known yet, use a placeholder like "from 1234" (last four digits only, never a full phone number) or "not yet named", and replace it when we learn the name.
+4. **Convert to Markdown.** Every file ends up as Markdown, one file per work (join multi-part PDFs in order).
+5. **Check the rights before anything goes public.** Public domain or the contributor's own work: full text in the repo. Copyrighted: Markdown stays out of the public repo; the repo gets notes. Record the rights status in the batch details.
+6. **Describe, don't judge.** Contributors share this repo and read this file. Say what a source covers. Order of work goes in Next Up, not in labels on the source.
+7. **Add the next steps to Next Up** with the contributor's name.
 
 **By type**
 
 | What we get | What to do |
 |---|---|
-| A YouTube video, playlist or channel | List every video with `yt-dlp --flat-playlist`. Make a folder in `podcast-archive/<creator>/` with one file per video (header: title, creator, source link, length, Contributed by) and a `00-queue.md` checklist. Pull captions with `python scripts/pull-transcripts.py`. |
+| A YouTube video, playlist or channel | List every video with `yt-dlp --flat-playlist`, including the channel's playlists (they can hold videos missing from the videos tab). Make a folder in `podcast-archive/<creator>/` with one file per video (header: title, creator, source link, length, Contributed by) and a `00-queue.md` checklist. Pull captions with `python scripts/pull-transcripts.py`. |
 | A video with no captions | Download the audio and transcribe locally with Whisper (large-v3-turbo), as done for Jesus Way 045 and Shabbat Studies Ch 2. Say so in the transcript note. |
 | A transcript someone already made | Put it in the matching `podcast-archive/` file under `## Full Transcript`, and note who made it and how. |
-| A Google Drive file or folder | Download it into the root `/Incoming/` folder (local only, never pushed). If it's private, ask the contributor to set "anyone with the link." Then decide where it belongs. |
-| A Google Doc | Export as text or Markdown into `/Incoming/`, then the same as a Drive file. |
-| A book, PDF or primary text | Public domain or the contributor's own work only (see `CONTRIBUTING.md` on copyright). Primary texts go in `christianity/Incoming/` with a full source header, then get registered in `VERIFIED-SOURCES.md`. |
+| A Google Drive file or folder | Download into the root `/Incoming/` folder (local only, never pushed). Public links download directly; if it's private, ask the contributor to set "anyone with the link." List subfolders too. |
+| A PDF with real text | Convert with `pdftotext` (installed) or `markitdown`. Check the result reads in order. |
+| A scanned PDF (images, no text) | Needs OCR. Flag it in the batch details before converting. |
+| A Word document or Google Doc | Convert with `markitdown` (`uvx --from "markitdown[docx]" markitdown file.docx`), or export a Google Doc as Markdown. |
+| A book or primary text | Public domain or the contributor's own work: `christianity/Incoming/` with a full source header, then register in `VERIFIED-SOURCES.md`. Copyrighted: keep the Markdown private and write a notes file for the repo. |
 | A website or article | Save the link and a short description in the inventory. Quote only short attributed excerpts. |
 
-**Notes are pointers, not proof.** Video notes record what the speakers argue and list "claims to check." Nothing from a transcript is quoted as a source. See `questions/CITATION-NOTES.md`.
+**Notes are pointers, not proof.** Notes record what a source argues and list "claims to check." Nothing from a transcript or secondary book is quoted as a primary source. See `questions/CITATION-NOTES.md`.
 
 ---
 
 ## Batch Details
+
+### 2026-10-20 — Google Drive batch (contributor not yet named)
+
+Sent by Rex: 3 folders and 3 single files. All six links were public and all 65 PDFs downloaded. All have real text (no scans). Converted to 11 Markdown files, one per work, about 1.16 million words in total. Everything sits in Rex's local `/Incoming/drive-2026-10-20/` (PDFs, plus `markdown/`) until each item's rights are settled.
+
+| Work | Author / translator | Words | Rights | Already in repo? | Needs attention |
+|---|---|---|---|---|---|
+| Clementine Homilies (21 PDFs, New Advent printouts) | Thomas Smith et al., Ante-Nicene Fathers vol. 8 (1886) | 114,000 | Public domain translation | Yes, `christianity/Incoming/clementine-homilies-full-text.md` (same ANF translation) | Duplicate in content; keep as a cross-check only. The repo file's header names Peter Peterson and New Advent names Thomas Smith; the ANF volume credits its Clementine translations to more than one translator, so the repo header is worth checking |
+| *The Nazarene Acts of the Apostles* (Recognitions of Clement, "True Names Translation") | Jackson H. Snyder, Theodore A. Dornan, Chris Plourde, on Thomas Smith's translation | 135,000 | © 2007-2010 Jackson H. Snyder, all rights reserved | Smith's public-domain Recognitions is, as `clementine-recognitions-full-text.md` | Can't publish in full. Likely the "Nazarene Acts" text David The Nazarene reads on his channel |
+| Book of Jasher | J.H. Parry edition (1887) of the 1840 translation | 175,000 | Public domain | No | Ready to add. The PDF opens with a modern web introduction by an unnamed compiler; leave that out |
+| Book of Jubilees, chapters 1-9 only | R.H. Charles translation, via theforbiddenknowledge.com | 13,000 | Translation public domain | Excerpts only | Partial. Add the full Charles text from a clean source instead |
+| 1 Maccabees ("version 2") | KJV Apocrypha | 25,000 | Public domain | No | Ready to add |
+| Book of Enoch, "Simplified Version" | Charles-based text edited by sherryshriner.com | 39,000 | Base text public domain; the edits are unclear | Excerpts only | Use R.H. Charles's 1917 translation instead of the edited version |
+| *Jesus' Words Only* (2007), 23 chapters and appendices | Douglas Del Tondo | 188,000 | Copyrighted (appears to be distributed free online by the author) | No | Notes file for the repo; full text only with the author's permission |
+| *Questioning Paul* (13 chapters) | Yada Yah (pen name) | 452,000 | Copyrighted (appears to be distributed free online) | No | Notes file for the repo; full text only with permission. Very large |
+| "Origin of Christianity and Judaism" | Manfred Davidmann | 14,000 | © 1994, all rights reserved | No | Notes only |
+| "Denominational Testimony" | Walter J. Veith (amazingdiscoveries.org) | 1,000 | Copyrighted web article | No | Notes only; it's mostly quotations from denominational sources, which can be cited directly |
+| "Where did the term 'Christian' come from?" | Not named (cites fossilizedcustoms.com) | 3,500 | Copyrighted web article | No | Notes only. Several of its claims overlap the Shabbat Studies "claims to check" (Christos and Mithras) |
+
+**Audit of this batch:** every file in every folder was downloaded, including the "Homilies of Peter" subfolder; `.DS_Store` files were skipped. The folder name "6_Books and PDFs" suggests it may be one of a numbered set. Worth asking the contributor whether folders 1 to 5 exist.
 
 ### 2026-10-19 — Three YouTube links from Chris Crutchfield
 
 **Sent by:** Chris Crutchfield, texted to Rex in the group chat.
 **Whose content:** Chris's own work plus one teacher he follows. Per the Shabbat Studies descriptions, the series is hosted by Jen and her husband Chris, and "Chris is @SixSevenPodcast."
 **Plan:** pull every transcript from all three links, then read and decide what goes deeper.
+
+**Completeness audit (2026-10-20):** every video on both channels' videos, shorts and live tabs, every Shabbat Studies video, and every video in both channels' playlists was checked against the archive. Everything David, Chris and Jen made is listed. Not listed, because other creators made them: one video by another channel inside David's "Seek First God's Justice" playlist ("Righteousness or Justice?", https://www.youtube.com/watch?v=jdcIkbAMWKA), and four videos in David's Favorites list (plus one private or deleted).
 
 **Shabbat Studies processing (six chunks, done)**
 
