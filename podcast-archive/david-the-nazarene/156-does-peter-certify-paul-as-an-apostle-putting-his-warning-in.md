@@ -1,6 +1,6 @@
 # Does Peter "Certify" Paul as an Apostle?  Putting His Warning In The Correct Context
 
-**Creator:** David The Nazarene
+**Creator:** David The Nazarene (David H. Notsari; also the guest on The Jesus Way episode 23)
 **Source:** [YouTube](https://www.youtube.com/watch?v=5GobYh6Px08)
 **Length:** 41:05
 **Contributed by:** Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 (both shared the channel link)

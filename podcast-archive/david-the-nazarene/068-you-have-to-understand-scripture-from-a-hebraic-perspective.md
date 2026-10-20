@@ -1,6 +1,6 @@
 # "You Have To Understand Scripture From a Hebraic Perspective" (if you want to fall into the ditch)
 
-**Creator:** David The Nazarene
+**Creator:** David The Nazarene (David H. Notsari; also the guest on The Jesus Way episode 23)
 **Source:** [YouTube](https://www.youtube.com/watch?v=xZnb3tTzUdI)
 **Length:** 30:53
 **Contributed by:** Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 (both shared the channel link)

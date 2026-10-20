@@ -1,6 +1,6 @@
 # RSF - The Letter From Clement to James
 
-**Creator:** David The Nazarene
+**Creator:** David The Nazarene (David H. Notsari; also the guest on The Jesus Way episode 23)
 **Source:** [YouTube](https://www.youtube.com/watch?v=Wd0fs_0eTzI)
 **Length:** 29:40
 **Contributed by:** Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 (both shared the channel link)

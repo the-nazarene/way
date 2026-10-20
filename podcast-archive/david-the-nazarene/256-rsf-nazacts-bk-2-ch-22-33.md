@@ -1,6 +1,6 @@
 # RSF - NazActs Bk 2 Ch 22-33
 
-**Creator:** David The Nazarene
+**Creator:** David The Nazarene (David H. Notsari; also the guest on The Jesus Way episode 23)
 **Source:** [YouTube](https://www.youtube.com/watch?v=0tpiY4CXYNc)
 **Length:** 19:52
 **Contributed by:** Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 (both shared the channel link)

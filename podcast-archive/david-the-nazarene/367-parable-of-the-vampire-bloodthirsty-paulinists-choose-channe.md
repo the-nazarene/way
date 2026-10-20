@@ -1,6 +1,6 @@
 # Parable of the Vampire?  Bloodthirsty Paulinists Choose Channelled Priestly Texts Over God's Will
 
-**Creator:** David The Nazarene
+**Creator:** David The Nazarene (David H. Notsari; also the guest on The Jesus Way episode 23)
 **Source:** [YouTube](https://www.youtube.com/watch?v=2A3xbrmPc-Q)
 **Length:** 2:35:15
 **Contributed by:** Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 (both shared the channel link)

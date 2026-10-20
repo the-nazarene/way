@@ -1,6 +1,6 @@
 # Who Is Esau : Edom? Pt 3 - Identified In The New Testament
 
-**Creator:** David The Nazarene
+**Creator:** David The Nazarene (David H. Notsari; also the guest on The Jesus Way episode 23)
 **Source:** [YouTube](https://www.youtube.com/watch?v=aIzlzo7dq8E)
 **Length:** 39:12
 **Contributed by:** Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 (both shared the channel link)

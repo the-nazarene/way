@@ -1,6 +1,6 @@
 # The Antichrist and the Abomination of Desolation - Uncovering the Meanings in Matthew 24
 
-**Creator:** David The Nazarene
+**Creator:** David The Nazarene (David H. Notsari; also the guest on The Jesus Way episode 23)
 **Source:** [YouTube](https://www.youtube.com/watch?v=_Wzk0AuD-vs)
 **Length:** 58:18
 **Contributed by:** Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 (both shared the channel link)

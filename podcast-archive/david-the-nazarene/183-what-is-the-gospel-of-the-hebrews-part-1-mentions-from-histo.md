@@ -1,6 +1,6 @@
 # What Is The Gospel of The Hebrews? Part 1   Mentions from History
 
-**Creator:** David The Nazarene
+**Creator:** David The Nazarene (David H. Notsari; also the guest on The Jesus Way episode 23)
 **Source:** [YouTube](https://www.youtube.com/watch?v=iaHAV_ytulg)
 **Length:** 43:05
 **Contributed by:** Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 (both shared the channel link)

@@ -1,6 +1,6 @@
 # Who Is Esau/Edom? Pt1 - Of Birthrights and Blessings
 
-**Creator:** David The Nazarene
+**Creator:** David The Nazarene (David H. Notsari; also the guest on The Jesus Way episode 23)
 **Source:** [YouTube](https://www.youtube.com/watch?v=mVw1tkaL4XQ)
 **Length:** 1:36:30
 **Contributed by:** Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 (both shared the channel link)

@@ -1,7 +1,7 @@
 # Episode 23: Exposing Paul: The FALSE PROPHET Who Hijacked The Gospel (ft. David Notsari)
 
 **Hosts:** Aaron Abke & James Benefico
-**Guest:** David Notsari
+**Guest:** David Notsari (his YouTube channel is David The Nazarene; 370 videos in `podcast-archive/david-the-nazarene/`)
 **Source:** [YouTube](https://www.youtube.com/watch?v=4jdfQ9YwqYs)
 **Published:** October 9, 2025
 **Duration:** 2 hours 34 minutes

@@ -1,6 +1,6 @@
 # RSF - NazActs Bk 5 Ch 11-16
 
-**Creator:** David The Nazarene
+**Creator:** David The Nazarene (David H. Notsari; also the guest on The Jesus Way episode 23)
 **Source:** [YouTube](https://www.youtube.com/watch?v=W4AkN72ITlo)
 **Length:** 43:45
 **Contributed by:** Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 (both shared the channel link)

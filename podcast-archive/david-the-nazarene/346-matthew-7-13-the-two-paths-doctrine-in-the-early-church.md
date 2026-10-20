@@ -1,6 +1,6 @@
 # Matthew 7:13 - The Two Paths Doctrine in the Early Church
 
-**Creator:** David The Nazarene
+**Creator:** David The Nazarene (David H. Notsari; also the guest on The Jesus Way episode 23)
 **Source:** [YouTube](https://www.youtube.com/watch?v=Rjh2sW58GPQ)
 **Length:** 48:19
 **Contributed by:** Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 (both shared the channel link)

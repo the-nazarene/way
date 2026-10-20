@@ -1,6 +1,6 @@
 # James Epistle Is a Response to Galatians & 2nd Corinthians
 
-**Creator:** David The Nazarene
+**Creator:** David The Nazarene (David H. Notsari; also the guest on The Jesus Way episode 23)
 **Source:** [YouTube](https://www.youtube.com/watch?v=l8SklRjJ3jw)
 **Length:** 1:13:31
 **Contributed by:** Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 (both shared the channel link)

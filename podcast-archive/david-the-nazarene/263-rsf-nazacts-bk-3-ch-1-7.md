@@ -1,6 +1,6 @@
 # RSF - NazActs Bk 3 Ch 1-7
 
-**Creator:** David The Nazarene
+**Creator:** David The Nazarene (David H. Notsari; also the guest on The Jesus Way episode 23)
 **Source:** [YouTube](https://www.youtube.com/watch?v=j8McHiw-Irs)
 **Length:** 35:15
 **Contributed by:** Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 (both shared the channel link)
