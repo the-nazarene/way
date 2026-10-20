@@ -10,7 +10,60 @@
 
 ## Summary
 
-*Notes pending.*
+A sermon on loyalty, built from Jesus's words about his own words (John 5:43, 12:48; 2 John 9; John 14:6, 14:23-24; Matthew 15:8-9, 23:8-12; John 5:39), and then from a chain of gate and house images he reads as pointing at Paul. He credits Douglas Del Tondo (*Jesus' Words Only*) for several of the links. The chain: Matthew 5:17-19's "called least" and the Latin *paulus / pauxillus* ("least"); the identical consonants of Sheol and Sha'ul, with a Judaism StackExchange comment that the root means "foolish"; Matthew 16:18's "gates of Sheol" as possibly "gates of Saul," set against Peter's keys, which he takes as Jesus's endorsement of the Clementine Peter; Hegesippus's "what is the gate of Jesus" at James's death; Matthew 7:13-27 (narrow gate, ravening wolves with Genesis 49:27, Lord Lord, the two houses) read as Pauline Christianity being the wide way; Isaiah 28:14-18 as the source of the two houses, with "your agreement with Sheol/Sha'ul shall not stand" as God annulling the covenant people make with Paul; Psalm 118:19-22 (the gate of YHWH, the rejected stone), with Romans 9:33 charged with turning Isaiah's cornerstone into a rock of offense by splicing Isaiah 28:16 and 8:14; Habakkuk 2:4-12 (*emunah* as faithfulness; "enlarges his desire as Sheol/Sha'ul... gathers all nations"; "builds a town with blood") with the Habakkuk Pesher's Spouter of Lies, Eisenman's identification of him as Paul, and Paul the "wise master builder"; and John 9:39-10:18 (the door, the thief who climbs another way, the hired hand, the wolf, the other sheep), with Peter as the one who entered by the door.
+
+Two long personal sections follow (his own path away from Paul since about 2017, jobs, a divorce and remarriage, a near-accident, moving before the pandemic), offered as his experience of "not having to flee"; and a reading of the "other sheep" as the ten tribes who became the Celtic, Anglo-Saxon and Scandinavian peoples, with the Edomite takeover of Judea after Hyrcanus. He closes with Clementine *Homilies* 17.19 read aloud as Peter addressing Paul, and Revelation 2:4's "first love" as Jesus himself.
+
+## Key Points
+
+- John 5:43 ("if another comes in his own name") and "my gospel"; John 12:48, 2 John 9 (after 70, nothing changed); 2 Corinthians 5:16 and dispensationalism as the counter-doctrine; John 14:6, 23-24; Matthew 15:8-9 and 23:8-12. [00:00]-[13:57]
+- Loyalty to Jesus is not loyalty to a book (John 5:39); hearing God's voice; *Recognitions* 1.14-16 (the smoke-filled room). [13:57]-[22:00]
+- Matthew 5:17-19 and *pauxillus*; Sheol/Sha'ul spelled alike; the "foolish" root. [22:00]-[29:36]
+- Matthew 16:18, "gates of Sheol" or "gates of Saul"; Peter's keys as the warrant for using the Clementine Peter; Hegesippus's "gate of Jesus." [29:36]-[34:16]
+- Matthew 7:13-20; the Baptist church that never quoted Jesus and the pastor who left in a hurry; Pauline Christianity as the wide way; fruit; Benjamin the wolf and "tribe of Benjamin" as an idiom for a proselyte; Paul an Edomite. [34:16]-[43:36]
+- Matthew 7:21-27; *anomia* as apostasy (Del Tondo); Isaiah 28:14-18 as the two houses; Psalm 118; Romans 9:33 splicing Isaiah 28:16 with 8:14; the Bereans. [43:36]-[56:58]
+- Habakkuk 2:4-12 and the pesher: Spouter of Lies, the city built on blood, "empty" works and James 2:20; Paul the master builder; Masons. [56:58]-[1:07:51]
+- John 9:39-10:18: the door, the thief, the hired hand, the other sheep as the lost tribes in Europe; Hyrcanus and Edom. [1:07:51]-[1:18:09]
+- Personal testimony. [1:18:09]-[1:50:50]
+- *Homilies* 17.19 read as Peter to Paul; Revelation 2:4. [1:50:50]-[1:54:50]
+
+## Sources He Cites
+
+Held (KJV): John 5:39, 5:43, 9:39-10:18, 12:48-50, 14:6, 14:23-24; 2 John 9; Matthew 5:17-19, 7:13-27, 15:8-9, 16:18-19, 23:8-12; 2 Corinthians 5:16; Romans 9:33, 10:9, 11:1; Genesis 49:27; Isaiah 8:14, 28:14-21; Psalm 118:19-22; Habakkuk 2:4-12 (KJV "the just shall live by his faith"; "enlargeth his desire as hell"); 1 Corinthians 3:10; James 1:5, 2:20; Acts 17:11; Revelation 2:4; Luke 20:17-18.
+
+Held (Tier 1): *Homilies* 17.19 (verbatim; he reads it in the Snyder-style wording), *Recognitions* 1.14-16 (the smoke-filled house; Smith text).
+
+Held (Tier 2): Hegesippus via Eusebius 2.23.4-7 (James's life); the "gate of Jesus" exchange is 2.23.12, outside the held excerpt.
+
+Not held: Del Tondo's videos; the Judaism StackExchange page; the Habakkuk Pesher (1QpHab 10:9-13, Eisenman's translation); Eisenman, *The Dead Sea Scrolls and the First Christians* and *James the Brother of Jesus*; Mark Virkler on hearing God's voice; Florence Scovel Shinn, *The Game of Life and How to Play It* (his episode 090); the Shem-Tob Hebrew Matthew; Josephus on Hyrcanus and Idumea (*Ant.* 13.9.1).
+
+## Where This Overlaps the Repo
+
+- Warnings 1, 4, 5 and 6 of his 155 are the same material (least, wolf, Lord Lord, Isaiah 28), and 155's Claims to Check 1-2, 5-7 cover *pauxillus*, the Roman name, Genesis 49:27 in the fathers, Sheol/Sha'ul and dispensationalism. This is the earlier, longer version; cite 155 for the checks.
+- `extended-library/questioning-paul-notes.md` ch. 01 and 03 make the same Sheol/Sha'ul and Habakkuk 2:4-5 readings, and ch. 09's note ("the pun is the author's, not the text's") applies here; `extended-library/jesus-words-only-notes.md` Key Arguments 2, 5, 10 and Claims to Check 6 (*anomia*), 9 (the Hagar/Israel question), 22-23 (Genesis 15:6, Habakkuk 2:4), 25 (the Scrolls' identifications).
+- The Spouter of Lies and the pesher: his 058-059 (Summary of 058 gives the identifications and his own caution that the Kittim dating is contested); `christianity/dead-sea-scrolls/00-overview.md` (`## Open Questions`); `questions/CITATION-NOTES.md` do-not-use list on *ebionim*.
+- Matthew 16:18 and Peter's keys as warrant for the Clementines: `questions/pauls-legitimacy.md` §5 and the Clementines objection ("not first-century documents... we cite them for something narrower"), `christianity/clementine-literature-nazarene-writings.md`.
+- "Loyalty to Jesus is not loyalty to a book": `questions/method-and-criteria.md` §5-6 (the Clementine false-pericopes doctrine; what the repo holds about scripture) is the repo's version of the same stance; his 165, 360-361, 370.
+- Romans 9:33 and the rock of offense: `OPEN-RESEARCH.md` item 2 (Paul's misappropriated texts) is the place for it; not yet in any repo file.
+- The Baptist-church story and the pastor: `podcast-archive/the-jesus-way/023-exposing-paul-false-prophet.md` (`### Personal Testimony: The Baptist Pastor`); he retells it in 191.
+- The lost tribes in Europe and the Edomite leadership: his Esau/Edom series (127-131) and 132-133, 139; nothing in the repo supports or addresses British Israelism, and the Core Thesis does not depend on it.
+
+## Claims to Check
+
+1. *Paulus* contracts *pauxillus* and means "least"; Jesus's "called least" names Paul. See 155, Claims to Check 1.
+2. Sheol and Sha'ul are spelled identically, so Isaiah 28:15, 18, Habakkuk 2:5 and Matthew 16:18 may read "Saul." See 155, Claims to Check 6, for Isaiah; Habakkuk 2:5's *ki-she'ol* is "like Sheol," with "death" in parallel; Matthew 16:18's Greek is *hadēs*, which renders Sheol, and no Hebrew Matthew (Shem-Tob included) is known to read Sha'ul there. Check Howard's text before saying it allows the reading.
+3. The root of Sha'ul means "foolish" (*'ewil*). Sha'ul is from *sha'al*, "to ask" (1 Samuel 1:20 plays on it); *'ewil* (אויל) is a different root. The StackExchange comment is wrong.
+4. "Tribe of Benjamin" was a first-century idiom for a proselyte, and Paul was an Edomite. No lexical or literary evidence for the idiom; Philippians 3:5 ("Hebrew of Hebrews") is the opposite claim. The Edomite/Herodian thesis is Eisenman's (155, Claims to Check 3; 043, Claims to Check 1).
+5. Romans 9:33 "changes the scripture" by splicing Isaiah 28:16 and 8:14. The splice is real and widely noted; 1 Peter 2:6-8 makes the same combination (28:16, 118:22, 8:14), so the conflation was a shared early Christian testimony, not Paul's invention. Worth the OPEN-RESEARCH item 2 file; state both facts.
+6. Matthew 7:24-27 is a retelling of Isaiah 28:14-18. A real echo (foundation, stone, scourge, refuge of lies); Jesus's parable does not quote it, and Luke 6:47-49 has the same parable without Isaiah's vocabulary. Plausible allusion, not a citation.
+7. "The early Christians" connected Habakkuk 2:12 to Paul. The pesher (1QpHab 10) applies 2:12 to the Spouter of Lies; no Christian source applies it to Paul. The identification of the Spouter with Paul is Eisenman's, and the repo dates the pesher to the second century BCE.
+8. The "empty" works of the pesher answer James 2:20's "empty man." Eisenman's suggestion; the Hebrew of 1QpHab 10:11-12 is not held here. Check the column before repeating.
+9. Paul the "wise master builder" (1 Corinthians 3:10) was claimed by the Masons, who are a Jewish organization. Speculative Freemasonry dates from 1717 London and claims many biblical figures in its legend; the "Jewish organization" statement has no basis and should not be repeated in the repo's voice.
+10. The "other sheep" (John 10:16) are the ten tribes who became the Celts, Anglo-Saxons and Vikings. This is British Israelism (19th century); there is no historical or genetic support, and the repo's thesis does not use it. Describe as his view.
+11. Hyrcanus conquered Edom in 135 BCE and Edomites took over Judea's leadership. Josephus (*Ant.* 13.9.1) dates the conquest and forced conversion to c. 125 BCE; the Herodian dynasty was Idumean, the Sadducean and Pharisaic leadership was not. Half right.
+12. *Anomia* in Matthew 7:23 means apostasy. See JWO Claims to Check 6.
+13. Peter's keys (Matthew 16:19) authorize the Clementine Peter. The Clementines are third-fourth-century and pseudonymous (`questions/pauls-legitimacy.md`, the Clementines objection); Matthew 16 cannot vouch for them. His own frame, offered as such.
+14. The Bereans "tested Paul's words against scripture." Acts 17:11 (held) says they searched the scriptures to see whether those things were so; fair as stated here. See 155, Claims to Check 9, for the version that adds Thessalonians.
 
 ---
 

@@ -10,7 +10,41 @@
 
 ## Summary
 
-*Notes pending.*
+A slideshow of quotations about Paul from writers and theologians, read aloud with brief asides. He says the list came from a file on his computer of unknown origin, that versions of it circulate on several websites, and that he added a few quotations of his own. The speakers, in order: V. A. Holmes-Gore (*Christ or Paul?*), Kierkegaard (*Journals*), Renan (*Saint Paul*), Will Durant (*Caesar and Christ*), Robert Frost (*A Masque of Mercy*), James Baldwin (*The Fire Next Time*), Martin Buber (*Two Types of Faith*), Kahlil Gibran (*Jesus the Son of Man*), Helmut Koester, Thomas Jefferson (letter to William Short), Jeremy Bentham (*Not Paul, but Jesus*), F. C. Baur (*Church History of the First Three Centuries*), Gandhi ("Discussion on Fellowship"), Carl Jung ("A Psychological Approach to the Dogma of the Trinity"), George Bernard Shaw (preface to *Androcles and the Lion*), Albert Schweitzer (*Quest* and *Mysticism of Paul*), William Wrede (*Paul*), Rudolf Bultmann ("The Significance of the Historical Jesus for the Theology of Paul"), Walter Bauer (*Orthodoxy and Heresy*), H. L. Mencken (*Notes on Democracy*), S. G. F. Brandon (*Jesus and the Zealots*), and James Tabor (*Paul and Jesus*). The common thread he draws is that Paul's gospel does not repeat or depend on the sayings of Jesus, which the critical scholars on the list (Wrede, Bultmann, Koester, Schweitzer, Bauer, Brandon, Tabor) say as a finding rather than a complaint. His one personal aside: Jefferson's remark about being perhaps the only true follower of Jesus matches how he feels.
+
+## Key Points
+
+- Origin of the list; he is not the first to examine Paul and find him wanting. [00:00]-[01:33]
+- Holmes-Gore, Kierkegaard, Renan, Durant: Paul as the betrayal or alteration of the teaching; conduct replaced by creed. [01:33]-[04:42]
+- Frost, Baldwin, Buber, Gibran, Koester: Paul "theologued Christ almost out of Christianity"; the Sermon on the Mount opposed to Paul; Paul in the "twilight zone of heresy." [04:42]-[06:17]
+- Jefferson ("the first corrupter of the doctrines of Jesus"), with his own paraphrase of Jefferson's "real Christian" letter; Bentham; Baur on an apostle never trained in Jesus's school. [06:17]-[07:51]
+- Gandhi, Jung, Shaw: Paul's letters as a graft; "monstrous imposition." [07:51]-[10:58]
+- Schweitzer, Wrede, Bultmann, Bauer: the three conversion accounts; Jesus's teaching "irrelevant for Paul"; Paul the only arch-heretic of the apostolic age. [10:58]-[14:04]
+- Mencken, Brandon, Tabor. [14:04]-[16:32]
+
+## Sources He Cites
+
+Held: none. Everything here is secondary opinion about Paul; no primary text is read.
+
+Not held: all twenty-two works above. Of these, Jefferson's letters, Bentham, Renan, Baur, Wrede, Schweitzer and Shaw are public domain and checkable online; Durant, Frost, Baldwin, Buber, Gibran, Koester, Jung, Bultmann, Bauer, Mencken, Brandon and Tabor are in copyright. He credits no source for the list itself.
+
+## Where This Overlaps the Repo
+
+- `questions/pauls-legitimacy.md` §2 ("The letters almost never quote Jesus") is the repo's version of the Wrede/Bultmann/Koester/Schweitzer point, stated from the texts rather than from authorities; the card's "Go Deeper" could use a short, verified list of this kind, and does not have one.
+- Tabor's *Paul and Jesus* is the repo's recognized scholarship (CLAUDE.md source hierarchy, tier 7); `podcast-archive/dr-tabor/` holds his lectures, and `OPEN-RESEARCH.md` item 2 is built on them. His own 176 reviews Ehrman's *Jesus, Interrupted*.
+- Jefferson's "first corrupter" line is the title of his 171-173 series; 171 Summary.
+- `questions/method-and-criteria.md` ("This is just the Jesus Seminar / the Jefferson Bible with extra steps") is where the repo answers the objection that this list invites.
+- `questions/CITATION-NOTES.md` (the pattern of quotations entering the repo unverified, two of the first five fabrications having come in through captions) is the reason none of these should be copied from this file.
+
+## Claims to Check
+
+1. The list as a whole. It is a widely copied internet compilation, and such lists carry altered wording; before any of these lines enters a card, open the book. Jefferson to William Short, 13 April 1820 ("Paul was the first corrupter of the doctrines of Jesus") is genuine and online. Shaw's *Androcles* preface, Durant's *Caesar and Christ* (the Paul chapter), Baldwin's *The Fire Next Time*, Frost's *A Masque of Mercy*, Wrede's *Paul* (1907) and Bultmann's 1929 essay contain the substance of what is quoted; exact wording should be checked.
+2. Jefferson said he sometimes wondered if he was Jesus's only true follower. His paraphrase. The documented lines are "I am a real Christian, that is to say, a disciple of the doctrines of Jesus" (to Charles Thomson, 1816) and "I am a Christian, in the only sense in which he wished any one to be" (to Benjamin Rush, 1803).
+3. Buber: "The Jesus of the Sermon on the Mount is completely opposed to Paul." *Two Types of Faith* contrasts Hebrew *emunah* with Pauline *pistis* and treats Jesus as standing within Jewish faith; the sentence as quoted is a summary, not a citation.
+4. Bauer: Paul "the only arch-heretic known to the apostolic age." Bauer's point (*Orthodoxy and Heresy*, ch. 10) is that Jewish Christianity regarded Paul so; the line should be presented as Bauer describing a view, not holding it.
+5. Koester "in the twilight zone of heresy." From "The Theological Aspects of Primitive Christian Heresy" (1964); Koester's larger argument is that orthodoxy and heresy were not yet defined. Fair as quoted, if the context is given.
+6. Schweitzer "did not desire to know Christ." Schweitzer's actual position (*Mysticism of Paul*, ch. 1) is that Paul's Christ-mysticism was indifferent to the earthly Jesus; "did not desire" is a sharpening.
+7. Tabor's line ("the Jesus who most influenced history was the Jesus Christ of Paul") is from *Paul and Jesus* (2012), accurately, and is the one quotation on the list from a scholar the repo already cites.
 
 ---
 

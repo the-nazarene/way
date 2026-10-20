@@ -62,10 +62,10 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 051 | [x] | [x] | James and Paul in The Damascus Document Pt1 | 31:27 | [051-james-and-paul-in-the-damascus-document-pt1.md](051-james-and-paul-in-the-damascus-document-pt1.md) |
 | 052 | [x] | [x] | James and Paul in The Damascus Document Pt2 | 37:01 | [052-james-and-paul-in-the-damascus-document-pt2.md](052-james-and-paul-in-the-damascus-document-pt2.md) |
 | 053 | [x] | [ ] | Are you Being Tested? | 38:32 | [053-are-you-being-tested.md](053-are-you-being-tested.md) |
-| 054 | [x] | [ ] | The Dead Sea Scrolls Community Rule Pt1 | 28:19 | [054-the-dead-sea-scrolls-community-rule-pt1.md](054-the-dead-sea-scrolls-community-rule-pt1.md) |
-| 055 | [x] | [ ] | The Dead Sea Scrolls Community Rule Pt2 | 29:54 | [055-the-dead-sea-scrolls-community-rule-pt2.md](055-the-dead-sea-scrolls-community-rule-pt2.md) |
-| 056 | [x] | [ ] | The Dead Sea Scrolls Community Rule Pt3 | 30:07 | [056-the-dead-sea-scrolls-community-rule-pt3.md](056-the-dead-sea-scrolls-community-rule-pt3.md) |
-| 057 | [x] | [ ] | The Dead Sea Scrolls Community Rule Pt4 | 20:30 | [057-the-dead-sea-scrolls-community-rule-pt4.md](057-the-dead-sea-scrolls-community-rule-pt4.md) |
+| 054 | [x] | [x] | The Dead Sea Scrolls Community Rule Pt1 | 28:19 | [054-the-dead-sea-scrolls-community-rule-pt1.md](054-the-dead-sea-scrolls-community-rule-pt1.md) |
+| 055 | [x] | [x] | The Dead Sea Scrolls Community Rule Pt2 | 29:54 | [055-the-dead-sea-scrolls-community-rule-pt2.md](055-the-dead-sea-scrolls-community-rule-pt2.md) |
+| 056 | [x] | [x] | The Dead Sea Scrolls Community Rule Pt3 | 30:07 | [056-the-dead-sea-scrolls-community-rule-pt3.md](056-the-dead-sea-scrolls-community-rule-pt3.md) |
+| 057 | [x] | [x] | The Dead Sea Scrolls Community Rule Pt4 | 20:30 | [057-the-dead-sea-scrolls-community-rule-pt4.md](057-the-dead-sea-scrolls-community-rule-pt4.md) |
 | 058 | [x] | [x] | Paul and James in the Habakkuk Pesher Pt1 | 29:45 | [058-paul-and-james-in-the-habakkuk-pesher-pt1.md](058-paul-and-james-in-the-habakkuk-pesher-pt1.md) |
 | 059 | [ ] | [ ] | Paul and James in the Habakkuk Pesher Pt2 | 33:35 | [059-paul-and-james-in-the-habakkuk-pesher-pt2.md](059-paul-and-james-in-the-habakkuk-pesher-pt2.md) |
 | 060 | [x] | [ ] | Paul, Masons, & The Illuminati vs. Luke (Plutarch), Pythagoreans, & The Essenes | 27:13 | [060-paul-masons-the-illuminati-vs-luke-plutarch-pythagoreans-the.md](060-paul-masons-the-illuminati-vs-luke-plutarch-pythagoreans-the.md) |
@@ -122,7 +122,7 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 111 | [x] | [ ] | Where are the Men of God At | 2:32 | [111-where-are-the-men-of-god-at.md](111-where-are-the-men-of-god-at.md) |
 | 112 | [x] | [ ] | Too Dumb to Teach?  My Treatise on the Faith YHWH Led Me To. | 2:34:42 | [112-too-dumb-to-teach-my-treatise-on-the-faith-yhwh-led-me-to.md](112-too-dumb-to-teach-my-treatise-on-the-faith-yhwh-led-me-to.md) |
 | 113 | [x] | [x] | Quotes About Paul | 16:32 | [113-quotes-about-paul.md](113-quotes-about-paul.md) |
-| 114 | [x] | [ ] | YHWH Says He's Going to Annul Your Pauline Covenant in Isaiah | 1:54:43 | [114-yhwh-says-he-s-going-to-annul-your-pauline-covenant-in-isaia.md](114-yhwh-says-he-s-going-to-annul-your-pauline-covenant-in-isaia.md) |
+| 114 | [x] | [x] | YHWH Says He's Going to Annul Your Pauline Covenant in Isaiah | 1:54:43 | [114-yhwh-says-he-s-going-to-annul-your-pauline-covenant-in-isaia.md](114-yhwh-says-he-s-going-to-annul-your-pauline-covenant-in-isaia.md) |
 | 115 | [x] | [ ] | Revelation Fulfilled / Chapter 12 | 46:40 | [115-revelation-fulfilled-chapter-12.md](115-revelation-fulfilled-chapter-12.md) |
 | 116 | [x] | [ ] | Revelation Fulfilled / Chapter 13 | 47:30 | [116-revelation-fulfilled-chapter-13.md](116-revelation-fulfilled-chapter-13.md) |
 | 117 | [x] | [ ] | Revelation Fulfilled / Chapter 14 | 49:23 | [117-revelation-fulfilled-chapter-14.md](117-revelation-fulfilled-chapter-14.md) |
@@ -168,7 +168,7 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 157 | [x] | [x] | James Epistle Is a Response to Galatians & 2nd Corinthians | 1:13:31 | [157-james-epistle-is-a-response-to-galatians-2nd-corinthians.md](157-james-epistle-is-a-response-to-galatians-2nd-corinthians.md) |
 | 158 | [ ] | [ ] | We Have Been Intentionally Lied To Through Deliberate Mistranslations of Pisteuo | 29:33 | [158-we-have-been-intentionally-lied-to-through-deliberate-mistra.md](158-we-have-been-intentionally-lied-to-through-deliberate-mistra.md) |
 | 159 | [x] | [ ] | Why Do Christians Hate Jesus' Words? | 1:33:46 | [159-why-do-christians-hate-jesus-words.md](159-why-do-christians-hate-jesus-words.md) |
-| 160 | [x] | [ ] | I Guess Paul’s Writings Are Inspired After All | 1:05:45 | [160-i-guess-paul-s-writings-are-inspired-after-all.md](160-i-guess-paul-s-writings-are-inspired-after-all.md) |
+| 160 | [x] | [x] | I Guess Paul’s Writings Are Inspired After All | 1:05:45 | [160-i-guess-paul-s-writings-are-inspired-after-all.md](160-i-guess-paul-s-writings-are-inspired-after-all.md) |
 | 161 | [ ] | [ ] | Uncovering the True Meaning of 2 Peter 3:16 Using Greek Language Resources | 38:16 | [161-uncovering-the-true-meaning-of-2-peter-3-16-using-greek-lang.md](161-uncovering-the-true-meaning-of-2-peter-3-16-using-greek-lang.md) |
 | 162 | [x] | [ ] | Taking Scripture Out Of Context? Do Y'all Even Know What That Means? | 1:02:51 | [162-taking-scripture-out-of-context-do-y-all-even-know-what-that.md](162-taking-scripture-out-of-context-do-y-all-even-know-what-that.md) |
 | 163 | [x] | [ ] | Why Does 2nd Peter Keep Warning Us Against "Sensuality"? | 47:23 | [163-why-does-2nd-peter-keep-warning-us-against-sensuality.md](163-why-does-2nd-peter-keep-warning-us-against-sensuality.md) |
@@ -178,7 +178,7 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 167 | [x] | [ ] | The Truth About Jesus's Second Coming and What Will Happen In The End Times | 39:36 | [167-the-truth-about-jesus-s-second-coming-and-what-will-happen-i.md](167-the-truth-about-jesus-s-second-coming-and-what-will-happen-i.md) |
 | 168 | [x] | [ ] | Do Your Beliefs Make Jesus a False Prophet?  You Had Better Watch This And Repent Immediately! | 53:57 | [168-do-your-beliefs-make-jesus-a-false-prophet-you-had-better-wa.md](168-do-your-beliefs-make-jesus-a-false-prophet-you-had-better-wa.md) |
 | 169 | [x] | [ ] | The Teachings of Jesus - A Tale of Two Listeners | 48:09 | [169-the-teachings-of-jesus-a-tale-of-two-listeners.md](169-the-teachings-of-jesus-a-tale-of-two-listeners.md) |
-| 170 | [x] | [ ] | Does Paul Quote Scripture Like Jesus Or Satan? | 1:25:59 | [170-does-paul-quote-scripture-like-jesus-or-satan.md](170-does-paul-quote-scripture-like-jesus-or-satan.md) |
+| 170 | [x] | [x] | Does Paul Quote Scripture Like Jesus Or Satan? | 1:25:59 | [170-does-paul-quote-scripture-like-jesus-or-satan.md](170-does-paul-quote-scripture-like-jesus-or-satan.md) |
 | 171 | [x] | [x] | The First Corrupter Of The Doctrines of Jesus - Paul vs The True Church - Part 1 | 59:47 | [171-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md](171-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md) |
 | 172 | [x] | [x] | The First Corrupter Of The Doctrines of Jesus - Paul vs The True Church - Part 2 | 1:11:13 | [172-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md](172-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md) |
 | 173 | [x] | [x] | The First Corrupter Of The Doctrines of Jesus - Paul vs The True Church - Part 3 | 1:17:11 | [173-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md](173-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md) |
@@ -199,8 +199,8 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 188 | [x] | [ ] | Channel Update - Invitation to Baptism, Hearing God's Voice, The Holy Spirit, Ebionite Videos | 23:09 | [188-channel-update-invitation-to-baptism-hearing-god-s-voice-the.md](188-channel-update-invitation-to-baptism-hearing-god-s-voice-the.md) |
 | 189 | [x] | [x] | Ebionite 202: The Ebionite  Understanding Of The Father and The Son | 2:07:26 | [189-ebionite-202-the-ebionite-understanding-of-the-father-and-th.md](189-ebionite-202-the-ebionite-understanding-of-the-father-and-th.md) |
 | 190 | [ ] | [ ] | Free Books From My Personal Library | 11:21 | [190-free-books-from-my-personal-library.md](190-free-books-from-my-personal-library.md) |
-| 191 | [x] | [ ] | Is The Identity Of Paul's Messiah Revealed In The Nazarene Acts? | 1:21:37 | [191-is-the-identity-of-paul-s-messiah-revealed-in-the-nazarene-a.md](191-is-the-identity-of-paul-s-messiah-revealed-in-the-nazarene-a.md) |
-| 192 | [x] | [ ] | Is The Identity Of The Roman Church's "Simon Peter" Really Simon Magus? | 1:15:28 | [192-is-the-identity-of-the-roman-church-s-simon-peter-really-sim.md](192-is-the-identity-of-the-roman-church-s-simon-peter-really-sim.md) |
+| 191 | [x] | [x] | Is The Identity Of Paul's Messiah Revealed In The Nazarene Acts? | 1:21:37 | [191-is-the-identity-of-paul-s-messiah-revealed-in-the-nazarene-a.md](191-is-the-identity-of-paul-s-messiah-revealed-in-the-nazarene-a.md) |
+| 192 | [x] | [x] | Is The Identity Of The Roman Church's "Simon Peter" Really Simon Magus? | 1:15:28 | [192-is-the-identity-of-the-roman-church-s-simon-peter-really-sim.md](192-is-the-identity-of-the-roman-church-s-simon-peter-really-sim.md) |
 | 193 | [x] | [ ] | Covenants, Commitments, and Lawsuits - Seeking God's Justice | 56:11 | [193-covenants-commitments-and-lawsuits-seeking-god-s-justice.md](193-covenants-commitments-and-lawsuits-seeking-god-s-justice.md) |
 | 194 | [x] | [ ] | Understanding The Formation of Religion - Seeking God's Justice | 1:23:39 | [194-understanding-the-formation-of-religion-seeking-god-s-justic.md](194-understanding-the-formation-of-religion-seeking-god-s-justic.md) |
 | 195 | [x] | [ ] | Restoring The Kingdom and Finding The True Path - Seeking God's Justice | 24:07 | [195-restoring-the-kingdom-and-finding-the-true-path-seeking-god.md](195-restoring-the-kingdom-and-finding-the-true-path-seeking-god.md) |

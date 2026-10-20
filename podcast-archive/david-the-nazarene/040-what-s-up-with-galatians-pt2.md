@@ -10,7 +10,47 @@
 
 ## Summary
 
-*Notes pending.*
+Part two covers Galatians 1:18-2:10 against Acts (the three Jerusalem visits) and then sets Galatians 1:1-5, 1:8-11, 2:6-11, 3:1-13, 5:14 and 6:13-14 beside the Epistle of James. On Acts: the first visit (Acts 9:26-28, Barnabas bringing Paul to "the apostles") does not match Galatians 1:18-19's Peter-and-James-only, and "I lie not" (1:20) makes the mismatch suspect; the second visit is Acts 15, where the "false brothers" of 2:4 are the men from Judea, and where Paul's "only remember the poor" (2:10) omits the four decrees, which may be what Peter discovered at Antioch; the third visit (Acts 21) is absent from Galatians, so the letter was written between Acts 15 and 21. He adds, from a correspondent, that the Aramaic of Acts 15:20 reads "that which is sacrificed" rather than "pollutions of idols."
+
+The James comparison is the heart of the part: both letters open to the dispersion (James 1:1 "the twelve tribes in the diaspora"; "Galatia" possibly the *galut*); Paul prays for deliverance from the evil age, James says count trials joy; Paul blesses God and curses a man within two verses, James 3:9-10 says that should not be; Paul's "not from men," "I lie not," and "makes no difference to me" against James 3:13-16 on boasting and lying against the truth; Antioch against James 3:16-18 on jealousy and strife; "O foolish Galatians" (3:1) against James 2:19-20's "O vain man," where he notes James's word is *kenos*, "empty," answering Paul's "Messiah lives in me" (2:20); Genesis 15:6 used by both to opposite ends, with Habakkuk 2:4 misrendered by Paul (*emunah*, faithfulness); Galatians 5:14's "one word" against James 2:8-10 (stumble in one point, guilty of all); Galatians 6:13-14 against James 4:16 (all such boasting is evil). He closes by asking how James would have felt, given the *Recognitions* attack on the temple steps.
+
+## Key Points
+
+- Review: Peter withdrew from table fellowship; John Mark probably exposed the issue (part 1). [00:00]-[01:33]
+- Acts 9:26-28 against Galatians 1:18-20; Stephen as a stand-in for James (his earlier videos); Acts 15 as the second visit, with the decrees Paul does not mention; the Aramaic "that which is sacrificed." [01:33]-[06:20]
+- Acts 21 as the third visit; Galatians dated between Acts 15 and 21. [06:20]-[07:58]
+- James 1:1 to the diaspora; Galatia and *galut*. [07:58]-[09:33]
+- The pairings: trials, blessing and cursing, boasting and lying, jealousy and strife. [09:33]-[12:38]
+- "Foolish Galatians" and "O empty man" (*kenos*, only here translated "foolish"); Abraham and Genesis 15:6; Habakkuk 2:4 as faithfulness; faith without works dead. [12:38]-[17:22]
+- Galatians 5:14 and James 2:8-10; Galatians 6:13-14 and James 4:16. [17:22]-[18:55]
+- James's perspective: the man who threw him from the temple steps joined the assembly, got a council ruling, broke it, and wrote letters against the believers. [18:55]-[21:07]
+
+## Sources He Cites
+
+Held (KJV): Galatians 1:3-5, 1:8-11, 1:18-20, 2:1-10, 2:11, 3:1-13, 5:14, 6:13-14; James 1:1-4, 2:8-10, 2:14-26, 3:9-18, 4:16; Acts 9:26-28, 15:1-29, 21:17-26; Genesis 15:6; Habakkuk 2:4 (KJV "the just shall live by his faith").
+
+Held (Smith, *Recognitions* 1.70): the attack on James at the temple steps, with the attacker unnamed in the text.
+
+Not held: the Aramaic Peshitta of Acts 15:20 (an emailed claim); a Greek lexicon for *kenos*.
+
+## Where This Overlaps the Repo
+
+- The James-answers-Galatians argument is the repo's §4 in `questions/pauls-legitimacy.md` (Genesis 15:6 "same proof text, opposite function"; James 2:24 negating *pistei monon*), and the "James 2 isn't aimed at Paul" objection there is the honest counter-reading he does not engage. `jesus-site-reference/source/docs/paul-vs-the-twelve.md` (`## Paul vs. James — Faith vs. Works`) is the public version.
+- His fuller treatment of the same parallels, with 2 Corinthians added, is episode 157 in this folder; 171 (Key Points) gives his order of the correspondence.
+- Habakkuk 2:4 as *emunah*: `OPEN-RESEARCH.md` item 2 (Tabor's four texts; the planned `christianity/pauls-four-texts.md`), `extended-library/jesus-words-only-notes.md` ch. 11 and Claims to Check 22-23, `podcast-archive/shabbat-studies/09-ch4d-the-one-about-paul.md`.
+- Galatians 1-2 against Acts 9 and 15: `extended-library/questioning-paul-notes.md` ch. 02 (the Arabia and visit chronology) and ch. 03 (the nineteen contradictions); `questions/pauls-legitimacy.md` ("How we weight Acts": where Acts and the letters conflict, the letters win, the opposite of his rule here and in 171).
+- Stephen as a stand-in for James: his episodes 004 and 031; *Recognitions* 1.70-71 in `christianity/clementine-literature-nazarene-writings.md`.
+- James's audience "the twelve tribes": `questions/jesus-and-the-torah.md` §7 (the earliest Jewish-Christian reading).
+
+## Claims to Check
+
+1. "Galatia" may be the *galut* (diaspora), so Paul and James wrote to the same audience. Galatia is the Celtic region of central Anatolia (Latin *Galatia*, from *Galatai*); the Hebrew *galut* is unrelated. James 1:1's diaspora address is real; the shared audience is not.
+2. James 2:20's "foolish" is *kenos*, "empty," and is a reply to "Messiah lives in me." The Greek is *ō anthrōpe kene* ("O vain man," KJV), and Galatians 3:1 uses *anoētoi*; he is right that the words differ. The reply reading is his.
+3. The Peshitta of Acts 15:20 says only "that which is sacrificed," with no idols. The Greek has *alisgēmatōn tōn eidōlōn* ("pollutions of idols"), and 15:29 and 21:25 have *eidōlothytōn* ("things sacrificed to idols"). Check the Syriac before repeating; an email is not a source.
+4. Galatians 2:10 "only remember the poor" proves Paul concealed the decrees. It is the standard argument for dating Galatians 2 to the famine visit (Acts 11:30) rather than Acts 15, which would dissolve the contradiction; the repo's card takes Galatians 2 as Acts 15 too, but the alternative should be named. See also 172 (the "big lie").
+5. Habakkuk 2:4 means faithfulness and Paul mistranslated it. The Hebrew *emunah* is faithfulness; the Septuagint reads "by my faithfulness" (*ek pisteōs mou*); Paul's citation drops the pronoun altogether. The repo agrees on the Hebrew (`OPEN-RESEARCH.md` §2); "mistranslated" versus "re-read through the LXX" is the point to be careful about.
+6. Galatians was written immediately after Antioch and before Acts 21. Dates for Galatians range from c. 48 (South Galatian, pre-council) to c. 55; "immediately after Antioch" is inference from tone.
+7. Peter met Paul with "all the apostles" in Acts 9:27. Acts says Barnabas brought him "to the apostles"; Galatians 1:19 says James only besides Cephas. The repo's card calls this a real tension and resolves it on Paul's side; 171-172 run it the other way.
 
 ---
 

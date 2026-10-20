@@ -10,7 +10,56 @@
 
 ## Summary
 
-*Notes pending.*
+Part five has no Galatians verses of its own (the review restates parts 1-4) and follows Acts 20:16-23:35, Paul's last journey to Jerusalem, the temple riot and the transfer to Caesarea. Acts 20:16-17 (sailing past Ephesus "in haste," then summoning the Ephesian elders to Miletus) he reads as avoidance, confirmed when "Jews from Asia" who recognize Trophimus the Ephesian start the riot (21:27-29): the accusers are people from the cities Paul preached in, believers who know what he taught. The Spirit's warnings at Tyre and Caesarea (21:4, 21:10-14) he takes as warnings Paul ignored, from whatever spirit. Acts 21:18-26: James and the elders report "thousands" (myriads) of Torah-zealous believers at Pentecost who have heard that Paul teaches Jews to forsake Moses, and send him to the temple with the four vow-takers; the 21:25 restatement of the decrees looks to him inserted; the vow does not prove animal sacrifice because Josephus (*Antiquities* 18.1.5) says the Essenes sent offerings but did not sacrifice, having "more pure lustrations," which he equates with baptism and with Peter's temple speech in *Recognitions* 1. Acts 21:20's "zealous" he connects to the Zealots and Sicarii, and the tribune's "Egyptian... four thousand murderers" (21:38) to the Sicarii.
+
+The part's argument is that Rome protected Paul while the people wanted him dead, the reverse of James, who lived peaceably in Jerusalem for three decades and was killed by the establishment; and that this makes sense if Paul was a Herodian: Antipater's Roman citizenship (Josephus) inherited by descendants; Romans 16:10-11 (the household of Aristobulus, Herodion "my kinsman"); Josephus's Saulus, kinsman of Agrippa (*Antiquities* 20.9.4); Manaen "brought up with Herod" in Acts 13:1 beside Saul; "all things to all men" as Herodian behavior; the Ebionite charge in Epiphanius (Paul a Greek who wanted the high priest's daughter) read as the Ebionites describing a Herod (Herod married a high priest's daughter). On that footing the Sanhedrin hearing (23:1-10) is "fabricated" or theater, since the high priest Ananias, appointed by Paul's cousin Agrippa, could not have been trying him; the nephew's access to the barracks, the 470-man escort and custody "in Herod's palace" fit a royal relative, not a Tarsus tentmaker.
+
+## Key Points
+
+- Review; Paul's letters were written by three hands on the critics' view, but the polemic is in the undisputed ones. [00:00]-[04:40]
+- Acts 20:16-17: haste versus summoning the elders to Miletus; 20:22-35 the warnings and "I coveted no one's silver," against 1 Corinthians 9. [04:40]-[09:21]
+- Acts 21:4, 10-14: the Spirit says do not go; "the will of the Lord be done." [09:21]-[12:30]
+- Acts 21:17-25: myriads zealous for the Torah; the four men; the 21:25 restatement as out of place. [12:30]-[15:37]
+- Josephus on the Essenes: immortal souls, rewards earnestly striven for, dedicated offerings but no sacrifices, "lustrations"; the Scrolls' sacrifice of praise; *Recognitions* 1 on baptism replacing sacrifice. [15:37]-[18:43]
+- Acts 21:27-36: the Jews from Asia, Trophimus, the maps of Asia and Ephesus; why he skipped Ephesus. [18:43]-[22:00]
+- The tribune, Fort Antonia, "away with him"; James lived 32 years in Jerusalem unmolested; Rome protects Paul. [22:00]-[25:00]
+- Acts 21:37-22:29: the Egyptian and the four thousand Sicarii; Tarsus; the crowd breaks at "sent to the Gentiles"; Roman citizenship "born free." [25:00]-[28:05]
+- The Herodian case: Antipater's citizenship; Romans 16:10-11; Salome and the house of Aristobulus; Costobarus and Saulus; Manaen; all things to all men; Epiphanius 30.16 and Herod's high-priestly wife. [28:05]-[36:00]
+- Acts 22:30-23:35: the Sanhedrin scene as implausible; Ananias appointed by Agrippa; "I wist not that he was the high priest"; the nephew; 470 soldiers; Herod's palace. [36:00]-[44:02]
+
+## Sources He Cites
+
+Held (KJV): Acts 9:1-2, 13:1, 20:16-35, 21:1-23:35; 1 Corinthians 9:7-14, 9:19-22; Romans 16:10-11.
+
+Held (Tier 2, witnesses file): Josephus, *Antiquities* 18.1.5 (Whiston: Essenes "send what they have dedicated to God into the temple" but "do not offer sacrifices, because they have more pure lustrations of their own"; "excluded from the common court"; "husbandry").
+
+Held (Tier 1): Epiphanius, *Panarion* 30.16.8-9 (the Ebionite story that Paul was Greek-born, became a proselyte to marry the priest's daughter, and when refused wrote against circumcision, Sabbath and the law); *Recognitions* 1.36-39 (baptism in place of sacrifice; Smith text).
+
+Not held: Josephus, *Antiquities* 14.8.3 (Caesar grants Antipater citizenship), 15.9.3 (Herod marries Mariamne, daughter of Simon Boethus, whom he makes high priest), 20.5.2 (Ananias son of Nedebaeus appointed by Herod of Chalcis), 20.9.4 (Costobarus and Saulus); Hippolytus, *Refutation* 9.21 (the Essene Sicarii who force circumcision); Eisenman on Herodian Paul; the Zealot-Sicarii literature.
+
+## Where This Overlaps the Repo
+
+- Acts 21 and the vow: `questions/pauls-legitimacy.md` (Galatians 2:9 objection: Acts 21:20-25 "a decade later"), `questions/jesus-and-the-torah.md` (the leper objection, for the "sent into the sacrificial system" problem), `questions/nazarene-sect-sacrifice-and-diet.md` (what Josephus and Philo do and do not say about Essene sacrifice; the witnesses file carries the same caution). His 171 (Key Points, Acts 21 as a trial by fire) and 088-089 (the collection as a "polite bribe").
+- Paul as Herodian: `extended-library/jesus-words-only-notes.md` Claims to Check 26 (Romans 16:11 *syngenēs*, Saulus's chronology, Latin names); his 155 (warning 2, with Claims to Check 3-4 there) and 058 (Saulus in *Antiquities* 20); `podcast-archive/the-jesus-way/023-exposing-paul-false-prophet.md` (`### Paul as Herodian "Deep State"`); `podcast-archive/shabbat-studies/06-ch4a-the-one-about-paul.md` ("Paul the Herodian").
+- The Ebionite charge in Epiphanius: `questions/pauls-legitimacy.md` §5 and `christianity/2026-02-25-essene-nazarene-ebionite-lineage.md`; JWO Claims to Check 24 (Epiphanius only, not Eusebius).
+- Rome protecting Paul and the Acts-as-defense frame: 171 (Mauck), his Pythagorean series 073-078.
+- Ephesus avoided: 155, Claims to Check 8; part 3 above.
+
+## Claims to Check
+
+1. Herodion (Romans 16:11) is Herod of Chalcis, son of Aristobulus and Salome. Herod of Chalcis was the son of Aristobulus IV and Berenice and brother of Agrippa I; Salome (the dancer) married Philip the tetrarch and then Aristobulus of Chalcis, Herod of Chalcis's son. No source identifies Paul's Herodion with any known Herod; the name is attested of freedmen. The genealogy as given is scrambled. The repo's note on *syngenēs* (JWO 26) applies.
+2. Antipater's citizenship descended to Paul. Josephus does record Caesar's grant to Antipater (*Ant.* 14.8.3); descent to Paul requires Paul to be a Herodian, which is the thing to be proved.
+3. Ananias was appointed by Agrippa, "Paul's cousin." Ananias son of Nedebaeus was appointed by Herod of Chalcis c. 47 (*Ant.* 20.5.2); Agrippa II controlled later appointments. Either way the point depends on claim 1.
+4. Paul was kept "in Herod's palace," i.e. Agrippa's house. Acts 23:35 has "Herod's judgment hall" (*praitōrion*), the governor's residence at Caesarea built by Herod the Great; Felix lived there, not Agrippa II.
+5. The Sanhedrin hearing is fabricated because a Herodian high priest would not try a Herodian. Depends on claim 1; Acts 23:2-5 reads as a real clash. His own "probably fabricated" is a guess, and sits oddly with 171's rule that Acts was written under penalty of death.
+6. The 470-man escort and the nephew's access prove royal status. Acts 23:16-24; Roman custody of a citizen with a known plot and a provincial garrison is enough to explain both. Inference.
+7. Manaen's "brought up with Herod" originally referred to Paul and was altered. No manuscript variant supports this; Acts 13:1 is stable.
+8. Epiphanius's Ebionites were describing a Herod. Herod the Great did make Simon Boethus high priest to marry his daughter Mariamne (*Ant.* 15.9.3), so the parallel is real; *Panarion* 30.16.9 (held) says the Ebionites applied it to Paul, and nothing in the text hints at a confusion with Herod.
+9. The Essene "lustrations" of Josephus are baptism, and the Nazarenes used that exemption at the temple. Whiston's "lustrations" renders *hagneiai*, "purifications"; Josephus says they performed sacrifices "by themselves," excluded from the common court. See 171, Claims to Check 7, for the limits of this passage.
+10. Acts 21:25 is an insertion. No manuscript omits it; it is Luke reminding the reader of 15:20, 29. His "out of place" is a literary judgment.
+11. The Sicarii were an Essene splinter and the "zealous for the Torah" of Acts 21:20 are Zealots. Hippolytus (*Refutation* 9.21) does describe Essene subgroups called Zealots and Sicarii who would kill an uncircumcised man who spoke of God, so the "another historian" is real and citable at reference level; Acts 21:20's *zēlōtai tou nomou* is ordinary zeal, and Josephus's Sicarii are not Essenes. The Iscariot-Sicarii link is one disputed etymology.
+12. James lived in Jerusalem for 32 years "with no problems from the people." Hegesippus has the scribes and Pharisees kill him (Eusebius 2.23.10-18, beyond the held excerpt); Josephus has Ananus's Sanhedrin (*Ant.* 20.9.1), with "the most equitable of the citizens" objecting. Consistent with his point, and the dates (30 to 62) give 32 years.
+13. The accusers in the temple were believers from Asia. Acts 21:27 says "Jews from Asia"; whether they were believers is not stated. His inference from Trophimus.
 
 ---
 

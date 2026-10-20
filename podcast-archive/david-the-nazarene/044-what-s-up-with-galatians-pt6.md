@@ -10,7 +10,50 @@
 
 ## Summary
 
-*Notes pending.*
+Part six covers no Galatians verses (the review restates parts 1-5, adding that the early church read Paul in Greek, so "mistranslation" cannot explain the quarrel) and follows Acts 24-28 with Josephus beside it. Acts 24: Tertullus calls Paul "a ringleader of the sect of the Nazarenes," which on his reading was James's position; the charge only works because Acts was written after James's death, probably after Josephus's *Antiquities*, to make Paul a full member of the movement he had opposed. Paul's "believing all things written in the law and the prophets" (24:14) is contradicted by his letters. Felix keeps him with free access for friends (24:23), and no apostle is recorded visiting; Felix hopes for money (24:26), which fits a rich Herodian. He then reads Josephus on Felix and Drusilla (*Antiquities* 19.9.1, 20.7.1-2): Drusilla six at her father's death, promised to Epiphanes of Commagene, married to Azizus of Emesa, won away by Felix through a Cypriot Jewish magician named Simon, her son dying at Vesuvius; and on Berenice (20.7.3): widow of her uncle Herod of Chalcis, rumored incest with Agrippa II, marriage to Polemo, later Titus's mistress; Eisenman's suggestion that Berenice is the whore of Babylon. The Herodian marriage habits he links to the Damascus Document's condemnation of niece marriage, arguing this dates the Scrolls to the first century CE against "the scholars."
+
+Acts 25-26: Festus replaces Felix in 60, fixing Paul's arrival at 58; Paul appeals to Caesar rather than a Jewish court; Agrippa and Berenice hear him, with Paul praising Agrippa's expertise in the law while Agrippa sits beside his sister; Festus's "much learning doth make thee mad." Acts 27-28: the voyage, and "two whole years" in Rome (28:30), which he reads as the author insisting on an alibi. The part ends on the cliffhanger: 60 plus two is 62, the year James died.
+
+## Key Points
+
+- Review; the Greek-speaking early church had no translation problem; the lying pen of the scribes extends to Paul and Luke. [00:00]-[06:19]
+- Acts 24:1-9: Tertullus; "ringleader of the Nazarenes" belongs to James; Rome and the Herodians protect Paul, the establishment killed James and Jesus. [06:19]-[11:01]
+- Acts as written after James's death and after Josephus (Josephus as possible author); 24:10-21 "believing all things written." [11:01]-[14:11]
+- Acts 24:22-27: friends admitted, no apostle visits; Felix and Drusilla; the money. [14:11]-[15:45]
+- Josephus on Agrippa I's daughters, Felix "brother of Pallas," Drusilla, Azizus, Simon the Cypriot magician, Vesuvius. [15:45]-[23:42]
+- The Scrolls on wife-swapping and niece marriage as evidence for a Herodian-era date. [23:42]-[25:19]
+- Acts 25: Festus in 60; the plot; Paul's appeal to Caesar as un-Jewish; Agrippa II and Berenice. [25:19]-[30:05]
+- Josephus and Wikipedia on Berenice; Eisenman on Babylon; Agrippa as Josephus's patron. [30:05]-[34:44]
+- Acts 26: Paul's deference to Agrippa; "thou art beside thyself"; "almost thou persuadest me"; "might have been set at liberty." [34:44]-[37:50]
+- Acts 27-28: the trip as a device to get Paul out of Judea; "two whole years"; 62 and the death of James. [37:50]-[40:58]
+
+## Sources He Cites
+
+Held (KJV): Acts 23:35, 24:1-27, 25:1-27, 26:1-32, 27:1, 28:16-31.
+
+Not held: Josephus, *Antiquities* 19.9.1 (Agrippa I's children and their ages), 20.7.1-2 (Felix, Drusilla, Simon of Cyprus), 20.7.3 (Berenice), 20.8.9 (Festus succeeds Felix); *Life* 1-2 (Josephus's family); Eisenman, *James the Brother of Jesus* (Berenice and Babylon; the Herodian marriages against CD 5); Damascus Document 5:7-11 (niece marriage; CD is held only in the excerpts listed in `VERIFIED-SOURCES.md`, which do not include this column); Wikipedia on Berenice; the Josephus-wrote-Acts theory (unnamed).
+
+## Where This Overlaps the Repo
+
+- `questions/pauls-legitimacy.md` ("How we weight Acts": late, c. 80-110, irenic, trusted where it embarrasses its agenda). His dating here (after Josephus, after 93) is later than the card's range and the opposite of his 171 (Acts as a brief written c. 62 under penalty of death). Both views are his, in different years; anyone citing him should say which.
+- Acts and Josephus: the dependence thesis (Mason, Pervo) is real scholarship behind his "after Josephus"; the repo has no file on it. `OPEN-RESEARCH.md` item 7 (Josephus, Philo, Eusebius as held texts) would make the *Antiquities* 20 passages checkable.
+- James's death in 62 and Ananus: `christianity/james-the-just-key-to-understanding-jesus.md` (`### Historical Sources`); his 058 (the same *Antiquities* 20 material read for the pesher) and 171.
+- Dating the Scrolls to the first century CE: `christianity/dead-sea-scrolls/00-overview.md` (`## Open Questions`) records Eisenman as a minority against paleography and radiocarbon; his 051-052 argue the same point from the Damascus Document.
+- Paul as Herodian: part 5, Claims to Check 1-5; 155 (warning 2); JWO Claims to Check 26.
+- "Ringleader of the sect of the Nazarenes" (Acts 24:5): `christianity/the-nazarenes.md`, `questions/essene-nazarene-origins.md`.
+
+## Claims to Check
+
+1. Acts was written after Josephus's *Antiquities* (93/94), possibly by Josephus. Luke's use of Josephus is a serious minority thesis (Mason 1992; Pervo 2006) and would date Acts c. 100-120; Josephus as author is not held by anyone in the literature. This also contradicts his 171 (Acts c. 62 as Paul's trial brief). Flag the inconsistency when citing either.
+2. Festus succeeded Felix in 60, so Paul reached Jerusalem in 58. The succession is placed 59-60 by most; Paul's arrival 57 is the common figure. His arithmetic is within the usual range.
+3. No apostle visited Paul at Caesarea. Acts 24:23 allows "his acquaintance" to minister to him and names no one; an argument from silence in a selective narrative.
+4. The Scrolls' condemnation of niece marriage proves a Herodian date, since the Hasmoneans did not do it. CD 5:7-11 does forbid niece marriage; the argument that only Herodians practiced it is Eisenman's; radiocarbon and paleography put most sectarian scrolls before the Herodian period. The repo's DSS overview already flags this as minority.
+5. Berenice as the whore of Babylon. Eisenman's suggestion; Revelation 17 names the city on seven hills, and the standard reading is Rome. Label as Eisenman's.
+6. Paul's appeal to Caesar shows he was not a devout Jew. A Roman citizen under provincial prosecution had the right of appeal; Josephus and Philo both appealed to emperors. Rhetorical.
+7. "Two whole years" (Acts 28:30) is an alibi for 62. The phrase (*dietian holēn*) also marks Felix's tenure (24:27) and Ephesus (19:10); its emphasis is normal Lukan style. The alibi reading is the hinge of part 7.
+8. Josephus's *Antiquities* was written from Agrippa II's private correspondence. *Life* 364-366 says Agrippa wrote Josephus letters praising the *War*'s accuracy; Josephus does not say Agrippa supplied material for the *Antiquities*. Overstated.
+9. Josephus recorded the Berenice-Agrippa rumor with Agrippa's permission. *Antiquities* was published c. 93-94 when Agrippa was alive or lately dead; the permission claim is a guess.
+10. Felix was "brother of Paulus." The captions mishear Pallas (Antonius Pallas, Claudius's freedman); Josephus and Tacitus agree.
 
 ---
 

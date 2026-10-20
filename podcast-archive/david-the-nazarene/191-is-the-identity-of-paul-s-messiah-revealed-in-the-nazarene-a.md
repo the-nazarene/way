@@ -10,7 +10,53 @@
 
 ## Summary
 
-*Notes pending.*
+A theory he presents as his own and as tentative: the author of the Nazarene Acts (*Recognitions*) and the Sermons of Peter (*Homilies*) may be telling us not that Simon Magus is a stand-in for Paul, as most scholars hold, but that Simon Magus was the figure who appeared to Paul outside Damascus, that is, Paul's Messiah. He concedes that *Homilies* 17.19 (the vision speech) and parts of the later *Homilies* are plainly aimed at Paul, and he does not abandon the stand-in reading; he argues that in most of both works Simon says things that only partly fit Paul, and that the texts repeatedly introduce Saul and Simon together. The foundation is Matthew 24 in his Hebrew-Matthew reconstruction (Shem-Tob): "be careful that no one leads *you* astray" addressed to the apostles themselves; "many will come in my name saying I am the Messiah," ambiguous between claiming to be the Messiah and preaching that Jesus is; verses 11-14 ending "this is the Antichrist"; 24:23-27 as commands ("don't believe it") covering both the wilderness vision and Ananias's "inner room" vision in the same chapter of Acts; 24:28's body as the assembly and the vultures as false prophets and false messiahs.
+
+The Clementine evidence: *Recognitions* 4.34 (Satan, defeated at the temptation, "hastened straightway to send forth into this world false prophets, and false apostles, and false teachers"), 4.35 (no teacher without James's testimonial; "neither prophet nor apostle... besides us"; the twelve months), 4.36 (receiving "another teacher besides Christ" fatally pollutes the garment of baptism), read together with 2 Corinthians 12:7 (a demon has no power unless one submits; Paul submitted to another teacher and was possessed; Paul's Jesus would not cast it out, and Satan does not cast out Satan); *Recognitions* 8.53 (the pairs: false apostles to apostles); *Homilies* 16.21 (false apostles, false prophets and heresies "finding their beginning in Simon"); Acts 8:1-25 and 9:1-19 (Saul and Simon introduced twelve verses apart, both baptized, Caesarea at the end of chapter 8 as in *Recognitions* 1); *Recognitions* 1.70-72 (the enemy, Damascus, Jericho, and then James's letter about Simon, "I am the Standing One... the Messiah"); 2.7-9 and 2.14 (Simon's history, his boasts of invisibility, flight, changing his face and "two faces," statues, being worshipped as God, born of a virgin); 2.58 (Simon's good God "bestows salvation if he is only acknowledged," while the Creator demands the law, which he sets beside Romans 10:9); 2.59-60 (Simon denies free will, as Paul denies the law can be kept). The suggestion is that Simon, who could fly and change his appearance and work signs, could have been the light and voice on the road and the power behind Paul's signs, and that Paul's Greek rhetoric may have been Simon's. Part two is 192.
+
+## Key Points
+
+- The theory stated; his standing position on Paul; the "Paul vs the real church" playlist. [00:00]-[03:10]
+- The Clementine plot (Peter following Simon through Syria); the scholars' stand-in view and the Rufinus and Ebionite-caution theories; where Simon is clearly Paul (*Homilies* 18 on Antioch, 17.19) and where he is not. [03:10]-[07:59]
+- Matthew 24:3-5 in the Hebrew: "lead you astray"; the apostles did accept Paul until Antioch; the ambiguity of "I am the Messiah." [07:59]-[12:41]
+- 24:11-14 and "this is the Antichrist"; 24:23-28 as commands; wilderness and inner rooms (Acts 9 and 22); lightning; the body and the vultures. [12:41]-[19:02]
+- *Recognitions* 4.34-36 and 2 Corinthians 12:7; Satan does not cast out Satan. [19:02]-[31:34]
+- *Recognitions* 8.53 (the pairs); *Homilies* 16.21 ("finding their beginning in Simon"); the Baptist church that never quoted Jesus. [31:34]-[39:23]
+- Acts 8-9: Saul and Simon introduced together; Simon baptized; Caesarea; the Damascus story; *Homilies* 17.19 read. [39:23]-[52:04]
+- *Recognitions* 1.70-72: the temple attack, Damascus, Jericho and the two brethren, the letter about Simon; the travel arithmetic. [52:04]-[1:03:14]
+- *Recognitions* 2.5-14: Niceta and Aquila on Simon; rhetoric and Greek literature; the Standing One; the catalogue of powers; born of a virgin. [1:03:14]-[1:13:00]
+- *Recognitions* 2.58-60: salvation by acknowledgement versus the law; free will; the California aside; next time. [1:13:00]-[1:22:00]
+
+## Sources He Cites
+
+Held (KJV): Matthew 24:3-28 (KJV 24:5 "saying, I am Christ; and shall deceive many"; 24:26 "the desert... the secret chambers"; 24:28 "the carcase... the eagles"); Acts 7:58-8:25, 9:1-25, 22:17-21, 23:11; 2 Corinthians 12:7-9, 12:12; Matthew 12:26; Romans 10:9.
+
+Held (Smith, ANF 8, `christianity/Incoming/clementine-recognitions-full-text.md`): *Recognitions* 4.34-36 (verbatim in substance, with Snyder's names), 8.53 (the pairs; he says "book four"), 1.70-72, 2.7, 2.9, 2.14, 2.58-60. *Homilies* 16.21 ("Would that the doctrines against God which are intended to try men went no further than Simon! For there will be, as the Lord said, false apostles, false prophets, heresies... finding their beginning in Simon"; he calls it "sermons of Peter chapter 21") and 17.19, both verbatim in `christianity/Incoming/clementine-homilies-full-text.md`.
+
+Not held: the Shem-Tob Hebrew Matthew (Howard's edition) and his own *Rock of a Sure Foundation* reconstruction (his episodes 179, 212-333); *Homilies* 18 on Antioch (held, but he gives no chapter); the Rufinus name-change theory; theses on Paul's Greco-Roman rhetoric (Betz on Galatians is the standard one).
+
+## Where This Overlaps the Repo
+
+- `questions/pauls-legitimacy.md` §5 quotes *Homilies* 17.19 and the Epistle of Peter to James and says exactly what the repo takes from them: "the named target is 'Simon,' but the argument is about a man who claims apostleship from a vision." The card's Clementines objection ("3rd-4th century anti-Pauline fiction") gives the limit. His theory is a third option (Simon as Paul's source rather than his mask), which no repo file holds.
+- `christianity/clementine-literature-nazarene-writings.md` (`### Paul as "Enemy" of the True Teaching`, Baur's Simon = Paul reading) and `extended-library/jesus-words-only-notes.md` ch. 12 and Claims to Check 27 (Homily 17 as Paul; the Rufinus claim, which the 4D Shabbat notes already correct: the Homilies survive in Greek); `podcast-archive/shabbat-studies/08-ch4c-the-one-about-paul.md` (Simon Magus and Homily 17.19).
+- *Recognitions* 4.35-36 is used in his 157, 173 and 160; *Recognitions* 1.70-71 and the Snyder "Nazarene Acts" title in `extended-library/nazarene-acts-snyder-notes.md` (Claims to Check 2: the enemy is unnamed in the text).
+- Matthew 24:23-27 and the wilderness: `christianity/paul-false-prophet-deuteronomy-18-test.md` (`## Jesus's Warnings About False Prophets`, which already pairs the Damascus wilderness with Acts 22:17's temple trance as the "inner room"); 155 (warning 3); `podcast-archive/shabbat-studies/06-ch4a-the-one-about-paul.md` ("Matthew 24 and the wilderness").
+- The demon-possession reading of 2 Corinthians 12:7 and the Clementine table rules: 173; `questions/nazarene-sect-sacrifice-and-diet.md` (`### The Recognitions block`, `### The Homilies passages`).
+- A Hebrew Matthew: `christianity/hebrew-gospel-of-matthew.md` (`## The Patristic Evidence`); JWO Claims to Check 16 (Shem-Tob is a fourteenth-century text whose priority is a minority position).
+
+## Claims to Check
+
+1. Simon Magus was the figure who appeared to Paul near Damascus. No text, canonical or Clementine, says or hints this; Simon in *Recognitions* 1.72 is at Caesarea while the enemy is on the Damascus road. He labels it a theory; it should stay labeled.
+2. Simon Magus "at no point" claims to have seen an apparition of Jesus, so *Homilies* 17.19 must be about Paul. In *Homilies* 17.13-18 Simon argues at length that instruction by vision is superior to waking instruction, which is why Peter answers "if our Jesus appeared to you in a vision." The passage does read like Paul (the repo says so), but Simon-as-visionary is in the text.
+3. After Damascus the enemy came back to Jericho and "two of our brethren were buried," so Saul killed believers after his conversion. Smith's *Recognitions* 1.71 (held) says the enemy passed through Jericho "going to Damascus," i.e. on the way there, and that the brethren were out at the sepulchres of two brethren "which were whitened of themselves every year," not burying anyone. His reading reverses the direction of travel and invents two deaths; check whether Snyder's wording differs, but Smith does not support it.
+4. "This is the Antichrist" stands after Matthew 24:14 in the Hebrew Matthew, and 24:25-26 are reversed. Howard's Shem-Tob text does read "This is the Antichrist" at 24:15, before the abomination of desolation, which is a real feature of that fourteenth-century text. The verse order claim is not checked here. Neither is evidence for what Jesus said in the first century.
+5. Matthew 24:5's "many will come in my name saying I am the Messiah" is ambiguous. The Greek (*legontes, egō eimi ho Christos*) is a direct-speech claim to be the Christ; the ambiguity is a feature of unpointed Hebrew, i.e. of the Shem-Tob text, not of the earliest witnesses.
+6. Acts introduces Saul and Simon within twelve verses on purpose. The adjacency is real (8:1-3; 8:9); Luke's purpose is unstated. His inference.
+7. Paul's vision "in the inner rooms" is in Acts 23. The temple trance is Acts 22:17-21; 23:11 is the Lord standing by him in the barracks. The Deuteronomy 18 file uses 22:17.
+8. Paul's Greek rhetorical skill came from Simon. Paul's use of Greco-Roman rhetoric is well documented (Betz, Witherington); Niceta's description of Simon in Smith's *Recognitions* 2.5 (held) is "a most vehement orator, trained in the dialectic art, and in the meshes of syllogisms"; the "cunning and crafty sophist... stratagems of syllogisms" he reads is the Snyder-style rewording. Speculation he labels as such.
+9. "The Standing One" is a title of the Messiah. *Recognitions* 1.72 (held) has Simon claim to be "Stans... that is, the Christ"; the title is Simonian and Samaritan vocabulary (`extended-library/nazarene-acts-snyder-notes.md`, Claims to Check 11; his episode 033).
+10. Rufinus changed Saul's name to Simon. The *Homilies* survive in Greek independently of Rufinus's Latin *Recognitions* (JWO Claims to Check 27 and the 4D notes); if there was a substitution it predates him. He reports the theory without endorsing it.
+11. Simon's "salvation if he is only acknowledged" (*Recognitions* 2.58) is Romans 10:9. The passage is held and says what he says; Simon's good God is also a *different* God from the Creator, which Paul never teaches, as he himself notes. The parallel is to Marcion rather than Paul, which is the repo's own mirror (`questions/method-and-criteria.md`, "You've reinvented Marcion").
 
 ---
 

@@ -10,7 +10,58 @@
 
 ## Summary
 
-*Notes pending.*
+The method is the content: he compares how Jesus and the devil quote scripture in Matthew 4, then checks every scripture Paul quotes in Galatians against its context. Jesus's three citations (Deuteronomy 8:3, 6:16, 6:13 with 10:20) he shows fit their chapters exactly, Deuteronomy 8:1-6 even mirroring the forty days in the wilderness; the devil's Psalm 91:11-12 comes from a psalm about trusting God for deliverance from the trapper, so it says the opposite of its use. He also argues that Deuteronomy 10:14 ("the heaven and the earth is the LORD's") is Jesus's answer to the offer of the kingdoms. The long introduction sets his frame: 2 Peter 1:16-21 ("not cunningly devised fables... eyewitnesses... no prophecy of private interpretation") as Peter on Paul; James's epistle as the reply to Galatians and 2 Corinthians; the correspondence order of his 171; and his view that Paul's "angel of Satan" was the source of his doctrine, so Paul should be expected to quote like the tempter.
+
+Galatians, citation by citation. 3:6, Genesis 15:6: the pronoun "he" need not change subject, so Abraham reckoned God righteous. 3:8, "in thee shall all nations be blessed": commentators point only to Genesis 12:3, not to 18:18-19, 22:18 or 26:4-5, where the blessing is tied to Abraham's obedience; James 2:21-23 reads it that way. 3:10, Deuteronomy 27:26: the next verses (28:1-14) are the blessings for keeping the law. 3:11, Habakkuk 2:4: *emunah* is faithfulness, translated "faith" in the KJV only here. 3:12, Leviticus 18:5: the chapter is the sexual-prohibition chapter, an odd text to set against faith; Jeremiah 3 calls Israel faithless for her idolatries; Ezekiel 33:12-20 restates "he shall live by them." 3:13, Deuteronomy 21:23: the curse is for a crime worthy of death, and Acts 13:28 has Paul himself say Jesus deserved none. 3:16, "seed" singular: Hebrew *zera'* is collective, like English "seed." 4:21-31, the Hagar allegory with Isaiah 54:1: unsupported by Isaiah 54, which is addressed to Israel; Eisenman's point that it makes Jacob the son of the bondwoman; Jeremiah 31:31-34 as the real new covenant, with the law written on hearts. 4:30, Genesis 21:10: Sarah's words in anger, not God's command. 5:14, Leviticus 19:18: Matthew 22:37-40 hangs the law on two commandments, James 2:8-11 says stumble in one and you are guilty of all. He ends by returning to 2 Peter 1:20 and James 1:5, 3:13-17 (two kinds of wisdom).
+
+## Key Points
+
+- How the presentation grew; "scriptural allusion" and reading Jesus's citations whole; the online debate; 2 Peter 1:16-21 as being about Paul. [00:00]-[09:23]
+- Why Galatians, 2 Corinthians and Romans are the flagship letters; the "deep things" of 1 Corinthians 2:10 and Revelation 2:24; "presenter, not teacher." [09:23]-[16:00]
+- Matthew 4:1-4 and Deuteronomy 8:1-6; 4:5-7, Psalm 91 and Deuteronomy 6:13-19; 4:8-11, Deuteronomy 10:12-21. [16:00]-[26:38]
+- Acts 15 and the four purity commands as the background Paul twists; the Clementine "law of unclean spirits"; Timothy circumcised in Acts 16. [26:38]-[33:00]
+- Genesis 15:6, the subject of "he counted." [33:00]-[36:03]
+- Genesis 12:1-3, 18:18-19, 22:16-18, 26:2-5; James 2:21-23. [36:03]-[42:17]
+- Deuteronomy 27:26 and 28:1-14; keeping the letters as evidence rather than throwing them out. [42:17]-[45:24]
+- Habakkuk 2:4 and *emunah*; *pisteuō* as obey; translators protecting Paul. [45:24]-[51:43]
+- Leviticus 18:4-5 in context; Jeremiah 3; Ezekiel 33. [51:43]-[57:00]
+- Deuteronomy 21:22-23 and Acts 13:28. [57:00]-[59:37]
+- Galatians 3:15-18 and "seed"; 4:21-31, Isaiah 54, Eisenman on Jacob and Esau; Jeremiah 31:31-37; Hammurabi and "eye for eye." [59:37]-[1:13:43]
+- Galatians 4:28-30 and Genesis 21:10-13; 5:14, Matthew 22:37-40, James 2:8-11. [1:13:43]-[1:21:30]
+- 2 Peter 1:20-21 and James 1:5-8, 3:13-17. [1:21:30]-[1:25:59]
+
+## Sources He Cites
+
+Held (KJV): Matthew 4:1-11, 22:35-40; Deuteronomy 6:13-19, 8:1-6, 10:12-21, 21:22-23, 27:26, 28:1-14; Psalm 91:1-12; Galatians 3:1-18, 4:21-31, 5:14; Genesis 12:1-3, 15:6, 18:18-19, 21:9-13, 22:16-18, 26:2-5; Habakkuk 2:4; Leviticus 18:1-5, 19:18; Jeremiah 3:6-14, 31:31-37; Ezekiel 33:12-20; Isaiah 54:1-10; Acts 13:28, 15:19-21, 16:3; James 1:5-8, 2:8-11, 2:21-23, 3:13-17; 2 Peter 1:16-21; 1 Corinthians 2:10; Revelation 2:24; 1 John 3:4; 2 Corinthians 12:7.
+
+Held (Smith, ANF 8): the demon-and-food mechanism, *Recognitions* 4.36, *Homilies* 7.3-8, 9.9-10; the law-not-wholly-Mosaic passages, *Homilies* 2.38, 3.47-52 (his 165 covers them).
+
+Not held: Strong's H530 (*emunah*); Eisenman on Galatians 4 (*James the Brother of Jesus*); the Code of Hammurabi; the "scriptural allusion" video he could not name.
+
+## Where This Overlaps the Repo
+
+- This is the video for `OPEN-RESEARCH.md` item 2 (Paul's misappropriated Hebrew texts, from Tabor: Habakkuk 2:4, Genesis 15:6, Genesis 12:7 "seed," Deuteronomy 25:4). He covers the first three with the same conclusions and adds Deuteronomy 27:26, Leviticus 18:5, Deuteronomy 21:23, Isaiah 54:1, Genesis 21:10 and Leviticus 19:18. The planned `christianity/pauls-four-texts.md` could use his context readings as a checklist, attributed to Tabor where they coincide and to him where they do not.
+- `extended-library/questioning-paul-notes.md` ch. 01 treats the same four Galatians 3:10-13 citations in the same way, and its Claims to Check 5-7 apply; ch. 09 covers Galatians 4:21-31. `extended-library/jesus-words-only-notes.md` ch. 11, App. D and Claims to Check 8-9, 22-23 (Genesis 15:6's subject; Habakkuk 2:4; Hagar and "cut off Israel"; Romans 11 not engaged).
+- `questions/pauls-legitimacy.md` ("James 2 isn't aimed at Paul": "same proof text, opposite function") is the repo's narrow form of his Genesis 15:6 point, and it concedes the harmonization he does not.
+- `questions/jesus-and-the-torah.md` §1 and §5 (Matthew 5:17-19; "the Law summarizes itself," Matthew 22:37-40) for the Galatians 5:14 comparison; the card does not read 5:14 as a contradiction.
+- Jeremiah 31 as a Torah-continuing covenant: JWO Key Argument 3 and the Jeremiah row of its sources table; `christianity/clementine-literature-nazarene-writings.md` (`### The Torah Was Corrupted`) for the "additions" frame he applies to "eye for eye."
+- 2 Peter 1:16-21 as about Paul: his 156 (the full argument) and 161; the repo's card treats 2 Peter as contested in authorship and uses 3:16 only for its concession.
+- The temptation in Matthew 4 and the Clementine version of it (*Recognitions* 4.34): his 191-192.
+
+## Claims to Check
+
+1. Genesis 15:6's second "he" is Abraham, so Abraham reckoned God righteous. Grammatically possible (JWO Claims to Check 22 cites Hamilton); every ancient reader including James 2:23, whom he cites in support, takes God as the one reckoning. He undercuts his own witness here.
+2. Habakkuk 2:4's *emunah* is faithfulness and the KJV renders it "faith" only here. Both true (KJV: faith 1, faithfulness 18, truth 13, etc.). Paul's Greek follows neither the Hebrew ("his faithfulness") nor the LXX ("my faithfulness") but drops the pronoun. See 040, Claims to Check 5.
+3. Hebrew "seed" is collective but Greek is not, so Paul "stretched." Greek *sperma* is also collective (LXX Genesis 22:17; Paul's own Galatians 3:29 "Abraham's seed" of many). The singular-seed argument is Paul's rhetorical move, and the objection to it is older than him; his grammar point about Greek is wrong.
+4. Galatians 4:21-31 makes Jacob the son of Hagar and Esau the heir. Paul's allegory maps Hagar to Sinai and the present Jerusalem, Sarah to the Jerusalem above; Esau is not mentioned. Eisenman's reading of the implication; label it.
+5. Deuteronomy 21:23 cannot apply to Jesus because Acts 13:28 says he deserved no death. Paul's argument (becoming a curse for us) is built on the premise that Jesus was innocent; the verse's "cursed" is what Paul applies, not a guilty verdict. His objection is to the typology, which is a fair theological objection but not a misquotation.
+6. Leviticus 18:5 is an odd text for Paul to choose because the chapter is about sexual sin. Leviticus 18:5 is a general statement introducing the chapter; Ezekiel 20:11, 13, 21 and Nehemiah 9:29 cite it as a general principle, and Paul cites it in Romans 10:5 the same way. The "apostles accused him of sensuality" connection is his.
+7. Commentators direct readers only to Genesis 12:3 for Galatians 3:8. Cross-reference editions vary; many list 18:18 and 22:18. Minor and unverified.
+8. "Eye for eye" entered the Torah from the Code of Hammurabi. Hammurabi (c. 1750 BCE) does contain talion (196-200); the claim that Exodus 21:24 is a later "addition" is the Clementine false-pericopes frame (his 165), not something either text states.
+9. *Pisteuō* "should be translated obey" dozens of times. Lexical overreach; see 160, Claims to Check 5.
+10. Acts 15's decrees are the "law of unclean spirits" of the Clementines. *Recognitions* 4.36 (held) does list sacrificed things, blood and strangled meat as the table of demons and the first of three steps; the link to Acts 15:20 is the ANF editor's own footnote too. Fair at reference level; see 173.
+11. The tempter's Psalm 91 citation is "out of context." Psalm 91 does promise angelic protection to the one who trusts; the standard reading is that the devil omits "in all thy ways" and applies the promise to presumption. His reading matches the standard one.
+12. Deuteronomy 10:14 is why the devil left. Matthew 4:10 quotes 6:13/10:20; the inference that Jesus meant the neighboring verse is his, and a good example of his "read the whole chapter" method rather than a fact about the text.
 
 ---
 

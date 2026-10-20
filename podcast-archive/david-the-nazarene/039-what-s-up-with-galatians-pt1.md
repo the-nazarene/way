@@ -10,7 +10,50 @@
 
 ## Summary
 
-*Notes pending.*
+Part one of seven, and the only part that walks the letter itself: Galatians 1:1-2:14 closely, then 4:16-17, 5:10-12 and 6:12-14 at a glance. His reading of the Galatians text is that "him who called you" in 1:6 is Paul himself; that the unnamed troublers are left unnamed because they outrank Paul; that "separated me from my mother's womb" (1:15) borrows the language used of James and John the Baptist (holy from the womb, a Nazirite calling) to put Paul on James's level; that "revealed his son in me" is the first of Paul's claims to have Jesus literally in him; that the repeated "I lie not" (1:20) is what someone says who is being accused of lying; and that 2:2's "those who were esteemed" and 2:6's "whatever they were, it makes no difference to me" refer to the same three men named in 2:9, so that "not from men" in chapter 1 means not from the Twelve. The "party of the circumcision" he takes to be the Jerusalem assembly itself, not a faction within it, citing Eusebius calling James bishop of the circumcision. At Antioch (2:11-14) everyone, including Barnabas, ends up on Peter's side, so Paul lost; the works-of-Torah passages that follow show the dispute was Torah observance, and he reads the Nazarene Acts (Peter's rules on table fellowship with the unbaptized) as the likely background to Peter's withdrawal.
+
+The part's own contribution is an identification. Acts 15:36-39 (the sharp contention with Barnabas over John Mark) is, on his reading, Luke's version of the same quarrel as Galatians 2:11-14; so the "certain from James" of 2:12 is John Mark, who had earlier left Paul at Perga and gone back to Jerusalem (Acts 13:13), presumably to report; and since Peter in Acts 12:12-17 goes to the house of Mary, John Mark's mother, and says "tell James and the brethren," John Mark may be a member of Jesus's family. Galatians is then damage control written before word of Antioch spread. The Acts 15 decree is read as four purity rules for Gentiles "who are turning," a vegetarian diet plus no fornication, to let them in the door for a three-year probation while Moses is read weekly.
+
+## Key Points
+
+- Paul never met Jesus; Peter was one of three chief disciples, on the Essene pattern of twelve under a master with three at the head; Paul concedes James, Peter and John "seem to be pillars." [00:01]-[01:34]
+- Galatians 1:1-12: "him who called you" is Paul; the troublers are unnamed because they can harm him, like a boss you do not name in the break room. [01:34]-[07:48]
+- 1:15 "from my mother's womb" as a bid for James's Nazirite status; 1:16 "reveal his son in me" as a possession claim he develops from other letters; 1:18-19 Peter and James only, with "I lie not" following. [07:48]-[12:32]
+- Galatians 1:18-19 does not match Acts (deferred to part 2); 2:1-10 with verses 4-5 bracketed as an aside, so "those esteemed" in 2:2 and 2:6 are the same men as 2:9. [12:32]-[18:44]
+- "Not from men" means the Twelve; 2:11-14 as the same disrespect in action; the circumcision party is the Jerusalem assembly (Eusebius on James). [18:44]-[21:50]
+- The Nazarene Acts on table fellowship: Peter eats only with the baptized, because a shared meal is a covenant meal and food can carry unclean spirits; a possible reason for the withdrawal. [21:50]-[24:55]
+- Paul admits everyone turned against him; the dispute was works of Torah; 4:16 ("your enemy") against Peter's "the enemy" in the Nazarene Acts; 5:12 as wishing castration on the circumcision party; 6:12-13. [24:55]-[29:35]
+- Acts 15:1-2, 13-22: the "false brothers" of Galatians 2:4 are the men from Judea; James's four rules for those "turning," a three-year probation, vegetarian diet and no fornication as the entry terms; Paul's letters show he did not keep even these. [29:35]-[37:29]
+- Acts 15:33-39: the split with Barnabas over John Mark as Luke's version of Antioch; Acts 13:13; Acts 12:12-17 and John Mark as possibly family of Jesus; Galatians as damage control. [37:29]-[46:41]
+
+## Sources He Cites
+
+Held (KJV, `christianity/Incoming/kjv/`): Galatians 1:1-2:14, 4:16-17, 5:10-13, 6:12-14; Acts 12:12-17, 13:13, 15:1-2, 15:13-22, 15:33-41. He reads from a Hebrew-roots translation (Elohim, favour, emissaries, stake), so wording differs from the KJV.
+
+Held (Smith, ANF 8, `christianity/Incoming/clementine-recognitions-full-text.md`): the table-fellowship rule is *Recognitions* 2.71 (Peter will not eat with the unbaptized; one who has eaten things sacrificed to idols "is not without an unclean spirit"), with the Clement baptism frame at 7.29-38. He reads the Snyder "Nazarene Acts" edition; Smith's numbering is the same (`extended-library/nazarene-acts-snyder-notes.md`).
+
+Not held: Eusebius, *Church History* on James as bishop of "the circumcision" (4.5.3-4 lists the Jerusalem bishops "of the circumcision"); the Essene three-year probation (Josephus, *War* 2.8.7, one year outside plus two years of testing; 1QS 6:13-23, held in excerpt, gives two years).
+
+## Where This Overlaps the Repo
+
+- `questions/pauls-legitimacy.md` §1 ("not from any man," 2:6 "added nothing," and the Galatians 1:18-19 objection) and the Galatians 2:9 objection (Acts 21:20-25 "a decade later"; Paul losing Barnabas) carry the same reading of 1:1-2:14, stated as structure rather than motive. `TOPIC-INDEX.md` cluster 2: "Paul vs. Peter at Antioch" routes to `jesus-site-reference/source/docs/paul-vs-the-twelve.md` (`## Paul vs. Peter — To His Face`).
+- Acts 15 as James ruling and Paul reversing it: `christianity/acts-15-james-four-decrees.md` (`## The Most Misread Chapter in Acts`, `### Paul's Contradiction`). The repo reads the decrees as the Gentile rule; he reads them as entry rules for a probation, the same emphasis as his episodes 171-173 (see 171, Claims to Check 6).
+- Peter's side of Antioch and the Clementine table rules: `christianity/clementine-literature-nazarene-writings.md` (`### Paul as "Enemy" of the True Teaching`), `questions/nazarene-sect-sacrifice-and-diet.md` (`### The Recognitions block`), `podcast-archive/shabbat-studies/06-ch4a-the-one-about-paul.md` ("Peter's side of the story"). His 172 makes the *Recognitions* 2.71 argument explicitly.
+- "Holy from his mother's womb" is Hegesippus on James, held in `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md` (Eusebius 2.23.5), which is what he is comparing Galatians 1:15 to.
+- `extended-library/questioning-paul-notes.md` ch. 02-03 reads the same verses (1:20 "I do not lie," 2:2 *dokei*, 2:6, 2:9) to the same conclusion, and ch. 03 lists nineteen Galatians 2 / Acts 15 contradictions; `extended-library/jesus-words-only-notes.md` ch. 5 and 11.
+- John Mark: `podcast-archive/shabbat-studies/06-ch4a-the-one-about-paul.md` and `09-ch4d` discuss Mark; neither makes the "certain from James" identification, which is his.
+
+## Claims to Check
+
+1. The "certain from James" of Galatians 2:12 are John Mark. Nothing in Galatians or Acts names them; Acts 15:37-39 gives the cause of the Barnabas split as Mark's desertion at Perga, with no mention of Peter, Antioch table fellowship or Torah, and Colossians 4:10 calls Mark Barnabas's cousin, which is the usual explanation of why Barnabas wanted him. The identification is his inference from juxtaposition.
+2. John Mark is a member of Jesus's family because Peter says "tell James and the brethren" at Mary's house (Acts 12:12-17). "The brethren" in Acts ordinarily means the believers (Acts 1:15-16, 11:1, 15:1); Mary mother of John Mark is not elsewhere connected to Jesus's mother. Inference.
+3. Galatians 2:11-14 and Acts 15:36-39 describe the same quarrel. Most reconstructions place Antioch either before the council (Gal 2 = Acts 11:30) or after it; none has Luke recasting Peter as Mark. Possible, unattested.
+4. The circumcision party was the Jerusalem assembly itself, not a faction. Galatians 2:12 says Peter feared "them which were of the circumcision" after men came from James; Acts 15:5 names "certain of the sect of the Pharisees which believed" as the circumcision advocates, which is a faction inside the assembly. Eusebius's "bishops of the circumcision" (4.5) refers to Jewish-born bishops, not to a party. Both readings are possible; the text does not settle it.
+5. Converts underwent a three-year probation before full membership. That is the Essene procedure in Josephus (*War* 2.8.7); the Community Rule gives two years. Acts 15 says nothing about a probation; the transfer is his.
+6. The four decrees mean "a vegetarian diet." Acts 15:20, 29 forbid idol-offerings, blood and things strangled; the repo's acts-15 file reads this as a diet-and-ethics code, and `questions/nazarene-sect-sacrifice-and-diet.md` concedes that the decrees do not say "no meat." The vegetarian reading needs the Clementine and Hegesippus material, not Acts 15 alone.
+7. Peter's three-chief-disciples structure is Essene. The Community Rule (1QS 8:1) has a council of twelve men and three priests, held in `christianity/dead-sea-scrolls/Incoming/dead-sea-scrolls-selected-texts.md`; whether the three are inside or in addition to the twelve is debated, and the gospel triad (Peter, James, John) is a different three. A parallel, not a derivation.
+8. "Separated me from my mother's womb" is Paul claiming Nazirite status. Galatians 1:15 echoes Jeremiah 1:5 and Isaiah 49:1 (prophetic calling), which is the usual reading; the Hegesippus line about James (held) uses "holy from his mother's womb" of a Nazirite. The echo of James is his.
+9. Paul "attacked James at the temple" and left him for dead. *Recognitions* 1.70 (held) has an unnamed "enemy"; the name Saul is a manuscript margin and chapter heading, not the text (see `extended-library/nazarene-acts-snyder-notes.md`, Claims to Check 2).
 
 ---
 

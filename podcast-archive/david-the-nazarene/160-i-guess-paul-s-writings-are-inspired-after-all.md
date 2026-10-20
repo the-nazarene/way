@@ -10,7 +10,53 @@
 
 ## Summary
 
-*Notes pending.*
+A sustained piece of irony. He announces that he "repents" of denying the inspiration of Paul's letters: they are inspired, because God moved Paul to put in writing everything needed to identify him as the false apostle the gospels warn about, and it is the "Paulinists" who deny the inspiration of these verses by explaining them away. The refrain ("Paulinists don't accept these verses... I hope they repent") runs through the whole video; the content is a compact tour of his standing case. 1 Corinthians 15:9 ("least") against Matthew 5:19; Acts 23:6 and Romans 16:11 (Pharisee and Herodian) against Mark 8:15; the three Damascus accounts against Matthew 24:26, with the claim that "every eye" did see the coming in 70 CE because Josephus and Tacitus report armies in the sky; 1 Corinthians 9:20-22 and 2 Corinthians 12:16 ("being crafty, I caught you with guile") as admitted deception; Romans 11:1 and Genesis 49:27; Romans 10:9 against Matthew 7:21-23 and John 6:39-40 (where he renders *pisteuō* "obey"); Galatians 5:1-4; 1 Corinthians 8:10 and 10:25-30 (idol meat, with 2 Corinthians 12:7's "angel of Satan" as the consequence, per the Clementines); 1 Corinthians 2:10 and Revelation 2:24; Matthew 13:11 and 10:15 on the apostles' authority; Galatians 1:11-2:14 against Acts 9 and 15 (Mauck's Acts-as-brief, so Acts wins; Titus and Timothy perhaps one man; "only remember the poor" as the lie; Antioch as Paul's rebuke); Galatians 4:16, 5:10-12, 6:12-13; *Recognitions* 4.35 behind 2 Corinthians 3:1; 2 Corinthians 4:2, 5:12, 10:2, 10:12-18, 11:4-5, 11:13-15, 11:22-12:12 (the boasting, the third heaven, the thorn, the signs of an apostle), 13:3-7; James 4:16; Mark 7:15-23 and Matthew 15:19 as the list of what defiles (bread, not meat, was at issue); Acts 23:6 as false testimony; Acts 17:11 and Revelation 2:2 as commendation for testing.
+
+The closing statement drops the irony: he accepts Paul's letters as inspired in the sense that they contain the evidence against their author, and as nothing more.
+
+## Key Points
+
+- The "repentance"; 1 Corinthians 15:9 and the Jamieson-Fausset-Brown note on Paul's name (biblehub). [00:00]-[03:09]
+- Pharisee and Herodian (Acts 23:6, Romans 16:11, Mark 8:15); Acts as told to Luke by Paul. [03:09]-[04:44]
+- Acts 9, 22, 26 and Matthew 24:26; 70 CE and the armies in the sky (Josephus, Tacitus). [04:44]-[06:18]
+- 1 Corinthians 9:20-22 ("to the weak" = to the apostles), 2 Corinthians 12:16; Romans 11:1 and Genesis 49:27. [06:18]-[09:27]
+- Romans 10:9 against Matthew 7:21-23; John 6:39-40 "obeys unto him"; Galatians 5:1-4. [09:27]-[14:08]
+- 1 Corinthians 8:10, 10:25-30; 2 Corinthians 12:7 and the Clementine demon mechanism; Revelation 2:14; 1 Corinthians 2:10 and Revelation 2:24. [14:08]-[20:20]
+- Matthew 13:11, 10:15; Galatians 1:11-20 versus Acts 9; Mauck; Galatians 2:1-10, Titus/Timothy, "remember the poor" versus Acts 15:20; Antioch. [20:20]-[35:56]
+- "The enemy" in the Clementines; Galatians 4:16, 5:10-12, 6:12-13; *Recognitions* 4.35; 2 Corinthians 3:1, 4:2, 5:12, 10:2, 10:12-18, 11:4-5, 11:13-15. [35:56]-[48:25]
+- 2 Corinthians 11:16-12:12: the boasting, the third heaven, the thorn as *angelos*, the signs of an apostle; Deuteronomy 13 and Matthew 24 on signs; James 4:16; 13:3-7. [48:25]-[59:18]
+- Mark 7:15-23 (bread, not meat); Matthew 15:19 false witness and Acts 23:6; Acts 17:11; Revelation 2:2; closing statement. [59:18]-[1:05:41]
+
+## Sources He Cites
+
+Held (KJV): 1 Corinthians 2:10, 8:1-13, 9:20-22, 10:25-31, 15:9; Acts 9:1-30, 15:20, 17:11, 22:3-21, 23:6, 26:9-20; Romans 10:9, 11:1, 16:11; Mark 7:15-23, 8:15; Matthew 5:19, 7:21-23, 10:15, 13:11, 15:19, 24:24-27; Genesis 49:27; John 6:39-40; Galatians 1:11-2:14, 4:16, 5:1-12, 6:12-13; 2 Corinthians 3:1-3, 4:2, 5:12, 10:1-18, 11:4-33, 12:1-16, 13:3-7; James 4:16; Revelation 2:2, 2:14, 2:24; Deuteronomy 13:1-5.
+
+Held (Smith, ANF 8): *Recognitions* 4.35 (the testimonial from James; "neither prophet nor apostle... besides us"; the twelve months); the demon-and-idol-meat mechanism at *Recognitions* 4.36 and 2.71 and *Homilies* 7.3, 9.9-10; *Homilies* 17.19 ("become a fellow worker with us").
+
+Not held: John W. Mauck, *Paul on Trial*; Jamieson-Fausset-Brown on 1 Corinthians 15:9 (public domain, via biblehub); Josephus, *War* 6.5.3 and Tacitus, *Histories* 5.13 (armies in the clouds before 70); the Timothy = Titus proposal (unnamed scholars); 2 Timothy's authorship consensus.
+
+## Where This Overlaps the Repo
+
+- The whole video is a one-hour index of his 155 (warnings 1-7), 157 (James answers Paul), 171-173 (Acts as brief, Antioch, the Clementine demon mechanism, the commendation letters) and 156 (the "faint praise" of 2 Peter). Cite those notes for the checks; nothing here is new except the framing.
+- `questions/pauls-legitimacy.md` makes the same formal point in its own voice: Paul's letters are "a primary source for Paul's theology," and the strongest evidence (Galatians 1:11-12, 2:6; the near-absence of Jesus's sayings) is Paul's own words. Where the card stops is "not a claim about Paul's character"; this video is the character case.
+- The three Damascus accounts as evidence about Luke, not Paul's honesty: the card's "You cite Acts when it suits you"; 155 (warning 3) agrees with the card that the discrepancies are weak evidence, and here he again rests on Matthew 24:26 rather than on the discrepancies.
+- 2 Corinthians 12:7 *angelos*: `christianity/paul-false-prophet-deuteronomy-18-test.md` (`## Paul's Own Admissions`) already reads it as "messenger (angel) of Satan"; `extended-library/questioning-paul-notes.md` ch. 00, Claims to Check 4, flags possession as interpretive; 173.
+- Mark 7:19 and bread, not meat: `questions/jesus-and-the-torah.md` (the Mark 7:19 objection) argues the same from Mark 7:2-5; `extended-library/jesus-words-only-notes.md` ch. 14 fn. 11.
+- Testing Paul (Acts 17:11, Revelation 2:2): `christianity/paul-false-prophet-deuteronomy-18-test.md` (`## Historical Witnesses Against Paul`); 155 (coda).
+- 70 CE as the coming "every eye" saw: his Revelation Fulfilled series (097-126, esp. 120) and `questions/rapture-end-times.md`.
+
+## Claims to Check
+
+1. The irony itself. The video's claims are his standing ones; the only new assertion is the rhetorical one that accepting the letters as evidence is accepting them as inspired. Anyone quoting a line from this video should know the register, since several sentences ("Paul's letters are obviously inspired by Yahweh") mean the opposite of what they say.
+2. "Every eye saw him" in 70 CE because Josephus and Tacitus report armies in the sky. Josephus (*War* 6.5.3) and Tacitus (*Hist.* 5.13) do report chariots and armies seen in the clouds before the war; neither connects them to Jesus, and neither is held. Preterist reading; label it.
+3. Timothy and Titus are the same name and perhaps the same man. *Timotheos* is Greek ("honoring God"); *Titus* is a Latin praenomen; they are unrelated names. The one-person proposal (Borse, Fellows) exists as a minority argument from the two men never appearing together; the name claim is wrong. 172 entertains the same idea.
+4. Acts was written under penalty of death, so it beats Galatians. See 171, Claims to Check 1-2.
+5. John 6:40's "believeth" should be "obeys unto him." His standing lexical claim for *pisteuō eis* (165); *pisteuō* means believe/trust, and "obey" is a theological gloss. JWO Claims to Check 19 covers the related participle argument.
+6. 2 Corinthians 12:16 is a confession of deceiving the Corinthians. The verse is usually read as Paul quoting the accusation ("being crafty, I caught you with guile") in order to deny it (12:17-18). Check the context.
+7. 2 Timothy was written after Paul's lifetime. Majority critical view; stated correctly, and it is a book he elsewhere uses (155's Ephesus stack uses 2 Timothy 1:15).
+8. Acts 23:6 was false testimony. Paul was arrested over Trophimus (21:28-29) and raised the resurrection in the council; whether that is perjury or a defense strategy is a judgment. Luke presents it as tactics (23:6-10).
+9. The Jamieson-Fausset-Brown note says Paul's name means "least." JFB on 1 Corinthians 15:9 notes the play on *paulus* ("little"); "least" is the superlative he adds. See 155, Claims to Check 1.
+10. The signs-and-wonders test of Deuteronomy 13 and Matthew 24:24 disqualifies 2 Corinthians 12:12. Both texts are held and say what he says: signs do not validate a teacher who leads away from the commandments. The question is whether Paul does lead away from them, which is the whole dispute, not this verse.
 
 ---
 

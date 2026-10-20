@@ -10,7 +10,55 @@
 
 ## Summary
 
-*Notes pending.*
+Part seven, the conclusion, has no Galatians verses; it is a reading of Josephus, *Antiquities* 20.8.8-20.9.4, in order, with Acts 28:30 as the hinge. His thesis, stated at the start and the end: the Book of Acts exists to put Paul in Rome for "two whole years" because Paul was in Jerusalem in 62 and had a role in the death of James. The Josephus sequence as he reads it: Agrippa II gives the high priesthood to Ishmael; a sedition between the high priests and "the principal men of the multitude," whom he identifies as James's opposition priesthood of lower, impoverished priests (the "poor," Ebionim), with the high priests' servants stealing the priests' tithes at the threshing floors (a scene Josephus repeats three times); Festus arrives (60) and the Sicarii multiply, whom he traces, via another historian, to an Essene splinter and to the Zealots among Jesus's followers; Agrippa's dining room overlooking the temple and the wall the "chief men" build to block it, upheld by Nero at Poppaea's request, with Ishmael and Helcias held in Rome; Joseph Cabi, then Ananus son of Ananus, who with Festus dead and Albinus on the road convenes the Sanhedrin and stones James; the citizens' protest, Albinus's anger, Ananus removed after three months, then Ananus bribing Albinus and Jesus son of Damneus and again stealing the tithes; Jesus son of Gamaliel (whom he takes for a son of the Gamaliel the *Recognitions* calls a secret believer) and a renewed priestly war; and Costobarus and Saulus gathering "wicked wretches," favored "because of their kindred to Agrippa," which he reads as Paul back in Jerusalem leading the high priest's thugs, as at Stephen's stoning and the temple-steps attack.
+
+Two side arguments: Josephus's own Rome trip (*Life* 3), to free priests Felix had sent to Nero, who lived on figs and nuts, is folded into the ten-ambassador embassy, with Poppaea as the link, and Josephus himself floated as Joseph Cabi or as the author of Acts; and Paul's Roman connections, Epaphroditus (Philippians 2:25, 4:18) identified with Josephus's patron and Nero's secretary, and the Paul-Seneca correspondence read as Seneca reading Paul's letters to Nero and Poppaea. The conclusion he draws with "a fairly high degree of certainty": James led the opposition priesthood, Paul remained an agent of the establishment, and Acts is his alibi. Paul's letters and Josephus remain, for him, valuable as history and nothing more.
+
+## Key Points
+
+- "Two whole years" as the purpose of Acts; the death of James as the central event after the resurrection. [00:00]-[03:09]
+- *Antiquities* 20.8.8: Ishmael; high priests versus the principal men of the multitude; the establishment as one team; the lower priesthood and the priests "obedient to the faith" in Acts 6:7. [03:09]-[07:51]
+- James's opposition priesthood would have ended animal sacrifice; the tithes stolen, the poor priests starving. [07:51]-[09:26]
+- Festus; the Sicarii and their daggers; the Essene Sicarii and forced circumcision; "the way" and "the doers" as self-designations. [09:26]-[14:12]
+- Agrippa's dining room; the wall; Nero and Poppaea; Ishmael and Helcias retained; Joseph Cabi; Josephus's family and his Rome trip; the figs-and-nuts priests. [14:12]-[20:29]
+- Ananus son of Ananus, the Sadducee; Festus dead, Albinus on the road; James stoned; the equitable citizens; Albinus's threat; three months. [20:29]-[25:11]
+- Ananus's bribes; the tithes again; Jesus son of Damneus; Jesus son of Gamaliel; the priestly stone-throwing. [25:11]-[29:55]
+- Costobarus and Saulus; Paul as still the high priest's agent; the Acts alibi. [29:55]-[33:08]
+- Epaphroditus and Josephus's dedications; Nero as the beast; Seneca and Paul. [33:08]-[41:05]
+- Conclusion. [41:05]-[44:11]
+
+## Sources He Cites
+
+Held (KJV): Acts 28:30, 6:7, 7:58, 13:1; Philippians 2:25, 4:18; Revelation 13:18.
+
+Held (Smith, ANF 8): *Recognitions* 1.65-67 (Gamaliel as a secret believer who stays among the priests), 1.70 (the temple attack).
+
+Not held: Josephus, *Antiquities* 20.8.8-20.9.4 (the whole sequence; Whiston is public domain and `OPEN-RESEARCH.md` item 7 proposes adding it), *Life* 3 and 76 (the Rome trip; the dedication to Epaphroditus), *Against Apion* 1.1, *War* 3.8 (the cave at Jotapata); Hippolytus, *Refutation* 9.21 (Essene Sicarii); Suetonius, *Domitian* 14 (Epaphroditus executed); the Paul-Seneca letters (fourth-century, Latin); Eusebius and Epiphanius on James and the priests.
+
+## Where This Overlaps the Repo
+
+- James's death: `christianity/james-the-just-key-to-understanding-jesus.md` (`### Historical Sources`, `### The Erasure of James`); `questions/CITATION-NOTES.md` #2 (what Hegesippus says about James and the temple). The repo has Josephus's account at reference level only.
+- Saulus as Paul: 171 (Claims to Check 4) and 058 (Summary) in this folder; JWO Claims to Check 26 (Saulus active in the 60s, after Paul's conversion, so the chronology there is "backwards" for Del Tondo's use; here it is the point).
+- James as opposition high priest: 171 (Eisenman's phrase) and part 3 (Epiphanius 29.4, held).
+- Sacrifice ending under a Nazarene priesthood: `questions/sacrifice-culture-vegetarian-jesus.md`, `questions/nazarene-sect-sacrifice-and-diet.md` (`### The Recognitions block`), his 006 and 010.
+- Nero as 666: `questions/rapture-end-times.md`; his Revelation Fulfilled series (097-126).
+- "The way" and "the doers": `questions/essene-nazarene-origins.md`; `christianity/the-nazarenes.md`.
+- The position stated at the end (Paul's letters as history, not religion) matches his 160 and the repo's `questions/pauls-legitimacy.md` ("a primary source for Paul's theology... not a source for what Jesus taught"), with the difference that the repo declines the character verdict.
+
+## Claims to Check
+
+1. Paul was in Jerusalem in 62 and had a role in James's death; Acts 28:30 is the alibi. Rests on Saulus = Paul (part 6 and 171/058) and on Josephus's order of events. Josephus places Costobarus and Saulus after Jesus son of Gamaliel's appointment (c. 63-64), not at the stoning; no source puts Paul in Jerusalem after Acts 23. Inference stacked on inference, and he says so ("I'll let you decide").
+2. "The principal men of the multitude" are James's priesthood. Josephus's phrase means the leading citizens; the wall against Agrippa's dining room was built by "the eminent men of Jerusalem" with the high priest Ishmael among the ambassadors who defended it, i.e. the high priest was on the wall-builders' side. That cuts against the two-team reading.
+3. Josephus's Rome trip (*Life* 3) was the ten-ambassador embassy, and Josephus could be Joseph Cabi or the author of Acts. *Life* 3 dates the trip to Josephus's 26th year (c. 64) to free certain priests Felix had sent; the embassy over the wall is c. 61-62 and Josephus does not mention being on it. Josephus's father was Matthias (*Life* 1), so Joseph Cabi son of Simon is not Josephus, and Josephus was never high priest. Theophilus the high priest (37-41) is a real candidate for Luke's Theophilus; "Josephus's father" is not.
+4. Nero (or Josephus) says the imprisoned priests were vegetarians. *Life* 3 says they lived on figs and nuts out of piety; it is Josephus speaking.
+5. Jesus son of Gamaliel was the son of the Gamaliel of Acts 5 / *Recognitions* 1.65. No source connects them; Gamaliel was a common name. The *Recognitions* passage about Gamaliel's secret faith is held and real; the link to the high priest is his.
+6. The Sicarii were an Essene splinter and the Zealots were the believers' party. Hippolytus 9.21 does describe Essene "Sicarii" and "Zealots" (reference level); Josephus's Sicarii (from c. 54) are a separate movement. "Iscariot" as Sicarius is one disputed etymology. See part 5, Claims to Check 11.
+7. Epaphroditus of Philippians is Josephus's patron and Nero's secretary. Philippians 2:25 makes Epaphroditus the Philippians' own messenger who carried their gift to Paul; Josephus's Epaphroditus is a wealthy patron of the 90s, identified either with Nero's freedman (executed c. 95) or with a grammarian of the same name. The name was common; the identification has no support and reverses the direction of the money.
+8. Seneca read Paul's letters to Nero and Poppaea. The fourteen Paul-Seneca letters are a fourth-century Latin forgery, rejected by all modern scholarship (Jerome, *De viris* 12, is the earliest witness). Nothing in Seneca's genuine works mentions Paul.
+9. Poppaea was "religious" because she read Paul. Josephus (*Ant.* 20.8.11) calls her *theosebēs*, which is often read as a Jewish sympathizer; Tacitus is hostile to her. No source connects her to Paul.
+10. Josephus killed his two companions in the cave by lot. *War* 3.8.7 says he survived the lots with one other man and persuaded him to surrender; no killing of two friends is recorded.
+11. The lower priests of the 24 courses "despised" the high priesthood and were the Nazarenes' allies. Acts 6:7 says "a great company of the priests were obedient to the faith"; Josephus's tithe story shows the high priests oppressing ordinary priests. Both real; the alliance is his synthesis.
+12. "Essene" means "the doers." One of several etymologies (*'osim*, *hasidim*, *'asayya* healers); none is settled.
 
 ---
 

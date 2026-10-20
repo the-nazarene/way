@@ -10,7 +10,55 @@
 
 ## Summary
 
-*Notes pending.*
+Part three leaves Galatians (no new verses; the review restates parts 1-2) and reads Romans and 1 Corinthians as the next letters in the quarrel. It opens with Epiphanius on the Nazarenes (circumcision, Sabbath, festivals; and, he adds, a corrupted Pentateuch and no meat or sacrifice) and with the missionary-journey maps, placing Romans at Corinth on the third journey. Romans 15:30-31 (deliverance from "them that do not believe in Judaea") is read as Paul fearing the Jewish believers, not unbelieving Jews; Romans 14:1-23 ("he who is weak eats herbs") as Paul calling the Essene-Nazarene vegetarians weak, with a calendar dispute in 14:5-6 that he links to the solar calendar of the Scrolls and to the Habakkuk pesher (the Wicked Priest catching the Teacher on a different Yom Kippur); Romans 15:1-3 as Paul comparing his critics to those who reproached the Messiah; Romans 16:17-18 ("serve their own belly") as aimed at the apostles. He suggests James may be the thorn in Paul's flesh.
+
+1 Corinthians: the Paul / Apollos / Cephas parties (1:12) as the Antioch division spreading; Apollos (Acts 18:24-28) as a disciple "instructed in the way of the Lord" who knew John's baptism and taught something other than Paul, so that Paul's milk-not-meat excuse (3:1-6) and "it is a small thing to be judged by you" (4:3) are damage control under examination; Acts 19:9 and 19:10's "all Asia heard" as Paul's reputation spreading ahead of the temple riot; 1 Corinthians 8 (the weak who object to idol meat are the Nazarenes; "don't let them see you") and 9:1-14 (his apostleship questioned; taking goods, against Matthew 10:8); 9:19-22 ("to the weak I became as weak") as admitted misrepresentation, the Greek *hypokritēs* meaning actor; 10:20-30 as a reversal within one chapter (table of demons, then eat whatever is sold). The repeated defensiveness, he argues, only makes sense if the accusers were the Jerusalem assembly.
+
+## Key Points
+
+- Review; Epiphanius on the Nazarenes (he says "chapter 18," the Nazarene chapter is 29); the Nazarenes held the Pentateuch corrupted and refused meat and sacrifice; the prophets against sacrifice (his "I came to abolish sacrifices" videos). [00:00]-[06:15]
+- The three journeys; Romans written at Corinth (Romans 16 names and Acts 18-20). [06:15]-[07:49]
+- Romans 15:30-31: "those who do not believe" are believers who rejected Paul's version; James as the thorn in the flesh. [07:49]-[10:59]
+- Romans 14: the weak eat vegetables; Paul an agent of the high priest, Sadducean in behavior, quoting pagans and no rabbis; the calendar dispute and the pesher. [10:59]-[17:20]
+- Romans 14:14-23 as "do as thou wilt"; his hearers echo it; Genesis 1 to Jesus as vegetarian. [17:20]-[20:31]
+- Epiphanius 29.4 on James (Nazirite, priest of the old priesthood, Melchizedek); Hegesippus; Eusebius *DE* 3.5 on the disciples' abstinence; Romans 15:1-3; 16:17-18. [20:31]-[25:12]
+- 1 Corinthians 1:10-12; Apollos in Acts 18:24-28 as Jesus's disciple, not John's; Acts 19:1-10, the Ephesus withdrawal and Asia. [25:12]-[31:28]
+- 1 Corinthians 3:1-6 milk and meat; 4:3-5, 4:18 as Paul under judgment. [31:28]-[36:10]
+- 1 Corinthians 8: the weak are the vegetarians; "don't let them see you eat"; 9:1-14 apostleship and money; the ox verse against Matthew 10:8. [36:10]-[42:31]
+- 9:19-22 as lying; hypocrite as actor; 10:20-30's reversal. [42:31]-[47:13]
+
+## Sources He Cites
+
+Held (KJV): Romans 14:1-23, 15:1-3, 15:30-31, 16:3-5, 16:17-18; 1 Corinthians 1:10-12, 3:1-6, 4:3-5, 4:18, 8:1-13, 9:1-14, 9:19-22, 10:20-31; Acts 18:1-3, 18:24-28, 19:1-10, 20:16-17; Matthew 10:8; Genesis 1:29.
+
+Held (Tier 1, `christianity/Incoming/epiphanius-panarion-book-1-full-text.md`): *Panarion* 29.7.2-5 (Nazoraeans keep the Law, circumcision, Sabbath; use Old and New Testaments; read Hebrew) and 29.4.2-3 (James a Nazirite who "exercised the priesthood after the manner of the old priesthood" and entered the Holy of Holies once a year). The Panarion does not say the Nazoraeans rejected meat or held the Pentateuch corrupted; that is the Ebionite chapter (30) and the Clementines.
+
+Held (Tier 2, `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md`): Hegesippus via Eusebius 2.23.5 ("drank no wine nor strong drink, nor did he eat flesh"); Eusebius, *Demonstratio* 3.5 (the disciples' "abstinence from wine and meat").
+
+Not held: the Habakkuk Pesher (1QpHab 11:4-8, the Wicked Priest pursuing the Teacher on the Day of Atonement; Eisenman's translation); Philo and Josephus on Essene character (*Ant.* 18.1.5 and *War* 2.8.5 excerpts are held); the Essene solar calendar (Jubilees 6, held in `christianity/ethiopian-bible/unique-ethiopian-texts.md`; 4QMMT excerpt held).
+
+## Where This Overlaps the Repo
+
+- Romans 14:2 is the repo's own open item: `OPEN-RESEARCH.md` item 1 ("Paul calls the vegetarian 'weak in faith'") and `questions/nazarene-sect-sacrifice-and-diet.md` (`### Romans 14:2 — the best unused asset for the flesh claim`), which states the narrow version (Paul's category, not his intent) and the counter-reading (Roman house-churches). His version is the broad one.
+- James's diet and priesthood: `christianity/james-the-just-key-to-understanding-jesus.md` (`### The Hegesippus Portrait`); `questions/CITATION-NOTES.md` #2 on what Hegesippus does and does not say about the temple.
+- Idol meat and 1 Corinthians 8 and 10: `christianity/acts-15-james-four-decrees.md` (`### Paul's Contradiction`), `questions/pauls-legitimacy.md` §3, `extended-library/jesus-words-only-notes.md` ch. 6-7; his own 155 (warning 7) and 172.
+- Nazarenes as Essenes and the calendar: `questions/essene-nazarene-origins.md`, `christianity/dead-sea-scrolls/00-overview.md` (`## Open Questions`, Eisenman as minority), his 051-059 (Damascus Document and pesher read-throughs; 058 Summary gives the pesher identifications).
+- Paul as Sadducee or high-priest's agent: his 043 (part 5) and 155 (warning 2); `podcast-archive/the-jesus-way/023-exposing-paul-false-prophet.md` (`### Paul as Herodian "Deep State"`).
+- "To the weak I became as weak" as misrepresentation: 157 and 160 in this folder; the repo's cards do not use 9:19-22 this way.
+
+## Claims to Check
+
+1. Epiphanius says the Nazarenes held the Pentateuch corrupted and ate no meat. *Panarion* 29.7 (held) says the opposite about scripture: they accept Law, Prophets and Writings "as the Jews do." The corrupted-Torah and no-meat positions are Ebionite (30.16, 30.18) and Clementine. He has merged the two chapters.
+2. James was a Melchizedek priest. Epiphanius 29.4.2-3 (held) says "the old priesthood" and the Holy of Holies; it does not name Melchizedek. The gloss is his.
+3. Romans 15:31's unbelievers are Jewish Christians who rejected Paul. The Greek *apeithountōn* ("disobedient/unbelieving") in Romans 11:30-31 and 15:31 refers to Jews who did not accept the gospel; the next clause separately mentions "the saints" who might not accept his collection, which is the real evidence of anxiety about Jerusalem.
+4. The weak of Romans 14 and 1 Corinthians 8 are the Nazarenes/apostles. Romans 14's vegetable-eaters are unnamed Roman believers; 1 Corinthians 8:7's weak are former idolaters with a defiled conscience. The repo's narrow claim survives; "the apostles" does not follow from either text.
+5. Paul "doesn't quote any rabbis" and behaves like a Sadducee. Paul uses Pharisaic exegetical forms (the light-and-heavy argument, Romans 5; the chain of citations, Romans 3) and affirms resurrection against the Sadducees (Acts 23:6-8, 1 Corinthians 15); named-sage citation is a later genre (Mishnah, c. 200). "Agent of the high priest" rests on Acts 9:1-2.
+6. The Habakkuk Pesher's Yom Kippur confrontation shows a calendar dispute between James and Ananus. The pesher (1QpHab 11:4-8) does describe the Wicked Priest appearing on the Teacher's Day of Atonement, which most read as a calendar difference; the identification with James and Ananus is Eisenman's and the repo dates the pesher earlier (`christianity/dead-sea-scrolls/00-overview.md`). Not held.
+7. Apollos was a disciple of Jesus taught by the Twelve, so Paul's baptism differed from theirs. Acts 18:25-26 says he knew only John's baptism and was corrected by Priscilla and Aquila, Paul's own companions, which cuts against the reading. Inference.
+8. "All Asia heard" (Acts 19:10) means Paul's bad reputation spread, and that is why he avoided Ephesus. Acts 20:16 gives haste for Pentecost; see 155, Claims to Check 8, and part 5 for his fuller argument.
+9. *Hypokritēs* meant "actor," so 1 Corinthians 9:22 is a confession of acting. The word did mean stage actor; Paul does not use it of himself, and 9:19-23 describes accommodation, not impersonation. The lexical point is right; the application is his.
+10. Paul took money from congregations against Matthew 10:8. 1 Corinthians 9:12-18 says he did not use the right at Corinth; Philippians 4:15-18 says he accepted gifts from Philippi; 2 Corinthians 11:8-9 "robbed other churches." Mixed evidence; worth stating both halves.
+11. The thorn in the flesh is James. One of many proposals (illness, opponents, a person); 2 Corinthians 12:7 names an "angel of Satan." Speculation he labels as such.
 
 ---
 

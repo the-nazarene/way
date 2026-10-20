@@ -10,7 +10,47 @@
 
 ## Summary
 
-*Notes pending.*
+Part four adds no new Galatians verses (the review covers 1-2 and the James parallels) and reads 2 Corinthians, Philippians and Colossians as the run-up to Paul's last trip to Jerusalem. He now floats the idea that Paul did not yet know which side James would take. 2 Corinthians 1:8-9 (the affliction in Asia, "the sentence of death") he reads as a trial where Paul expected a Deuteronomy 13 death penalty, and pairs it with Revelation 2:2 (Ephesus tried false apostles) and 2:14 (the teaching of Balaam, idol meat). 2 Corinthians 3:1-3 (letters of commendation) is explained from *Recognitions* 4.35: no teacher is to be received without a testimonial from James, so Paul must go to Jerusalem to get one, which is why Romans 15 asks for prayer. 2 Corinthians 5:16 ("though we have known Christ after the flesh") is Paul demoting the apostles who knew the earthly Jesus; 10:1-2 is a veiled threat; 10:12-18 turns the commendation demand back on those who "commend themselves"; 11:4-5's "another Jesus, a different spirit, a different gospel" and the "super apostles" (*hyperlian apostoloi*) are the Twelve; 11:13-15's false apostles masquerading as apostles of Messiah are therefore the apostles Jesus chose; the boasting of 11:16-21 is what James 4:16 answers; the thorn in the flesh (12:7) is possibly the person whose commendation he needs. Philippians 3:2-3 ("the mutilation," *katatomē*) and 3:18-19 ("whose god is their belly") are the same opponents.
+
+He closes with a textual-criticism note: the polemic against the apostles is concentrated in the letters scholars accept as genuine; the one possible exception, Colossians 2:16-18 (festivals, new moons, Sabbaths, "worship of angels"), he reads as a later imitator who mistook Paul's Nazarene opponents for Jews, and he defends the Qumran angelic liturgy as worshipping *with* angels, not worshipping them.
+
+## Key Points
+
+- Review; Paul may not know where James stands; map of Corinth, Antioch, Jerusalem. [00:00]-[03:11]
+- 2 Corinthians 1:8-9: a trial in Asia with a death sentence expected; Deuteronomy 13; Revelation 2:2 and 2:14 fit Paul. [03:11]-[06:17]
+- 2 Corinthians 3:1-3 and *Recognitions* 4.35: the testimonial from James; why Paul must go to Jerusalem (Romans 15:30-31). [06:17]-[11:05]
+- 2 Corinthians 5:16: the apostles knew only the Messiah according to the flesh; 6:4-10 boasting; 10:1-2 as a veiled threat; 10:12-18 on those who commend themselves. [11:05]-[15:50]
+- 11:4-5 another Jesus, a different spirit; the super apostles are the Twelve; 11:13-15 false apostles; 11:16-21 boasting against James 4:16; 12:7-12 the thorn and the commendation. [15:50]-[22:07]
+- Paul's plan: reach Jerusalem before the reports do and play the part long enough to get the letter. [22:07]-[23:40]
+- Philippians 3:2-3, 3:18-19. [23:40]-[25:15]
+- The genuine letters carry the polemic; Colossians 2:16-18 as the possible exception; Qumran's angelic liturgy. [25:15]-[28:23]
+
+## Sources He Cites
+
+Held (KJV): 2 Corinthians 1:8-9, 3:1-3, 5:12-17, 6:4-10, 10:1-2, 10:12-18, 11:4-5, 11:13-21, 12:7-12, 13:5-7; Revelation 2:2, 2:14; Romans 15:30-31; Philippians 3:2-3, 3:18-19; Colossians 2:16-23; Deuteronomy 13:1-11.
+
+Held (Smith, ANF 8): *Recognitions* 4.35 ("believe no teacher, unless he bring from Jerusalem the testimonial of James the Lord's brother... let neither prophet nor apostle be looked for by you at this time, besides us"); the wording he reads matches Smith apart from names.
+
+Not held: the Songs of the Sabbath Sacrifice (4Q400-407) and the angelic-liturgy reading of Qumran worship; the authorship consensus on the Pauline letters (standard introductions).
+
+## Where This Overlaps the Repo
+
+- `TOPIC-INDEX.md` cluster 2: "Early texts that opposed Paul" routes to `christianity/clementine-literature-nazarene-writings.md` (`## The Clementine Worldview vs. Pauline Christianity`, `### Paul as "Enemy"`); *Recognitions* 4.35 is also used in his 157, 173 and 160.
+- Revelation 2:2 with 2 Corinthians 1:8 and 2 Timothy 1:15 as an Ephesus trial: `extended-library/jesus-words-only-notes.md` Key Argument 7 and Claims to Check 21 (the Ephesus trial is Del Tondo's reconstruction); `christianity/paul-false-prophet-deuteronomy-18-test.md` (`## Historical Witnesses Against Paul`). He reaches Del Tondo's reconstruction independently here.
+- 2 Corinthians 11:13 as the Twelve: `questions/pauls-legitimacy.md` (position statement: the repo "will not argue that he was a fraud" and does not identify the false apostles); 171 Summary lists this among the four Facebook claims he was asked to document, and 173 argues it.
+- The "another Jesus" of 11:4 and "Jesus according to the spirit": 173 (dispensationalists' proof texts) and `questions/rapture-end-times.md`.
+- Philippians 3:2 *katatomē*: `extended-library/jesus-words-only-notes.md` ch. 5 on Paul and circumcision.
+- Which letters are genuine: `podcast-archive/shabbat-studies/06-ch4a-the-one-about-paul.md` (`### Which books are Paul's`).
+
+## Claims to Check
+
+1. The affliction in Asia (2 Corinthians 1:8) was a trial with an expected death sentence under Deuteronomy 13. The text names no trial; "we had the sentence of death in ourselves" is usually read of illness or mob danger (Acts 19). Del Tondo's Ephesus trial (JWO Claims to Check 21) is the same inference from the other direction.
+2. The "super apostles" (11:5, 12:11) and the "false apostles" (11:13) are the Twelve. A live scholarly question: Käsemann and Barrett tie the super apostles to Jerusalem; most commentators take the false apostles as rival missionaries at Corinth and keep the two groups distinct. "Not a whit behind the very chiefest apostles" can be read either way; 11:13's "transforming themselves" would be a strong charge against men Paul lists as pillars in Galatians 2:9.
+3. The commendation letters of 2 Corinthians 3:1 are the testimonial of *Recognitions* 4.35. 4.35 (held) is a third-century text; letters of recommendation were ordinary (Acts 18:27, Romans 16:1-2). The match is suggestive and the dating runs the wrong way for proof.
+4. 2 Corinthians 5:16 demotes the eyewitness apostles. The verse contrasts fleshly and new-creation knowledge of anyone ("know we no man after the flesh"); reading "we" as "they, the apostles" reverses the pronoun. His 173 cites it as the dispensationalists' text.
+5. Philippians 3:18-19 ("whose god is their belly") is aimed at the apostles. Most read 3:18-19 of libertines, in contrast to the "concision" of 3:2; linking it to Romans 16:18 and the apostles is his.
+6. Colossians is by an imitator who mistook Nazarenes for Jews. Colossian authorship is genuinely disputed (roughly half of critical scholars); the opponents of 2:16-23 are usually taken as a local syncretism. His reading that "worship of angels" is a Qumran-style angelic liturgy matches a real scholarly proposal (Francis, "angelic worship" as worship *with* angels) and is worth keeping.
+7. The thorn in the flesh is the man whose commendation Paul needs. See part 3, Claims to Check 11.
 
 ---
 

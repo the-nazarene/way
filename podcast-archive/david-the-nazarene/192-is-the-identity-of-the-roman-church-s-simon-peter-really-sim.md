@@ -10,7 +10,58 @@
 
 ## Summary
 
-*Notes pending.*
+Part two of 191. The question is whether the Roman church's Simon Peter, and its Jesus, are blends of the historical figures with Simon Magus, "not cutting one out and pasting another in" but the church's habit of mixing. After a long restatement of 191 (the *Recognitions* 4.34-36 chain, Matthew 24 in the Hebrew text with every command highlighted, the conclusion that one cannot keep Matthew 24:23-26 and accept Paul, "the hill I'm dying on"), he reads what Simon claimed about himself in *Recognitions* 1.72, 2.7, 2.9, 2.14 and 2.58 (the Standing One, Messiah, a power above the Creator, two faces, statues, divine honors, born of a virgin, salvation by acknowledgement) and then what the heresiologists say the Simonians believed: Irenaeus, *Against Heresies* 1.23 (Helena of Tyre as Ennoia, the lost sheep; Simon descended transfigured so as to seem a man and seemed to suffer in Judea; the prophets inspired by the world-making angels; men saved by his grace, not by righteous actions, which are not righteous "in the nature of things"; the precepts as bondage; exorcisms, love potions, images of Simon as Jupiter and Helena as Minerva; "knowledge falsely so called"), and Epiphanius, *Panarion* 21 (the same images as Zeus and Athena; mysteries of bodily fluids; many heavens with named powers; the law from "a left-hand power," the prophets from various powers, whoever believes the Old Testament subject to death). He pairs these with Catholic and Protestant doctrine point by point: Messiah who is God, virgin birth, salvation by grace and not works ("filthy rags"), the law as bondage, docetic suffering (Romans 8:3), the law given by angels (Galatians 3:19), Paul's third heaven, exorcism and the mass as incantation, Helena as a possible origin of Marian devotion, and Paul's "deep things of God" against Revelation 2:24.
+
+The last third is Ernest L. Martin's article on Simon Magus: Justin Martyr's statue "Simoni Deo Sancto" on the Tiber; the pagan title Pater/Petor/Peter for chief gods and priests (Bryant's *Ancient Mythology*; Lucilius on the *patres*; Ju-piter as Zeus Pater); Janus Pater as Rome's keeper of the gates with a key in his hand, two-faced, controlling the calendar and the first month, which Martin derives from Nimrod and the Magi. The Vatican's bronze St Peter with its key is set beside a statue of Zeus. The conclusion: the church took Jesus of Nazareth and melted him with Simon Magus, and blended Simon Peter with Simon Magus, so that the real teaching followed is Simon's, with Jesus getting lip service.
+
+## Key Points
+
+- Framing: mixing, not substitution; Simon on the way to Rome throughout the Clementines; *Rock of a Sure Foundation* as the New Testament without Paul (free PDF, print at cost). [00:16]-[10:02]
+- *Recognitions* 4.36 and 4.34; the will of the demon is that you take another teacher; the Twelve, no thirteenth, James as head. [10:02]-[17:42]
+- Matthew 24:3-28 in the Hebrew with the commands in yellow; "if you follow Saul of Tarsus you are not a follower of Yeshua"; lightning and the vultures. [17:42]-[28:07]
+- *Homilies* 16.21 again: false apostles, false prophets and heresies "finding their beginning in Simon"; Gnosticism out of Paul's letters. [28:07]-[33:11]
+- *Recognitions* 1.72, 2.7: Simon's claims; Greco-Roman rhetoric and honor-shame debate; Paul's Greek literature and boasting. [33:11]-[40:24]
+- *Recognitions* 2.9, 2.14: the powers; two faces; born of a virgin; the virgin birth as a later insertion absent from the epistles and Acts. [40:24]-[44:53]
+- Irenaeus 1.23 on the Simonians, paired with Pauline and Roman doctrine. [44:53]-[54:40]
+- Epiphanius 21: Zeus and Athena, the mysteries, the heavens, the left-hand law; the Nicolaitans compared; "deep things." [54:40]-[1:00:00]
+- The St Peter statue and Zeus; Justin and the Tiber statue; Martin on Pater/Peter, Janus, keys, two faces, the calendar; Nimrod and the Magi. [1:00:00]-[1:12:18]
+- Conclusion; his Catholic upbringing. [1:12:18]-[1:14:40]
+
+## Sources He Cites
+
+Held (KJV): Matthew 24:3-28; Revelation 2:14, 2:20, 2:24; 1 Corinthians 2:10; 2 Corinthians 12:2, 12:12; Romans 8:3; Galatians 3:19, 4:4; John 14:15; 1 John 2:3-4; Matthew 16:18-19; Deuteronomy 13:1-5.
+
+Held (Smith, ANF 8): *Recognitions* 1.72, 2.7, 2.9, 2.14, 2.58, 4.34-36; *Homilies* 16.21. All match what he reads apart from Snyder's names.
+
+Held (Tier 1, `christianity/Incoming/epiphanius-panarion-book-1-full-text.md`): *Panarion* 21.2-5 on the Simonians: Helen of Tyre as Ennoia and "the sheep that had wandered" (21.2.2-3.5), the mysteries of "the flowings of bodies" (21.4.1), the law "not of God but of a left-hand power," the prophets from various powers, "everyone who believes in the Old Testament is subject to death" (21.4.5); the Nicolaitan and Gnostic parallels at 25.3.2 and 26.9. The images "as of Zeus... in the form of Athena" are at Anaceph. II 21.3 (the chapter summary) and 21.3.
+
+Not held: Irenaeus, *Against Heresies* 1.23 (ANF 1, public domain); Justin, *First Apology* 26 (the Tiber statue, under Claudius); Smith and Wace, *Dictionary of Christian Biography* ("Simon Magus"); Ernest L. Martin, "The Secret of Simon Magus" (ASK, 1970s/2000s) and *The Temples That Jerusalem Forgot*; Jacob Bryant, *A New System, or an Analysis of Ancient Mythology* (1774-76); Plutarch, *Numa*; Ovid, *Fasti* 1; the Vatican bronze of St Peter; the 1574 discovery of the Semo Sancus inscription.
+
+## Where This Overlaps the Repo
+
+- The repo's Simon material is in `questions/pauls-legitimacy.md` §5 and `christianity/clementine-literature-nazarene-writings.md` (Simon as the Clementines' mask for Paul); this video's stronger claim (Simon as the source of Pauline and Roman doctrine) is his alone. His 191 is the first half; 171-173 and 155 are the standing case he refers to.
+- Epiphanius 21 is held and was not previously used in any repo file; the law-from-a-left-hand-power and "believes the Old Testament is subject to death" lines (21.4.5) are the closest ancient parallel to the repo's Marcion mirror (`questions/method-and-criteria.md`, "You've reinvented Marcion"). Worth a row in `VERIFIED-SOURCES.md`'s "read this first" column for Panarion.
+- The virgin birth as later: `questions/how-we-read-john.md` and `christianity/hebrew-gospel-of-matthew.md` (the Ebionite Matthew without the genealogy, *Panarion* 30.13-14, held); his 067 and 189 (Ebionite Christology).
+- Docetism and Paul: JWO Claims to Check 29 ("Paul was 100% docetic" is not defensible; Galatians 4:4 and Romans 1:3 affirm real flesh); `podcast-archive/shabbat-studies/09-ch4d-the-one-about-paul.md`.
+- Pagan blending in the Roman church: `christianity/trinity-fourth-century-construction.md` (the one repo file that mentions Janus) and the Constantine material in the Core Thesis; the repo does not use the Hislop/Martin "Pater = Peter" line anywhere.
+- Matthew 24:23-27 and the commands: 155 (warning 3), 191, `christianity/paul-false-prophet-deuteronomy-18-test.md`.
+- "Deep things of God / depths of Satan": 155 (warning 7), 156, 160; JWO Key Argument 6.
+
+## Claims to Check
+
+1. The Roman Simon Peter is a blend with Simon Magus, and Janus Pater is the model. Martin's thesis (in the Hislop tradition). Janus did hold a key and had two faces (Ovid, *Fasti* 1.99, 1.228); Peter's keys come from Matthew 16:19, held. Analogy is not derivation; nothing documents a transfer.
+2. "Peter" was a pagan title for chief gods and priests (Pater/Petor). Latin *pater* ("father") and Greek *petros* ("rock") are unrelated words; "Ju-piter" is *Iou-pater*, sky-father. Bryant's 1774 etymologies are antiquarian and not accepted. The Simon-Peter-as-Janus argument rests on this equation.
+3. Justin's Tiber statue to "Simon the holy god" existed. Justin (*1 Apol.* 26) says so; in 1574 a base inscribed SEMONI SANCO DEO FIDIO (to the Sabine god Semo Sancus) was found on the Tiber island, and the standard view is that Justin misread it. He says he saw an article claiming the statue was found; that is probably this discovery, which cuts the other way.
+4. The Vatican bronze of St Peter was a statue of Zeus/Jupiter recast. The bronze is usually attributed to Arnolfo di Cambio (13th century); the recast-Jupiter story is a legend without documentation. The photo comparison shows a seated figure with a key, which is the Matthew 16 iconography.
+5. The virgin birth was inserted in the third or fourth century and the earliest Matthew says Joseph begot Jesus. Matthew 1:18-25 is in every manuscript; the Sinaitic Syriac of 1:16 reads "Joseph... begot Jesus" while keeping "Mary the virgin" in the same verse; Ignatius (c. 110, *Ephesians* 19) already knows Mary's virginity. The Ebionite Matthew lacked the genealogy (*Panarion* 30.14, held), which is a different fact. Absence from the epistles and Acts is true as silence.
+6. Simon's Helena is the origin of Marian devotion. No source connects them; Marian veneration has its own history (Protevangelium of James, c. 150; Ephesus 431). Speculation he labels "I think."
+7. Catholic doctrine teaches multiple (seven) heavens, as Simon did. "Seventh heaven" is Jewish and Islamic cosmology (2 Enoch, Talmud *Hagigah* 12b); Dante's heavens are in the *Paradiso*, not the *Inferno*; Catholic doctrine does not define a number. Paul's "third heaven" (2 Corinthians 12:2) is standard Jewish apocalyptic.
+8. Simon's "men are saved through his grace and not on account of their righteous actions" (Irenaeus 1.23.3) is Paul's and Rome's doctrine. The sentence is Irenaeus's and real; Irenaeus wrote it as an anti-Pauline-sounding description of a man whose followers "live as they please," while himself accepting Paul. The parallel to Reformation formulas is verbal; Paul (Romans 2:6-13) and Catholic doctrine (Trent, sess. 6) both require works in some form. State it as a parallel in wording.
+9. Simon's law "from a left-hand power" and prophets from different powers (*Panarion* 21.4.5, held) match Paul's law "ordained by angels" (Galatians 3:19). Paul's angels mediate a law from God (3:19-21 "is the law then against the promises of God? God forbid"); Simon's left-hand power is a rival to God. The difference is the one Marcion later exploited.
+10. *Gnosis* "originated in Paul's letters." *Gnōsis* is ordinary Greek and LXX vocabulary; Paul uses it (1 Corinthians 8:1) and so does 1 Timothy 6:20 against it ("knowledge falsely so called," the phrase Irenaeus borrows). The claim that Gnosticism grew from reading Paul is a real scholarly line (Pagels, *The Gnostic Paul*), minus the "originated."
+11. Simon came to Rome under Claudius c. 45. Justin says Claudius; fine at reference level.
+12. The Nicolaitans and Simonians used the same fluid rituals. *Panarion* 25.3.2 and 26.9 (held) describe such rites for the "Gnostics"/Borborites and link them to the Nicolaitans; 21.4.1 for the Simonians. He reads the held text correctly; Epiphanius is a hostile witness for all of them, as the Shabbat Studies notes say of *Panarion* 30.
+13. Ernest Martin's Temple Mount = Fort Antonia thesis. A minority position (Martin 2000) against the archaeological consensus; not relevant to the argument and mentioned in passing.
 
 ---
 
