@@ -34,6 +34,7 @@ In order. Put your name in **Who** when you take one.
 | 5 | Public-domain Drive texts added and registered in `VERIFIED-SOURCES.md` (2026-10-20): 1 Maccabees (KJV Apocrypha, `christianity/Incoming/kjv-apocrypha/1-maccabees.md`, Tier 1) and the Book of Jasher (1840 translation, `christianity/Incoming/jasher-1840-full-text.md`, Tier 4 because it's medieval). Enoch and Jubilees were already held in full; Charles's 1917 Enoch added | Chris Crutchfield | Claude | [x] |
 | 6 | Notes files done 2026-10-20: `extended-library/jesus-words-only-notes.md` (all 18 chapters and 4 appendices, 13 key arguments, 44 claims to check) and `extended-library/questioning-paul-notes.md` (all 13 chapters, read in three parts and merged). Both 🔴 flagged; our summaries with short attributed quotes only | Chris Crutchfield | Claude | [x] |
 | 6a | Notes files for the other 🔴 copyrighted works: *The Nazarene Acts* (Snyder's "True Names" Recognitions: how it differs from Smith's public-domain text, and its link to David The Nazarene's NazActs readings) and the three articles (Davidmann, Veith, the unnamed "Christian" article) | Chris Crutchfield | Claude | [ ] |
+| 6c | New research gap: no repo file covers the history of the Sabbath moving to Sunday. Veith's article quotes about 15 denominational sources, 11 of them public domain by date (listed in `extended-library/articles-batch-2026-10-20-notes.md`), and the held Didache ch. 14 ("On every Lord's Day") bears on it. Candidate for `OPEN-RESEARCH.md` | Chris Crutchfield | | [ ] |
 | 6b | Clementine Homilies translator credit corrected 2026-10-20: ANF vol. 8 splits the Homilies among Thomas Smith (Books I-V), Peter Peterson (VI-XII) and James Donaldson (XIII-XX); the repo had credited Peterson alone. Fixed in the file header, `VERIFIED-SOURCES.md`, and five Reading Room citations (Homilies 2.38, 3.45, 3.48-51 and 3.51 are Smith's; Peter's letter to James has no named translator). Site build passes | Chris Crutchfield | Claude | [x] |
 | 7 | Shabbat Studies overview done 2026-10-20: `podcast-archive/shabbat-studies/00-overview.md` (chapter guide, main arguments, combined sources, where it meets the repo, 173 combined claims to check with 74 duplicates merged, 17 questions for the hosts) | Chris Crutchfield | Claude | [x] |
 | 8 | Ask Chris for his sources. The top three: Joseph of Arimathea as Jesus's father; the Petrine text calling it "a religion of blood"; the Edomite priesthood since 160 BC. The full list of 17 is in the overview's "Questions for the Hosts" | Chris Crutchfield | Rex | [ ] |
@@ -54,7 +55,7 @@ In order. Put your name in **Who** when you take one.
 
 | Source | Contributed by | Items | Transcripts | Notes | Queue |
 |---|---|---|---|---|---|
-| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 138 of 370 | 0 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
+| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 147 of 370 | 0 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
 | Shabbat Studies with Jen & Chris | Chris Crutchfield, 2026-10-19 | 10 | 10 of 10 | 10 of 10 | [queue](podcast-archive/shabbat-studies/00-queue.md) |
 | SixSeven Podcast | Chris Crutchfield, 2026-10-19 | 34 | 0 of 34 | 0 of 34 | [queue](podcast-archive/sixseven-podcast/00-queue.md) |
 <!-- STATUS:END -->
@@ -73,7 +74,7 @@ In order. Put your name in **Who** when you take one.
 | 🔴 | *The Nazarene Acts of the Apostles* ("True Names Translation" of the Recognitions of Clement) | Jackson H. Snyder, Theodore A. Dornan, Chris Plourde (© 2007-2010) | Book | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
 | 🔴 | "Origin of Christianity and Judaism" | Manfred Davidmann (© 1994) | Web article | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
 | 🔴 | "Denominational Testimony" | Walter J. Veith (2009, amazingdiscoveries.org) | Web article | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
-| 🔴 | "Where did the term 'Christian' come from?" | Not named | Web article | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
+| 🔴 | "Where did the term 'Christian' come from?" | Not named (sabbathcovenant.com) | Web article | Yes: 1 PDF + 1 Markdown file | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
 | ⚠️ | *Essene Gospel of Peace*, Book 1 | Edmond Bordeaux Szekely (1937) | Book | Yes, as full text **in the public repo**. Rex, 2026-10-20: keep it in the repo | `christianity/Incoming/essene-gospel-of-peace-book-1-full-text.md` | (predates this log) |
 | ⚠️ | Book of Enoch, "Simplified Version" | Charles's public-domain translation, edited by sherryshriner.com | Book | Yes: 1 PDF + 1 Markdown file. Rex, 2026-10-20: keep it | Rex's local `/Incoming/drive-2026-10-20/` | Chris Crutchfield |
 
@@ -176,7 +177,7 @@ Sent by Chris Crutchfield, passed on by Rex: 3 folders and 3 single files. All s
 | 🔴 *Questioning Paul* (13 chapters) | Yada Yah (pen name) | 452,000 | Copyrighted (appears to be distributed free online) | No | Notes file done: `extended-library/questioning-paul-notes.md`. Full text only with permission |
 | 🔴 "Origin of Christianity and Judaism" | Manfred Davidmann | 14,000 | © 1994, all rights reserved | No | Notes only |
 | 🔴 "Denominational Testimony" | Walter J. Veith (amazingdiscoveries.org) | 1,000 | Copyrighted web article | No | Notes only; it's mostly quotations from denominational sources, which can be cited directly |
-| 🔴 "Where did the term 'Christian' come from?" | Not named (cites fossilizedcustoms.com) | 3,500 | Copyrighted web article | No | Notes only. Several of its claims overlap the Shabbat Studies "claims to check" (Christos and Mithras) |
+| 🔴 "Where did the term 'Christian' come from?" | Not named (sabbathcovenant.com; links to fossilizedcustoms.com) | 3,500 | Copyrighted web article | No | Notes only. Several of its claims overlap the Shabbat Studies "claims to check" (Christos and Mithras) |
 
 **Audit of this batch (re-checked 2026-10-20 against a fresh listing of all six links):** 67 items on Drive: 65 PDFs and 2 `.DS_Store` files (hidden Mac settings files, not documents, skipped on purpose). All 65 PDFs downloaded, and every PDF's text is in the Markdown (1,159,352 words in the PDFs; the Markdown adds only headings). The folder name "6_Books and PDFs" suggests it may be one of a numbered set. Worth asking the contributor whether folders 1 to 5 exist.
 
