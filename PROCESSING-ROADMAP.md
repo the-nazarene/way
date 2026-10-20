@@ -13,6 +13,8 @@ We refine these over time. Change them here when Rex and Matt agree on something
 
 ## How Rex and Matt use this
 
+The full method (stages, which model does what, quality checks, rights, git habits, lessons learned) is in `ROADMAP-PROCESSING-WORKFLOW-REX.md`. Matt is writing his own; the two will be merged into one shared workflow.
+
 1. **Drop the links into a Claude session** and say who they came from. Claude checks for duplicates, logs every item in the inventory below with the contributor's name, downloads it, and converts it to Markdown.
 2. **Ask "what's next on the processing roadmap?"** Claude answers from the Next Up list.
 3. **Claim an item** by putting your name in its Who column, so the two of you don't double up.
@@ -101,7 +103,7 @@ Judgment calls collected as they come up, for Rex and Matt to go through togethe
 
 | Source | Contributed by | Items | Transcripts | Notes | Queue |
 |---|---|---|---|---|---|
-| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 254 of 370 | 22 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
+| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 264 of 370 | 22 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
 | Dr. James Tabor, YouTube channel | Matt Fracek, 2026-10-20 | 405 | 405 of 405 | 405 of 405 | [queue](podcast-archive/dr-tabor-channel/00-queue.md) |
 | Scott, Nazarene Way | Matt Fracek, 2026-10-20 | 84 | 84 of 84 | 80 of 84 | [queue](podcast-archive/scott-nazarene-way/00-queue.md) |
 | Shabbat Studies with Jen & Chris | Chris Crutchfield, 2026-10-19 | 10 | 10 of 10 | 10 of 10 | [queue](podcast-archive/shabbat-studies/00-queue.md) |

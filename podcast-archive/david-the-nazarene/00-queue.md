@@ -331,16 +331,16 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 320 | [x] | [ ] | RSF - The Sermons of Peter Bk 10 Ch 1-26 | 26:04 | [320-rsf-the-sermons-of-peter-bk-10-ch-1-26.md](320-rsf-the-sermons-of-peter-bk-10-ch-1-26.md) |
 | 321 | [x] | [ ] | RSF - The Sermons of Peter Bk 11 Ch 1-20 | 22:32 | [321-rsf-the-sermons-of-peter-bk-11-ch-1-20.md](321-rsf-the-sermons-of-peter-bk-11-ch-1-20.md) |
 | 322 | [ ] | [ ] | RSF - The Sermons of Peter Bk 11 Ch 21-36 | 15:01 | [322-rsf-the-sermons-of-peter-bk-11-ch-21-36.md](322-rsf-the-sermons-of-peter-bk-11-ch-21-36.md) |
-| 323 | [ ] | [ ] | RSF - The Sermons of Peter Bk 12 Ch 1-33 | 36:23 | [323-rsf-the-sermons-of-peter-bk-12-ch-1-33.md](323-rsf-the-sermons-of-peter-bk-12-ch-1-33.md) |
-| 324 | [ ] | [ ] | RSF - The Sermons of Peter Bk 13 Ch 1-21 | 27:04 | [324-rsf-the-sermons-of-peter-bk-13-ch-1-21.md](324-rsf-the-sermons-of-peter-bk-13-ch-1-21.md) |
-| 325 | [ ] | [ ] | RSF - The Sermons of Peter Bk 14 Ch 1-12 | 14:58 | [325-rsf-the-sermons-of-peter-bk-14-ch-1-12.md](325-rsf-the-sermons-of-peter-bk-14-ch-1-12.md) |
-| 326 | [ ] | [ ] | RSF - The Sermons of Peter Bk 15 Ch 1-11 | 13:25 | [326-rsf-the-sermons-of-peter-bk-15-ch-1-11.md](326-rsf-the-sermons-of-peter-bk-15-ch-1-11.md) |
-| 327 | [ ] | [ ] | RSF - The Sermons of Peter Bk 16 Ch 1-21 | 25:34 | [327-rsf-the-sermons-of-peter-bk-16-ch-1-21.md](327-rsf-the-sermons-of-peter-bk-16-ch-1-21.md) |
-| 328 | [ ] | [ ] | RSF - The Sermons of Peter Bk 17 Ch 1-20 | 38:33 | [328-rsf-the-sermons-of-peter-bk-17-ch-1-20.md](328-rsf-the-sermons-of-peter-bk-17-ch-1-20.md) |
-| 329 | [ ] | [ ] | RSF - The Sermons of Peter Bk 18 Ch 1-23 | 30:07 | [329-rsf-the-sermons-of-peter-bk-18-ch-1-23.md](329-rsf-the-sermons-of-peter-bk-18-ch-1-23.md) |
-| 330 | [ ] | [ ] | RSF - The Sermons of Peter Bk 19 Ch 1-25 | 37:39 | [330-rsf-the-sermons-of-peter-bk-19-ch-1-25.md](330-rsf-the-sermons-of-peter-bk-19-ch-1-25.md) |
-| 331 | [ ] | [ ] | RSF - The Sermons of Peter Bk 20 Ch 1-23 | 33:38 | [331-rsf-the-sermons-of-peter-bk-20-ch-1-23.md](331-rsf-the-sermons-of-peter-bk-20-ch-1-23.md) |
-| 332 | [ ] | [ ] | RSF - The Revelation of Yeshua the Messiah Ch 1-22 | 1:02:18 | [332-rsf-the-revelation-of-yeshua-the-messiah-ch-1-22.md](332-rsf-the-revelation-of-yeshua-the-messiah-ch-1-22.md) |
+| 323 | [x] | [ ] | RSF - The Sermons of Peter Bk 12 Ch 1-33 | 36:23 | [323-rsf-the-sermons-of-peter-bk-12-ch-1-33.md](323-rsf-the-sermons-of-peter-bk-12-ch-1-33.md) |
+| 324 | [x] | [ ] | RSF - The Sermons of Peter Bk 13 Ch 1-21 | 27:04 | [324-rsf-the-sermons-of-peter-bk-13-ch-1-21.md](324-rsf-the-sermons-of-peter-bk-13-ch-1-21.md) |
+| 325 | [x] | [ ] | RSF - The Sermons of Peter Bk 14 Ch 1-12 | 14:58 | [325-rsf-the-sermons-of-peter-bk-14-ch-1-12.md](325-rsf-the-sermons-of-peter-bk-14-ch-1-12.md) |
+| 326 | [x] | [ ] | RSF - The Sermons of Peter Bk 15 Ch 1-11 | 13:25 | [326-rsf-the-sermons-of-peter-bk-15-ch-1-11.md](326-rsf-the-sermons-of-peter-bk-15-ch-1-11.md) |
+| 327 | [x] | [ ] | RSF - The Sermons of Peter Bk 16 Ch 1-21 | 25:34 | [327-rsf-the-sermons-of-peter-bk-16-ch-1-21.md](327-rsf-the-sermons-of-peter-bk-16-ch-1-21.md) |
+| 328 | [x] | [ ] | RSF - The Sermons of Peter Bk 17 Ch 1-20 | 38:33 | [328-rsf-the-sermons-of-peter-bk-17-ch-1-20.md](328-rsf-the-sermons-of-peter-bk-17-ch-1-20.md) |
+| 329 | [x] | [ ] | RSF - The Sermons of Peter Bk 18 Ch 1-23 | 30:07 | [329-rsf-the-sermons-of-peter-bk-18-ch-1-23.md](329-rsf-the-sermons-of-peter-bk-18-ch-1-23.md) |
+| 330 | [x] | [ ] | RSF - The Sermons of Peter Bk 19 Ch 1-25 | 37:39 | [330-rsf-the-sermons-of-peter-bk-19-ch-1-25.md](330-rsf-the-sermons-of-peter-bk-19-ch-1-25.md) |
+| 331 | [x] | [ ] | RSF - The Sermons of Peter Bk 20 Ch 1-23 | 33:38 | [331-rsf-the-sermons-of-peter-bk-20-ch-1-23.md](331-rsf-the-sermons-of-peter-bk-20-ch-1-23.md) |
+| 332 | [x] | [ ] | RSF - The Revelation of Yeshua the Messiah Ch 1-22 | 1:02:18 | [332-rsf-the-revelation-of-yeshua-the-messiah-ch-1-22.md](332-rsf-the-revelation-of-yeshua-the-messiah-ch-1-22.md) |
 | 333 | [ ] | [ ] | RSF - The Murder of James the Just | 10:17 | [333-rsf-the-murder-of-james-the-just.md](333-rsf-the-murder-of-james-the-just.md) |
 | 334 | [ ] | [ ] | Jesus Said We Are Saved By Works Not Faith Part 1 | 1:38:43 | [334-jesus-said-we-are-saved-by-works-not-faith-part-1.md](334-jesus-said-we-are-saved-by-works-not-faith-part-1.md) |
 | 335 | [ ] | [ ] | Jesus's Parables Say That We Are Saved By Works Not Faith - Part 2 | 1:54:58 | [335-jesus-s-parables-say-that-we-are-saved-by-works-not-faith-pa.md](335-jesus-s-parables-say-that-we-are-saved-by-works-not-faith-pa.md) |
