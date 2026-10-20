@@ -209,29 +209,29 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 198 | [x] | [ ] | Moses And The Exodus - Seeking God's Justice | 44:29 | [198-moses-and-the-exodus-seeking-god-s-justice.md](198-moses-and-the-exodus-seeking-god-s-justice.md) |
 | 199 | [x] | [ ] | The Structure and Function Of The Sinai Covenant - Seeking God's Justice | 1:20:14 | [199-the-structure-and-function-of-the-sinai-covenant-seeking-god.md](199-the-structure-and-function-of-the-sinai-covenant-seeking-god.md) |
 | 200 | [ ] | [ ] | Are You Fit To Be In A Covenant With God? -  Seeking God's Justice | 36:36 | [200-are-you-fit-to-be-in-a-covenant-with-god-seeking-god-s-justi.md](200-are-you-fit-to-be-in-a-covenant-with-god-seeking-god-s-justi.md) |
-| 201 | [x] | [ ] | The 12 Tribe Federation and the Conquest of the Land - Seeking God's Justice | 45:37 | [201-the-12-tribe-federation-and-the-conquest-of-the-land-seeking.md](201-the-12-tribe-federation-and-the-conquest-of-the-land-seeking.md) |
-| 202 | [x] | [ ] | The Transition to Monarchy - Seeking God's Justice | 47:32 | [202-the-transition-to-monarchy-seeking-god-s-justice.md](202-the-transition-to-monarchy-seeking-god-s-justice.md) |
-| 203 | [x] | [ ] | King David and The Jebusite Influence - Seeking God's Justice | 51:48 | [203-king-david-and-the-jebusite-influence-seeking-god-s-justice.md](203-king-david-and-the-jebusite-influence-seeking-god-s-justice.md) |
-| 204 | [x] | [ ] | Being Led By God - Witnessing Miracles, Listening to The Holy Spirit, and Confirming The Word | 41:16 | [204-being-led-by-god-witnessing-miracles-listening-to-the-holy-s.md](204-being-led-by-god-witnessing-miracles-listening-to-the-holy-s.md) |
-| 205 | [x] | [ ] | The Legacy of King Solomon - Seeking God's Justice | 1:08:29 | [205-the-legacy-of-king-solomon-seeking-god-s-justice.md](205-the-legacy-of-king-solomon-seeking-god-s-justice.md) |
-| 206 | [x] | [ ] | Josiah Reforms the Imperial Religion - Seeking God's Justice | 59:19 | [206-josiah-reforms-the-imperial-religion-seeking-god-s-justice.md](206-josiah-reforms-the-imperial-religion-seeking-god-s-justice.md) |
-| 207 | [x] | [ ] | Destruction and Exile - Seeking God's Justice | 56:05 | [207-destruction-and-exile-seeking-god-s-justice.md](207-destruction-and-exile-seeking-god-s-justice.md) |
-| 208 | [x] | [ ] | Yeshua and the Renewal of an Old Faith / Part 1 - Seeking God's Justice | 43:43 | [208-yeshua-and-the-renewal-of-an-old-faith-part-1-seeking-god-s.md](208-yeshua-and-the-renewal-of-an-old-faith-part-1-seeking-god-s.md) |
-| 209 | [x] | [ ] | Yeshua and the Renewal of an Old Faith / Pt 2 - Seeking God's Justice | 49:23 | [209-yeshua-and-the-renewal-of-an-old-faith-pt-2-seeking-god-s-ju.md](209-yeshua-and-the-renewal-of-an-old-faith-pt-2-seeking-god-s-ju.md) |
+| 201 | [ ] | [ ] | The 12 Tribe Federation and the Conquest of the Land - Seeking God's Justice | 45:37 | [201-the-12-tribe-federation-and-the-conquest-of-the-land-seeking.md](201-the-12-tribe-federation-and-the-conquest-of-the-land-seeking.md) |
+| 202 | [ ] | [ ] | The Transition to Monarchy - Seeking God's Justice | 47:32 | [202-the-transition-to-monarchy-seeking-god-s-justice.md](202-the-transition-to-monarchy-seeking-god-s-justice.md) |
+| 203 | [ ] | [ ] | King David and The Jebusite Influence - Seeking God's Justice | 51:48 | [203-king-david-and-the-jebusite-influence-seeking-god-s-justice.md](203-king-david-and-the-jebusite-influence-seeking-god-s-justice.md) |
+| 204 | [ ] | [ ] | Being Led By God - Witnessing Miracles, Listening to The Holy Spirit, and Confirming The Word | 41:16 | [204-being-led-by-god-witnessing-miracles-listening-to-the-holy-s.md](204-being-led-by-god-witnessing-miracles-listening-to-the-holy-s.md) |
+| 205 | [ ] | [ ] | The Legacy of King Solomon - Seeking God's Justice | 1:08:29 | [205-the-legacy-of-king-solomon-seeking-god-s-justice.md](205-the-legacy-of-king-solomon-seeking-god-s-justice.md) |
+| 206 | [ ] | [ ] | Josiah Reforms the Imperial Religion - Seeking God's Justice | 59:19 | [206-josiah-reforms-the-imperial-religion-seeking-god-s-justice.md](206-josiah-reforms-the-imperial-religion-seeking-god-s-justice.md) |
+| 207 | [ ] | [ ] | Destruction and Exile - Seeking God's Justice | 56:05 | [207-destruction-and-exile-seeking-god-s-justice.md](207-destruction-and-exile-seeking-god-s-justice.md) |
+| 208 | [ ] | [ ] | Yeshua and the Renewal of an Old Faith / Part 1 - Seeking God's Justice | 43:43 | [208-yeshua-and-the-renewal-of-an-old-faith-part-1-seeking-god-s.md](208-yeshua-and-the-renewal-of-an-old-faith-part-1-seeking-god-s.md) |
+| 209 | [ ] | [ ] | Yeshua and the Renewal of an Old Faith / Pt 2 - Seeking God's Justice | 49:23 | [209-yeshua-and-the-renewal-of-an-old-faith-pt-2-seeking-god-s-ju.md](209-yeshua-and-the-renewal-of-an-old-faith-pt-2-seeking-god-s-ju.md) |
 | 210 | [ ] | [ ] | Do This In Remembrance Of Me?  The Last Supper as an Oath-Taking Ceremony To The King | 54:04 | [210-do-this-in-remembrance-of-me-the-last-supper-as-an-oath-taki.md](210-do-this-in-remembrance-of-me-the-last-supper-as-an-oath-taki.md) |
-| 211 | [x] | [ ] | "The Vengeance of YHWH" or "The Dispensing of Justice" | 44:24 | [211-the-vengeance-of-yhwh-or-the-dispensing-of-justice.md](211-the-vengeance-of-yhwh-or-the-dispensing-of-justice.md) |
-| 212 | [x] | [ ] | RSF - Introduction & DHN Letter | 32:12 | [212-rsf-introduction-dhn-letter.md](212-rsf-introduction-dhn-letter.md) |
-| 213 | [x] | [ ] | RSF - Reconstructed GoTH Ch 1-3 | 24:39 | [213-rsf-reconstructed-goth-ch-1-3.md](213-rsf-reconstructed-goth-ch-1-3.md) |
-| 214 | [x] | [ ] | RSF - Reconstructed GoTH Ch 4-5 | 26:24 | [214-rsf-reconstructed-goth-ch-4-5.md](214-rsf-reconstructed-goth-ch-4-5.md) |
+| 211 | [ ] | [ ] | "The Vengeance of YHWH" or "The Dispensing of Justice" | 44:24 | [211-the-vengeance-of-yhwh-or-the-dispensing-of-justice.md](211-the-vengeance-of-yhwh-or-the-dispensing-of-justice.md) |
+| 212 | [ ] | [ ] | RSF - Introduction & DHN Letter | 32:12 | [212-rsf-introduction-dhn-letter.md](212-rsf-introduction-dhn-letter.md) |
+| 213 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 1-3 | 24:39 | [213-rsf-reconstructed-goth-ch-1-3.md](213-rsf-reconstructed-goth-ch-1-3.md) |
+| 214 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 4-5 | 26:24 | [214-rsf-reconstructed-goth-ch-4-5.md](214-rsf-reconstructed-goth-ch-4-5.md) |
 | 215 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 6-7 | 26:03 | [215-rsf-reconstructed-goth-ch-6-7.md](215-rsf-reconstructed-goth-ch-6-7.md) |
-| 216 | [x] | [ ] | RSF - Reconstructed GoTH Ch 8 | 19:49 | [216-rsf-reconstructed-goth-ch-8.md](216-rsf-reconstructed-goth-ch-8.md) |
-| 217 | [x] | [ ] | RSF - Reconstructed GoTH Ch 9-10 | 29:31 | [217-rsf-reconstructed-goth-ch-9-10.md](217-rsf-reconstructed-goth-ch-9-10.md) |
-| 218 | [x] | [ ] | RSF - Reconstructed GoTH Ch 11-12 | 20:07 | [218-rsf-reconstructed-goth-ch-11-12.md](218-rsf-reconstructed-goth-ch-11-12.md) |
-| 219 | [x] | [ ] | Levels of Development and How It Limits Our Understanding - Paul vs Jesus | 1:08:25 | [219-levels-of-development-and-how-it-limits-our-understanding-pa.md](219-levels-of-development-and-how-it-limits-our-understanding-pa.md) |
-| 220 | [x] | [ ] | RSF - Reconstructed GoTH Ch 13-14 | 15:11 | [220-rsf-reconstructed-goth-ch-13-14.md](220-rsf-reconstructed-goth-ch-13-14.md) |
-| 221 | [x] | [ ] | RSF - Reconstructed GoTH Ch 15 | 22:34 | [221-rsf-reconstructed-goth-ch-15.md](221-rsf-reconstructed-goth-ch-15.md) |
-| 222 | [x] | [ ] | RSF - Reconstructed GoTH Ch 16-17 | 14:20 | [222-rsf-reconstructed-goth-ch-16-17.md](222-rsf-reconstructed-goth-ch-16-17.md) |
-| 223 | [x] | [ ] | RSF - Reconstructed GoTH Ch 18-19 | 10:26 | [223-rsf-reconstructed-goth-ch-18-19.md](223-rsf-reconstructed-goth-ch-18-19.md) |
+| 216 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 8 | 19:49 | [216-rsf-reconstructed-goth-ch-8.md](216-rsf-reconstructed-goth-ch-8.md) |
+| 217 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 9-10 | 29:31 | [217-rsf-reconstructed-goth-ch-9-10.md](217-rsf-reconstructed-goth-ch-9-10.md) |
+| 218 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 11-12 | 20:07 | [218-rsf-reconstructed-goth-ch-11-12.md](218-rsf-reconstructed-goth-ch-11-12.md) |
+| 219 | [ ] | [ ] | Levels of Development and How It Limits Our Understanding - Paul vs Jesus | 1:08:25 | [219-levels-of-development-and-how-it-limits-our-understanding-pa.md](219-levels-of-development-and-how-it-limits-our-understanding-pa.md) |
+| 220 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 13-14 | 15:11 | [220-rsf-reconstructed-goth-ch-13-14.md](220-rsf-reconstructed-goth-ch-13-14.md) |
+| 221 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 15 | 22:34 | [221-rsf-reconstructed-goth-ch-15.md](221-rsf-reconstructed-goth-ch-15.md) |
+| 222 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 16-17 | 14:20 | [222-rsf-reconstructed-goth-ch-16-17.md](222-rsf-reconstructed-goth-ch-16-17.md) |
+| 223 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 18-19 | 10:26 | [223-rsf-reconstructed-goth-ch-18-19.md](223-rsf-reconstructed-goth-ch-18-19.md) |
 | 224 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 20-21 | 19:22 | [224-rsf-reconstructed-goth-ch-20-21.md](224-rsf-reconstructed-goth-ch-20-21.md) |
 | 225 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 22-23 | 16:38 | [225-rsf-reconstructed-goth-ch-22-23.md](225-rsf-reconstructed-goth-ch-22-23.md) |
 | 226 | [ ] | [ ] | What is the Long Suffering of Our Lord in 2 Peter 3:15? | 26:00 | [226-what-is-the-long-suffering-of-our-lord-in-2-peter-3-15.md](226-what-is-the-long-suffering-of-our-lord-in-2-peter-3-15.md) |
@@ -296,8 +296,8 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 285 | [ ] | [ ] | RSF - NazActs Bk 8 Ch 1-12 | 21:03 | [285-rsf-nazacts-bk-8-ch-1-12.md](285-rsf-nazacts-bk-8-ch-1-12.md) |
 | 286 | [ ] | [ ] | RSF - NazActs Bk 8 Ch 13-25 | 21:33 | [286-rsf-nazacts-bk-8-ch-13-25.md](286-rsf-nazacts-bk-8-ch-13-25.md) |
 | 287 | [ ] | [ ] | RSF - NazActs Bk 8 Ch 26-36 | 16:43 | [287-rsf-nazacts-bk-8-ch-26-36.md](287-rsf-nazacts-bk-8-ch-26-36.md) |
-| 288 | [ ] | [ ] | RSF - NazActs Bk 8 Ch 37-50 | 39:24 | [288-rsf-nazacts-bk-8-ch-37-50.md](288-rsf-nazacts-bk-8-ch-37-50.md) |
-| 289 | [ ] | [ ] | RSF - NazActs Bk 8 Ch 51-56 | 29:18 | [289-rsf-nazacts-bk-8-ch-51-56.md](289-rsf-nazacts-bk-8-ch-51-56.md) |
+| 288 | [x] | [ ] | RSF - NazActs Bk 8 Ch 37-50 | 39:24 | [288-rsf-nazacts-bk-8-ch-37-50.md](288-rsf-nazacts-bk-8-ch-37-50.md) |
+| 289 | [x] | [ ] | RSF - NazActs Bk 8 Ch 51-56 | 29:18 | [289-rsf-nazacts-bk-8-ch-51-56.md](289-rsf-nazacts-bk-8-ch-51-56.md) |
 | 290 | [ ] | [ ] | RSF - NazActs Bk 8 Ch 57-62 | 25:25 | [290-rsf-nazacts-bk-8-ch-57-62.md](290-rsf-nazacts-bk-8-ch-57-62.md) |
 | 291 | [ ] | [ ] | RSF - NazActs Bk 9 Ch 1-11 | 35:05 | [291-rsf-nazacts-bk-9-ch-1-11.md](291-rsf-nazacts-bk-9-ch-1-11.md) |
 | 292 | [ ] | [ ] | RSF - NazActs Bk 9 Ch 12-30 | 24:45 | [292-rsf-nazacts-bk-9-ch-12-30.md](292-rsf-nazacts-bk-9-ch-12-30.md) |
