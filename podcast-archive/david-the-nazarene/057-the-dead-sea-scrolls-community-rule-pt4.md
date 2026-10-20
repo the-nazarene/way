@@ -10,7 +10,59 @@
 
 ## Summary
 
-*Notes pending.*
+Part four, and the end of the series. **Covers 1QS 7:9 through about 9:26**: the rest of the penal code (foolish speech, interrupting, sleeping or walking out of the session, nakedness, spitting, gesturing with the left hand, slander, murmuring against the foundation, the wavering spirit readmitted at the bottom rank, the ten-year member who backslides and is never readmitted); the council of twelve men and three priests (8:1); the council as eternal plantation, house of holiness for Israel and holy of holies for Aaron, precious cornerstone, "an acceptable freewill offering to atone for the land" (8:4-10); the two-year certification and the revealing of hidden things; the separation to the wilderness to prepare the way, Isaiah 40:3, glossed as the study of the Torah "as revealed through His Holy Spirit" (8:12-16); expulsion for a deliberate transgression of a word of the Torah of Moses, two years for an inadvertent one (8:16-9:2); atonement "without the flesh of burnt offerings," the offering of the lips and the perfection of the way (9:3-6); the sons of Aaron ruling "until the coming of the Prophet and the Messiah of Aaron and Israel" (9:7-11, singular in Eisenman); and the rules for the guide, the *maskil* (9:12-26). He says he will try to find "these last two columns" (10-11, the closing hymn) but the series ends here. The captions on this video are badly garbled; check every reading against the primary text.
+
+His readings: the left-hand rule explained by toilet hygiene; twelve and three as Jesus's twelve with an inner three; the freewill offering "without flesh" as "the major doctrine of the Nazarenes," prayer in place of sacrifice; "the way" vocabulary as the early assembly's name; the hidden teachings withheld until two years' proving matched to Peter's letter to James; the Prophet and Messiah as the True Prophet, Yeshua, one person; the rule "for these times" meaning the community could update its rules (so a modern community could drop the left-hand rule); and the guide's "freely delight in all that befalls him" matched to Peter in the Nazarene Acts, that nothing from God should displease the believer.
+
+## Key Points
+
+- [00:00] 7:9-14: foolish speech three months; interrupting ten days; sleeping in the session thirty days; leaving three times in one session ten days; walking out thirty; nakedness three months; spitting thirty days; careless dress thirty days.
+- [01:34] 7:14-17: laughing aloud thirty days; the left hand ten days (his hygiene explanation); slandering a fellow, a year's exclusion; slandering the many, permanent expulsion.
+- [03:08] 7:17-25: murmuring against the foundation, expelled; against a fellow, six months; the wavering spirit, two years' penance at the bottom rank; a member of ten years who backslides is never readmitted, and anyone who shares table or purse with him is expelled.
+- [04:41] 8:1-4: twelve men and three priests perfect in all revealed of the Torah, to keep faith, humility and "to atone for sin by doing judgment and suffering affliction"; "twelve and three, or fifteen"; Jesus's twelve with three.
+- [06:17] 8:4-10: the council as an eternal plantation, house of holiness, holy of holies for Aaron, witnesses of truth, "to atone for the land," the tested wall and precious cornerstone, "a pleasing fragrance"; an acceptable freewill offering.
+- [07:52] 8:10-12: two years in perfection of the way, then "the hidden things" revealed; secrets within the organization withheld from the general population.
+- [08:50] 8:12-16: separate from the habitation of unrighteous men and go to the wilderness to prepare the way, Isaiah 40:3, "the same passage associated with John the Baptist"; interpreted as the study of the Torah commanded by Moses as revealed by the Holy Spirit through the prophets.
+- [09:25] 8:16-9:2: no touching the purity until works are washed clean; Peter's letter to James on withholding his teachings until proven (he says "two years"); deliberate transgression of a word of the Torah, expelled; inadvertent, two years.
+- [12:34] 9:3-6: atone "without the flesh of burnt offerings and the fat of sacrifice," the offering of the lips, perfection of the way as an acceptable freewill offering: "the major doctrine of the Nazarenes"; "the way" repeated.
+- [13:30] 9:7-11: the sons of Aaron alone rule; no mixing of property with the men of deceit; judged by the first judgments "until the coming of the Prophet and the Messiah of Aaron and Israel," singular, the True Prophet.
+- [14:40] 9:12-21: the rules for the guide: weigh the sons of righteousness by their spirit, hold the elect, conceal the counsel of the Torah from the men of unrighteousness, admonish with knowledge, "a time of preparing the way in the wilderness."
+- [17:14] 9:21-26: everlasting hatred toward the men of the pit in a spirit of secrecy, leave them their riches; "the rules of the way for these times," so rules can change; zeal for the decree; "freely delight in all that befalls him," nothing should displease, bless the Creator in all that happens.
+- [18:47] Closing: Peter in the Nazarene Acts says the same, that whatever happens is of God's providence; he will try to find the last two columns.
+
+## Sources He Cites
+
+Held (`dead-sea-scrolls-selected-texts.md`):
+- 1QS 8:1 (Vermes: "In the Council of the Community there shall be twelve men and three Priests, perfectly versed in all that is revealed of the Law") matches his "twelve men, three priests, perfect in all that has been revealed about the whole Torah."
+- 1QS 8:12-14 (WAC: "they shall separate from the session of perverse men to go to the wilderness, there to prepare the way of truth, as it is written, 'In the wilderness prepare the way of the Lord'") matches.
+- 1QS 9:4-5 exists in the repo only as paraphrase; `questions/CITATION-NOTES.md` lists it as not to be quoted directly ("the Community Rule replaces sacrifice with prayer and righteous living," reference level). His Eisenman reading of 9:3-6 cannot be checked word for word here.
+- 1QS 10-11 (the hymn he did not reach) is held at 11:11-14 (Vermes).
+- 7:9-25, 8:4-11, 8:16-9:2, 9:7-26 are not in the held file; reference level. 1QS 9:11 ("Messiahs of Aaron and Israel," plural in the Hebrew) is not held.
+- KJV: Isaiah 40:3; Mark 1:2-3; Isaiah 28:16 (the cornerstone).
+- Epistle of Peter to James chs. 1-3 and the Contestatio, held at the head of `clementine-homilies-full-text.md`: "before trial"; "proved not less than six years."
+- Recognitions on providence (he paraphrases; see 226 for the long-suffering passages), held.
+
+Not held: Eisenman's translation and footnotes; Josephus on Essene secrecy (*War* 2.8.7).
+
+## Where This Overlaps the Repo
+
+- `dead-sea-scrolls-selected-texts.md` → `#### The Council of Twelve and Three (1QS 8:1)` (the repo's "12 + 3 is exact" claim) and `#### Separation from the "Men of Injustice" (1QS 5:1-2, 10-11; 8:12-14)` (the Isaiah 40:3 / John the Baptist parallel he also draws); `#### The Closing Hymn (1QS 10-11)` for the columns he did not read, which the repo uses to show grace and obedience held together.
+- `questions/essene-nazarene-origins.md` → `### 3.` (the table row "Living without the altar; prayer as offering, 1QS 9:4-5, reference level") and the objection "Qumran was not anti-sacrifice. The Temple Scroll... 4QMMT": the repo's answer to the point he calls the Nazarenes' major doctrine.
+- `questions/sacrifice-culture-vegetarian-jesus.md` → the objection "You keep invoking the Essenes, but Qumran wasn't anti-sacrifice at all."
+- `questions/CITATION-NOTES.md` → the do-not-use row on 1QS 9:4-5 and the note that 3:4-7, 3:17-19 and 8:12-14 are the quotable lines.
+- `christianity/dead-sea-scrolls/00-overview.md` → `## The Teacher of Righteousness` ("Prophet like Moses," 4QTestimonia) for his True Prophet reading of 9:11; `questions/pauls-legitimacy.md` → `### 1.` for the withheld-teachings theme via the Epistle of Peter to James.
+- His own 054-056, 051 (claim 3 on the singular Messiah), 185 and 187 (the True Prophet), 177 (Peter's letter and the six-year rule), 003 (does YHWH create evil: the providence theme).
+
+## Claims to Check
+
+1. "The Prophet and the Messiah of Aaron and Israel" is one person. 1QS 9:11 reads "the Prophet and the Messiahs [plural] of Aaron and Israel" in the Hebrew; Eisenman's singular is a minority rendering. On the majority reading the line expects three figures. See 051 claim 3.
+2. 9:3-6 is "the major doctrine of the Nazarenes," prayer instead of sacrifice. The lines are real (held only as paraphrase); their context is a community cut off from the temple making atonement in exile, and the same corpus (Temple Scroll, 4QMMT) prescribes sacrifice done correctly. The repo's Essene card states the limit.
+3. Peter's letter to James withholds teachings "for two years." The held Epistle says "before trial" and the Contestatio says "not less than six years"; the two years are 1QS 8:10. He has merged the two.
+4. Twelve and three. The held Vermes reads fifteen ("twelve men and three Priests"); some scholars take the three as included in the twelve. He notes the ambiguity himself; the repo's table treats it as 12 + 3.
+5. The left-hand rule and toilet hygiene. A plausible modern guess (shared by some commentators); the text gives no reason. Present as explanation, not as the scroll's statement.
+6. "The rules can be changed as the times change." 1QS 9:12-14 does say the guide acts "according to the rule of the time" (*serekh ha-et*); applying that to a present-day reconstitution of the community is his own step.
+7. The guide "should freely delight in all that befalls him" = Peter on providence. 1QS 9:24-26 does say to delight in all that God does and bless the Creator; Peter's doctrine (Homilies 2-3, Recognitions 3 and 10) is that nothing evil comes from God. Parallel, not identity; and Homilies 2.38-44 (held) is where the "nothing negative can be said of God" doctrine lives, not Josephus or the scrolls (see 051 claim 6).
+8. The closing hymn (1QS 10-11) is missing from his series. The held 11:11-14 ("if I stumble, the mercies of God shall be my eternal salvation... my justification shall be by the righteousness of God") is the passage the repo uses to show the scrolls held grace and obedience together; it is the one he would need to answer if someone raised Paul's "justification" language.
 
 ---
 

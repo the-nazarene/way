@@ -10,7 +10,62 @@
 
 ## Summary
 
-*Notes pending.*
+Part two, still from Eisenman's translation. **Covers 1QS 3:17 through 5:13**: the whole Two Spirits teaching (the Prince of Lights and the Angel of Darkness; the Angel of Truth who helps the sons of light; the virtues of the spirit of truth and its rewards; the vices of the spirit of unrighteousness and its punishments; the two spirits "in equal measure" until the end; the refining by the Holy Spirit and "all the glory of Adam"), then the opening of column 5 (the rule for the men of the community: separate from the men of unrighteousness, Torah and common property under the sons of Zadok, decisions by lot, the oath to return to the Torah of Moses, and 5:13, "he shall not enter the water to touch the purity of the men of holiness"). He backs up to 3:17 to restart.
+
+His readings: the two spirits are the Didache's two ways and Deuteronomy's life and death; the demons under the Angel of Darkness are Enochic and, per the Nazarene Acts, enter through eating meat; the Angel of Truth is the angel of the covenant, the spirit that the Father placed in the body prepared in Mary's womb (his Christology); "detesting idols" against Paul; "crown of glory, majestic raiment, eternal light" as New Testament phrasing; knowledge here is Torah study, not Gnosticism, since salvation is by deeds and repentance; "everlasting torment... shameful extinction... annihilation without remnant" means destruction, not endless torment; the two spirits in equal measure explain why the righteous and the wicked cannot walk together (a long aside on witchcraft in an assembly and where one would stand); "truth wallowing in wickedness until the appointed judgment" is truth hidden and now emerging with the scrolls and the Nazarene Acts; the Holy Spirit and "the glory of Adam" fit the Ebionite primal-Adam doctrine; casting lots as in Acts 1; the community as Acts 2-4's common property.
+
+## Key Points
+
+- [00:00] 1QS 3:17-21 reread: two spirits; Prince of Lights, Angel of Darkness; two ways (Didache), life and death (Deuteronomy 30), the two inclinations of rabbinic Judaism (captions render it *lashon hara*; the term meant is *yetzer hara*).
+- [01:36] 3:21-24: the Angel of Darkness leads the sons of righteousness astray; the spirits of his lot cause them to stumble; "very Enochian"; unclean spirits in the gospels; the Nazarene Acts on demons entering with meat.
+- [02:27] 3:24-25: "the God of Israel and the Angel of His Truth help all the sons of light." His view: Angel of Truth = angel of the covenant = the spirit placed in the body formed in Mary; Yeshua as messenger of the covenant.
+- [04:25] 4:2-6: the virtues (meekness, long-suffering, abundant mercy, eternal goodness, intelligence, wisdom, faith in God's works, leaning on his grace, zeal for righteous judgments, "detesting all the idols of pollution"), set against Paul on idols; "zeal" as in Acts 21:20.
+- [06:47] 4:6-8: healing, peace, long life, fruitful seed, everlasting joy, crown of glory, majestic raiment, eternal light. The document is Hebrew, not Greek; nothing in it is Gnostic; Gnosticism means salvation by secret knowledge, this says salvation by deeds and repentance.
+- [09:14] 4:9-11: the vices (greed, lying, pride, deceit, cruelty, ill temper, lust, fornication, blasphemy, blindness, stiff neck, hardness of heart).
+- [09:57] 4:11-14: "immeasurable punishments... eternal damnation... everlasting torment... shameful extinction in the fire of the nether worlds... annihilation without remnant or survivor." Read as extinction: the fire is eternal, the person is not.
+- [11:38] 4:15-18: two divisions; rewarded according to works; the spirits apportioned equally until the last times; eternal hatred between them; truth cannot walk with error. Aside on assemblies that justify the wicked and expel those who name sin; witchcraft as a chosen sin, not a struggle; where would you stand if it were a friend or family member.
+- [18:22] 4:18-19: God has put an end to unrighteousness at the visitation (the second coming); "truth, which has wallowed in the ways of wickedness... will emerge victorious" read as hidden truth now emerging.
+- [20:44] 4:20-23: refine the works of man, purify by the Holy Spirit "like baptism of waters," immersed in the spirit of purification, teach the perfect of the way; puzzling over the singular "him"; "all the glory of Adam will be theirs" with Eisenman's note on the primal Adam.
+- [24:00] 4:23-26: the two spirits struggle in the hearts of men; inheritance in truth or in unrighteousness; equal until the new creation.
+- [24:45] 5:1-6: the rule for the men of the community: separate from the men of unrighteousness; Torah and property in common under the sons of Zadok and the multitude; decisions by lot (Acts 1:26); humility, justice, love of piety; "circumcise the foreskin of desire and stiff-neckedness."
+- [27:22] 5:7-13: the oath to return to the Torah of Moses with all the heart; separation from the men of unrighteousness who "did the revealed things with contempt"; eternal destruction without remnant; 5:13 no entering the water to touch the purity of the men of holiness.
+
+## Sources He Cites
+
+Held (`dead-sea-scrolls-selected-texts.md`):
+- 1QS 3:17-19 (Vermes) matches.
+- 1QS 4:2-4 (held paraphrase: "a spirit of humility and slowness to anger, of great compassion, of eternal goodness, of understanding and intelligence, and mighty wisdom") matches his "meekness, long-suffering, patience, abundant mercy, eternal goodness, intelligence, understanding, majestic wisdom."
+- 1QS 4:6-8 (Vermes: "healing, great peace in a long life, and fruitfulness, together with every everlasting blessing and eternal joy in life without end, a crown of glory and a garment of majesty in unending light") matches his "healing, abundant peacefulness, long life, fruitful seed... crown of glory with majestic raiment and eternal light."
+- 1QS 4:9-10 vices (Vermes) match.
+- 1QS 4:12-13 (Vermes: "a multitude of plagues by the hand of all the destroying angels, everlasting damnation... shameful extinction in the fire of the dark regions") matches his "immeasurable punishments at the hands of all the angels of destruction... eternal damnation... shameful extinction in the fire of the nether worlds."
+- 1QS 4:23-25 (Vermes: "the spirits of truth and injustice struggle in the hearts of men... God has established the two spirits in equal measure until the determined end") matches.
+- 1QS 5:1-2 separation, held at reference level; 5:3-13 not in the held file.
+- KJV: Deuteronomy 30:15-19; Acts 1:26, 2:44-45, 4:32, 21:20; 1 Corinthians 8 and 10.
+- Didache 1:1, held. 1 Enoch 15-16 (spirits of the giants), held in `christianity/ethiopian-bible/unique-ethiopian-texts.md` and the Charles 1917 file.
+- Recognitions 2.71 and Homilies 7.3-4, 8.19-20 (demons and meat), held.
+
+Not held: Eisenman's notes (the jinn, the primal Adam).
+
+## Where This Overlaps the Repo
+
+- `dead-sea-scrolls-selected-texts.md` → `#### The Two Spirits Doctrine (1QS 3:13-4:26)`: the repo calls this "the most theologically important passage in the corpus" and quotes the same lines; its cross-tradition notes include John 14:17 / 1 John 4:6 and, against him, Galatians 5:16-26 as Paul's paraphrase of the same doctrine.
+- `questions/hell-afterlife.md` → `### 3. Jesus's own verb is destroy` and `### 5. The Jewish-Christian sources sort people by deeds`; his annihilation reading of 4:12-14 belongs there, with the caveat that the held text keeps "everlasting damnation" in the same sentence.
+- `questions/trinity-deity-of-jesus.md` → `### 1. The subordination runs one direction` and the Panarion 30.16.4 ("created like one of the archangels," held) for his angel-in-a-body Christology; `questions/essene-nazarene-origins.md` → `### 1.` for the sectarian vocabulary.
+- `christianity/two-ways-oldest-christian-doctrine.md` → `### Dead Sea Scrolls: The Two Spirits`; `christianity/dead-sea-scrolls/00-overview.md` → `### Zoroastrian Two Spirits --> 1QS Two Spirits`.
+- `christianity/clementine-literature-nazarene-writings.md` → `### Demons Insert Thoughts That Feel Like Your Own`; `questions/essene-nazarene-origins.md` → `### 3. The organizational blueprint` (common property, 1QS 6:17-22; Acts 2 and 4).
+- `gnosticism/00-overview.md` for what the repo means by Gnostic (Nag Hammadi), which it keeps separate from the scrolls, as he does.
+- His own 054, 056-057, 051, 067 and 189 (Ebionite view of Jesus's birth and the Father/Son), 177 (demons and the table of devils).
+
+## Claims to Check
+
+1. The Holy Spirit is "not really mentioned in the Tanakh" and not discussed in Judaism. Psalm 51:11 and Isaiah 63:10-11 (KJV, held) have "holy spirit"; *ruach ha-kodesh* is standard rabbinic vocabulary. The scrolls' usage is a point of continuity, not a Christian tell.
+2. The Angel of Truth is the pre-existent spirit placed in Jesus's body. His own Christology (compare Panarion 30.16.3-4, held, and his 189); 1QS itself does not say it, and the Angel of Truth is usually read as Michael.
+3. "Everlasting torment" means extinction. The held Vermes text has both "everlasting damnation" and "shameful extinction"; a destruction reading is defensible, "instantaneous death, poof" goes beyond the text ("all the eras of their generations in mournful weeping... until their annihilation").
+4. Demons enter through eating meat. Recognitions 2.71 and Homilies 7.3-4, 8.19-20 (held) say this; 1QS does not. Keep the attribution with the Clementines.
+5. Decisions "by lot" (5:3) as in Acts 1:26. *Goral* in 1QS usually means one's allotted portion or rank; translators differ on whether 5:3 means casting lots or deciding by the community's authority. The held file does not include 5:3.
+6. "All the glory of Adam" and the Ebionite primal Adam. The scroll's phrase (also CD 3:20, 1QHa 4:15) is about restored glory; the True Prophet appearing in Adam is Homilies 3.20 (held). Related ideas, not the same doctrine.
+7. "Zeal for the judgments of righteousness" and Acts 21:20. A verbal echo (zealous for the law); Acts 21 goes on to James arranging a temple sacrifice for Paul, which `questions/nazarene-sect-sacrifice-and-diet.md` → `### HOLE 1` treats as the hardest text for the anti-sacrifice reading.
+8. Rule by "the sons of Zadok, the priests." A Zadokite priestly leadership sits awkwardly with James as *mebaqqer*, whom the sources make Davidic (Hegesippus) or priestly only by a later tradition (Panarion 29.4, 78.13); worth stating when the identification is made.
 
 ---
 

@@ -10,7 +10,51 @@
 
 ## Summary
 
-*Notes pending.*
+A follow-up to 156 and 161 on 2 Peter 3:15-16. After a recap of the earlier arguments (faint praise, a term he credits to Del Tondo: "brother," not "apostle"; *dysnoētos* meaning "destroys reason" rather than "hard to understand"; *graphē* meaning "writings," not "scripture"; "the wisdom given him" naming no giver; the whole letter a warning from the eyewitness of chapter 1 against the fables and false teachers of chapter 2), he takes up the opening phrase, "account that the longsuffering of our Lord is salvation." His method is to collect every place Peter speaks of God's long-suffering or patience in the Homilies (his "Sermons of Peter") and the Recognitions (his "Nazarene Acts"), and he reports that every instance says the same thing: God is patient with the impious to give them time to repent before a judgment that will certainly come (Homilies 11.7, "long-suffering to all who are in impiety, as a merciful and philanthropic father"; 16.20, "the boundless long-suffering of God in bearing with such great impiety as yours," said to Simon; Recognitions 10.45 and 10.49, "not so much pleased with the death as with the conversion of a sinner"). Since long-suffering is extended to the impious, Peter calling it salvation "even as our beloved brother Paul" marks Paul as the impious man being given time to repent. 2 Peter 3:8-9 ("longsuffering... not willing that any should perish, but that all should come to repentance") is read as the same doctrine. He closes with the Rock of a Sure Foundation rendering ("things which are destructive to understanding"; "the deception of those without the written law") and his "levels of development" idea: Jesus's teaching sits at level eight or nine, Paul drags it down to level four.
+
+## Key Points
+
+- [00:00] The occasion: 2 Peter 3:15-16 used as Peter's certification of Paul; faint praise (Del Tondo); the ESV text read.
+- [02:47] *Dysnoētos*: *dys-* "destroys" the root, so not "hard to understand" but "nonsense," "destroys reason." *Graphē* = writings (a post-it note is a *graphē*); "scripture" itself only means writings.
+- [05:50] His rendering of 3:15-17: "beloved brother, not apostle"; "wisdom given him" with no giver; "things that destroy reason"; "the other writings"; a warning.
+- [07:09] The letter's shape: chapter 1, eyewitnesses against fables; chapter 2, the false teachers, all attributable to Paul; chapter 3, Paul named at the end.
+- [08:29] The question: what is "the longsuffering of our Lord"? Lord may be Jesus or the Father; longsuffering and patience are the same word across translations.
+- [10:46] Homilies (he reads several): "by his long-suffering he brings to light the obstinacy of all... at the end sits as a just judge"; "long-suffering to all, that those who will, repenting... may receive a worthy reward"; "begin to obey God... recover the original saving worship."
+- [13:54] "You are not wiser than God"; "long-suffering to all who are in impiety, as a merciful and philanthropic father, knowing that impious men become pious." Therefore long-suffering toward Paul means Paul is impious. He says he has included every instance he could find.
+- [15:27] To Simon: "we first and alone have seen the boundless long-suffering of God in bearing with such great impiety as yours... the earth did not open... he calls to repentance, having the arrows... laid up in his treasures"; "let us fear the just God."
+- [17:42] "Out of the abundance of the heart the mouth speaks"; Simon imagines there is no judgment, or no God, "not comprehending such long-suffering."
+- [18:30] Recognitions: "are you wiser than God, that you should offer him counsel?... the patience of God waits for the conversion of men as long as they are in this body"; "in the same proportion is his patience extended... he is not so much pleased with the death as with the conversion of a sinner."
+- [20:36] 2 Peter 3:8-14 read: a thousand years as a day; "not willing that any should perish"; the day of the Lord; new heavens and earth. "Peter in 2 Peter 3 agrees with Peter in the Sermons."
+- [22:02] The Rock of a Sure Foundation rendering of 3:14-18; the levels-of-development aside; "it's almost as if there was something out there that destroyed our understanding."
+
+## Sources He Cites
+
+Held and checked:
+- Homilies 11.7 (ANF: "He knows what He does; for He is long-suffering to all who are in impiety, as a merciful and philanthropic father, knowing that impious men become pious"), matches. Homilies 16.20 ("the boundless long-suffering of God in bearing with such great impiety as yours"; the arrows laid up in his treasures), matches. The "brings to light the obstinacy" and "original saving worship" passages are Homilies (the file has eleven "long-suffering" hits; he does not give chapters).
+- Recognitions 10.45 ("All Ought to Repent"), 10.49 ("God's Long-Suffering": "he is not so much pleased with the death as with the conversion of a sinner"), and 5.27 (the patience of God waits for the conversion of men while they are in the body), match.
+- KJV: 2 Peter 1:16-21; 2:1-22; 3:8-18 ("longsuffering... beloved brother Paul... according to the wisdom given unto him... hard to be understood... wrest, as they do also the other scriptures... error of the wicked").
+
+Not held: the ESV; the Rock of a Sure Foundation (his own edition); Del Tondo, *Jesus' Words Only*; lexica for *dysnoētos* and *graphē*.
+
+## Where This Overlaps the Repo
+
+- `questions/pauls-legitimacy.md` → the objection "Peter personally endorses Paul — 2 Peter 3:15-16 calls him 'our beloved brother Paul'": the repo already answers it as a warning that Paul's letters were being wrested; his contribution is the Clementine usage of long-suffering, which is held and quotable (Homilies 11.7; Recognitions 10.49).
+- `questions/blood-atonement-and-salvation.md` → `### 2. Forgiveness is reciprocal, not purchased` and `questions/what-we-actually-offer.md` for the repentance-before-judgment frame he draws from Peter.
+- `questions/hell-afterlife.md` → `### 5.` (the Jewish-Christian sources sort by deeds; judgment at the end).
+- `questions/CITATION-NOTES.md` → "Standard reference material" (keep Greek arguments short; no lexicon in the repo).
+- `extended-library/jesus-words-only-notes.md` for Del Tondo's "faint praise."
+- His own 156 (the parent), 161 (the Greek), 163 (chapter 2's *aselgeia*), 219 (levels of development), 003 and 177 (Peter on providence and on the "slightly punished").
+
+## Claims to Check
+
+1. *Dysnoētos* means "destroys reason." The prefix *dys-* means "bad, hard, ill" (as in dysentery, dyslexia), not "destroy"; "hard to understand" is the ordinary sense, and the word is a New Testament hapax. The lexical case against the ordinary rendering is weak; the warning in verse 17 does not need it.
+2. *Graphē* means "writings," not scripture. In the New Testament the word occurs about fifty times, always of scripture; "the other scriptures" (3:16) is the natural reading. Which is itself useful to his larger case: a letter that already counts Paul's letters among the scriptures is late, which is the mainstream reason 2 Peter is dated to the second century.
+3. "The wisdom given him" with no giver is a slight. The passive "given" is the ordinary divine passive; Paul uses the same phrase of himself (1 Corinthians 3:10, "the grace of God which is given unto me").
+4. Long-suffering is extended only to the impious, so Paul is impious. 2 Peter 3:9 (held) says God "is longsuffering to us-ward," the faithful readers; the same chapter applies the word to believers. The Clementine passages do say patience is for repentance, but they do not restrict it to opponents, and they never name Paul.
+5. "Brother, not apostle" as demotion. "Brother" is Paul's own word for Timothy, Titus, Apollos and himself; the argument depends on 2 Peter being written by Peter and intending the omission, both of which are open.
+6. The whole of 2 Peter 2 describes Paul. See 163 claim 4; the chapter's examples (angels, flood, Sodom, Balaam) come from Jude, and the "false teachers" are unnamed.
+7. The levels-of-development framing. A modern developmental model (he calls it levels eight, nine and four); not a textual argument and should not be presented as one.
+8. "The verse has been flipped on its head." The endorsement reading and the warning reading are both in the text (verses 15-16 and 17); the repo's position is both: Peter knows Paul's letters and warns that they are being wrested.
 
 ---
 

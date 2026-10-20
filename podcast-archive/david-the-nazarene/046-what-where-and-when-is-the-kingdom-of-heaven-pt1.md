@@ -10,7 +10,59 @@
 
 ## Summary
 
-*Notes pending.*
+A live presentation to the Vero Essene Yahad Sabbath service (Zoom, with chat interruptions) walking through the kingdom-of-heaven passages in Matthew (he counts 36), bracketed by Daniel 2:44 and 7:22, and read alongside the Recognitions (Jackson Snyder's "Nazarene Acts" edition) and the Gospel of Thomas. His reading accumulates rather than argues: the kingdom is a question of sovereignty, which king you submit to (the centurion, "Lord, Lord," the two sons, the wedding guests), so it is entered by obedience and conduct rather than by saying; "exceed the scribes and Pharisees" he links to Josephus's Essenes as the most pious men in Judea; the tares are good and bad *word* sown together (Mark 4:14, "the sower soweth the word"), which he matches to the Ebionite doctrine of additions to the Torah; the mustard seed, hidden treasure, pearl and dragnet are the recovery of buried texts plus "be prudent money-changers"; the rock of Matthew 16:18 is Peter, "the gates of Sheol" may pun on Saul, and Peter's keys are revealed in the Nazarene Acts.
+
+Two conjectures of his own: Matthew 16:28 / Mark 9:1 ("some standing here") was fulfilled in 70 CE (crediting Jackson Snyder's Revelation series), and the "eunuchs from the mother's womb" of Matthew 19:12 originally read Nazirites, since "from the mother's womb" is used of Samson, John the Baptist and James, which he ties back to "from the beginning" and the original diet. He ends with Matthew 23:13, Recognitions 1.54 and 2.30 (the scribes hid the key of knowledge handed down from Moses), Thomas 51, Thomas 113, Luke 17:21 and Thomas 3: the kingdom is already here; we have not taken possession because the keys were hidden, first by the scribes, now by the church.
+
+## Key Points
+
+- [00:00] Daniel 2:44 as the first mention; Matthew 3:2 and 4:17; Mark 1:14-15 makes Jesus take up the message when John is imprisoned. The kingdom comes with wrath for the wicked, not only reward for the righteous.
+- [06:23] Matthew 5:3 probably read "poor" (Luke 6:20; James 2:5). Matthew 5:17-20: "exceed the scribes and Pharisees"; Josephus on Essene piety; Recognitions 10.45, God asks "a merciful heart and a pious mind," not money.
+- [11:00] Matthew 6:24-33: two kingdoms, two masters; Recognitions 2.20, "the first duty of all is to inquire into the righteousness of God and His kingdom"; the Father's perfect will versus his permissive will; Jesus always tightened commandments, never relaxed them.
+- [15:41] Matthew 7:19-29: the king gives laws; subjecting yourself to a man makes man your sovereign. Any apostle who contradicts one word of Jesus cannot be followed.
+- [18:51] The centurion (Matthew 8:5-13): obedience is what gets the many from east and west in. Matthew 8:18-22 and Luke 9:60-62: no looking back.
+- [23:37] Matthew 10:5-15 read as "straight out of Josephus" on Essene travel (no money, no spare clothes, lodging with members); rejecting the emissaries is rejecting the king, which is why Peter's writings matter and why it does not apply to Paul.
+- [26:45] Matthew 11:7-12: the violent who seize the kingdom are the Herodian and Sadducean establishment, then Rome. Matthew 12:25-32 and John 14:12: casting out demons means the kingdom has come.
+- [30:00] The sower and the tares: the seed is the word (Mark 4:13-14; Luke 8:11), so the tares are bad doctrine sown by "a man, an enemy," which fits the Ebionite doctrine of a corrupted Torah; he treats Matthew 13:37-39's own interpretation as twisted.
+- [34:36] Mustard seed and leaven (Thomas 20 "prepared soil" = the heart); treasure hidden in a field and pearl as texts coming out of the ground; dragnet as prudent money-changing; Recognitions 3.53, the kingdom hidden "as a secret treasure."
+- [39:20] Matthew 16:13-19: Peter is the rock; Sheol and Saul share consonants in Hebrew, so "the gates of Sheol" may be a pun; in the Nazarene Acts the rock is opposed by Simon the magician, who fits Paul better. Recognitions 1.69 on baptism and "not two unbegotten Gods."
+- [43:00] Matthew 16:24-28 and Mark 9:1 as 70 CE; Matthew 18:1-6, become as little children = put aside seminary, Protestant and Hebrew-roots teachers; Matthew 18:21-35, forgiveness as condition.
+- [48:49] Matthew 19:3-12: "from the beginning"; eunuchs born from the mother's womb make no sense, so he proposes Nazirites (Samson, John, Job, James per Epiphanius), with the Nazirite diet in view.
+- [52:01] Matthew 19:13-30 and 20:1-16: the rich man; the last shall be first (latecomers get the same reward).
+- [55:14] Matthew 21:28-44: the two sons; the vineyard parable has no sending of the son to die, "that all comes from Paul"; the stone and the destruction of Jerusalem. Matthew 22:1-14 and 23:8-13.
+- [1:01:27] Recognitions 1.54 and 2.30: the scribes and Pharisees hid the key of the kingdom received from Moses. Thomas 51 and 113, Luke 17:20-21: the kingdom is already here.
+- [1:03:01] Ten virgins; Daniel 7:22, the saints "took possession of the kingdom"; the keys were hidden by the scribes then, by the church now (the Nazarene Acts are not in your Bible). Closes with Thomas 3.
+
+## Sources He Cites
+
+Held:
+- KJV (`christianity/Incoming/kjv/`): Daniel 2:44, 7:22; Matthew 3:2, 4:17, 5:3-20, 6:24-34, 7:19-29, 8:5-22, 10:5-15, 11:7-12, 12:25-32, 13:1-52, 16:13-28, 18:1-35, 19:3-30, 20:1-16, 21:28-44, 22:1-14, 23:8-13, 25:1-13; Mark 1:14-15, 4:13-14, 9:1; Luke 6:20, 8:11, 9:60-62, 17:20-21; John 14:12; James 2:5. He reads from the ISR *Scriptures* (1998), a Hebrew-roots translation; check wording against the KJV file.
+- Gospel of Thomas 3, 20, 51, 113 (Lambdin, held). His wording is Meyer's ("prepared soil," "people don't see it"); the held text reads "tilled soil" and "men do not see it." Thomas 113 (Lambdin) has "waiting for it," not "watching"; see `questions/CITATION-NOTES.md`.
+- Recognitions 1.54 (the key of the kingdom), 1.69 (baptism; "not two unbegotten Gods"), 2.20 (the first duty: inquire into His righteousness and kingdom), 2.30 (hiding the key of knowledge), 3.53 (the kingdom concealed as a secret treasure), 10.45 ("a merciful heart and a pious mind"): all held (Smith, ANF 8) and matching in substance. One difference: at 1.69 the held text reads "baptized in water, in the name of the threefold blessedness, as the true Prophet taught"; his edition reads "in the name of Yeshua as Yeshua taught."
+- "Be ye prudent money-changers": Homilies 2.51 and 3.50, held.
+- Epiphanius, *Panarion* 29.4.2 (James "became a Nazirite, for he was Joseph's firstborn and consecrated"), held. Hegesippus on James "holy from his mother's womb" (Eusebius, *Church History* 2.23.4-7), held in the witnesses file.
+
+Not held: Josephus on Essene piety and travel (*War* 2.8.4; only *Antiquities* 18.1.5 and *War* 2.8.5 are held, in the witnesses file). Jackson Snyder's Nazarene Acts edition and his Revelation series (see `extended-library/nazarene-acts-snyder-notes.md`).
+
+## Where This Overlaps the Repo
+
+- `questions/two-ways-kingdom-within.md` → `### 3. The kingdom is here, inside and outside, unseen`: the same three texts (Luke 17:21, Thomas 3, Thomas 113), with the "Luke 17 is about the future" objection answered both/and; `### 1.` (Matthew 19:17, keep the commandments) is his sovereignty-and-obedience point in the repo's form. `TOPIC-INDEX.md` §7 "The kingdom is a future place."
+- `christianity/jesus-core-teaching-distilled.md` → `## The Ten Core Teachings`; `christianity/2026-03-09-did-jesus-teach-apocalypse.md` → `## 6. Matthew 16:28 — A Failed Prediction?` for his 70 CE reading; `questions/rapture-end-times.md` → `### 2. The wheat and the tares` (the repo reads the tares as people, with the sequence as the point).
+- `christianity/dead-sea-scrolls/cliff-notes-quick-reference.md` → `## The Jesus-Essene Connection -- 12 Shared Characteristics` (the Matthew 10 travel rules) and `## What the Scrolls Do NOT Say`.
+- `christianity/james-the-just-key-to-understanding-jesus.md` → `### The Hegesippus Portrait` (Nazirite table row; Thomas 12).
+- `christianity/clementine-literature-nazarene-writings.md` → `### The Torah Was Corrupted` (his tares reading) and `### Paul as "Enemy"`; `questions/CITATION-NOTES.md` §1 (the additions doctrine is Homilies 2.38, not Recognitions 1.69).
+- His own 047 (part two, same day), 010 and 006 (the additions and the prudent money-changers), 033 (the Standing One), 051-052 (Snyder and Eisenman), 161 and 164 on *pisteuō*.
+
+## Claims to Check
+
+1. Matthew 19:12 originally read "Nazirites." No manuscript or patristic witness; "from the mother's womb" is also said of Jeremiah (1:5), the man born blind (John 9:1), the lame man (Acts 3:2) and Paul (Galatians 1:15), so the phrase is not Nazirite-specific. A conjecture, offered as one.
+2. "The gates of Sheol" puns on Saul. The consonants of Sheol and Saul coincide in Hebrew, but Matthew 16:18 is Greek (*hadēs*), so the pun needs a Hebrew Matthew behind the Greek; see `christianity/hebrew-gospel-of-matthew.md`.
+3. The tares are doctrine, not people. Matthew 13:37-39 (held) is Jesus's own interpretation (good seed = children of the kingdom, tares = children of the wicked one); he sets it aside as a later twist. The repo reads the parable as people.
+4. Matthew 10's instructions are "straight out of Josephus's Essenes." The hospitality network is a real parallel (Tabor makes it), but Josephus's Essenes carry weapons against robbers where Matthew 10:10 forbids even a staff; the parallel is the network, not the kit. Not held.
+5. Recognitions 1.69 "in the name of Yeshua." The held ANF text reads "the threefold blessedness"; the difference is in his edition, and it matters for his 178 argument.
+6. Matthew 16:28 / Mark 9:1 fulfilled in 70 CE. In all three Synoptics the saying is followed immediately by the transfiguration; the preterist reading is a live option, not the only one. The repo's 70 CE reading is of the Olivet discourse.
+7. Josephus says the Essenes were "more pious than any men in Judea." *Antiquities* 18.1.5 (held) says "their course of life [is] better than that of other men"; close in sense, reference level for the rest.
+8. "Jesus was forgiving sins before he was crucified, so he did not come as a blood sacrifice." The repo's `questions/blood-atonement-and-salvation.md` makes the same move (§1-2) and lists the counter-texts (Mark 10:45, Luke 22:37) that have to be answered first.
 
 ---
 

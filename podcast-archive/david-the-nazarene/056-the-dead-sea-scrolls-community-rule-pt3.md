@@ -10,7 +10,58 @@
 
 ## Summary
 
-*Notes pending.*
+Part three. **Covers 1QS 5:7 through 7:8**: the entry oath (return to the Torah of Moses according to what is revealed to the sons of Zadok and "the majority of the men of the covenant"), the separation from the men of unrighteousness (no sharing of water, purity, work or purse; "keep away from all things that are lying"; 5:17 quoting Isaiah 2:22), the yearly examination and ranking, the rules of reproof (first privately, then before witnesses, then before the many), the common meal with its priestly blessing of bread and new wine, Torah study day and night for a third of the nights, the order of speaking in the session, the two-year admission procedure with property held in escrow, and the first part of the penal code (lying about property, rudeness, uttering the Name, anger at a priest, lying, insult, deceit, negligence, malice).
+
+Three things he draws out. First, the separation rules are what Peter was obeying at Antioch (Galatians 2:12), which Eisenman cross-references with 2 Corinthians 6:16-17; he adds the oath-to-eat-only-community-food as a possible reason Peter withdrew. Second, the rank structure (the *mebaqqer* over the whole assembly, then three, then twelve, then seventy) he maps onto James, the pillars, the twelve and the seventy-two. Third, and the one he calls a question answered: the priest blesses "the new grapes" (Eisenman's rendering of *tirosh*), which he takes as fresh-pressed, unfermented juice, explaining how a wine-abstaining Nazirite community could have a cup, and adding that wine kept in animal skins would have been avoided by people who ate no meat. He closes with a musing that the disciples' corn-plucking and the hungry multitudes might reflect such dietary oaths outside the community.
+
+## Key Points
+
+- [00:00] 5:7-10 reread: the covenant of the community is all the members, not a leadership council; the oath to return to the Torah of Moses "according to all that was revealed to the sons of Zadok"; Josephus on Essene decisions by majority, once decided irrevocable.
+- [02:55] 5:10-13: the men of unrighteousness "did the revealed things with contempt," so they are former members who left; eternal destruction without remnant; he shall not enter the water to touch the purity of the men of holiness.
+- [04:40] 5:14-20: no cooperation in work or purse; "keep away from all things that are lying" tied to the Spouter of Lies of the pesher and CD; no acquiescing to their authority in Torah or judgment; nothing from their hand except for payment; "keep away from the man whose breath is in his nostrils" (he cites it as Isaiah 22:22; the quotation is Isaiah 2:22). Eisenman's cross-references: Galatians 2:12, 2 Corinthians 6:16-17.
+- [08:37] 5:20-24: examination of spirit and "works of the Torah" on entry; ranks; the lower obeys the higher; *mebaqqer* = James, then the three pillars, the twelve, the seventy-two; yearly review, advancement or demotion.
+- [10:53] 5:24-6:1: reprove in truth, meekness and love the same day; nothing before the many without first reproving before witnesses (compare Matthew 18:15-17, "even the apostate mentions this").
+- [11:37] 6:1-5: eat, pray and deliberate in common; ten with a priest; seating by rank; the priest first blesses the bread and the new grapes.
+- [12:38] *Tirosh* as unfermented new wine; the Nazirene abstention from wine; wineskins as animal carcasses; "fills in a blank."
+- [15:54] 6:6-8: a man studying Torah day and night; a third of the nights in reading, judgment and prayer; "if that makes them Gnostic, I'd like to be Gnostic."
+- [17:35] 6:8-13: the session of the many; no interrupting; speaking in turn; permission of the overseer. His own assembly's practice of letting a presenter finish.
+- [19:50] 6:13-23: the overseer examines the volunteer; admitted by lot; no touching the pure food for a year; property in the overseer's ledger; no drink until the second year; full merger thereafter. He summarizes it as three castings of lots and full membership "at the end of the third year."
+- [23:14] 6:24-25: lying about property, a year's exclusion and a quarter of the bread; the oath to eat only community food, so expulsion could mean starvation (Josephus) until readmitted out of pity.
+- [25:26] Antioch again: perhaps Peter found the food was not pure; Paul only says men came from James.
+- [26:13] 6:25-7:8: rudeness, a year; uttering the Name even while reading, permanent expulsion; anger at a priest, a year; lying, six months; insult, a year; deceit, six months; negligence, three months; property loss, repay or sixty days; malice, a year. The corn-plucking and the hungry crowds as possible dietary-oath situations.
+
+## Sources He Cites
+
+Held (`dead-sea-scrolls-selected-texts.md`):
+- 1QS 6:2-3 (Vermes: "They shall eat in common and pray in common and deliberate in common") matches his wording exactly.
+- 1QS 6:4-6 (Vermes: "when the table has been prepared for eating, and the new wine for drinking, the Priest shall be the first to stretch out his hand to bless the first-fruits of the bread and new wine") matches; where Eisenman has "new grapes," Vermes has "new wine" (*tirosh*).
+- 1QS 6:13-23 (summary from WAC in the held file): two-year probation, first year no pure food, second year no drink, then enrolled. Matches his reading except his "third year."
+- 1QS 5:13-14 held at reference level in `#### Ritual Purification`; 5:7-12, 5:15-6:1, 6:6-13, 6:24-7:8 are not in the held file; cite at reference level.
+- KJV: Isaiah 2:22 ("Cease ye from man, whose breath is in his nostrils"); Galatians 2:11-14; 2 Corinthians 6:16-17; Matthew 18:15-17; Matthew 12:1 and parallels; Acts 1:26.
+- Recognitions 2.71 (Peter not eating with the unbaptized), held.
+
+Not held: Josephus on Essene voting, oaths and the starvation of the expelled (*War* 2.8.8-9); Eisenman's footnotes.
+
+## Where This Overlaps the Repo
+
+- `dead-sea-scrolls-selected-texts.md` → `#### Communal Property (1QS 6:17-22)` and `#### The Sacred Meal (1QS 6:4-5)`: the repo makes the Last Supper the structural heir of 6:4-6 and reads the drink as wine; his unfermented-juice reading is a departure from the repo's framing and should be labeled as his.
+- `questions/essene-nazarene-origins.md` → `### 3. The organizational blueprint matches, point for point` (council of twelve and three, merged property, the meal, immersion) and the objection "Jesus can't have been an Essene — he... drank wine."
+- `questions/nazarene-sect-sacrifice-and-diet.md` → `### HOLE 4 — The James-household inference` for the wine question, and `## What to concede`.
+- `christianity/james-the-just-key-to-understanding-jesus.md` → `### James as Church Leader` (Galatians 2:12) and `### The Hegesippus Portrait` ("drank no wine nor strong drink").
+- `christianity/acts-15-james-four-decrees.md` → `## The Deeper Reading: Spiritual Hygiene` for the purity-of-the-table logic behind his Antioch reading; his own 186 gives the Recognitions version (unbaptized, unclean spirit) rather than the 1QS version.
+- `christianity/fasting-removed-from-bible.md` for the Nazarene attitude to food discipline.
+- His own 054-055, 057, 186, 157 (Galatians 2), 064-065 (Josephus's Essenes compared trait by trait, including the probation and the oath before table fellowship).
+
+## Claims to Check
+
+1. "Isaiah 22:22." The line 1QS 5:17 quotes is Isaiah 2:22 (held KJV); 22:22 is the key of David. Caption or slide slip; worth fixing before anyone repeats it.
+2. *Tirosh* is unfermented grape juice. *Tirosh* means new wine or must; in Hosea 4:11 (held) it "takes away the heart," so it could intoxicate; Josephus never says the Essenes abstained from wine. The wineskin argument is his own inference. An open question, and the held file reads "new wine."
+3. Three castings of lots; full membership in the third year. The held summary of 6:13-23 gives two years and two examinations after the first admission. He is counting the admission vote as a third.
+4. Expelled members starved because of the oath. Josephus, *War* 2.8.8 (not held) says this of Essenes expelled for grave offenses; 1QS 6:25 gives a year's exclusion and quarter rations, which is a different, lesser penalty. Keep the two apart.
+5. Peter withdrew at Antioch in obedience to 1QS 5:13-20. Eisenman's cross-reference; the Recognitions (2.71, held) give a different reason (unbaptized guests carry an unclean spirit). Both are reconstructions; Galatians 2:12 gives only "fearing them which were of the circumcision."
+6. *Mebaqqer* = James; three pillars = the three priests; twelve; seventy-two. The held 1QS 8:1 has "twelve men and three Priests"; *mebaqqer* is attested in 1QS 6:12, 20 and CD 13-14. The mapping is Eisenman's; the three in 1QS are priests, and James's priesthood rests on Epiphanius (Panarion 29.4, 78.13), not on Hegesippus.
+7. Essene decisions were "democratic... irrevocable." Josephus, *War* 2.8.9 (not held) describes judgments by courts of at least a hundred as irrevocable; the "democratic" gloss is his.
+8. The corn-plucking and the hungry crowds reflect community dietary oaths. He offers it as a passing thought; nothing in the gospels or the scrolls supports it.
 
 ---
 

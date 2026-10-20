@@ -10,7 +10,56 @@
 
 ## Summary
 
-*Notes pending.*
+Corrections and additions after 177. First, Didache 7's "having first said all these things" (not "the necessary things," as the translation he had used read): several translations and his own Google Translate of the Greek agree, so the baptizer recites the Two Ways of chapters 1-6 as a catechism, asks the candidate's assent, and then baptizes; he suspects chapters 8 onward are late additions and that chapter 7 originally said "in the name of Yeshua." Second, the baptismal name. Matthew 28:19's "Father, Son and Holy Spirit" stands alone against Mark 16:17 ("in my name"), Luke 24:47 ("in his name"), Acts 2:38, 8:16, 10:48 and 19:5 (in the name of Jesus), and even Galatians 3:27 and Romans 6:3 ("into Christ"); Eusebius, before Nicaea, quotes the verse as "make disciples of all nations in my name" (the *Demonstratio*, repeatedly; *Church History* 3.5) and only afterward uses the triune formula; Diocletian's burning of the scriptures and Constantine's hand at Nicaea explain why no early witness survives; Pamphilus's library, inherited by Eusebius, may have held the Gospel of the Hebrews, which he identifies with the original Hebrew Matthew (Edwards's book; some fifty quotations: flames on the water at the baptism, fire from his eyes at the temple, "I came to abolish sacrifices," "be prudent money-changers"); the Sinaitic Syriac of about 340 is missing the very leaf with Matthew 28:7-Mark 1:12 ("how convenient"); Shem Tob's Hebrew Matthew 28:19-20 has no baptismal formula; Rufinus, a Trinitarian, may have inserted the formula into the Recognitions, which also has "in the name of Jesus" (1.73). Conclusion: baptize in the name of Yeshua; Didache 7 probably read "baptize in the name of Yeshua, the Son of God, in living water."
+
+## Key Points
+
+- [00:00] Didache 7 in several translations (Allen; "Mr. C. H."; the Greek through Google Translate): "having first recited all these precepts" = the first six chapters; a baptismal liturgy with assent; chapters 8 onward suspect; the formula suspect.
+- [06:19] Matthew 28:19 "disputed by some... everyone agrees" it originally read "in my name."
+- [07:51] Mark 16:17 "in my name"; Luke 24:47 repentance and remission "in his name"; Acts 2:38, 8:16, 10:47-48, 19:5 in the name of Jesus: "three witnesses for the name of Yeshua, one for Father, Son and Holy Spirit."
+- [11:00] Galatians 3:27 and Romans 6:3 "into Christ," cited only to show no one baptized in the triune name, "I wouldn't build any other doctrine on anything Paul says."
+- [13:00] Pamphilus, his library at Caesarea, Eusebius as heir; Jerome on the Gospel according to the Hebrews there.
+- [15:47] The Gospel according to the Hebrews as the original Hebrew Matthew, used by the Nazarenes and Ebionites, lost but quoted about fifty times (Jerome, Eusebius, Origen); Edwards, *The Hebrew Gospel and the Development of the Synoptic Tradition*; the fire on the water, the light from his eyes, "I came to abolish sacrifices," "be ye prudent money-changers."
+- [20:31] Diocletian's persecution and burning of scriptures; Constantine "demands changes"; Nicaea 325 and the Trinity; copies sent out so that no ancient witness disputes them.
+- [23:45] Eusebius, *Demonstratio* ("proof of the gospel"), search for "in my name": "go and make disciples of all the nations in my name, teaching them to observe all things whatever I have commanded you"; "with the necessary addition of in my name"; several times. *Church History*: "go ye and make disciples of all nations in my name," which he takes as a quotation of the apostles' own gospel. An online article claiming Eusebius says it only once "is a lie": seventeen or eighteen times.
+- [30:01] The Sinaitic Syriac ("Evangelion da-Mepharreshe," dated 340): the leaf containing Matthew 28:7-Mark 1:12 is missing; "someone had to thumb through and rip it out."
+- [32:00] Shem Tob's Hebrew Matthew 28:18-20: "go and teach them to carry out all the things which I have commanded you forever," no formula.
+- [33:30] Rufinus the Trinitarian translator; the Recognitions have both forms (Father, Son and Holy Spirit; the name of Jesus), so the triune form is probably his insertion.
+- [34:44] Reconstructed Didache 7 and Matthew 28:19; "we should be baptizing in the name of Yeshua... for me it settles it."
+
+## Sources He Cites
+
+Held and checked:
+- Didache 7 (Richardson, held): "Give public instruction on all these points, and then 'baptize' in running water, 'in the name of the Father and of the Son and of the Holy Spirit.'" Richardson's "give public instruction on all these points" supports his "recite all these things" reading of the Greek; Richardson keeps the triune formula.
+- KJV: Matthew 28:19; Mark 16:17 (within the longer ending, Mark 16:9-20, which `VERIFIED-SOURCES.md` flags); Luke 24:47; Acts 2:38, 8:16, 10:48, 19:5; Galatians 3:27; Romans 6:3. All read as he says.
+- Recognitions 1.69 (ANF: "baptized in water, in the name of the threefold blessedness, as the true Prophet taught") and 1.73 ("immersed by him in the name of Jesus"), held: both forms are in the text, as he says.
+- Homilies 9.19, 9.23 ("the thrice-blessed invocation") and 11.26 ("regenerated by living water into the name of the Father, Son, and Holy Spirit"), held: the Greek Homilies, which Rufinus did not translate, carry the triune formula.
+- Epiphanius, *Panarion* 30.13.7-8 (fire on the water at the baptism, from the Ebionites' gospel) and 30.16.5 ("I have come to do away with the sacrifices"), held.
+- Eusebius, *Demonstratio* 3.5 is held as an excerpt (witnesses file §2) but the "in my name" lines are in 3.6-3.7, not held; *Church History* 3.5.2 not held.
+
+Not held: Shem Tob's Hebrew Matthew (Howard's edition); the Sinaitic Syriac; James R. Edwards, *The Hebrew Gospel*; Jerome, *De viris illustribus* 3 and 75 (Pamphilus; the Hebrew gospel at Caesarea); Jerome on Matthew 21:15 (the light from his eyes, Gospel of the Nazarenes); Conybeare's 1901 argument, which is the scholarly source of the Eusebius case; Allen's and other Didache translations.
+
+## Where This Overlaps the Repo
+
+- `questions/trinity-deity-of-jesus.md` → the objections "Your own star witness is Trinitarian. The Didache... baptizes in the triune name" and "The Trinity is in Scripture even if the word isn't — Matthew 28:19 and 1 John 5:7": the repo's answer concedes the text and argues that triadic naming is not consubstantiality; his approach contests the text instead. The two should not be mixed in one conversation.
+- `christianity/trinity-fourth-century-construction.md` → `### Newton's Proof of Textual Forgery` (the repo's interpolation case is 1 John 5:7, with manuscript evidence; Matthew 28:19 has none) and `### The Historical Timeline`.
+- `christianity/hebrew-gospel-of-matthew.md` → `## The Patristic Evidence`, `## The Three Related Texts` (Nazarenes, Ebionites, Hebrews, which he collapses into one), `## Why the Hebrew Original Was Lost`; `questions/CITATION-NOTES.md` (the Passover saying is Ebionite via Epiphanius, "their alteration").
+- `christianity/two-ways-oldest-christian-doctrine.md` → `### The Didache's Two Ways` and `questions/two-ways-kingdom-within.md` → `### 4.` and the *sectio evangelica* objection, for the layering of Didache 1-6 against 7-16.
+- `christianity/didache-eucharist-vs-pauline-eucharist.md` for what else Didache 7-10 contains.
+- His own 177, 183-184 (the Gospel of the Hebrews, mentions and quotations), 179 and 212-231 (his reconstructed Gospel of the Hebrews), 185 (Panarion 30 on Ebionite baptisms).
+
+## Claims to Check
+
+1. Matthew 28:19's formula is an interpolation and "everyone agrees." No Greek manuscript or ancient version lacks it; Didache 7 (held; c. 50-120 CE) and Justin, *1 Apology* 61 (c. 155, not held) attest the triune formula well before Nicaea and before Diocletian. The Eusebian "in my name" case (Conybeare, 1901) is real and a minority view; "everyone agrees" is not so.
+2. No early witness survives because Diocletian burned them and Constantine rewrote them. Second- and third-century papyri of the gospels survive (none covers Matthew 28), and the Didache's formula predates Diocletian by two centuries. Nicaea produced a creed, not an edition of the scriptures.
+3. Eusebius says "in my name" seventeen or eighteen times. The *Demonstratio* (3.6-7) does repeat it; the count is plausible for that work; *Church History* 3.5.2 has it once; Eusebius's later works have the triune form. Reference level; the held excerpt does not cover it.
+4. The Sinaitic Syriac is dated 340 and lost its last leaf of Matthew by someone's hand. The palimpsest is dated 4th-5th century; its lacunae are many and ordinary for a reused manuscript. Check the exact lacuna before repeating "28:7 to Mark 1:12," and drop "ripped out."
+5. Shem Tob's Matthew 28:19 has no formula. True of Howard's text; it is a 14th-century Hebrew text in a polemical treatise (*Even Bohan*), whose antiquity is disputed.
+6. Rufinus inserted the triune formula into the Recognitions. The Greek Homilies (9.19, 9.23, 11.26, held) have it independently of Rufinus; the Clementine tradition itself carries both forms (Recognitions 1.69 and 1.73, held).
+7. The Gospel of the Hebrews is the original Hebrew Matthew, used by Nazarenes and Ebionites alike. The repo distinguishes three texts (`hebrew-gospel-of-matthew.md`); his four examples come from three sources: the fire on the water is the Ebionites' gospel (Panarion 30.13.7, held), the light from his eyes is Jerome on the Nazarenes' gospel, "abolish sacrifices" is Ebionite (30.16.5, held), and "prudent money-changers" is an agraphon in the Clementines (Homilies 2.51, 3.50, held) and many fathers, never attributed to a Hebrew gospel.
+8. Didache 8 onward is late. Chapters 7 and 8 belong to the same liturgical layer (the fasting rules continue across them); the Two Ways of 1-6 is the older layer. See the kingdom card's objection on the *sectio evangelica*.
+9. Mark 16:17 as a witness. It is in the longer ending, absent from Sinaiticus and Vaticanus; Acts is the stronger evidence for baptism in Jesus's name, and he has it.
+10. Recognitions 1.69 in his edition reads "in the name of Yeshua." The held ANF reads "the threefold blessedness" there (see 046 claim 5); the Jesus-name baptism is at 1.73. His point survives the correction, but the reference should move.
 
 ---
 

@@ -10,7 +10,54 @@
 
 ## Summary
 
-*Notes pending.*
+A follow-up to 156 (does 2 Peter 3:16 certify Paul?). He had read 2 Peter 2 as a description of Paul (cleverly devised fables = the wilderness vision, which Matthew 24:26 warns against; false teachers promising liberty), but the word rendered "sensuality" three times (2:2, 7, 18; Greek *aselgeia*) did not fit, since he saw no sexual charge against Paul. A viewer's comment sent him into a word study: Strong's 766 and the HELPS note on Bible Hub (licentiousness, wantonness; "violent spite which rejects restraint"), Precept Austin's compilation (a privative *a-* plus a root meaning "continent," so "no self-control"; Barclay on Plato, Basil and Josephus's Jezebel; MacArthur; Matthew Henry on false teachers suiting their bait, which he matches to "to the Jews as a Jew"). His conclusion: *aselgeia* is brazen impudence, lawless insolence, the rejection of any restraint, sometimes sexual but not necessarily; his images are a fence that is really a guardrail and an out-of-control teenager.
+
+He then checks Paul's own four uses (Romans 13:13, 2 Corinthians 12:21, Galatians 5:19 sexual in context and rightly translated; Ephesians 4:19 doubtful authorship) and notes that the three letters are his "damage control" letters (2 Corinthians over lacking letters of commendation, Galatians over Antioch, Romans before the Jerusalem offering), so Paul's own congregations were taking lawlessness literally. Re-reading 2 Peter 2 with "impudence," the word sits next to deceptive words, despising authority, speaking evil of dignities, Balaam (as in Revelation 2:14 and Jude 11, both of which he also reads of Paul), promising liberty, and "great swelling words" (boasting). Jude 4, 8, 11, 16 run parallel (the law "given by angels" in Galatians 3:19 and 4:9; respect of persons as Paul's high-ranking contacts; James 2 on partiality). A side note claims the phrase "good works" in 2 Peter 1:10 was removed from most translations on the strength of one manuscript.
+
+## Key Points
+
+- [00:00] The problem: 2 Peter 2 reads as Paul except for "sensuality" at 2:2, 7, 18, which a commentary calls the chapter's theme.
+- [01:34] 2 Peter 1 recap: good works to make the election sure; Peter near death; "cleverly devised fables" versus eyewitnesses; Matthew 24:26 against a wilderness vision.
+- [04:43] *Aselgeia*, Strong's 766, ten New Testament uses; Mark 7:22 (Jesus's list, where it sits beside adulteries and fornications, so it looks redundant if merely sexual); absent from the Matthew 15:19 parallel.
+- [07:56] Bible Hub: licentiousness, wantonness, "outrageous conduct, shocking to public decency"; HELPS: violent spite that rejects restraint.
+- [09:32] Precept Austin: *a-* negates *selges*, "continent," so lack of self-control; "originally any excess or lack of restraint... came to convey shameless excess, especially sexual." He takes "especially sexual" as usage, not meaning.
+- [13:30] Barclay: Plato's "impudence," Basil's "a disposition of the soul incapable of bearing the pain of discipline," the man who does not care who sees; Josephus on Jezebel's temple to Baal. His one-word gloss: lawlessness or rebellion, but as attitude rather than act (since *anomia* already exists).
+- [15:49] MacArthur and others: total licentiousness, seared conscience; Jeremiah 6:15 and 8:12, "they did not know how to blush." A commentator on 2:18: the heretics taught that once saved, the body does not matter, which he says is Paul's once-saved-always-saved.
+- [18:57] Matthew Henry on fishers who suit their bait: "to the Jews as a Jew" (1 Corinthians 9:20-22); false teachers win because they offer pleasure where the apostles demand self-denial.
+- [20:30] The cartoon (fence / guardrail); the out-of-control teenager; Galatians and 2 Corinthians as examples (name-calling, "cut themselves off," boasting about Antioch).
+- [25:09] Paul's uses: Romans 13:13 (paired with chambering), 2 Corinthians 12:21, Galatians 5:19 sexual, correctly translated; Ephesians 4:19 could be "impudence" but Ephesians is probably not Paul's (long sentences, different Christology).
+- [28:21] The three damage-control letters: 2 Corinthians (no letters of commendation), Galatians (Antioch; then chapter 5 correcting his own converts), Romans (before the Jerusalem offering, which he calls an attempt to buy approval). Preaching "no law" produces lawless congregations, then and now.
+- [33:03] 2 Peter 2:1-10 re-read with "impudence": deceptive words; the angels, the flood, Sodom as judgments on rebellion; Lot "distressed by the unrestrained behavior of the impudent"; despising authority, speaking evil of dignities.
+- [37:43] 2:13-19: Balaam (Revelation 2:14; 1 Corinthians 8 and 10 on idol meat); "great swelling words" as boasting; promising liberty while slaves of corruption.
+- [39:16] Jude: brother of James, so brother of Jesus; "turning the grace of God into *aselgeia*"; the same examples; despising dominion, railing at celestial beings (Galatians 3:19, 4:9, the law given by angels as "weak and beggarly"); Cain, Balaam, Korah; "respect of persons for advantage" as Paul's cultivation of the powerful; James 2 against partiality; James as a refutation of Galatians and 2 Corinthians.
+
+## Sources He Cites
+
+Held:
+- KJV (`christianity/Incoming/kjv/`): Mark 7:22 ("lasciviousness"); Matthew 15:19, 24:26; 2 Peter 1:10 ("give diligence to make your calling and election sure," with no "good works"), 1:16, 2:1-19 (the KJV renders *aselgeia* "pernicious ways" at 2:2, "filthy conversation" at 2:7, "wantonness" at 2:18), 3:16; Jude 1:1-19 ("lasciviousness" at v. 4; "sensual" at v. 19 is a different word, *psychikos*); Romans 13:13 ("wantonness"); 2 Corinthians 12:21; Galatians 3:19, 4:9, 5:12, 5:19 ("lasciviousness"); Ephesians 4:19; Revelation 2:14; 1 Corinthians 8, 9:20-22, 10; James 2:1-9; Jeremiah 6:15, 8:12.
+- Nothing non-biblical is quoted from a primary text.
+
+Not held: Strong's, HELPS, Thayer (the "continent" etymology), Barclay, MacArthur, Matthew Henry, Precept Austin; Plato; Basil; Josephus, *Antiquities* 8.13.1 (Jezebel). `VERIFIED-SOURCES.md` notes the repo holds no lexicon; keep Greek arguments footnote-length.
+
+## Where This Overlaps the Repo
+
+- `questions/pauls-legitimacy.md` → the objection "Peter personally endorses Paul — 2 Peter 3:15-16" (the repo's answer treats 3:16 as a warning without claiming chapter 2 is about Paul) and `### 2. The letters almost never quote Jesus`.
+- `christianity/paul-false-prophet-deuteronomy-18-test.md` → `## The Biblical Test` (Matthew 24:4-5, 24:26 on "many will come in my name").
+- `christianity/james-the-just-key-to-understanding-jesus.md` → `### James vs. Paul`; `christianity/acts-15-james-four-decrees.md` → `### Paul's Contradiction` (idol meat, 1 Corinthians 8 and 10, the Balaam link).
+- `questions/CITATION-NOTES.md` → "Standard reference material (not sourced in this repo)" for the rule on lexical arguments.
+- `extended-library/jesus-words-only-notes.md` (Del Tondo on 2 Peter and on Revelation 2 as anti-Pauline).
+- His own 156 (the parent video), 161 (*dysnoētos* and *graphē*), 226 (the long-suffering follow-up), 157 (James as reply to Galatians), 088-089 (the Jerusalem offering), 155 (seven warnings about Paul), 170 (how Paul quotes scripture).
+
+## Claims to Check
+
+1. "Good works" in 2 Peter 1:10 was removed from ninety percent of translations because of one manuscript. Reversed: the KJV (held) has no "good works"; the phrase "through good works" is a minority reading (Alexandrinus, Ψ, some minuscules, the Vulgate), absent from most Greek manuscripts. The translations follow the majority, not a single witness.
+2. *Aselgeia* = *a-* + "continent." The etymology of *aselgeia* is uncertain; the "continent" derivation is an older lexicon guess. His conclusion (shameless excess, not necessarily sexual) is within the attested range in BDAG and LSJ; the "violent spite" gloss is HELPS's and not standard.
+3. Ten New Testament occurrences. Correct count, but his list omits 1 Peter 4:3 (held: "lasciviousness"), and Jude 19 "sensual" is *psychikos*, not this word.
+4. 2 Peter 2 describes Paul. The chapter is widely read as dependent on Jude and 2 Peter as a second-century pseudonymous letter; both points cut both ways for him (a late letter naming Paul's letters as "scriptures," 3:16, is evidence of Paul's standing by then). The repo card does not make the chapter-2 identification.
+5. Balaam is Paul (Revelation 2:14; 2 Peter 2:15; Jude 11). Eisenman's reading; the texts name Balaam, the Nicolaitans and "false apostles" (Revelation 2:2) without identification. State as reading.
+6. The law "given by angels" marks Paul out. Galatians 3:19 (held) says it; so do Acts 7:53 (Stephen) and Hebrews 2:2; it was a common Jewish idea, not a Pauline fable.
+7. Ephesians is deutero-Pauline. The mainstream critical view; fine as stated.
+8. Romans was written to buy the apostles' approval. Romans 15:25-28 attests the collection; the "polite bribe" reading is his 088-089 thesis and not in the repo.
 
 ---
 

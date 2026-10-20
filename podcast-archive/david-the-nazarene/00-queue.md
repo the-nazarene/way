@@ -12,7 +12,7 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 001 | [x] | [ ] | What is the end of the wicked? | 1:09:48 | [001-what-is-the-end-of-the-wicked.md](001-what-is-the-end-of-the-wicked.md) |
 | 002 | [x] | [ ] | What Does the Bible Say About Divorce and Remarriage? | 52:58 | [002-what-does-the-bible-say-about-divorce-and-remarriage.md](002-what-does-the-bible-say-about-divorce-and-remarriage.md) |
 | 003 | [x] | [ ] | Nazarene Acts: Does YHWH create evil? | 41:50 | [003-nazarene-acts-does-yhwh-create-evil.md](003-nazarene-acts-does-yhwh-create-evil.md) |
-| 004 | [x] | [ ] | Live presentation of James, Paul, and the Stoning of Stephen to the Vero Essene Yahad | 1:39:58 | [004-live-presentation-of-james-paul-and-the-stoning-of-stephen-t.md](004-live-presentation-of-james-paul-and-the-stoning-of-stephen-t.md) |
+| 004 | [x] | [x] | Live presentation of James, Paul, and the Stoning of Stephen to the Vero Essene Yahad | 1:39:58 | [004-live-presentation-of-james-paul-and-the-stoning-of-stephen-t.md](004-live-presentation-of-james-paul-and-the-stoning-of-stephen-t.md) |
 | 005 | [ ] | [ ] | The Calendar Issue Is Settled | 9:59 | [005-the-calendar-issue-is-settled.md](005-the-calendar-issue-is-settled.md) |
 | 006 | [x] | [x] | I Came To Abolish Sacrifices pt2 | 40:55 | [006-i-came-to-abolish-sacrifices-pt2.md](006-i-came-to-abolish-sacrifices-pt2.md) |
 | 007 | [x] | [ ] | Every plant which My heavenly Father has not planted... | 34:20 | [007-every-plant-which-my-heavenly-father-has-not-planted.md](007-every-plant-which-my-heavenly-father-has-not-planted.md) |
@@ -171,7 +171,7 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 160 | [x] | [x] | I Guess Paul’s Writings Are Inspired After All | 1:05:45 | [160-i-guess-paul-s-writings-are-inspired-after-all.md](160-i-guess-paul-s-writings-are-inspired-after-all.md) |
 | 161 | [ ] | [ ] | Uncovering the True Meaning of 2 Peter 3:16 Using Greek Language Resources | 38:16 | [161-uncovering-the-true-meaning-of-2-peter-3-16-using-greek-lang.md](161-uncovering-the-true-meaning-of-2-peter-3-16-using-greek-lang.md) |
 | 162 | [x] | [ ] | Taking Scripture Out Of Context? Do Y'all Even Know What That Means? | 1:02:51 | [162-taking-scripture-out-of-context-do-y-all-even-know-what-that.md](162-taking-scripture-out-of-context-do-y-all-even-know-what-that.md) |
-| 163 | [x] | [ ] | Why Does 2nd Peter Keep Warning Us Against "Sensuality"? | 47:23 | [163-why-does-2nd-peter-keep-warning-us-against-sensuality.md](163-why-does-2nd-peter-keep-warning-us-against-sensuality.md) |
+| 163 | [x] | [x] | Why Does 2nd Peter Keep Warning Us Against "Sensuality"? | 47:23 | [163-why-does-2nd-peter-keep-warning-us-against-sensuality.md](163-why-does-2nd-peter-keep-warning-us-against-sensuality.md) |
 | 164 | [x] | [ ] | Have We Missed The True Gospel Message Because of One Word? | 1:07:27 | [164-have-we-missed-the-true-gospel-message-because-of-one-word.md](164-have-we-missed-the-true-gospel-message-because-of-one-word.md) |
 | 165 | [x] | [x] | The Truth About What Jesus Taught About The Law - An Umpteenth Time For The Torah-Hater | 1:28:24 | [165-the-truth-about-what-jesus-taught-about-the-law-an-umpteenth.md](165-the-truth-about-what-jesus-taught-about-the-law-an-umpteenth.md) |
 | 166 | [ ] | [ ] | What If Everything You Understand About God's Plan Is Wrong | 1:28:26 | [166-what-if-everything-you-understand-about-god-s-plan-is-wrong.md](166-what-if-everything-you-understand-about-god-s-plan-is-wrong.md) |
@@ -185,8 +185,8 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 174 | [x] | [ ] | Introduction to the "Questioning Paul" Document | 49:49 | [174-introduction-to-the-questioning-paul-document.md](174-introduction-to-the-questioning-paul-document.md) |
 | 175 | [x] | [ ] | Channel Update and Off-The-Cuff Remarks About Paul, Feedback from Viewers, and Other Topics | 48:09 | [175-channel-update-and-off-the-cuff-remarks-about-paul-feedback.md](175-channel-update-and-off-the-cuff-remarks-about-paul-feedback.md) |
 | 176 | [x] | [ ] | My Review and Analysis of "Jesus Interrupted" by Bart Ehrman | 2:33:11 | [176-my-review-and-analysis-of-jesus-interrupted-by-bart-ehrman.md](176-my-review-and-analysis-of-jesus-interrupted-by-bart-ehrman.md) |
-| 177 | [x] | [ ] | On Baptism, Wedding Garments, Marriage Feasts, and the Law of Demons | 1:59:00 | [177-on-baptism-wedding-garments-marriage-feasts-and-the-law-of-d.md](177-on-baptism-wedding-garments-marriage-feasts-and-the-law-of-d.md) |
-| 178 | [x] | [ ] | Additional Information on Baptism: A Follow-Up To the Wedding Garments Presentation | 36:31 | [178-additional-information-on-baptism-a-follow-up-to-the-wedding.md](178-additional-information-on-baptism-a-follow-up-to-the-wedding.md) |
+| 177 | [x] | [x] | On Baptism, Wedding Garments, Marriage Feasts, and the Law of Demons | 1:59:00 | [177-on-baptism-wedding-garments-marriage-feasts-and-the-law-of-d.md](177-on-baptism-wedding-garments-marriage-feasts-and-the-law-of-d.md) |
+| 178 | [x] | [x] | Additional Information on Baptism: A Follow-Up To the Wedding Garments Presentation | 36:31 | [178-additional-information-on-baptism-a-follow-up-to-the-wedding.md](178-additional-information-on-baptism-a-follow-up-to-the-wedding.md) |
 | 179 | [x] | [ ] | Intro to the Rock Of A Sure Foundation - Gospel of the Hebrews, The Sermons Of Peter, And More | 1:22:22 | [179-intro-to-the-rock-of-a-sure-foundation-gospel-of-the-hebrews.md](179-intro-to-the-rock-of-a-sure-foundation-gospel-of-the-hebrews.md) |
 | 180 | [x] | [ ] | Update #2 - The Print Book With The Corrected Text  Is Live! | 28:08 | [180-update-the-print-book-with-the-corrected-text-is-live.md](180-update-the-print-book-with-the-corrected-text-is-live.md) |
 | 181 | [x] | [ ] | The Antichrist and the Abomination of Desolation - Uncovering the Meanings in Matthew 24 | 58:18 | [181-the-antichrist-and-the-abomination-of-desolation-uncovering.md](181-the-antichrist-and-the-abomination-of-desolation-uncovering.md) |
@@ -234,7 +234,7 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 223 | [x] | [ ] | RSF - Reconstructed GoTH Ch 18-19 | 10:26 | [223-rsf-reconstructed-goth-ch-18-19.md](223-rsf-reconstructed-goth-ch-18-19.md) |
 | 224 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 20-21 | 19:22 | [224-rsf-reconstructed-goth-ch-20-21.md](224-rsf-reconstructed-goth-ch-20-21.md) |
 | 225 | [x] | [ ] | RSF - Reconstructed GoTH Ch 22-23 | 16:38 | [225-rsf-reconstructed-goth-ch-22-23.md](225-rsf-reconstructed-goth-ch-22-23.md) |
-| 226 | [x] | [ ] | What is the Long Suffering of Our Lord in 2 Peter 3:15? | 26:00 | [226-what-is-the-long-suffering-of-our-lord-in-2-peter-3-15.md](226-what-is-the-long-suffering-of-our-lord-in-2-peter-3-15.md) |
+| 226 | [x] | [x] | What is the Long Suffering of Our Lord in 2 Peter 3:15? | 26:00 | [226-what-is-the-long-suffering-of-our-lord-in-2-peter-3-15.md](226-what-is-the-long-suffering-of-our-lord-in-2-peter-3-15.md) |
 | 227 | [ ] | [ ] | The Prophets Agree!  God Never Commanded Sacrifices! | 43:40 | [227-the-prophets-agree-god-never-commanded-sacrifices.md](227-the-prophets-agree-god-never-commanded-sacrifices.md) |
 | 228 | [x] | [ ] | RSF - Reconstructed GoTH Ch 24-25 | 27:09 | [228-rsf-reconstructed-goth-ch-24-25.md](228-rsf-reconstructed-goth-ch-24-25.md) |
 | 229 | [x] | [ ] | RSF - Reconstructed GoTH Ch 26 | 13:42 | [229-rsf-reconstructed-goth-ch-26.md](229-rsf-reconstructed-goth-ch-26.md) |
@@ -346,7 +346,7 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 335 | [x] | [ ] | Jesus's Parables Say That We Are Saved By Works Not Faith - Part 2 | 1:54:58 | [335-jesus-s-parables-say-that-we-are-saved-by-works-not-faith-pa.md](335-jesus-s-parables-say-that-we-are-saved-by-works-not-faith-pa.md) |
 | 336 | [x] | [ ] | The True Apostles Said We Are Saved By Works Not Faith Part 3 | 1:47:36 | [336-the-true-apostles-said-we-are-saved-by-works-not-faith-part.md](336-the-true-apostles-said-we-are-saved-by-works-not-faith-part.md) |
 | 337 | [ ] | [ ] | Paul The Blind Guide | 49:00 | [337-paul-the-blind-guide.md](337-paul-the-blind-guide.md) |
-| 338 | [ ] | [ ] | Render Taxes To Caesar? | 12:48 | [338-render-taxes-to-caesar.md](338-render-taxes-to-caesar.md) |
+| 338 | [x] | [ ] | Render Taxes To Caesar? | 12:48 | [338-render-taxes-to-caesar.md](338-render-taxes-to-caesar.md) |
 | 339 | [ ] | [ ] | Paul the Blind Guide Part 2 | 26:42 | [339-paul-the-blind-guide-part-2.md](339-paul-the-blind-guide-part-2.md) |
 | 340 | [ ] | [ ] | Mark 7:19 Disproves Scriptural Infallibility and Exposes Wicked Pseudo-Christian Hearts | 1:06:34 | [340-mark-7-19-disproves-scriptural-infallibility-and-exposes-wic.md](340-mark-7-19-disproves-scriptural-infallibility-and-exposes-wic.md) |
 | 341 | [ ] | [ ] | Levels of Development and How It Limits Our Understanding - The Will of YHWH | 1:33:05 | [341-levels-of-development-and-how-it-limits-our-understanding-th.md](341-levels-of-development-and-how-it-limits-our-understanding-th.md) |

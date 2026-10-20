@@ -10,7 +10,59 @@
 
 ## Summary
 
-*Notes pending.*
+Part one of four reading the Community Rule (1QS) from Robert Eisenman's translation in *The Dead Sea Scrolls and the First Christians*. **Covers 1QS columns 1:1 through 3:20**: the opening charge (seek God with a whole heart, love the sons of light, hate the sons of darkness), the covenant-entry liturgy (priests' blessing, Levites' curse, the confession "we have sinned, we and our fathers"), the curse on the man who enters with idols in his heart and blesses himself "though I walk in the stubbornness of my heart," the annual entry by rank, the man who refuses the covenant and cannot be cleansed by any water, and the first lines of the Two Spirits teaching up to the Prince of Lights. His position, stated first: the scrolls were written by James or his followers; Ebionites, Nazarenes and Essenes were essentially one people; Qumran was the community of Yeshua's followers. He prefers Eisenman because Eisenman keeps "Messiah" singular where other translators render "anointed ones."
+
+The readings along the way: a works-based document "like James"; "as commanded by the hand of Moses" tied to the Nazarene doctrine of an original Torah later corrupted; hating the sons of darkness means those who have cast their lot with Belial (he names witches and warlocks), not ordinary sinners; the cursed covenant-breaker who expects peace while walking in stubbornness is Pauline grace without works; "everlasting damnation" means annihilation, not torment; rank and "standing" connect to the Standing One; knowledge here is not Gnosticism; the apostate whose waters do not cleanse is Paul's baptism; "not submitting to the council of his community" is Paul's "they added nothing to me" (Galatians 2:6); "neither to the right nor the left" on festivals against Romans 14:5; the Prince of Lights is Yeshua. He also notes that Paul is never named, and suggests *lashon hara* as the reason.
+
+## Key Points
+
+- [00:01] Thesis: written by James or his followers; Ebionites, Nazarenes, Essenes one people; Qumran the Yeshua community. Eisenman's translation, singular Messiah.
+- [03:13] 1QS 1:1-11 read: seek Elohim with a complete heart, by the hand of Moses and the prophets; love the sons of light, hate the sons of darkness. Repentance and changed behavior, not faith alone; Recognitions on friendship with God through keeping Torah.
+- [05:27] "By the hand of Moses" = the original Torah before additions; Jesus opposed the additions, not the Torah. Hating the sons of darkness = those who have rejected God and his Messiah, not the merely sinful.
+- [08:20] 1QS 1:11-2:10: property into the community; the covenant oath; priests bless, Levites recount sins; the confession; the priestly blessing. "Very based upon works... the emphasis on doing from James." Eisenman's bracketed restorations explained as his best guess at lost text.
+- [11:24] 1QS 2:4-10 the Levites' curse ("damned in the nether worlds of everlasting fire"): praying for the destruction of God's enemies, not personal enemies; the witchcraft example.
+- [12:13] Why he thinks it is the Yeshua community: otherwise two first-century messianic groups awaiting a departed Messiah, each with a lying spouter linked to the Herodians and a baptism of lying waters. Translators "tripping over themselves" to obscure it.
+- [14:46] 1QS 2:11-18: cursed be he who enters with idols in his heart; James 2:8-10 versus Paul on idols; "the words of this covenant" = the new covenant in the land of Damascus, which he here places at Qumran; "peace be upon me though I walk in stubbornness" = the churches' no-works covenant.
+- [17:25] "Everlasting damnation" read as destruction at the Messiah's coming, not eternal torment. "Cut off from the sons of light" set beside Galatians 5:12.
+- [19:05] Paul never named: *lashon hara*. 1QS 2:19-23: entry by rank; "standing" and the Standing One.
+- [20:47] 1QS 2:25-3:6: he who refuses the covenant; knowledge of righteousness is not Gnosticism; "nor cleansed by atonements or purified by cleansing waters, nor sanctified by seas and rivers" = the apostate's waters that do not cleanse.
+- [24:36] 1QS 3:6-12: cleansed by the Holy Spirit, humble submission, then the purifying waters; the council of the community = the council of the apostles; Galatians 2:6; festivals neither right nor left versus Romans 14:5.
+- [26:10] 1QS 3:13-20: the two spirits, truth and unrighteousness, "as the Didache says the two paths"; the Prince of Lights is King Messiah Yeshua; sons of light, spirit of truth, sons of righteousness as New Testament terms.
+
+## Sources He Cites
+
+Held (`christianity/dead-sea-scrolls/Incoming/dead-sea-scrolls-selected-texts.md`, Vermes / Wise-Abegg-Cook / García Martínez):
+- 1QS 1:1-3 (Vermes: "seek God with a whole heart and soul, and do what is good and right before Him as He commanded by the hand of Moses and all His servants the Prophets") matches his reading from Eisenman in substance.
+- 1QS 1:24-26, the confession, held as paraphrase; matches.
+- 1QS 3:4-7 (Vermes: "he shall neither be purified by atonement, nor cleansed by purifying waters, nor sanctified by seas and rivers, nor washed clean with any ablution... he shall be cleansed from all his sins by the spirit of holiness") matches his "nor cleansed by atonements or purified by cleansing waters, nor sanctified by seas and rivers... cleansed of all his sins by the Holy Spirit." Verified verbatim in the repo; quotable.
+- 1QS 3:17-19 (Vermes: "created man to govern the world, and has appointed for him two spirits in which to walk until the time of His visitation: the spirits of truth and injustice") matches.
+- The Levites' curse (2:4-10), the idols-in-the-heart curse (2:11-18) and the entry by rank (2:19-23) are not in the held file; cite at reference level.
+- KJV: James 2:8-10; Galatians 2:6, 5:12; Romans 14:5; 1 Corinthians 8 and 10.
+- Didache 1-6 (two ways), held.
+
+Not held: Eisenman's translation and restorations (in copyright); Cave 4 copies of the Rule (4Q255-264) that supply the bracketed text.
+
+## Where This Overlaps the Repo
+
+- `christianity/dead-sea-scrolls/Incoming/dead-sea-scrolls-selected-texts.md` → `#### The Covenant Oath and Entry Requirements (1QS 1:1-3:12)`, `#### The Two Spirits Doctrine`, `#### Ritual Purification / Baptism Parallels (1QS 3:4-9; 5:13-14)`: the same passages, with the repo's John-the-Baptist parallel for 3:4-7. The file dates the 1QS copy to c. 100-75 BCE and says the Cave 4 copies show the text evolving, which is the dating he argues against; the repo's DSS files record Eisenman's first-century identification as a minority view not definitively refuted (`00-overview.md` → `## Open Questions`).
+- `christianity/dead-sea-scrolls/cliff-notes-quick-reference.md` → `## What the Scrolls Do NOT Say` (no Jesus, no faith-alone, no Trinity) and `## The Jesus-Essene Connection -- 12 Shared Characteristics`.
+- `questions/essene-nazarene-origins.md` → `### 1. Sectarian vocabulary` (sons of light, spirit of truth) with the objection that Paul uses "children of light" too (1 Thessalonians 5:5), which bears on his claim that the vocabulary marks the Yeshua community; `questions/CITATION-NOTES.md` on claiming density, not exclusivity.
+- `questions/two-ways-kingdom-within.md` → `### 5. The Two Ways predates Christianity` and `christianity/two-ways-oldest-christian-doctrine.md` → `### Dead Sea Scrolls: The Two Spirits`.
+- `questions/hell-afterlife.md` → `### 3. Jesus's own verb is destroy` for his annihilation reading; the held 1QS 4:12-13 has both "everlasting damnation" and "shameful extinction."
+- `christianity/james-the-just-key-to-understanding-jesus.md` → `### James as Church Leader` and the Two Ways paragraph under `### James vs. Paul`.
+- His own 051-052 (Damascus Document, same thesis), 055-057 (continuation), 033 (the Standing One), 058-059 (Habakkuk pesher), 064-065 (Essene versus Jewish-Christian beliefs).
+
+## Claims to Check
+
+1. 1QS was written by James's community shortly before 70 CE. The Cave 1 copy is palaeographically c. 100-75 BCE and Cave 4 has ten earlier and later copies; the held file dates composition to the mid-second century BCE. State the first-century dating as his adoption of Eisenman.
+2. Translators "almost unanimously" turn a singular Messiah into "anointed ones" to mislead. 1QS 9:11 reads the plural "Messiahs of Aaron and Israel" in the Hebrew; CD has singular forms. A real translation question, not a conspiracy; see 051 claim 3.
+3. "The new covenant in the land of Damascus" is Qumran. In 051 he placed it at Pella; here at Qumran. The held CD file notes that literal Damascus, Babylon and Qumran are all argued.
+4. The "spouter of lies" and "lying waters" are in this document. They are Damascus Document language (CD 1:14-15, held as paraphrase), not 1QS; and the Habakkuk pesher. Keep the texts distinct.
+5. The Prince of Lights is Yeshua. Most scholars identify the Prince of Lights / Angel of Truth with Michael (compare the held 1QM 17:6-8), and CD 5:18 has the Prince of Lights active in Moses's day, which on any dating is before Jesus.
+6. "Everlasting damnation" means annihilation. The held 1QS 4:12-13 (Vermes) reads "everlasting damnation... shameful extinction in the fire of the dark regions"; the passage supports destruction language, and both phrases sit side by side. Not a settled reading either way.
+7. Eisenman's brackets are "his best guess." Modern editions restore lacunae from the Cave 4 copies, not by guesswork; the bracket conventions are explained in Vermes and WAC.
+8. "Cut off from the sons of light" and Galatians 5:12. Paul's verb is *apokoptō* (castrate / cut off); the link is an English-level wordplay.
+9. Paul is unnamed because of *lashon hara*. A conjecture; the Habakkuk pesher and CD name no one at all, friend or foe, which is the genre's habit.
 
 ---
 

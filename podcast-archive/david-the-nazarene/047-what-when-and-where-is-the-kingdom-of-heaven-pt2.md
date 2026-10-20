@@ -10,7 +10,58 @@
 
 ## Summary
 
-*Notes pending.*
+An addendum recorded the same day as the live presentation (046), explaining where the study came from and what he thinks it means. The occasion was a Facebook post by a woman who had stopped eating meat and found the animals on her farm approaching her; he says the Father told him "the kingdom of heaven has come upon her," and he reports the same change in the squirrels behind his own house. From that he frames the kingdom as the Father's perfect will rather than his permissive will: a return to Eden and its diet (Genesis 1:29-30, Isaiah 11), not to David's monarchy or the wilderness camp; "the violent" of Matthew 11:12 includes the bloodshed in the temple; the kingdom cannot be possessed while violence is done to God's creatures.
+
+The rest reworks the slides. The tares are bad doctrine sown by "the enemy," the Nazarene Acts' name for Paul, who attacked the assembly in the temple (where Acts has Stephen); the three measures of meal are Christianity, Judaism and Islam, each keeping a shadow of the original (citing Eisenman on Islam); the rock is Peter, so Peter's teachings in the Homilies and Recognitions are where the keys are, with Homilies 17.19 (visions cannot make anyone fit to teach) read as Peter against Paul behind the name Simon Magus; he revises his Galatians series to make Peter, not James, Paul's thorn in the flesh, and guesses Peter went to Corinth with Apollos. The keys to the kingdom are Peter's two tests for additions to the Torah (anything negative about God; the animal sacrifices), hence the temple action, the Essene lustrations in Josephus, the Nazirite reading of Matthew 19:12 extended to abstention from meat, and Acts 15's three-of-four food rules. "Become the nation bringing forth the fruits" (Matthew 21:43): act as if already in the kingdom. He closes with Thomas 3 and the Abgar letter in Eusebius as the only reputed writing of Jesus.
+
+## Key Points
+
+- [00:00] Provenance of the study; the Vero Essene Yahad Zoom service. His diet: about ninety percent vegan, not claiming the label.
+- [03:10] The Facebook post and the animals; "the kingdom of heaven has come upon her"; his own squirrels; his picture of the kingdom is Jesus with the animals around him.
+- [04:46] Matthew 7:21: permissive versus perfect will. Jesus came not to forgive sins but to take away the sins of the world and restore Eden.
+- [06:25] Matthew 10: rejecting the disciples is rejecting Jesus; the church's double claim that Paul agrees with the apostles and that Paul was needed because they misunderstood.
+- [07:57] Matthew 11:12: the violence is the temple's bloodshed; his vegetarianism came from reading the Nazarene Acts and the history, not the other way round; Isaiah's wolf and lamb; Genesis 1 as the perfect will even if the clean/unclean lists were original.
+- [12:39] The tares as bad doctrine; the enemy's attack in the temple and the stoning of Stephen; leaven as doctrine, not sin.
+- [14:13] Mustard seed and prepared soil; three measures of meal = three religions; Eisenman on Islam preserving early-assembly doctrines; the dragnet parables as sorting.
+- [17:21] Sheol/Saul again, with the admission that he had planned to read the rock as the Holy Spirit and changed mid-presentation. The rock is Peter; Peter's teachings are in the Nazarene Acts and Homilies.
+- [19:05] Homilies 17.19 read in full: a vision cannot make one fit to teach; "contend not with me, who am a firm rock"; Simon Magus as a redactional stand-in for Paul. The thorn in the flesh was Peter; Peter at Corinth (1 Corinthians 1:12).
+- [25:25] The keys of Matthew 16:19 and the shut kingdom of 23:13; Recognitions 2.30; Epiphanius on the corrupted Torah; Peter's two kinds of additions; the temple action; the prophets against sacrifice.
+- [28:34] Josephus: the Essenes did not sacrifice because they had purer lustrations; the Ascents of James say the same (Recognitions 1.39).
+- [29:55] Matthew 19:12 as Nazirites; "from the beginning" = the original diet; the apostles ate herbs and nuts; the kicked-out teenager analogy.
+- [32:00] Acts 15:20: three of four rules concern meat; Acts as apologetic for Paul.
+- [33:19] Matthew 21:43: become the nation bearing the fruits; Sabbath, no idols, no fornication, no slaughter.
+- [35:30] Thomas 3; teshuvah from the false apostle; the Abgar letter (Eusebius) as the only writing of Jesus; the keys are in the Clementines, link in the description.
+
+## Sources He Cites
+
+Held:
+- KJV: Genesis 1:29-30; Isaiah 11:6-9; Matthew 7:21, 10:14-15, 11:12, 13:24-50, 16:18-19, 19:3-12, 21:43, 23:13; Mark 4:14; Luke 17:21; Acts 15:20; 1 Corinthians 1:12; 2 Corinthians 12:7; Galatians 2:11-14.
+- Thomas 3, 20 (Lambdin; his wording is Meyer's).
+- Homilies 17.19 ("can any one be rendered fit for instruction through apparitions?... in direct opposition to me, who am a firm rock, the foundation of the Church"), held and matching. Recognitions 2.30 (hiding the key of knowledge), 1.39 (baptism instituted as sacrifice ceased), held.
+- Josephus, *Antiquities* 18.1.5 (Whiston), held in `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md` §7: "they do not offer sacrifices because they have more pure lustrations of their own." Read the repo's note under it: the same sentence says they "offer their sacrifices themselves," and the "not" is textually disputed.
+- Epiphanius, *Panarion* 30 on the Ebionite view of the Torah, held (book 1).
+
+Not held: Eisenman on Islam and the early assembly (*James the Brother of Jesus*); Eusebius, *Church History* 1.13 (the Abgar correspondence); Hegesippus on the apostles' diet beyond James (the held Eusebius, *Demonstratio* 3.5 says "the disciples... abstinence from wine and meat").
+
+## Where This Overlaps the Repo
+
+- `questions/two-ways-kingdom-within.md` → `### 3.`; `questions/sacrifice-culture-vegetarian-jesus.md` → `### 2. The Temple action` and `### 4. The people closest to him`; `christianity/biblical-case-for-vegetarian-jesus.md` → `## II. Jesus's Own Actions and Words` and the Genesis 1:29 material.
+- `christianity/acts-15-james-four-decrees.md` → `### Why Three Food Laws?`: the same three-of-four count, with Acts 15:21 (hear Moses in the synagogue) as the purpose.
+- `questions/pauls-legitimacy.md` → `### 1. Paul locates his gospel's authority in revelation`: Homilies 17.19 is a Tier 1 text that states that point in Peter's mouth and is not yet quoted on the card.
+- `christianity/clementine-literature-nazarene-writings.md` → `### The Torah Was Corrupted` and `### Paul as "Enemy"`; `questions/CITATION-NOTES.md` §1 (cite Homilies 2.38 for the additions, not Recognitions 1.69).
+- `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md` §2 and §7 for what Eusebius and Josephus actually say about the disciples' and the Essenes' diet.
+- His own 046, 039-045 (Galatians), 186 (Antioch), 157 (James as reply to Galatians), 010 and 006, 185 (Panarion on the Ebionites), 088-089 (Paul's offering).
+
+## Claims to Check
+
+1. The three measures of meal are Christianity, Judaism and Islam. An allegorical application with no textual support; Luke 13:21 is the parallel. Treat as his devotional reading.
+2. Peter, not James, was Paul's thorn in the flesh. 2 Corinthians 12:7 (held) says "a thorn in the flesh, the messenger of Satan"; nothing identifies a person. His 157 reads the same verse as possession; this is a third reading.
+3. Peter went to Corinth with Apollos. 1 Corinthians 1:12 attests a "Cephas" party; a visit is not in Acts or Paul. Dionysius of Corinth (in Eusebius, *Church History* 2.25, not held) later claims Peter and Paul both taught at Corinth. Open.
+4. The Nazirite vow included not eating meat. Numbers 6 (held) covers wine and grape products, hair and corpses, not meat. Hegesippus says James ate no flesh; that is James, not the vow. The repo's `questions/nazarene-sect-sacrifice-and-diet.md` carries the same caveat.
+5. "All the apostles abstained from meat." The held Eusebius (*Demonstratio* 3.5) says "the disciples of Jesus"; Hegesippus says it of James; Clement of Alexandria of Matthew (witnesses §3, with his "indifferent to us" in the same breath). Say "disciples," not "the twelve."
+6. Josephus on Essene lustrations instead of sacrifice. Held; quote with the repo's caution that the sentence continues "but offer their sacrifices themselves."
+7. The Abgar letter is "the only reputed writing of Jesus." Eusebius (*Church History* 1.13) presents it as translated from the Edessa archives; scholars treat it as legend. He himself says no doctrine can be built on it.
+8. Simon Magus stands for Paul in the Clementines. A scholarly reading since Baur, and the repo's own (`clementine-literature-nazarene-writings.md`); the texts never say so, and the Homilies also contain material that is simply about Simon.
 
 ---
 

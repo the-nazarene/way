@@ -10,7 +10,66 @@
 
 ## Summary
 
-*Notes pending.*
+A hundred-minute live presentation to the Vero Essene Yahad (chat questions interleaved) arguing that Recognitions book 1 was a source for Acts 4-7, and that the stoning of Stephen is a rewritten version of the Recognitions' account of "the enemy" attacking James on the temple steps. The first third orients the group: what the Recognitions and Homilies are (ANF vol. 8; two versions of one narrative, like Matthew and Mark; the whole work a letter to James, Clement being Peter's scribe); Barnabas's plain preaching against the Greco-Roman rhetoricians in Rome, which he reads as a sideways critique of Paul's thesis-antithesis-synthesis style (and of Hebrew-roots readers who quote the antithesis); Peter quotes Jesus constantly, Paul never; Galatians 2 read as Paul being the one rebuked; Peter not eating with the unbaptized Clement because idol meat brings an unclean spirit.
+
+The core is read side by side: Recognitions 1.43-44 (James "ordained bishop in it by the Lord," with Thomas 12), 1.55-65 (the seven-day temple debate, Caiaphas against Peter, Gamaliel secretly a believer), 1.70-71 (the enemy with a brand from the altar, James thrown from the steps, five thousand to Jericho, Caiaphas's letters to Damascus, the sepulchres that whiten of themselves, which Eisenman places at Qumran), 1.73 (James lame); the Epistle of Peter to James ("the man who is my enemy," the six-year rule); then Acts 5:12-42 and 6-7 (Luke 1:1-4's admission of sources; Theudas and Judas from Josephus; the freedmen versus Stephen as the enemy versus James; Stephen's Acts 7:16 error about Abraham's tomb; the stripping detail; Acts 8:1, 9:1-2). The last third is James: Hegesippus via Eusebius 2.23 (diet, the holy place, camel's knees, "the gate of Jesus," the pinnacle, the fuller's club, the Rechabite priest, Vespasian), Josephus *Antiquities* 20.9.1, Hippolytus, Jerome, Clement of Alexandria, Panarion 29.4; and Paul as a Herodian (Romans 16:10-11; Josephus's Saulus; Agrippa II and Ananus; "maybe Paul had a hand" in James's death; the apocryphal "Paul in Britain"). A recorded addendum adds Eisenman's family tree for Paul, Robert Feather's headless burial at Qumran as John the Baptist, and Simcha Jacobovici's blog on 4Q541 and "the enemy."
+
+## Key Points
+
+- [00:00] The Recognitions and Homilies: one story in two versions, buried in ANF vol. 8; Clement in Rome hearing Barnabas; the rhetoricians trying to trip him up.
+- [03:08] Paul never quotes a rabbi or Jesus; Greco-Roman dialectic (thesis, antithesis, synthesis; strophe, antistrophe, epode); Hebrew-roots teachers quote his antithesis as if it were his position.
+- [07:51] Barnabas's simplicity as the antithesis of Paul; Peter cites "the Master said" for every point.
+- [10:37] Galatians 2:11-14: everyone went with Peter, so Paul was the one rebuked. Recognitions 1.19: Peter will not eat with Clement until he is baptized; Legion and the swine; the church's "Jesus force field" against demons.
+- [16:50] The Recognitions as one of Luke's sources: Luke 1:1-4, Acts 1:1-3; the "we" passages.
+- [20:13] Recognitions 1.43: the priests asking for a discourse on whether Jesus is the Prophet; "a week of years"; James ordained bishop by the Lord; Thomas 12; "bishop of bishops" in Clement's letter.
+- [24:53] 1.55-65: the temple debate; Caiaphas's warning to Peter; Peter's reply ("unlearned... a fisherman... more understanding than the wise elders"); the priests' rage; Gamaliel's speech; "secretly our brother in the faith."
+- [31:29] 1.70-71: after seven days the enemy enters with a few men, cries "deceived by Simon a magician," raises a tumult, seizes a brand from the altar, James is thrown from the steps and left for dead; five thousand to Jericho; Caiaphas's commission to the enemy to arrest believers and go to Damascus with letters; the whitened sepulchres (Qumran, per Eisenman). Paul working for a Sadducean high priest though a professed Pharisee; Epiphanius on Paul as a proselyte.
+- [37:42] Paul a Herodian: Romans 16:10-11 (Aristobulus; Herodion "my kinsman," the little Herod); Josephus on Saulus as Agrippa's kinsman; protective custody in Agrippa's palace; James killed by the establishment in 62, Paul protected by it; "Acts 29," Paul to Britain with a legion.
+- [41:53] 1.73: James still lame; Paul never named, only "the enemy"; the Epistle of Peter to James (teachings not to be shared before trial; "lawless and trifling preaching of the man who is my enemy"; misrepresented while still alive; the seventy); James's six-year rule; why so little of Peter survives.
+- [52:27] Acts 5:12-42 against Recognitions: growth, the priests' alarm, the warning not to teach in this name, Gamaliel (Theudas and Judas from Josephus, absent from the Recognitions), the beating.
+- [1:00:06] Acts 6-7: the freedmen disputing with Stephen = the enemy disputing with James; Stephen's long speech; Acts 7:16 puts Abraham's tomb at Shechem (the Elvis-in-Knoxville analogy); the speech "lifted from Joshua"; Luke covering Saul's assault on James; the stoned man, not the stoners, strips.
+- [1:07:17] Acts 8:1 and 9:1-2 match Recognitions 1.71 (high priest, letters, Damascus).
+- [1:08:05] Hegesippus via Eusebius 2.23: holy from the womb, no wine, no flesh, no razor, linen, the holy place, camel's knees, "the gate of Jesus" (compared to the War Scroll), the pinnacle, "why ask me about the Son of Man," the fall, the stoning, "forgive them," the Rechabite priest (Simeon son of Clopas in another source), the fuller's club, burial by the temple, Vespasian; the pillar belief. Romans 14:2's herb-eater as James.
+- [1:17:57] Josephus 20.9.1: Ananus, the Sanhedrin, James stoned; Agrippa II as instigator while Paul is in his custody; Paul "back in Jerusalem" with Costobarus; "maybe Paul had a hand." Hippolytus; Jerome (James as son of "Mary's sister"); Hegesippus in Jerome; Clement of Alexandria via Eusebius (two Jameses); Panarion 29.4 (Nazirite, high priest, the holy of holies). Thomas 12 again.
+- [1:28:49] Addendum: Antipater II and Cypros as Paul's parents, Costobarus, Aristobulus and Salome; the headless body at Qumran (Feather); Simcha Jacobovici on 4Q541 ("the nail," "their enemy"); Paul's letters defending against lying and boasting as the Spouter's profile.
+
+## Sources He Cites
+
+Held and checked:
+- Recognitions 1.19, 1.43-44, 1.55, 1.62-65, 1.70-71, 1.73, 2.71 (Smith, ANF 8): content matches throughout ("James, who was ordained bishop in it by the Lord"; "a week of years was completed"; "seizing a strong brand from the altar"; "to Jericho, to the number of five thousand men"; "a commission from Caiaphas... go to Damascus with his letters"; "sepulchres of two brethren which were whitened of themselves"; "lame on one foot"). Recognitions 1.71 also has "immersed by him in the name of Jesus."
+- Epistle of Peter to James chs. 1-3 and the Contestatio (head of `clementine-homilies-full-text.md`): "lawless and trifling preaching of the man who is my enemy"; "before trial"; "not less than six years"; Clement's letter: "James, the lord, and the bishop of bishops."
+- Thomas 12 (Lambdin: "James the righteous, for whose sake heaven and earth came into being").
+- KJV: Luke 1:1-4; Acts 1:1-3, 4:4 (the five thousand), 5:12-42, 6:1-15, 7:16, 7:55-60, 8:1, 9:1-2; Romans 14:2, 16:10-11; Galatians 2:11-14.
+- Hegesippus via Eusebius, *Church History* 2.23.4-7 (witnesses file §1, NPNF): the diet, the holy place, camel's knees. The martyrdom narrative (2.23.8-18: the gate of Jesus, the pinnacle, the fuller, the Rechabite, Vespasian) is **not held**; reference level.
+- Epiphanius, *Panarion* 29.4.2-3 (Nazirite; Holy of Holies once a year) and 78.13-14 (the priestly plate, no flesh, camel's knees, the fuller's club, and 78.14.6: Simeon son of Clopas crying out at the stoning, which is the "other source" he could not name), held. 30.16.8-9 (Paul a Greek proselyte who wanted the priest's daughter), held.
+
+Not held: Josephus, *Antiquities* 20.9.1 (James's death) and 20.9.4 (Saulus and Costobarus); *War* 2.8; Hippolytus, *On the Twelve Apostles*; Jerome, *De viris illustribus* 2; Clement of Alexandria, *Hypotyposes* 7 via Eusebius 2.1 (he calls it "Hippolytus book seven"); Eusebius 3.5; Mishnah *Sanhedrin* 6:3 (the stoned man stripped); Eisenman, *James the Brother of Jesus*; Robert Feather, *The Secret Initiation of Jesus at Qumran*; Simcha Jacobovici's blog; the "Sonnini manuscript" ("Acts 29").
+
+## Where This Overlaps the Repo
+
+- `christianity/james-the-just-key-to-understanding-jesus.md` → `### The Hegesippus Portrait` (the same table of details, with the repo's note that the priestly miter is Epiphanius, not Hegesippus), `### James as Church Leader`, `### James vs. Paul`, `### The Erasure of James` (his Jerome point). `questions/CITATION-NOTES.md` §2: Hegesippus says James was admitted to the holy place; his reading agrees with the corrected version.
+- `questions/pauls-legitimacy.md` → `### 2. The letters almost never quote Jesus`, `### 5. The Jewish-Christian tradition remembers him as the opponent`, and the objection "The Clementines are 3rd-4th century anti-Pauline fiction," which his source-for-Acts thesis has to meet head on.
+- `christianity/clementine-literature-nazarene-writings.md` → `### Paul as "Enemy" of the True Teaching` and `## Why Scholars Take These Texts Seriously`.
+- `christianity/flight-to-pella-golden-thread.md` → `## The Chain of Leadership` (Simeon bar Clopas); `questions/essene-nazarene-origins.md` → `### 5. The line of succession runs through Jesus's own family`.
+- `christianity/dead-sea-scrolls/00-overview.md` → `## Open Questions` (Eisenman's James identification as a minority view) and `cliff-notes-quick-reference.md` → `## What the Scrolls Do NOT Say` ("no mention of Jesus"), against the 4Q541 blog.
+- `questions/MINING-2026-10-debates.md` (Kam on Acts 7:42-43 at Stephen's stoning) for the one Stephen point already in live use.
+- `extended-library/jesus-words-only-notes.md` ("Where he goes further than the repo": Del Tondo also takes Eisenman's Herodian Paul).
+- His own 031 (live discussion on Stephen and James), 006 (Stephen as James at the trial), 051-052 and 058 (Saulus, the Herodians, the whitened tombs), 088-089, 157, 186, 191-192.
+
+## Claims to Check
+
+1. Recognitions 1 was Luke's source for Acts 4-7. The scholarly direction is the reverse: Recognitions 1.27-71 is usually dated to the second century and read as dependent on Acts (Jones, Van Voorst); the repo's Clementine file cites Eisenman and Schoeps for an early kernel. A minority position; present it as his.
+2. Stephen is a rewritten James. The shared dying prayer (Acts 7:60; Hegesippus) is real, but Hegesippus dates James's death to about 62 and Recognitions 1.70 to seven years after the passion with James surviving; the two assaults are 25 years apart, which he acknowledges in passing.
+3. Acts 7:16 confuses Abraham's tomb with Jacob's purchase at Shechem. Correct (Genesis 23 against Genesis 33:19 and Joshua 24:32, all held). "Lifted from Joshua" overstates: Joshua 24 is a historical recital of the same type, not the source.
+4. Paul was a Herodian. Romans 16:11, "Herodion my kinsman," is the only textual hook (held). Josephus calls Saulus a kinsman of Agrippa, not his stepbrother; the parents Antipater II and Cypros, and Costobarus as Paul's brother, are Eisenman's reconstruction, not Josephus.
+5. Agrippa II had Ananus kill James while Paul was in his custody. Josephus (*Antiquities* 20.9.1, reference level) has Ananus act on his own during the interregnum and Agrippa depose him for it after the citizens complained; the instigation runs the other way. "Paul had a hand" has no source; see 051 claim 5.
+6. "Acts 29," Paul in Britain with a Roman legion. The "Sonnini manuscript," a modern composition first printed in the 18th-19th century; no ancient attestation. Do not cite as apocryphal Acts.
+7. A headless body at Qumran as John the Baptist. Feather's proposal; not in the excavation reports as he describes it, and no scholar has taken it up. Unverifiable.
+8. 4Q541 names "the nail" and "the enemy." 4Q541 (Apocryphon of Levi) has a disputed fragment some read as mentioning a nail; the "enemy = Paul" gloss is from a blog, not from the editors (Puech). The repo's rule: the scrolls never mention Jesus.
+9. The Gospel of Thomas 12 dates to the mid-first century. The James file says so; `questions/CITATION-NOTES.md` corrects it (early date a minority view; kernel plus later collection).
+10. The stoned man, not the witnesses, strips. Mishnah *Sanhedrin* 6:3 (not held) does say the condemned is stripped; Acts 7:58 says the witnesses laid their garments at Saul's feet. His observation stands; the inference from it is his.
+11. Gamaliel was secretly a believer. Recognitions 1.65-66 (held) says so; Acts does not; it is a Clementine tradition.
+12. Paul "never quotes Jesus." 1 Corinthians 7:10-11, 9:14 and 11:23-25 cite words of the Lord; "almost never" is the repo's phrasing (`questions/pauls-legitimacy.md` §2) and the safer one.
 
 ---
 
