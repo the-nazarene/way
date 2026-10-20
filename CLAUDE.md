@@ -28,7 +28,7 @@ Don't search the repo blind — there are three purpose-built entry points, in t
 
 **Someone sent us links or files?** Use `PROCESSING-ROADMAP.md`. When Rex or Matt drops YouTube links, Google Drive links, documents or transcripts and says who they came from: run `python scripts/processing-status.py --check <links>` for duplicates, log every item in the inventory with the contributor's name, convert every file to Markdown (copyrighted books stay out of the public repo; Drive downloads go to the git-ignored root `/Incoming/`), add a `**Contributed by:**` line to every file made from it, and add the next steps to Next Up. Describe sources, don't judge them: contributors share this repo and read that file. When asked "what's next on the processing roadmap?", answer from Next Up. After processing, run `python scripts/processing-status.py` to refresh the status table.
 
-**Looking for something to work on?** `OPEN-RESEARCH.md` lists the gaps (sized, with what "done" looks like). `FIX-LIST.md` is for repairing existing claims; `OPEN-RESEARCH.md` is for new ground.
+**Looking for something to work on?** `OPEN-RESEARCH.md` lists the gaps (sized, with what "done" looks like). `FIX-LIST.md` is for repairing existing claims; `OPEN-RESEARCH.md` is for new ground. **`AUDIT-LIST.md` comes before `FIX-LIST.md`:** when processing or an audit finds that our own research may be wrong, log it there with the evidence and what would confirm it, and don't change the research file until a person has checked the sources.
 
 ---
 

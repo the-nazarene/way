@@ -154,7 +154,7 @@ This is where the value is realized. Fable drafts proposals in `Incoming/proposa
 - **Verified:** the line in the held source.
 - **Risk.**
 
-Weak proposals are dropped with reasons. **Nothing changes in a research file until Rex or Matt approves.** Notes files don't need approval; research files, question cards and the site do.
+Weak proposals are dropped with reasons. **Nothing changes in a research file until Rex or Matt approves.** **Findings that say our existing research is wrong** go on `AUDIT-LIST.md` first, as "Needs audit" or "Evidence in hand", with the files, the evidence and what would confirm it. A person checks the sources; confirmed items move to `FIX-LIST.md`, and the rest are closed with the reason. Notes files don't need approval; research files, question cards and the site do.
 
 ---
 

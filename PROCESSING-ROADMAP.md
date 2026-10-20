@@ -84,12 +84,14 @@ In order. Put your name in **Who** when you take one.
 
 ## Decisions Waiting
 
+**Possible problems in our own research go to `AUDIT-LIST.md`, not here.** They need checking against sources, not a keep-or-delete call.
+
 Judgment calls collected as they come up, for Rex and Matt to go through together. Nothing on this list blocks other work unless it says so.
 
 | # | Decision | Where | Status |
 |---|---|---|---|
-| D1 | Item 9: which of the 11 proposed research-file changes from Shabbat Studies to apply (P1-P11, drafted locally in `Incoming/proposals/item-9-shabbat-integration.md`), plus P12: cite Recognitions 2.71 and 4.36 in `christianity/acts-15-james-four-decrees.md`. Blocks item 9 only | Research files | Waiting |
-| D6 | Item 14: apply the Panarion audit's 13 groups of fixes to research files, cards and the desk (exact replacement wording from Craig's translation is in the report), including correcting the "Fabricated" verdict in `questions/nazarene-sect-sacrifice-and-diet.md` to "real sentence, misread". Overlaps D1's P1 (the Ebionite saying): apply together | Research files, cards | Waiting |
+| D1 | Item 9: which of the Shabbat Studies proposals that **add** material to apply (P3-P5 new sacrifice texts, P8 wilderness arithmetic, P9 Galatians 3 for OPEN-RESEARCH, P10, P11, and P12: cite Recognitions 2.71 and 4.36 in `christianity/acts-15-james-four-decrees.md`). Drafts in `audits/2026-10-20-shabbat-integration-proposals.md`. The proposals that claim a problem (P1, P2, P6, P7) moved to `AUDIT-LIST.md` (A1, A13-A15) | Research files | Waiting |
+| D6 | Item 14's findings are now audit items A1-A12 in `AUDIT-LIST.md`: each needs a person to check the sources before anything changes | `AUDIT-LIST.md` | Moved to the audit list (2026-10-20, Rex) |
 | D2 | Combined claim 150, background on a book the hosts showed on air (also in the Ch 4D notes): keep, soften or remove | `podcast-archive/shabbat-studies/00-overview.md`, `09-ch4d-...` | Decided 2026-10-20 (Rex): keep |
 | D3 | Claims-to-check items recording David's remarks on "Edomite Jews" and "most Jews today are not Hebrews" | `podcast-archive/david-the-nazarene/187-...`, `189-...` | Decided 2026-10-20 (Rex): leave in |
 | D4 | Ask the authors for permission to host the 🔴 books in full, or sideline (also Next Up 4a) | Copyrighted Works We Hold | Waiting |
@@ -104,7 +106,7 @@ Judgment calls collected as they come up, for Rex and Matt to go through togethe
 
 | Source | Contributed by | Items | Transcripts | Notes | Queue |
 |---|---|---|---|---|---|
-| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 264 of 370 | 22 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
+| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 267 of 370 | 32 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
 | Dr. James Tabor, YouTube channel | Matt Fracek, 2026-10-20 | 405 | 405 of 405 | 405 of 405 | [queue](podcast-archive/dr-tabor-channel/00-queue.md) |
 | Scott, Nazarene Way | Matt Fracek, 2026-10-20 | 84 | 84 of 84 | 80 of 84 | [queue](podcast-archive/scott-nazarene-way/00-queue.md) |
 | Shabbat Studies with Jen & Chris | Chris Crutchfield, 2026-10-19 | 10 | 10 of 10 | 10 of 10 | [queue](podcast-archive/shabbat-studies/00-queue.md) |

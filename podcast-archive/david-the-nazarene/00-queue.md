@@ -47,15 +47,15 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 036 | [x] | [ ] | Teachers Vs Pastors / Lovers of Truth Vs Paid Liars | 18:36 | [036-teachers-vs-pastors-lovers-of-truth-vs-paid-liars.md](036-teachers-vs-pastors-lovers-of-truth-vs-paid-liars.md) |
 | 037 | [x] | [ ] | Choose Ye This Day: If Yeshua is Messiah, Follow Him! | 28:58 | [037-choose-ye-this-day-if-yeshua-is-messiah-follow-him.md](037-choose-ye-this-day-if-yeshua-is-messiah-follow-him.md) |
 | 038 | [ ] | [ ] | Early Followers of Yehoshua Live Chat w Kris in Love Joshua/JM Truth TV  and Barb from ForYahweh | 1:39:06 | [038-early-followers-of-yehoshua-live-chat-w-kris-in-love-joshua.md](038-early-followers-of-yehoshua-live-chat-w-kris-in-love-joshua.md) |
-| 039 | [x] | [ ] | What's up with Galatians? Pt1 | 46:41 | [039-what-s-up-with-galatians-pt1.md](039-what-s-up-with-galatians-pt1.md) |
-| 040 | [x] | [ ] | What's Up With Galatians Pt2 | 21:07 | [040-what-s-up-with-galatians-pt2.md](040-what-s-up-with-galatians-pt2.md) |
-| 041 | [x] | [ ] | What's Up With Galatians Pt3 | 47:46 | [041-what-s-up-with-galatians-pt3.md](041-what-s-up-with-galatians-pt3.md) |
-| 042 | [x] | [ ] | What's up with Galatians Pt4 | 29:46 | [042-what-s-up-with-galatians-pt4.md](042-what-s-up-with-galatians-pt4.md) |
-| 043 | [x] | [ ] | What's Up With Galatians Pt5 | 44:44 | [043-what-s-up-with-galatians-pt5.md](043-what-s-up-with-galatians-pt5.md) |
-| 044 | [x] | [ ] | What's Up With Galatians Pt6 | 41:16 | [044-what-s-up-with-galatians-pt6.md](044-what-s-up-with-galatians-pt6.md) |
-| 045 | [x] | [ ] | What's Up With Galatians Pt7 | 44:42 | [045-what-s-up-with-galatians-pt7.md](045-what-s-up-with-galatians-pt7.md) |
-| 046 | [x] | [ ] | What, Where, and When is The Kingdom of Heaven Pt1 | 1:06:59 | [046-what-where-and-when-is-the-kingdom-of-heaven-pt1.md](046-what-where-and-when-is-the-kingdom-of-heaven-pt1.md) |
-| 047 | [x] | [ ] | What, When, and Where is The Kingdom of Heaven Pt2 | 37:44 | [047-what-when-and-where-is-the-kingdom-of-heaven-pt2.md](047-what-when-and-where-is-the-kingdom-of-heaven-pt2.md) |
+| 039 | [x] | [x] | What's up with Galatians? Pt1 | 46:41 | [039-what-s-up-with-galatians-pt1.md](039-what-s-up-with-galatians-pt1.md) |
+| 040 | [x] | [x] | What's Up With Galatians Pt2 | 21:07 | [040-what-s-up-with-galatians-pt2.md](040-what-s-up-with-galatians-pt2.md) |
+| 041 | [x] | [x] | What's Up With Galatians Pt3 | 47:46 | [041-what-s-up-with-galatians-pt3.md](041-what-s-up-with-galatians-pt3.md) |
+| 042 | [x] | [x] | What's up with Galatians Pt4 | 29:46 | [042-what-s-up-with-galatians-pt4.md](042-what-s-up-with-galatians-pt4.md) |
+| 043 | [x] | [x] | What's Up With Galatians Pt5 | 44:44 | [043-what-s-up-with-galatians-pt5.md](043-what-s-up-with-galatians-pt5.md) |
+| 044 | [x] | [x] | What's Up With Galatians Pt6 | 41:16 | [044-what-s-up-with-galatians-pt6.md](044-what-s-up-with-galatians-pt6.md) |
+| 045 | [x] | [x] | What's Up With Galatians Pt7 | 44:42 | [045-what-s-up-with-galatians-pt7.md](045-what-s-up-with-galatians-pt7.md) |
+| 046 | [x] | [x] | What, Where, and When is The Kingdom of Heaven Pt1 | 1:06:59 | [046-what-where-and-when-is-the-kingdom-of-heaven-pt1.md](046-what-where-and-when-is-the-kingdom-of-heaven-pt1.md) |
+| 047 | [x] | [x] | What, When, and Where is The Kingdom of Heaven Pt2 | 37:44 | [047-what-when-and-where-is-the-kingdom-of-heaven-pt2.md](047-what-when-and-where-is-the-kingdom-of-heaven-pt2.md) |
 | 048 | [ ] | [ ] | Are You Worried Where This All Leads? | 15:00 | [048-are-you-worried-where-this-all-leads.md](048-are-you-worried-where-this-all-leads.md) |
 | 049 | [x] | [ ] | Are There Sharks In Your Tank? | 23:36 | [049-are-there-sharks-in-your-tank.md](049-are-there-sharks-in-your-tank.md) |
 | 050 | [x] | [ ] | Would Yeshua's Government Support Gun Rights? | 44:35 | [050-would-yeshua-s-government-support-gun-rights.md](050-would-yeshua-s-government-support-gun-rights.md) |
@@ -121,7 +121,7 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 110 | [x] | [ ] | Hearing God's Voice | 32:30 | [110-hearing-god-s-voice.md](110-hearing-god-s-voice.md) |
 | 111 | [x] | [ ] | Where are the Men of God At | 2:32 | [111-where-are-the-men-of-god-at.md](111-where-are-the-men-of-god-at.md) |
 | 112 | [x] | [ ] | Too Dumb to Teach?  My Treatise on the Faith YHWH Led Me To. | 2:34:42 | [112-too-dumb-to-teach-my-treatise-on-the-faith-yhwh-led-me-to.md](112-too-dumb-to-teach-my-treatise-on-the-faith-yhwh-led-me-to.md) |
-| 113 | [x] | [ ] | Quotes About Paul | 16:32 | [113-quotes-about-paul.md](113-quotes-about-paul.md) |
+| 113 | [x] | [x] | Quotes About Paul | 16:32 | [113-quotes-about-paul.md](113-quotes-about-paul.md) |
 | 114 | [x] | [ ] | YHWH Says He's Going to Annul Your Pauline Covenant in Isaiah | 1:54:43 | [114-yhwh-says-he-s-going-to-annul-your-pauline-covenant-in-isaia.md](114-yhwh-says-he-s-going-to-annul-your-pauline-covenant-in-isaia.md) |
 | 115 | [x] | [ ] | Revelation Fulfilled / Chapter 12 | 46:40 | [115-revelation-fulfilled-chapter-12.md](115-revelation-fulfilled-chapter-12.md) |
 | 116 | [x] | [ ] | Revelation Fulfilled / Chapter 13 | 47:30 | [116-revelation-fulfilled-chapter-13.md](116-revelation-fulfilled-chapter-13.md) |
@@ -342,9 +342,9 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 331 | [x] | [ ] | RSF - The Sermons of Peter Bk 20 Ch 1-23 | 33:38 | [331-rsf-the-sermons-of-peter-bk-20-ch-1-23.md](331-rsf-the-sermons-of-peter-bk-20-ch-1-23.md) |
 | 332 | [x] | [ ] | RSF - The Revelation of Yeshua the Messiah Ch 1-22 | 1:02:18 | [332-rsf-the-revelation-of-yeshua-the-messiah-ch-1-22.md](332-rsf-the-revelation-of-yeshua-the-messiah-ch-1-22.md) |
 | 333 | [ ] | [ ] | RSF - The Murder of James the Just | 10:17 | [333-rsf-the-murder-of-james-the-just.md](333-rsf-the-murder-of-james-the-just.md) |
-| 334 | [ ] | [ ] | Jesus Said We Are Saved By Works Not Faith Part 1 | 1:38:43 | [334-jesus-said-we-are-saved-by-works-not-faith-part-1.md](334-jesus-said-we-are-saved-by-works-not-faith-part-1.md) |
-| 335 | [ ] | [ ] | Jesus's Parables Say That We Are Saved By Works Not Faith - Part 2 | 1:54:58 | [335-jesus-s-parables-say-that-we-are-saved-by-works-not-faith-pa.md](335-jesus-s-parables-say-that-we-are-saved-by-works-not-faith-pa.md) |
-| 336 | [ ] | [ ] | The True Apostles Said We Are Saved By Works Not Faith Part 3 | 1:47:36 | [336-the-true-apostles-said-we-are-saved-by-works-not-faith-part.md](336-the-true-apostles-said-we-are-saved-by-works-not-faith-part.md) |
+| 334 | [x] | [ ] | Jesus Said We Are Saved By Works Not Faith Part 1 | 1:38:43 | [334-jesus-said-we-are-saved-by-works-not-faith-part-1.md](334-jesus-said-we-are-saved-by-works-not-faith-part-1.md) |
+| 335 | [x] | [ ] | Jesus's Parables Say That We Are Saved By Works Not Faith - Part 2 | 1:54:58 | [335-jesus-s-parables-say-that-we-are-saved-by-works-not-faith-pa.md](335-jesus-s-parables-say-that-we-are-saved-by-works-not-faith-pa.md) |
+| 336 | [x] | [ ] | The True Apostles Said We Are Saved By Works Not Faith Part 3 | 1:47:36 | [336-the-true-apostles-said-we-are-saved-by-works-not-faith-part.md](336-the-true-apostles-said-we-are-saved-by-works-not-faith-part.md) |
 | 337 | [ ] | [ ] | Paul The Blind Guide | 49:00 | [337-paul-the-blind-guide.md](337-paul-the-blind-guide.md) |
 | 338 | [ ] | [ ] | Render Taxes To Caesar? | 12:48 | [338-render-taxes-to-caesar.md](338-render-taxes-to-caesar.md) |
 | 339 | [ ] | [ ] | Paul the Blind Guide Part 2 | 26:42 | [339-paul-the-blind-guide-part-2.md](339-paul-the-blind-guide-part-2.md) |
