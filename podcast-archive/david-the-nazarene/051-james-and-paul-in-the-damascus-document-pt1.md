@@ -10,7 +10,54 @@
 
 ## Summary
 
-*Notes pending.*
+A read-through of the opening columns of the Damascus Document (CD 1-4) from Robert Eisenman's translation in *The Dead Sea Scrolls and the First Christians* (1996), which he recommends as a cheap used copy for its three translations (CD, 1QS, 1QpHab). He states his working position up front: many of the scrolls were written by the original followers of Yeshua, some by the apostles themselves, shortly before 70 CE, and the unnamed figures carry aliases for James, Paul and others. On that reading the Teacher of Righteousness is James, the "Scoffer" or "Spouter of lies" who "poured out the waters of lying" is Paul, the "traitors" who "turned aside from the way" are believers who followed Paul, and the "New Covenant in the land of Damascus" belongs to the community that fled Jerusalem for Pella.
+
+Along the way he flags things he is unsure of: whether "the covenant of the first" means the forefathers, the first covenant as opposed to the new one, or the original uncorrupted Torah; whether "Messiah of Aaron and Israel" is singular (Eisenman) or plural (most translations). He notes the works-based language ("sought him with a whole heart"), the "way" vocabulary, the "standing" language he connects to the Standing One title, and Abraham as "friend of God," which he links to James 2:23. The last three minutes are a personal aside about leaving a fellowship group over tolerance of witchcraft.
+
+## Key Points
+
+- Source and thesis: Eisenman's translation; the scrolls as first-century documents by Yeshua's followers, with nicknames instead of names. [00:00]-[03:10]
+- "The covenant of the first" and "the first": forefathers, first covenant, or the original Torah later corrupted by additions, which is why Jesus is recorded outside the gospels saying "be prudent money changers." [03:10]-[06:24]
+- Damascus: the believers fled to Pella, which he places in "the land of Damascus" east of the Jordan; Paul pursued the believers to Damascus. [06:24]-[07:59]
+- The 390 years after Nebuchadnezzar; the "plant root"; "Messiah of Israel and Aaron" read as one singular Messiah; "like blind men groping for the way"; a works-based document "like James and Peter, as opposed to Paul." [07:59]-[09:34]
+- The Teacher of Righteousness; "the congregation of traitors" must have been members first; the Scoffer who poured out waters of lying and removed the boundary markers, whom he identifies as Paul; the Ebionites and Nazarenes rejected Paul per Epiphanius. [09:34]-[12:44]
+- "Sought smooth things, looked for loopholes, chose the easiest way, justified the wicked and condemned the righteous": his match to Paul's use of Abraham's pre-circumcision faith, answered by James 2; Paul's tone toward Cephas and James in Galatians. [12:44]-[15:52]
+- "Banded together against the soul of the righteous one": read as written after James's death, with Paul having "some role" in it. [15:52]-[17:33]
+- Blood and abominations: linked to the Acts 15 decrees (idol meat, strangled, blood, fornication), which Paul set aside. [17:33]-[19:04]
+- "By the hand of his Messiah, his holy spirit" (singular per Eisenman); "the standing" language; "I shall uncover your eyes." [19:04]-[20:43]
+- The Watchers who fell for not keeping the commandments (compare Jude); Abraham "friend of God" and James 2:23; eating blood in the wilderness. [20:43]-[23:51]
+- The hidden things revealed to the remnant: Sabbaths, festivals, "the testimonies of his righteousness"; his claim that the Essenes, like the Nazarenes, held that nothing negative can be ascribed to God; two groups, one purified in living water and one "wallowing in sin and saying 'it is ours,'" which he reads as Paul's baptism-then-license. [23:51]-[27:02]
+- The sons of Zadok as the elect; "the first men of holiness"; justifying the righteous and condemning the wicked versus the traitors who do the reverse. [27:02]-[28:36]
+- Aside on being rejected by a group for objecting to witchcraft. [28:36]-[31:27]
+
+## Sources He Cites
+
+Held:
+- Damascus Document excerpts (Vermes, Wise/Abegg/Cook, Garcia Martinez) — `christianity/dead-sea-scrolls/Incoming/dead-sea-scrolls-selected-texts.md` §4. CD 1:5-11 is held verbatim (Vermes) and matches what he reads from Eisenman in substance: "390 years... a plant root... like blind men groping for the way... He raised for them a Teacher of Righteousness to guide them in the way of His heart." CD 19:33-35 ("New Covenant in the land of Damascus... fountain of living waters") is held. The Scoffer/Spouter passages (CD 1:14-15; 4:19-20; 8:13) are held only as paraphrase.
+- Epiphanius, *Panarion* 30 (Ebionites and Nazarenes rejecting Paul) — held, book 1.
+- KJV: James 2:23, Acts 15:20, Jude 6, 1 Corinthians 8 and 10.
+
+Not held: Eisenman's translation and essays (in copyright; the repo's DSS file is the model for short attributed excerpts); the full Damascus Document; Josephus on Essene belief (only *Antiquities* 18.1.5 and *War* 2.8.5 are held, in the witnesses file).
+
+## Where This Overlaps the Repo
+
+- `christianity/dead-sea-scrolls/00-overview.md` (`## The Teacher of Righteousness`, `## Open Questions`) and `cliff-notes-quick-reference.md` ("No mention of Jesus"): the repo dates the Teacher to the mid-second century BCE and records Eisenman's James identification as a minority view that has not been definitively refuted. The held primary-text file works the 390 years to about 196 BCE and the Teacher to roughly 170-150 BCE, which is the opposite of the dating he argues. The repo's `TOPIC-INDEX.md` row "Dead Sea Scrolls selections" points to that file.
+- `questions/CITATION-NOTES.md` lists "*Ebionim* as a Dead Sea Scrolls self-designation" on the do-not-use list; he does not make that claim here, but it is the next step of the same Eisenman reading, so keep it in view.
+- `christianity/acts-15-james-four-decrees.md` and `questions/pauls-legitimacy.md` §3 for the idol-meat reversal he attaches to the "blood" lines.
+- `extended-library/jesus-words-only-notes.md` (Key Argument 9; "Where he goes further than the repo") records that Del Tondo also adopts Eisenman wholesale (James the Zaddik, Paul the Spouter), and that the repo does not.
+- Pella and the Damascus question: `christianity/2026-02-25-essene-nazarene-ebionite-lineage.md`; the held DSS file notes that whether "Damascus" is literal, Babylon or Qumran is debated.
+- "Be ye prudent money-changers" is Clementine Homilies 2.51 and 3.50, held; the Standing One is his episode 033 in this folder.
+
+## Claims to Check
+
+1. The scrolls were written by Yeshua's followers just before 70 CE. The Cave 4 copies of the Damascus Document (4Q266-273) are palaeographically first century BCE, and the document's own 390-year reckoning points to the second century BCE; this is why the repo's DSS files call the first-century dating a minority (Eisenman) position. State it as his adoption of Eisenman, not as the document's testimony.
+2. Pella is "in the land of Damascus." Pella is in the Decapolis, in the Jordan valley; Damascus is in Syria, well to the north. The link needs the metaphorical reading of "Damascus" to work, and he should be quoted as making that assumption.
+3. "Messiah of Aaron and Israel is always singular in Hebrew." CD 12:23, 14:19, 19:10 and 20:1 are singular; 1QS 9:11 has the plural "messiahs of Aaron and Israel." Both forms exist; the point is a real scholarly discussion, not a translators' conspiracy.
+4. The Scoffer/Spouter of lies is Paul and the "traitors" are his party. These are identifications from Eisenman; the held file reads the conflict as intra-Jewish, over Torah interpretation, a century or more before Paul.
+5. Paul had "some role" in the death of James. Josephus (*Antiquities* 20.9.1, reference level) names Ananus; Hegesippus (Eusebius, *Church History* 2.23, held excerpt) names scribes and Pharisees. Neither mentions Paul. See also episode 058 for his Saulus argument.
+6. "The Essenes believed, according to Josephus, that nothing negative can be said of God." Josephus (*Antiquities* 18.1.5, held) says the Essenes ascribe all things to God; the doctrine that scripture's statements against God are false is Clementine (Homilies 2.38-44), not Josephan.
+7. Abraham "friend of God" as a James 2:23 link. CD 3:2 and James 2:23 both draw on Isaiah 41:8 and 2 Chronicles 20:7; a shared source, not evidence of dependence.
+8. His reading of "the first" as the first covenant rather than the forefathers (*rishonim*). Vermes and most translators render "the forefathers"; he says himself he cannot check the Hebrew. Treat as an open translation question.
 
 ---
 

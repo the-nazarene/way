@@ -10,7 +10,48 @@
 
 ## Summary
 
-*Notes pending.*
+A reply to three people who raised 2 Peter 3:15-16 as Peter certifying Paul. His answer is that the passage, read in the context of the whole letter, is a warning. The letter's purpose, he argues, is set by 1:16 ("we have not followed cunningly devised fables... but were eyewitnesses"), a contrast between the eyewitness apostles and someone whose claim rests on a story, which he takes to be Paul's wilderness vision; Acts 1:21-22, Peter's own criteria for an apostle, is brought in (Matthias was the twelfth; there was no thirteenth). 1:20-21, "no prophecy of the scripture is of any private interpretation," he reads as aimed at a man who twists scripture to validate his ministry, and gives Habakkuk 2:4 (*emunah*, faithfulness, not faith) and Genesis 15:6 (Abraham reckoning righteousness to God, not God to Abraham) as Paul's two best-known cases, with a lost website that graded every Pauline quotation as out of context. Chapter 2's false teachers (sensuality, greed, "feasting with you," Balaam, promising freedom while being slaves of corruption, loud boasts) he matches point by point to Paul: Antioch, Revelation 2:14, Galatians 5:1 against James's law of liberty, the boasting of 2 Corinthians.
+
+Then 3:15-17 line by line: "our beloved brother Paul" withholds the title apostle, which Paul claims in nearly every letter, so it is faint praise (a term he credits to Del Tondo); "the wisdom given him" names no giver, unlike Peter's habit elsewhere, and contrasts with Paul's "secret and hidden wisdom of God" (1 Corinthians 2:7, three verses from "the deep things of God," which Revelation 2:24 calls the depths of Satan; 1 Corinthians 2:9 misquotes Isaiah 64:4); *dysnoētos*, a hapax, is built on a prefix that destroys the meaning of its root, so it means "destroys good sense," not merely "hard to understand," which is why Luther, he says, wanted 2 Peter out over this verse; *graphē* means "writing," so "the other scriptures" should be "the other writings"; verse 17 is a warning on its face. He closes with an electrician analogy (apprentice, journeyman, master; Paul as an apprentice who boasts he never trained under a master) and a corrected translation of the three verses.
+
+## Key Points
+
+- The question and his short answer. [00:00]-[01:33]
+- 2 Peter 1:16-18: cunningly devised fables versus eyewitnesses of the transfiguration; Paul's wilderness story as the fable, with Matthew 24:26. [03:12]-[04:45]
+- Acts 1:15-26: Peter's qualifications for Judas's replacement; Matthias the twelfth; no need for a thirteenth; the contrast of a false witness and true witnesses. [04:45]-[09:27]
+- 2 Peter 1:19-21: private interpretation as twisting scripture to fit oneself; Habakkuk 2:4 and *emunah*; Genesis 15:6 and who reckons to whom; "a website that rated how out of context Paul takes every verse." [09:27]-[14:10]
+- 2 Peter 2: false teachers, sensuality, greed; Noah and Sodom skipped; "reveling in their deceptions while they feast with you" as Antioch, where Paul lost; Balaam and Revelation 2:14. [14:10]-[18:52]
+- 2 Peter 2:17-22: loud boasts, promised freedom, slaves of corruption; Paul's boasting; "all such boasting is evil" (James); the law of freedom against the yoke of slavery. [18:52]-[22:00]
+- 3:15: "beloved brother," not apostle, as faint praise; "wisdom given him" with no giver; Paul's secret wisdom (1 Corinthians 2:7), the deep things, Isaiah 64:4. [22:00]-[28:17]
+- 3:16: *dysnoētos* as "destroys reason"; Luther and 2 Peter; *graphē* as any writing; the corrected rendering. [28:17]-[32:59]
+- 3:17 as a warning; the electrician analogy; "you can't follow this guy." [32:59]-[40:54]
+
+## Sources He Cites
+
+Held (KJV): 2 Peter 1:16-21, 2:1-22, 3:15-17 (KJV 3:16: "some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction"); Acts 1:15-26; Matthew 24:26; Habakkuk 2:4 ("the just shall live by his faith"); Genesis 15:6; 1 Corinthians 2:7-10; Isaiah 64:4; Revelation 2:14, 2:24; Galatians 1, 5:1; James 1:25, 4:16; 2 Corinthians 10-12. Clementine *Recognitions* and the Epistle of Peter to James (Peter's humility, attributing everything to God) — held.
+
+Not held: the World English Bible he reads from; a Strong's-style concordance; Luther on 2 Peter (he does not give the work); Del Tondo on "faint praise"; the lost website; the Hebrew of Habakkuk 2:4 and Genesis 15:6 is argued from memory.
+
+## Where This Overlaps the Repo
+
+- `questions/pauls-legitimacy.md`, the objection "Peter personally endorses Paul — 2 Peter 3:15-16": the repo's answer is that 2 Peter is the most widely doubted book in the New Testament (dates from c. 80 into the second century), that conservative scholars do defend Petrine authorship, and that the letter's own concession ("hard to understand... twist") is the usable part. His argument assumes Petrine authorship and makes the verse a warning; the repo's card makes a narrower claim that survives either dating.
+- `extended-library/questioning-paul-notes.md` (ch. 08) contains a fuller version of the same re-translation (*dysnoētos* as "detrimental to understanding," *tas loipas graphas* as "the remaining writings," *graphē* as "writing," "beloved" as irony or a scribal softening) and its Claims to Check 1 sets out the lexical test for *loipos* and *graphē* that applies here too. `extended-library/jesus-words-only-notes.md` (ch. 2) has Del Tondo's case that 2 Peter is the one consistently rejected book, which cuts the other way for this argument.
+- Habakkuk 2:4 and Genesis 15:6 as Paul's misread texts: `extended-library/jesus-words-only-notes.md` Key Argument 8 (with 1 Maccabees 2:52, now held) and `OPEN-RESEARCH.md` §2 (Tabor's four texts; the planned `christianity/pauls-four-texts.md`). His *emunah* point and the Hebrew subject of "reckoned" are the same arguments.
+- `questions/CITATION-NOTES.md` ("Claims corrected after the stress test") retires "Peter set the qualifications for apostle in Acts 1; Paul meets neither": Acts 1:21-22 fills Judas's seat, and the New Testament calls Barnabas, James, Andronicus and Junia apostles. He uses the argument at [04:45]-[09:27]; `questions/pauls-legitimacy.md` §2 gives the replacement argument (Paul is not an eyewitness source for the teaching).
+- `podcast-archive/shabbat-studies/06-ch4a-the-one-about-paul.md` records the hosts making the same *dysnoētos* = "nonsense" point at [43:42].
+- "The depths of Satan" against "the deep things of God" is also in his episode 155 (warning 7); 2 Peter and sensuality is his episode 163, and the Greek of 3:16 his episode 161, both in this folder.
+
+## Claims to Check
+
+1. *Dysnoētos* means "destroys reason." The prefix *dys-* means "bad, difficult, ill" (as in *dysenteria*, *dysphoria*), not "destroys"; the word occurs in Aristotle, Diogenes Laertius and Lucian with the sense "hard to understand," and is a hapax only within the New Testament. The lexical check in the questioning-paul notes applies.
+2. *Graphē* never means "scripture" without "holy." *Graphē* is used absolutely for scripture throughout the New Testament (Matthew 21:42, 22:29; John 10:35; Romans 1:2); "the other scriptures" (*tas loipas graphas*) is the standard reading and implies Paul's letters are counted among them, which is the point his argument has to overturn.
+3. Luther wanted to throw out 2 Peter because of 3:16. Luther's 1522 prefaces list Hebrews, James, Jude and Revelation as the doubtful books; in his 1523 lectures on 2 Peter he notes that 3:15-16's reference to Paul's letters as scripture could suggest a later date. Check the wording before saying he rejected the letter over this verse.
+4. Acts 1:21-22 as the qualification for any apostle. Retired in the repo (CITATION-NOTES); Acts 14:14, Galatians 1:19 and Romans 16:7 call others apostles.
+5. Genesis 15:6 "obviously" has Abraham reckoning righteousness to God. The Hebrew subject is ambiguous (the JWO notes cite Hamilton's syntax); the Septuagint and nearly every translation read God as the one reckoning. A live argument, not an obvious one.
+6. 1 Corinthians 2:9 misquotes Isaiah 64:4. The wording matches neither the Hebrew nor the Septuagint exactly; Origen traced it to the *Apocalypse of Elijah*. His point that Isaiah 64:4 is about God acting for those who wait is correct.
+7. "Reveling... while they feast with you" (2 Peter 2:13) is the Antioch meal. Inference; the verse is about the false teachers' conduct at the community's meals.
+8. 2 Peter was written after the Antioch confrontation and before James's epistle. Chronology assumed; the repo's card puts the letter's composition after Paul's death on most datings.
+9. "Faint praise" is a term Del Tondo "came up with." The phrase is proverbial ("damn with faint praise," Pope); Del Tondo applied it to 2 Peter 3:15.
 
 ---
 

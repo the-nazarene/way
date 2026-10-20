@@ -10,7 +10,50 @@
 
 ## Summary
 
-*Notes pending.*
+Seven passages he reads as Jesus warning about Paul, presented as the warnings for people who will not hear James or Peter. He credits Doug (Del Tondo, *Jesus' Words Only*) for the first. (1) Matthew 5:19-20, read in Young's Literal: whoever looses the least commandment and teaches so "shall be called least," which he takes as a prophecy of the name: Latin *paulus* (small), with the double diminutive *pauxillulus* meaning "least," so that 1 Corinthians 15:9 ("the least of the apostles") is Paul playing on his own legal name, as Augustine noticed. (2) Matthew 16:6 and Mark 8:15, the leaven of the Pharisees and of Herod: Paul a Pharisee (Acts 23:6, Philippians 3:5) and a Herodian (Romans 16:11, Eisenman's family tree), the Sadducees being Herod's appointees, which is why a Sadducee high priest gave a Pharisee letters in Acts 9:1. (3) Matthew 24:23-27: signs and wonders are no credential, and "if they say he is in the wilderness, go not forth"; all three of Paul's accounts put the appearance in the wilderness near Damascus. He adds that the differences between the three accounts are not his argument, since Luke is reporting Paul; the reason to reject the story is that Jesus said not to believe it. (4) Matthew 7:15, the ravening wolf, which he traces to Genesis 49:27 (Benjamin), Paul being the only New Testament figure to claim Benjamin, and notes that early church fathers themselves applied the verse to Paul. (5) Matthew 7:21-23, "Lord, Lord" and "workers of lawlessness," against Romans 10:9. (6) Matthew 7:24-27, the house on the rock, traced to Isaiah 28:15-18, where "we have an agreement with Sheol" can be read as Sha'ul since the consonants are the same; dispensationalism as the house on sand. (7) Revelation 2:14, 20, 24: Balaam, Jezebel and idol meat; "the depths of Satan" against 1 Corinthians 2:10's "deep things of God"; 1 Corinthians 8:10 (eating in the idol's temple) and 10:27-30 ("not thine own conscience but the other's") as a lack of integrity.
+
+A coda: Revelation 2:2's Ephesus tested false apostles; Paul sailed past Ephesus on the way to Jerusalem (Acts 20:16); the Bereans tested Paul (Acts 17:11), so testing him is not heresy, and they did not yet have Galatians to test him by.
+
+## Key Points
+
+- Setup: James's letter refutes Galatians, 2 Peter 3:16 is a warning; this video is only what Yeshua said. [00:00]-[01:34]
+- Warning 1, "least": the Young's Literal reading; being "called least" does not mean being in the kingdom (5:20); the Latin diminutives; Roman birth certificates and legal names; Augustine on 1 Corinthians 15:9. [01:34]-[09:22]
+- Warning 2, leaven: Mark's "leaven of Herod"; Herod's purchased priesthood; Sadducees as Herodians; Romans 16:11 "Herodion my kinsman," Aristobulus; Eisenman's tree makes Paul a cousin of Agrippa; Acts 23:6 and Philippians 3 keep Paul a Pharisee years into his ministry; Acts 9:1. [09:22]-[15:43]
+- Warning 3, every eye shall see: Matthew 24:24-27 as Hebrew parallelism (wilderness / inner rooms; go not out / believe it not); three accounts all in the wilderness; the account discrepancies are not his evidence. [15:43]-[20:22]
+- Warning 4, the wolf: the narrow gate; Genesis 49:27 as the only prophetic wolf; the fathers' application to Paul (morning devouring = persecuting, evening dividing = preaching); Paul the only claimant of Benjamin. [20:22]-[24:12]
+- Warning 5, Lord, Lord: two groups both working signs; the lawless are sent away; Romans 10:9 as the contradiction. [24:12]-[26:43]
+- Warning 6, the rock: hearing and doing; dispensationalism defined as "you don't have to obey anything Yeshua said"; Isaiah 28:15-18, the covenant with death and the agreement with Sheol/Sha'ul that will not stand; the scourge passing through. [26:43]-[34:33]
+- Warning 7, idol meat: Revelation 2:14 and 2:20; idolatry as fornication in the prophets; "the depths of Satan" and 1 Corinthians 2:10; 1 Corinthians 8 as secret *gnosis*; 10:27-30 as "break the law as long as no one who thinks it wrong sees you." [34:33]-[43:54]
+- Closing: Revelation 2:2 and Acts 20:16; the Bereans; Galatians "full of red flags" next to James. [43:54]-[47:37]
+
+## Sources He Cites
+
+Held (KJV, `christianity/Incoming/kjv/`): Matthew 5:19-20 ("he shall be called the least in the kingdom of heaven"), 7:13-27, 16:6, 24:23-27; Mark 8:15 ("the leaven of Herod"); Genesis 49:27 ("Benjamin shall ravin as a wolf"); Isaiah 28:15-18 ("with hell are we at agreement... your agreement with hell shall not stand"); Revelation 2:2, 2:14, 2:20, 2:24 ("the depths of Satan, as they speak"); 1 Corinthians 2:10 ("the deep things of God"), 8:10 ("sit at meat in the idol's temple"), 10:27-30, 15:9 ("I am the least of the apostles"); Romans 10:9, 16:11; Acts 9:1, 17:11, 20:16, 23:6; Philippians 3:5; John's "heaven and earth shall pass away" is Matthew 24:35 / Luke 21:33, not John.
+
+Not held: Young's Literal Translation; Augustine on Paul's name (*On the Spirit and the Letter* 7.12 is the usual locator); Eisenman, *James the Brother of Jesus* (the Herodian family tree); the "early church fathers" on Genesis 49:27 (Tertullian, *Against Marcion* 5.1, and Hippolytus, *On the Blessings of Jacob*, both apply it to Paul favorably); Del Tondo's video on "least."
+
+## Where This Overlaps the Repo
+
+- `extended-library/jesus-words-only-notes.md`: Key Arguments 2 (*anomia* and Matthew 7:23), 4 (idol meat as the test case; Balaam), 6 (Revelation as Jesus's post-Pauline verdict), 10 (the Benjamite wolf, with Hippolytus quoted); Claims to Check 26 (the Herodian argument). Warnings 4, 5 and 7 are Del Tondo's chapters 4, 6, 7, 10 and 14 condensed.
+- `extended-library/questioning-paul-notes.md` (ch. 01) makes the same *elachistos* = Paulos reading, the same Genesis 49:27 reading, and a parallel consonantal argument on Habakkuk 2:5 (Sheol read as Sha'uwl); its Claims to Check 5-7 and the note at ch. 09 ("the pun is the author's, not the text's") apply to warnings 1 and 6 here.
+- `christianity/paul-false-prophet-deuteronomy-18-test.md` (`## Jesus's Warnings About False Prophets`, `## Historical Witnesses Against Paul`) stacks Revelation 2:2, 2 Timothy 1:15 and Acts 19 the way his coda does.
+- `podcast-archive/shabbat-studies/06-ch4a-the-one-about-paul.md` ("Matthew 24 and the wilderness"; "Paul the Herodian"; the light-from-heaven pattern) and `podcast-archive/the-jesus-way/023-exposing-paul-false-prophet.md` (`### Paul as Herodian "Deep State"`).
+- `questions/pauls-legitimacy.md` ("You cite Acts when it suits you"): the repo treats the three conversion accounts as evidence about Luke's method, not Paul's honesty; notably he agrees here that the discrepancies are weak evidence, which is a point of contact.
+- `christianity/acts-15-james-four-decrees.md` (`### Paul's Contradiction`) and `questions/pauls-legitimacy.md` §3 for Revelation 2:14 against 1 Corinthians 8 and 10.
+- Dispensationalism: `questions/rapture-end-times.md`.
+
+## Claims to Check
+
+1. *Paulus* is a contraction of *pauxillulus* meaning "least," and Jesus prophesied the legal name. *Paulus* is an old Roman cognomen meaning "small"; *pauxillulus* is a separate diminutive. Augustine's remark is that Paul chose a name meaning "little" out of humility, not that it was a double diminutive. The Greek of Matthew 5:19 is *elachistos*, "least," the ordinary superlative; the questioning-paul notes already mark the pun as the author's. 1 Corinthians 15:9 is the one real textual hook.
+2. Roman citizens were required to register a Latin legal name on a birth certificate. Birth declarations for citizen children existed from 4 CE; the rest is inference.
+3. Herodion (Romans 16:11) and the household of Aristobulus prove Paul a Herodian. *Syngenēs* means "fellow-countryman" elsewhere in Romans (9:3, 16:7, 16:21); Aristobulus is usually taken as the brother of Agrippa I who lived in Rome. Eisenman's thesis; label it.
+4. Sadducees were Herodians by definition. The high-priestly families under Herod were Sadducean, but "Herodians" in the gospels are a political party; the equation is loose.
+5. The early church applied Genesis 49:27 to Paul. True: Tertullian and Hippolytus, both approvingly. His point that the identification is not his invention stands.
+6. Isaiah 28:15 and 18 can be read "an agreement with Sha'ul." The consonants of Sheol and Saul are identical; the vowels, the parallelism with "death," the Septuagint (*hadēs*) and every ancient version read Sheol. A possible pointing, not an attested reading.
+7. Dispensationalism teaches that nothing Jesus said binds Christians. Closer to hyper-dispensationalism (Bullinger, Stam) than to the mainstream version; overstated as "99% of churches."
+8. Paul avoided Ephesus for an unstated reason. Acts 20:16-17 gives haste and then has him summon the Ephesian elders to Miletus; the "something going on" is his inference. The Revelation 2:2 / Acts 19 / 2 Timothy 1:15 stack is in the repo's Deuteronomy 18 file.
+9. The Bereans tested Paul against his letters to the Thessalonians. Acts 17:11 says they searched the scriptures; 1 Thessalonians was written after Paul left Berea (from Corinth). Anachronism.
+10. "Heaven and earth shall pass away but my words" is in John. It is Matthew 24:35, Mark 13:31 and Luke 21:33.
 
 ---
 

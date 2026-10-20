@@ -10,7 +10,55 @@
 
 ## Summary
 
-*Notes pending.*
+Continues the Damascus Document from column 4 through the manuscript B ending (CD 19-20), still from Eisenman's translation, applying the same identifications as part one: the Teacher is James, the Spouter is Paul, the "builders of the wall" and the "traitors" are Paul's following, and the sect's enemies are the Herodian establishment. The three nets of Belial (fornication, riches, pollution of the temple) get the most time; he reads the fornication charge (polygamy, marrying a niece) as aimed at the Herodian family and connects it to Paul's Herodian kinship, and the "riches of the temple" and "bar the door" lines to Josephus's account of the high priest's servants stealing the poor priests' tithes and to the temple doors shut on Paul in Acts 21. The well is the Torah, the diggers are the penitents who went out to "Damascus" (again Pella), the Staff is the Interpreter of the Law.
+
+In the closing columns he takes "the kings of the peoples" as Rome's puppet kings, the "confused spirit" and the Spouter as Paul and Apollos's "different holy spirit," the expulsion of the man "melted in the furnace" (no cooperation in property or work) as the Barnabas split in Acts 15:38, and the forty years after the Teacher's "gathering in" as the window between James's death and the writing. He closes with Eisenman's note on Hegesippus's nickname for James, "Oblias," bulwark of the people, as a match for the scroll's "strengthened" language.
+
+## Key Points
+
+- Belial's three nets, with "net" versus "watchtower" in the Habakkuk pesher; Belial as the New Testament's name for the wicked one. [00:00]-[01:33]
+- The builders of the wall who follow the Spouter: plastering over cracks rather than repairing them. Fornication defined as two wives in a lifetime ("male and female he created them," the same text Jesus uses on marriage); the prince shall not multiply wives; David did not know because the sealed book of the law was hidden until Zadok. [01:33]-[04:49]
+- Marrying a niece: he applies the charge to the Herodian family (citing Josephus on Herodian marriages) and ties it to Paul's Herodian connection. [04:49]-[08:00]
+- The "removers of the bound" who spoke rebellion against the commandments given through Moses: the doctrine that the original Torah was later altered. [08:00]-[09:34]
+- The well is the Torah; the diggers are those who left Judah for Damascus (Pella); the Staff is the Interpreter; James as the Teacher of Righteousness and Yeshua as the one who "pours down righteousness at the end of days," with a caveat that the Teacher could be another person. [09:34]-[11:10]
+- "Bar the door" (Malachi 1:10) and Acts 21, the temple doors shut on Paul; separating from the riches of the temple; Josephus's Saulus stealing the poor priests' tithes as an agent of the high priest. [11:10]-[12:43]
+- Sabbath, festivals and fasting "according to the precise letter"; "to love each man his brother" as the royal law of James; *nazir* / separation as the root of "Nazarene" (Eisenman). [12:43]-[15:53]
+- Manuscript A and B divergences; "the star is the Interpreter of the Law who came to Damascus"; Zechariah 13:7 strike the shepherd; the mark on the foreheads (Ezekiel 9). [15:53]-[19:03]
+- "Not turned aside from the way of the traitors": the way Paul teaches; fornication and "uncovering the nakedness of near kin" as the incest charge again; "kings of the peoples" as Rome's puppet kings (the Herods). [19:03]-[22:15]
+- "One of confused spirit" and the Spouter: Apollos knowing a different spirit (Acts 18-19) and Paul's followers correcting him. [22:15]-[24:00]
+- "Fountain of living waters" (which he notes Christians apply to Jesus); men who entered the New Covenant and turned back are "not reckoned in the foundation of the people." [24:00]-[27:12]
+- The man who "melts in the furnace" expelled by the men of perfect holiness; no cooperation in property or work with him, which he links to Barnabas refusing to continue the mission in Acts 15:38. [27:12]-[30:18]
+- Forty years from the gathering in of the Teacher; "the penitents of Jacob" and the Jacob/James wordplay; "between him who serves God and him who does not," applied to Cephas and the one teaching a different walk. [30:18]-[33:29]
+- The confession "we have sinned" compared to Daniel's prayer; Eisenman's notes on "they shall see his salvation (Yeshua)" and Hegesippus's "Oblias." [33:29]-[36:47]
+
+## Sources He Cites
+
+Held:
+- CD 4:14-18 (the three nets, Vermes) is held verbatim and matches his reading: "fornication, riches, and profanation of the Temple." CD 6:3-9 (the well, the Interpreter, the nobles) is held as paraphrase. CD 19:33-35 (New Covenant in the land of Damascus; fountain of living waters) is held verbatim. All in `christianity/dead-sea-scrolls/Incoming/dead-sea-scrolls-selected-texts.md` §4.
+- Hegesippus via Eusebius, *Church History* 2.23.4-7 — held excerpt in `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md`; the "Oblias, bulwark of the people" sentence is 2.23.7 and is not in the held excerpt, so cite it at reference level.
+- KJV: Malachi 1:10, Acts 21:30, Acts 15:38, Acts 18:24-19:7, Zechariah 13:7, Numbers 24:17, Amos 5:26-27, Ezekiel 9:4, Jeremiah 17:13, Genesis 1:27.
+
+Not held: the full CD and Eisenman's translation and notes; Josephus, *Antiquities* 20.8-9 (Herodian marriages; the servants of Ananias and the tithes; Costobarus and Saulus); the "kings of the peoples" as a Roman title for client kings (his assertion; needs a source).
+
+## Where This Overlaps the Repo
+
+- The three nets are already in the held DSS file with the repo's own reading: fornication as polygamy and niece-marriage, riches, temple profanation, mapped onto Jesus's teaching (Matthew 6:24, the money-changers). He adds the Herodian target and the Paul connection, which the file does not.
+- `christianity/dead-sea-scrolls/00-overview.md` (`## Open Questions`) on Eisenman's James identification as a minority view; the held file dates the composition to the second century BCE and its oldest copies to the first century BCE.
+- Herodian Paul: `podcast-archive/the-jesus-way/023-exposing-paul-false-prophet.md` (`### Paul as Herodian "Deep State"`), his own episode 004 in this folder (the Costobarus genealogy), and `extended-library/jesus-words-only-notes.md` Claims to Check 26 (the Josephus Saulus chronology runs the wrong way). Nothing in `christianity/` takes a position on it.
+- The temple doors in Acts 21 and the collection: his episodes 088-089 ("Apostle Paul: a polite bribe"); `questions/pauls-legitimacy.md` (Acts 21:20-25 as Jerusalem still anxious a decade later).
+- Nazarene from *nazir*: `questions/essene-nazarene-origins.md` and `christianity/2026-02-25-essene-nazarene-ebionite-lineage.md` for the repo's handling of the name.
+- The "well is the Torah / living water" motif is already in the held file (CD 6:2-11, with John 4:14).
+
+## Claims to Check
+
+1. The forty years after the Teacher's death (CD 20:14-15) placed after 62 CE. The Cave 4 copies of CD are first century BCE, which rules out a composition after 62 CE unless every copy is redated; this is the same dating problem as part one and the decisive one.
+2. The niece-marriage charge as aimed at the Herodians. CD 5:7-11 argues from Leviticus 18:13 that the incest law applies to women as to men; Herodian niece-marriages (Josephus) fit, but so does ordinary Pharisaic practice, which permitted it. Eisenman's reading; label it.
+3. "Kings of the peoples" as the Roman title for client kings. Needs a source; the usual Latin is *rex socius et amicus*.
+4. The expelled man "melted in the furnace" (CD 20:3-8) linked to Acts 15:38 and Barnabas. The scroll's rule is about a backslider in the community; the Acts link is his inference.
+5. Apollos "knew a different holy spirit." Acts 18:25 says he knew only John's baptism; Priscilla and Aquila instructed him. "Different spirit" is imported from 2 Corinthians 11:4.
+6. "Nazarene" from *nazir*. The derivation of *Nazoraios* is disputed (Nazareth, *netzer*, *nazir*); treat as one option, credited to Eisenman.
+7. Josephus's Saulus as Paul stealing tithes. *Antiquities* 20.8.8 names Costobarus and Saulus as kinsmen of Agrippa who led violent gangs; 20.9.2 describes Ananias's servants taking the tithes. He merges the two reports; see episode 058 for the fuller version and the chronology objection.
+8. "The penitents of Jacob" as a James wordplay. "Jacob" in CD 20:17 is Israel, as throughout the document; the wordplay is his.
 
 ---
 

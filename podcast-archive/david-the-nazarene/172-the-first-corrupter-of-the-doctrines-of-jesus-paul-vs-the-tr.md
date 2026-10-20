@@ -10,7 +10,57 @@
 
 ## Summary
 
-*Notes pending.*
+Part two is the verse-by-verse case. He walks Galatians 1 (apostle "not from men"; "some who trouble you" left unnamed because they outrank him; the anathema even on an angel as an appeal over the apostles' heads; "I lie not," 1:20) and tests it against Acts, which, on the part-one theory, was written under penalty of death: Acts 9:26-28 has Barnabas bring Paul to "the apostles" and Paul going in and out among them, against Galatians 1:18-19's Cephas and James only ("first lie exposed"); Acts 22:17-21 has Paul's Jesus, in a trance in the temple, tell him to leave because "they will not receive thy testimony," which he pairs with Matthew 24:26's "secret chambers" and reads as Paul's Jesus forbidding him to repent to the apostles, while Barnabas gets him accepted anyway. He then sets Acts 15 beside Galatians 2: the ruling is for Gentiles "who are turning," Paul is sent with Judas and Silas rather than trusted alone and is not called an apostle; Galatians 2:2 "by revelation" against Acts 15's "challenged"; Titus uncircumcised against Timothy circumcised in Acts 16 (he entertains the view that Titus and Timothy are one man); and Galatians 2:10 "only remember the poor" against the four decrees, which he calls the big lie and the cause of Antioch.
+
+At Antioch (Galatians 2:11-14) everyone, including Barnabas, is on the other side, so Paul lost. Why James sent men: his theory is that James had read 1 Corinthians 8 and 10, where "the weak" who object to idol meat are James and the apostles, eating in an idol's temple is allowed to those with "knowledge" (*gnosis*, which he says is where Gnosticism comes from), "to the Jews as a Jew" is lying, and "not thine own conscience but the other's" means idol meat is fine when no one who objects is watching. Revelation 2:14 condemns the practice twice. He closes with *Recognitions* 2.71, Peter explaining that he does not eat with the unbaptized because anyone who has eaten things sacrificed to idols carries an unclean spirit, which he takes as the real reason Peter withdrew at Antioch.
+
+## Key Points
+
+- Why Paul names no one outside Galatians 2: the apostles outrank him, as one gripes about a boss without naming him; 2 Peter 3:16's "faint praise" as the apostles' one exception. [07:08]-[10:51]
+- Galatians 1:1-9: the anathema is addressed at "anyone," rank notwithstanding; the "some" are the apostles; James 3:9-10 (bless God, curse men) read as James's reply to the opening of Galatians. [10:51]-[17:28]
+- Galatians 1:10-24: "not from man" means not from the apostles; "I lie not" at 1:20. [17:28]-[20:20]
+- Acts 9:26-28 versus Galatians 1:18-19: the apostles, plural; "when Paul starts swearing he is telling the truth, that's when to doubt him." [20:20]-[24:23]
+- Acts 22:17-21: the temple trance as the "inner room" vision of Matthew 24:26; Paul's Jesus tells him the apostles will not believe him; Paul goes anyway and Barnabas succeeds where Paul's Jesus said they would not; "apparently Barnabas was closer to the apostles than Jesus was." [24:23]-[28:10]
+- Acts 15:19-21: four purity commands for those "who are turning," with verse 21 as the point (hearing Moses weekly); the translation on screen should read "are turning." [28:10]-[31:44]
+- Acts 15:22-27: Judas Barsabbas and Silas sent with Paul; not called an apostle; "apostle of the congregation" means emissary of Antioch, not of Jesus. [31:44]-[37:25]
+- Galatians 2:1-3: "by revelation" against the Acts account; Titus not compelled; Timothy circumcised in Acts 16:3; the Titus/Timothy identification. [37:25]-[43:44]
+- Galatians 2:4-10: the "false brethren" as the Pharisee-party challengers of Acts 15:5 (he has changed his mind from an earlier video where they were the men from James); "seemed to be pillars"; verse 10 "only the poor" as the lie that led to the confrontation; the idol-meat rule as protection from demonic infestation. [44:36]-[49:40]
+- Galatians 2:11-14: Peter possibly accompanied by Clement; Paul vague about the issue; "the rest of the Jews" are believers; everybody against Paul; Paul lost. [49:40]-[52:11]
+- 1 Corinthians 8:4-13: "the weak" are James and the apostles; "sit at meat in the idol's temple"; *gnosis* and the origin of Gnosticism; "if meat make my brother to offend." [52:11]-[56:03]
+- 1 Corinthians 9:20-22 ("to the Jews as a Jew") as lying to gain converts; 10:27-30 and the "not thine own conscience" clause as a show put on for others. [56:03]-[1:00:33]
+- Revelation 2:14 condemns idol meat and fornication, both Acts 15 commands; the Facebook interlocutor's reading that only the combination is condemned. [1:00:33]-[1:05:18]
+- *Recognitions* 2.71: Peter sits apart from the unbaptized because whoever has eaten things sacrificed to idols is "not without an unclean spirit"; applied to Antioch. [1:05:18]-[1:10:21]
+
+## Sources He Cites
+
+Held:
+- Clementine *Recognitions* 2.71 (Smith, ANF 8) — `christianity/Incoming/clementine-recognitions-full-text.md`, "Separation from the Unclean." Checked: his reading matches the held text ("every one who has at any time worshipped idols... or has eaten of the things sacrificed to them, is not without an unclean spirit; for he has become a guest of demons"). His locator (Book 2, chapter 71) is right.
+- KJV: Galatians 1-2; Acts 9:26-28, 14:14, 15:5-29, 16:1-3, 22:17-21; Matthew 24:26; 1 Corinthians 8, 9:19-22, 10:27-30; Revelation 2:14; James 3:9-10; 2 Peter 3:16.
+- Didache 6:3 ("keep strictly away from what is offered to idols, for that implies worshiping dead gods") — held, `christianity/Incoming/didache-full-text.md`; he does not cite it, but it is the earliest non-Clementine witness for his idol-meat point.
+
+Not held: Mauck (part one); the scholars he says identify Titus with Timothy (unnamed).
+
+## Where This Overlaps the Repo
+
+- `questions/pauls-legitimacy.md` §1 (Galatians 1:11-12, 2:6), the Galatians 1:18-19 objection (the repo raises the fifteen-days visit itself and reads the paragraph as Paul minimizing dependence, not as a lie), §3 (James ruled, 1 Corinthians 10:25 reversed it), the Galatians 2:9 objection (Acts 21:20-25), and "You cite Acts when it suits you" (the repo does not run Acts against Paul's honesty; where they conflict the letters win). His Acts 9:27 and Acts 22 arguments are exactly the use the card declines to make.
+- `christianity/acts-15-james-four-decrees.md` (`### Paul's Contradiction`) says James's community would have found Paul's reasoning dangerous "because of the spiritual contamination the Clementine writings describe" without citing the passage; *Recognitions* 2.71, which he reads here, is that passage and is held. Worth adding to the file.
+- `christianity/clementine-literature-nazarene-writings.md` (`### Demons Insert Thoughts`, *Recognitions* 4.18) for the repo's existing Clementine demonology; `extended-library/nazarene-acts-snyder-notes.md` ("Use in This Repo") for which *Recognitions* chapters the repo already cites.
+- `questions/CITATION-NOTES.md`: "Peter set the qualifications for apostle in Acts 1" is retired; he does not use it in this part. The "Didache has no sacrifice" correction is unrelated but the same file notes Didache 6 on idol food.
+- `podcast-archive/shabbat-studies/06-ch4a-the-one-about-paul.md` ("Matthew 24 and the wilderness"; "Peter's side of the story") covers the wilderness half of Matthew 24:26 and the Antioch incident from Peter's side; his pairing of the "secret chambers" with Acts 22:17 is new.
+- `extended-library/jesus-words-only-notes.md` (Key Argument 4, idol meat as the test case; ch. 6 as "the fullest version of this argument") and `extended-library/questioning-paul-notes.md` (ch. 08, the Antioch confrontation; ch. 10-11 on Galatians 5-6).
+
+## Claims to Check
+
+1. Acts 9:27's "the apostles" proves Galatians 1:18-19 a lie. The tension is well known; the usual harmonization takes Peter and James as "the apostles" Barnabas brought him to. The repo's stated rule is that the letters win over Acts; running it the other way needs the Mauck dating from part one.
+2. Titus and Timothy are the same person. A fringe identification (Richard Fellows, 2001). Galatians 2:3 calls Titus a Greek; Acts 16:1 gives Timothy a Jewish mother, which is why Luke says he was circumcised; 2 Timothy 4:10 names both, which he discounts as disputed. He himself calls it "up in the air."
+3. Galatians 2:10 "only the poor" contradicts the four decrees. Only if Galatians 2:1-10 is the Acts 15 visit rather than the Acts 11:30 famine visit; scholars split, and he says he takes them as the same.
+4. "Apostle of the congregation" in Acts 14-15. The KJV at Acts 14:14 has "the apostles, Barnabas and Paul"; the "messengers (*apostoloi*) of the churches" wording is 2 Corinthians 8:23 and Philippians 2:25. His reference is garbled; the point survives on 2 Corinthians 8:23.
+5. Judas and Silas were sent because Paul was not trusted. Acts 15:25-26 calls Barnabas and Paul "our beloved... men that have hazarded their lives"; the letter honors them. He concedes the courtesy; the distrust is inference.
+6. 1 Corinthians 8:10 permits eating in an idol's temple. Paul's words, yes (KJV "sit at meat in the idol's temple"), but 1 Corinthians 10:20-21 forbids the "table of devils," so whether 8:10 describes Paul's own permission or a Corinthian's conduct he is warning about is argued both ways. He addresses 10:20-21 in part three as Paul "spiritualizing it away."
+7. Gnosticism "bases all their beliefs on Paul." The Valentinians prized Paul (Pagels, *The Gnostic Paul*), but the Nag Hammadi library draws on much else; overstated.
+8. 1 Corinthians was written before Galatians and read by James. Most datings put Galatians (c. 48-55) before or around 1 Corinthians (c. 54-55); his order and James's reading of the letter are, as he says, his theory.
+9. Matthew 24:26's "secret chambers" (*tameiois*, storerooms or inner rooms) as the temple trance of Acts 22:17. A novel pairing; the Greek word for the temple in Acts 22:17 is *hieron*. Check whether anyone else has made it before citing it as a reading.
+10. "The weak" of 1 Corinthians 8 are James, Peter and John. The letter's "weak" are new Gentile converts with a history of idol worship (8:7); reading them as the Jerusalem leadership is his inference.
 
 ---
 

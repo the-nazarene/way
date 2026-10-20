@@ -14,11 +14,11 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 003 | [x] | [ ] | Nazarene Acts: Does YHWH create evil? | 41:50 | [003-nazarene-acts-does-yhwh-create-evil.md](003-nazarene-acts-does-yhwh-create-evil.md) |
 | 004 | [x] | [ ] | Live presentation of James, Paul, and the Stoning of Stephen to the Vero Essene Yahad | 1:39:58 | [004-live-presentation-of-james-paul-and-the-stoning-of-stephen-t.md](004-live-presentation-of-james-paul-and-the-stoning-of-stephen-t.md) |
 | 005 | [ ] | [ ] | The Calendar Issue Is Settled | 9:59 | [005-the-calendar-issue-is-settled.md](005-the-calendar-issue-is-settled.md) |
-| 006 | [x] | [ ] | I Came To Abolish Sacrifices pt2 | 40:55 | [006-i-came-to-abolish-sacrifices-pt2.md](006-i-came-to-abolish-sacrifices-pt2.md) |
+| 006 | [x] | [x] | I Came To Abolish Sacrifices pt2 | 40:55 | [006-i-came-to-abolish-sacrifices-pt2.md](006-i-came-to-abolish-sacrifices-pt2.md) |
 | 007 | [x] | [ ] | Every plant which My heavenly Father has not planted... | 34:20 | [007-every-plant-which-my-heavenly-father-has-not-planted.md](007-every-plant-which-my-heavenly-father-has-not-planted.md) |
 | 008 | [ ] | [ ] | The Doctrines of the Nazarenes - Hidden by The Church | 41:23 | [008-the-doctrines-of-the-nazarenes-hidden-by-the-church.md](008-the-doctrines-of-the-nazarenes-hidden-by-the-church.md) |
 | 009 | [x] | [ ] | Honor and Shame on Social Media | 32:31 | [009-honor-and-shame-on-social-media.md](009-honor-and-shame-on-social-media.md) |
-| 010 | [x] | [ ] | I Came To Abolish Sacrifices pt1 | 44:05 | [010-i-came-to-abolish-sacrifices-pt1.md](010-i-came-to-abolish-sacrifices-pt1.md) |
+| 010 | [x] | [x] | I Came To Abolish Sacrifices pt1 | 44:05 | [010-i-came-to-abolish-sacrifices-pt1.md](010-i-came-to-abolish-sacrifices-pt1.md) |
 | 011 | [x] | [ ] | Religious Thinking is 1-Dimentional Thinking Pt 1 | 1:20:42 | [011-religious-thinking-is-1-dimentional-thinking-pt-1.md](011-religious-thinking-is-1-dimentional-thinking-pt-1.md) |
 | 012 | [x] | [ ] | Religious Thinking is 1 Dimentional Thinking Pt 2 | 27:06 | [012-religious-thinking-is-1-dimentional-thinking-pt-2.md](012-religious-thinking-is-1-dimentional-thinking-pt-2.md) |
 | 013 | [x] | [ ] | Is it possible to marry without a license? Yes, here's how: | 56:14 | [013-is-it-possible-to-marry-without-a-license-yes-here-s-how.md](013-is-it-possible-to-marry-without-a-license-yes-here-s-how.md) |
@@ -59,23 +59,23 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 048 | [ ] | [ ] | Are You Worried Where This All Leads? | 15:00 | [048-are-you-worried-where-this-all-leads.md](048-are-you-worried-where-this-all-leads.md) |
 | 049 | [x] | [ ] | Are There Sharks In Your Tank? | 23:36 | [049-are-there-sharks-in-your-tank.md](049-are-there-sharks-in-your-tank.md) |
 | 050 | [x] | [ ] | Would Yeshua's Government Support Gun Rights? | 44:35 | [050-would-yeshua-s-government-support-gun-rights.md](050-would-yeshua-s-government-support-gun-rights.md) |
-| 051 | [x] | [ ] | James and Paul in The Damascus Document Pt1 | 31:27 | [051-james-and-paul-in-the-damascus-document-pt1.md](051-james-and-paul-in-the-damascus-document-pt1.md) |
-| 052 | [x] | [ ] | James and Paul in The Damascus Document Pt2 | 37:01 | [052-james-and-paul-in-the-damascus-document-pt2.md](052-james-and-paul-in-the-damascus-document-pt2.md) |
+| 051 | [x] | [x] | James and Paul in The Damascus Document Pt1 | 31:27 | [051-james-and-paul-in-the-damascus-document-pt1.md](051-james-and-paul-in-the-damascus-document-pt1.md) |
+| 052 | [x] | [x] | James and Paul in The Damascus Document Pt2 | 37:01 | [052-james-and-paul-in-the-damascus-document-pt2.md](052-james-and-paul-in-the-damascus-document-pt2.md) |
 | 053 | [x] | [ ] | Are you Being Tested? | 38:32 | [053-are-you-being-tested.md](053-are-you-being-tested.md) |
 | 054 | [x] | [ ] | The Dead Sea Scrolls Community Rule Pt1 | 28:19 | [054-the-dead-sea-scrolls-community-rule-pt1.md](054-the-dead-sea-scrolls-community-rule-pt1.md) |
 | 055 | [x] | [ ] | The Dead Sea Scrolls Community Rule Pt2 | 29:54 | [055-the-dead-sea-scrolls-community-rule-pt2.md](055-the-dead-sea-scrolls-community-rule-pt2.md) |
 | 056 | [x] | [ ] | The Dead Sea Scrolls Community Rule Pt3 | 30:07 | [056-the-dead-sea-scrolls-community-rule-pt3.md](056-the-dead-sea-scrolls-community-rule-pt3.md) |
 | 057 | [x] | [ ] | The Dead Sea Scrolls Community Rule Pt4 | 20:30 | [057-the-dead-sea-scrolls-community-rule-pt4.md](057-the-dead-sea-scrolls-community-rule-pt4.md) |
-| 058 | [x] | [ ] | Paul and James in the Habakkuk Pesher Pt1 | 29:45 | [058-paul-and-james-in-the-habakkuk-pesher-pt1.md](058-paul-and-james-in-the-habakkuk-pesher-pt1.md) |
+| 058 | [x] | [x] | Paul and James in the Habakkuk Pesher Pt1 | 29:45 | [058-paul-and-james-in-the-habakkuk-pesher-pt1.md](058-paul-and-james-in-the-habakkuk-pesher-pt1.md) |
 | 059 | [ ] | [ ] | Paul and James in the Habakkuk Pesher Pt2 | 33:35 | [059-paul-and-james-in-the-habakkuk-pesher-pt2.md](059-paul-and-james-in-the-habakkuk-pesher-pt2.md) |
 | 060 | [x] | [ ] | Paul, Masons, & The Illuminati vs. Luke (Plutarch), Pythagoreans, & The Essenes | 27:13 | [060-paul-masons-the-illuminati-vs-luke-plutarch-pythagoreans-the.md](060-paul-masons-the-illuminati-vs-luke-plutarch-pythagoreans-the.md) |
-| 061 | [x] | [ ] | Was Jesus a Vegetarian? | 55:15 | [061-was-jesus-a-vegetarian.md](061-was-jesus-a-vegetarian.md) |
+| 061 | [x] | [x] | Was Jesus a Vegetarian? | 55:15 | [061-was-jesus-a-vegetarian.md](061-was-jesus-a-vegetarian.md) |
 | 062 | [ ] | [ ] | What Is The Secret Origin Of The Levitical Sacrifices? | 46:28 | [062-what-is-the-secret-origin-of-the-levitical-sacrifices.md](062-what-is-the-secret-origin-of-the-levitical-sacrifices.md) |
 | 063 | [x] | [ ] | JEPD and The  Documentary Hypothesis | 30:48 | [063-jepd-and-the-documentary-hypothesis.md](063-jepd-and-the-documentary-hypothesis.md) |
-| 064 | [x] | [ ] | Essene vs Jewish-Christian Beliefs Pt1 | 51:08 | [064-essene-vs-jewish-christian-beliefs-pt1.md](064-essene-vs-jewish-christian-beliefs-pt1.md) |
-| 065 | [x] | [ ] | Essene vs Jewish-Christian Beliefs Pt2 | 43:44 | [065-essene-vs-jewish-christian-beliefs-pt2.md](065-essene-vs-jewish-christian-beliefs-pt2.md) |
+| 064 | [x] | [x] | Essene vs Jewish-Christian Beliefs Pt1 | 51:08 | [064-essene-vs-jewish-christian-beliefs-pt1.md](064-essene-vs-jewish-christian-beliefs-pt1.md) |
+| 065 | [x] | [x] | Essene vs Jewish-Christian Beliefs Pt2 | 43:44 | [065-essene-vs-jewish-christian-beliefs-pt2.md](065-essene-vs-jewish-christian-beliefs-pt2.md) |
 | 066 | [x] | [ ] | Another HRM Teacher Rejects Messiah For The Lying Pen Of The Scribe | 32:11 | [066-another-hrm-teacher-rejects-messiah-for-the-lying-pen-of-the.md](066-another-hrm-teacher-rejects-messiah-for-the-lying-pen-of-the.md) |
-| 067 | [x] | [ ] | What Did The Ebionites Believe About Yeshua's Birth And Divinity? | 23:50 | [067-what-did-the-ebionites-believe-about-yeshua-s-birth-and-divi.md](067-what-did-the-ebionites-believe-about-yeshua-s-birth-and-divi.md) |
+| 067 | [x] | [x] | What Did The Ebionites Believe About Yeshua's Birth And Divinity? | 23:50 | [067-what-did-the-ebionites-believe-about-yeshua-s-birth-and-divi.md](067-what-did-the-ebionites-believe-about-yeshua-s-birth-and-divi.md) |
 | 068 | [ ] | [ ] | "You Have To Understand Scripture From a Hebraic Perspective" (if you want to fall into the ditch) | 30:53 | [068-you-have-to-understand-scripture-from-a-hebraic-perspective.md](068-you-have-to-understand-scripture-from-a-hebraic-perspective.md) |
 | 069 | [ ] | [ ] | Essene Farmers or Ranchers?  What was their manner of life? | 17:37 | [069-essene-farmers-or-ranchers-what-was-their-manner-of-life.md](069-essene-farmers-or-ranchers-what-was-their-manner-of-life.md) |
 | 070 | [ ] | [ ] | Didn't Yeshua Multiply & Eat Dead Fish? | 9:33 | [070-didn-t-yeshua-multiply-eat-dead-fish.md](070-didn-t-yeshua-multiply-eat-dead-fish.md) |
@@ -163,9 +163,9 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 152 | [x] | [ ] | The Greater Exodus In Malachi | 35:28 | [152-the-greater-exodus-in-malachi.md](152-the-greater-exodus-in-malachi.md) |
 | 153 | [x] | [ ] | The Oera Linda Book in Jesus' Teachings | 1:16:41 | [153-the-oera-linda-book-in-jesus-teachings.md](153-the-oera-linda-book-in-jesus-teachings.md) |
 | 154 | [ ] | [ ] | What Was Really Decided at the Acts 15 Conference? - Putting The Controversy In Correct Context | 34:04 | [154-what-was-really-decided-at-the-acts-15-conference-putting-th.md](154-what-was-really-decided-at-the-acts-15-conference-putting-th.md) |
-| 155 | [x] | [ ] | 7 Warnings From Jesus About Paul | 47:37 | [155-7-warnings-from-jesus-about-paul.md](155-7-warnings-from-jesus-about-paul.md) |
-| 156 | [x] | [ ] | Does Peter "Certify" Paul as an Apostle?  Putting His Warning In The Correct Context | 41:05 | [156-does-peter-certify-paul-as-an-apostle-putting-his-warning-in.md](156-does-peter-certify-paul-as-an-apostle-putting-his-warning-in.md) |
-| 157 | [x] | [ ] | James Epistle Is a Response to Galatians & 2nd Corinthians | 1:13:31 | [157-james-epistle-is-a-response-to-galatians-2nd-corinthians.md](157-james-epistle-is-a-response-to-galatians-2nd-corinthians.md) |
+| 155 | [x] | [x] | 7 Warnings From Jesus About Paul | 47:37 | [155-7-warnings-from-jesus-about-paul.md](155-7-warnings-from-jesus-about-paul.md) |
+| 156 | [x] | [x] | Does Peter "Certify" Paul as an Apostle?  Putting His Warning In The Correct Context | 41:05 | [156-does-peter-certify-paul-as-an-apostle-putting-his-warning-in.md](156-does-peter-certify-paul-as-an-apostle-putting-his-warning-in.md) |
+| 157 | [x] | [x] | James Epistle Is a Response to Galatians & 2nd Corinthians | 1:13:31 | [157-james-epistle-is-a-response-to-galatians-2nd-corinthians.md](157-james-epistle-is-a-response-to-galatians-2nd-corinthians.md) |
 | 158 | [ ] | [ ] | We Have Been Intentionally Lied To Through Deliberate Mistranslations of Pisteuo | 29:33 | [158-we-have-been-intentionally-lied-to-through-deliberate-mistra.md](158-we-have-been-intentionally-lied-to-through-deliberate-mistra.md) |
 | 159 | [x] | [ ] | Why Do Christians Hate Jesus' Words? | 1:33:46 | [159-why-do-christians-hate-jesus-words.md](159-why-do-christians-hate-jesus-words.md) |
 | 160 | [x] | [ ] | I Guess Paul’s Writings Are Inspired After All | 1:05:45 | [160-i-guess-paul-s-writings-are-inspired-after-all.md](160-i-guess-paul-s-writings-are-inspired-after-all.md) |
@@ -173,15 +173,15 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 162 | [x] | [ ] | Taking Scripture Out Of Context? Do Y'all Even Know What That Means? | 1:02:51 | [162-taking-scripture-out-of-context-do-y-all-even-know-what-that.md](162-taking-scripture-out-of-context-do-y-all-even-know-what-that.md) |
 | 163 | [x] | [ ] | Why Does 2nd Peter Keep Warning Us Against "Sensuality"? | 47:23 | [163-why-does-2nd-peter-keep-warning-us-against-sensuality.md](163-why-does-2nd-peter-keep-warning-us-against-sensuality.md) |
 | 164 | [x] | [ ] | Have We Missed The True Gospel Message Because of One Word? | 1:07:27 | [164-have-we-missed-the-true-gospel-message-because-of-one-word.md](164-have-we-missed-the-true-gospel-message-because-of-one-word.md) |
-| 165 | [x] | [ ] | The Truth About What Jesus Taught About The Law - An Umpteenth Time For The Torah-Hater | 1:28:24 | [165-the-truth-about-what-jesus-taught-about-the-law-an-umpteenth.md](165-the-truth-about-what-jesus-taught-about-the-law-an-umpteenth.md) |
+| 165 | [x] | [x] | The Truth About What Jesus Taught About The Law - An Umpteenth Time For The Torah-Hater | 1:28:24 | [165-the-truth-about-what-jesus-taught-about-the-law-an-umpteenth.md](165-the-truth-about-what-jesus-taught-about-the-law-an-umpteenth.md) |
 | 166 | [ ] | [ ] | What If Everything You Understand About God's Plan Is Wrong | 1:28:26 | [166-what-if-everything-you-understand-about-god-s-plan-is-wrong.md](166-what-if-everything-you-understand-about-god-s-plan-is-wrong.md) |
 | 167 | [x] | [ ] | The Truth About Jesus's Second Coming and What Will Happen In The End Times | 39:36 | [167-the-truth-about-jesus-s-second-coming-and-what-will-happen-i.md](167-the-truth-about-jesus-s-second-coming-and-what-will-happen-i.md) |
 | 168 | [x] | [ ] | Do Your Beliefs Make Jesus a False Prophet?  You Had Better Watch This And Repent Immediately! | 53:57 | [168-do-your-beliefs-make-jesus-a-false-prophet-you-had-better-wa.md](168-do-your-beliefs-make-jesus-a-false-prophet-you-had-better-wa.md) |
 | 169 | [x] | [ ] | The Teachings of Jesus - A Tale of Two Listeners | 48:09 | [169-the-teachings-of-jesus-a-tale-of-two-listeners.md](169-the-teachings-of-jesus-a-tale-of-two-listeners.md) |
 | 170 | [x] | [ ] | Does Paul Quote Scripture Like Jesus Or Satan? | 1:25:59 | [170-does-paul-quote-scripture-like-jesus-or-satan.md](170-does-paul-quote-scripture-like-jesus-or-satan.md) |
-| 171 | [x] | [ ] | The First Corrupter Of The Doctrines of Jesus - Paul vs The True Church - Part 1 | 59:47 | [171-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md](171-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md) |
-| 172 | [x] | [ ] | The First Corrupter Of The Doctrines of Jesus - Paul vs The True Church - Part 2 | 1:11:13 | [172-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md](172-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md) |
-| 173 | [x] | [ ] | The First Corrupter Of The Doctrines of Jesus - Paul vs The True Church - Part 3 | 1:17:11 | [173-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md](173-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md) |
+| 171 | [x] | [x] | The First Corrupter Of The Doctrines of Jesus - Paul vs The True Church - Part 1 | 59:47 | [171-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md](171-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md) |
+| 172 | [x] | [x] | The First Corrupter Of The Doctrines of Jesus - Paul vs The True Church - Part 2 | 1:11:13 | [172-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md](172-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md) |
+| 173 | [x] | [x] | The First Corrupter Of The Doctrines of Jesus - Paul vs The True Church - Part 3 | 1:17:11 | [173-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md](173-the-first-corrupter-of-the-doctrines-of-jesus-paul-vs-the-tr.md) |
 | 174 | [x] | [ ] | Introduction to the "Questioning Paul" Document | 49:49 | [174-introduction-to-the-questioning-paul-document.md](174-introduction-to-the-questioning-paul-document.md) |
 | 175 | [x] | [ ] | Channel Update and Off-The-Cuff Remarks About Paul, Feedback from Viewers, and Other Topics | 48:09 | [175-channel-update-and-off-the-cuff-remarks-about-paul-feedback.md](175-channel-update-and-off-the-cuff-remarks-about-paul-feedback.md) |
 | 176 | [x] | [ ] | My Review and Analysis of "Jesus Interrupted" by Bart Ehrman | 2:33:11 | [176-my-review-and-analysis-of-jesus-interrupted-by-bart-ehrman.md](176-my-review-and-analysis-of-jesus-interrupted-by-bart-ehrman.md) |
@@ -192,7 +192,7 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 181 | [x] | [ ] | The Antichrist and the Abomination of Desolation - Uncovering the Meanings in Matthew 24 | 58:18 | [181-the-antichrist-and-the-abomination-of-desolation-uncovering.md](181-the-antichrist-and-the-abomination-of-desolation-uncovering.md) |
 | 182 | [x] | [ ] | Did Yeshua Multiply Death and Feed It To The People? - Loaves Without The Fish in Early Writings | 29:02 | [182-did-yeshua-multiply-death-and-feed-it-to-the-people-loaves-w.md](182-did-yeshua-multiply-death-and-feed-it-to-the-people-loaves-w.md) |
 | 183 | [x] | [ ] | What Is The Gospel of The Hebrews? Part 1   Mentions from History | 43:05 | [183-what-is-the-gospel-of-the-hebrews-part-1-mentions-from-histo.md](183-what-is-the-gospel-of-the-hebrews-part-1-mentions-from-histo.md) |
-| 184 | [x] | [ ] | What Is The Gospel of The Hebrews? Part 2   Quotations from History | 1:09:23 | [184-what-is-the-gospel-of-the-hebrews-part-2-quotations-from-his.md](184-what-is-the-gospel-of-the-hebrews-part-2-quotations-from-his.md) |
+| 184 | [x] | [x] | What Is The Gospel of The Hebrews? Part 2   Quotations from History | 1:09:23 | [184-what-is-the-gospel-of-the-hebrews-part-2-quotations-from-his.md](184-what-is-the-gospel-of-the-hebrews-part-2-quotations-from-his.md) |
 | 185 | [x] | [ ] | Ebionite 101   A Statement of Faith   The Doctrines of the Original Assembly | 1:09:34 | [185-ebionite-101-a-statement-of-faith-the-doctrines-of-the-origi.md](185-ebionite-101-a-statement-of-faith-the-doctrines-of-the-origi.md) |
 | 186 | [x] | [ ] | Ebionite 102  - Become As Little Children - YHWH Doesn't Change | 1:34:58 | [186-ebionite-102-become-as-little-children-yhwh-doesn-t-change.md](186-ebionite-102-become-as-little-children-yhwh-doesn-t-change.md) |
 | 187 | [x] | [ ] | Ebionite 201 - Who Were The First Christians & What Did the Apostles Believe and Teach | 51:06 | [187-ebionite-201-who-were-the-first-christians-what-did-the-apos.md](187-ebionite-201-who-were-the-first-christians-what-did-the-apos.md) |
@@ -209,20 +209,20 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 198 | [x] | [ ] | Moses And The Exodus - Seeking God's Justice | 44:29 | [198-moses-and-the-exodus-seeking-god-s-justice.md](198-moses-and-the-exodus-seeking-god-s-justice.md) |
 | 199 | [x] | [ ] | The Structure and Function Of The Sinai Covenant - Seeking God's Justice | 1:20:14 | [199-the-structure-and-function-of-the-sinai-covenant-seeking-god.md](199-the-structure-and-function-of-the-sinai-covenant-seeking-god.md) |
 | 200 | [ ] | [ ] | Are You Fit To Be In A Covenant With God? -  Seeking God's Justice | 36:36 | [200-are-you-fit-to-be-in-a-covenant-with-god-seeking-god-s-justi.md](200-are-you-fit-to-be-in-a-covenant-with-god-seeking-god-s-justi.md) |
-| 201 | [ ] | [ ] | The 12 Tribe Federation and the Conquest of the Land - Seeking God's Justice | 45:37 | [201-the-12-tribe-federation-and-the-conquest-of-the-land-seeking.md](201-the-12-tribe-federation-and-the-conquest-of-the-land-seeking.md) |
-| 202 | [ ] | [ ] | The Transition to Monarchy - Seeking God's Justice | 47:32 | [202-the-transition-to-monarchy-seeking-god-s-justice.md](202-the-transition-to-monarchy-seeking-god-s-justice.md) |
-| 203 | [ ] | [ ] | King David and The Jebusite Influence - Seeking God's Justice | 51:48 | [203-king-david-and-the-jebusite-influence-seeking-god-s-justice.md](203-king-david-and-the-jebusite-influence-seeking-god-s-justice.md) |
-| 204 | [ ] | [ ] | Being Led By God - Witnessing Miracles, Listening to The Holy Spirit, and Confirming The Word | 41:16 | [204-being-led-by-god-witnessing-miracles-listening-to-the-holy-s.md](204-being-led-by-god-witnessing-miracles-listening-to-the-holy-s.md) |
-| 205 | [ ] | [ ] | The Legacy of King Solomon - Seeking God's Justice | 1:08:29 | [205-the-legacy-of-king-solomon-seeking-god-s-justice.md](205-the-legacy-of-king-solomon-seeking-god-s-justice.md) |
-| 206 | [ ] | [ ] | Josiah Reforms the Imperial Religion - Seeking God's Justice | 59:19 | [206-josiah-reforms-the-imperial-religion-seeking-god-s-justice.md](206-josiah-reforms-the-imperial-religion-seeking-god-s-justice.md) |
-| 207 | [ ] | [ ] | Destruction and Exile - Seeking God's Justice | 56:05 | [207-destruction-and-exile-seeking-god-s-justice.md](207-destruction-and-exile-seeking-god-s-justice.md) |
-| 208 | [ ] | [ ] | Yeshua and the Renewal of an Old Faith / Part 1 - Seeking God's Justice | 43:43 | [208-yeshua-and-the-renewal-of-an-old-faith-part-1-seeking-god-s.md](208-yeshua-and-the-renewal-of-an-old-faith-part-1-seeking-god-s.md) |
-| 209 | [ ] | [ ] | Yeshua and the Renewal of an Old Faith / Pt 2 - Seeking God's Justice | 49:23 | [209-yeshua-and-the-renewal-of-an-old-faith-pt-2-seeking-god-s-ju.md](209-yeshua-and-the-renewal-of-an-old-faith-pt-2-seeking-god-s-ju.md) |
+| 201 | [x] | [ ] | The 12 Tribe Federation and the Conquest of the Land - Seeking God's Justice | 45:37 | [201-the-12-tribe-federation-and-the-conquest-of-the-land-seeking.md](201-the-12-tribe-federation-and-the-conquest-of-the-land-seeking.md) |
+| 202 | [x] | [ ] | The Transition to Monarchy - Seeking God's Justice | 47:32 | [202-the-transition-to-monarchy-seeking-god-s-justice.md](202-the-transition-to-monarchy-seeking-god-s-justice.md) |
+| 203 | [x] | [ ] | King David and The Jebusite Influence - Seeking God's Justice | 51:48 | [203-king-david-and-the-jebusite-influence-seeking-god-s-justice.md](203-king-david-and-the-jebusite-influence-seeking-god-s-justice.md) |
+| 204 | [x] | [ ] | Being Led By God - Witnessing Miracles, Listening to The Holy Spirit, and Confirming The Word | 41:16 | [204-being-led-by-god-witnessing-miracles-listening-to-the-holy-s.md](204-being-led-by-god-witnessing-miracles-listening-to-the-holy-s.md) |
+| 205 | [x] | [ ] | The Legacy of King Solomon - Seeking God's Justice | 1:08:29 | [205-the-legacy-of-king-solomon-seeking-god-s-justice.md](205-the-legacy-of-king-solomon-seeking-god-s-justice.md) |
+| 206 | [x] | [ ] | Josiah Reforms the Imperial Religion - Seeking God's Justice | 59:19 | [206-josiah-reforms-the-imperial-religion-seeking-god-s-justice.md](206-josiah-reforms-the-imperial-religion-seeking-god-s-justice.md) |
+| 207 | [x] | [ ] | Destruction and Exile - Seeking God's Justice | 56:05 | [207-destruction-and-exile-seeking-god-s-justice.md](207-destruction-and-exile-seeking-god-s-justice.md) |
+| 208 | [x] | [ ] | Yeshua and the Renewal of an Old Faith / Part 1 - Seeking God's Justice | 43:43 | [208-yeshua-and-the-renewal-of-an-old-faith-part-1-seeking-god-s.md](208-yeshua-and-the-renewal-of-an-old-faith-part-1-seeking-god-s.md) |
+| 209 | [x] | [ ] | Yeshua and the Renewal of an Old Faith / Pt 2 - Seeking God's Justice | 49:23 | [209-yeshua-and-the-renewal-of-an-old-faith-pt-2-seeking-god-s-ju.md](209-yeshua-and-the-renewal-of-an-old-faith-pt-2-seeking-god-s-ju.md) |
 | 210 | [ ] | [ ] | Do This In Remembrance Of Me?  The Last Supper as an Oath-Taking Ceremony To The King | 54:04 | [210-do-this-in-remembrance-of-me-the-last-supper-as-an-oath-taki.md](210-do-this-in-remembrance-of-me-the-last-supper-as-an-oath-taki.md) |
-| 211 | [ ] | [ ] | "The Vengeance of YHWH" or "The Dispensing of Justice" | 44:24 | [211-the-vengeance-of-yhwh-or-the-dispensing-of-justice.md](211-the-vengeance-of-yhwh-or-the-dispensing-of-justice.md) |
-| 212 | [ ] | [ ] | RSF - Introduction & DHN Letter | 32:12 | [212-rsf-introduction-dhn-letter.md](212-rsf-introduction-dhn-letter.md) |
-| 213 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 1-3 | 24:39 | [213-rsf-reconstructed-goth-ch-1-3.md](213-rsf-reconstructed-goth-ch-1-3.md) |
-| 214 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 4-5 | 26:24 | [214-rsf-reconstructed-goth-ch-4-5.md](214-rsf-reconstructed-goth-ch-4-5.md) |
+| 211 | [x] | [ ] | "The Vengeance of YHWH" or "The Dispensing of Justice" | 44:24 | [211-the-vengeance-of-yhwh-or-the-dispensing-of-justice.md](211-the-vengeance-of-yhwh-or-the-dispensing-of-justice.md) |
+| 212 | [x] | [ ] | RSF - Introduction & DHN Letter | 32:12 | [212-rsf-introduction-dhn-letter.md](212-rsf-introduction-dhn-letter.md) |
+| 213 | [x] | [ ] | RSF - Reconstructed GoTH Ch 1-3 | 24:39 | [213-rsf-reconstructed-goth-ch-1-3.md](213-rsf-reconstructed-goth-ch-1-3.md) |
+| 214 | [x] | [ ] | RSF - Reconstructed GoTH Ch 4-5 | 26:24 | [214-rsf-reconstructed-goth-ch-4-5.md](214-rsf-reconstructed-goth-ch-4-5.md) |
 | 215 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 6-7 | 26:03 | [215-rsf-reconstructed-goth-ch-6-7.md](215-rsf-reconstructed-goth-ch-6-7.md) |
 | 216 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 8 | 19:49 | [216-rsf-reconstructed-goth-ch-8.md](216-rsf-reconstructed-goth-ch-8.md) |
 | 217 | [ ] | [ ] | RSF - Reconstructed GoTH Ch 9-10 | 29:31 | [217-rsf-reconstructed-goth-ch-9-10.md](217-rsf-reconstructed-goth-ch-9-10.md) |

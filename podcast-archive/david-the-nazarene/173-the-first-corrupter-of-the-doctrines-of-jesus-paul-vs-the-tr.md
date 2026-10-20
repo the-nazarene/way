@@ -10,7 +10,62 @@
 
 ## Summary
 
-*Notes pending.*
+Part three finishes the case and leans on the Clementines. *Recognitions* 4.36 (he says "book two chapter 36"): receiving "another teacher besides Christ" fatally pollutes the garment of baptism; "the table of demons, that is, to taste things sacrificed, or blood, or a carcase which is strangled" is "the first step of three," bringing forth thirty, then sixty, then a hundred commands, which he matches to Acts 15's four commands as starter rules for people coming in to hear Moses. *Homilies* 7.3 (Simon's ox feast at Tyre; the two princes of the right and left hand; neither has power over anyone who has not first sat at his table) and *Homilies* 9.20 (demons have no power over anyone unless he is first their table-companion) supply the mechanism, which he turns on 2 Corinthians 12:7: an angel of Satan "in the flesh" is possession, the consequence of Paul's idol-meat position; since Matthew 12:26 says Satan does not cast out Satan, a Jesus who refuses three times to remove it is "the prince of demons."
+
+The rest follows the Facebook claims through Galatians 4-6 and 2 Corinthians 3-13: "have I become your enemy" (4:16) echoes Peter's "the man who is my enemy"; yoke of slavery against James's law of liberty; 5:10-12 and 6:12 as the apostles' "selfish motives"; Galatians 4:29 and 2 Corinthians 5:16 as the dispensationalists' own proof texts for "Jesus according to the spirit" superseding the apostles' Jesus; 2 Corinthians 11:4-5 "another Jesus, different spirit, super apostles" aimed at the pillars; Paul's tongues (interpreter required) likened to the Pythian priestess and Acts 16:16; *Recognitions* 4.35 (no teacher to be received without a testimonial from James) as the rule behind 2 Corinthians 3:1's letters of recommendation, which Paul "spiritualizes away," including "the letter killeth" (3:6) read as the letter of recommendation rather than the law; 11:13 "false apostles" as the Twelve; the Romans overture, the collection, Acts 21. He ends with *Recognitions* 2.33 (an apostle who speaks his own things is a false apostle and a traitor; a prophet cannot be contrary to himself), which he says destroys dispensationalism, and a call to re-baptism.
+
+## Key Points
+
+- *Recognitions* 4.36: another teacher besides Christ; murders, adulteries; the table of demons; "the first step of three" and the 30/60/100 commands as the graduated instruction James's ruling implies. [04:43]-[12:31]
+- Simon Magus as Paul in the Clementines: three theories (Rufinus changed the name; the apostles' reluctance to name; Herodian danger); "every footnoted copy" says so. [12:31]-[15:39]
+- *Homilies* 7.3: the ox at Tyre, the two princes, power only over table-companions; covenant meals with Yeshua or with the evil prince; 2 Corinthians 12:7 as the consequence of 1 Corinthians 8. [15:39]-[18:47]
+- *Homilies* 9.20: demons powerless over anyone not their table-companion; his own past "trickster" harassment that stopped when the household stopped eating meat. [18:47]-[21:55]
+- 2 Corinthians 12:7-9: "in the flesh" is possession; the boasting that follows shows the thorn did not humble him; Matthew 12:26 and who Paul's Jesus is. [21:55]-[28:10]
+- Acts 15:36-41 and Galatians 2:13: the Barnabas split; John Mark as a brother or nephew of Jesus via Acts 12:12 (Mary) and possibly one of the men from James; Acts as a brief that omits Peter's role. [28:10]-[32:54]
+- Galatians 4:16 "your enemy" and Peter's letter to James; 5:1 yoke of slavery; 5:10-12 "whoever he is" and "cut themselves off"; 6:12. [32:54]-[40:41]
+- Galatians 4:29, 2 Corinthians 5:16 and dispensationalism: Jesus according to the flesh versus the spirit; the church's official proof texts. [40:41]-[43:49]
+- 2 Corinthians 11:4-5: another Jesus, different spirit, super apostles = the pillars; Acts 2 tongues (heard in native languages) against Paul's tongues (interpreter needed) and the Pythian priestess; Acts 16:16. [43:49]-[48:32]
+- "Be ye prudent money changers"; *Recognitions* 4.35, the testimonial from James; 2 Corinthians 3:1-6, 5:12, 6:3-4, 10:12, 12:11-12, 13:3-7 as Paul's evasions of the letter requirement; "the letter killeth" as the letter of recommendation. [48:32]-[1:01:07]
+- 2 Corinthians 11:13-15 (false apostles; Satan as an angel of light) and 11:22-23; Romans and the collection as an attempt to buy back in; Acts 21 as James's test. [1:01:07]-[1:08:57]
+- *Recognitions* 2.33: an apostle is not permitted to speak anything of his own; a false apostle wishes to seem better than the one who sent him; "he is a prophet and cannot be contrary to himself." [1:08:57]-[1:13:35]
+- Closing: the four claims answered; re-baptism in the name of Jesus, not Paul. [1:13:35]-[1:17:11]
+
+## Sources He Cites
+
+Held, and checked against `christianity/Incoming/clementine-recognitions-full-text.md` and `clementine-homilies-full-text.md` (Smith / Smith-Peterson-Donaldson, ANF 8):
+- *Recognitions* 4.36, "The Garments Unspotted": verbatim in substance ("receiving another teacher besides Christ... the table of demons, that is, to taste things sacrificed, or blood, or a carcase which is strangled... Be this therefore the first step to you of three; which step brings forth thirty commands, and the second sixty, and the third a hundred"). His locator "book two chapter 36" is wrong; it is Book IV.
+- *Recognitions* 4.35, "False Apostles": "believe no teacher, unless he bring from Jerusalem the testimonial of James the Lord's brother." Correct.
+- *Recognitions* 2.33, "Authority": "I should be a false apostle... he is a prophet, and cannot be contrary to Himself." Correct (he gives no chapter).
+- *Recognitions* 1.70-71: the enemy who throws James down the steps and takes letters to Damascus; Smith's footnote records a manuscript marginal note naming the enemy as Saul, which supports his "footnoted copy" remark.
+- *Homilies* 7.3, "The Remedy": "after he had sacrificed an ox he feasted you... in the middle of the forum." Correct.
+- *Homilies* 9.20, "Willing Captives": "the demons have no power over any one, unless first he be their table-companion." He cites it as "chapter 20" without the homily number.
+- *Homilies* 17.19 and the Epistle of Peter to James ("the man who is my enemy") — held; the ANF note at 17.19 calls it "a covert attack upon the Apostle Paul."
+- KJV: Galatians 4-6; 2 Corinthians 3-13; Acts 12:12, 15:36-41, 16:16 ("a spirit of divination," Greek *pythōna*); Matthew 12:26; Revelation 2:14.
+
+Not held: Rufinus's preface (in ANF 8, not in the held file); Peter's criterion for true miracles in the *Recognitions* (he could not find the slide; it is *Recognitions* 3.60); the Pythian priestess material.
+
+## Where This Overlaps the Repo
+
+- `questions/pauls-legitimacy.md` §5 and the Clementines objection: the repo cites Homilies 17.19 and the Epistle of Peter to James for the narrow point that a Jewish-Christian tradition set Peter's eyewitness authority against a visionary apostle's, and treats the texts as third-to-fourth-century. He treats them as Peter's own words recorded by Clement. `christianity/clementine-literature-nazarene-writings.md` (`### Paul as "Enemy"`) has the Simon-as-Paul history from Baur onward.
+- The Rufinus name-swap theory is already flagged twice in the repo: `extended-library/jesus-words-only-notes.md` ("The Shabbat Studies connection") notes Del Tondo's book never names Rufinus, and the Shabbat Studies 4D notes (Claims to Check 34) observe that the Homilies survive in Greek independently of Rufinus, so a Latin translator cannot explain "Simon" in both texts. He offers it as one of three theories and prefers the apostles' reticence.
+- `christianity/paul-false-prophet-deuteronomy-18-test.md` (`## Paul's Own Admissions`) already reads 2 Corinthians 12:7 as an *angelos satanos* "embedded in his flesh" and 11:23 as Paul sounding insane; `extended-library/questioning-paul-notes.md` (ch. 00, check 4) flags both as interpretive readings. His "possession" argument is the strong form of the repo's own research-file line.
+- `christianity/acts-15-james-four-decrees.md` (`### Paul's Contradiction`, "spiritual contamination the Clementine writings describe"): *Recognitions* 4.36 and 2.71 and *Homilies* 7.3-8 and 9.20 are the passages that file alludes to; Smith's footnote at 4.36 itself says the language recalls Acts 15:20 and 1 Corinthians 10:21.
+- `questions/pauls-legitimacy.md` ("How we weight Acts") uses the Paul-Barnabas split (Acts 15:39) as an Acts detail that embarrasses Luke's agenda; he uses it the same way.
+- Dispensationalism: `questions/rapture-end-times.md` for the repo's Darby material; the "Jesus according to the flesh" argument is his and Del Tondo's (`extended-library/jesus-words-only-notes.md`, Key Argument 11).
+- The "no teacher without James's testimonial" rule and 2 Corinthians 3:1: not in the repo's cards; `extended-library/nazarene-acts-snyder-notes.md` lists which *Recognitions* chapters are cited and 4.35 is not among them.
+
+## Claims to Check
+
+1. Locators: "book two chapter 36" is *Recognitions* 4.36; "homily chapter 20" is *Homilies* 9.20. The content is right in both cases.
+2. Rufinus changed Paul's name to Simon. Rufinus's preface says he omitted some passages on the unbegotten and begotten God; it says nothing about names, and the Greek Homilies also have Simon. Already flagged in the JWO notes and the 4D notes.
+3. "Every footnoted copy" says Simon is Paul. The ANF notes do say the enemy of *Recognitions* 1.70 is Saul and that Homilies 17.19 is a covert attack on Paul; they do not say every Simon passage is Paul, and the Simon of the Clementines is also the magician of Acts 8. "Widely read as a polemic against Paul under a pseudonym" is the repo's own wording in the held file's header.
+4. Satan cannot cast out Satan, so a Jesus who leaves the thorn is the prince of demons. A theological inference from Matthew 12:26 and 2 Corinthians 12:8-9; the texts do not connect.
+5. John Mark as a brother or nephew of Jesus. Acts 12:12 (Mary, mother of John Mark) and 12:17 ("tell James") are the whole basis; Mark 6:3 lists Jesus's brothers as James, Joses, Judas and Simon. Inference.
+6. The Pythian priestess needed an interpreter, like 1 Corinthians 14:27-28. Delphic responses were mediated by the *prophētai*; whether the Pythia herself spoke clearly is debated (Fontenrose argued she did). The parallel is his; Acts 10:46 and 19:6 (Luke) also report tongues without interpreters.
+7. The "super apostles" (2 Corinthians 11:5, 12:11) are James, Peter and John, and 11:13's "false apostles" are the Twelve. Commentators divide between the Jerusalem leadership (Käsemann) and intruding rivals distinct from the pillars (Barrett, Furnish); 11:22 ("Hebrews... Israelites") fits either. He identifies all three groups with the Twelve.
+8. 2 Corinthians 3:6 "the letter killeth" refers to the letter of recommendation. The context (3:3 "tables of stone," 3:7 "the ministration of death, written and engraven in stones") points to the Mosaic law; his reading is unusual and should be presented as his.
+9. Dispensationalism teaches that Jesus's earthly words do not bind. Hyper-dispensationalism (Bullinger, Stam) comes close; classical dispensationalism does not say Jesus's teaching is "outdated." Overstated as "90% of churches."
+10. The 30/60/100 commands as the Acts 15 graduated program. *Recognitions* 4.36's three steps are Peter's catechetical scheme in a third-to-fourth-century text; the match to Acts 15:21 is his.
 
 ---
 

@@ -10,7 +10,53 @@
 
 ## Summary
 
-*Notes pending.*
+First half of a read-through of the Habakkuk pesher (1QpHab, columns 1-5) from Eisenman's translation. He explains pesher as first-century prophecy application (like modern prophecy teachers mapping Isaiah onto current events) and then spends the first thirteen minutes on Josephus, *Antiquities* 20, to set the scene he thinks the pesher describes: Felix and Drusilla, Festus, the interregnum before Albinus, Ananus assembling the Sanhedrin to stone James "the brother of Jesus who was called Christ," the citizens' appeal to Agrippa, Ananus's bribes to Albinus, the high priests' servants taking the tithes of the poor priests by violence, and Costobarus and Saulus, kinsmen of Agrippa, leading gangs of "wicked wretches." He identifies that Saulus with Paul, who at the same period is in Agrippa's custody in Acts, and argues that no evidence makes them different men. He also brings in the Sicarii who kidnapped Ananus's son and later, he says, killed Ananus and desecrated his body, and suggests the Sicarii were affiliated with the Nazarenes.
+
+The pesher itself: "the traitors with the Man of Lies" who did not believe the Righteous Teacher are Paul's party; the Wicked Priest is Ananus; the Righteous Teacher is James (or possibly Yeshua as "the priest"); the Kittim are the Romans of 60-70 CE, not of Pompey's day as "scholars who want to keep this in the Maccabean period" say; the eagle, the "council house" (Senate), and the insolence toward the conquered all read as Rome; "those who keep the commandments only when convenient" are, he suggests, the Pharisees, since the Sadducees were the rigid party. He notes that Paul's repeated "I am not lying" is a defense against an accusation of lying, and that Galatians 4:16 ("have I become your enemy") shows Paul knew he was called the enemy.
+
+## Key Points
+
+- What a pesher is; Eisenman's edition. [00:00]-[01:35]
+- Acts 24-26 framing: Paul in custody at Caesarea with visits from Felix and Drusilla, whom he calls the first-century embodiment of Babylon; he cannot picture James, Cephas or Yeshua at their table. [01:35]-[03:08]
+- Festus, his death, Albinus on the road; Ananus uses the gap to kill James. [03:08]-[04:43]
+- Josephus read aloud: the Sanhedrin, the stoning, the appeal to Agrippa, Ananus deposed, bribes to Albinus and to the new high priest Jesus; the servants who take the tithes so that poor priests starve. [04:43]-[07:56]
+- Costobarus and Saulus named as the violent kinsmen of Agrippa; Paul as Agrippa's relative per his letters; the same figure attacks Stephen in Acts and leads the assault on James in the *Recognitions*; "if you're a believer in Paul you'll say it's a different Saulus, but there's no evidence for that." [07:56]-[09:33]
+- The Sicarii kidnap Ananus's son; Acts 21:20's "myriads zealous for the law" as the same men; Hegesippus and Josephus on Essene-related sects; the Sicarii's revenge on Ananus. [09:33]-[12:40]
+- Column 1: "how long shall I cry"; the last generation; strife, division, the Torah falling into disuse, judgment perverted, read as the tithe-stealing described by Josephus. [12:40]-[15:48]
+- "The wicked encompass the righteous": Wicked Priest = Ananus, Righteous Teacher = James; the traitors with the Man of Lies; the priest "in whose heart God put intelligence to interpret all the words of the prophets." [15:48]-[17:23]
+- The Man of Lying is Paul "from the other scrolls"; Paul's "I am not lying" refrain; "have I become your enemy"; his "What's up with Galatians" videos; "don't email me to tell me I'm full of it." [17:23]-[20:31]
+- The Kittim: scholars who place the scrolls in the Maccabean period "tiptoe around" the Roman identification or make it Pompey; he reads it as the Romans of 60-70. [20:31]-[22:12]
+- The Kittim's horses, the eagle, captives like sand; "they scoff at kings"; Josephus's story of the soldier's obscene gesture at Passover; the "council house" as the Senate. [22:12]-[27:00]
+- God will judge the nations by the hand of his elect; "those who kept his commandments only when convenient" as the Pharisees, with the Sadducees as the rigid party per Josephus and the Talmud. [27:00]-[29:45]
+
+## Sources He Cites
+
+Held:
+- Hegesippus on James (Eusebius, *Church History* 2.23.4-7) — held excerpt in `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md`.
+- Josephus, *Antiquities* 18.1.5 and *War* 2.8.5 (Essenes) — held in the same file. The James passage (*Antiquities* 20.9.1), the tithe passage (20.9.2), Costobarus and Saulus (20.8.8 / 20.9.4), the Sicarii kidnapping (20.9.3) and the Passover riot (20.5.3; *War* 2.12.1) are not held; cite at reference level.
+- KJV: Acts 21:20, 23:35, 24:24-27, 25-26; Galatians 4:16; Habakkuk 1-2.
+
+Not held: 1QpHab itself. The repo's DSS file holds 1QS, CD, 1QM, 1QHa and 4QMMT only and mentions the Habakkuk Commentary in passing, so none of the pesher text he reads can be quoted from the repo. Eisenman's translation is in copyright. Hegesippus's list of Jewish sects (*Church History* 4.22) is not held.
+
+## Where This Overlaps the Repo
+
+- `christianity/dead-sea-scrolls/00-overview.md` (`## Open Questions`) and the held DSS file (§4, "The Wicked Priest... likely a specific Hasmonean high priest"; "Kittim is the Essene code word for the dominant foreign power, almost certainly Rome in the 1st century BCE/CE context"): the repo agrees the Kittim are Rome and disagrees on the century. His James/Ananus identifications follow Eisenman, which the repo records as a minority view.
+- `christianity/james-the-just-key-to-understanding-jesus.md` (`### Historical Sources`): Josephus *Antiquities* 20.9.1 for the stoning, Hegesippus for the portrait, Schonfield for the Zealot revenge on the high priest, Eisenman as the DSS-James thesis. His Josephus summary [04:43]-[07:56] is a usable guide to that chapter.
+- Paul as Josephus's Saulus: `podcast-archive/the-jesus-way/023-exposing-paul-false-prophet.md`, his episode 004 in this folder, and `extended-library/jesus-words-only-notes.md` Claims to Check 26, which notes that Josephus's Saulus is active in Jerusalem in the 60s and goes to Nero after the revolt begins, which does not fit Paul's Acts chronology.
+- `extended-library/questioning-paul-notes.md` (ch. 12) reads Habakkuk 2 as naming Paul by a different route (Sheol/Sha'ul in 2:5) and notes 1QpHab's variant readings; a second, independent Habakkuk-and-Paul argument worth knowing when this one comes up.
+- The "I am not lying" refrain and "have I become your enemy": `questions/pauls-legitimacy.md` §5 and `christianity/clementine-literature-nazarene-writings.md` (`### Paul as "Enemy"`).
+- His episodes 059 (part two), 039-045 (Galatians series) and 150 (Habakkuk in the Greater Exodus series) in this folder.
+
+## Claims to Check
+
+1. Josephus's Saulus is Paul. Saulus appears in *Antiquities* 20.9.4 (c. 62-64 CE) and again in *War* 2.20.1, going to Nero after the revolt began in 66; Acts has Paul in Roman custody from c. 57-62. Eisenman's identification; the chronology is the standard objection and the JWO notes already flag it.
+2. The Sicarii killed Ananus and threw his body over the walls. Josephus, *War* 4.5.2, has Ananus killed by the Idumeans let into the city by the Zealots, and his body cast out unburied. The Sicarii under Eleazar had withdrawn to Masada by then.
+3. Hegesippus lists the Sicarii among Essene sects. Hegesippus's seven sects (Eusebius, *Church History* 4.22) are Essenes, Galileans, Hemerobaptists, Masbotheans, Samaritans, Sadducees, Pharisees; no Sicarii. Josephus's "fourth philosophy" is Judas the Galilean's, which he does not call Essene.
+4. The Kittim are the Romans of 60-70 CE and scholars avoid saying "Romans." Most scholars do read the Kittim of 1QpHab as Rome; the disagreement is the date, since the Cave 1 copy is palaeographically Herodian (late first century BCE) and the "capturing of cities" and tribute to "the Kittim" fit Pompey (63 BCE). The eagle and the Senate ("house of guilt") fit either period.
+5. The Pharisees as "those who keep the commandments only when convenient." Josephus (*Antiquities* 20.9.1) does say the Sadducees were harsher in judgment than other Jews, which supports half of his point; the pesher's own targets in column 5 are "the House of Absalom," unidentified. His Pharisee reading is a guess, as he says.
+6. Paul "in Agrippa's house" in Caesarea. Acts 23:35 has him kept in Herod's praetorium, the governor's residence; Agrippa visits in Acts 25:13. Minor, but "at a grip espouse" in the captions is this.
+7. Drusilla divorced a husband to marry Felix. *Antiquities* 20.7.2 says she left Azizus of Emesa for Felix. Correct.
+8. The Passover gesture story. *Antiquities* 20.5.3 and *War* 2.12.1, under Cumanus. Correct in substance.
 
 ---
 

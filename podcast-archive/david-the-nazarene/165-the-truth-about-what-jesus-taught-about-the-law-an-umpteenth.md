@@ -10,7 +10,58 @@
 
 ## Summary
 
-*Notes pending.*
+A long restatement, prompted by a commenter who said he never specifies which parts of the Torah to keep, of his standing position: the written Torah is a mixture of truth and falsehood, Jesus kept the Torah and spoke only against the additions, and the way to tell them apart is the one Peter gives in the Clementines. After sixteen minutes on the exchange (the commenter said obeying the Torah means cold-blooded murder; he says he has made thirty or forty videos on the subject), he reads the governing passages: *Recognitions* 1.15-17 (the smoke-filled house; only the True Prophet can clear it; once his credentials are established, believe him in everything; Clement's scroll sent to James at Peter's command), *Recognitions* 2.33 (an apostle may not speak anything of his own; a prophet cannot be contrary to himself, which he says destroys dispensationalism and the "Jesus according to the spirit" who taught Paul differently), *Homilies* 2.38 (falsehoods added to the written law after Moses; safer to disbelieve things against God than to believe them), *Homilies* 2.40-44 (the chain of "if he lies, who speaks truth... if he is fond of sacrifices, who is without need," which he sums up as "everything spoken or written against God is false"), *Homilies* 3.47 (the law given orally to seventy elders, written down after Moses, found in the temple five hundred years later, burnt under Nebuchadnezzar; Deuteronomy 34:6 as internal evidence, with Numbers 12:3 as his own addition; he says this matches Friedman, *Who Wrote the Bible?*, and the ANF footnote agrees), *Homilies* 3.49 (Genesis 49:10 as the one verse that identifies the Prophet), *Homilies* 3.50-52 (the Sadducees "not knowing the true things of the scriptures"; "be ye prudent money-changers"; "I am not come to destroy the law" while appearing to destroy parts of it; "not one jot" means whatever passes away was never law; sacrifices, kingdoms and prophecies born of women have passed; every plant not planted; the gate of life), and *Homilies* 3.53-56 (Jesus's sayings that correct scripture: let your yea be yea against God swearing, the God of the living, the tempter is the evil one, the Father sees in secret, good gifts, mercy not sacrifice, call no one good, "Hear, O Israel").
+
+Applications along the way: eye for an eye as a Hammurabi addition that Jesus corrected; lust as the tenth commandment restated; Matthew 23:23 confirms tithing, but of produce for the poor, not money for churches; Acts 10 is about people; Sukkot kept though the critics think Ezra introduced it; creation as "more the word of God than the Bible," with an aside against flat-earth commenters; Jesus's death as self-sacrifice, not a sin offering, since he forgave sins before the cross; Acts as a legal brief and the *Recognitions* as the true Acts; the Gospel of the Hebrews as the original Matthew; *pisteuō eis* as "obey unto."
+
+## Key Points
+
+- The commenter dispute, Luke 6:26, and his refusal to be misquoted. [00:00]-[16:00]
+- *Recognitions* 1.15-16: the smoke-filled house; only the True Prophet can open the door; prophets born of women see less clearly; Jesus as a second Adam. [17:08]-[28:08]
+- *Recognitions* 1.16-17: examine the Prophet's credentials once, then believe him in everything ("the part that gets me in trouble"); confirm the prophets by the Messiah, not the Messiah by the prophets; Clement's scroll to James. [28:08]-[34:22]
+- Rhetorical art versus plain truth; Paul's thesis-antithesis-synthesis as the reason his letters contradict themselves. [34:22]-[37:30]
+- *Recognitions* 2.33: the commission is to teach what was committed, not to speak one's own things; a false apostle "wishes to show himself better than he by whom he is sent"; "he is a prophet and cannot be contrary to himself." [37:30]-[43:45]
+- *Homilies* 2.38: falsehoods added to the written law "after some time"; safer to disbelieve than to hold blasphemous things; Friedman recommended. [43:45]-[48:25]
+- "Everything spoken or written against Elohim is false," and the postponement that let Peter instruct Clement. [48:25]-[53:05]
+- *Homilies* 2.40-44 read: if he lies, who speaks truth; if he changes his purpose, who is steadfast ("sorry, dispensationalists"); if he is fond of sacrifices, who is without need; if he chooses evil men ("like John Nelson Darby... and Paul"). The positive portrait of God that follows. [53:05]-[1:02:26]
+- *Homilies* 3.47: oral Torah to seventy; written later; Deuteronomy 34:6; the ANF footnote on "the post-exilian theory of the Pentateuch"; Ezra and Sukkot. [1:02:26]-[1:07:12]
+- Creation as the test of scripture; the Mobile Bay curvature aside. [1:07:12]-[1:10:19]
+- *Homilies* 3.49-50: Genesis 49:10; "a mixture of truth with falsehood"; the Sadducees; prudent money-changers; the Gospel of the Hebrews as the original. [1:10:19]-[1:15:01]
+- *Homilies* 3.51-52: not come to destroy; eye for an eye and Hammurabi; lust and coveting; not one jot; sacrifices passed away; every plant; the gate of life; "there is no other teaching able to save." [1:15:01]-[1:21:13]
+- *Homilies* 3.53-56: the sayings that correct scripture; the Father "gives good gifts" against those who call YHWH a fallen angel; mercy not sacrifice; Hear, O Israel. [1:21:13]-[1:25:57]
+- Closing on Sukkot and the two Clementine texts. [1:25:57]-[1:28:24]
+
+## Sources He Cites
+
+Held, and checked against `christianity/Incoming/clementine-homilies-full-text.md` and `clementine-recognitions-full-text.md` (ANF 8):
+- *Homilies* 2.38 ("For the Scriptures have had joined to them many falsehoods against God"): verbatim. He cites the right locator; `questions/CITATION-NOTES.md` #1 records that the repo once miscited this as *Recognitions* 1.69.
+- *Homilies* 2.40-44 (the "if he lies, who speaks truth" chain), 3.47 ("The law of God was given by Moses, without writing, to seventy wise men"), 3.50 ("As to the mixture of truth with falsehood... Be ye prudent money-changers"), 3.52 ("while the heaven and the earth still stand, sacrifices have passed away, and kingdoms, and prophecies among those who are born of woman... Every plant"), 3.53-56 (yea be yea; God of the living; the tempter is the wicked one; mercy and not sacrifices; Hear, O Israel): all verbatim in substance.
+- *Recognitions* 1.15-17 and 2.33 ("I should be a false apostle... he is a prophet, and cannot be contrary to Himself"): verbatim in substance.
+- KJV: Matthew 5:17-19, 5:27-28, 5:38-39, 7:9-11, 12:26, 15:13, 23:23; Luke 6:26; Jeremiah 8:8 (cited as Jeremiah, correctly); Deuteronomy 34:6; Numbers 12:3; Genesis 49:10; Hosea 6:6; Acts 10:28; Nehemiah 8:17 implied.
+
+Not held: Richard Elliott Friedman, *Who Wrote the Bible?* (1987); the Code of Hammurabi; the ANF editors' footnotes are in the held files.
+
+## Where This Overlaps the Repo
+
+- `christianity/clementine-literature-nazarene-writings.md` (`### The Torah Was Corrupted`) and `questions/CITATION-NOTES.md` #1 and #3: the repo's corrected citations are exactly the two he gets right here (*Homilies* 2.38 for the falsehoods, Jeremiah 8:8 for the lying pen, with "the false pericopes doctrine" running 3.42-50). This episode is a usable guided tour of that material.
+- `questions/jesus-and-the-torah.md` (Matthew 5:17-19; "fulfill"; the Sabbath) and `questions/method-and-criteria.md`: the repo's criterion for sorting original from added material is redactional (distrust changes that move toward the redactor's theology); his criterion is Peter's ("everything written against God is false," plus agreement with creation). Different tools, overlapping results on sacrifice.
+- `questions/sacrifice-culture-vegetarian-jesus.md`, `questions/nazarene-sect-sacrifice-and-diet.md` and `christianity/prophetic-tradition-against-sacrifice.md` (Hosea 6:6, Jeremiah 7:21-22, *Recognitions* 1.36-39) for the sacrifice half of his reading; `questions/blood-atonement-and-salvation.md` for his claim that the crucifixion was self-sacrifice rather than a sin offering.
+- `extended-library/jesus-words-only-notes.md` Key Argument 13 (Jesus as sole teacher; apostles as messengers) is the same point as *Recognitions* 2.33; `questions/pauls-legitimacy.md` (the Clementines objection) for the dating the repo assigns the texts he calls "the true Acts."
+- `questions/pauls-legitimacy.md` ("How we weight Acts") against his Mauck-based reading of Acts (see 171).
+- His own series in this folder: 006 and 010 ("I came to abolish sacrifices"), 007 ("Every plant"), 063 (JEPD), 066 ("the lying pen of the scribes"), 081-086 (the objection series), 185-189 (Ebionite 101-202), and 184 for the Gospel of the Hebrews. The captions twice render his name as "Brad" [49:59] [56:12]; the channel is David's.
+
+## Claims to Check
+
+1. Jesus forgave sins before the cross, so the crucifixion was not for forgiveness. The blood-atonement card has the texts a reader will raise (Mark 10:45, Matthew 26:28, Luke 22:37 with Isaiah 53), which `questions/CITATION-NOTES.md` lists as the three that must never be absent.
+2. Eye for an eye "came from the Code of Hammurabi" and was added to the Torah. Hammurabi 196-200 has the talion; so does Exodus 21:23-25; shared ancient Near Eastern law, not demonstrated borrowing. *Homilies* 3.51's point is only that Jesus's "but I say unto you" corrects something.
+3. *Homilies* 3.47 is "confirmed by modern textual criticism" and matches Friedman. The ANF footnote does say the passage anticipates "the post-exilian theory of the Pentateuch." Friedman's documentary hypothesis is source criticism, and it does not have Moses delivering the law orally to seventy men or a single scroll burnt under Nebuchadnezzar. Partial match.
+4. Sukkot was unknown before Ezra. Nehemiah 8:17 says the feast had not been kept "since the days of Jeshua the son of Nun," which is the critics' hook; "Ezra invented it" is the strong form, which he half-withdraws.
+5. *Pisteuō eis* means "obey unto." The verb means believe, trust, entrust; the obedience sense comes from Hebrew *emunah* and from John 3:36's *apeitheō* contrast, not from the lexicon entry.
+6. The *Recognitions* are "the true Acts of the Apostles" and should replace Acts. The repo places the Clementines at tier 5 of the source hierarchy as early church writings preserving Jewish-Christian tradition, dated third to fourth century, with a first-century source behind *Recognitions* 1.27-71 (see `extended-library/nazarene-acts-snyder-notes.md`).
+7. Acts as a legal brief with Theophilus as Nero's investigator. See the 171 notes; Mauck's thesis, minority.
+8. Jesus as "a reincarnation of Adam." The True Prophet doctrine (*Homilies* 3.17-20; Epiphanius, *Panarion* 30.3.3-5, held) has the Spirit that was in Adam appearing in Jesus; "reincarnation" is his gloss and he marks it as a maybe.
+9. The Gospel of the Hebrews was the original gospel and the church burned it. See the 184 notes; the repo's `christianity/hebrew-gospel-of-matthew.md` has the patristic evidence and the losses.
+10. "Everything written against God is false" as a complete rule. *Homilies* 2.38-52 is the source and he reads it accurately; note that the repo's own method card treats the Clementine false-pericopes doctrine as a tradition to weigh, not as the rule by which the Torah is edited.
 
 ---
 

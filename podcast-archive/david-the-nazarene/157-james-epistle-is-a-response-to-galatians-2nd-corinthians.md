@@ -10,7 +10,54 @@
 
 ## Summary
 
-*Notes pending.*
+Made after the blowback on episodes 155 and 156, this argues that the Epistle of James is a direct reply to Galatians, with some responses to 1 and 2 Corinthians. Setup first: Acts 15's ruling was four "starter" commands for Gentiles "who are turning," so they could enter the synagogue and hear Moses (15:21); Galatians 2 describes the same visit (meeting, circumcision discussed, instructions, Antioch, the split from Barnabas, who in Acts 15:39 leaves over John Mark, whom he takes for another brother of Jesus); 1 Corinthians 8 and 10 then permit idol meat to those with *gnosis* and tell the knowledgeable to abstain only for the sake of the other man's conscience; 1 Corinthians 9:19-22 ("to the Jews as a Jew") and Romans 3:7 are read as Paul admitting he misrepresents himself; 2 Corinthians 12:7's "angel of Satan" (he says translations hide the word angel) in the flesh is possession, and Paul's Jesus refuses three times to remove it. The apostles accepted him at first because he misled them and only gradually saw he was not following the ruling.
+
+Then the parallels. Galatians 1:3-9 blesses God and curses men: James 3:9-10. Galatians 1:20 "before God, I lie not": James 5:12, swear not. Galatians 2:16 and 3:6-9 (justified by faith; Abraham believed): James 2:14-26 uses the same Genesis 15:6 and the same Leviticus 19:18 to the opposite end; "you foolish Galatians" is answered by "O vain man"; "God is one" occurs, he says, only in Galatians 3:20 and James 2:19; "Christ lives in me" is answered by James calling the man empty. Galatians 5:1's yoke of slavery: James 1:25 and 2:12's law of liberty. 2 Corinthians 10-12 (boasting, "another Jesus, a different spirit," super apostles, the angel of Satan, "my grace is sufficient"): James 3:1-4:16 (the tongue, "earthly, sensual, devilish" wisdom, "he giveth more grace," resist the devil, do not judge the law, "all such boasting is evil"). He adds *Recognitions* 4.35 (no teacher without James's testimonial) as the decree behind 2 Corinthians 3:1's letters of recommendation, and the Pythian "spirit of divination" of Acts 16:16 as a possible source of Paul's tongues.
+
+## Key Points
+
+- The occasion; James 1:13 against 1 Corinthians 10:13 as one possible non-Galatians response. [00:00]-[01:34]
+- Acts 15 as starter commands for those "turning"; Eusebius on James as head of the church; verse 21 as the key; Galatians 2 and Acts 15 as the same seven events; John Mark and the Barnabas split. [01:34]-[07:51]
+- 1 Corinthians 8 and 10: idol meat as a fellowship meal with a demon; *gnosis* and Gnosticism; "eating in an idol's temple"; the "other man's conscience"; why the apostles accepted Paul at first. [07:51]-[17:20]
+- 1 Corinthians 9:19-22 as lying; Romans 3:7; the accusations Paul keeps answering come from the church leadership. [17:20]-[18:57]
+- 2 Corinthians 12:7-9: "angel of Satan," possession versus harassment (his own experience), a Jesus who will not cast it out. [18:57]-[22:06]
+- Galatians 1: the unnamed "some" as superiors; "not from men"; blessing God and cursing men; James 3:9-10 as the reply; Galatians 1:20 and James 5:12 on oaths. [22:06]-[29:50]
+- Galatians 2: "by revelation"; "those who seemed to be somewhat"; the false brethren as the men from James; Peter as apostle to the uncircumcised; verse 10 "only the poor" untrue against Acts 15; Antioch, everyone against Paul; why Peter withdrew. [29:50]-[37:44]
+- Galatians 2:16 and James 2:14-26; 2:20 and 3:1-5 ("foolish Galatians"; "Christ liveth in me") answered by "O vain man"; "God is one" in only two places. [37:44]-[40:51]
+- Galatians 3:6-9 and James 2:21-24: same proof text, opposite conclusion; how he knows James is the responder (the rhetorical "do you not know"). [40:51]-[42:26]
+- Galatians 5:1, 5:13-14 and James 1:25, 2:8-12: yoke of slavery against the law of liberty; the royal law. [42:26]-[44:02]
+- *Recognitions* 4.35, the testimonial of James, as a decree made after Antioch; 2 Corinthians 3:1, 5:12, 6:3-8, 10:10-18 as Paul's evasions; the apostles as the ones discrediting his ministry. [44:02]-[51:51]
+- 2 Corinthians 11:1-12:13 read at length: another Jesus, a different spirit, super apostles; Acts 2 tongues against interpreter-tongues and Acts 16:16; "false apostles"; the hardship list; the third heaven; the thorn. [51:51]-[1:04:21]
+- James 3:1-4:16 read as the reply: the tongue, demonic wisdom, "he giveth more grace," resist the devil, judging the law, "all such boasting is evil." [1:04:21]-[1:12:13]
+- Summary of the case. [1:12:13]-[1:13:31]
+
+## Sources He Cites
+
+Held (KJV): Acts 15:19-21, 15:36-41, 16:16; Galatians 1-3, 5; 1 Corinthians 8, 9:19-22, 10:13, 10:27-30; Romans 3:7; 2 Corinthians 3:1-6, 5:12, 6:3-8, 10-12; James 1:13, 1:25, 2:8-26, 3:1-18, 4:1-16, 5:12. KJV James 2:19 reads "Thou believest that there is one God"; Galatians 3:20 "God is one" (Greek: *heis estin ho theos* / *ho de theos heis estin*). *Recognitions* 4.35 (testimonial of James) — held, verified. Eusebius on James as head of the Jerusalem church — *Church History* 2.23.1, outside the held excerpt (2.23.4-7); reference level.
+
+Not held: Josephus (captions are ambiguous between "Eusebius" and "Josephus" at [03:07]); the Greek of 2 Corinthians 11:5 (*hyperlian apostolōn*, "super apostles," which he rightly says the translation on screen softens).
+
+## Where This Overlaps the Repo
+
+- `questions/pauls-legitimacy.md` §4 and the James 2 objection are the repo's compact form of his central point: the same proof text (Genesis 15:6) with the opposite function, and James 2:24 negating "faith alone" by name, which nobody else in Second Temple Judaism taught. His video extends the method to the whole epistle (3:9-10, 5:12, 1:25, 3:14-4:16) and adds the "God is one" and "foolish / vain man" verbal links, which are new to the repo and checkable.
+- `christianity/james-the-just-key-to-understanding-jesus.md` (`### James vs. Paul`) and `extended-library/jesus-words-only-notes.md` (ch. 11, "Was James writing his epistle for a trial of Paul?") hold the two existing versions of "James answers Paul"; Del Tondo's is a trial brief at Ephesus, his is a reply to Galatians and 2 Corinthians.
+- `christianity/paul-false-prophet-deuteronomy-18-test.md` (`## Paul's Own Admissions`) already renders 2 Corinthians 12:7 as *angelos satanos* "embedded in his flesh"; `extended-library/questioning-paul-notes.md` (ch. 00, check 4) marks the possession reading as interpretive.
+- `christianity/acts-15-james-four-decrees.md` and `questions/pauls-legitimacy.md` §3 for the idol-meat reversal; the "those who are turning" reading is his episode 154 and the notes to 171-172.
+- `questions/jesus-and-the-torah.md` for the law of liberty / Two Ways reading of James; `questions/pauls-legitimacy.md` on Luther and James.
+- The *Recognitions* 4.35 testimonial and 2 Corinthians 3:1 pairing is also in episode 173; the Pythian spirit in 173 as well.
+
+## Claims to Check
+
+1. "God is one" occurs only in Galatians 3:20 and James 2:19. Romans 3:30 (KJV "it is one God," Greek *heis ho theos*), 1 Timothy 2:5 ("there is one God") and Mark 12:29, 32 carry the same Shema language. The Galatians-James pair is still the closest verbal match, but "only two places" is wrong.
+2. James replies to Galatians rather than the reverse, and both are mid-first-century. Scholarship divides: James as pre-Pauline, as a reaction to a misread Paulinism, or as pseudonymous and late; Luke Timothy Johnson denies literary dependence either way. The "foolish Galatians" / "vain man" link is suggestive, not decisive.
+3. Galatians 2 is the Acts 15 visit. Disputed (the Acts 11:30 famine visit is the alternative); the "only the poor" argument depends on it.
+4. 1 Corinthians 9:19-22 is Paul confessing deception. The repo's Deuteronomy 18 file lists the verse under "all things to all men" and the Shabbat Studies notes call Paul "unfalsifiable" on it; "lying" is a harder reading than either.
+5. Romans 3:7 is Paul admitting he lies. The verse is a diatribe objection Paul is rejecting (3:5-8, "whose damnation is just"); it cannot be quoted as a confession.
+6. Translations "hide" that 2 Corinthians 12:7's messenger is an angel. *Angelos* means both; the KJV has "messenger," and the repo's own file gives the Greek. No cover-up is needed to make the point.
+7. Peter was the apostle to the uncircumcised. Galatians 2:7-8 says the opposite (Peter to the circumcised); Acts 10 and 15:7 have Peter first to the Gentiles. He is reading Acts against Galatians, and should say so.
+8. *Recognitions* 4.35 records a decree made after Antioch. The *Recognitions* are third-to-fourth-century; dating the testimonial rule to the 50s is inference (`questions/pauls-legitimacy.md`, the Clementines objection).
+9. John Mark as a brother of Jesus and one of the men from James. Acts 12:12 and 12:17 are the whole basis; Mark 6:3 does not list him. Inference (see 173).
+10. Paul's tongues came from the Pythian spirit of Acts 16:16. His "I wonder if"; Acts 10:46 and 19:6 report tongues without interpreters in Luke too.
 
 ---
 

@@ -10,7 +10,56 @@
 
 ## Summary
 
-*Notes pending.*
+Part one of three, prompted by a Facebook thread in which he was asked to supply verses for four claims: that Paul spends "a great deal of ink" denigrating the Twelve in Galatians and 2 Corinthians, calls them false apostles, says they teach a different gospel, Jesus and spirit, and boasts of being possessed by an angel of Satan. This part is scene-setting. He lays out a proposed order of the correspondence: the Acts 15 conference (four "purity commands" for Gentiles "who are turning," so that they can enter the synagogue and hear Moses weekly, Acts 15:21); 1 Corinthians, with its idol-meat permission; James learning of it and sending men to Antioch; Peter withdrawing from table fellowship and Paul losing the argument "by his own admission" (Galatians 2:11-14); 2 Peter and Jude; Galatians and 2 Corinthians as Paul digging in; James's epistle as the point-by-point reply; Romans as a toned-down overture; the collection brought to Jerusalem and redirected by James to the temple vows as a "trial by fire"; arrest, appeal to Nero, release, Spain. He explains why the apostles did not denounce Paul at once: they took him for an ordinary new believer or street preacher and only gradually saw how far off he was.
+
+The part's main new material is John W. Mauck's *Paul on Trial* (captions: "John W. Mock"), which he endorses: Luke-Acts was written as a legal brief for Paul's hearing before Nero, addressed to "most excellent" Theophilus as a court official; the charge was that Paul taught a new religion not covered by Judaism's exemption; Mauck counts 14 charges, 16 trial scenes and 59 defense arguments; Acts ends before the verdict because briefs do not record verdicts. From this he draws two conclusions he will use in parts two and three: Acts is not written for doctrine, and because a false court document meant death, Acts is more trustworthy than Galatians and "exposes several things Paul lied about."
+
+## Key Points
+
+- Why the apostles were slow to react: Paul's low status, the Holy Spirit is "not a magic eight-ball," and the circumcision issue was Paul's preoccupation rather than theirs; Eisenman on circumcision being illegal under Roman law. [00:00]-[06:19]
+- Paul's three Jerusalem visits in Acts (9, 15, 21), Rome, Spain, death "of natural causes" per the earliest references; a possible fourth visit, since Josephus places a Saulus in Jerusalem near the death of James. [06:19]-[07:53]
+- Acts 15: the four commands are for people "turning" to God, not full converts, to get them in the door to hear Moses. [07:53]-[09:26]
+- The timeline of letters: 1 Corinthians read by James; men sent to Antioch; Peter withdraws; Paul loses; 2 Peter and Jude; Galatians and 2 Corinthians; James's epistle; Romans; the collection. [09:26]-[17:21]
+- Church-discipline aside on fornication and admission to the assembly. [11:00]-[12:33]
+- Acts 21: the Nazarenes, as an Essene sect, used bloodless offerings at a temple run by Herodian appointees; James, who prayed in the temple (camel's knees, which he credits to Epiphanius; Eisenman's "opposition high priest"), sends Paul in with the money as a test; the riot proves Paul was not what he claimed. [17:21]-[22:05]
+- Mauck's thesis: Luke-Acts as trial documentation; "most excellent" as a court address; Theophilus as an investigator in Nero's court; the charge of a new religion; why the brief could not air the Paul-James divisions; the believers called "Jews" in Acts for the same reason. [22:05]-[36:09]
+- Mauck's counts (14 charges, 16 trials, 4 trials of other Christians, 59 defenses, procedural irregularities); false documents meant death for Paul and possibly Luke; therefore Acts is more dependable than Galatians, where Paul "can lie all day long." [36:09]-[40:55]
+- Acts as "the best evidence against Paul"; the trial as a possible trigger of Nero's persecution. [40:55]-[42:28]
+- The Facebook thread: "if we didn't have Paul's letters would your walk be different?"; apostle means emissary; a messenger does not outrank the sender. [42:28]-[47:10]
+- His comment and the challenge to cite verses; the Luke 19:27 anecdote (a pastor who did not know Jesus said "slay them before me"); Paulists who do not know Paul. [47:10]-[53:25]
+- Read each letter as a whole; his playlist; Peter's vision in Acts 10 is about people, not food. [53:25]-[59:40]
+
+## Sources He Cites
+
+Held:
+- KJV: Acts 15:19-21, 21:20-26, 23:26, 24:3, 26:25; Luke 1:3; Galatians 2:11-14; 1 Corinthians 8 and 10; Romans 16:11; 2 Corinthians 12:7; Luke 19:27; Acts 10:28, 11:12.
+- Hegesippus on James in the temple and the camel's knees — Eusebius, *Church History* 2.23.6, held in `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md`. He credits Epiphanius; Epiphanius, *Panarion* 78.13-14 (held, book 3) has James entering the Holy of Holies once a year and wearing the priestly plate, but the camel's knees are Hegesippus.
+- Josephus, *Antiquities* 18.1.5 and Philo, *Every Good Man* 75 on Essene offerings — held in the witnesses file, each with a note on what it does not say.
+
+Not held: John W. Mauck, *Paul on Trial: The Book of Acts as a Defense of Christianity* (2001); Eisenman on the Lex Cornelia and on James as opposition high priest; Josephus *Antiquities* 20.9 (Saulus); the "earliest historical references" for Paul's death in Spain (unnamed).
+
+## Where This Overlaps the Repo
+
+- `questions/pauls-legitimacy.md` states the repo's method for Acts up front ("How we weight Acts"): Acts is late (c. 80-110) and irenic, trusted where it embarrasses its own agenda, and where Acts and the letters conflict the letters win. His Mauck-based view (Acts written c. 62 as a brief, truthful under penalty of death, and so able to convict Galatians of lying) is the mirror image. The card's objection "You cite Acts when it suits you" is the one his approach will meet; the repo deliberately does not run Acts against Paul's honesty.
+- `christianity/acts-15-james-four-decrees.md` (`## The Most Misread Chapter in Acts`, `### Paul's Contradiction`, `### The Didache Confirms`) and `questions/pauls-legitimacy.md` §3 carry the same core point: James ruled, Paul reversed it on idol meat. The repo reads the decrees as a diet-and-ethics code; he reads them as entry requirements for people still "turning," with Acts 15:21 as the key, which is a different and checkable emphasis.
+- The Antioch incident read from Peter's side: `questions/pauls-legitimacy.md` (the Galatians 2:9 objection, Acts 21:20-25 "a decade later"), `christianity/james-the-just-key-to-understanding-jesus.md` (`### James vs. Paul`), and `podcast-archive/shabbat-studies/06-ch4a-the-one-about-paul.md` ("Peter's side of the story").
+- James praying in the temple: `questions/CITATION-NOTES.md` #2 corrected the repo's own files on this; Hegesippus says James *was* admitted, which is what he uses here.
+- Essenes and sacrifice: `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md` holds exactly what Josephus and Philo say and notes the limits; `questions/nazarene-sect-sacrifice-and-diet.md` and `questions/sacrifice-culture-vegetarian-jesus.md` for the Nazarene practice.
+- James's epistle as a reply to Paul: `extended-library/jesus-words-only-notes.md` ch. 11 (James as a brief for a trial of Paul at Ephesus) and `questions/pauls-legitimacy.md` §4; his version (a reply to Galatians and 2 Corinthians) is in episode 157.
+- The collection and Acts 21: his episodes 088-089 and 154 in this folder; Luke-Acts as a legal defense is also the frame of his Pythagorean series (073-078).
+
+## Claims to Check
+
+1. Luke-Acts as a trial brief for Nero (Mauck). A minority thesis that requires Acts to be written before 62 CE; the repo dates it 80-110. Luke 1:3 has "most excellent Theophilus," Acts 1:1 drops the title (he notes this). The specific counts (14 charges, 16 trials, 59 defenses) are Mauck's and should be attributed to him.
+2. Submitting a false document to Nero's court carried the death penalty. Roman *falsum* (Lex Cornelia de falsis) covered forged wills, seals and coinage, with penalties that varied by status; "death for a false brief" is overstated and the argument that Acts is therefore more reliable than Galatians rests on it.
+3. Paul died of natural causes in Spain according to the earliest references. 1 Clement 5 (c. 96) says Paul reached "the limits of the west" and then "departed"; the Muratorian fragment and the *Acts of Peter* mention a Spanish journey; Eusebius, *Church History* 2.25, citing Dionysius of Corinth, Gaius and Tertullian, has Paul executed in Rome under Nero. The martyrdom is the older tradition, not the newer one.
+4. Josephus places Paul in Jerusalem shortly before the destruction near the death of James. That is Josephus's Saulus (*Antiquities* 20.9.4), Eisenman's identification; see episode 058 and the JWO notes, Claims to Check 26.
+5. Circumcision was illegal in the Roman Empire in Paul's day (Eisenman's "Lex Cornelia"). The ban is Hadrian's (130s CE), with Antoninus Pius exempting Jews; the Lex Cornelia de sicariis was applied to circumcision in the third-century jurists (Digest 48.8.11). Not in force in the 40s-50s.
+6. Acts 15:19 "those who are turning" means not-yet converts. The Greek participle is present (*tois epistrephousin*), so his grammar is right; the inference that the decrees are starter rules rather than the Gentile rule is interpretation. The repo's acts-15 file reads them the other way.
+7. The Nazarenes had "a deal set up" to offer money or grain instead of animals at the temple. Josephus (*Antiquities* 18.1.5, held) says the Essenes send votive offerings but are excluded from the common court and perform their sacrifices apart; Philo (*Every Good Man* 75, held) says they do not sacrifice animals. No source describes an arrangement for the Nazarenes.
+8. James "refused the money" and redirected it. Acts 21 does not mention the collection at all (only 24:17); the redirection to the vow expenses is inference, as is James setting a trial by fire.
+9. The camel's knees are Epiphanius. Hegesippus via Eusebius (held); Epiphanius gives the Holy of Holies and the priestly plate instead.
+10. Nero's persecution triggered by Paul's trial. Tacitus (*Annals* 15.44) links it to the fire of 64; no source connects it to the hearing. His own "possibly."
 
 ---
 
