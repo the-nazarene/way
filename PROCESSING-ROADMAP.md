@@ -43,11 +43,11 @@ The full method (stages, which model does what, quality checks, rights, git habi
 - Sabbath-to-Sunday research from Veith's public-domain sources (Next Up 6c).
 - The four Tabor guest appearances on other channels (Next Up 2d).
 
-**Tomorrow (2026-10-21), in order**
-1. Fill in the audit worksheet, A2-A15 (Next Up 17), and share it with Matt and the group.
-2. The Opus-versus-Fable comparison test (Next Up 16).
-3. The Sabbath-to-Sunday research draft (Next Up 6c).
-4. Downloads (Next Up 10, 12): still rate-limited by YouTube; an Apify token would finish them in minutes.
+**In progress 2026-10-21** (all on Opus 5.5)
+1. Audit worksheet A2-A15 (Next Up 17).
+2. Opus-versus-Fable test (Next Up 16): Opus is redoing Shabbat Ch 3A blind, in a scratch copy, for comparison with the Fable notes.
+3. Sabbath-to-Sunday research draft (Next Up 6c), as `christianity/DRAFT-sabbath-to-sunday.md`.
+4. Downloads retried for the 85 missing transcripts (82 David The Nazarene, 3 SixSeven).
 
 **Waiting on people**
 - Rex: which item 9 research-file changes to apply (D1); create the private library repo (D5); send Chris the source questions (Next Up 8).
@@ -74,7 +74,7 @@ In order. Put your name in **Who** when you take one.
 | 5 | Public-domain Drive texts added and registered in `VERIFIED-SOURCES.md` (2026-10-20): 1 Maccabees (KJV Apocrypha, `christianity/Incoming/kjv-apocrypha/1-maccabees.md`, Tier 1) and the Book of Jasher (1840 translation, `christianity/Incoming/jasher-1840-full-text.md`, Tier 4 because it's medieval). Enoch and Jubilees were already held in full; Charles's 1917 Enoch added | Chris Crutchfield | Claude | [x] |
 | 6 | Notes files done 2026-10-20: `extended-library/jesus-words-only-notes.md` (all 18 chapters and 4 appendices, 13 key arguments, 44 claims to check) and `extended-library/questioning-paul-notes.md` (all 13 chapters, read in three parts and merged). Both 🔴 flagged; our summaries with short attributed quotes only | Chris Crutchfield | Claude | [x] |
 | 6a | Notes done 2026-10-20 for the other 🔴 copyrighted works: `extended-library/nazarene-acts-snyder-notes.md` (Snyder's edition is Smith's 1886 text with Hebrew-name substitutions; a few changes alter meaning, e.g. 1.39 adds "which is Y'shua"; David The Nazarene's NazActs readings follow this edition) and `extended-library/articles-batch-2026-10-20-notes.md` (Davidmann, Veith, the "Christian" article) | Chris Crutchfield | Claude | [x] |
-| 6c | New research gap: no repo file covers the history of the Sabbath moving to Sunday. Veith's article quotes about 15 denominational sources, 11 of them public domain by date (listed in `extended-library/articles-batch-2026-10-20-notes.md`), and the held Didache ch. 14 ("On every Lord's Day") bears on it. Candidate for `OPEN-RESEARCH.md` | Chris Crutchfield | | [ ] |
+| 6c | New research gap: no repo file covers the history of the Sabbath moving to Sunday. Veith's article quotes about 15 denominational sources, 11 of them public domain by date (listed in `extended-library/articles-batch-2026-10-20-notes.md`), and the held Didache ch. 14 ("On every Lord's Day") bears on it. Candidate for `OPEN-RESEARCH.md` | Chris Crutchfield | Claude (drafting 2026-10-21; Rex and Matt review) | [ ] |
 | 6b | Clementine Homilies translator credit corrected 2026-10-20: ANF vol. 8 splits the Homilies among Thomas Smith (Books I-V), Peter Peterson (VI-XII) and James Donaldson (XIII-XX); the repo had credited Peterson alone. Fixed in the file header, `VERIFIED-SOURCES.md`, and five Reading Room citations (Homilies 2.38, 3.45, 3.48-51 and 3.51 are Smith's; Peter's letter to James has no named translator). Site build passes | Chris Crutchfield | Claude | [x] |
 | 7 | Shabbat Studies overview done 2026-10-20: `podcast-archive/shabbat-studies/00-overview.md` (chapter guide, main arguments, combined sources, where it meets the repo, 173 combined claims to check with 74 duplicates merged, 17 questions for the hosts) | Chris Crutchfield | Claude | [x] |
 | 8 | Ask Chris for his sources. The top three: Joseph of Arimathea as Jesus's father; the Petrine text calling it "a religion of blood"; the Edomite priesthood since 160 BC. The full list of 17 is in the overview's "Questions for the Hosts" | Chris Crutchfield | Rex | [ ] |
