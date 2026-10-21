@@ -44,7 +44,7 @@ The full method (stages, which model does what, quality checks, rights, git habi
 - The four Tabor guest appearances on other channels (Next Up 2d).
 
 **In progress 2026-10-21** (all on Opus 5.5)
-1. Audit worksheet A2-A15 (Next Up 17).
+1. Audit worksheet A2-A15 (Next Up 17): done; ready to share.
 2. Opus-versus-Fable test (Next Up 16): done; Opus matched Fable, so it stays the default.
 3. Sabbath-to-Sunday research draft (Next Up 6c): drafted, waiting on review (D7).
 4. Downloads retried for the 85 missing transcripts (82 David The Nazarene, 3 SixSeven).
@@ -87,7 +87,7 @@ In order. Put your name in **Who** when you take one.
 | 14 | Panarion audit done 2026-10-20 (report: `Incoming/proposals/item-14-panarion-audit.md`, local). 25 quotations in 15 files checked against Craig Wescoe's translation, and the key passages against Holl's Greek (Craig's English is accurate at every passage checked). Problems found in our own research files, with fixes proposed: "the wrath of God" and "Passover lamb" (neither word is in the Greek); a Sect 18 sentence about the pre-Christian Nasaraeans used for the Nazarenes in 7 places; "Berea near Pella"; one quotation not found (`the-essene-diet.md`); a statement about Epiphanius and the Clementines that 30,15 contradicts. Also a card verdict to reverse: "the Nazarene sect was before Christ" is labelled Fabricated, but it's a real sentence (29,6,1) about the Nasaraeans, used to deny they were the Nazarenes, so the claim is a misreading, not an invention. Fixes wait on D6 | Craig Wescoe | Claude | [x] |
 | 15 | Read SixSeven Podcast transcripts and decide what, if anything, goes deeper | Chris Crutchfield | | [ ] |
 | 16 | Model comparison test done 2026-10-21: Opus 5.5 redid Shabbat Ch 3A blind and matched Fable (30 claims to check against 26, heavy overlap; Opus alone caught Leviticus 5:11-13's bloodless flour offering, Fable alone linked more repo files). Opus stays the default; details in `ROADMAP-PROCESSING-WORKFLOW-REX.md` section 4 | Rex + Matt | Claude | [x] |
-| 17 | Audit worksheet, an open draft for the group: `audits/AUDIT-WORKSHEET.md`. For each `AUDIT-LIST.md` item: our current wording, the held text with translator, the Greek or KJV, proposed wording, what's open, and an Input section anyone can add to. A1 is fully worked as the model; fill in A2-A15, then share with Matt and the group | Rex + Matt + group | Claude | [ ] |
+| 17 | Audit worksheet done 2026-10-21: `audits/AUDIT-WORKSHEET.md`, all 15 items worked (current wording, held text, Greek or KJV, proposed wording, what's open, Input). The second check refined the audit: A8's phrase is also in Eusebius (so that file is half right), A3 has 4 wrong places not 7, A2 and A5 have more places than reported, A6 traces to a Jesus Way slide. Next: share with Matt and the group for input | Rex + Matt + group | Claude | [x] |
 
 ---
 
