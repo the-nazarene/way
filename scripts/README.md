@@ -265,3 +265,16 @@ python scripts/processing-status.py --check URL [URL ...]  # is this YouTube vid
 ```
 
 A file still showing `*Pending.*` under its transcript heading counts as no transcript; `*Notes pending.*` counts as no notes. Sync also lists any YouTube video that appears in more than one archive file.
+
+## vectorize-sync.py — fill the hosted search index
+
+Feeds search.nazareneway.com (`site/search/`): the same files and chunks as `semantic-search.py`, embedded with Workers AI `bge-m3` into Cloudflare Vectorize. The GitHub Action `search-index.yml` runs it on every push to `main`, so it rarely needs running by hand.
+
+```bash
+python scripts/vectorize-sync.py --setup             # create the index, once
+python scripts/vectorize-sync.py --all               # embed everything
+python scripts/vectorize-sync.py --since <sha>       # only what changed since <sha>
+python scripts/vectorize-sync.py --all --dry-run     # count, send nothing
+```
+
+Needs `CLOUDFLARE_ACCOUNT_ID` and `CLOUDFLARE_SEARCH_TOKEN`. Stateless: old passages of a changed file are found by chunking the file as it was at `<sha>`.
