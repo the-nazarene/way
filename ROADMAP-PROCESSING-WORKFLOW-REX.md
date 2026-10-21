@@ -81,7 +81,19 @@ Rule of thumb: if the output is a summary of one talk in a fixed shape, use Tier
 | **Opus 5.5 (default for Tier 2)** | Notes on dense or contested material, overviews, audits, proposals, anything compared against held texts |
 | Fable (optional) | Only for a specific hard case, after the comparison test below shows it beats Opus. Candidates: one-pass reading of a very long text against several sources, Greek or Hebrew checks, final wording of changes to public research files |
 
-**Comparison test (open).** Take one file already done with Fable (a Shabbat Studies chapter) and have Opus redo it in a scratch copy with the identical brief. Compare claims caught, errors, and quote accuracy. If Opus matches, Fable leaves the workflow for good. If it doesn't, write down exactly where Fable was better.
+**Comparison test (run 2026-10-21).** Opus 5.5 redid the notes for Shabbat Studies Ch 3A in a scratch copy, with the identical brief and without seeing the Fable notes. Result:
+
+| Measure | Fable | Opus 5.5 |
+|---|---|---|
+| Notes length | 5,826 words | 6,997 words |
+| Timestamped points | 189 | 236 |
+| Scripture citations | 28 | 36 |
+| Claims to check | 26 | 30 |
+| Repo files linked | 23 | 15 |
+
+The two claims-to-check lists overlap heavily: both caught the tabernacle size, the 1,600-a-day arithmetic, the Edomite priesthood, the Enoch claim, the misattributed "cease from sacrificing" saying, and Silver's missing page. **Opus alone** caught the strongest point in either version: Leviticus 5:11-13 allows a sin offering of flour, with no blood, against "something has to die." It also caught that birds were allowed and that the offerer kills the animal (Leviticus 1:5). **Fable alone** caught an Amos/Jeremiah attribution check, the 49-year jubilee, and linked more repo files.
+
+**Verdict:** Opus matched Fable on this test and was slightly ahead on catches, at a lower price per token. One sample, but it supports Opus as the default. Fable stays out of the workflow unless a future task shows a clear gap. Practical note: ask Opus explicitly to link the relevant repo files, the one place it trailed.
 
 ---
 
