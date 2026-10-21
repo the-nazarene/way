@@ -1,6 +1,6 @@
 # Roadmap
 
-Working to-do list for The Way. Current as of 2026-10-19.
+Working to-do list for The Way. Current as of 2026-10-20.
 
 **The governing fact:** this repo is **public**. Anyone can read it, clone it, quote it, and check it. That changes the priority order — a wrong claim here is not a private note we'll tidy up later, it's something a stranger can screenshot. Accuracy work outranks new content.
 
@@ -16,7 +16,7 @@ Working to-do list for The Way. Current as of 2026-10-19.
 | 1c | **Retire or properly source the 13 podcast-origin quotations** | Where a real book exists, get the page number. Where the subject is identified only by role ("The Baptist Preacher"), don't quote it at all. | Partly done |
 | 1d | **Downgrade every absolute to its narrow true version** | ~34 of them. In every case examined, the narrow version made the same point and would have survived. | Not started |
 | 1e | **Add loci to the ~53 vague citations, or drop the quotation marks** | Author-only attributions with no work or page. This is the category fabrications hide in. | Not started |
-| 2 | **Run the semantic search for the first time** | It has never been run. One of the three lookup tools in `ONBOARDING.md` doesn't actually work yet, which is a poor first impression for new contributors. Needs a `GOOGLE_API_KEY` and one `--rebuild`. | Blocked on Rex (API key) |
+| 2 | **Run the semantic search for the first time** | **Done 2026-10-20 (Matt):** index built on his machine, 41,883 passages, about 11 minutes and $2; results are good. Next step is making it available to everyone, item 9b | ✅ |
 | 3a | **Register every primary text in `VERIFIED-SOURCES.md`, then add the red text** | The source hierarchy's tier 1 (the canonical gospels) has no file in the repo; Josephus, Eusebius, Hegesippus and Epiphanius are each cited on five cards with no text behind them. The manifest now says so. First add: a public-domain gospels text (WEB and/or KJV). | Manifest done 2026-10-07; texts not started |
 | 3 | **Add provenance headers to the 14 files that lack them** | `scripts/semantic-search.py` now carries each file's source block into every search result, so a file with no header returns "(no source header — unverified provenance)". Mostly `cliff-notes-quick-reference.md` files. **Only from what each file already documents** — never infer a source. | Not started |
 
@@ -42,6 +42,7 @@ Working to-do list for The Way. Current as of 2026-10-19.
 |---|---|---|
 | 9 | **Ray Pritz, *Nazarene Jewish Christianity*** | The standard monograph on exactly our central claim, and it's absent from the bibliography. Cite it rather than copying it (see the copyright rule in `CONTRIBUTING.md`). |
 | 9a | **The Reading Room — public front door** | `site/` is live from `main` via GitHub Pages. **All 14 cards structured** (218 sources, 204 held in the repo, 14 public-domain-not-held), drawers grouped by topic, permalinks and copy-a-citation on every source, KJV passages shown in context. Open: Rex on JSON records vs card front-matter; the objections bank (PR #5) as a second cabinet once merged; a smarter drawer (embeddings) needs an API key as an Actions secret; analytics needs an account; Phase 3 (grounded answers for no-card questions, stamped UNCHECKED) waits on P0. |
+| 9b | **Search the whole library by meaning: site search box + connector** | Matt's proposal, `site/PROPOSAL-SEMANTIC-SEARCH.md`: one search service on nazareneway.com (Cloudflare Worker + Vectorize, about $5 a month) with two doors, a search box on the site and a connector members add to their own Claude or ChatGPT. Returns real passages with their source, never a generated answer; talks shown separately as pointers. Kept current by a GitHub Action on every merge. **Decisions before building:** Matt: Cloudflare account and paid plan; Matt: host under `/api/search` and `/mcp`; Rex: where results sit on the site and how they look; Rex and Matt: connector open to anyone or by address only; Matt: ask the group what they'd use |
 | 10 | **Jamie — push-to-check lookup tool** | Spec'd and ready to build in `ideas/jamie-mvp.md`. Milestone M2 (console output from real retrieval) is the gate: everything before it is plumbing, everything after is polish. |
 | 11 | **Delete the merged `questions-not-debate` branch** | Fully merged into `main`; it'll read as work-in-progress to new contributors. Matt's branch, Matt's call. |
 | 12 | **Spanish mirrors drift** | 17 `*.es.md` files translate the English pages. When an English page is corrected, the Spanish needs the same fix — there's no automation, so it has to be deliberate. |

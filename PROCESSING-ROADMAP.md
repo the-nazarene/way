@@ -43,6 +43,12 @@ The full method (stages, which model does what, quality checks, rights, git habi
 - Sabbath-to-Sunday research from Veith's public-domain sources (Next Up 6c).
 - The four Tabor guest appearances on other channels (Next Up 2d).
 
+**Tomorrow (2026-10-21), in order**
+1. Fill in the audit worksheet, A2-A15 (Next Up 17), and share it with Matt and the group.
+2. The Opus-versus-Fable comparison test (Next Up 16).
+3. The Sabbath-to-Sunday research draft (Next Up 6c).
+4. Downloads (Next Up 10, 12): still rate-limited by YouTube; an Apify token would finish them in minutes.
+
 **Waiting on people**
 - Rex: which item 9 research-file changes to apply (D1); create the private library repo (D5); send Chris the source questions (Next Up 8).
 - Group: ask the authors for permission, or sideline (D4).
@@ -80,6 +86,7 @@ In order. Put your name in **Who** when you take one.
 | 14 | Panarion audit done 2026-10-20 (report: `Incoming/proposals/item-14-panarion-audit.md`, local). 25 quotations in 15 files checked against Craig Wescoe's translation, and the key passages against Holl's Greek (Craig's English is accurate at every passage checked). Problems found in our own research files, with fixes proposed: "the wrath of God" and "Passover lamb" (neither word is in the Greek); a Sect 18 sentence about the pre-Christian Nasaraeans used for the Nazarenes in 7 places; "Berea near Pella"; one quotation not found (`the-essene-diet.md`); a statement about Epiphanius and the Clementines that 30,15 contradicts. Also a card verdict to reverse: "the Nazarene sect was before Christ" is labelled Fabricated, but it's a real sentence (29,6,1) about the Nasaraeans, used to deny they were the Nazarenes, so the claim is a misreading, not an invention. Fixes wait on D6 | Craig Wescoe | Claude | [x] |
 | 15 | Read SixSeven Podcast transcripts and decide what, if anything, goes deeper | Chris Crutchfield | | [ ] |
 | 16 | Model comparison test: redo one Fable-processed Shabbat chapter with Opus 5.5 in a scratch copy, same brief, and compare. Opus 5.5 is now the default for judgment work (`ROADMAP-PROCESSING-WORKFLOW-REX.md` section 4); this test decides whether Fable stays as an option | Rex + Matt | Claude | [ ] |
+| 17 | Audit worksheet, an open draft for the group: `audits/AUDIT-WORKSHEET.md`. For each `AUDIT-LIST.md` item: our current wording, the held text with translator, the Greek or KJV, proposed wording, what's open, and an Input section anyone can add to. A1 is fully worked as the model; fill in A2-A15, then share with Matt and the group | Rex + Matt + group | Claude | [ ] |
 
 ---
 
@@ -107,11 +114,11 @@ Judgment calls collected as they come up, for Rex and Matt to go through togethe
 
 | Source | Contributed by | Items | Transcripts | Notes | Queue |
 |---|---|---|---|---|---|
-| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 268 of 370 | 46 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
+| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 288 of 370 | 46 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
 | Dr. James Tabor, YouTube channel | Matt Fracek, 2026-10-20 | 405 | 405 of 405 | 405 of 405 | [queue](podcast-archive/dr-tabor-channel/00-queue.md) |
 | Scott, Nazarene Way | Matt Fracek, 2026-10-20 | 84 | 84 of 84 | 80 of 84 | [queue](podcast-archive/scott-nazarene-way/00-queue.md) |
 | Shabbat Studies with Jen & Chris | Chris Crutchfield, 2026-10-19 | 10 | 10 of 10 | 10 of 10 | [queue](podcast-archive/shabbat-studies/00-queue.md) |
-| SixSeven Podcast | Chris Crutchfield, 2026-10-19 | 34 | 0 of 34 | 0 of 34 | [queue](podcast-archive/sixseven-podcast/00-queue.md) |
+| SixSeven Podcast | Chris Crutchfield, 2026-10-19 | 34 | 31 of 34 | 0 of 34 | [queue](podcast-archive/sixseven-podcast/00-queue.md) |
 <!-- STATUS:END -->
 
 ---
