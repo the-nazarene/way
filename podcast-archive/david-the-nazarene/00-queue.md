@@ -40,7 +40,7 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 029 | [x] | [ ] | HIS story's Alternate Timeline - Part 10 - Hatshepsut, aka The Queen of Sheba | 17:37 | [029-his-story-s-alternate-timeline-part-10-hatshepsut-aka-the-qu.md](029-his-story-s-alternate-timeline-part-10-hatshepsut-aka-the-qu.md) |
 | 030 | [x] | [ ] | Sabbath Teaching On The Exodus And The Invasion Of The Hyksos | 52:43 | [030-sabbath-teaching-on-the-exodus-and-the-invasion-of-the-hykso.md](030-sabbath-teaching-on-the-exodus-and-the-invasion-of-the-hykso.md) |
 | 031 | [ ] | [ ] | Live discussion on the Stoning of Stephan/James - Vero Yahad Boot Camp 1/2017 | 1:44:25 | [031-live-discussion-on-the-stoning-of-stephan-james-vero-yahad-b.md](031-live-discussion-on-the-stoning-of-stephan-james-vero-yahad-b.md) |
-| 032 | [ ] | [ ] | Tutmose III and the Treasure of Solomon | 40:27 | [032-tutmose-iii-and-the-treasure-of-solomon.md](032-tutmose-iii-and-the-treasure-of-solomon.md) |
+| 032 | [x] | [ ] | Tutmose III and the Treasure of Solomon | 40:27 | [032-tutmose-iii-and-the-treasure-of-solomon.md](032-tutmose-iii-and-the-treasure-of-solomon.md) |
 | 033 | [x] | [ ] | The Standing One - lost name for Messiah | 25:31 | [033-the-standing-one-lost-name-for-messiah.md](033-the-standing-one-lost-name-for-messiah.md) |
 | 034 | [ ] | [ ] | Are You Compromised? Who do your thoughts come from? | 24:37 | [034-are-you-compromised-who-do-your-thoughts-come-from.md](034-are-you-compromised-who-do-your-thoughts-come-from.md) |
 | 035 | [x] | [ ] | A Study On 1 John | 52:29 | [035-a-study-on-1-john.md](035-a-study-on-1-john.md) |
@@ -78,36 +78,36 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 067 | [x] | [x] | What Did The Ebionites Believe About Yeshua's Birth And Divinity? | 23:50 | [067-what-did-the-ebionites-believe-about-yeshua-s-birth-and-divi.md](067-what-did-the-ebionites-believe-about-yeshua-s-birth-and-divi.md) |
 | 068 | [ ] | [ ] | "You Have To Understand Scripture From a Hebraic Perspective" (if you want to fall into the ditch) | 30:53 | [068-you-have-to-understand-scripture-from-a-hebraic-perspective.md](068-you-have-to-understand-scripture-from-a-hebraic-perspective.md) |
 | 069 | [ ] | [ ] | Essene Farmers or Ranchers?  What was their manner of life? | 17:37 | [069-essene-farmers-or-ranchers-what-was-their-manner-of-life.md](069-essene-farmers-or-ranchers-what-was-their-manner-of-life.md) |
-| 070 | [ ] | [ ] | Didn't Yeshua Multiply & Eat Dead Fish? | 9:33 | [070-didn-t-yeshua-multiply-eat-dead-fish.md](070-didn-t-yeshua-multiply-eat-dead-fish.md) |
+| 070 | [x] | [ ] | Didn't Yeshua Multiply & Eat Dead Fish? | 9:33 | [070-didn-t-yeshua-multiply-eat-dead-fish.md](070-didn-t-yeshua-multiply-eat-dead-fish.md) |
 | 071 | [ ] | [ ] | Thoughts On Prayer and Fasting | 27:49 | [071-thoughts-on-prayer-and-fasting.md](071-thoughts-on-prayer-and-fasting.md) |
 | 072 | [ ] | [ ] | What Is Your Relationship Status? | 17:14 | [072-what-is-your-relationship-status.md](072-what-is-your-relationship-status.md) |
-| 073 | [ ] | [ ] | The Pythagorean Connection In Luke/Acts Pt 1 | 24:55 | [073-the-pythagorean-connection-in-luke-acts-pt-1.md](073-the-pythagorean-connection-in-luke-acts-pt-1.md) |
-| 074 | [ ] | [ ] | The Pythagorean Connection In Luke/Acts Pt 2 | 16:33 | [074-the-pythagorean-connection-in-luke-acts-pt-2.md](074-the-pythagorean-connection-in-luke-acts-pt-2.md) |
-| 075 | [ ] | [ ] | The Pythagorean Connection In Luke/Acts Pt 3 | 8:43 | [075-the-pythagorean-connection-in-luke-acts-pt-3.md](075-the-pythagorean-connection-in-luke-acts-pt-3.md) |
-| 076 | [ ] | [ ] | The Pythagorean Connection In Luke/Acts Pt 4 | 18:08 | [076-the-pythagorean-connection-in-luke-acts-pt-4.md](076-the-pythagorean-connection-in-luke-acts-pt-4.md) |
-| 077 | [ ] | [ ] | The Pythagorean Connection In Luke/Acts Pt 5 | 26:17 | [077-the-pythagorean-connection-in-luke-acts-pt-5.md](077-the-pythagorean-connection-in-luke-acts-pt-5.md) |
-| 078 | [ ] | [ ] | The Pythagorean Connection In Luke/Acts Pt 6 | 16:39 | [078-the-pythagorean-connection-in-luke-acts-pt-6.md](078-the-pythagorean-connection-in-luke-acts-pt-6.md) |
-| 079 | [ ] | [ ] | Who said That?  Are we back at the tower of Babel? - On Hearing The Holy Spirit | 36:44 | [079-who-said-that-are-we-back-at-the-tower-of-babel-on-hearing-t.md](079-who-said-that-are-we-back-at-the-tower-of-babel-on-hearing-t.md) |
-| 080 | [ ] | [ ] | The Mystery is History - Revelation is fulfilled | 3:11 | [080-the-mystery-is-history-revelation-is-fulfilled.md](080-the-mystery-is-history-revelation-is-fulfilled.md) |
-| 081 | [ ] | [ ] | Objection #1: Is YHWH A Liar?  Can't He Preserve His Word? | 24:55 | [081-objection-is-yhwh-a-liar-can-t-he-preserve-his-word.md](081-objection-is-yhwh-a-liar-can-t-he-preserve-his-word.md) |
-| 082 | [ ] | [ ] | Objection #2: YHWH Told Noah To Eat Everything That Moved! | 15:27 | [082-objection-yhwh-told-noah-to-eat-everything-that-moved.md](082-objection-yhwh-told-noah-to-eat-everything-that-moved.md) |
-| 083 | [ ] | [ ] | Objection #3:  "YHWH Changed, Now We Can Follow The Nephilim!" | 33:07 | [083-objection-yhwh-changed-now-we-can-follow-the-nephilim.md](083-objection-yhwh-changed-now-we-can-follow-the-nephilim.md) |
+| 073 | [x] | [ ] | The Pythagorean Connection In Luke/Acts Pt 1 | 24:55 | [073-the-pythagorean-connection-in-luke-acts-pt-1.md](073-the-pythagorean-connection-in-luke-acts-pt-1.md) |
+| 074 | [x] | [ ] | The Pythagorean Connection In Luke/Acts Pt 2 | 16:33 | [074-the-pythagorean-connection-in-luke-acts-pt-2.md](074-the-pythagorean-connection-in-luke-acts-pt-2.md) |
+| 075 | [x] | [ ] | The Pythagorean Connection In Luke/Acts Pt 3 | 8:43 | [075-the-pythagorean-connection-in-luke-acts-pt-3.md](075-the-pythagorean-connection-in-luke-acts-pt-3.md) |
+| 076 | [x] | [ ] | The Pythagorean Connection In Luke/Acts Pt 4 | 18:08 | [076-the-pythagorean-connection-in-luke-acts-pt-4.md](076-the-pythagorean-connection-in-luke-acts-pt-4.md) |
+| 077 | [x] | [ ] | The Pythagorean Connection In Luke/Acts Pt 5 | 26:17 | [077-the-pythagorean-connection-in-luke-acts-pt-5.md](077-the-pythagorean-connection-in-luke-acts-pt-5.md) |
+| 078 | [x] | [ ] | The Pythagorean Connection In Luke/Acts Pt 6 | 16:39 | [078-the-pythagorean-connection-in-luke-acts-pt-6.md](078-the-pythagorean-connection-in-luke-acts-pt-6.md) |
+| 079 | [x] | [ ] | Who said That?  Are we back at the tower of Babel? - On Hearing The Holy Spirit | 36:44 | [079-who-said-that-are-we-back-at-the-tower-of-babel-on-hearing-t.md](079-who-said-that-are-we-back-at-the-tower-of-babel-on-hearing-t.md) |
+| 080 | [x] | [ ] | The Mystery is History - Revelation is fulfilled | 3:11 | [080-the-mystery-is-history-revelation-is-fulfilled.md](080-the-mystery-is-history-revelation-is-fulfilled.md) |
+| 081 | [x] | [ ] | Objection #1: Is YHWH A Liar?  Can't He Preserve His Word? | 24:55 | [081-objection-is-yhwh-a-liar-can-t-he-preserve-his-word.md](081-objection-is-yhwh-a-liar-can-t-he-preserve-his-word.md) |
+| 082 | [x] | [ ] | Objection #2: YHWH Told Noah To Eat Everything That Moved! | 15:27 | [082-objection-yhwh-told-noah-to-eat-everything-that-moved.md](082-objection-yhwh-told-noah-to-eat-everything-that-moved.md) |
+| 083 | [x] | [ ] | Objection #3:  "YHWH Changed, Now We Can Follow The Nephilim!" | 33:07 | [083-objection-yhwh-changed-now-we-can-follow-the-nephilim.md](083-objection-yhwh-changed-now-we-can-follow-the-nephilim.md) |
 | 084 | [ ] | [ ] | Objection #4: "We Have To Keep Animal Sacrifices So I Can Remain Saved!" | 20:02 | [084-objection-we-have-to-keep-animal-sacrifices-so-i-can-remain.md](084-objection-we-have-to-keep-animal-sacrifices-so-i-can-remain.md) |
-| 085 | [ ] | [ ] | Objection #5: "He Sent The Healed Leper To The Temple To Make A Sacrifice." | 25:13 | [085-objection-he-sent-the-healed-leper-to-the-temple-to-make-a-s.md](085-objection-he-sent-the-healed-leper-to-the-temple-to-make-a-s.md) |
-| 086 | [ ] | [ ] | Objection #6: "You're Ripping Pages Out of Your Bible!" | 34:18 | [086-objection-you-re-ripping-pages-out-of-your-bible.md](086-objection-you-re-ripping-pages-out-of-your-bible.md) |
-| 087 | [ ] | [ ] | How Do You Do a Vegan Passover? | 7:12 | [087-how-do-you-do-a-vegan-passover.md](087-how-do-you-do-a-vegan-passover.md) |
-| 088 | [ ] | [ ] | "Apostle Paul: A Polite Bribe" Pt1 | 31:58 | [088-apostle-paul-a-polite-bribe-pt1.md](088-apostle-paul-a-polite-bribe-pt1.md) |
-| 089 | [ ] | [ ] | "Apostle Paul: A Polite Bribe" Pt2 | 19:41 | [089-apostle-paul-a-polite-bribe-pt2.md](089-apostle-paul-a-polite-bribe-pt2.md) |
-| 090 | [ ] | [ ] | The Game Of Life And How To Play It | 7:23 | [090-the-game-of-life-and-how-to-play-it.md](090-the-game-of-life-and-how-to-play-it.md) |
-| 091 | [ ] | [ ] | No, I Don't Believe The Earth Is Flat! | 30:50 | [091-no-i-don-t-believe-the-earth-is-flat.md](091-no-i-don-t-believe-the-earth-is-flat.md) |
-| 092 | [ ] | [ ] | Why I Don't Quote The 'Gospel of The Holy Twelve' | 16:24 | [092-why-i-don-t-quote-the-gospel-of-the-holy-twelve.md](092-why-i-don-t-quote-the-gospel-of-the-holy-twelve.md) |
-| 093 | [ ] | [ ] | More About Why I Don't Believe the Earth Is Flat | 44:03 | [093-more-about-why-i-don-t-believe-the-earth-is-flat.md](093-more-about-why-i-don-t-believe-the-earth-is-flat.md) |
+| 085 | [x] | [ ] | Objection #5: "He Sent The Healed Leper To The Temple To Make A Sacrifice." | 25:13 | [085-objection-he-sent-the-healed-leper-to-the-temple-to-make-a-s.md](085-objection-he-sent-the-healed-leper-to-the-temple-to-make-a-s.md) |
+| 086 | [x] | [ ] | Objection #6: "You're Ripping Pages Out of Your Bible!" | 34:18 | [086-objection-you-re-ripping-pages-out-of-your-bible.md](086-objection-you-re-ripping-pages-out-of-your-bible.md) |
+| 087 | [x] | [ ] | How Do You Do a Vegan Passover? | 7:12 | [087-how-do-you-do-a-vegan-passover.md](087-how-do-you-do-a-vegan-passover.md) |
+| 088 | [x] | [ ] | "Apostle Paul: A Polite Bribe" Pt1 | 31:58 | [088-apostle-paul-a-polite-bribe-pt1.md](088-apostle-paul-a-polite-bribe-pt1.md) |
+| 089 | [x] | [ ] | "Apostle Paul: A Polite Bribe" Pt2 | 19:41 | [089-apostle-paul-a-polite-bribe-pt2.md](089-apostle-paul-a-polite-bribe-pt2.md) |
+| 090 | [x] | [ ] | The Game Of Life And How To Play It | 7:23 | [090-the-game-of-life-and-how-to-play-it.md](090-the-game-of-life-and-how-to-play-it.md) |
+| 091 | [x] | [ ] | No, I Don't Believe The Earth Is Flat! | 30:50 | [091-no-i-don-t-believe-the-earth-is-flat.md](091-no-i-don-t-believe-the-earth-is-flat.md) |
+| 092 | [x] | [ ] | Why I Don't Quote The 'Gospel of The Holy Twelve' | 16:24 | [092-why-i-don-t-quote-the-gospel-of-the-holy-twelve.md](092-why-i-don-t-quote-the-gospel-of-the-holy-twelve.md) |
+| 093 | [x] | [ ] | More About Why I Don't Believe the Earth Is Flat | 44:03 | [093-more-about-why-i-don-t-believe-the-earth-is-flat.md](093-more-about-why-i-don-t-believe-the-earth-is-flat.md) |
 | 094 | [ ] | [ ] | Abortion is America's Jewish Holocaust | 31:05 | [094-abortion-is-america-s-jewish-holocaust.md](094-abortion-is-america-s-jewish-holocaust.md) |
-| 095 | [ ] | [ ] | Have you accepted Paul as your lord and savior? | 36:49 | [095-have-you-accepted-paul-as-your-lord-and-savior.md](095-have-you-accepted-paul-as-your-lord-and-savior.md) |
-| 096 | [ ] | [ ] | Rebuttal of the "Against Modern Judaizers" Article | 53:11 | [096-rebuttal-of-the-against-modern-judaizers-article.md](096-rebuttal-of-the-against-modern-judaizers-article.md) |
-| 097 | [ ] | [ ] | Revelation Fulfilled Intro | 19:35 | [097-revelation-fulfilled-intro.md](097-revelation-fulfilled-intro.md) |
-| 098 | [ ] | [ ] | Revelation Fulfilled / Chapter 1 | 26:52 | [098-revelation-fulfilled-chapter-1.md](098-revelation-fulfilled-chapter-1.md) |
-| 099 | [ ] | [ ] | Revelation Fulfilled / Chapter 2 | 37:01 | [099-revelation-fulfilled-chapter-2.md](099-revelation-fulfilled-chapter-2.md) |
+| 095 | [x] | [ ] | Have you accepted Paul as your lord and savior? | 36:49 | [095-have-you-accepted-paul-as-your-lord-and-savior.md](095-have-you-accepted-paul-as-your-lord-and-savior.md) |
+| 096 | [x] | [ ] | Rebuttal of the "Against Modern Judaizers" Article | 53:11 | [096-rebuttal-of-the-against-modern-judaizers-article.md](096-rebuttal-of-the-against-modern-judaizers-article.md) |
+| 097 | [x] | [ ] | Revelation Fulfilled Intro | 19:35 | [097-revelation-fulfilled-intro.md](097-revelation-fulfilled-intro.md) |
+| 098 | [x] | [ ] | Revelation Fulfilled / Chapter 1 | 26:52 | [098-revelation-fulfilled-chapter-1.md](098-revelation-fulfilled-chapter-1.md) |
+| 099 | [x] | [ ] | Revelation Fulfilled / Chapter 2 | 37:01 | [099-revelation-fulfilled-chapter-2.md](099-revelation-fulfilled-chapter-2.md) |
 | 100 | [ ] | [ ] | Revelation Fulfilled / Chapter 3 | 32:13 | [100-revelation-fulfilled-chapter-3.md](100-revelation-fulfilled-chapter-3.md) |
 | 101 | [x] | [ ] | Revelation Fulfilled / Chapter 4 & 5 | 27:48 | [101-revelation-fulfilled-chapter-4-5.md](101-revelation-fulfilled-chapter-4-5.md) |
 | 102 | [x] | [ ] | Revelation Fulfilled / Chapter 6a | 28:58 | [102-revelation-fulfilled-chapter-6a.md](102-revelation-fulfilled-chapter-6a.md) |

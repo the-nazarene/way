@@ -117,7 +117,7 @@ Judgment calls collected as they come up, for Rex and Matt to go through togethe
 
 | Source | Contributed by | Items | Transcripts | Notes | Queue |
 |---|---|---|---|---|---|
-| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 288 of 370 | 46 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
+| David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 315 of 370 | 46 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
 | Dr. James Tabor, YouTube channel | Matt Fracek, 2026-10-20 | 405 | 405 of 405 | 405 of 405 | [queue](podcast-archive/dr-tabor-channel/00-queue.md) |
 | Scott, Nazarene Way | Matt Fracek, 2026-10-20 | 84 | 84 of 84 | 80 of 84 | [queue](podcast-archive/scott-nazarene-way/00-queue.md) |
 | Shabbat Studies with Jen & Chris | Chris Crutchfield, 2026-10-19 | 10 | 10 of 10 | 10 of 10 | [queue](podcast-archive/shabbat-studies/00-queue.md) |
