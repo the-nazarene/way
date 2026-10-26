@@ -19,13 +19,13 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 08 | [x] | [x] | Trust – Part 2 | 27:15 | [08-trust-part-2.md](08-trust-part-2.md) |
 | 09 | [x] | [x] | Trust – Part 3 | 16:50 | [09-trust-part-3.md](09-trust-part-3.md) |
 | 10 | [x] | [x] | *Trust – Part 4 | 23:59 | [10-trust-part-4.md](10-trust-part-4.md) |
-| 11 | [ ] | [ ] | 6'7 LIVE: Current Events in Bmaj – Texas and Eschatology | 2:35:28 | [11-6-7-live-current-events-in-bmaj-texas-and-eschatology.md](11-6-7-live-current-events-in-bmaj-texas-and-eschatology.md) |
+| 11 | [x] | [x] | 6'7 LIVE: Current Events in Bmaj – Texas and Eschatology | 2:35:28 | [11-6-7-live-current-events-in-bmaj-texas-and-eschatology.md](11-6-7-live-current-events-in-bmaj-texas-and-eschatology.md) |
 | 12 | [x] | [x] | The Eve of the Apoæclpse  – Musical Musings Live | 3:34:00 | [12-the-eve-of-the-apo-clpse-musical-musings-live.md](12-the-eve-of-the-apo-clpse-musical-musings-live.md) |
 | 13 | [x] | [x] | 67 Live – The Misnomer of Ai | 39:39 | [13-67-live-the-misnomer-of-ai.md](13-67-live-the-misnomer-of-ai.md) |
 | 14 | [x] | [x] | 67 Live --The not so Presidential Debate | 4:01:15 | [14-67-live-the-not-so-presidential-debate.md](14-67-live-the-not-so-presidential-debate.md) |
 | 15 | [x] | [x] | Trump Shot:  Our Take 72 hours later | 3:49:49 | [15-trump-shot-our-take-72-hours-later.md](15-trump-shot-our-take-72-hours-later.md) |
 | 16 | [x] | [x] | 67podcast – NC Mountain Storm Situation Breakdown & Convo with a friend in the Appalachian Mountains | 2:24:47 | [16-67podcast-nc-mountain-storm-situation-breakdown-convo-with-a.md](16-67podcast-nc-mountain-storm-situation-breakdown-convo-with-a.md) |
-| 17 | [ ] | [ ] | NC Mountain Situation – A Map of What's What | 31:12 | [17-nc-mountain-situation-a-map-of-what-s-what.md](17-nc-mountain-situation-a-map-of-what-s-what.md) |
+| 17 | [x] | [x] | NC Mountain Situation – A Map of What's What | 31:12 | [17-nc-mountain-situation-a-map-of-what-s-what.md](17-nc-mountain-situation-a-map-of-what-s-what.md) |
 | 18 | [x] | [x] | A quick call for help: NC Mountains | 4:05 | [18-a-quick-call-for-help-nc-mountains.md](18-a-quick-call-for-help-nc-mountains.md) |
 | 19 | [x] | [x] | 01a – Biofield and the iOB – Part 1 | 2:17:41 | [19-01a-biofield-and-the-iob-part-1.md](19-01a-biofield-and-the-iob-part-1.md) |
 | 20 | [x] | [x] | 01b – Biofield and the iOB – Part 2 | 4:00:15 | [20-01b-biofield-and-the-iob-part-2.md](20-01b-biofield-and-the-iob-part-2.md) |
@@ -36,7 +36,7 @@ Each video has its own file in this folder. Tick **T** when the transcript is in
 | 25 | [x] | [x] | 06 – Rants & Thoughts | 1:11:13 | [25-06-rants-thoughts.md](25-06-rants-thoughts.md) |
 | 26 | [x] | [x] | 07 – So, We're Going to War? | 27:39 | [26-07-so-we-re-going-to-war.md](26-07-so-we-re-going-to-war.md) |
 | 27 | [x] | [x] | 08 – Tired of the Charade | 1:26:25 | [27-08-tired-of-the-charade.md](27-08-tired-of-the-charade.md) |
-| 28 | [ ] | [ ] | 67thoughts x Bellion – WASH | 7:59 | [28-67thoughts-x-bellion-wash.md](28-67thoughts-x-bellion-wash.md) |
+| 28 | [x] | [x] | 67thoughts x Bellion – WASH | 7:59 | [28-67thoughts-x-bellion-wash.md](28-67thoughts-x-bellion-wash.md) |
 | 29 | [x] | [x] | 09 – TankTop Theology w/ Dino V:  “The End Times” and our position in it | 2:30:06 | [29-09-tanktop-theology-w-dino-v-the-end-times-and-our-position.md](29-09-tanktop-theology-w-dino-v-the-end-times-and-our-position.md) |
 | 30 | [x] | [x] | 10 – OK, So What's Really Going On In America and the Media Today | 1:25:06 | [30-10-ok-so-what-s-really-going-on-in-america-and-the-media-tod.md](30-10-ok-so-what-s-really-going-on-in-america-and-the-media-tod.md) |
 | 31 | [x] | [x] | 11 – aaand WAR Live | 2:40:10 | [31-11-aaand-war-live.md](31-11-aaand-war-live.md) |

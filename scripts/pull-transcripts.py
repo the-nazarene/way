@@ -27,6 +27,7 @@ Options:
   --lang CODE       caption language for the Apify path (default en; Kam's Costa Rica video is es)
   --sleep N         seconds between yt-dlp requests (default 12; YouTube 429s if you hurry)
   --only-missing    skip files whose transcript already carries timestamps
+  --min-events N    fewest caption lines to accept (default 20; lower it for a short)
   --dry-run         fetch and convert, print a sample, write nothing
   --cache DIR       where to keep the raw caption files (default: scripts/.caption-cache, git-ignored)
 
@@ -212,6 +213,7 @@ def main() -> int:
     ap.add_argument("--lang", default="en", help="caption language code (Apify path); e.g. es for Kam's Costa Rica video")
     ap.add_argument("--sleep", type=float, default=12)
     ap.add_argument("--only-missing", action="store_true")
+    ap.add_argument("--min-events", type=int, default=20, help="fewest caption lines to accept (lower it for a short)")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--cache", type=Path, default=REPO / "scripts" / ".caption-cache")
     a = ap.parse_args()
@@ -234,7 +236,7 @@ def main() -> int:
     ok, skipped, failed = 0, [], []
     for i, f in enumerate(a.files):
         path = Path(f).resolve()
-        if not path.exists() or re.search(r"overview|readme|status", path.name, re.I):
+        if not path.exists() or re.match(r"(00-|readme|transcript-status|status\.)", path.name, re.I):
             continue
         text = path.read_text(encoding="utf-8")
         if a.only_missing and "**[0" in text.split(MARKER, 1)[-1][:600]:
@@ -257,8 +259,8 @@ def main() -> int:
         if not evs:
             failed.append((path.name, "no captions"))
             continue
-        if len(evs) < 20:
-            failed.append((path.name, f"only {len(evs)} caption events"))
+        if len(evs) < a.min_events:
+            failed.append((path.name, f"only {len(evs)} caption events (use --min-events for a short)"))
             continue
         body = to_paragraphs(evs)
         if a.dry_run:

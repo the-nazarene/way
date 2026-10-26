@@ -21,7 +21,7 @@ timestamps, and rewrites everything from `## Full Transcript` down, leaving the
 synthesized header alone. With `APIFY_TOKEN` set it uses the Apify
 `johnvc~YoutubeTranscripts` actor (a fraction of a cent per video, no throttling);
 without it, `yt-dlp` (free, but YouTube rate-limits after a few videos).
-`--lang es` for a non-English video. A video with captions disabled (episode 045)
+`--lang es` for a non-English video. `--min-events 1` accepts a very short video (a one-minute short has only a few caption lines; the default minimum is 20). A video with captions disabled (episode 045)
 needs audio plus a local Whisper; drop the segments into the cache in the same
 shape and the script will format them.
 
