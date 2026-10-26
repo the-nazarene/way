@@ -49,10 +49,14 @@ The full method (stages, which model does what, quality checks, rights, git habi
 3. Sabbath-to-Sunday research draft (Next Up 6c): drafted, waiting on review (D7).
 4. Downloads retried for the 85 missing transcripts (82 David The Nazarene, 3 SixSeven).
 
+**Done 2026-10-26**
+- **Christian Florez:** research sheet "The Red Letters That Were Added" converted, read, checked against held texts and mapped against the repo (Next Up 19). Seven possible problems in our own files are on the audit list (A16-A22).
+
 **Waiting on people**
 - Rex: which item 9 research-file changes to apply (D1); create the private library repo (D5); send Chris the source questions (Next Up 8).
 - Group: ask the authors for permission, or sideline (D4).
 - Matt: ask Scott and Dr. Tabor about their talks being public (Next Up 2b).
+- Rex: send Christian Florez the points to check (Next Up 19b); pick the card additions (D9).
 
 ---
 
@@ -89,6 +93,10 @@ In order. Put your name in **Who** when you take one.
 | 16 | Model comparison test done 2026-10-21: Opus 5.5 redid Shabbat Ch 3A blind and matched Fable (30 claims to check against 26, heavy overlap; Opus alone caught Leviticus 5:11-13's bloodless flour offering, Fable alone linked more repo files). Opus stays the default; details in `ROADMAP-PROCESSING-WORKFLOW-REX.md` section 4 | Rex + Matt | Claude | [x] |
 | 17 | Audit worksheet done 2026-10-21: `audits/AUDIT-WORKSHEET.md`, all 15 items worked (current wording, held text, Greek or KJV, proposed wording, what's open, Input). The second check refined the audit: A8's phrase is also in Eusebius (so that file is half right), A3 has 4 wrong places not 7, A2 and A5 have more places than reported, A6 traces to a Jesus Way slide. Next: share with Matt and the group for input | Rex + Matt + group | Claude | [x] |
 | 18 | Add the public-domain sources the audit worksheet and the Sabbath draft need, so they can be quoted instead of cited: Irenaeus *Against Heresies* (ANF 1), Eusebius *Church History* (NPNF 2nd series vol. 1), Jerome's letters and commentary on Isaiah (NPNF 2nd series vol. 6), Ignatius, Barnabas and Justin (ANF 1), the Laodicea canons (NPNF 2nd series vol. 14), a public-domain Greek New Testament (e.g. Westcott-Hort 1881), Brenton's Septuagint (1851), the JPS 1917 Hebrew Bible in English. Each with a provenance header and a row in `VERIFIED-SOURCES.md`. Overlaps 6d | | Claude | [ ] |
+| 19 | Christian Florez's research sheet "The Red Letters That Were Added" done 2026-10-26. It is converted (`extended-library/polemic-answers-red-letters-added-florez.md`, all 473 Notion blocks) and has notes (`-notes.md`: the argument, an index of all 53 entries with tiers, what we checked, where it meets the repo). Two helper passes checked every claim a held text can test (about 45 KJV verses, the Panarion, Didache, Thomas, Recognitions) and mapped the sheet against our cards. Reports in `audits/2026-10-26-florez-red-letters-*.md`. Possible problems in our own files are on `AUDIT-LIST.md` as A16-A22 | Christian Florez | Claude | [x] |
+| 19a | Feed the sheet into the cards: the repo map ranks ten additions (Matthew 28:19 tiers and the Acts baptisms on the Trinity card; five more christological variants; more seam-table rows and Matthew 27:49 on the method card; the Mark 7:19 grammar and Meier on the Torah card; the Matthew 5:17-19 consistency answer; and five more). Waits on D9 | Christian Florez | Claude drafting proposals; Rex approves before any card changes | [ ] |
+| 19b | Send Christian the points where our held texts read differently from the sheet (notes file, "Where the held texts read differently"; ten points, e.g. the baptisms in Acts, Caiaphas in Matthew 26, Panarion 30,13,7 and 30,22,4-5, Recognitions 1.39), and the two of his open items our texts settle (Panarion 46,1,9; the Didache's two baptismal formulas). | Christian Florez | Rex | [ ] |
+| 19c | The sources the sheet leans on that we don't hold, and that would let us check the rest: Metzger's *Textual Commentary* (UBS grades, A7, A26), Edwards's *The Hebrew Gospel* (2009) and Gregory (*NTS* 2005), Jerome's commentaries and *Against the Pelagians*, Clement's *Stromata*, Origen's *Commentary on John*. The public-domain ones join Next Up 18 | Christian Florez | | [ ] |
 
 ---
 
@@ -107,13 +115,15 @@ Judgment calls collected as they come up, for Rex and Matt to go through togethe
 | D3 | Claims-to-check items recording David's remarks on "Edomite Jews" and "most Jews today are not Hebrews" | `podcast-archive/david-the-nazarene/187-...`, `189-...` | Decided 2026-10-20 (Rex): leave in |
 | D4 | Ask the authors for permission to host the 🔴 books in full, or sideline (also Next Up 4a) | Copyrighted Works We Hold | Waiting |
 | D5 | Private library repo for the 🔴 books (also Next Up 4) | GitHub | Waiting on Rex to create it |
+| D8 | Christian Florez's research sheet: publish the full text in the public repo? It sits in his own Notion workspace, and he sent it to us for the repo | `extended-library/polemic-answers-red-letters-added-florez.md` | Decided 2026-10-26 (Rex): publish in full, since Christian sent it for the repo |
+| D9 | Next Up 19a: which of the ten card additions from Christian's sheet to draft, and the label question underneath them. The sheet follows Edwards in calling the Panarion 30 sayings "the Hebrew Gospel"; our cards call them the Gospel of the Ebionites (audit A20). The repo map has the full list with file:line references | `audits/2026-10-26-florez-red-letters-repo-map.md` §2 | Waiting |
 
 ---
 
 ## Status
 
 <!-- STATUS:START -->
-*Generated by `python scripts/processing-status.py` on 2026-10-21. Don't edit by hand.*
+*Generated by `python scripts/processing-status.py` on 2026-10-26. Don't edit by hand.*
 
 | Source | Contributed by | Items | Transcripts | Notes | Queue |
 |---|---|---|---|---|---|
@@ -165,6 +175,7 @@ Every item, newest first. One row per link or file as it was given to us.
 
 | Received | Contributed by | Item | Type | Link | Where it lives | Status |
 |---|---|---|---|---|---|---|
+| 2026-10-26 | Christian Florez | "Polemic Answers, The Red Letters That Were Added, Every Saying of Yeshua That Scholarship Says He Never Said": research sheet on red-letter passages that later scribes added (Part A, 35 entries) or the Gospel writers composed (Part B, 18 entries), with what this does to doctrines, objections and answers, and a long part on the Hebrew Gospel fragments, Thomas and Q (Part F). Each entry is marked ESTABLISHED, CONTESTED or QUARANTINED | Notion page, about 27,000 words | [Notion](https://app.notion.com/p/Polemic-Answers-The-Red-Letters-That-Were-Added-Every-Saying-of-Yeshua-That-Scholarship-Says-He-Ne-3ff92732ec0681e7bcf1dd44c4d9fd9a) | `extended-library/polemic-answers-red-letters-added-florez.md` (full text) + `-notes.md` | Converted to Markdown; checked against held texts; see Next Up 19 |
 | 2026-10-20 | Matt Fracek (Scott's own channel) | Scott, Nazarene Way | YouTube channel, 84 videos | https://www.youtube.com/@NazareneWay | `podcast-archive/scott-nazarene-way/` | Transcripts and notes done; see Next Up 1 |
 | 2026-10-20 | Matt Fracek | Dr. James Tabor's channel | YouTube channel, 483 videos | https://www.youtube.com/@JamesTaborVideos | `podcast-archive/dr-tabor-channel/` (+ `dr-tabor/` for the Paul playlist) | 398 with transcripts and notes; 85 not added; see Next Up 2 |
 | 2026-10-20 | Chris Crutchfield | "6_Books and PDFs": Clementine Homilies (21 PDFs), 🔴 Nazarene Acts / Recognitions (copyrighted), Book of Jasher, Jubilees ch 1-9, 1 Maccabees, ⚠️ Book of Enoch "simplified" (rights unclear) | Drive folder, 26 PDFs | [folder](https://drive.google.com/drive/folders/1ZV-BJkxRrj1EaC60aYkZ2IFeYxCA012k) | Local `/Incoming/drive-2026-10-20/` | Downloaded, converted to Markdown |
@@ -185,6 +196,7 @@ Every item, newest first. One row per link or file as it was given to us.
 | Craig Wescoe | Epiphanius, *Panarion* | 2026-10-17 |
 | Chris Crutchfield | Shabbat Studies with Jen & Chris, David The Nazarene, SixSeven Podcast (YouTube); Google Drive batch of 11 works (3 folders, 3 files) | 2026-10-19 |
 | Brad Brink | David The Nazarene (YouTube channel; also sent by Chris) | 2026-10-20 |
+| Christian Florez | Research sheet "Polemic Answers, The Red Letters That Were Added" (Notion) | 2026-10-26 |
 | Matt Fracek | Scott's Nazarene Way channel (84 videos), Dr. James Tabor's channel (483 videos) | 2026-10-20 |
 
 Every file made from a contribution carries a `**Contributed by:**` line with the person's name and the date.
@@ -224,6 +236,22 @@ For Claude and for anyone adding sources by hand.
 ---
 
 ## Batch Details
+
+### 2026-10-26 — Research sheet from Christian Florez
+
+**Sent by:** Christian Florez, passed on by Rex, as a source for this repo.
+**What it is:** "Polemic Answers, The Red Letters That Were Added, Every Saying of Yeshua That Scholarship Says He Never Said." It's a public Notion page in Christian's own workspace, created 2026-10-20 and last edited 2026-10-21, about 27,000 words. It sorts red-letter passages into those later scribes added (Part A, 35 entries) and those the Gospel writers composed (Part B, 18). It goes on to doctrines, objections and answers, comment-length versions, and a long Part F on the Hebrew Gospel fragments, Thomas and Q. Every entry is marked ESTABLISHED, CONTESTED or QUARANTINED, and the sheet ends with its own list of items still to verify.
+
+- [x] Duplicate check: new
+- [x] Downloaded through Notion's public page data (the page itself is a script shell): all 473 blocks, none missing. The raw data and the plain conversion are in local `/Incoming/notion-2026-10-26/`
+- [x] Converted to Markdown with a source header and Contributed by line: `extended-library/polemic-answers-red-letters-added-florez.md`. Wording unchanged
+- [x] Read in full; notes written: `extended-library/polemic-answers-red-letters-added-florez-notes.md`
+- [x] Citation check against held texts (helper pass, spot-checked): `audits/2026-10-26-florez-red-letters-citation-check.md`
+- [x] Mapped against the repo's cards and research files (helper pass): `audits/2026-10-26-florez-red-letters-repo-map.md`
+- [x] Possible problems in our own files logged: `AUDIT-LIST.md` A16-A22
+- [x] Rights: published in full by Rex's decision (D8), since Christian sent it for the repo
+- [ ] Card additions (Next Up 19a, D9); points to send Christian (19b); sources to add (19c)
+
 
 ### 2026-10-20 — Google Drive batch from Chris Crutchfield
 
