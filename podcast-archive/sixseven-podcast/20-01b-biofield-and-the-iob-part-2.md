@@ -10,7 +10,90 @@
 
 ## Summary
 
-*Notes pending.*
+A four-hour solo livestream in early January 2025 (he mentions a detox bath taken between December 25 and January 1), continuing the biofield series from episode 19. The first hour and a half explains, for non-technical listeners, how the internet works (DNS, the physical backbone, server load balancing) and his thesis that it is being moved onto a "cyber-physical backbone" of human bodies: the biofield as the antenna, red blood cells and bone marrow as the processors, engineered E. coli and yeast as biosensors, and the COVID period as what the woman he learned this from (the transcript calls her "Miss Wallace" and later "Sabrina") described as a "load balancing test." He frames the project as an attempt at "synthetic omnipresence," a counterfeit of God's omnipresence, omniscience and omnipotence, and reads the Trump and Musk moment as the handover to an AI-managed system. The remaining two and a half hours are audience Q&A: how to mitigate (learning to control the biofield, limiting wireless devices, a detox bath recipe he reads out), REAL ID, Tartaria and Old World architecture, bells and healing frequencies, giants, the Deagle population forecast, smart cities, land patents, the shape of the earth and the distance of the moon, Hollywood, lead paint, astrology and cycles, the mark of the beast, the twelve tribes, aliens, and the soul. Religious material is concentrated in the Q&A: the Holy Spirit as one name for the biofield and as the source of discernment about smart cities, his Pentecostal Word of Faith upbringing and a close reading of the mark of the beast, the lost tribes of Israel identified with Native and Aboriginal peoples, and demons as spirit beings without a physical body.
+
+## Key Points
+
+- [00:01] Returns to the wireless body area network after the earlier live; promises a simpler version.
+- [01:34] Background: computer science, then telecommunications and mass communication at North Carolina State University; introduced about a year earlier to the work of a researcher on the internet of bodies.
+- [04:44] ARPANET, in his account, is not just the internet's precursor but its centralized bedrock; decentralization still runs through it.
+- [12:35] Recaps the control wheel (pharma, education, entertainment, politics, tech, history, religion, food) and compartmentalization; at [14:09] school subjects as early conditioning.
+- [15:44] The biofield (the NIH term, he says; aura, chi, prana in other cultures), about 30 feet around the body, as the sixth sense; the pineal as an attenuator.
+- [18:51] The project as "synthetic omnipresence," with synthetic omniscience and omnipotence: "if you trying to pretend like you is God." Above governments and militaries he places a "Brotherhood and banking level."
+- [20:26] The biofield goes by many names, "the Holy Spirit the Holy Ghost if you're Pentecostal"; COVID soured trust; the injections were not meant simply to kill.
+- [21:58] The real trial was the whole world; DoD timeline restated (1995, 2005, 2012; DoDIN since 2017).
+- [25:11] The body as electric: defibrillators, piezoelectric quartz, a lemon battery.
+- [29:50] How a web request travels: modem, DNS, the physical backbone, undersea cables, server farms.
+- [36:06] Asked "Miss Wallace" what COVID was; at [37:40] her answer, as he relays it: COVID was "a load balancing test"; he explains load balancing and packet loss.
+- [39:12] Loss of taste and smell and brain fog as bodies reacting to the test; urban zip codes more affected.
+- [45:23] Hospitals as high-EMF environments connected to the "medical body area network"; WBAN under IEEE 802.15.6, Bluetooth placed at 802.15.4.
+- [48:33] Wearables, phones and "bootstrapping"; DoD "AI precision healthcare" from 2017.
+- [50:06] AI as the coming form of government; ChatGPT appearing after the pandemic.
+- [57:55] The "digital twin" in silico; the ether removed from education; ethernet and the dropped "ae."
+- [1:01:04] Ads that match unspoken thoughts as "psychic marketing."
+- [1:04:10] Three election cycles as a push toward a new system; an AI government presented as incorruptible; DOGE, Musk and Ramaswamy.
+- [1:07:16] Spike protein as a biomarker; "vibe" as vibration; people transmit states to each other through the biofield.
+- [1:18:19] MIMO; engineered E. coli and yeast delivered through injections, food, drinks and skincare; childhood vaccines as the "initial baseline operating system."
+- [1:26:04] The fall of Tartaria as the start of an era of energy control.
+- [1:27:38] The wheel restated: entertainment calls the real fake and the fake real; at [1:29:16] religions keep people externalized and fighting; he prays and trusts God, but "nobody ever talked about" the biofield in church.
+- [1:30:54] Q&A begins. Mitigation: learn to control the biofield (he describes raising the hairs on his body, easier with music); at [1:32:28] he first heard electronic tones in 2017, which his wife Jennifer did not hear.
+- [1:35:33] Limit Wi-Fi and smart devices; a detox bath (baking soda, borax, bentonite clay, activated charcoal, Epsom salt), credited via a friend to a doctor the captions render as "Carrie mday"; at [1:47:59] he reads the protocol; listeners can DM him or "Swedish love," his wife's account.
+- [1:49:35] REAL ID: he prefers a passport and two forms of ID; expects identity to become a bio-signature.
+- [1:51:11] Tartaria as pre-USA; 1776 to 1876 as its erasure; at [1:54:17] his view that most Black Americans are Native, not from Africa; Old World domed buildings as Tartarian and Moorish architecture.
+- [1:57:25] World's fairs (St. Louis) and building fires as removal of evidence.
+- [2:05:12] Recommends the YouTube channels My Lunch Break and, at [2:09:52], Mind Unveiled.
+- [2:16:02] Belfries as docking points for electric airships; bells and organs as healing frequencies ([2:19:10]).
+- [2:20:45] Hertz to terahertz explained on a keyboard; low-frequency towers and moods.
+- [2:28:36] Recommends Alison McDowell on technocracy.
+- [2:30:13] The Deagle forecast of a 2025 US population of 68 million (later 98 million); "migration" as the stated cause.
+- [2:34:51] Smart cities, "freedom cities," 15-mile geofencing; Melbourne lockdowns as a test.
+- [2:42:41] A future choice between a smart city and the woods, with an implant offered "not your left hand your right hand just so that it doesn't look like the mark of the beast"; at [2:44:14] "anybody who's got a working discernment meter who the holy spirit is actually talking" to is already leaning toward the woods.
+- [2:45:47] Giants: tall doors in Old World buildings; gargoyles and griffins as real animals; at [2:48:57] "there's nothing new Under the Sun"; cycles of kingdoms of 500 to 600 years.
+- [2:55:10] Shape of the earth: the moon looks close; crepuscular rays ("Jesus lights") suggest a near light source; he leans toward flat with a toroidal possibility.
+- [3:06:03] Microwave as a band within 5G's range.
+- [3:09:12] MKUltra and celebrities; a 2013 music video in which an artist asked him to superimpose a microchip on his head.
+- [3:15:25] Books: Arthur Firstenberg, *The Invisible Rainbow*; an Odysee channel (spelled out in the captions as "PS i n e rgy") run by the researcher he learned from, who he says installed the internet at the University of Wisconsin-Whitewater.
+- [3:26:18] Crypto mining to be done by bodies; encryption keys stored in DNA.
+- [3:29:27] Mark of the beast: grew up in a "Pentecostal Word of Faith" church; Revelation gives "three attributes": every man rich or poor, slave or free; no buying or selling without it; by deception. It does not say people are killed for refusing the mark, only for not worshiping the image. He leaves it open whether it applies to current technology.
+- [3:32:36] Hollywood, from his ten years there: most people talented and moral, some silenced, a few "evil."
+- [3:38:53] Lead paint as EMF shielding; optogenetics through LED light and eyesight.
+- [3:43:31] Astrology: the zodiac reflects cycles rather than causing them.
+- [3:45:03] Aboriginal peoples as part of the Tartarian timeline; at [3:49:47] if his Native ancestry connects to "original Hebrew tribes," then the twelve tribes beyond Judah (Reuben, Simeon, Levi, Dan, Naphtali, Gad, Asher, Issachar, Zebulun, Joseph, Benjamin, Ephraim, Manasseh) may be among Native and Aboriginal peoples, and "the most high" speaking of Israel is not speaking only of Judah.
+- [3:52:55] Aliens as terrestrial: synthetic life infused with AI or demons; at [3:54:27] a device the size of a clothing iron that can remove a soul; at [3:56:01] the soul as 22 grams at the base of the spine (he says he cannot prove it); at [3:57:35] demons as spirit beings without a physical existence.
+- [3:57:35] "When they log in as Sabrina suggests": they are observing, building a digital twin, and trying to control people permanently, but cannot yet.
+
+## Sources Cited
+
+- Revelation 13 (the mark of the beast). **Held** (KJV). 13:16-17: "And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads: And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name." 13:15 has the killing tied to not worshiping the image; 13:14 has the deceiving.
+- Ecclesiastes 1:9 ("there is no new thing under the sun"). **Held** (KJV).
+- The twelve tribes of Israel (Genesis 49; the tribal lists). **Held** (KJV).
+- Arthur Firstenberg, *The Invisible Rainbow*. Not held.
+- An Odysee channel of the researcher he calls "Miss Wallace" and "Sabrina" (Sabrina Wallace is the guest in episodes 22 to 24). Not held.
+- YouTube channels My Lunch Break and Mind Unveiled; Alison McDowell. Not held.
+- The Deagle population forecast. Not held.
+- IEEE 802.15.6 (wireless body area network). Not held.
+- A detox-bath protocol passed on by a friend, credited to a doctor named in the captions as "Carrie mday." Not held.
+
+## Where This Overlaps the Repo
+
+- `christianity/2026-03-23-revelation-deep-dive.md` → `### The Mark of the Beast = Roman Economic Participation` reads Revelation 13:16-17 as the economic cost of refusing the imperial cult in first-century Asia Minor; he reads the same verses as possibly about future technology and leaves the question open. His observation that the text ties killing to the image (13:15), not to the mark, is a close reading the repo file does not make.
+- `questions/rapture-end-times.md` → `### 3. Jesus denied that the kingdom arrives by observable signs — and sign-watching is the engine of the whole system` concerns the sign-watching tradition he describes from his Pentecostal upbringing.
+- Otherwise, no direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **Revelation gives three attributes of the mark, and refusing it is not punished by death.** KJV 13:15-17: death is for not worshiping the image (13:15); the mark governs buying and selling (13:17); deception is 13:14. His reading matches the KJV text.
+2. **The lost tribes of Israel are among Native and Aboriginal peoples.** A view with a long history (seventeenth-century writers on Native Americans as the lost tribes); no source named here.
+3. **COVID was a "load balancing test" of an internet of bodies.** Attributed to the researcher he consulted; no documents named.
+4. **The biofield is the NIH's term for a 30-foot organ of a sixth sense.** NIH (NCCIH) uses "biofield" for a category of complementary therapies; the organ and the 30-foot extent are not sourced.
+5. **ARPANET is the internet's present centralized bedrock.** ARPANET was decommissioned in 1990; the present backbone is run by commercial carriers.
+6. **Bluetooth is IEEE 802.15.4.** Bluetooth was 802.15.1; 802.15.4 underlies Zigbee and similar protocols.
+7. **The Deagle forecast put the 2025 US population at 68 million, later 98 million (about 99 million).** Deagle.com did publish a 2025 forecast near 99 million before removing its forecasts; the 68 million figure is not confirmed here.
+8. **The moon is not 293,000 miles away.** The figure he works from is not the standard one: the moon averages about 238,900 miles (384,400 km).
+9. **The soul weighs 22 grams and sits at the base of the spine.** The weight recalls Duncan MacDougall's 1907 experiment (21 grams), which has not been replicated; the location is from what he was told.
+10. **Old World buildings were built before power tools, by a Tartarian civilization, and world's-fair buildings were destroyed to hide them.** No source named.
+11. **Most Black Americans are Native rather than of African descent.** See the shipping records cited in the episode 19 notes; genetic studies of African Americans generally find majority West and Central African ancestry.
+12. **Lead paint was banned because it blocks EMF; LED lighting serves optogenetic networks.** The US banned lead in residential paint in 1978 on health grounds; the stated motive is his reading.
 
 ---
 

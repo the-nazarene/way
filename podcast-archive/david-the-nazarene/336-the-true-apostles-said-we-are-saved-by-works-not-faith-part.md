@@ -10,7 +10,83 @@
 
 ## Summary
 
-*Notes pending.*
+Part three of the series on works and faith (part one, file 334: Jesus' plain teaching; part two, file 335: the parables). This part asks whether "the true apostles" taught the same as Jesus, against a faith-alone gospel he attributes to Paul and against dispensationalism, which he says sets Jesus' words aside (Luke 21:33 and John 13:15-17 as his answer). Most of the video is a reading of Peter in the Recognitions, which he reads from Snyder's Nazarene Acts edition: the apostle may not speak anything of his own (2.33); believe no teacher without the testimonial of James (4.35, with Homilies 11.35 on the wicked one's apostles and the ravening wolves); the wedding garment of baptism and how it is spotted, with the table of demons as "the first step to you of three" of thirty, sixty and a hundred commands (4.35-36); the faith of works and friendship with God secured by obeying his will (1.26); resurrection reward by good deeds (1.52); this world as "the time of works" and the way, travellers, gate and city (2.20-22); the man who will not confess what he knows (3.36); and the gate of life and road of good works (5.5-7, 5.28). He then reads 2 Peter 1:10 with "through good works," 1 John 2:3-6, 3:4-24 and 5:1-13 (rendering pisteuō as "keep on obeying unto"), and the Homilies (7.4, 7.11, 8.7, 8.23, 10.6, 11.11) on the things well-pleasing to God, not tasting dead flesh, "why call me Lord, Lord," and being "baptized in good works." Along the way: James Tabor's blue thread (justice, the prophets) and red thread (sacrifice, the priests), with Paul as the high priest's agent on the red thread; Mendenhall on the old things being new and the new old; the Oera Linda Book as the same struggle in Frisia; and a long personal section on giving up meat. He concludes that salvation by belief alone is found "only" in Paul.
+
+## Key Points
+
+- [00:00] Recap of parts one and two; now the "true apostles, not the false one." The faith-alone gospel described as believing some biographical data (Romans 10:9 paraphrased).
+- [01:30] Dispensationalism says Jesus' words are done away with after the resurrection; that would make Jesus a prophet who chose apostles unable to understand him. He calls it "a literal doctrine of demons," born at "the seance tables in John Nelson Darby's Haunted Castle."
+- [02:20] Luke 21:33 (my words shall not pass away) and Matthew 5:18 (not one jot from the law): heaven and earth are still here, so neither has passed away.
+- [04:11] John 13:15-17: the servant is not greater than his lord, nor an apostle greater than his sender; a church that teaches an apostle above Jesus is apostate.
+- [06:04] Recognitions 2.33 read: the apostles teach what was committed to them and may not speak anything of their own; one who does is "a false apostle" and "a traitor." His example: an ambassador who permits idol food has gone outside the will of the sender.
+- [10:34] He notes Peter is speaking to Simon Magus. Recognitions 4.35 read: believe no teacher without the testimonial of James or his successor; one true Prophet, twelve apostles as his twelve months.
+- [12:19] 2 Corinthians as a dispute over letters of commendation Paul did not have.
+- [13:17] Homilies 11.35 read: the wicked one promised to send apostles from among his subjects; shun any who does not compare his preaching with James's; Simon sent; ravening wolves. He repeats from file 346 that the phrase occurs only in Matthew 7:15 and Genesis 49 (Benjamin).
+- [16:06] James's letter as a response to Galatians and 2 Corinthians: the same scriptures interpreted the opposite way, and the "empty man" (James 2:20) answering Paul's claim to have Christ within. James 2:14-26 read. "Paul cannot stack up to James."
+- [18:44] Recognitions 4.35-36 read: the wedding garment is the grace of baptism, to be kept unstained; it is spotted by another teacher, by murders and adulteries, and by the table of demons (things sacrificed, blood, the strangled). These are "the first step to you of three" (thirty, sixty, a hundred commands); with James's fornication rule, four of the thirty. The four purity rules are the minimum for entry, followed by hearing Moses read every week (Acts 15:21), obedience, baptism.
+- [24:18] Recognitions 1.26 read: "the faith of works"; the demon steals the words of salvation; the friendship of the Creator is secured by living well and obeying his will, "which will is the law of all that live." Friend of God tied to James 2:23.
+- [26:42] Recognitions 1.52 read: bodies cleansed by dissolution, inheritance by good works, the first to see the Father.
+- [28:56] Recognitions 2.20 read: the obedient are reckoned as doing something good; he contrasts this with the "filthy rags" verse (Isaiah 64:6), which he suggests was addressed to people sacrificing animals.
+- [31:32] Recognitions 2.21 read: we are judged on account of works, not knowledge of hidden things; do not leave seeking what is right for speculation (he lists pre-existence debates, the shape of the earth); "This is the place, this the time of works."
+- [34:34] Recognitions 2.21-22: inquire first into the justice of God. James Tabor's two threads: the blue thread (justice, righteousness, obedience; the prophets) and the red thread (sacrifice and blood; the priests); the Ten Commandments as ten examples of covenant behaviour; Jesus' teaching and the Holy Spirit (Jeremiah) as the tools; Friedman's Who Wrote the Bible? for how the threads were tangled.
+- [38:46] Paul as the high priest's agent (Acts 9), so preaching the red thread.
+- [39:36] The Oera Linda Book: the same struggle in Frisia between prophets of Wralda (captioned "Ralda," which he likens to Yahweh) and an incoming priest class.
+- [40:25] Recognitions 2.22 read: the way is the course of our life, the travellers those who do good works, the gate the true Prophet, the city the kingdom.
+- [42:29] John's pisteuō should be rendered "obey" about half the time, depending on context.
+- [43:12] Recognitions 3.36 read: one who refuses the rule of a reformed life will not confess what he knows; those who desert a trade speak ill of it. His application: Christians who were taught to obey Jesus and the Ten Commandments as children; a pastor who drove off when David listed Paul-Jesus contradictions.
+- [47:35] Recognitions 3.36-37 continued: those unwilling to do good works are kept by desire from assenting to what they judge right. Covenant and freedom: the marriage analogy; "taking the name of the Lord in vain" as taking his name in covenant and breaking it.
+- [52:30] Recognitions 5.5 read: no one but the true Prophet confers truth; "the gate of life ... and the road of good works." Recognitions 5.7: the one who receives it directs his actions to good works and wonders at others' errors. He names Aaron Abke, Cameron Waters and others who reached the same view, and a friend who reached it from the Bible alone.
+- [56:32] Recognitions 5.28 read: reconciled to God, pleased and displeased with what pleases him, "called his friends"; John 15:14 and James 2:23.
+- [1:00:10] People who knowingly work against God, among whom he names occultists and "Talmudic Jews" (Revelation 2:9), and their main tool: "God is love" used to deny that there will be a judgment, which he calls the basis of Pauline and occult theology. God is love and also just.
+- [1:02:41] An aside about a church he attends for its praise music and a sermon on giving; the law, not giving, is on every page.
+- [1:07:14] 2 Peter 1:10 read with "through good works"; he says the phrase is in almost every ancient manuscript and left out of translations on the basis of one manuscript "to protect Paul."
+- [1:08:46] 1 John 2:3-6 (keep his commandments; walk as he walked); 1 John 3:4 (sin is the transgression of the law; "highlight" it); 3:7-10 (born of God does not keep sinning; he equates born of God with baptism and Peter's wedding garment); 3:18-24; 5:1-13 read with "keep on obeying unto." John agrees with James and Peter.
+- [1:18:31] Homilies 7.4 read: the things well-pleasing to God (pray, abstain from the table of devils, not to taste dead flesh, not to touch blood, be washed from all pollution, the golden rule).
+- [1:20:35] His own move to vegetarianism 12-13 years ago after hearing a presentation on the Homilies; the Jesus Way podcast's Jesus-diet episode (Aaron Abke) on meat and energy; personal anecdotes about looking younger; meat-eaters as "necrovore," death-eaters; "you are the sum total of your choices."
+- [1:33:05] Homilies 7.11 read: Peter as God's "second messenger" who drives away diseases brought by Simon; he links the disease to the sacrificial meal with Simon.
+- [1:35:28] Homilies 8.7 read: "Why call ye me Lord, Lord," said to one particular person; he proposes Peter's sayings of Jesus come from the Gospel according to the Hebrews. "Understanding both the old things as new ... and the new things as old," which he reads with Mendenhall: the sacrificial red thread is the new addition and Jesus' teaching the original Moses.
+- [1:39:24] Homilies 8.23 read: "baptized in good works"; neither believe in idols nor partake of the impure table (dead flesh), nor murder, nor hate those it is not right to hate. He holds it is right to hate God's enemies, not one's own, and names "the synagogue of Satan."
+- [1:44:20] Homilies 10.6 read: like swine, the prey of demons; receive the law and become men; restored by good works. Homilies 11.11: reconciled to God by good works.
+- [1:46:03] Conclusion: Jesus and his apostles taught salvation by works; belief alone is found "only" in "the false apostle."
+
+## Sources He Cites
+
+- Luke 21:33; Matthew 5:18; 7:15; 22:2-14 (via Recognitions 4.35); John 13:15-17; 15:14; Romans 10:9; 2 Corinthians (letters of commendation, 3:1); James 2:14-26; Acts 9:1-2; 15:20-21; Isaiah 64:6; 2 Peter 1:10; 1 John 2:3-6; 3:4-24; 5:1-13; Revelation 2:9; Genesis 49:27. **Held** (KJV). KJV 1 John 3:4: "Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law." KJV Luke 21:33: "Heaven and earth shall pass away: but my words shall not pass away."
+- Clementine Recognitions 1.26, 1.52, 2.20-22, 2.33, 3.36-37, 4.35-36, 5.5, 5.7, 5.28. **Held** (Smith); read in Snyder's Nazarene Acts wording (Yahweh, Messiah; "justice" where Smith has "righteousness"). Smith 4.36: "Be this therefore the first step to you of three; which step brings forth thirty commands, and the second sixty, and the third a hundred."
+- Clementine Homilies 7.4, 7.11, 8.7, 8.23, 10.6, 11.11, 11.35. **Held** (Smith, Peterson). Homilies 8.23: "And this you cannot otherwise put off, than by being first baptized in good works."
+- James Tabor, the blue thread and the red thread. Positions only; his channel transcripts are in `podcast-archive/dr-tabor-channel/` (408 has his "blue thread" remark).
+- George Mendenhall, Ancient Israel's Faith and History; Richard Friedman, Who Wrote the Bible? Secondary; not held.
+- The Oera Linda Book. Not held.
+- The Jesus Way podcast, the Jesus-diet episode. In `podcast-archive/` (pointers only).
+
+## Where This Overlaps the Repo
+
+- `questions/blood-atonement-and-salvation.md` → `### 1. Asked point-blank how to be saved, Jesus names behavior`, `### "'Keep the commandments' is works-righteousness — nobody can do it, which is the whole point."` and the objection beginning `### "James 2 doesn't contradict Paul. 'Even the demons believe' (2:19)`.
+- `questions/pauls-legitimacy.md` → `### 4. James's letter answers the same question the other way, and the church knew it` and `### 5. The Jewish-Christian tradition remembers him as the opponent` (Homilies 11.35, Recognitions 4.35).
+- `questions/two-ways-kingdom-within.md` → `### 2. The final judgment scene is entirely behavioral` (judged on account of works).
+- `questions/how-we-read-john.md` → `### 4. The belief vocabulary spikes in John and nowhere else` (his "obey" rendering of pisteuō).
+- `questions/rapture-end-times.md` → `### 5. The paper trail is a bibliography, not a conspiracy theory`; `christianity/2026-03-08-darby-dispensationalism-deep-dive.md` → `### The Powerscourt Conferences (1831-1833)`.
+- `christianity/acts-15-james-four-decrees.md` → `## The Dietary Logic` and `### James Outranked Paul`; `christianity/clementine-literature-nazarene-writings.md` → `### Peter as Vegetarian` and `### Paul as "Enemy" of the True Teaching`.
+- `christianity/james-the-just-key-to-understanding-jesus.md` → `### James vs. Paul`.
+- `christianity/Incoming/clementine-recognitions-full-text.md` → `### Chapter XXXVI — The Garments Unspotted` (the thirty-sixty-hundred commands, Book IV).
+
+## Claims to Check
+
+1. **Dispensationalism began at séances in Darby's "haunted castle."** The repo's Darby file covers the Powerscourt prophecy conferences (1831-1833) and does not mention séances; `questions/CITATION-NOTES.md` lists the Scofield and Darby biographical framings among arguments the cards avoid.
+2. **2 Peter 1:10 "through good works" is in almost every ancient manuscript.** The phrase is read by Codex Sinaiticus, Alexandrinus and the Vulgate; P72, Vaticanus and the Byzantine majority text lack it, and the KJV (from the latter) has "give diligence to make your calling and election sure." Check against a critical apparatus.
+3. **pisteuō should be translated "obey" about half the time in John.** His rendering; standard lexicons give believe or trust, and John 3:36 uses a different verb (apeitheō, disobey) for the opposite.
+4. **"Filthy rags" (Isaiah 64:6) was said to people sacrificing animals.** KJV Isaiah 64:5-7 is the people's own confession: "we are all as an unclean thing, and all our righteousnesses are as filthy rags."
+5. **The four purity rules were three or four of "thirty commands."** Smith's Recognitions 4.36 says the table-of-demons abstentions are "the first step to you of three; which step brings forth thirty commands"; the count of four including fornication is his addition from Acts 15:20. Smith's footnote ties the numbers to Matthew 13:23 and Mark 4:8.
+6. **Recognitions 1.52, "on account of the achievements of their good works."** Smith: "they may obtain an eternal inheritance in proportion to their good deeds," said of those "who have not been able completely to fulfil the rule of righteousness."
+7. **The ravening wolf of Matthew 7:15 is Benjamin's wolf (Genesis 49:27), i.e. Paul.** His reading; Homilies 11.35 applies the saying to Simon. See file 346, Claims 1-2.
+8. **James's letter answers Galatians and 2 Corinthians.** His position (also file 157); the card treats James 2 vs Romans 4 / Galatians 3 as the clash of record.
+9. **Paul lacked letters of commendation and the Corinthians would not let him teach.** 2 Corinthians 3:1 asks "need we, as some others, epistles of commendation to you"; the rest is his reconstruction.
+10. **The sayings of Jesus in the Clementines come from the Gospel according to the Hebrews.** His proposal; the Clementines do not name their gospel source.
+11. **Tabor coined the blue-thread / red-thread image.** In Tabor's channel transcript 408 he says he coined the blue thread; attribute by paraphrase only.
+12. **Wralda in the Oera Linda Book corresponds to Yahweh.** His comparison; the book's origin (first published 1872) is debated.
+13. **"Talmudic Jews" as the "synagogue of Satan" (Revelation 2:9).** His application; KJV Revelation 2:9 is addressed to Smyrna: "them which say they are Jews, and are not, but are the synagogue of Satan."
+14. **Meat lowers energy and speeds ageing.** Personal observation and the Jesus Way episode; no source is cited.
+15. **Belief alone is found only in Paul.** Compare the belief conditions in John (3:16, 3:18, 5:24, 6:47) that `questions/how-we-read-john.md` addresses.
 
 ---
 

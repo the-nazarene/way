@@ -10,7 +10,37 @@
 
 ## Summary
 
-*Notes pending.*
+A short update recorded in autumn 2025 (after the killing of Charlie Kirk, which Chris says he has not discussed publicly because it is not the main issue). He says that the common enemy all people face is silent electromagnetic, psychological and radiological warfare aimed at the cells of the body, which he sums up as the "biodigital convergence." He introduces a hand-drawn map that took him a week (eight industries arranged around centralized banking and one financial agenda, with technologies, companies and policies in the middle rings) and a segment he calls a "biopsy" of a psychological operation. He previews a documentary: the Internet of Bodies (quoting a CNBC definition and a 2016 coinage), tokenizing everything tangible, the biofield as an "electric aetheric body part" that has been used without our knowledge, AI precision healthcare and the 48-hour cancer vaccine from the Stargate announcement. He announces a series of interviews, the first with a friend (named in the captions as Alex Ze, of The Way Forward podcast), and asks viewers whether this system is what they want for their children.
+
+## Key Points
+
+- [00:00] He has said little for months while making sense of events; the Charlie Kirk killing is not the "tip of the spear."
+- [00:52] Silent electromagnetic, psychological and radiological warfare as humanity's common enemy; the biodigital convergence.
+- [01:50] A "biopsy" of a psychological operation, presented playfully.
+- [02:32] The map: eight industries around centralized banking; technologies and policies in the middle layers.
+- [03:38] The ability to log into and affect the body wirelessly; the future internet interfacing with the body.
+- [04:27] Documentary preview; the Internet of Bodies.
+- [05:18] CNBC's definition; the term coined in 2016; an internationally coordinated operation to tokenize everything tangible.
+- [06:20] Universities and job descriptions already using the technology; part of national warfare doctrine.
+- [07:14] The biofield as a body part most never knew they had; access to one's nervous system sold back by subscription; AI precision healthcare and the 48-hour cancer cure.
+- [08:05] A documentary and interview series to come.
+- [08:57] An interview with a friend on The Way Forward podcast on the biofield and the "internet of" psyops; *Black Mirror*'s "White Bear."
+
+## Sources Cited
+
+- CNBC on the Internet of Bodies (quoted on screen, not dated). Not held.
+- The Stargate announcement (January 2025), referred to. Not held.
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **The term "Internet of Bodies" was coined in 2016.** The phrase is usually credited to Andrea Matwyshyn's law-review work (her 2019 *Iowa Law Review* article "The Internet of Bodies" uses it; she used it earlier in talks); RAND's 2020 report and a 2020 World Economic Forum paper popularized it.
+2. **Biodigital convergence.** The term is from Policy Horizons Canada's 2020 report "Exploring Biodigital Convergence."
+3. **The biofield is a body part used without our knowledge.** "Biofield" is a term from complementary-medicine research (coined at an NIH conference in 1992); no source given for its use as described.
+4. **This is part of national warfare doctrine.** No document named on air.
 
 ---
 

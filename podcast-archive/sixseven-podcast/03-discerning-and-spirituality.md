@@ -10,7 +10,32 @@
 
 ## Summary
 
-*Notes pending.*
+A short clip on CERN and spiritual discernment, apparently from the run of 2020 conversations with Daniel (he is named in the clip, and `04-appointed-times-the-calendar-and-the-backstory.md` refers back to an earlier talk on CERN and the Apocrypha). Chris argues that spirituality and particle physics overlap where science deals with things too small to classify, and that the boundary has been moved on purpose so that matters of spiritual warfare are treated as science. He says Newton and other founders of modern science saw their work as proving God, and that in the last 150 years or so (he names the Rockefellers) science and faith were set against each other in a Hegelian dialectic: churches were taught to remove the Apocrypha and not speak of demons, while others were taught to dismiss God. He points to the statue of Shiva at CERN, which he identifies with Apollyon (Greek) and Abaddon (Hebrew), and says CERN aims to disrupt how things enter and leave this world.
+
+## Key Points
+
+- [00:00] Spirituality and particle physics meet where the particles are too small ever to have been classified; a call to someone 400 miles away would once have been called witchcraft.
+- [00:00] The boundary between spiritual and scientific questions has been moved on purpose; Newton and others saw science as proving God's existence; the split is about 150 years old.
+- [01:32] Churches told to take out the Apocrypha and not talk about demons; others told God is not real; breaking apart time and space so demons can enter, described as "sentient gluons" or antimatter.
+- [01:32] The Shiva statue in CERN's courtyard, identified with Apollyon/Abaddon; CERN aims to break apart how things enter and exit this world.
+
+## Sources Cited
+
+- Revelation 9:11 (Abaddon in Hebrew, Apollyon in Greek), referred to by name. **Held** (KJV).
+- Isaac Newton (paraphrased on his purpose). Not held.
+
+## Where This Overlaps the Repo
+
+- The Apocrypha's removal from Protestant Bibles: `christianity/ethiopian-bible/00-overview.md` → `## The 81-Book Canon` (the broader canon); the KJV Apocrypha is held at `christianity/Incoming/kjv-apocrypha/`.
+- Newton: `christianity/trinity-fourth-century-construction.md` → `### Newton's Proof of Textual Forgery` (a different side of Newton's religious writing).
+
+## Claims to Check
+
+1. **Newton and the "godfathers of modern science" said their research aimed to prove God's existence.** Newton wrote that the system of the world "could only proceed from the counsel and dominion of an intelligent and powerful Being" (General Scholium, *Principia*, 1713); the claim for others needs names.
+2. **The Rockefellers split science from faith about 150 years ago.** No source given; the conflict-thesis histories usually point to Draper (1874) and White (1896).
+3. **The Apocrypha was removed by the same design.** The Apocrypha was dropped from most Protestant printings in the nineteenth century (the British and Foreign Bible Society's 1826-27 decision); the KJV of 1611 included it.
+4. **CERN's Shiva statue is Apollyon/Abaddon.** The statue (a gift from India in 2004) is Shiva Nataraja, the cosmic dance; the identification with Revelation 9:11 is his reading.
+5. **CERN aims to break the flow of how things enter and exit the world.** No source given.
 
 ---
 

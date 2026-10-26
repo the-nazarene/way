@@ -10,7 +10,57 @@
 
 ## Summary
 
-*Notes pending.*
+Recorded January 18, 2021, two days before the presidential inauguration, and addressed to friends and family on both political sides. Chris says neither side is telling the truth: he has voted for both parties in the past and now votes for neither, because, in his account, no vote has mattered since the District of Columbia Organic Act of 1871, which he reads as having turned the United States into a corporation under maritime law, with Washington, DC as a separate sovereign nation. He points to gold fringe on courtroom and Oval Office flags, names in capital letters on licences and social security cards, and the birth certificate as signs of this. He calls Donald Trump untrustworthy and tied to a "Brotherhood," says both parties are staging a transition toward a new financial and biotechnical system (NESARA on one side, the Great Reset on the other), mentions the Albert Pike letter to Mazzini on three world wars, and says Q told him nothing he did not already know. The spiritual frame runs through it: America as Mystery Babylon, prayer for one's household rather than for the nation, the struggle not against flesh and blood but against principalities, the called-out ones (he uses *kodeshim* and *ecclesia*) coming out of politics, and Yahshua as the only one who will set things right. He ends with royal bloodlines and the 2012 report that all but one US president descend from King John.
+
+## Key Points
+
+- [00:00] Two extremes, both being played: an incumbent who lost fairly, or a president draining the swamp under God's plan.
+- [01:36] He voted for both parties in the past and in neither of the last two elections.
+- [03:11] The Act of 1871: since February 21, 1871, nobody's vote has mattered; the gold-fringed flag as the flag of a different sovereign, the corporation of the United States.
+- [04:45] The story: a post-Civil War bailout on condition that the country become a corporation run under maritime law; DC as a separate sovereign.
+- [06:19] A Constitution "of" rather than "for" the United States; capitalized names on business licences and social security cards.
+- [07:53] The birth certificate and social security card as employee ID; he attended Obama's 2008 inauguration and later felt he had been fooled.
+- [09:25] Trump about to embarrass both left and right; Chris dislikes and distrusts him.
+- [10:59] Trump's family history and a "Brotherhood"; the Republic gone since 1871.
+- [12:30] New economic plans tied to foreign financial interests that consider people a virus.
+- [14:05] "America is Mystery Babylon"; blood on the nation's hands for Palestine, Yemen, Lebanon; he does not pray for America's restoration.
+- [15:39] No rioting, picketing or marching; the Pike-Mazzini letter of 1871.
+- [17:12] Red side and blue side both sold lies; his friends on both.
+- [18:45] Look at a leader's fruits and the symbols his family wears.
+- [19:30] Q since 2017; trafficking and abuse as a way of gaining help from fallen angels through sacrifice; "they can quote the Bible but so can Lucifer."
+- [21:03] Be wise as serpents and gentle as doves; the Father is not involved in American politics; both sides pushing a transhuman solution.
+- [22:37] Left wing and right wing as two wings of the same bird; staged events, from his experience in television.
+- [24:12] He believes there was fraud in the 2020 election, though no election has been legitimate since 1871; Pelosi's 2016 fraud claims and the 2000 Florida recount.
+- [25:11] The new system as a biotechnical platform for a financial bailout: NESARA and the Great Reset.
+- [26:43] Ephesians 6:12: the fight is with principalities, not people; ask the Creator and he will reveal himself.
+- [28:16] Fraud shown so that allegiance to the old system dissolves; salvation in him, not in politicians; royal intermarriage and the question of when royal rule ever ended.
+- [29:49] Columbus; a girl who traced all but one president to a common royal ancestor.
+- [31:23] The presidents as descendants of John Lackland.
+- [32:24] Nothing changes until Yahshua comes; "overstand"; the called-out ones leaving politics.
+- [33:58] Pray for neighbours and family, not for Mystery Babylon; wisdom comes from the *ruach*.
+
+## Sources Cited
+
+- District of Columbia Organic Act of 1871. Not held.
+- The Albert Pike letter to Giuseppe Mazzini (1871). Not held.
+- A news segment on BridgeAnne d'Avignon's presidential family tree (2012), played as audio. Not held.
+- Ephesians 6:12; Matthew 10:16; Matthew 18:20; Revelation 17-18 (Mystery Babylon); "those who have ears to hear" (Matthew 11:15). **Held** (KJV).
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **The Organic Act of 1871 made the United States a corporation and ended the Republic.** The Act (February 21, 1871) created a territorial government for the District of Columbia and was largely repealed in 1874. The corporation reading is a sovereign-citizen theory; US courts have consistently rejected it.
+2. **Gold fringe marks a flag of admiralty law or another sovereign.** Fringe is decorative under Army Regulation 840-10 and Executive Order 10834 (1959); courts have rejected the admiralty argument (e.g. *McCann v. Greenway*, W.D. Mo. 1997).
+3. **Capitalized names show one is an employee of the corporation.** The same sovereign-citizen literature; no legal source supports it.
+4. **The Pike letter to Mazzini on three world wars, dated 1871.** No original has been produced; the text circulates from William Guy Carr's *Pawns in the Game* (1955) and later writers. Its provenance is disputed.
+5. **All presidents but one are descendants of King John (John Lackland).** BridgeAnne d'Avignon's 2012 school project reported 42 of 43 presidents descended from John; the claim drew on online genealogies, and descent from a medieval king is common among people of English ancestry.
+6. **John Lackland is from the 1100s.** Born 1166, reigned 1199-1216.
+7. **NESARA and the Great Reset are the two sides' economic plans.** NESARA is a 1990s proposal (Harvey Barnard) later spread by online movements; the Great Reset was a World Economic Forum initiative launched in June 2020.
+8. **Pelosi claimed fraud in 2016.** Statements by Pelosi and others about foreign interference in 2016 can be checked against her posts; whether she alleged vote fraud is the question.
+9. **Columbus named syphilis.** The disease was named in Girolamo Fracastoro's 1530 poem; the Columbian origin of syphilis is debated.
 
 ---
 

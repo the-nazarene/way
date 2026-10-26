@@ -10,7 +10,50 @@
 
 ## Summary
 
-*Notes pending.*
+An Instagram-style live from June 2024, mixing Chris's live music and freestyle with commentary, recorded after Apple announced iOS 18 and its partnership with OpenAI. After some technical trouble and greetings to viewers in the chat, Chris says generative AI appeared too suddenly and too capably to be an accident, that it gives basic, Cliffs Notes answers, and that the real issue is access: money, goods and services now depend on passwords and networks, unlike earlier generations who could be self-sufficient for weeks. He reflects on the thin line between pruning and punishing and suggests that a collapse would force the kind of fruit fast (a mono-fruit cleanse) that could heal people. His thesis is that "artificial intelligence" is a misnomer, because intelligence cannot be artificial, as artificial love is not love. He then raises, as something he heard and cannot confirm, that AI computation is being moved onto human red blood cells through the biofield, which he links to the "sixth sense," and that the volume of wireless signals may explain rising headaches and illness akin to radiation poisoning. He asks how a creation could take over its creator, and suggests AI makes a convenient scapegoat. Closes with a song.
+
+## Key Points
+
+- [00:00] Technical difficulties; music; greetings to viewers.
+- [03:06] Recording the live on another phone to see the comments; the platforms run on the same servers.
+- [06:22] People want the big picture; ChatGPT introduced "out of thin air"; big things are paid for.
+- [07:56] The iPhone's long, costly development (and the Newton) against AI's sudden arrival; AI answers as "Cliffs Notes."
+- [09:30] His engineering and software background; access to money and goods depends on passwords and the Visa network.
+- [11:02] Self-sufficiency; Apple's iOS 18 partnership with OpenAI; questions about OpenAI's corporate form.
+- [12:35] Users' "digital twin" data plugged into Siri; the computer already saying no with no human to appeal to; pruning versus punishing.
+- [14:10] The mono-fruit cleanse (watermelon, grapes, lemons) and a collapse that would force it.
+- [15:44] As a storyteller and filmmaker, he sees a plot being set up; a war of the mind.
+- [17:16] "artificial intelligence I believe that's a misnomer"; artificial love is not love.
+- [18:52] AI as a Trojan horse; the most robust technology he has seen appearing after the pandemic.
+- [20:24] The logistics of rolling out GPT; the baby returns; "just hit remember password."
+- [21:59] Apple's T2 chip; he limits his use of AI; automatic updates making it unavoidable.
+- [23:32] Data mining moved onto the human biome as the real transhuman agenda; "I can't confirm or deny"; the biofield and the "sixth sense."
+- [25:05] Senses tied to body parts; increased headaches; radiation poisoning or something akin to it.
+- [26:39] The many wireless networks around us; trees and fruit mitigate it; AI's back end as the only explanation for its scale.
+- [28:11] How a free model scales within two years; planning of five to ten years for Siri-level integration.
+- [29:45] Can a clay pot take over its potter, or a horse its Creator? AI as a programmed outcome blamed on a glitch.
+- [31:17] Song; advertising profiles and the digital twin.
+- [34:25] AI as a tool for shifting responsibility onto an inanimate object; advice not to upgrade to iOS 18.
+- [37:38] Closing song.
+
+## Sources Cited
+
+- Apple's iOS 18 announcement and OpenAI partnership (June 2024). Not held.
+- An unnamed source for the claim about biofield computation ("somebody told me"). Not held.
+- The potter and the clay (Isaiah 29:16; 45:9; Romans 9:20-21), alluded to. **Held** (KJV).
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **Apple announced an OpenAI partnership in iOS 18.** Correct: announced at WWDC on June 10, 2024, with ChatGPT available through Siri and writing tools on an opt-in basis.
+2. **Nobody knows what kind of entity OpenAI is.** OpenAI's structure (a nonprofit controlling a capped-profit LLC) is public and was widely reported, including during the November 2023 board dispute.
+3. **Apple was bailed out in the 1990s.** Microsoft invested $150 million in Apple in August 1997.
+4. **AI computation is being run on human red blood cells via the biofield.** He presents it as hearsay he cannot confirm; no source given.
+5. **Increased headaches are due to wireless radiation.** No source given.
+6. **Automatic updates will make users use ChatGPT whether they want to or not.** Apple's integration requires the user to opt in to ChatGPT requests.
 
 ---
 

@@ -10,7 +10,117 @@
 
 ## Summary
 
-*Notes pending.*
+A conversation recorded for Chance Garton's Innerverse podcast and posted on the SixSeven channel with a short introduction by Chris (Chris Crutchfield, named in the conversation). Chance asks the questions; Chris talks about his documentary series (captioned as "biopsy of a sciopsy"), which Chance had seen at the Elementals gathering and calls "the grand unifying theory of conspiracies." Chris gives his background (telecommunications degree, film and television work in Los Angeles from 2010 to 2020) and walks through the documentary's central graphic: a wheel of eight industries (pharma, food, education, entertainment, technology, politics, history, religion) with banking at the hub, all turning toward what the UN, the World Economic Forum and standards bodies call the "biodigital convergence."
+
+Most of the conversation is technical and cultural. Chris describes the convergence as linking biological life to digital networks (smart dust, satellites, the body as a network layer), with the biofield as the input/output and a "digital twin" as what is written to. Chance, who works as a biofield tuner, offers a contrasting frame: the biofield is mental and forms the body rather than being emitted by it, so it cannot be written to directly; Chris agrees and recasts the system as conditioning or "inception." Chance supplies the IEEE 802.15.6 body area network standard, Zimmerman's 1995 personal area network work and RAND's *Internet of Bodies* (2020). Further threads: the computing term "daemon" and the parent process "forking" a child, read alongside dissociation and what people experience as demonic attachment; gematria on 802.15.6; technology as "synthetic omniscience" and an attempt to get spiritual powers without the moral law that governs them; Chris's "mezzanine dimension," which Chance calls "the middle verse"; Chance's "popnosticism," his name for the prison-planet story he sees in films like *The Matrix*, which he distinguishes from a gnosis of nature received by asking God; music as the midpoint of the energy spectrum and its use for entrainment and spellcraft (Chris's account of editing a B.o.B. video, John Todd's claims about a record label); Hollywood's ties to government; banking as the prototype ledger of the digital system (Twyman, Guénon); two acquaintances' reports of accounts with 30 and 80 zeros; Tartaria and the mud flood as a distraction; and podcast audio gear. Chris closes by describing the documentary as a shareable tool for people who sense something is off and cannot yet say what.
+
+## Key Points
+
+- [00:09] Chris introduces the conversation with Chance Garton of the Innerverse podcast, who had seen the first part of the documentary.
+- [01:21] Chance on seeing it at the Elementals gathering: it threads separate conspiracy topics into one argument.
+- [02:35] Chris's background: North Carolina, a bachelor's in telecommunications, engineering jobs, then video production and ten years (2010-2020) in the Los Angeles entertainment industry; about a decade ago he began learning how the industry connects to "brotherhoods and societies," religion, politics and pharmaceutical funding.
+- [07:33] The wheel: eight industries as spokes, banking at the centre. Chance frames the documentary's thesis as total manipulation of energy across the whole spectrum.
+- [10:49] Origin of the map: a sketch from a livestream on tech and pharma, redrawn over about a week, first shown at Confluence 2025. Example: much television exists because pharmaceutical advertising pays for it.
+- [13:50] His path from COVID commentary to technology; a fact-check article he traced to a former CIA officer turned journalist.
+- [18:59] Chance on glyphosate being treated as a national-security necessity under Trump.
+- [21:08] "Biodigital convergence" as the term used by the UN, the WEF and standards bodies; Klaus Schwab's Fourth Industrial Revolution and "you are the technology"; Chris calls it the trajectory of managed eugenics and notes eugenics was a popular movement 50 to 100 years ago.
+- [23:38] Smart dust with IP addresses, satellites, relays and mirrors; energy categorized by frequency; the Defense Department's "full spectrum dominance" (he places it around 2002 or 2004); ARPANET built from the start for this purpose; blockchain as the translating layer.
+- [27:28] Chance: everything is already connected through life force; the elite pattern is middlemanning every exchange of energy and taxing it, and building a digital twin of the universe.
+- [29:45] Chris: data centres are a stopgap; the goal is for each person's body to process its own data.
+- [31:48] Chance: the corporate move is to "steal the real and sell you back an imitation," social media being the modern case. His daughter, nearly two, has had no medical intervention.
+- [33:37] Insulin as a future subscription; Chris expects the marketing within about a year and says the etheric connection was removed from academia into R&D a century ago.
+- [36:12] Chance as a biofield tuner: drawing on "the old hermetic principle all is mind," he says "your mind is not in your body. Your body is in your mind"; the biofield forms the body and is close to soul or psyche, so he doubts it can be written to, though biometric reading for identity is plausible.
+- [40:29] Chris agrees: the biofield is the I/O, like a network card; the digital twin is what is written to; the two-wine-glasses resonance experiment as an analogy for entrainment. Exchange on DNA, with Chris reading the "acid" in DNA as a liquid, wave medium.
+- [44:46] Chris on injectables repurposing cellular metabolism as processing; Amazon Web Services, he has been told, leases human biofield processing; the Moderna CEO's 2020 description of mRNA as a platform.
+- [48:09] Chris: they cannot write to the field, so conditioning and "inception" stand in for it. Chance: most people let the outer world govern the inner.
+- [49:37] Chance's references: IEEE 802.15.6 wireless body area network (February 2012), using the body as the transmission medium by capacitive or galvanic coupling; Thomas Zimmerman's personal area networks at MIT (1995); RAND, *The Internet of Bodies: Opportunities, Risks, and Governance* (2020).
+- [52:59] Chris on the computing "daemon": a background process; Wikipedia ties the term to Maxwell's demon; the parent process forks a child that dissociates from the terminal. He links this to what he had learned about trauma-based mind control and says English hides older meanings.
+- [57:17] Chance: a fork is a split, as in dissociation; in his tuning work he finds compartmentalized life force from childhood trauma, sometimes requiring the person to talk with a younger self; much of what people take for demonic attachment he thinks is their own split-off life force.
+- [1:01:45] Chris: computers are reverse-engineered from the human body; Chance: "all technology is a plagiarization of nature"; subconscious beliefs as if-then statements.
+- [1:03:16] Chris on standards bodies (ITU, IEEE, FCC): Wi-Fi is 802.11, the 802.15 group holds Bluetooth (he gives 802.15.4) and the body area network (802.15.6); he reads the closeness of the numbers as evidence the body network was planned alongside Bluetooth.
+- [1:09:14] Chance on a year of energy-healing and psychic experiences around age 23 that then faded.
+- [1:09:54] Chance's gematria: 8 × 2 × 15 × 6 = 1440, read as 144, 12 × 12, a number of order and governance.
+- [1:10:53] Chris: the system as "synthetic omniscience," an attempt to play God; he speaks of God or source as the creator and of love, compassion and gratitude as what comes from connection to the divine.
+- [1:12:43] Chance: spiritual powers (siddhis, "cities" in the captions) depend on alignment with moral law or natural law and rebound on anyone who uses them to override another's will; much "black magic" is theatre; the technology looks like an attempt to bypass those moral rules.
+- [1:14:52] Chris: *Inception* as the model; a "managed quasi dimension," a "mezzanine dimension" within the 3D world; *The Matrix* as the same picture with wireless instead of a cable.
+- [1:19:30] Chance on *meso* (middle): "the middle verse."
+- [1:19:46] Chance: the controllers inject a "popnosticism" through films like *The Matrix* (a fallen prison planet made by a fake god to trap sparks of the divine), which he says rests on texts like the Nag Hammadi writings and differs from a real gnosis that comes when you ask God to teach you; he names paranoia and pronoia as two readings; the controllers (he names Ray Kurzweil) hold the prison-planet belief and are building it.
+- [1:22:30] Chris's hunch about a few thousand "future humans" from special projects and families (he names Musk, Kurzweil, possibly Bezos).
+- [1:24:33] Futurama, The Simpsons and Hollywood as a recruiting farm: talent is tapped and steered rather than ordered.
+- [1:27:28] Chris's account of a 2013 rescue edit on a B.o.B. video ("Paper Route" in the captions): a label-assigned creative director pushed occult symbols and a superimposed microchip; the artist went back and forth for days over losing money.
+- [1:35:01] Chance on hip-hop as Tavistock-style music as hypnosis; Chris's hunch that quantized beats broadcast over a city act as a master clock for entrainment, set against live drummers and singers.
+- [1:41:08] Drug names that read to Chris like demon names from a grimoire.
+- [1:42:36] Chance on producers who build sigils into track layouts, a festival story about a CD that appeared in his glove box, and the ancient Greeks limiting music.
+- [1:45:31] Chris: music as the midpoint of the electromagnetic spectrum, the "universal language."
+- [1:47:06] Chance: Moses was written as Musaeus (he says as far back as Josephus); the muses as incarnations that close and open world ages; music as the savior-preserver of oral tradition, now inverted into a corruptor.
+- [1:49:39] Chris on John Todd's claims (Zodiac Records, the Collins bloodline, a ceremony with 13 witches and 13 warlocks over each master), and his own wish to do the opposite with music; he mentions Chris Winters and electroculture.
+- [1:55:00] Chance: the real work is analog, on your land and in your community; Chris has hope for Americans, not for America, and expects pockets of analog resistance.
+- [1:59:56] Black Mirror's "San Junipero" and a Futurama episode as previews of consciousness in a server.
+- [2:01:54] Chance: entertainment seeds ideas; Chris on ideas as interdimensional transduction.
+- [2:03:49] Chris's Hollywood stories: a product-placement neighbour at Warner Bros. and script changes for brand partners; her account of Aaron Sorkin saying his father was on the Joint Chiefs; a caterer's account of Brett Ratner saying the UN had pitched and green-lit a script; Shia LaBeouf on an intelligence agent during *Eagle Eye*.
+- [2:09:21] Chance says Ratner's grandfather was Lee Ratner, the d-Con founder, and that Ratner went to high school in Israel.
+- [2:13:02] Chance: Fauci made an acting debut at 85 in *Oedipus the King* at Georgetown as Tiresias.
+- [2:14:20] Chance on banking at the hub: fiat money as an unlimited power source; "alcheconomics"; Tracy Twyman, *Money Grows on the Tree of Knowledge*; converting time and future generations into gold.
+- [2:16:39] Chance: banking is the prototype of the digital system, a log of who did what when; the legal person or digital twin takes no space but exists in time; René Guénon, *The Reign of Quantity and the Signs of the Times*: in the Kali Yuga quantity (time) overtakes quality (space); money velocity slowed in lockdown and time seemed to expand.
+- [2:19:38] Chris plans a "nerd layer" for the map: numbered references to books, articles and white papers.
+- [2:20:47] Chris: a man from his childhood church, connected to political circles and to Donald Trump before 2016, told him in about 2015 that a new financial system went live in 2012 and would go public within 10 to 15 years, and that he had seen an account with 80 zeros; a banker friend later saw one with 30. Chance notes that one with 80 zeros is the usual estimate for atoms in the observable universe. Chris: national debt is a tool of control, not a real constraint.
+- [2:29:48] Chris's contacts (SixSeven on YouTube, Instagram, Rumble, Odysee, X) and his close: people are not dummies but work with "redacted frameworks"; Chance: "redacted and distracted."
+- [2:34:49] Editing and audio gear (Riverside, StreamYard, Cloud Lifter, Soyuz Launcher).
+- [2:43:46] Chance thinks Tartaria and the mud flood are an allowed distraction, citing World's Fair construction photos, while finding Fomenko's recycled-history thesis partly persuasive; Chris uses the topic only to question linear progress; Mike Wilkerson; Catherine Austin Fitts ("trying to put an operating system on your nerves") and a Google Drive share block; Dr. Mari Arce, Sabrina Wallace and a planned volume two on history and esoteric topics.
+
+## Sources Cited
+
+- IEEE 802.15.6 (wireless body area network, 2012); the IEEE 802.11 and 802.15 working groups. Standards documents; not held.
+- Thomas Zimmerman, personal area networks (MIT, 1995). Not held.
+- RAND Corporation, *The Internet of Bodies: Opportunities, Risks, and Governance* (2020). Not held.
+- US military "full spectrum dominance" doctrine (date not fixed in the conversation). Not held.
+- Klaus Schwab, the Fourth Industrial Revolution; UN and WEF material on the biodigital convergence. Not held.
+- Moderna CEO's 2020 remarks on mRNA as a platform. Not held.
+- Wikipedia, "Daemon (computing)." Not held.
+- Tracy Twyman, *Money Grows on the Tree of Knowledge*. Not held.
+- René Guénon, *The Reign of Quantity and the Signs of the Times* (1945). Not held.
+- Anatoly Fomenko (New Chronology). Not held.
+- John Todd's 1970s testimony. Not held.
+- Josephus, for Moses as Musaeus. Josephus is cited in the repo at reference level; no text held.
+- The Nag Hammadi writings, named in general terms. Held in part: `christianity/Incoming/gospel-of-thomas-full-text.md` (Lambdin), `gnosticism/Incoming/gospel-of-philip-full-text.md` (Isenberg, selections).
+- "The old hermetic principle" that all is mind (the wording of *The Kybalion*, 1908). Not held.
+- Films and television: *The Matrix*, *Inception*, *Black Mirror* ("San Junipero"), *Futurama*, *The Simpsons*, *The West Wing*, *Eagle Eye*.
+- People named for their work: Catherine Austin Fitts (the *Plandemic* interview), Sabrina Wallace, Dr. Mari Arce, Chris Winters, Mike Wilkerson.
+- No scripture is read in this conversation.
+
+## Where This Overlaps the Repo
+
+- Chance's "popnosticism" and his description of the Nag Hammadi writings: `gnosticism/2026-02-22-gnosticism-deep-dive.md` → `### The Nag Hammadi Discovery (1945)`, `### The Demiurge (Yaldabaoth / Ialdabaoth)`, `### The Divine Spark`; `questions/the-gospel-of-thomas.md` → `### 1. What we actually physically have — state this before anyone else does` and `### "Thomas is a Gnostic gospel. The church excluded it for cause."`
+- Otherwise no direct overlap with the repo's research files: the conversation is about technology, media, music and banking.
+
+## Claims to Check
+
+1. **"Biodigital convergence" as a UN/WEF/standards term.** The phrase is the title of a 2020 Policy Horizons Canada report ("Exploring Biodigital Convergence"); its use by the UN, WEF and IEEE would need citations.
+2. **Full spectrum dominance date.** The phrase is central to the US Joint Chiefs' *Joint Vision 2020* (2000); Chris places it in a 2002 or 2004 Army manual.
+3. **ARPANET designed from inception for the biodigital convergence.** Chris's thesis; no source given.
+4. **IEEE 802.15.6 released February 2012.** Matches the standard's publication date; it covers in-body and on-body communication, including human body communication.
+5. **Bluetooth is 802.15.4.** Bluetooth was standardized as IEEE 802.15.1; 802.15.4 is the low-rate standard under Zigbee. The numbering argument at 1:03:16 rests on this.
+6. **Zimmerman, MIT, 1995.** Thomas Zimmerman's personal area network work began at the MIT Media Lab and was published in the *IBM Systems Journal* (1996). Checkable.
+7. **RAND, *The Internet of Bodies* (2020).** The report exists with that title; what it says about governance gaps can be read directly.
+8. **Amazon Web Services leases human biofield processing.** Stated as something Chris was told; no source.
+9. **Moderna CEO on mRNA as a platform (2020).** Moderna's own materials describe mRNA as a platform likened to an operating system; the specific 2020 statement is not located here.
+10. **"Daemon" and forking.** Wikipedia's article does tie the term to Maxwell's demon (via MIT's Project MAC) and describes a daemon created by a parent process forking a child; whether the earlier wording Chris remembers differed would need his screenshots.
+11. **Gematria on 802.15.6.** 8 × 2 × 15 × 6 = 1440; Chance offers the reading as mystical, not as evidence.
+12. **Moses written as Musaeus, going back to Josephus.** The identification of Moses with Musaeus is attributed to the Jewish writer Artapanus (2nd century BCE), preserved in Eusebius, *Praeparatio Evangelica* 9.27; it is not known from Josephus. Neither text is held.
+13. **Moses's story is not as old as we've been told.** Stated in passing; no source given.
+14. **The Nag Hammadi writings as fake texts behind the prison-planet belief.** The codices are fourth-century Coptic manuscripts of earlier works; the demiurge and trapped-spark themes belong to some of them (the Apocryphon of John) and not others (Thomas). See the overlap files above.
+15. **"All is mind" as an old hermetic principle.** The wording is from *The Kybalion* (1908); the Corpus Hermeticum has related teaching on Nous.
+16. **John Todd's account (Zodiac Records, the Collins family, 13 witches and 13 warlocks).** Todd's 1970s testimony; Chris presents it as Todd's claim.
+17. **B.o.B. video (2013).** Chris's first-hand account; the song title as captioned ("Paper Route") would need checking against B.o.B.'s releases.
+18. **Aaron Sorkin's father on the Joint Chiefs.** Reported second-hand from a neighbour; published biographies describe Sorkin's father as a copyright lawyer.
+19. **Brett Ratner and the UN green-lighting a script.** Second-hand from a caterer; no source.
+20. **Ratner's grandfather was Lee Ratner, the d-Con founder; high school in Israel.** d-Con was founded by Lawrence ("Lee") Ratner; the family link and the schooling would need a source.
+21. **Fauci's acting debut in *Oedipus the King* at Georgetown.** Checkable in Georgetown's theatre listings.
+22. **Glyphosate declared a national-security necessity.** Refers to a recent Trump administration action; the document would need to be identified.
+23. **A financial system live since 2012; accounts with 80 and 30 zeros.** Second-hand accounts from two acquaintances; no documents.
+24. **Money velocity and the lockdown sense of time.** US M2 velocity did fall sharply in 2020; the link to perceived time is Chance's reading.
+25. **Guénon on quantity and quality.** *The Reign of Quantity and the Signs of the Times* (1945) does frame the present age as the reign of quantity; the time/space pairing as Chance states it can be checked in the book's early chapters on space and time.
+26. **Catherine Austin Fitts on an operating system on the nerves.** Her 2020 *Plandemic* interview; the wording would need the video.
 
 ---
 

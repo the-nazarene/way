@@ -10,7 +10,39 @@
 
 ## Summary
 
-*Notes pending.*
+A segment featuring Sabrina Wallace (named in the title), recorded around the January 2025 inauguration; the voice throughout is hers, and she refers to the episode as being on a channel she calls "non vaxer's." Wallace says the inauguration changes nothing about the technology she describes: human anatomy connected to wireless networks (body area networks), molecular communication, nanotechnology and visible-light communication, with the body itself as a node on the network. She criticizes other figures in the health-freedom world by name (the captions give names including Karen Kingston, "Mikey Adams and his friends at the Brighton," "Vander steel," and "your Jason crew") for, as she puts it, telling people they had the mark of the beast or that there was no nanotechnology, or telling them to sit and pray until Jesus comes. She walks through a list of white papers and conference titles (IEEE, MIT, NIH, NATO, NASA, CERN, the National Nanotechnology Initiative, Rice University) that the channel has had an AI voice read aloud, speaks of smart cities and Agenda 2030, life-extension technology for the few, and children told they must "upload to the cloud," and plays a promotional video for a synthetic-biology education program (BioBuilder). It ends on a reference to Mark 5:36 and "amen."
+
+## Key Points
+
+- [00:00] The inauguration will not switch off the blockchain; augmentation for life extension; carbon credits and data centres.
+- [01:33] No politician would have mattered; the distancing period used to build digital-twin databases; MIT and the "arms race" for body-area-network equations; her move to Odysee.
+- [03:07] Pastors who say Revelation is here while, in her view, lying about God's creation; "my people perish for lack of knowledge."
+- [04:41] Molecular communication, MK-Ultra, cyber and AI; Giordano (named in the captions); a run of NIH, MIT and conference titles.
+- [06:15] IEEE 5G/6G test beds; brain monitoring and neuro-rights; RNA and DNA delivered for a bio-cyber interface; your body is the network, not the towers.
+- [07:48] Pacification: "get on your knees stare at the wall pray to Jesus" while others work; biblical people, she says, do not have a problem with her.
+- [09:23] MEMS sensors and atmospheric monitoring; smart cities and Agenda 2030; youth told to augment to get a job.
+- [10:57] Life-extension technology for the few, since the 1800s; a BioBuilder promotional video on synthetic biology.
+- [12:32] The video continues; a closing line about a single dad in Canada.
+- [13:24] "Mark 536 amen."
+
+## Sources Cited
+
+- IEEE, MIT, NIH, NATO, NASA, CERN, National Nanotechnology Initiative, Rice University papers and talks (titles read on screen, not cited in full). Not held.
+- James Giordano (named in the captions as "geordano") on neuroweapons. Not held.
+- BioBuilder Educational Foundation promotional video (played). Not held.
+- Hosea 4:6 ("my people are destroyed for lack of knowledge," KJV) and Mark 5:36, alluded to. **Held** (KJV).
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **Human anatomy is already connected to wireless networks, with the body as the node.** Body area networks are a real research field (IEEE 802.15.6, 2012, for wearable and implanted devices); the claim that unconsenting people are networked needs a source.
+2. **Officials said in 2020 that RNA and DNA shots were for a bio-cyber interface for human augmentation.** No document named on air; would need the citation.
+3. **People named in the captions told followers they had "the mark of the beast," or that there was no nanotechnology.** Attributions to named people need their own statements.
+4. **Life-extension technology "siphoning neurons" has been in use since the 1800s.** No source given.
+5. **Hosea 4:6 is quoted as "perish for lack of knowledge."** The KJV reads "destroyed for lack of knowledge"; "perish" is Proverbs 29:18's verb ("where there is no vision, the people perish").
 
 ---
 

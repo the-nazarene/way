@@ -10,7 +10,46 @@
 
 ## Summary
 
-*Notes pending.*
+An answer to viewers who ask why he does not quote the Gospel of the Holy Twelve, given that it presents a vegetarian Jesus as he does. He reads the Wikipedia summary (serialized in a Lincolnshire newspaper 1898-1901, collected 1901 by Rev. G. J. R. Ouseley, reissued 1924; a Tibetan manuscript never produced; later editions saying the text came in dreams and visions), then Ouseley's own introduction (communicated by Swedenborg, Anna Kingsford, Edward Maitland and a priest named Placidus, in dreams and visions, not in seance rooms), and a website's colour-coded comparison showing most of the first 18 lections matching the KJV verbatim, mostly Luke. His reasons: it is a channeled book; an oral translation from Aramaic would not match a KJV made from Greek; Ouseley probably assembled it from the gospels to fit his convictions, which he does not think was done in bad faith. He reads Keith Akers's blog, which calls it a channeled work and allows that it might be inspired in some sense; his reply is that the biblical authors had first- or second-hand knowledge, and Ouseley wrote 1,900 years later. He puts the Essene Gospel of Peace and the Humane Gospel in the same category, says the plant-based teaching may be true without making the book genuine, and contrasts the Clementines, which he reads because he takes them to rest on source documents from Peter through Clement and a redactor. He has himself been tempted to combine Matthew with the Nazarene gospel quotations into a reconstruction, and thinks Ouseley did something like that with Luke.
+
+## Key Points
+
+- [00:00] Viewers ask whether he has read it and why he does not quote it. Wikipedia read: disputed, widely believed pseudepigraphic; serialized 1898-1901; collected 1901; reissued 1924 by Samuel Hopgood Hart; many editions since the 1950s.
+- [01:34] Wikipedia continued: published by the Order of the Atonement and United Templar Society (Ouseley's imprint, 1881); the Tibetan manuscript; later editions say the text was communicated in dreams and visions; Andrew Linzey and Richard Alan Young quoted as finding no evidence of antiquity.
+- [03:07] Ouseley's introduction read: preserved in a Tibetan Buddhist monastery, hidden by Essenes, translated from Aramaic, communicated to the editors (a footnote says Ouseley means himself) by Swedenborg, Kingsford, Maitland and Placidus.
+- [04:43] Introduction continued: supplemented from the four gospels where indicated; given in dreams and visions of the night, not in seance rooms.
+- [06:18] His reason: "it's a channeled book." He bought and read it and it did not strike a chord. He has considered building a best-possible Gospel of the Nazarenes from Matthew plus the patristic quotations, and thinks Ouseley did something similar.
+- [07:53] Ouseley relied mostly on Luke. A website colour-codes the first 18 lections by KJV source; the bulk matches the 1611 KJV word for word.
+- [09:27] The website's claim that about 70% matches the KJV verbatim. His question: why would an oral translation from Aramaic match an English translation made from Greek; the vegetarian material appears as insertions.
+- [11:02] He thinks Ouseley edited the gospels to fit beliefs he likely drew from the same material David reads, and does not think it was underhanded. Keith Akers (The Lost Religion of Jesus) blog: a channeled work, possibly inspired in some sense, like the New Testament or the Quran.
+- [12:34] His distinction: the biblical authors had first-hand or second-hand knowledge. Akers: the Tibetan-manuscript claim misrepresents Ouseley's and Kingsford's views; Ouseley's own line, seek not from without. The Essene Gospel of Peace and the Humane Gospel are named as similar.
+- [14:09] The theology of a plant-based Jesus may be true without the book being genuine; he will not build doctrine or teach history from a channeled book. Readers who find it helpful are free to.
+- [15:44] The Nazarene Acts and the Clementines he reads because he holds they rest on source documents from Peter, passed through Clement and a redactor.
+
+## Sources He Cites
+
+- Wikipedia, "The Gospel of the Holy Twelve" (quoting Andrew Linzey and Richard Alan Young). **Not held**.
+- G. J. R. Ouseley, The Gospel of the Holy Twelve, introduction (1901 and later editions). **Not held**.
+- A website comparing the first 18 lections with the KJV (URL shown on screen, not spoken). **Not held**.
+- Keith Akers, blog entry; The Lost Religion of Jesus. **Not held**.
+- Essene Gospel of Peace (Szekely). **Held**, Tier 4 (`christianity/Incoming/essene-gospel-of-peace-book-1-full-text.md`).
+- The Humane Gospel. **Not held**.
+- Gospel of the Nazarenes / Ebionites quotations. Panarion **held**; Jerome **not held**.
+
+## Where This Overlaps the Repo
+
+- `questions/sacrifice-culture-vegetarian-jesus.md` → `### "The Theosophical Society invented the vegetarian Jesus. Until Blavatsky, Jesus was never linked with the Essenes."` (the card's "Concede the true part first" paragraph gives the same 1898-1901 dates and the Kingsford connection, and lists the held ancient witnesses).
+- `questions/OBJECTIONS.md`, row 8 (the Theosophy objection).
+- `extended-library/essene-gospel-of-peace.md` → `## The Provenance Problem -- In Detail`; `VERIFIED-SOURCES.md`, Tier 4.
+- `podcast-archive/david-the-nazarene/183-what-is-the-gospel-of-the-hebrews-part-1-mentions-from-histo.md` and `184-...` (his patristic Gospel of the Hebrews material, the reconstruction he mentions wanting to make; 184 also mentions the Holy Twelve).
+
+## Claims to Check
+
+1. **Publication history (1898-1901 serialization, 1901 collection, 1924 reissue).** Matches the dates on the sacrifice card's Theosophy objection; primary newspaper evidence not held.
+2. **About 70% of the first 18 lections is verbatim KJV, mostly Luke.** From an unnamed website's comparison; not checked here. The KJV gospels are held, so a sample comparison is possible if a text of the Holy Twelve were added.
+3. **Ouseley never claimed a physical manuscript existed.** Akers's reading as he presents it; the introduction he reads does describe the Tibetan manuscript.
+4. **The Humane Gospel is in the same category.** Not identified further; not held.
+5. **The Clementines rest on source documents from Peter through Clement and a redactor.** His position; the repo's discussion of Clementine sources is in `christianity/clementine-literature-nazarene-writings.md` → `## Why Scholars Take These Texts Seriously`.
 
 ---
 

@@ -10,7 +10,42 @@
 
 ## Summary
 
-*Notes pending.*
+Chris explains the PCR test's cycle threshold, framed as an explanation to his wife after she asked why he reacted to a clip; a second voice comments at points. The episode opens on a clip of a UK speaker saying the NHS uses 45 cycles of amplification and that the test was "never about health." Chris describes the test as amplifying a small sample of genetic material, using an analogy to upscaling a tiny image in Photoshop, and says that above a cycle threshold of about 35 the false-positive rate becomes very high. He states that SARS-CoV-2 had not been purified, that Koch's postulates had not been met, and that the test cannot tell whether the material came from an active infection or something old. He plays a clip of Kary Mullis, the inventor of PCR, on the method not telling you that you are sick, and describes asymptomatic transmission as unprecedented as a driver of a pandemic. He closes by urging viewers to ask for the Ct value of any test they take and recalls the Tanzanian president's papaya test.
+
+## Key Points
+
+- [00:00] Clip: the test as control, not health; the NHS's "45 times amplification." His wife asks what that means.
+- [01:34] Kary Mullis said PCR should not be used to diagnose disease; how a swab sample is processed.
+- [03:10] The Photoshop upscaling analogy: amplifying a small image does not add real information.
+- [04:40] Above a Ct of 35, a 90-99% false-positive rate, he says; the virus "isolated" but never purified.
+- [06:13] Koch's postulates skipped; COVID-19's symptoms overlapping with influenza and colds; the doubling with each cycle.
+- [07:48] 37-40 cycles described as the American average; the bathroom-scale analogy: the scale knows weight, not its source.
+- [09:22] RT-qPCR names a series of processes; it is not designed to diagnose.
+- [10:53] Clip of Kary Mullis (speaking about HIV): PCR makes a lot of something out of something; "it doesn't tell you that you're sick."
+- [12:24] A genetic-sequence readout shown; the test infers the rest of a sequence from a fragment.
+- [13:56] A positive could reflect an old cold, a past flu shot, or a remnant; the asymptomatic carrier as a new concept; Fauci quoted on asymptomatic spread.
+- [15:30] Ct numbers raised to create positives; immune support (elderberry, removing toxins).
+- [17:02] Ask for your Ct value; the president of Tanzania's papaya test.
+
+## Sources Cited
+
+- A video clip of a UK speaker on NHS PCR cycles (unnamed in the captions). Not held.
+- Kary Mullis, interview clip (on HIV testing and PCR). Not held.
+- A SARS-CoV-2 sequence readout from a video he calls unrelated. Not held.
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **The NHS used a Ct of 45.** UK laboratories used different assay platforms with cut-offs typically around 40-45 cycles; checkable per assay.
+2. **Above Ct 35, 90-99% of positives are false.** Studies (e.g. Jaafar et al., *Clinical Infectious Diseases*, 2020) found culturable virus rarely recovered above about Ct 34; that concerns infectiousness, not whether viral RNA is present.
+3. **Kary Mullis said PCR should never be used to diagnose disease.** The clip shows him saying PCR does not tell you that you are sick, in a discussion of HIV; Mullis died in August 2019, before COVID-19.
+4. **SARS-CoV-2 was never purified or isolated; Koch's postulates were not met.** Isolation and culture were published early in 2020 (e.g. Zhu et al., *NEJM*, January 2020); animal-model studies addressing the postulates followed (e.g. Bao et al., *Nature*, 2020). The dispute is over what "purified" requires.
+5. **Asymptomatic carriers have never before driven a pandemic.** Asymptomatic and pre-symptomatic spread is documented for influenza and other infections.
+6. **Tanzania's president tested a papaya and it came back positive.** President Magufuli said in May 2020 that samples from a papaya, a goat and a quail were submitted and some returned positive; the claim was his, not an independent test.
+7. **The US average Ct was 37-40.** Cut-offs varied by assay (the CDC's own assay used 40); the figure needs a source.
 
 ---
 

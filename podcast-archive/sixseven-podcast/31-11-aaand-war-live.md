@@ -10,7 +10,115 @@
 
 ## Summary
 
-*Notes pending.*
+A solo livestream recorded the day after the summer solstice of 2025, following the U.S. strikes on Iran that the president announced on Truth Social. Chris works from an outline in "chapters": that "he who wins the war controls the narrative" and the winners lie; that television and media frame every issue into two manufactured positions, pro or anti; that the banks (the central and national banks, and the families and councils behind them, which he calls "the hexog") push the buttons in every war; and that the strikes have nothing to do with nuclear weapons or oil. He relays a conversation with an older, better-connected friend who told him the conflict concerns a transfer of power away from one banking family. Drawing on his years as a video editor, director and producer in Los Angeles, he describes the presidency as a sales role inside a scripted show, and reads the gold-fringed flags as iconography of a corporate jurisdiction (1871, the Federal Reserve Act, 1933).
+
+The middle of the stream turns to the word "Semite." Chris traces the line from Noah's sons (Shem, Ham, Japheth, with Ashkenaz on Japheth's side) through Eber, Abraham, Isaac and Ishmael, Jacob (Israel) and Esau (Edom), to argue that Arabs are Semitic peoples, that the twelve tribes are far wider than Judah, that "Judean" and the family of Judah are different things, and that the present leadership he is describing is not Jewish by blood or ideology but borrows the Jewish name. He says he and his wife had just kept Shabbat and that his question "who is Jesus?" led him into the first century. He reads Genesis 12:3 as God's promise to Abraham's seed as people groups, not to a modern state, says the "support Israel" reading came from a footnote added about 130 years ago, and cites Jesus's "lost sheep of the house of Israel" and the long record of corrupt leadership in Kings. The last hour shows his hand-drawn map for his "biopsy of a psyop" project (captioned "biopsy of a sciopsy"), with banking at the centre and pharma, food, education, entertainment, technology, politics, history and religion around it, and the internet of bodies as the newer warfront. He closes with viewer questions on reducing exposure to wireless technology (citing Sabrina Wallace) and on keeping 18-year-olds out of a draft.
+
+## Key Points
+
+- [00:00] Opens on the timing: a war front launched on the summer solstice.
+- [02:29] Plan for the session: define what Semitism is and who Shem was; says his heart is with the people of every nation and the aim is to lower the heat, not to slander.
+- [04:41] Maxim: "he who wins the war controls the narrative"; the winners write the history.
+- [05:55] Western nations under a British-managed corporate maritime structure overseen by what he calls "the hexog," a term he chooses to avoid triggering censors and to keep the critique on a state's actions, not on individuals.
+- [08:04] War as population shuffling and cultural merger, from "Bible times" to now.
+- [09:38] The war is not about nukes or oil but about who controls the momentum of the bigger picture.
+- [11:30] His background: video editor, director, producer in the entertainment industry; turns the camera on his studio to show that the frame shows only what the producer wants seen.
+- [15:51] The president announcing a strike on his own social platform, with no congressional approval; the "TV show" frame and its plot holes (the series *Lost*).
+- [24:44] "Banks run the game": his chapter outline (war history, TV and media, banks).
+- [26:01] How lab results reach the public through television framing; COVID as the example.
+- [31:10] Cites the saying attributed to Mayer Amschel Rothschild about controlling a nation's money.
+- [37:02] Relays a friend's account: the conflict is about one particular bank, compared with Lehman Brothers in 2008.
+- [41:00] The Federal Reserve Act (he says 1918) moved American money into foreign management; 1933 tied personal labour value to the corporation.
+- [42:53] Bloodlines matter because families make agreements with spirits across generations; he describes spirits as concentrations of electricity.
+- [45:16] Israelis, Arabs, Christians and Jews alike have been misled about recent bloodline history; the aim is common ground, and he says he has come to respect Jewish culture historically.
+- [47:18] Gold-fringed flags as a sign of admiralty jurisdiction; both the hatred and the support for the president are manufactured.
+- [51:52] 1771, 1871 (the corporate United States), 1933.
+- [53:15] Mentions the president's post about Biden; the president is "in charge of the sales," not the decisions.
+- [59:38] Questions the existence of nuclear weapons; a family friend with relatives in Japan on Hiroshima and Nagasaki being lived in since.
+- [1:00:21] Quotes the hook of a Jon Bellion song ("just as long as you think") as the logic of the nuclear threat.
+- [1:05:46] The Tavistock Institute and social engineering, raised by a viewer; directed-energy weapons as an alternative explanation for "nuclear" effects.
+- [1:09:11] Nuclear fear as the basis for decades of treaties and for the UN pandemic preparedness treaty.
+- [1:12:20] The decision makers "aren't Jewish" by blood or ideology; Christians and Jews used as two links in a floor mat.
+- [1:13:49] He and his wife observed Shabbat the day before; his question "who is Jesus?" led him into the first century and to the finding that Israel in the Bible is not the present state; other locations were proposed for a Jewish homeland.
+- [1:15:12] Herod's decree to kill the boys shows Judah did not control Judea's government in Jesus's day.
+- [1:17:24] Arabs are Semites too; the word has lost its meaning.
+- [1:19:04] Yahudim (the family of Judah) and Judeans (residents of Judea, mostly Greek and Hellenist in his account) distinguished, after a viewer comment.
+- [1:20:37] Noah's sons; Ashkenaz on Japheth's line; Abraham turns from Chaldean idolatry and is sent by his father to learn from Shem.
+- [1:22:17] Eber and "Hebrew"; everything under Shem is Semitic.
+- [1:23:15] Ishmael's line as the wider Arab world; Isaac, Jacob (Israel) and Esau (Edom); Edom among the named enemies of Israel.
+- [1:26:04] The twelve sons as Israel; the analogy of one brother of twelve taking a cousin's house in 1948 and claiming to represent the whole family.
+- [1:27:04] Matthew 15:24, "the lost sheep of the house of Israel"; says this is not a bashing of the Bible.
+- [1:28:15] Genesis 12:3: God's words to Abraham, about people groups, not "corporate municipal nation states owned by banks."
+- [1:29:16] His hunch that an "impostor seed" (Ishmael, Edom and Khazar mixed) has inverted who is who, so that supporting it places people on the curse side of the promise.
+- [1:30:12] Survey from Genesis through David, Solomon, the captivity, Ezra and 70 AD; the Judeans of Jesus's day were Hellenised and given up to the Herods and Caesars.
+- [1:32:30] The "support Israel" reading is a footnote added "130 or so years ago"; biblical Israel had God's support when obedient, not other nations'.
+- [1:33:26] Netanyahu's family name before it was Netanyahu.
+- [1:35:36] Viewer question on Cain: he does not know whether "seed of Cain" claims are literal.
+- [1:37:09] Israel's leadership was corrupt for most of the biblical story (Saul, Solomon, later kings), with exceptions he names (Josiah, Hezekiah, Samuel).
+- [1:38:09] Solomon: his kingdom taken over through a foreign wife's father; "the word on the street" that he could summon demons, which he links to present-day control.
+- [1:40:00] All militaries already on board; "don't get caught up in the dance."
+- [1:41:55] Recurring Hollywood themes (space, slavery, westerns, World War II) as reinforcement of an official history.
+- [1:43:26] Germany before World War II reframed as a nation leaving the central bank; Gaddafi as a later case.
+- [1:44:16] The treaty ending the War of 1812, cited from a longshoreman's post, as evidence that the winners' account is false.
+- [1:49:12] Warfare now is intracellular and "micro"; bombs and rockets are "legacy" systems, like old firecrackers.
+- [1:53:04] Expects a false flag; a friend's view that major wars begin with the assassination of a head of state, and that the next may be a cyber-bio attack.
+- [1:54:40] The COVID injection as an "operating system," taking the Moderna CEO's description literally.
+- [1:56:27] Comments on an HHS slogan he renders as "Make American Biotech Advanced."
+- [1:58:39] Sports analogy: no recent president "sold us out"; that happened over 100 years ago.
+- [2:00:49] Fringed flags again; the Iran card played when the script calls for it.
+- [2:02:22] Repeats the friend's account: a transfer of power from one banking family, with deaths and executions behind the scenes.
+- [2:06:30] Shows the map: banking or currency at the centre; securities and bonds; redemption as the inverse of bondage; divine law over natural, common, equity, admiralty and maritime law.
+- [2:12:17] Technology section: Palantir; the internet of bodies, things and medical things; the human aura as connection layer and red blood cells and mitochondria as processor; the digital twin.
+- [2:15:09] Pharma section: peptides and molecular signatures for quantum key distribution; the internet of bio-nano things.
+- [2:17:15] Telecom spectrum list; the education sector (the "Rockefeller redesign") keeping a sixth sense out of schooling; the DoD Information Network.
+- [2:18:08] Food section: mineral depletion; the EPA; dying honey bees.
+- [2:22:57] Refers a viewer to his wife, Jennifer (SWEEDiSH LOVE), on birth certificates; the large media companies and the banking families.
+- [2:29:14] Viewer question on reducing interaction with these systems: learning to feel the signals, music, meditation, verbal intention, fewer smart devices; Sabrina Wallace's biofield shielding.
+- [2:36:12] Viewer question on keeping 18-year-olds out of a war: show them veterans' testimony; he doubts a conventional draft and expects provocation-driven enlistment instead.
+
+## Sources Cited
+
+- Genesis 10 (Noah's sons; Ashkenaz), 11 (Eber), 12:3, 25 and 36 (Esau is Edom). **Held** (KJV). Genesis 10:3: "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah." Genesis 12:3: "And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed." Genesis 36:1: "Esau, who is Edom."
+- Matthew 2:16 (Herod's decree) and 15:24. **Held** (KJV). Matthew 15:24: "I am not sent but unto the lost sheep of the house of Israel."
+- 1 Kings 11 (Solomon's foreign wives; Hadad the Edomite) and the later kings, by name. **Held** (KJV).
+- Abraham learning from Shem: no source named. The Book of Jasher tells it at 9:5, where Abram goes to Noah and Shem himself. **Held** (`christianity/Incoming/jasher-1840-full-text.md`, Tier 4).
+- Solomon summoning demons: no source named; the tradition is in the *Testament of Solomon*. **Not held**.
+- The saying attributed to Mayer Amschel Rothschild. Not held; no primary source given.
+- The Federal Reserve Act; 1871 and 1933 (no acts named). Not held.
+- The treaty ending the War of 1812, via a longshoreman's social-media post. Not held.
+- Jon Bellion, a song about the internet and fame (lyric quoted from memory).
+- Moderna's description of its platform as an operating system; an HHS slogan; the president's Truth Social posts. Not held.
+- The Tavistock Institute (raised by a viewer). Sabrina Wallace on the biofield (see episodes 22 to 24).
+
+## Where This Overlaps the Repo
+
+- `christianity/2026-03-09-combating-christian-zionism-strategy.md` → `## The Problem` and `### Layer 2: The History They Were Never Told` (items 2, 3 and 7: Scofield's footnote, what Genesis 12:3 says, modern Israel and biblical Israel). His Genesis 12:3 reading and the "footnote added about 130 years ago" point the same way; the repo dates the Scofield Reference Bible to 1909.
+- `christianity/2026-03-08-darby-dispensationalism-deep-dive.md` → `## The Scofield Reference Bible — How One Man's Footnotes Became "What the Bible Says"`.
+- `podcast-archive/shabbat-studies/00-overview.md` → `### What the series adds that the repo lacks` (the Edomite-priesthood frame). The Esau/Edom line here is the same frame carried into the present day.
+- `podcast-archive/sixseven-podcast/22-04-thoughts-on-the-transition-feat-sabrina-wallace.md` and `24-05-pontifications-with-poo-fessor-s-wallace.md` for the internet-of-bodies material.
+
+## Claims to Check
+
+1. **The Federal Reserve Act came in 1918.** The Act was signed in December 1913.
+2. **The "control a nation's money" saying is Mayer Amschel Rothschild's.** Widely attributed; quotation researchers have not found a contemporary source for it.
+3. **Ashkenaz is one of Japheth's sons.** Genesis 10:3 (KJV, held) makes him a son of Gomer, so Japheth's grandson.
+4. **Eber is two or three generations above Abraham.** Genesis 11 (held) runs Eber, Peleg, Reu, Serug, Nahor, Terah, Abram.
+5. **Abraham's father sent him to learn from Shem.** Jasher 9:5 (held) has Abram go to Noah and Shem on his own after leaving a cave; Genesis does not tell the story.
+6. **The "support Israel" reading of Genesis 12:3 comes from a footnote added about 130 years ago.** The repo points to the Scofield Reference Bible (1909) and its note on Genesis 12:3; that note's wording is cited in the repo but the 1909 text is not held.
+7. **Many locations were offered before Palestine.** The British Uganda proposal (1903) and Herzl's mention of Argentina are documented; a full list needs a source.
+8. **Solomon could summon demons, and those practices drive control today.** The first is the tradition of the *Testament of Solomon* (not held), not 1 Kings; the second is his reading.
+9. **Edom became "Khazarian influenced," and an impostor seed has inverted who is who.** His hunch, offered as such; see the Shabbat Studies claims on the Edomite priesthood.
+10. **Judeans in Jesus's day were mostly Greek and Hellenist.** Needs sourcing; Josephus describes a largely Jewish Judea with Greek cities around it.
+11. **Nuclear weapons may not exist; the effects at Hiroshima and Nagasaki were conventional bombs plus directed energy.** His proposal; the historical record documents two atomic bombings.
+12. **Netanyahu's family name was Mileikowsky.** His father, Benzion, changed it.
+13. **Netanyahu said in 1995 that Iran was about to have nuclear weapons.** His 1995 book gave an estimate of a few years; check the wording.
+14. **The president posted a claim that Biden was executed in 2018 and replaced.** A 2025 Truth Social repost along these lines was reported; check date and wording.
+15. **Moderna described its platform as an operating system.** Moderna's own materials compared mRNA to software and an operating system; his reading of it is literal.
+16. **An HHS slogan "Make American Biotech Advanced."** No source given.
+17. **The treaty ending the War of 1812 shows the U.S. lost.** The Treaty of Ghent (1814) restored the pre-war borders; the reading comes from a social-media post.
+18. **Gold-fringed flags signal admiralty jurisdiction.** Army regulation treats the fringe as ornamental; U.S. courts have rejected the admiralty-flag argument.
+19. **Every world war began with the assassination of a head of state.** A friend's view; World War I followed the assassination of the Austro-Hungarian heir, not a head of state; World War II has no such trigger.
+20. **The DoD Information Network was once called the Global Information Network.** The predecessor name was the Global Information Grid.
 
 ---
 

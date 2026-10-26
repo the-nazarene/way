@@ -10,7 +10,89 @@
 
 ## Summary
 
-*Notes pending.*
+A car livestream recorded Monday, 15 July 2024, two days after the shooting at the Trump rally in Butler, Pennsylvania, while Chris drives from home to a mountain spring near Asheville to fill water jugs. For about the first 55 minutes he talks alone, then brings on guests he introduces as coming from conservative backgrounds: Michaela (who describes training in investigative journalism and psychology), Rob of Huey Media (who says both his parents were Jewish and he does not practice), and Dino, "the tank top homie" (who says he keeps the Sabbath and tries to keep the Torah). The guests leave one at a time; Chris closes alone at the spring.
+
+The through-line is that the official account does not hold together and that the event should be read as a staged or managed "mass trauma ritual" rather than a failure of an elite protective service. Chris works through the anomalies he sees as a video editor and photographer (the time on stage before the former president was moved, the agents' positioning, the photo said to show the bullet in flight, the live broadcast), and frames politics as theatre in which both parties serve the same banking, defense and technology interests. The guests offer different scenarios (a second shooter from behind, a fully staged event, a knowing participant). Religious material comes in along the way: a guest reads Revelation 12-14 and the 42 months against current events; another notes that blood sacrifice is a theme across the Bible, with Jesus as the central example; a guest says the only two things asked are to follow the commandments and fear Yahweh; the wheat and tares, the narrow gate, sun symbolism in church art and Constantine, and a hunch from Chris that the Protestant Reformation was funded from Rome. The second half moves through Israel and the charge of antisemitism, JD Vance and Peter Thiel, AI and universal basic income, spiritual "contracts" in the entertainment industry, and preparedness, and ends with Chris describing the spring and its free public access.
+
+## Key Points
+
+- [00:00] Setting: Monday, about two days after the shooting; Chris is driving to the mountain and will bring friends on.
+- [03:06] He says he does not follow predictions and compares "prophecy" and "propaganda," suggesting dreams can be planted.
+- [06:12] The core argument: the protective services are elite professionals, so a series of lapses at several checkpoints is not believable as incompetence.
+- [09:19] The reported account of a counter-sniper who had the shooter in view but lacked authorization, and who then posted his name on 4chan, which Chris finds unlike anyone he knows in that work.
+- [12:25] The country is in "a mass trauma ritual"; emotion pushes out logic; Fauci and the COVID response given as the earlier pattern.
+- [23:22] MK Ultra and trauma-based mind control as the frame; numerology of the date.
+- [26:29] As a photographer: a still capturing a bullet beside the head is not possible with the camera used, and live broadcasts run on a delay, so the audio from the stage would not normally have aired.
+- [34:25] The video of agents standing on stage for some 30 to 45 seconds; protocol, he hears, is 5 to 7 seconds; the shorter agent in front; a secondhand rule that agents should be taller than the protectee.
+- [43:48] Owen Benjamin's point that the arm is already raised in the bullet photo, read as a composite.
+- [53:13] Michaela's theory: the signs raised behind the stage were a cue, the rooftop shooter a distraction, and the wound came from a silenced shot from behind, judged from where the crowd looked.
+- [1:01:03] A guest connects the event to Revelation 12-14, the first head of the beast and the 42 months, and raises Trump's Jesuit schooling and gematria.
+- [1:07:17] Chris summarizes the range of views among the guests; Rob describes going by "Huey Media" after his politics put a corporate job at risk.
+- [1:10:24] Rob's account of supporting Trump until about 2021 and turning on the vaccine rollout and donations from Miriam Adelson.
+- [1:15:04] The "blue church" and two wings of the same bird; problem, reaction, solution.
+- [1:26:03] A guest on purity of the blood, sacrifice and ritual, and glyphosate and parasites clouding discernment.
+- [1:47:59] A guest: blood sacrifice is a theme throughout the book, with Jesus Christ as a blood sacrifice.
+- [1:54:16] The Fourth Turning; the "control demolition" phase, waking people from the old lie into a new one, a spiritual deception.
+- [1:55:49] Chris's hunch that the Protestant Reformation was financed from Rome (the "black pope"); a guest: it all goes back to Constantine.
+- [1:57:24] The same guest: sun-deity worship, including the sun above Jesus's head in church art.
+- [1:58:56] Chris's history: 1776 to 1871 as the real republic, then Bernays and Kinsey, and America drawn back into British banking.
+- [2:00:28] His summary: the alliance of Washington, the Crown and the Vatican is shifting east (Jerusalem for the Vatican, China for British finance); Trump's recognition of Jerusalem as Israel's capital.
+- [2:03:34] Rob and Dino on being called antisemitic; Dino keeps the Sabbath and the Torah; all distinguish people from governments.
+- [2:11:21] A guest: the system is after souls; "follow the Commandments in fear Yahweh," nothing else; the gate is narrow; are we in the wheat-and-tares separation?
+- [2:17:38] Leaving the two-party frame; preparedness: with food and water stored, the fear loses its grip.
+- [2:31:39] A guest on live blood cell analysis looking like the universe; the scripture "comes down to the blood."
+- [2:33:12] Why the powerful keep going: bloodline agreements with spirits; Nathan Reynolds (recommended in chat).
+- [2:39:28] A guest says they left the New Age and came back to Yahweh; industry "contracts" (Bob Dylan, Prince and others cited); a friend of Chris's who says he was offered one.
+- [2:44:11] A guest's account of being told what a music career would require.
+- [2:47:18] Elon Musk's motives read as fear; a guest: some are "of the wrong seed."
+- [2:48:53] Musk's companies read as fronts for a coordinated technology rollout.
+- [2:52:01] AI as a shield; universal basic income, social credit, CBDCs; JD Vance, Peter Thiel and PayPal.
+- [3:13:56] A guest on Trump's casino rescue (Wilbur Ross, Rothschild), Pfizer's inauguration donation, and, from the chat, Soros money in Trump Tower Chicago.
+- [3:26:33] Joke about a future image of Jesus modeled on Trump instead of on Cesare Borgia's son (as the caption has it), and Jesus being from North Africa.
+- [3:31:18] At the spring: water preparedness and a bear sighting.
+- [3:42:19] Wild-rice foraging and abundance even in a "fallen broken Earth."
+
+## Sources Cited
+
+- Revelation 12-14 and the 42 months (Revelation 11:2, 13:5). **Held** (KJV).
+- Matthew 7:13-14 (the narrow gate); Matthew 13:24-30 (wheat and tares). Paraphrased. **Held** (KJV).
+- Candace Owens, a video on rally security; Owen Benjamin, a clip on the bullet photo; Q posts ("fight fight fight"). Online material; not held.
+- William Strauss and Neil Howe, *The Fourth Turning*, and a podcast breaking it down. Not held.
+- Nathan Reynolds (YouTube), John Todd (1980s-90s talks). Named in passing; not held.
+- An unnamed book on the English language and the legal system, recommended by Dino. Not held.
+- Edward Bernays, Alfred Kinsey; Mark Twain (a saying about lies attributed to him). Named; not held.
+- Films and TV used as analogies: *The Santa Clause*, *The Morning Show*, *The Newsroom*, *Split*, *Black Mirror*.
+
+## Where This Overlaps the Repo
+
+- Revelation applied to current events (the beast, the 42 months): `christianity/2026-03-23-revelation-deep-dive.md` → `### 666 = Nero Caesar` and `### The Mark of the Beast = Roman Economic Participation`, which read the same chapters as first-century code for Rome.
+- The wheat and tares as the present sorting: `questions/rapture-end-times.md` → `### 2. The wheat and the tares — sequence stated explicitly`; `christianity/2026-03-09-did-jesus-teach-apocalypse.md` → `## 4. The Wheat and the Tares — Who Gets Removed?`.
+- "Follow the commandments" as the whole duty, and the guest's remark on Jesus as a blood sacrifice: `questions/blood-atonement-and-salvation.md` → `### 1. Asked point-blank how to be saved, Jesus names behavior`.
+- Evangelical support for the state of Israel and the Jerusalem recognition: `christianity/2026-03-09-combating-christian-zionism-strategy.md` → `## The Problem`.
+- Constantine: the repo's treatment is `christianity/early-christian-pacifism-before-constantine.md` → `## The Constantine Reversal` (on military service, not on sun imagery).
+
+## Claims to Check
+
+1. **The shooting was staged or managed as a ritual; the wound came from a second shooter behind the stage.** Offered as theories by Chris and the guests, with Chris saying he does not know what happened. Official accounts and the later congressional and inspector-general reports name a single rooftop shooter; one attendee was killed.
+2. **A still photo cannot capture a bullet in flight with the camera used.** The widely circulated image was taken by a news photographer at a very high shutter speed; whether it shows a bullet's trail has been discussed by photographers. A technical question, open here.
+3. **All live television carries an FCC-mandated delay.** No general federal rule requires one; networks often use voluntary delays, especially since 2004.
+4. **Protective agents must be at least as tall as the protectee.** Secondhand; no published rule located.
+5. **The counter-sniper who had the shooter in view for three minutes posted his name on 4chan.** A screenshot that circulated online; its source is unverified.
+6. **The Protestant Reformation was funded from Rome (by the "black pope").** The Jesuit order dates from 1540, after Luther's theses (1517), and grew up in the Counter-Reformation.
+7. **The real republic ran from 1776 to 1871, then America was taken back under British banking.** The 1871 District of Columbia Organic Act created a territorial government for the District; the wider reading is a popular claim.
+8. **The eagle on the Great Seal or currency is a phoenix.** An early (1782) design sketch has been described that way; the adopted seal is a bald eagle.
+9. **The term "conspiracy theory" was invented by the CIA to protect the JFK narrative.** The phrase predates 1967; a 1967 CIA dispatch (1035-960) on countering critics of the Warren Commission is the usual reference.
+10. **The Twain saying that it is easier to fool people than to convince them they have been fooled.** Attribution not found in Twain's writings.
+11. **Revelation 12-14 and the 42 months point to Trump as the first head of the beast.** A guest's reading; the repo reads these chapters as first-century code for Rome.
+12. **Blood sacrifice is a theme throughout the Bible, with Jesus as the blood sacrifice.** A guest's statement; the repo's blood-atonement card argues that Jesus's own words do not make his death a sacrifice.
+13. **The sun above Jesus's head is a pagan symbol, and it all goes back to Constantine and sun worship.** The halo appears in Greek and Roman art (Helios, Sol) before Christian use; the Constantine link is the guest's.
+14. **The common image of Jesus was modeled on Cesare Borgia (or his son).** Bearded images of Christ survive from the fourth century, long before Borgia (born 1475).
+15. **Trump was rescued by the Rothschilds through Wilbur Ross, who became his Commerce Secretary.** Ross, then at Rothschild Inc., represented bondholders in the 1990-91 Taj Mahal restructuring; he was Commerce Secretary from 2017.
+16. **Pfizer gave $1 million to the 2017 inauguration; Soros money funded Trump Tower Chicago.** The Pfizer donation was reported; the Soros claim (from the chat) needs a source.
+17. **The shooter was cut from his school rifle team and appeared in a BlackRock advertisement.** Both were reported in July 2024.
+18. **Celebrities and labels pay spirit workers; music-industry "contracts" signed in blood.** Secondhand and personal accounts (Chris's friend; a guest); Dylan's 2004 television remark about a "bargain" is the usual public reference.
+19. **Only a few countries (Iran, North Korea; formerly Libya, Syria) sit outside the central-banking system.** A common list; varies by source and year.
+20. **Elon Musk's companies are faces for a coordinated technology rollout.** Chris's reading.
 
 ---
 

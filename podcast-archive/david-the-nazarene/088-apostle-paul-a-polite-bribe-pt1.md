@@ -10,7 +10,58 @@
 
 ## Summary
 
-*Notes pending.*
+Part one of a reading of Robert Orlando's book *Apostle Paul: A Polite Bribe* (from the documentary of the same name), highlight by highlight, with his own commentary. Orlando's thesis as he reads it: Paul's central conflict was with James and the other apostles, and the collection for the poor in Jerusalem was in effect an attempt to buy their approval of his Gentile mission. David agrees that Paul started his own movement and that the conflict was with James, Peter and John, and differs where Orlando treats the opposition as a circumcision faction within the Jerusalem church or allows that Paul's vision was a sincere subjective experience. His own reconstruction (from his Galatians series, files 039-045): an early meeting where the pillars gave Paul the right hand of fellowship, perhaps misunderstanding him; Antioch, when Peter and James's messengers found him teaching lawlessness; the collection as a bid to regain approval (Romans 15:30-31); and James redirecting the money to the Nazirite vows in the temple (Acts 21), which he reads as a setup. He takes up Orlando's footnote on Nabataean Arabia (Galatians 1:17) as support for his view that Paul was a Herodian, Paul's sarcasm about the pillars (Galatians 2:6-9), Galatians 3:2-5 and 6:12-13, the false apostles bearing letters of commendation (2 Corinthians 3:1, 11), and the Nazarene Acts' rule that no teacher is accepted without James's testimonial. He holds that circumcision belongs to the genuine Torah, and reads Galatians 6:13 ("they themselves keep not the law") as Paul exploiting the Jewish Christians' rejection of the added sacrificial laws.
+
+## Key Points
+
+- [00:00] The book and documentary; Orlando agrees Paul started his own movement but seems sympathetic to Paul.
+- [01:33] Highlight on Paul's central conflict (Romans 12:2): the obstacles were James and the other apostles. Orlando sees a circumcision faction within the Jewish Christians; David holds the circumcision was the whole Jerusalem assembly.
+- [03:08] Eusebius's list of bishops of the circumcision as support. Orlando: the Damascus vision may have been subjective; David: Paul may have made it up, and the road-to-Damascus detail is only in Acts.
+- [04:41] The central thesis: the collection for the poor (Ebionim, Orlando's term for the Jerusalem assembly) as a bribe for the right hand of fellowship. His reconstruction of the first meeting (Galatians 2).
+- [06:16] Antioch: Peter, then James's messengers; Barnabas turns; the collection begun afterwards; Romans 15: pray that my service be accepted.
+- [07:50] Acts 21: James redirects the money to pay the vows; David reads this as a setup, knowing Paul would be in danger in the temple. Paul's Herodian family as the reason the Romans rescued him.
+- [09:24] Orlando dances around whether the offering was accepted; Acts suggests it was not. Highlight: Paul's letters as defenses; the reader asks why he needed approval; Orlando: "one could argue Paul had to buy his apostleship."
+- [10:58] Orlando: his ministry was allowed largely because of the money, then rejected again. David: the bribe was not accepted at the last visit.
+- [12:30] Orlando's aim: reconstruct Paul's story from his letters with Acts as support. David says his own view shifted somewhat, toward a more human picture of the conflict.
+- [13:22] Footnote: Paul's Arabia was Nabataean, Herod's family's region (Petra); David takes it as support for Paul as a Herodian.
+- [14:47] Barnabas as peacemaker; David: Paul looks more Sadducean than Pharisaic, an agent of the high priest, centred on the temple.
+- [16:22] Acts 9:27: Barnabas vouches for Paul; later scrutiny grew. Galatians 2:6-9 read.
+- [17:53] Orlando also reads Paul's references to the reputed pillars as sarcastic; the need for approval vs the claim of independence.
+- [19:25] Frank Matera's imagined reply from Paul's agitators (Jerusalem is our mother); Hans Dieter Betz on James's special position and why Paul names Cephas and James.
+- [20:59] David: the opposition was Peter, James and John themselves. Orlando: the question was who would interpret Yeshua, Paul or James. Galatians 3:2-5 in a loose translation.
+- [22:34] Galatians 1:8, 6:12-13. Asked whether circumcision is one of the added laws, he says no, citing a personal experience he may share later, the name "the circumcision," and Epiphanius on the Jewish-Christian groups requiring circumcision.
+- [24:08] Galatians 6:13 read as Paul using the Jewish Christians' rejection of the added laws (the animal sacrifices) against them; perhaps also behind Galatians 2:14 to Peter.
+- [25:42] Orlando: the universal gospel was Paul's own aspiration. David: Peter in the Nazarene Acts says a Gentile who keeps the Torah becomes a Jew; following Yeshua meant keeping Torah.
+- [27:16] Geza Vermes: the Gentile issue was unforeseen. Orlando on Paul's turn from prophecy to mystery; the letters grow less Jewish until Romans.
+- [28:50] Romans as pro-Jewish because written before the Jerusalem visit and the collection. Orlando: the pseudo-apostles were most likely from Jerusalem, meaning James, Peter and John.
+- [30:24] Orlando: only James could have sent letters of commendation. David disagrees that such letters were uncommon: Peter in the Nazarene Acts says to accept no teacher without them, and he thinks the rule was put in place because of Paul. Part two follows (file 089).
+
+## Sources He Cites
+
+- Robert Orlando, *Apostle Paul: A Polite Bribe* (book) and the documentary. **Not held**. Within it: Frank Matera and Hans Dieter Betz on Galatians; Geza Vermes. **Not held**.
+- Eusebius on the bishops of the circumcision (Church History 4.5). **Not held** (only 2.17 and 2.23 excerpts).
+- Epiphanius on Ebionite circumcision. **Held** (Panarion 30).
+- Recognitions 4.35 (the testimonial of James) and the "becomes a Jew" saying, which is Homilies 11.16. **Held**.
+- Romans 12:2, 15:25-31; Acts 9:27, 21:17-26; Galatians 1:8, 1:17, 2:6-14, 3:2-5, 6:12-13; 2 Corinthians 3:1, 11:13. **Held** (KJV).
+
+## Where This Overlaps the Repo
+
+- `questions/pauls-legitimacy.md` → `### 3. James ruled, and Paul reversed it in writing` and `### "The Jerusalem church accepted him — they gave him the right hand of fellowship (Galatians 2:9)."`
+- `questions/nazarene-sect-sacrifice-and-diet.md` → `### HOLE 1 — Acts 21:23-26. James arranges and pays for Temple sacrifices.` (his setup reading is one answer to the same passage).
+- `podcast-archive/david-the-nazarene/039-what-s-up-with-galatians-pt1.md` through `045-what-s-up-with-galatians-pt7.md` (his fuller reconstruction); 043 and 052 also mention Orlando.
+- `questions/CITATION-NOTES.md` → `## Do not use publicly (unverifiable or misread)`, the Ebionim row (on "the poor" as a self-designation).
+
+## Claims to Check
+
+1. **Peter says a Gentile who keeps the law becomes a Jew.** Held, but in the Homilies, not the Recognitions: Homilies 11.16, "if he who is of another tribe keeps the law, he is a Jew; but he who does not keep it is a Greek."
+2. **Accept no teacher without James's letter.** Held, Recognitions 4.35: "believe no teacher, unless he bring from Jerusalem the testimonial of James the Lord's brother, or of whosoever may come after him."
+3. **The collection was rejected and redirected to the vows.** Acts 21:17-26 does not mention the collection; the link is Orlando's inference, and the setup reading is David's.
+4. **The circumcision party was the whole Jerusalem assembly.** His reading; Galatians 2:12 has "them which were of the circumcision"; Eusebius's bishops of the circumcision list is not held.
+5. **Circumcision is part of the genuine Torah, not an addition.** His position, based partly on a personal experience he does not describe.
+6. **Galatians 6:13 refers to the Jewish Christians' rejection of the sacrificial laws.** KJV 6:13: "For neither they themselves who are circumcised keep the law." His inference.
+7. **Paul's Arabia was Nabataea, Herod's family's region, so Paul was a Herodian.** Orlando's footnote supports Nabataea; the Herodian identification is David's (Romans 16:11 "Herodion my kinsman" is the usual starting point).
+8. **The road-to-Damascus detail is only in Acts.** Galatians 1:17 does mention returning to Damascus; the vision on the road is narrated only in Acts 9, 22, 26.
+9. **Romans is pro-Jewish because written for Jerusalem's eyes.** His interpretation.
 
 ---
 

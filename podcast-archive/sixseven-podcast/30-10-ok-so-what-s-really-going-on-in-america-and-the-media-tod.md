@@ -10,7 +10,68 @@
 
 ## Summary
 
-*Notes pending.*
+A solo video recorded while Chris drives home from the land his family is developing outside the city (he dates it to June 2025). He says he has been quiet because the national conversation (the Trump-Musk falling-out, the Epstein files, Palantir, immigration) is in his view staged, and talking about it adds to the noise. His central claim is that the United States is in an electronic, electromagnetic war waged by bankers who answer to spiritual powers ("fallen angels," powers and principalities), using wireless systems, injections and aerosols to act on the body's electric field, and that the federal government is a corporate vassal whose fringed flags mark its jurisdiction. He repeats what he says more than one person has told him: human leadership "left the building" a decade or more ago and governments are run by AI, as earlier a man in a bloodline role channelled instructions in trance. He previews a series he is drawing, a map of eight industries (pharmaceuticals, education, entertainment, technology, religion, politics, history, food and agriculture) converging into a biodigital system by 2030, and a separate series on the Middle East. He ends with advice: pay little attention to politics, don't be afraid but be informed, and get barefoot on the grass.
+
+## Key Points
+
+- [00:03] Opening: concerns about AI, technology and politics; the level of "fakery" has him stepping back.
+- [02:26] Palantir and AI surveillance; he doubts anyone understands it and wonders whether talking helps.
+- [04:29] "We are in a war": an electronic war whose extent most Westerners haven't grasped.
+- [06:50] The Trump-Musk feud as public relations; things meant to stay private stay private.
+- [07:52] Most of what the public hears from the president comes from his own social posts rather than official briefings.
+- [10:01] JD Vance on Theo Von about Palantir; Peter Thiel; his worry that a COVID-like season will push people to accept AI replacing municipal services ([10:56]).
+- [13:00] LLMs explained only as three letters; people accept not knowing how anything works.
+- [14:32] The biofield: an electric field from the heart and nervous system, generated "interdimensionally" in the spirit, extending about 30 feet ([15:26]), and pluggable into electronic networks; remote viewing and mind-control programmes as networking ([16:17]).
+- [17:25] Politics as a choreographed game of "the shirts versus the skins"; Karine Jean-Pierre now an independent.
+- [19:00] The other side of the war: bankers driven by non-human spirits; powers, principalities and dominions; the spiritual governs the natural, and it has been hijacked ([20:37]).
+- [22:24] Nanotechnology and molecular communication into the body; injections and aerosols; mind control works on a small share of people; fathers' responsibility.
+- [24:52] Pam Bondi and Kash Patel on the Epstein videos; Ghislaine Maxwell and her father ([27:19]).
+- [28:20] If people learned how the body, the terrain and virology actually work, everything would flip.
+- [30:31] Taxes as a feudal tax to the crown; gold-fringed flags behind Trump as a vassal or admiralty flag; a flag establishes jurisdiction ([31:47]).
+- [33:16] America as a phoenix built to be burned; a "DNA state" rather than a surveillance state; biometrics installed like an operating system ([34:00]).
+- [36:15] Frequencies acting on electrons and covalent bonds to change cells remotely ([37:50]); electronic warfare "5.0" ([38:54]).
+- [42:16] Immigration rhetoric as stage-setting for a false flag; two generations from his great-grandmother's farm to not knowing when to plant ([43:42]).
+- [44:37] A 125-year experiment since the mid-1800s ("mud flood," Tartaria); Marjorie Taylor Greene on not reading two pages of a bill.
+- [46:41] More than one person has told him real human leadership left in 2012 or 2016 and AI has decided since; military gets technology first, then commerce, then the public.
+- [48:13] The president's job is to sell decisions made higher up; the City of London, Washington DC and Vatican City as three city-states ([49:13]).
+- [50:00] A man from the 1970s whose bloodline role was to go out of body and channel instructions for administrations of both parties; perhaps AI was the source all along ([50:53]).
+- [52:52] The REAL ID; reverse transcription and the COVID vaccine ([53:27]).
+- [56:15] The digital twin: an in-silico model of a person built from DNA and data, linked to the person like a voodoo doll; human bodies as storage on the network ([57:47]).
+- [58:33] Trump's post calling Biden a clone; why no journalist asks about it ([59:18]).
+- [1:03:26] He doesn't think God will keep blessing America; the fringed flag as a corporate buyout from about 150 years ago ([1:04:24]).
+- [1:08:08] Bio-electronic warfare; BioNTech; "no such thing as halfway crooks."
+- [1:11:58] "AI precision healthcare" and wireless management of body systems; systems live for three decades or more at the military level.
+- [1:14:27] The planned series, captioned as "a biopsy of a scop" (psyop): eight industries forming a biodigital convergence by 2030 ([1:15:39]).
+- [1:16:35] Hope: many people are waking up; America has been disobedient to God and confessing Christianity without the fruits of the spirit is not enough ([1:17:22]); a coming series on the Middle East.
+- [1:18:48] Summary: ignore politics; an electromagnetic war acting on atoms and molecules; "omni war" ([1:20:36]); ground yourself in the grass ([1:21:25]).
+
+## Sources Cited
+
+- JD Vance's interview with Theo Von on Palantir. Not held.
+- Statements by Pam Bondi and Kash Patel on the Epstein files. Not held.
+- Trump's post calling Biden a clone. Not held.
+- The US Flag Code, on fringed and unfringed flags. Not held.
+- An unnamed man from the 1970s who channelled instructions in trance (the same account he attributes to John Todd in episode 27). Not held.
+- Unnamed people who told him AI is running governments. Not held.
+- No scripture is read; "powers and principalities" is an allusion to Ephesians 6:12 (held, KJV), not cited by verse.
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **JD Vance told Theo Von Palantir only gathers data already collected.** The interview took place in 2025; the exact wording needs the episode.
+2. **Bondi said there were thousands of videotapes; Patel said there were none.** Their public statements (February to July 2025) need dates and wording.
+3. **Fringed flags behind the president mark admiralty or vassal jurisdiction.** Army Regulation 840-10 treats fringe as optional decoration; a 1925 Attorney General opinion said fringe does not change the flag; US courts have consistently rejected the jurisdiction argument.
+4. **The United States is a corporation owned by the crown and administered from the City of London.** His reading of 1871; no source given.
+5. **AI has been running governments since 2012 or 2016.** Relayed from unnamed individuals.
+6. **The body's field extends about 30 feet and electromagnetic frequencies can break covalent bonds and change cells remotely.** Ionizing radiation breaks bonds; radio and microwave frequencies are non-ionizing and act mainly by heating. The 30-foot figure needs a source (see episode 27, claim 7).
+7. **"Independent clinical trials" showed the vaccine can undergo reverse transcription.** The study usually meant is Aldén et al. (2022, Lund), which reported reverse transcription of BNT162b2 mRNA in a human liver cell line in the lab; it was not a clinical trial and did not test people.
+8. **Trump posted that Biden was a clone.** Reported in mid-2025: he reposted a claim that Biden had been executed and replaced by clones; the wording and date need the post.
+9. **Marjorie Taylor Greene said she read the whole bill except the two most important pages.** In June 2025 she said she had not known of the AI-regulation moratorium in the bill she voted for (pages 278-279) and would have voted against it.
+10. **Karine Jean-Pierre is now an independent.** She announced it in June 2025, ahead of her book.
+11. **The mid-1800s "mud flood" and a 125-year experiment.** No source given.
 
 ---
 

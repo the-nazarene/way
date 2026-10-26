@@ -10,7 +10,80 @@
 
 ## Summary
 
-*Notes pending.*
+Part two of the series begun in file 334: the parables. His key is a reading he takes from George Howard's edition of the Hebrew (Shem-Tob) Matthew, which at Matthew 7:20 adds "that is, their deeds" and at 13:23 "from good works," and explains the hundred, sixty and thirty of the sower (purified of heart and sanctified of body; separated from women; sanctified in matrimony). Twice the same gloss is absent from the Greek, which he takes as deliberate removal. He connects the hundred-sixty-thirty scheme to Recognitions 4.36 (the baptismal garment, what pollutes it, and three steps of thirty, sixty and a hundred commands, the first including three of the four Acts 15 rules), and the Hebrew word behind "deeds," *ma'aseh*, to 4QMMT's "works of the law," which he reads as Paul's straw man for why Peter withdrew from table fellowship at Antioch. With what he calls a "decoder ring" (trees are people, fruit is works, from Isaac Newton's reading of prophetic symbols, the blind man's "men as trees," and John the Baptist's axe), he works through the narrow gate and the false prophets (the "ravening wolves" tied to Benjamin in Genesis 49:27), the good and corrupt tree and the blasphemy of the Spirit (Matthew 12), the sower (he suggests the seed was originally the people, not the word), the wheat and tares (the tares gathered first, so he would rather be "left behind"), the treasure, the pearl and the net, the cursed fig tree as an acted parable, the wicked tenants, the barren fig tree, and the vine and branches (John 15). Hebrew Matthew 16:24 ("take up his cross, that is, offer himself unto death") gives him his reading of Jesus' death: faithfulness unto death as an example, not an atoning sacrifice. He closes on John 13:16, where he says "apostle" is the word translated "he that is sent."
+
+## Key Points
+
+- [00:00] Recap: only Jesus' gospel saves; Luke 21:33; dispensationalism again traced to Darby's séances.
+- [03:40] Why parables: so that outsiders would not understand (Isaiah 6:9-10); and because opponents did not grasp them, they were tampered with less.
+- [05:56] Matthew 7:20: most teachers online agree the fruit is good deeds, until the subject is Paul. Howard's Hebrew Matthew: "according to their fruits, that is their deeds." He shows a screenshot of Howard.
+- [09:52] Matthew 13:23 in the Hebrew: bears fruit "from good works." The gloss missing twice from the Greek is, he says, too much for coincidence.
+- [11:36] Howard's Hebrew on the hundred, sixty and thirty: purified of heart and sanctified of body; separated from women; sanctified in matrimony, in body and in heart. All are actions.
+- [12:45] Recognitions 4.36 read: the baptismal garment is fatally polluted by receiving another teacher besides the Messiah (he adds the name Paul and "12, not 13"), polluted in actions by murders, adulteries, hatreds, avarice, evil ambition, and in soul and body by the table of demons (things sacrificed, blood, things strangled). The first step of three brings thirty commands, the second sixty, the third a hundred. He calls the Acts 15 rules "starter commands," four of the first thirty, and contrasts 1 Corinthians 8 and 10. He also says baptism should be understood as rebirth from above, not Paul's baptism unto death, and leaves re-baptism to the viewer.
+- [20:36] 2 Peter 3:16-17 read as Paul's teaching destroying understanding.
+- [22:01] *Ergon* (Strong's 2041), consistently "work" or "deed"; the Septuagint pairs it with Hebrew *ma'aseh*.
+- [24:24] Galatians 2:16 "works of the law" = *ma'aseh ha-torah* in 4QMMT, which he summarises as purity rulings, some of which he does not think Jesus would have taught. His reading of Antioch: Peter withdrew because he learned Paul was not teaching the four purity rules and table fellowship with idol-meat eaters opens one to demons; Paul's "works of the law" is a substitute reason. Everyone was against Paul (James's people, Peter, Barnabas); he lost the argument, and Galatians and 2 Corinthians are damage control.
+- [30:31] The Hebrew word in both missing glosses is *ma'aseh*.
+- [32:02] Matthew 7:13-14: a path with billions on it is the wide gate; a lonely path may be the narrow one.
+- [34:40] Matthew 7:15: "ravening wolves," which he says appears elsewhere only in the Genesis prophecy of the Benjaminite wolf alongside Shiloh; so a false prophet from Benjamin appearing with the Messiah.
+- [36:20] The tree is the person: Isaac Newton on prophetic symbols (sun, moon, stars, grass, trees); the axe at the root; Mark 8:24 (KJV: "I see men as trees, walking"); the "decoder ring."
+- [39:16] Matthew 7:17-20 decoded: a person who produces no good works is cut down, not only one who does bad ones; Matthew 3:10.
+- [42:19] Matthew 12:30-37: blasphemy of the Spirit as calling the Spirit a liar, including treating Paul as Spirit-inspired where he contradicts Jesus. His story of sitting down at a Baptist church for readings from Paul, and the pastor's visit. Words are a kind of work ("by your words you will be justified"); be "fruit inspectors"; toxic speech as bad fruit.
+- [54:47] Matthew 13:3-9, the sower: the seed is people (Newton: plants are people); Mark's "the sower soweth the word" possibly altered so that fruit could mean belief. His theory, offered as such.
+- [58:05] Matthew 13:10-17: parables keep out those not meant to understand; the talents; "many are called but few chosen," which he says the Nazarene Acts render as "few choose."
+- [1:01:38] Matthew 13:18-23: the interpretation; the thorny ground becomes "without works."
+- [1:03:23] Matthew 13:24-30, wheat and tares: people produce the fruit; he takes the tares to be Esau and the wheat Jacob (his Esau-Edom series). Verse 30, tares gathered first: "I'm striving to be left behind." Darnel looks like wheat and is toxic; only the fruit tells them apart.
+- [1:08:39] Matthew 13:36-43: the angels gather out the things that cause stumbling; Revelation 2:14 (Balaam, idol meat as a stumbling block) set beside 1 Corinthians 8 and 10.
+- [1:10:38] Matthew 13:44-50: treasure and pearl as submitting every area of life (marriage, business, bedroom, dinner plate) to the kingdom; James's law of liberty against Paul's slavery language; the net as the end-of-age separation.
+- [1:19:02] Matthew 13:51-52: the Hebrew has "every wise man" for "every scribe."
+- [1:21:37] Matthew 16:21-27 and Howard's Hebrew 16:24-26: "take up his cross, that is, offer himself unto death"; Gehenna. His conclusion: Jesus was murdered and stayed faithful to death as an example; God forgave on repentance without sacrifice; Matthew 5:7's "merciful" he renders "compassionate," extended to animals. John 12:23-26, the grain of wheat.
+- [1:30:04] Matthew 21:17-22, the fig tree as an acted parable: leaves, no fruit, withered. "This mountain" as a governing or religious authority (Newton; his Revelation series), perhaps the temple in view.
+- [1:36:23] Matthew 21:33-45, the wicked tenants: the inheritance is the nations (Psalm 2); he connects the temptation's offer of the kingdoms (via the Nazarene Acts) with his view of the "Edomite Jews" today and Revelation 2:9, 3:9. The kingdom given to a nation producing its fruit.
+- [1:40:30] Luke 13:6-9, the barren fig tree: no parable has a fruitless tree raised to life.
+- [1:42:06] John 15:1-17: pruning as selling all for the pearl; branches (*netzer*, Nazarenes) bear fruit only in the vine; following another cuts one off; "you are my friends if you do whatever I command you"; fruit that remains.
+- [1:48:37] Personal application: corrupt trees try to turn good ones; spiritual attack as that process.
+- [1:52:32] John 13:13-17: he says the word in verse 16 is "apostle," translated "he that is sent" only here, so that no apostle can be greater than the one who sent him.
+
+## Sources He Cites
+
+- Matthew 3:10; 5:7; 7:13-20; 12:30-37; 13:3-52; 16:21-27; 21:17-45; Mark 4:14; 8:24; Luke 13:6-9; 21:33; John 12:23-26; 13:13-17; 15:1-20; Genesis 49:27; Psalm 2; Isaiah 6:9-10; Acts 15; 1 Corinthians 8, 10; 2 Corinthians 12:7; Galatians 2:11-16; 2 Peter 3:16-17; Revelation 2:9, 2:14, 3:9. **Held** (KJV).
+- Recognitions 4.36. **Held** (Smith); read in Snyder's *Nazarene Acts* with his own additions (see Claims).
+- "Many are called, but few chosen" via the Nazarene Acts. The held Clementines have it at Homilies 8.4 (Smith): "many,' said He also, are called, but few chosen."
+- 4QMMT, *ma'aseh ha-torah*. **Held** (Tier 2 excerpt, WAC): C 26-27, "some of the works of the Law."
+- George Howard, *Hebrew Gospel of Matthew* (the Shem-Tob text): Matthew 7:20; 13:23; 13:52; 16:24-26. Not held; `extended-library/jesus-words-only-notes.md` records how the repo has treated it.
+- Strong's 2041 (*ergon*) and the Septuagint equivalence with *ma'aseh*. Reference works; not held.
+- Isaac Newton on prophetic symbols (his *Observations upon the Prophecies*, 1733, by context). Not held.
+- His own series: Esau-Edom (files 127-129), Revelation, Seeking God's Justice; his blog post on the Hebrew Matthew.
+
+## Where This Overlaps the Repo
+
+- `questions/two-ways-kingdom-within.md` → `### 5. The Two Ways predates Christianity — Jesus inherited it` (narrow gate, good tree) and the objection `### "Works are the fruit of salvation, not its basis. ..."`
+- `questions/blood-atonement-and-salvation.md` → `### 2. Forgiveness is reciprocal, not purchased` and `### "You're reducing the cross to nothing."` (his faithfulness-unto-death reading of the cross).
+- `questions/rapture-end-times.md` → `### 2. The wheat and the tares — sequence stated explicitly` (the same reading of Matthew 13:30) and `### 1. Jesus's own analogy makes "taken" the bad outcome`.
+- `questions/essene-nazarene-origins.md` → `### "'Works of the law' means Jewish boundary markers, not good deeds — Dunn and Wright. ..."`; `christianity/dead-sea-scrolls/Incoming/dead-sea-scrolls-selected-texts.md` → `## 5. 4QMMT -- Miqsat Ma'ase Ha-Torah (4Q394-399)`.
+- `questions/pauls-legitimacy.md` → `### 3. James ruled, and Paul reversed it in writing` (Acts 15 and 1 Corinthians 8, 10) and `### "Peter personally endorses Paul — 2 Peter 3:15-16 calls him 'our beloved brother Paul.'"`
+- `questions/nazarene-sect-sacrifice-and-diet.md` → `### The Recognitions block — the biggest unexploited asset in this repo`; Recognitions 4.36 is not yet used there.
+- `christianity/hebrew-gospel-of-matthew.md` → `## The Three Related Texts` (Hebrew Matthew traditions; Shem-Tob is a separate, medieval witness).
+- Related David files: 155 (the Benjamin wolf), 177 and 178 (the wedding garment and baptism; 177 also reads Recognitions 4.36), 127-129 (Esau-Edom).
+
+## Claims to Check
+
+1. **Howard's Hebrew Matthew 7:20 and 13:23 add "that is, their deeds" and "from good works," and gloss the hundred, sixty and thirty.** Shown on screen from Howard; not held. The Shem-Tob text survives in a 14th-century polemical work; whether its readings preserve an early Hebrew Matthew or a medieval translation is debated (Howard argued for an early substratum).
+2. **The gloss was removed from the Greek on purpose.** His inference from two absences.
+3. **Recognitions 4.36 wording.** The held text (Smith) reads "receiving another teacher besides Christ, who alone is the faithful and true Prophet, and who has sent us twelve apostles to preach the word"; the name Paul and "not 13" are not in it. The rest matches: "murders, adulteries, hatreds, avarice, evil ambition"; "to partake of the table of demons, that is, to taste things sacrificed, or blood, or a carcase which is strangled"; "Be this therefore the first step to you of three; which step brings forth thirty commands, and the second sixty, and the third a hundred." Smith's footnote [748] links the passage to Acts 15:20 and 1 Corinthians 10:21.
+4. **The Acts 15 rules as four of the first thirty commands.** His harmonisation of Acts 15 with Recognitions 4.36; the text does not number them.
+5. **"Many are called, but few choose" in the Nazarene Acts.** The held Homilies 8.4 (Smith) reads "few chosen"; Snyder's wording not checked here.
+6. **"Ravening wolves" appears elsewhere only in Genesis 49:27.** KJV Genesis 49:27 reads "Benjamin shall ravin as a wolf"; KJV also has "like wolves ravening the prey" (Ezekiel 22:27), "ravening" in Ezekiel 22:25, Psalm 22:13 and Luke 11:39. In Greek, *lykoi harpages* (Matthew 7:15) and the Septuagint of Genesis 49:27 (*lykos harpax*) share the vocabulary.
+7. **Mark changed the seed from people to the word.** KJV Mark 4:14, "The sower soweth the word"; Matthew 13:19, "the word of the kingdom." His theory, labelled as such.
+8. **4QMMT is what Paul meant by "works of the law," used as a straw man for Peter's withdrawal.** The phrase match is in the held excerpt; the Antioch reconstruction is his. See the repo's Dunn/Wright objection on the Essene card.
+9. **Peter withdrew because table fellowship with idol-meat eaters exposes one to demons.** Draws on Homilies 7.3-4 and 7.8 (the table of demons; see file 177); Galatians 2:12 gives fear of "them which were of the circumcision" (KJV) as the reason.
+10. **Paul lost at Antioch and was possibly expelled.** Galatians does not report the outcome; an inference.
+11. **2 Peter 3:16-17 says Paul's teaching destroys understanding.** KJV 3:16: "some things hard to be understood, which they that are unlearned and unstable wrest... unto their own destruction" (*dysnoēta*, hard to understand; the destruction is that of those who twist them).
+12. **Newton's prophetic symbols.** Not held; the scheme (sun, moon, stars, trees, grass, mountains, beasts) is his summary.
+13. **Matthew 5:7 "merciful" means "compassionate."** *Eleēmones* covers both; his application to animals is his own.
+14. **The wheat and tares are Jacob and Esau; "Edomite Jews" and the nations today.** His reading, developed in files 127-129 (cf. decision D3 on leaving such remarks in claims-to-check).
+15. **John 13:16's "he that is sent" is the word "apostle," rendered otherwise only there.** The Greek is the noun *apostolos* (not the verb *apostellō*). The KJV also renders *apostolos* "messengers" at 2 Corinthians 8:23 and "messenger" at Philippians 2:25, so John 13:16 is not the only exception.
+16. **Hebrew Matthew 13:52 "every wise man" for "every scribe."** KJV: "every scribe which is instructed unto the kingdom of heaven." Howard not held.
 
 ---
 

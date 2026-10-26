@@ -10,7 +10,48 @@
 
 ## Summary
 
-*Notes pending.*
+Recorded in early February 2025, after President Trump's press conference with Benjamin Netanyahu about Gaza and the January announcement of the Stargate AI project. Chris says to "exit the theater" of politics: voters were deceived whichever candidate they chose, and both party contests are staged like professional wrestling. He objects to the way Trump spoke of the United States owning Gaza, says Trump could not bring himself to say "Palestinians," and argues that the people of the region are the Semites, from Shem. He describes the 48-hour custom cancer vaccine mentioned at the Stargate announcement against "turbo cancer," and gives a short account of the technology he believes is involved: injections as relay nodes in a bio-digital interface, and a database of each person's electrical "bio signature" that lets those in control "log in" under the skin. He says the billionaires in the room are in charge, not the man reading cue cards, and calls the situation an "omni war." Near the end he says Judea was under Greek and Roman rule from Alexander and Antiochus Epiphanes on, describes it as a cosmopolitan, heavily Hellenized place, and says the dating of time (BC/AD) is itself a lie. He urges listeners off every political "boat" and ends when his wife calls.
+
+## Key Points
+
+- [00:00] Trump announces war a week and a half in; the 24- or 48-hour cancer vaccine; voting as a ritual.
+- [01:37] "Exit the theater"; politicians read cue cards for those who paid them; an exit from the UN as the start of his own digital UN, as Chris puts it.
+- [03:13] The 48-hour cancer vaccine; "we're going to own Gaza"; Netanyahu on stage; why Gaza is an awful place to live.
+- [04:50] The intelligence agencies of both countries; a custom cancer vaccine on the heels of "turbo cancer"; Stargate.
+- [06:24] Politics as wrestling; the news as the one programme people believe is not fiction; "programming."
+- [07:57] God protects those in his will; Trump would not say "Palestinians"; the people of the region as Semites, from Shem.
+- [09:32] Only the Holy Spirit can convince people; knowing people by their fruits.
+- [11:06] Few people understand how a TV remote works, so they cannot see how they are being targeted.
+- [12:42] "Bastards," in his literal sense, given the loudest voices; 5D chess, and the possibility that you are the checkmate.
+- [15:50] If something feels off, you are not wrong; every needle on the dashboard is in the red.
+- [17:25] The "micro" explanation: injections as relay nodes in a bio-digital interface; the digital twin; a body's bio signature at around a megahertz.
+- [18:59] People can survive if they have the context; cyber-physical interfaces rolled out at the data-centre level.
+- [20:33] Ellison, "Masa" (Son) and Altman at the press conference; a database of every person's bio signature; the news as the "perception and illusion division."
+- [22:04] Censorship of small sellers while the "omni war" goes on; waiting on Jesus to be taken out of the war.
+- [23:40] Judea owned since Alexander and Antiochus Epiphanes; Herod's killing of infants; Hellenized Judea; the first-century war; the time periods themselves are lied about.
+- [25:16] Taxpayer dollars for a war; what ending a war means.
+- [26:50] Off the Trump train, and off every political boat.
+
+## Sources Cited
+
+- The February 4, 2025 Trump-Netanyahu press conference (paraphrased). Not held.
+- The January 21, 2025 Stargate announcement with Larry Ellison, Masayoshi Son and Sam Altman (paraphrased). Not held.
+- Knowing them by their fruits (Matthew 7:16-20); Herod and the children two and under (Matthew 2:16). **Held** (KJV).
+
+## Where This Overlaps the Repo
+
+- Uncritical support for the modern state of Israel as a Christian duty: `christianity/2026-03-09-combating-christian-zionism-strategy.md` → `## The Problem`.
+
+## Claims to Check
+
+1. **Trump said the United States would "own" Gaza.** At the February 4, 2025 press conference he said the US would take over the Gaza Strip and own it. Reported widely.
+2. **Larry Ellison spoke of a custom cancer vaccine made in 48 hours.** At the January 21, 2025 Stargate announcement Ellison described AI-designed mRNA cancer vaccines made in about 48 hours. Correct as a description of what was said.
+3. **"Turbo cancer" from the warp-speed vaccines.** The term circulates online; no peer-reviewed evidence has established a vaccine-linked rise in fast-growing cancers.
+4. **Trump exited the United Nations.** On January 20, 2025 he ordered withdrawal from the WHO, and on February 4 from the UN Human Rights Council; the US did not leave the UN.
+5. **"Semite" comes from Shem.** Correct: the term was coined in the 1780s (Schlözer) from Shem in Genesis 10.
+6. **Judea was ruled by Greeks from Alexander and Antiochus Epiphanes until Rome, so Herod killed the infants because Israel did not own Judea.** Judea was under Ptolemaic and Seleucid rule from Alexander's conquest (332 BCE), independent under the Hasmoneans (from about 140 BCE to 63 BCE), then under Rome; Herod was a Roman client king.
+7. **The time periods are lied about (BC/AD).** The AD count was set by Dionysius Exiguus in 525; see the Shabbat Studies overview, combined claim 156.
+8. **A human bio signature at about a megahertz.** No source given; the heart's electrical activity is measured in hertz, not megahertz.
 
 ---
 

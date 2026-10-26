@@ -10,7 +10,130 @@
 
 ## Summary
 
-*Notes pending.*
+The first "TankTop Theology" live stream, a conversation between Chris and his friend Dino (Dino V in the title) on the end times, with live chat. Dino, 33, tells his story: a Bosnian Muslim father and a Serbian Orthodox mother who raised him without religion; his grandfather's death on February 29, 2020; a prayer and, the next morning, a red cardinal on his fence; lockdown time spent researching, and the reasoning that if an evil side of the world exists it must be opposing something; reading the Bible cover to cover from late 2020, finding pre-tribulation rapture teaching wrong, and returning to Torah and obedience. Chris tells his: a Black, conservative, charismatic church and its school in the South, a change of schools at 15, a prayer about ten years ago asking whether he had truly tried to learn, and a decade studying who Jesus was. (Dino's connection drops partway through; Chris carries the rest, with chat questions.)
+
+Chris's argument: Darby and Scofield's margin notes shaped the end-times beliefs of most Christians he knows, and the late-nineteenth-century revival that carried them was, in his view, funded rather than organic. Jesus's "this generation" sayings point to the Jewish-Roman war (66-73), a generation of forty years after a crucifixion around 33; read against Josephus and Tacitus, Revelation up to about chapter 19 or 20 describes that war, and the world may now be in the "little season" of Revelation 20:3, after the thousand years. Along the way: Paul as a Herodian agent of the chief priests who joined the movement he couldn't defeat, with Matthew 19 against Ephesians 2:8-9 as the two salvation models; Jesus's family written out of the story; 2 Peter 3:15-16 read as a warning; Marcion's Paul-only canon as proof such a capture has happened before; Jeremiah 8:8 and Josiah's lost book against infallibility; "scripture" as the name of the third division of the Hebrew Bible; *ekklesia* as "called-out ones"; Nicaea on who Jesus was, not on the canon; the virgin birth as a later Roman addition that breaks the Davidic line; and why he and his family keep the Sabbath and not Christmas or Easter. He points viewers to the Shabbat Studies playlist for the full treatment and says he does not intend offence.
+
+## Key Points
+
+- [00:00] Intro music and set-up; [02:35] the premise: two friends from different backgrounds (Bosnian-Serbian, and Black Southern church) unpacking history, religion and spirituality.
+- [10:04] The topic: the rapture, Trump, the temple, red heifers, "end times." Chris agrees it is the end of an age but sees it as a script edited to hide that parts of it have already played out ([11:37]).
+- [14:01] Dino at 33, "the Yeshua year"; [14:45] his family background; [15:50] he does not call himself a Christian, and found Christianity relying on man-made traditions the Bible warns against ([17:07]).
+- [18:39] The prayer and the red cardinal (about March 1, 2020); [20:11] lockdown research: if there is an evil side, what is it opposing.
+- [21:22] Chris: faith was taught as separate from logic; logic as evidence of God's design, like reverb after a transient ([24:31]); Jeremiah "you will seek me and find me" ([22:11]; he is unsure of the verse).
+- [26:05] Confusion as not from the author of order; the prefix "con-."
+- [29:05] Dino on the rapture: reading cover to cover, pre-tribulation never felt right; Scofield and Darby. [30:37] Chris: the Scofield Reference Bible was known but not read in his circles, yet 50 to 80 percent of the Christians he knows hold its end-times scheme ([31:33]).
+- [31:33] Chris's church and school background; the change of schools at 15 ([32:41]).
+- [35:38] No one knows the day or hour, but the season was never a mystery to the prophets; jubilee cycles.
+- [36:36] Thirteen official Bibles and a history of edits that Westerners don't know about.
+- [38:39] His prayer about ten years ago: had he truly tried to learn about God? [39:50] "End times" his whole childhood; seminaries traced to the Catholic Church ([40:33]).
+- [41:49] Romans 10:9-10 and 8:28 as the packaged gospel; Paul set aside for the night, with a pointer to the Shabbat Studies series ([42:37]).
+- [43:54] Nicaea convened over who Jesus was; the state intertwined with the temple then, as with Vatican City now ([44:43]); Jesus killed for opposing temple sacrifice.
+- [46:19] *Ekklesia* as the called-out ones; "church" as a word disconnected from it.
+- [47:36] Strong's Concordance: he uses it but says Strong was a Mason ([48:29]).
+- [49:46] Paul as a Roman agent placed among the chief priests' persecutors; Herod's nephew, citing Romans 16 ([51:20]); "greasy grace" (Ephesians 2:8-9) against Matthew 19 and Matthew 7.
+- [52:52] Dispensations and "he was speaking to the Jews" as one-liners; the lost sheep of the house of Israel.
+- [53:40] His work editing for Christian figures (Billy Graham's birthday video); the state promotes what it allows; a coming "digital godhood" built on God-within language ([55:12]).
+- [55:12] Dino: once he took Paul out, the meaning changed.
+- [56:19] The saying about robbing Peter to pay Paul; Peter's standing given to Paul; 2 Peter 3:15-16 as a low-key warning.
+- [57:54] Judea, not Israel, and mostly Greek; Paul seeking letters of commendation from the Jerusalem assembly under Jesus's brother; Jesus's blood family removed from the story.
+- [59:28] The Damascus voice quoting Dionysus and blinding Paul; Jesus only unblinded; God's messengers came to the already righteous.
+- [1:01:00] Ask any Christian how to be saved and the answer is Paul's; Jesus, asked, said keep the commandments.
+- [1:01:43] The temple action as abolishing sacrifice, in line with the prophets; the Nazarenes, Ebionites, Essenes, Sicarii and the Onias priesthood left out of the story ([1:03:16]).
+- [1:04:19] Apostle as emissary, not student; Mithraism and Marcionism reintroduced into the state religion.
+- [1:06:07] Jeremiah 8:8: God protected his word by sending prophets, not by preventing edits.
+- [1:07:04] New Testament order: Chris lists the canonical order and says it is out of chronological order on purpose ([1:09:58]); Hebrews possibly Barnabas.
+- [1:08:38] The Masoretic Text has no copy older than about 1016.
+- [1:12:23] Paul's letters were written first; Mark the first gospel, its last chapter in different Greek ([1:13:56]); Acts addressed to Theophilus at Paul's trial.
+- [1:16:35] "This generation," forty years, the war ending in 73; the urgency in Jesus's words was for the people in front of him.
+- [1:17:31] The late-1800s revival as a funded operation to tie Western Christians to the next century of British banking policy, not an organic move of the Spirit ([1:18:31]).
+- [1:20:05] Technology in church experience; the controlled demolition of America that good people won't resist because they think it is God, and a rapture they expect to remove them ([1:21:37]).
+- [1:22:47] A chat question on descent from the twelve tribes: Chris thinks many people are, including some Native American tribes; the Chief Riverwind story ([1:24:33]).
+- [1:25:44] Jesus came for the lost sheep of the house of Israel, and only Paul says he came for the Gentiles; Christianity as Mithraism, Marcionism and Paul; Marcion's Paul-only Bible around 140 as precedent ([1:27:11]).
+- [1:28:01] Pre-, mid- and post-tribulation; the *Left Behind* series as social engineering of kids like him ([1:29:00]).
+- [1:29:56] Mass deaths that were not the end times (Holodomor, Holocaust, Armenian genocide); the rapture as a placation strategy ([1:30:59]).
+- [1:32:54] The Bible made an idol; Dino's wedding conversation about Jeremiah 8:8 ([1:33:41]).
+- [1:34:39] To a viewer who says we're not meant to interpret or fully understand scripture: anything written down is meant to be understood ([1:36:11]).
+- [1:38:24] "Scripture" as the third division (Ketuvim): Torah, Prophets, Writings, in descending authority ([1:39:19]); David's laments are David's words.
+- [1:42:27] The Trinity found nowhere in Jesus's words; Nicaea was about who Jesus was, not about writing the Bible ([1:44:00]); Constantine's vision.
+- [1:44:45] What he calls himself: a child of God, a follower of Yeshua and of the way, a follower of the Torah of the Most High; he doesn't keep Christmas or Easter (Ishtar) ([1:46:18]); the Sabbath set apart; Constantine and the Edict of Milan on Sunday ([1:47:21]).
+- [1:49:48] The nine-and-a-half-hour Paul stream with his wife; Deuteronomy 13 (false prophets as tests) and Balaam ([1:50:43]); Jeremiah alone hearing from God in his day ([1:51:41]).
+- [1:53:48] "I'm not leaving with you the King James version," but the helper; the virgin birth from the 310-330 period; Nicaea set a bi-deity (captioned "by deity"), and the Holy Spirit came later.
+- [1:56:34] Messiah as an office tied to a bloodline; two genealogies of Joseph; an Aramaic or Syriac reading "Joseph begat Yeshua" removed in the Western text ([1:58:07]); Jeconiah's curse and his place in the genealogy ([1:58:56]).
+- [1:59:52] The little season: the end of the age, not the world; Revelation's structure (churches, judgments, millennial reign, a short release of Satan) ([2:01:02], [2:01:46], [2:03:20]).
+- [2:04:52] Free will for those born during the thousand years; literal and allegorical inverted; Revelation through chapter 19 or 20 fulfilled in the war of 66-73 ([2:05:59]).
+- [2:06:50] Chronology inside Revelation can't be trusted; gaps between items; the bowl judgments unknown.
+- [2:08:17] 1 AD was not year one; resets; [2:10:09] why would Persia or Babylon re-date the calendar for Jesus; [2:11:42] the steep moral change in two generations as a sign of evil unrestrained.
+- [2:13:18] Tacitus and others on chariots seen in the sky over the temple and the famine, as Revelation describes ([2:14:13]).
+- [2:15:26] Jeremiah 8:8 again; 2 Peter 3:15-16 as a warning, and probably not by Peter ([2:16:16]).
+- [2:18:37] Josiah's restoration and missing Torah; the Holy Spirit is how God speaks, not the book alone ([2:19:47]).
+- [2:21:05] His ranking: more likely Jesus spoke to the people in front of him than that every generation is the last; he thinks we "might be in the little season."
+- [2:22:55] The rapture narrative steering support for a Middle East campaign and a rebuilt temple; the Shabbat Studies playlist recommended ([2:24:28]).
+- [2:27:40] The current revival, Orthodox especially, is "giving astroturf vibes, not grassroots vibes"; the Albert Pike letter to Mazzini, Blavatsky, von Braun, Steiner and theosophy.
+- [2:28:34] Close: the fourth commandment says set the Sabbath apart; a day off on their land.
+
+## Sources Cited
+
+- KJV, held: Jeremiah 29:13 (he guesses "18:33"); Jeremiah 8:8; Jeremiah 22:30 with Matthew 1:11-12 (Jechonias); Matthew 1:16; Matthew 7:21-23; Matthew 15:24 (KJV: "I am not sent but unto the lost sheep of the house of Israel"); Matthew 19:16-22; Matthew 24:34; Mark 16; John 1:1; John 14:16, 26 (KJV: "another Comforter"); Acts 26:14 ("kick against the pricks"); Romans 8:28; 10:9-10; 16:11 (KJV: "Salute Herodion my kinsman"); Ephesians 2:8-9; 2 Peter 3:15-16; Deuteronomy 13; Exodus 20:8; 2 Kings 22-23 (Josiah); Revelation 2-3, 16, 20:3 (KJV: "loosed a little season"), 21:12.
+- Scofield Reference Bible (1909) and Darby. Not held; covered in `christianity/2026-03-08-darby-dispensationalism-deep-dive.md`.
+- Strong's Concordance. Not held.
+- The *Left Behind* novels (LaHaye and Jenkins). Not held.
+- Tacitus, *Histories* 5.13, and the first-century historians on portents and famine (Josephus, *Jewish War* 6). Not held (the repo holds only *War* 2.8.5 and *Ant.* 18.1.5).
+- An Aramaic or Syriac Matthew 1:16 ("Joseph begat Yeshua"); he doesn't name the manuscript. Not held.
+- Marcion's canon. Not held as a text; Tertullian's *Against Marcion* is quoted in `christianity/the-nazarenes.md`.
+- Councils: Nicaea, Carthage, Hippo, Trent, Laodicea; Edict of Milan. Not held.
+- Albert Pike's letter to Mazzini; Blavatsky; Steiner; von Braun. Not held.
+- The Chief Riverwind clip. Not held.
+- Shabbat Studies with Jen & Chris (`podcast-archive/shabbat-studies/`), recommended for the full case.
+
+## Where This Overlaps the Repo
+
+- `christianity/2026-03-08-darby-dispensationalism-deep-dive.md` → `## John Nelson Darby — The Man and His Innovation`, `## The Scofield Reference Bible — How One Man's Footnotes Became "What the Bible Says"`, `### Stage 6: Pop Culture Explosion (1970s-2000s)` (*Left Behind*), `## Follow the Money — Who Funded Dispensationalism?` (his funded-revival claim) and `## From Theology to Statehood — The Road to 1948` (his Middle East point).
+- `questions/rapture-end-times.md` → `## Strongest Evidence`, `### 5. The paper trail is a bibliography, not a conspiracy theory`.
+- `christianity/2026-03-09-did-jesus-teach-apocalypse.md` → `## 2. The Olivet Discourse — What Was Jesus Actually Talking About?`, `### The Case That Jesus Was Talking About 70 CE` (his "this generation" reading).
+- `christianity/2026-03-23-revelation-deep-dive.md` → `## Who Actually Wrote Revelation?` (the repo dates Revelation c. 95 under Domitian and does not take the author to be the apostle; Chris reads chapters up to 19 or 20 as the war of 66-73) and `## What Did Jesus Actually Teach About "the End"?`.
+- `questions/pauls-legitimacy.md` → `### "Peter personally endorses Paul — 2 Peter 3:15-16 calls him 'our beloved brother Paul.'"`; `### 5. The Jewish-Christian tradition remembers him as the opponent`.
+- `questions/blood-atonement-and-salvation.md` → `### 1. Asked point-blank how to be saved, Jesus names behavior` (Matthew 19).
+- `questions/sacrifice-culture-vegetarian-jesus.md` → `### 2. The Temple action was an attack on the sacrifice trade, not on exchange rates`.
+- `questions/method-and-criteria.md` → `### "You've reinvented Marcion. Same canon surgery, same anti-sacrifice God, same discarded Hebrew cult — you just cut Paul instead of the Jews."` (the repo's description of Marcion's canon as an edited Luke plus ten Paulines).
+- `questions/CITATION-NOTES.md` on Jeremiah 8:8 (cite it as Jeremiah; what the verse does and doesn't establish).
+- `questions/trinity-deity-of-jesus.md` → `### 5. The timeline: triadic language is early, co-equal substance is not`; `christianity/trinity-fourth-century-construction.md` → `### The Historical Timeline: From Plato to Chalcedon`.
+- `christianity/james-the-just-key-to-understanding-jesus.md` → `### The Erasure of James` (Jesus's family left out of the story).
+- `christianity/paul-false-prophet-deuteronomy-18-test.md` (Deuteronomy 13 and 18 tests for Paul).
+- `podcast-archive/shabbat-studies/00-overview.md`: the same positions at length (Paul, Jeremiah 8:8, scripture as the Writings, the virgin birth, the little season, Easter, Constantine and Sunday).
+
+## Claims to Check
+
+1. **Darby and Scofield are the source of the rapture teaching most Christians hold.** The repo makes the same case (Darby 1830s; the Scofield Reference Bible 1909). The conversation puts it at about a hundred years ago and in the late 1800s to early 1900s, which fits the Scofield stage.
+2. **The revival that spread it was funded to tie Western Christians to British banking and Middle East policy.** The repo's `## Follow the Money` section names Scofield's documented backers; the British-bank link is his reading and needs a source.
+3. **Paul was Herod's nephew (Romans 16).** KJV Romans 16:11: "Salute Herodion my kinsman"; nothing in the text says nephew. Eisenman's Herodian-Paul argument is the scholarly version; see the Shabbat Studies Ch 4D notes.
+4. **The voice on the Damascus road quotes Dionysus.** Acts 26:14 "kick against the pricks" matches Euripides, *Bacchae* 794-795, where Dionysus speaks; the proverb is also in Aeschylus (*Agamemnon* 1624) and Pindar. Already in the Shabbat Studies combined list.
+5. **The saying about robbing Peter to pay Paul records the apostles' rivalry.** The English idiom is attested from the fourteenth century, usually explained by church property or dedications; no link to the apostles' dispute is documented.
+6. **2 Peter 3:15-16 is a warning, and Peter probably didn't write 2 Peter.** Most critical scholars treat 2 Peter as pseudonymous; the warning reading is his. See the Shabbat Studies combined claim 44 and `questions/pauls-legitimacy.md`.
+7. **Only Paul says Jesus came for the Gentiles.** Matthew 15:24 is as he quotes it (KJV). Gospel passages that include the nations (Matthew 8:11, 28:19; Mark 13:10; Luke 2:32) are the usual reply; whether they are later layers is the question.
+8. **Paul's letters were written first, Mark was the first gospel, and Mark 16 is a later addition.** Mainstream; the repo notes Mark 16:9-20 is absent from Sinaiticus and Vaticanus (`questions/method-and-criteria.md`).
+9. **Recent scholarship suggests Barnabas wrote Hebrews.** Tertullian attributed it to Barnabas; most modern scholars say the author is unknown, with Barnabas one of several proposals.
+10. **The New Testament books were put out of order on purpose.** The canonical order groups books by type and, for Paul, roughly by length; the claim of intent is his.
+11. **The Masoretes have no copy older than about 1016.** The Aleppo Codex dates to about 930 and the Leningrad Codex to 1008-09; the Dead Sea Scrolls are a thousand years older (the repo holds Tier 2 excerpts in `christianity/dead-sea-scrolls/`).
+12. **Strong was a Mason.** No source given; James Strong was a Methodist scholar.
+13. **"Church" has no link to *ekklesia*.** "Church" comes from Greek *kyriakon* ("the Lord's house") through Old English; *ekklesia* is the ordinary Greek word for an assembly, built from *ek-kaleō*, "call out." The point about translation stands; "called out" is the etymology rather than the everyday sense.
+14. **"Scripture" originally named only the Writings.** In the gospels "the scriptures" include Moses and the prophets (Luke 24:27, KJV: "beginning at Moses and all the prophets, he expounded unto them in all the scriptures"). Already in the Shabbat Studies combined list (2 Timothy 3:16).
+15. **Nicaea settled who Jesus was, not the canon; it set out a bi-deity, and the Holy Spirit came decades later.** The first half is standard (Shabbat Studies claim 24). The 325 creed ends with a one-line article on the Holy Spirit; Constantinople (381) expanded it. His statement that Constantine almost killed five bishops needs a source; the record is two bishops refusing to sign, and exile.
+16. **The virgin birth came from the 310-330 period.** Matthew 1 and Luke 1 carry it in every surviving manuscript, and Ignatius (c. 110) and Justin (c. 150) know it. The Ebionites denied it (Irenaeus, *Against Heresies* 1.26.2; Panarion 30), which the repo holds; see Shabbat Studies claim 9.
+17. **An Aramaic or Syriac Matthew 1:16 reads "Joseph begat Yeshua," and Rome removed it.** The Sinaitic Syriac (4th-5th century) reads that Joseph, to whom the virgin Mary was betrothed, begat Jesus; the Greek manuscripts that read otherwise are as early or earlier. The variant is real; the removal is his reading. Not held.
+18. **Jeconiah's curse contradicts his place in Jesus's genealogy.** Jeremiah 22:30 and Matthew 1:11-12 (KJV, held) are as he says; the tension is long discussed in commentaries.
+19. **Jeremiah 8:8 says the lying pen of the scribes made the Torah a lie.** KJV: "the pen of the scribes is in vain"; "lying pen" is the wording of modern translations. `questions/CITATION-NOTES.md` sets the limits of what the verse supports.
+20. **In Jeremiah's day no one else heard from God.** Contemporaries named in scripture include Uriah (Jeremiah 26:20), Habakkuk, Zephaniah and Ezekiel.
+21. **A generation is forty years; Revelation through chapter 19 or 20 describes the war of 66-73.** The forty years matches the repo's Olivet argument. The repo's Revelation file dates the book c. 95, after the war; an early (Neronian) date is a minority view. See Shabbat Studies claim 154.
+22. **Tacitus records chariots seen in the sky as the temple fell; historians record famine cannibalism.** Tacitus, *Histories* 5.13, reports armies seen clashing in the sky and the temple lit by a sudden fire; Josephus, *War* 6.5.3, reports chariots and troops in the clouds, and *War* 6.3.4 the mother who ate her child. Neither text is held.
+23. **Nobody knows what the bowl judgments are.** Revelation 16 describes all seven vials (KJV); the sealed, unknown item is the seven thunders (10:4).
+24. **Revelation's first two chapters address the seven churches; the New Jerusalem is guarded by the twelve tribes, "notably not the 13th."** The letters are chapters 2-3. Revelation 21:12 (KJV) has twelve angels at the gates and the tribes' names written on them.
+25. **We may be in the little season (Revelation 20:3); the AD count implies a reset.** His speculation, offered as a ranking. Dionysius Exiguus devised the AD count in 525; see Shabbat Studies claims 155-156.
+26. **Marcion produced the first Bible, built on Paul alone, and it was a movement for about seventy years.** Marcion's canon (c. 140) was an edited Luke plus ten Pauline letters, as the repo's method card puts it; Marcionite churches lasted into the fifth century.
+27. **Easter is Ishtar's day; Constantine and the Edict of Milan set Sunday worship.** See Shabbat Studies claims 26 and 63: Bede derives Easter from Eostre; the Edict of Milan (313) granted toleration, and the Sunday rest law is 321.
+28. **Albert Pike's letter to Mazzini planned three world wars.** No original has been found; the text first appears in William Guy Carr's writing in the 1950s.
+29. **Some Native American tribes, including the Cherokee, descend from Israel; Chief Riverwind recognised a song in Israel.** Not checked here.
+30. **Jesus died at 33 in the year 33; Judea "captured and conquered Jerusalem" in 70.** Common dates for the crucifixion are 30 or 33; Rome took Jerusalem in 70, so "Judea" here is a slip for Rome.
 
 ---
 

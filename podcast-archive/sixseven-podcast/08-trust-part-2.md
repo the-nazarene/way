@@ -10,7 +10,50 @@
 
 ## Summary
 
-*Notes pending.*
+Trust, part two, spring 2021. Chris responds to a fact-check of one of his earlier videos. He says the article (by a writer he identifies as a former *Us Weekly* writer) agreed that what he said was technically true, that the vaccine alters the function of DNA in the sense of producing spike protein, and then called it false on the basis of opinion; he argues that latent retroviruses with reverse transcriptase could in principle carry modified mRNA into DNA, and that the honest statement would be to say there is a chance and they think it low. He then argues that the vaccines were shown effective at reducing symptomatic COVID-19 rather than transmission (using a hypothetical HIV/AIDS treatment as an analogy), that COVID-19 and SARS-CoV-2 are conflated, that the pregnancy evidence rests on a few accidental pregnancies in the trials, that negative reports are being removed while VAERS undercounts adverse events, that supply claims show the demand was lower than advertised, and that Fauci takes vitamin D. He closes on the coming children's version and calls the situation a genocide.
+
+## Key Points
+
+- [00:00] A fact-check of his previous video; the claim that the vaccine alters the function of DNA, which he says the article granted.
+- [01:33] Opinion presented as fact; reverse transcription by latent retroviruses as a possible route into DNA; he claims only that it is possible.
+- [03:05] An exchange with a commenter over the 99% survival rate; 99.4-99.9% for under-70s.
+- [04:37] "Replication incompetent"; six to eight weeks of testing against the usual six to eight years; "effective" defined three ways, and by the manufacturer as reducing symptoms.
+- [06:10] The hypothetical: a treatment that reduces AIDS symptoms without stopping HIV spread.
+- [07:42] COVID-19 (disease) and SARS-CoV-2 (virus) conflated; herd immunity with no proven effect on transmission.
+- [09:16] Pregnancy: trial participants told not to get pregnant; a few did; the source in the fact-check was WebMD; concerns are about carrying to term.
+- [10:48] Doctors disagree; informed consent requires hearing both; *Fahrenheit 451*.
+- [12:21] A conspiracy is two people agreeing on something; a "bio technical operating system"; he was a computer science major.
+- [13:55] Product reviews as the model: read the negative ones; negative reports being removed.
+- [15:28] VAERS: if it captures 1% of adverse events, 3,500 reported deaths implies far more; marketing budgets against research.
+- [17:00] Oxygen needs no advertising; the rollout schedule changed from a year to four months.
+- [18:31] Either supply was misstated or demand was lower; the nightclub-line illusion of scarcity.
+- [20:04] "100 percent efficacy" for adolescents; nothing is 100% effective; the bat story.
+- [21:37] Avoiding the virus all year and then having its spike protein produced in your body.
+- [23:09] Fauci's 6,000 IU of vitamin D, revealed in an interview; "this is a genocide."
+- [24:41] Masks, gloves and restaurant rules as making no epidemiological sense.
+- [26:14] The children's version heading into the school year.
+
+## Sources Cited
+
+- A fact-check article on his earlier video (author and outlet not named on air). Not held.
+- WebMD (as cited by the fact-check). Not held.
+- VAERS and the HHS figure that it captures about 1% of adverse events. Not held.
+- Manufacturer statements on efficacy (not named). Not held.
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **mRNA vaccines could be reverse-transcribed into human DNA by latent retroviruses.** A 2022 in-vitro study (Aldén et al., *Current Issues in Molecular Biology*) reported reverse transcription of BNT162b2 mRNA in a liver cell line via LINE-1; integration into the genome in people has not been shown. Endogenous retroviral elements, not active retroviruses, are the usual mechanism discussed.
+2. **The vaccines were shown effective only against symptomatic disease, not transmission.** The phase 3 primary endpoints were symptomatic COVID-19; transmission data came later and showed partial, waning reduction.
+3. **VAERS captures about 1% of adverse events.** From the 2010 Harvard Pilgrim/AHRQ report (Lazarus et al.), which said fewer than 1% of vaccine adverse events were reported; that applied to all events, mostly mild, and VAERS death reports are not confirmed causation.
+4. **3,500 deaths reported to VAERS within three and a half months.** CDC reported about 2,000-3,000 death reports after COVID-19 vaccination by late April 2021; reports, not confirmed vaccine deaths.
+5. **100% efficacy in adolescents.** Pfizer's March 31, 2021 announcement reported 100% efficacy in 12-15-year-olds (18 cases, all in the placebo group).
+6. **Fauci takes 6,000 IU of vitamin D.** He said this in a September 2020 Instagram live with Jennifer Garner; the "comedian" interview Chris describes is a different event and needs identifying.
+7. **Vaccines usually take six to eight years of testing.** Typical development has taken ten or more years; the COVID-19 trials ran phases in parallel rather than skipping them.
+8. **The 99.4-99.9% survival rate under 70.** Infection-fatality estimates by age (e.g. Levin et al., 2020; the CDC's planning scenarios) are broadly in this range for younger adults and fall with age.
 
 ---
 

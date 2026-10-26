@@ -10,7 +10,98 @@
 
 ## Summary
 
-*Notes pending.*
+A solo livestream from the days after the January 2025 inauguration and the Stargate announcement (Larry Ellison's remarks about mRNA and personalised treatment within 48 hours). Sabrina Wallace is featured through recorded clips rather than as a live guest: Chris plays the closing fifteen or so minutes of one of her livestreams (in which she goes through the Rumble channel of "non vaxer 420"), presented as a dramatised animated character with her voice pitched down so viewers will go looking for who she is, and he pauses throughout to explain and add his own commentary.
+
+His frame is a "transition" from centralised to decentralised systems: conventional finance to biometric finance, the server-based internet to an internet of bodies, with his eight-sector chart (history, religion, food and drug, education, entertainment, government and politics, tech). Wallace's argument, as he relays it, is that the inauguration and the politicians are beside the point; the build-out of body area networks (the IEEE 802.15 working group, the medical body area network, molecular communication, intrabody terahertz nano-networks, metamaterials and self-assembling nanotubes) runs on regardless of party, and calling it "aliens" hides that "these are jobs." Chris adds the 6G and frequency spectrum, the Schumann resonance, "high vibe" and "low vibe" states and the vibrational chart of fabrics, mitigation by health and by setting one's intention ("you are not allowed in my body"), chattel paper and legal versus equitable title over the body, the Mao-era turning of children against parents, a BioBuilder synthetic-biology promotional video and CRISPR-Cas9, eugenics, and Project Stargate and remote viewing. The section with the most direct bearing on Christian teaching is his comment that many Christians have been promised a rapture before things get bad and so do not look into what is happening, and that nowhere does the Bible say things get bad in America first; Wallace's clip quotes Hosea on people perishing for lack of knowledge, and her sign-off cites Mark 5:36. Chris closes by saying the aim is not fear, then plays a Coldplay cover.
+
+## Key Points
+
+- [00:00] First topic: computer-chip injections announced within days of the new presidency; he chooses to come at it with humour.
+- [01:33] He waited and watched after the inauguration; the biofield is "the crux" of what is being sped up.
+- [03:08] Larry Ellison's mRNA remarks; Chris's view that the real mechanism is wireless remote neural monitoring within network-centric warfare.
+- [04:41] Introduces Sabrina Wallace and the "levels" of being awake, up to people with clearances and family in the military.
+- [07:45] Her point: people are focused on the inauguration, but this is "a familial generational Endeavor" begun before Trump was born.
+- [09:19] The eight-sector chart; the transition from centralised to decentralised, conventional to biometric finance, internet to internet of bodies.
+- [12:27] Zuckerberg's apology; Thiel, the Department of Government Efficiency; "make America healthy again" heard as e-health.
+- [15:34] He notes the oath taken without a hand on the Bible and sets it aside; the $500 billion figure; problem-reaction-solution.
+- [17:08] Wallace clip: the blockchain, augmentation for life extension, 802.15.6; she criticises Karen Kingston and Pavlo for telling people it was the mark of the beast or there was no nano.
+- [18:42] The body has to be malnourished and in fight-or-flight for synthetic uptake; "mRNA" as the term the technology is shoehorned through.
+- [20:14] Carbon credits; data centres; digital twins; DNA from 23andMe, hospitals and labs.
+- [21:49] Project Stargate's name and remote viewing; 802.15 working-group categories; Stranger Things.
+- [23:24] Wallace: "there is no politician it wouldn't have mattered"; Department of Energy AI; "where we go one we go all."
+- [24:57] Electronic medical records; the kill box and digital-twin databases during lockdown.
+- [26:31] Wallace on Mike Adams as a gatekeeper; the medical body area network; BioNTech; 5G discussion censored in 2021-22.
+- [28:06] The Fauci pardon; Ellison, Musk and Altman on stage; "drill baby drill" and Stargate in one press conference.
+- [29:37] TikTok's 12-hour shutdown read as staged; his 2022 videos say the same as today.
+- [31:14] Wallace clip: people led into the grave; "my people perish for lack of knowledge," attributed to Hosea; Chris extends it to pulpits, journals and podcasts.
+- [32:47] High-pitched noises and the feeling something is off; the biofield as a body part that some perceive more strongly.
+- [35:52] NATO, NASA, CERN, nanomedicine white papers on non vaxer 420's channel; the MK Ultra past to the present; chemical-biological merged with cyber and AI and "changing our ability for non-consent."
+- [37:25] Molecular communication; intrabody terahertz nano-networks; relay to watches and phones; a cyber-physical backbone.
+- [38:59] Network-centric warfare in Defense doctrine.
+- [40:34] "these are jobs you're telling people it's aliens": operators logging into patients wirelessly.
+- [42:08] TENS and MIMO; Chris on defining "alien"; extradimensional biological entities; most anomalies are government.
+- [46:51] The mothership off the coast of New Jersey as scapegoating.
+- [48:27] Voting "rigged since 1871"; Professor Akyildiz at the IEEE 6G summit; nanotubes self-assembling at Rice University since 2016.
+- [50:02] The spectrum from hertz to terahertz; why the high bands suit mesh networks.
+- [51:35] Chris: the Schumann resonance is decoupled locally to allow magnetic adjustment.
+- [54:43] Metamaterials as nano-Lego blocks; Mars as a software platform; Kurzweil and Musk on uploading.
+- [57:48] What to do: biofield practice, health, being a less available node, intention ("you are not allowed in my body"), gratitude.
+- [59:24] High and low vibration; a fabric frequency chart (linen, cotton, wool high; synthetics low); his view that a robotics showcase was CG.
+- [1:00:57] Wallace clip: brain monitoring and manipulation; governments own you like chattel; augmenting humans with RNA and DNA shots.
+- [1:02:29] Chattel paper; estate defined as lifetime labour value; legal title.
+- [1:04:04] Equitable title over the body as the next frontier; gene therapies and patent holders.
+- [1:07:13] Optogenetics, visible light communication, screen flicker rates; "your body is the network."
+- [1:10:22] Wallace: "get on your knees stare at the wall pray to Jesus we're busy going to work"; Chris has space in his heart for Christians but says history and context were withheld.
+- [1:11:57] Chris: many Christians are promised a pre-, mid- or post-tribulation rapture before things get bad; nowhere does the Bible say things get bad in America first; prophecies were given to Middle Eastern nations; American ethnocentrism.
+- [1:13:30] Wallace: biblical people have no problem with her; "God made the body perfectly"; "I don't want people to be afraid."
+- [1:16:38] Why he goes live late; Wallace on documentation versus "I'm a prophet" content.
+- [1:18:12] MEMS sensors; Wallace's criticism of the "j6 crew" and Vandersteel; everyone saying "smart city" at once after Lahaina.
+- [1:19:45] Vaccine exposés now permitted; the medical body area network; Ellison on tracking every cell.
+- [1:22:52] Wallace introduces a cartoon telling students to upload to the cloud; Agenda 2030.
+- [1:24:26] Multi-vector attack systems (light, biofield, RF, microwave, topicals, wearables, food and drugs).
+- [1:26:00] Life extension; Black Mirror's "San Junipero"; Chris links people wanting to die and death escaping them to prophecy.
+- [1:29:07] Operation Warp Speed and Star Trek; "they don't be doing stuff by accident."
+- [1:30:43] Mao Zedong's model for turning children against parents; Tim Pool.
+- [1:33:51] The BioBuilder synthetic-biology video played and commented on; CRISPR-Cas9 explained.
+- [1:40:07] Wallace's sign-off, "Mark 5:36 amen"; nano.gov; uninformed consent is still consent.
+- [1:41:41] Aristotle, Socrates and Plato on a perfect race, through to eugenics; non vaxer 420's channel; Allison McDowell and Jesse the Thinker.
+- [1:44:46] Project Stargate and psychic research; Wallace's claim that Stargate concluded the day the internet of bodies went live in 1995.
+- [1:46:20] Remote viewing explained via Stranger Things and The Men Who Stare at Goats.
+- [1:49:27] Orbs and ships as government metamaterials; he has not yet heard the Telepathy Tapes.
+- [1:51:18] Closing music, a Coldplay song.
+
+## Sources Cited
+
+- Hosea 4:6, quoted in Wallace's clip [31:14]. **Held** (KJV): "My people are destroyed for lack of knowledge."
+- Mark 5:36, Wallace's sign-off [1:40:07]. **Held** (KJV): "Be not afraid, only believe."
+- Revelation 9:6, alluded to without citation [1:27:32] (people wanting to die and death escaping them). **Held** (KJV): "and shall desire to die, and death shall flee from them."
+- Sabrina Wallace, livestream excerpt (her Odysee channel; episode not named). Not held.
+- Rumble channel "non vaxer 420" and the white papers it reads (IEEE 802.15, NATO, NASA, CERN, nano.gov, the Department of Defense on network-centric warfare). Not held.
+- Professor Akyildiz, IEEE 6G Summit. Not held.
+- BioBuilder promotional video. Not held.
+- Larry Ellison's Stargate press-conference remarks. Not held.
+- Black Mirror, "San Junipero"; Stranger Things; The Men Who Stare at Goats. Not held.
+- Allison McDowell; Jesse the Thinker; the Telepathy Tapes (mentioned, not yet heard). Not held.
+
+## Where This Overlaps the Repo
+
+- `questions/rapture-end-times.md` and `christianity/2026-03-08-darby-dispensationalism-deep-dive.md` → `### The Pre-Tribulation Rapture` and `### Escapist Soteriology vs. Kingdom-Now Participation`: Chris's comment at [1:11:57] that the expectation of being taken out before things get bad keeps Christians from engaging with what is happening.
+
+## Claims to Check
+
+1. **The internet of bodies is wirelessly accessing people's biofields under IEEE 802.15.6.** 802.15.6 is the IEEE standard for wireless body area networks (wearable and implanted medical devices); the claim is that it is used on people without consent.
+2. **Remote viewing is a category within the 802.15 working group.** Not found in the published standard; the claim's source would need to be named.
+3. **Project Stargate ended on the same day the internet of bodies went live in 1995.** The CIA's Stargate remote-viewing programme was terminated in 1995 after an AIR review; the internet-of-bodies date is Wallace's.
+4. **Nanotubes have self-assembled at Rice University since 2016.** Rice has published on carbon-nanotube self-assembly; whether it relates to bodies is the claim.
+5. **Life-extension by moving consciousness to new bodies has gone on since the 1800s.** Wallace's statement; no source given.
+6. **US voting "rigged since 1871."** Refers to the District of Columbia Organic Act of 1871 as read by sovereign-citizen literature.
+7. **"Chattel paper" securitises the human body, and an estate is defined as lifetime labour value.** Under the UCC, chattel paper is a record of a monetary obligation plus a security interest in goods; "estate" in law dictionaries means an interest in property.
+8. **A 2013 law or patent ruling lets gene-therapy patent holders license people whose genome has been modified.** Possibly a reading of *AMP v. Myriad* (2013), which held natural DNA unpatentable; needs the source.
+9. **Fabrics have measurable frequencies (linen and wool in the thousands, synthetics low).** Traces to a 2003 claim attributed to Heidi Yellen; no published measurement method.
+10. **The Schumann resonance is decoupled locally to allow magnetic adjustments.** Chris's answer to a viewer question; no source given.
+11. **Operation Warp Speed is a Star Trek reference.** "Warp speed" does originate in Star Trek; the naming intent is the claim.
+12. **The Bible nowhere says things get bad in America before the rest of the world.** Chris's reading against rapture expectations; compare the repo's rapture card on Matthew 24.
+13. **Remote-viewing soldiers tried to stop goats' hearts at Fort Bragg.** Jon Ronson's *The Men Who Stare at Goats* (2004) reports the claim from soldiers' accounts.
 
 ---
 

@@ -10,7 +10,35 @@
 
 ## Summary
 
-*Notes pending.*
+A four-minute answer to a viewer's question: didn't God ask Abraham to sacrifice Isaac (Genesis 22)? He answers with three texts and no reading of Genesis 22 itself. Matthew 9:13 ("I desire mercy, not sacrifice") is read as a flat negative; Deuteronomy 12:31 says God hates the burning of sons and daughters; and the "Sermons of Peter" (the Clementine Homilies) say falsehoods were added to the written law (2.38) and that God, displeased from the first with the slaughter of animals, never ordained sacrifices nor required them from the beginning (3.45). His conclusion: God did not ordain the sacrifice of Isaac. A companion to file 345 (Cain and Abel), which uses the same three texts.
+
+## Key Points
+
+- [00:00] Frames the video as one of a series of answers to "what about this sacrifice?"; here, Abraham and Isaac, which he calls a human sacrifice stopped at the last moment and replaced by a ram.
+- [00:44] Matthew 9:13: he says Christians read "not" in "mercy, not sacrifice" as if it meant "and"; "not" means the negative of what follows, so no sacrifices.
+- [01:41] Deuteronomy 12:31: burning sons and daughters to their gods is an abominable act Yahweh hates.
+- [01:41] Homilies 2.38 ("the sermons of Peter, book two, chapter 38") read: the scriptures have had many falsehoods against God joined to them; the wicked one dared to add them. His gloss: Satan added to the Torah things God opposes.
+- [02:34] Homilies 3.45 ("book 3 chapter 45") read: the grave of lust; God, displeased at first with the slaughtering of animals, did not ordain sacrifices nor require them from the beginning. So, he says, God did not ordain the sacrifice of Isaac.
+
+## Sources He Cites
+
+- Matthew 9:13. **Held** (KJV): "I will have mercy, and not sacrifice."
+- Deuteronomy 12:31. **Held** (KJV): "for even their sons and their daughters they have burnt in the fire to their gods."
+- Clementine Homilies 2.38 and 3.45. **Held** (`christianity/Incoming/clementine-homilies-full-text.md`; Homily II, "Chapter XXXVIII — Corruption of the Law"; Homily III, "Chapter XLV — Sacrifices"). His book and chapter numbers match the held text.
+
+## Where This Overlaps the Repo
+
+- `questions/nazarene-sect-sacrifice-and-diet.md` → `### The Homilies passages that weld the two claims together` (Hom. 3.45, called there the keystone of the claim).
+- `questions/method-and-criteria.md` → `### 5. Ancient precedent: the Clementine "false pericopes" doctrine` (Homilies 2.38).
+- `questions/CITATION-NOTES.md` → `### 1. "Many falsehoods have been added to scripture" — was cited as Recognitions 1.69` (he cites it as Homilies 2.38, the corrected reference).
+- `questions/blood-atonement-and-salvation.md` (James 2:21 and Genesis 22 in the faith-and-works answer).
+- `christianity/prophetic-tradition-against-sacrifice.md` → `## Jesus in the Prophetic Tradition`.
+
+## Claims to Check
+
+1. **"Not" in Matthew 9:13 / Hosea 6:6 is a flat negative.** `questions/CITATION-NOTES.md` records that Hosea 6:6b's parallel uses the comparative ("more than burnt offerings"), so the "not a comparison" form of this argument was withdrawn from the cards.
+2. **Homilies wording.** The held Smith text matches his reading closely: "He then who at the first was displeased with the slaughtering of animals, not wishing them to be slain, did not ordain sacrifices as desiring them; nor from the beginning did He require them." Held text has "grave of lusts" (plural).
+3. **Genesis 22 not addressed directly.** Genesis 22:2 (KJV) has God command the offering and 22:13 the ram "in the stead of his son"; James 2:21 and Hebrews 11:17 (KJV) both treat the offering as Abraham's act of obedience. The video's answer rests on Homilies 2.38 placing such passages among the added falsehoods; which passages count as added is the Homilies' criterion (3.42-50), applied here by him to Genesis 22.
 
 ---
 

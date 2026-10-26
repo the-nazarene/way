@@ -10,7 +10,87 @@
 
 ## Summary
 
-*Notes pending.*
+A four-hour livestream recorded the night after the 27 June 2024 CNN presidential debate between Joe Biden and Donald Trump, of which Chris says he saw only the last 30 minutes. Chris (who names himself in passing as Chris Crutchfield) alternates spoken argument with a song he builds live on a looper (its hook: this telenovela is getting ridiculous). The first half hour is personal background: a Christian upbringing in a Black family in the South that usually voted Republican without being partisan; voting in 2004 and for Obama in 2008 (attending the inauguration); a decade in Los Angeles as a commercial editor and director (a Google commercial, a Super Bowl ad team); a career crash around age 30; and conversations with people one or two steps removed from both candidates. His conclusion from that work is that politics, like professional wrestling, is "just a job" played for an audience.
+
+His main argument: the debate was staged for the rest of the world more than for Americans ("the world is watching us"). The candidates are less incompetent than they appear, and Biden in particular is "Hamming up the stupid on purpose." The point is to make American leadership look broken, so that when the dollar system and the United States' standing are dismantled, a new global financial and data order will look justified. Around that he sets out a framework he says he has held for over a decade: "your vote has not mattered since 1871"; the United States functions as a company and "a British operation," with the Federal Reserve answering to the Bank of England and the City of London; the income tax and Social Security are a voluntary insurance arrangement; five media companies own nearly all coverage; all national militaries cooperate at the top; wars are financed by banks. He also repeats circulating rumors about Barack and Michelle Obama and Joan Rivers (saying he does not know whether they are true), talks about clones (Westworld as allegory, a report that Jimmy Carter was the first duplicate), and says the people behind it are dealing with the "spirit realm" trying to play God. His practical counsel: give the spectacle no attention; build independence through gardening, land and resources outside the system; and consider a mass refusal to vote for either candidate. He closes with an improvised "God Bless America" and says he still has hope for Americans.
+
+## Key Points
+
+- [00:02] Opening on a new cello: the debate as two grandfathers arguing over their golf handicaps.
+- [04:45] Framing: the first layer (the president is unfit) should be obvious; tonight is the second layer. He gives his backstory because the media industry stands between information and the public ([06:17]).
+- [06:17] Upbringing: a Christian home; conservatism and Christianity treated as identical in America; [07:51] Black Republicans in the South; born 1984; first vote 2004.
+- [09:27] 2008: voted for Obama and attended the 2009 inauguration on the National Mall; [11:01] then a decade in Los Angeles among liberal colleagues without becoming liberal.
+- [14:07] He stopped voting after 2008.
+- [15:45] Career: his first big Los Angeles job, a Google commercial; [17:18] a Super Bowl commercial team; a crash around age 30 (a breakup, a health issue, a medication mix-up, failed investments); [20:25] 2015 as "the big Awakening."
+- [18:53] A makeup artist from The Apprentice told him about Donald Trump firsthand during a 2015-16 shoot.
+- [25:04] 2017: promotional work for a former presidential candidate he will not name; [26:38] his lesson: "it's just a job," like Dwayne Johnson becoming the Rock.
+- [34:31] Theme of the night: "the world is watching us more than we are watching our own selves"; a friend called and he watched the last 30 minutes.
+- [37:37] Neither candidate is as stupid as he seems; Biden is "Hamming up the stupid on purpose"; a producer controls what is shown; [39:09] a first mention of clones.
+- [40:43] Auditions in Los Angeles alongside many other tall Black actors; CNN is an entertainment company; [42:19] he looks up CNN's owner (Warner) and names five media families, whose task is to be "the face of the justification of the destabilization of America."
+- [43:51] The COVID-19 response as too incompetent to be accidental.
+- [46:57] The United States as a British colony on commercial paper, "a British operation in function"; the District of Columbia and "Columbia" as a name for the Crown.
+- [50:04] Production NDAs to hide an actress's positive COVID test, contrasted with public announcements of presidents' COVID cases.
+- [54:47] The golf-handicap exchange (he attributes the "six" to Biden).
+- [59:40] "your vote has not mattered since 1871," when, he says, the country was purchased by another country; [1:04:26] 153 years at the time of recording.
+- [1:09:07] The "voluntary nature" of the income tax's origin; politicians do not release tax records because they hold assets in non-taxable trust structures.
+- [1:10:40] Campaign fundraising ads (Obama for Biden) as "a whole entire money grab."
+- [1:12:13] The "Manchurian candidate" line: a former head of state saying it of the current one on national television; [1:13:46] the election as an SNL sketch in its 153rd season.
+- [1:15:21] Financial interests shifting from America to China ("made in China" on the scissors at hand).
+- [1:21:39] Speaking as a Black man: neither candidate has helped Black people; race is a construct; everyone needs help from God.
+- [1:23:14] The border crisis as manufactured; the southern border too long to fence (he has driven it).
+- [1:26:19] Americans have opted into "a voluntary taxation system," an insurance program presented as a civic duty; [1:27:53] "America might as well be a company": a president answers to a board, as at Walmart or Coca-Cola, with BlackRock and Vanguard as the big shareholders.
+- [1:30:59] The Federal Reserve is a private company, owned, he says, through the Bank of England; [1:32:32] Washington DC and the City of London as separate sovereign states, drawn on paper.
+- [1:37:09] The buffoonery is meant to show the world that American leadership has gone, to justify a one-world system.
+- [1:40:16] Presidents' handlers; [1:41:50] a hot-mic moment he says he saw (a climate-change joke); [1:43:22] broadcast time delays mean on-air stumbles are released by choice; [1:46:30] "if they don't want you to see it you won't see it."
+- [2:07:06] "the adults have left the building"; [2:08:40] America communistic in practice over the last four years.
+- [2:13:21] How it actually works: the nations of the UN Charter cooperate at the military and dynastic-family level; [2:14:55] banks fund every side; [2:16:27] Native American dispossession; wars start because someone wants what is not theirs.
+- [2:17:59] The opening monologue of HBO's The Newsroom (Aaron Sorkin, Jeff Daniels) on whether America is the greatest nation.
+- [2:19:37] Banks and the five media networks favour Chinese manufacturing and a shift of responsibility onto AI and computing systems.
+- [2:37:00] Proposal: if on election day people refused both candidates and stopped buying until they got better representation, [2:38:33] "that actually would work"; the Electoral College; "political theater at its finest."
+- [2:40:08] A long segment on circulating rumors about the Obamas' private lives and a 2014 Joan Rivers remark; [2:46:22] he mentions his wife, Jennifer; [2:58:04] "I'm not actually saying that I know for a fact," only that it would not surprise him.
+- [3:04:26] Everyone at the top of an industry is skilled; the president is the face of an enterprise being deconstructed behind his back; [3:06:00] a remark he recalls Trump making about an unannounced military drill; all militaries working together; the Antarctic Treaty.
+- [3:06:00] What to do: give it no attention; gardening, land outside the city, resources outside the systems, so that nothing in Washington changes your family's life.
+- [3:07:33] Social Security withholding as an insurance policy that will not cover retirement after inflation.
+- [3:12:12] Sarah Palin and John McCain as an earlier version of an old candidate with a younger running mate; [3:13:45] a viewer's point that Congress could have impeached Trump after January 6.
+- [3:23:21] Clones: he thinks they are used, not as machines; the people involved are dealing with the "spirit realm" trying to play God; [3:24:57] elites raised to believe they are better than others.
+- [3:36:02] Westworld as an allegory for clones who do not know they are clones; [3:39:07] he has read that Jimmy Carter was the first duplicate, and says he does not know if it is true.
+- [3:42:22] The frogs of Revelation 16, in passing.
+- [3:48:43] The states as independent nations; taxation without representation returning 95 years after 1776; [3:50:15] the Key & Peele "front hand, back hand" sketch as a picture of two-party voting.
+- [3:58:05] Close: "America as a socialized Global experiment seems to be toast," but he has hope for Americans.
+
+## Sources Cited
+
+- Revelation 16 (the unclean spirits like frogs, 16:13), in passing. **Held** (KJV).
+- The 27 June 2024 CNN debate (last 30 minutes, via CNN's website). Not held.
+- Wikipedia on CNN's ownership, looked up on air. Not held.
+- The Newsroom (HBO, Aaron Sorkin), opening-scene monologue. Not held.
+- Westworld (HBO). Not held.
+- Key & Peele, "front hand, back hand" sketch. Not held.
+- An earlier series of his own on voting since 1871, mentioned at [59:40]. Not in the repo.
+- Personal conversations with people who worked with the candidates (unnamed). Not held.
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files. The one scriptural reference, Revelation 16's frogs, comes in passing; the repo reads Revelation's symbols in `christianity/2026-03-23-revelation-deep-dive.md` → `## What Do the Symbols in Revelation Actually Mean?`.
+
+## Claims to Check
+
+1. **"Your vote has not mattered since 1871."** The District of Columbia Organic Act of 1871 merged DC's local governments into a single territorial government (repealed in 1874); it did not transfer the United States to another country. No source is given here.
+2. **The Federal Reserve is privately owned through the Bank of England.** Member banks hold non-voting stock in the twelve regional Reserve Banks; the Board of Governors is a federal agency. No ownership by the Bank of England is on record.
+3. **"Columbia" is a name for the Crown.** Columbia is an 18th-century poetic personification of the American colonies and the United States, from Columbus.
+4. **The City of London is a 10-square-mile sovereign state, and so is Washington DC.** The City of London covers about 1.12 square miles and is a local authority within England with unusual historic privileges; DC was laid out as a 10-mile square and is a federal district.
+5. **The income tax is voluntary.** The 16th Amendment (1913) authorizes it; US courts have consistently rejected the voluntary argument.
+6. **Politicians release no tax records because they pay no tax.** Several presidents and candidates have released returns (Obama and Biden among them); Trump's were released by a House committee in 2022.
+7. **Five companies own all American media.** Ownership is concentrated (Comcast, Disney, Warner Bros. Discovery, Paramount, Fox and others); the count depends on the definition. CNN is owned by Warner Bros. Discovery.
+8. **The golf-handicap exchange.** In the debate Biden said he had got his handicap down to a 6 as vice president; check the transcript for the exact words on both sides.
+9. **"Manchurian candidate."** He says Trump called Biden this on air; check the debate transcript.
+10. **Biden is acting impaired on purpose.** His reading, from his media experience; no source.
+11. **The hot-mic climate-change joke and Trump's unannounced-military-drill remark.** Recalled from memory, undated; not verified.
+12. **The Joan Rivers sequence.** Her remark to a reporter was filmed in early July 2014; she died on 4 September 2014, after complications during a throat procedure on 28 August. He says she died 48 hours later.
+13. **The rumors about the Obamas.** He says he does not know whether they are true; no documentary source is cited.
+14. **Jimmy Carter was the first presidential duplicate.** Something he says he read online; he says he does not know if it is true.
+15. **All national militaries cooperate at the top.** His view, linked to the Antarctic Treaty; no source.
+16. **The southern border is too long to fence.** The US-Mexico border is about 1,950 miles, about 1,250 of them in Texas; roughly 700 miles have barriers of some kind.
 
 ---
 

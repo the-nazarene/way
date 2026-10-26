@@ -10,7 +10,51 @@
 
 ## Summary
 
-*Notes pending.*
+A short scripted essay rather than a study: no texts are read until the closing saying. His case is that the Nazarenes are "the X that marks the spot" on the map to the historical Jesus: the sign of where to dig, not the treasure. He says there is no record of a village called Nazareth in Roman records of the period and that the references are to a sect, the Nazarenes; mentions Kameron Waters' film *Christspiracy* and says the Nazarene material was cut from it at Netflix's insistence. The Jesus he sees in the records is the son of Mary and Joseph, a man who was also a pre-existent spiritual being, and who reached union with God "not by nature, but by effort", teaching that anyone could do the same. Within decades the message turned from "do as he did" to "he did it all for you", from personal transformation to institutional salvation. Nineteenth-century German historical criticism is credited with opening the dam (the gospels largely later constructions; the Torah mixed with pagan practice by priests and scribes; God never desired sacrifice). The second half is practical: ask who benefits from a belief; read what is absent from the record; seek out the non-canonical gospels; question everything, including him. It closes on the two paths (Matthew 7:13) and the saying "he who seeks shall not cease until he finds ... and having reigned, he shall rest."
+
+## Key Points
+
+- [00:01] The question is not who Jesus was but how his identity was hidden; clues survive in letters, books and book margins; he expects more manuscripts to come out of the ground.
+- [00:55] No record of "a city or village called Nazareth" in Roman censuses of Judea between 1 BC and 35 AD, nor on maps, trade routes or tax lists.
+- [01:45] The references are to a group: "Not of Nazareth, but Nazarines", a sect within Judea. Kameron Waters' *Christspiracy*: he says the film had to be bought back from Netflix and released independently because Netflix would not allow the Nazarene sect to be mentioned.
+- [02:39] The Nazarenes as "the proverbial X that marks the spot"; the conflict is between truth and fiction more than good and evil.
+- [04:24] Jesus as son of Mary and Joseph, fully human and also a spiritual being who existed before his birth; he reached union with God "through practice, study, and inner transformation, not by nature, but by effort", and taught that anyone can do it.
+- [05:31] The original message: do as Jesus did. A few decades later, "Jesus was no longer an example. He was an exception." Resisters were called heretics, excommunicated, killed.
+- [07:43] Nineteenth-century German historical-critical scholarship: gospels largely later theological constructions; most of the Torah pagan practice mixed in by priests and scribes; God never desired sacrifice; his will was love of God through obedience and love of neighbour through charity, justice and righteousness.
+- [08:39] The church now ignores or labels the research (liberal theology, revisionism).
+- [12:55] The pattern: movements begin with liberation, then institutionalisation turns "you can" into "you need us".
+- [13:42] First practical step: ask "who benefits if I believe this?" Truth "doesn't need an intermediary."
+- [14:45] Read what is absent; seek the gospels that did not make the Bible and the voices that were silenced.
+- [16:33] Jesus was killed by the community that rejected him because he would not compromise.
+- [17:20] "Question everything, including me"; Jesus spoke in parables so people would think for themselves.
+- [18:58] The Nazarenes lived in poverty, isolation and danger, but free.
+- [20:39] The two paths: the wide path to destruction, the narrow path to "well done, good and faithful servant"; then the seeking saying, which he attributes to Yeshua without naming a source.
+
+## Sources He Cites
+
+- Matthew 7:13; 25:21 (paraphrased). **Held** (KJV).
+- The seeking saying ("He who seeks shall not cease until he finds. In finding, he shall be astonished ... he shall reign, and having reigned, he shall rest"). Unnamed in the video. This longer form, ending in rest, is the Gospel of the Hebrews as quoted by Clement of Alexandria (Stromata 2.9.45, 5.14.96) and the Greek of Thomas 2 (P.Oxy. 654). **Thomas held** (Lambdin, Coptic): "Let him who seeks continue seeking until he finds. When he finds, he will become troubled. When he becomes troubled, he will be astonished, and he will rule over the All." Clement **not held**.
+- Roman census and map records for Nazareth. Not named.
+- Kameron Waters, *Christspiracy* (film).
+- Nineteenth-century German historical criticism, unnamed.
+
+## Where This Overlaps the Repo
+
+- `christianity/the-nazarenes.md` → `## The name` and `### Jesus called "the Nazarene" or "the Nazoraean"` (Epiphanius on the name, including his statement that Christians were called Nazoraeans "on account of the town of Nazareth").
+- `christianity/nazarene-sect-predated-jesus.md` (Epiphanius's several origin accounts for the name).
+- `questions/MINING-2026-10-debates.md`, row "The Nazareth-spelling attack" (a debate answer on whether Nazareth existed).
+- `questions/two-ways-kingdom-within.md` → `### 5. The Two Ways predates Christianity — Jesus inherited it` and `### 3. The kingdom is here, inside and outside, unseen`.
+- `questions/the-gospel-of-thomas.md` (Thomas 2).
+- `christianity/hebrew-gospel-of-matthew.md` (the Gospel of the Hebrews, where Clement's form of the saying belongs).
+
+## Claims to Check
+
+1. **No record of Nazareth, 1 BC to 35 AD.** No source named. The repo's debate notes (`questions/MINING-2026-10-debates.md`) record the opposite position (that Nazareth existed); archaeological claims about first-century Nazareth would need a named source either way. Epiphanius (held, `christianity/the-nazarenes.md`) himself derives the name from the town.
+2. **Netflix and *Christspiracy*.** His account of why the film was released independently; no source given.
+3. **Union "by effort, not by nature".** His summary of the Nazarene/Ebionite view; compare Panarion 30 on the Ebionites (held) and his own Ebionite 202 (file 189).
+4. **Jesus as son of Joseph but pre-existent spiritual being.** Stated as the Nazarenes' view; Epiphanius distinguishes groups on this (see file 067).
+5. **The seeking saying.** His wording matches the Clement/Hebrews and Greek Thomas form ("reign ... rest"), not the held Coptic Thomas 2 (Lambdin, "rule over the All," no rest clause).
+6. **German criticism concluded the Torah was mixed with pagan practice by priests and that God never desired sacrifice.** A summary of a broad field; the documentary hypothesis is set out in `christianity/prophetic-tradition-against-sacrifice.md` → `### The Documentary Hypothesis`.
 
 ---
 

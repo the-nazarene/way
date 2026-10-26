@@ -10,7 +10,82 @@
 
 ## Summary
 
-*Notes pending.*
+A livestream recorded during the January 2025 Los Angeles fires. Chris opens with about fifteen minutes of improvised piano and sung "maybe just maybe" loops meant to slow the doom-scrolling, a moment of gratitude, and prayer for people deciding whether to evacuate (he lived in Burbank and Sherman Oaks from 2010 to 2020). He is then joined by his friend Joe, introduced as "the Street MD" (a psychiatrist from rural Pennsylvania, calling in from a pickleball tournament in Palm Springs), who plays the questioner. Joe asks how sure Chris is that the fires were man-made; Chris answers "101" and gives his reasons (Santa Ana timing and direction, gusts near 100 mph, three fires igniting together far apart, insurance cancellations, celebrity sales beforehand). Joe describes sensing that "the frequency" was off from early January and two of his patients saying the same in the same week; Chris ties that to his earlier biofield and internet-of-bodies episodes and to frequency-based views of illness.
+
+The rest of the conversation ranges over Chris's view of how the world works: the "totalitarian tiptoe" (David Icke's phrase) now become a sprint; exposés of an old system as a way for a new one to gain favour (RFK Jr., Zuckerberg ending fact-checks); a Danny Jones podcast with Jack Kruse and Calley Means; medical policy as a military strategy (a video Sabrina Wallace reposted); the gold fringe on the US flag and admiralty jurisdiction; disasters (Lahaina, western North Carolina, Pacific Palisades) as land acquisition ahead of a Basel III shift to asset-backed currency; FEMA as a management company; insurance, the birth-certificate trust and money versus currency; Max Spiers on spiritual forces aimed at the heart of mankind. Joe recounts resigning from a psychiatric hospital after being told it was a corporation answering to shareholders. On what to do, Chris points to personal change rather than national overhaul, citing Jesus as someone who spoke to his disciples and ordinary people rather than petitioning the Sanhedrin, and closes by encouraging prayer, even from people who do not usually pray, as part of an active spiritual war.
+
+## Key Points
+
+- [00:00] Improvised piano and vocals: less doom-scrolling, more gratitude; a pause for people facing evacuation.
+- [07:55] Chris lived in Los Angeles for about a decade (Burbank, Sherman Oaks).
+- [12:37] The concentrated tragedy creates an "electrical heaviness," linked to his previous biofield discussions.
+- [15:44] Joe joins from Palm Springs and asks, on a scale to 100, how sure Chris is the fires were man-manipulated; Chris says 101, after first expressing sympathy for those affected.
+- [18:51] His reasons: the Santa Ana winds usually blow another way and come earlier in the year; 100 mph gusts compared to a category 2 hurricane; the line between negligence and incompetence used to explain disasters.
+- [20:25] He doubted early that the July 2024 shooting looked real; a time-lapse posted by Dr. Ben Tapper showing the Palisades, Eaton and Pasadena-area fires starting together; the distance between them.
+- [23:34] Joe lists reports (roads closed, some homes spared, funding priorities) and a Joe Rogan clip about a firefighter predicting a wind-driven LA fire.
+- [25:09] Insurers dropping coverage beforehand; reports of celebrities selling homes. Joe says he wants more facts before concluding weather modification.
+- [26:43] Joe: from January 1 he sensed the frequency was off; two patients in the same week said "the frequency is off."
+- [28:15] Chris: we are electric beings, the premise of his biofield lives; why he began speaking on it (the blindfolded-fighter analogy, Sabrina Wallace's work being hard for people to follow).
+- [31:21] The new system gains favour by exposing the old one; celebrating RFK Jr. as a stall.
+- [37:35] The Danny Jones podcast with Jack Kruse and Calley Means; Chris disagrees with Kruse's "useful idiot" conclusion.
+- [42:16] Elon Musk's predictions about brain chips and humanoid robots.
+- [43:48] Joe on a December 30 live with Lori Ladd predicting a big 2025; Chris recalls a Tom Cowan talk linking new radio technologies to pandemics; the bird flu.
+- [46:59] Chemtrails and contrails; Chris on dismissing specialists in a field one has not studied.
+- [48:34] "God's in control of the ultimate picture"; a video tracing medical policy from the 1960s as a military strategy, compartmentalised through the services.
+- [51:43] Hurricanes in Tampa Bay and North Carolina; what can be done.
+- [53:17] Change happens interpersonally: Jesus, Buddha and Gandhi taught personal responsibility; Jesus spoke to his disciples rather than petitioning the Sanhedrin, Pharisees and scribes. Alec's prayer effort for LA.
+- [54:51] The period from about 2020 to 2030 as a war; a "silent coup"; Ian Carroll's exchange with Elon Musk on Israel.
+- [56:26] The gold-fringed flag behind a campaigning Trump; the US Flag Code; admiralty jurisdiction.
+- [58:00] Trimorphic notes; the fasces in the House chamber; dual-citizenship claims; the US as a vassal state.
+- [59:33] Chris's message to Trump supporters: read the flag code yourselves.
+- [1:01:06] Walking back censorship as the new exposé; a project mentioned in the chat.
+- [1:02:39] Joe on Palm Springs as an automated "smart city."
+- [1:04:13] Disasters as land acquisition (Lahaina, Palisades, North Carolina and Tennessee); the Basel II to Basel III change, said to require in-ground assets.
+- [1:07:22] Billionaires needing in-ground assets before a currency revaluation; NESARA/GESARA; Christine Lagarde at the IMF.
+- [1:08:56] FEMA in North Carolina: renting chainsaws at high daily rates; FEMA as a management company.
+- [1:12:02] Joe on following David Icke; the currency reset and transhumanism. His psychiatric-hospital story: "it's a hospital on paper but it's a corporation."
+- [1:15:10] Tokenised land; celebrity heads-up; Diddy and those above him; shared legal teams.
+- [1:18:16] Drugs and caste in America.
+- [1:19:51] The Halliburton rebuilding model in Iraq and Afghanistan.
+- [1:21:24] Assurance versus insurance; the birth-certificate "Legacy trust."
+- [1:24:31] California's state fire-insurance plan; money (gold, land) versus currency.
+- [1:26:03] "this whole system is just about stealing life force energy."
+- [1:27:36] Max Spiers on spiritual forces attacking the heart of mankind; the Bill Cosby scandal as an example.
+- [1:29:11] Lahaina, North Carolina, the Pennsylvania-area train derailment, 9/11 as blows to collective optimism; climate-change framing.
+- [1:30:44] Joe, who says prayer is not usually his thing, asks for prayer for LA.
+- [1:32:18] A full-court-press analogy; even a five-second prayer contributes.
+- [1:33:54] Closing: talking it through together is better than being aloof, angry or scared.
+
+## Sources Cited
+
+- No scripture is read. Jesus, the Sanhedrin, Pharisees and scribes are mentioned in passing [53:17].
+- David Icke ("totalitarian tiptoe," currency reset). Not held.
+- Dr. Ben Tapper's social-media time-lapse of the fires; a Joe Rogan clip; viewers' reports in chat (insurance cancellations). Not held.
+- *Danny Jones Podcast*, episode with Jack Kruse and Calley Means. Not held.
+- Tom Cowan, seminar on technologies and pandemics. Not held.
+- A video reposted by Sabrina Wallace on medical policy from the 1960s on (speaker not named). Not held.
+- US Flag Code (gold fringe). Not held.
+- Basel II/III, the IMF and Christine Lagarde; NESARA/GESARA. Not held.
+- Ian Carroll's posts; Max Spiers. Not held.
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **The three fires ignited at the same moment.** Based on a time-lapse in a social-media post; official investigations give separate origins and start times for the Palisades and Eaton fires.
+2. **There are no 100 mph wind gusts outside hurricanes and tornadoes.** Santa Ana and downslope wind events have recorded gusts near or above 100 mph in Southern California mountains; the January 2025 event reported gusts in that range.
+3. **Santa Ana winds usually come earlier and blow another way.** The Santa Ana season typically runs from autumn through winter; January events are common.
+4. **Insurers cancelled fire coverage in the area months before.** Several insurers did non-renew policies in high-risk California areas in 2023-24; the scale for Pacific Palisades specifically is a separate question.
+5. **Celebrities sold homes beforehand.** From a viral video; unverified.
+6. **Basel III requires in-ground assets to back currency.** Basel III is a set of bank capital and liquidity standards; how it relates to asset backing of currency is the claim to check.
+7. **The gold fringe on a US flag denotes admiralty jurisdiction or wartime.** The US Flag Code does not address fringe; courts have rejected the admiralty reading.
+8. **About 100 top US officials hold dual Israeli citizenship.** Unsourced figure.
+9. **A trust is created in each person's name at birth registration and funds insurance.** The birth-certificate trust idea; no public record of such accounts.
+10. **FEMA paid hundreds of dollars a day to rent chainsaws in North Carolina.** First-hand report; unverified.
+11. **New radio technologies coincide with pandemics (Tom Cowan).** A historical correlation claim.
+12. **Diddy, Luigi Mangione and Sam Bankman-Fried share a legal team.** Checkable from court records (Marc Agnifilo and Karen Friedman Agnifilo appeared for Combs and Mangione).
 
 ---
 

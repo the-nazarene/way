@@ -10,7 +10,55 @@
 
 ## Summary
 
-*Notes pending.*
+A primer on the documentary hypothesis, which he calls "the documentary fact," aimed at religious listeners he says are afraid of it. Following Richard Elliott Friedman's *Who Wrote the Bible?*, he gives the discovery story (Witter 1711, Astruc 1753, Eichhorn 1780) from doublets and the variation between Elohim and YHWH; the split of E into E and P (ritual, sacrifice, purity, dates and measurements) and the identification of D; and an analogy: four gospels merged into one harmony around 200 CE, forgotten, and later separated again. He then reads the flood story twice, J highlighted in blue (seven pairs of clean animals, forty days, the dove, Noah's altar) and P in yellow (two of each, 150 days, the raven, the dates), to show two complete stories. Clues against Mosaic authorship: Moses' death, "the most humble person," and "to this day." His dating: J (Judah) and E (Israel) in the divided kingdom, combined first; D written under Josiah and presented as found; P last, probably in the exile, possibly as an alternative to JE. J and E have little sacrifice, and the elaborate sacrificial system and the single-temple doctrine come from P (centralization begins with D). A 2011 Israeli computer study is cited as agreeing about 90% with the scholarly priestly/non-priestly split. He closes with the Clementines: Peter teaches, in effect, the same hypothesis, that Moses gave the Torah pure and falsehoods were mixed in later, and he shows a passage he takes as the original interpretation of the parable of the wheat and tares.
+
+## Key Points
+
+- [00:00] Religious people fear the hypothesis, comparing it to evolution; he calls it "the documentary fact," accepted by scholars and provable from scripture.
+- [01:36] Three 18th-century discoverers using doublets and the divine names; the wife-sister doublet (Genesis 12 and 20).
+- [03:11] Doublets split by divine name yield two texts; Genesis 1 (Elohim; plants, animals, then man and woman) against Genesis 2 (YHWH Elohim; man, plants and animals, then woman).
+- [04:45] Witter (1711), rediscovered much later; Astruc (1753, anonymously, at seventy); Eichhorn (1780) named J and E.
+- [06:18] E was found to be two sources; P concerns priests, ritual, sacrifice, incense, purity, dates, numbers; D is a separate style; JEPD has stood for over 200 years with disputes only over individual verses.
+- [07:57] The analogy of a merged four-gospel harmony forgotten for 1,800 years and then separated.
+- [09:33] Nothing to fear; scholars do not get upset. The flood as a combination of J and P.
+- [11:06] J flood read (Genesis 6:5-8, 7:1-5, 7, 10, 12, 16b-20, 22-23, 8:2b-3a, 6-12, 13b, 20-22): seven pairs of clean animals, forty days.
+- [14:12] J ends with Noah's altar and burnt offerings of every clean beast and bird; seedtime and harvest.
+- [15:48] P flood read (Genesis 6:9-22, 7:6, 8-9, 11, 13-16a, 21, 24, 8:1-2a, 3b-5, 7, 13a, 14-19): two of each, gopher wood and measurements.
+- [17:24] P continued: the six hundredth year, the fountains of the deep, 150 days.
+- [18:58] P ends with the raven, the dates and the command to go out; two distinct stories.
+- [20:34] Not Moses: the account of his death; the most humble man; "as it is to this day." J (Judah) and E (Israel) written in the divided kingdom.
+- [22:08] J and E combined first, then P added; D probably the scroll "found" under Josiah, more likely written then.
+- [23:43] P written last, probably in the Babylonian exile, perhaps as an alternative to JE. JE has little sacrifice (some added by the redactor); the elaborate system and pro-Jerusalem-temple doctrine come from P; Judges shows local altars before centralization (D).
+- [25:18] The 2011 Israeli algorithm: about 90% agreement with scholars on priestly vs non-priestly; its main difference was assigning Genesis 1 to the non-priestly side. So the original Torah would be J or E.
+- [26:52] Friedman's book recommended for the political settings. Yeshua knew of it: Peter teaches the same idea in the Recognitions and Homilies. Clement as Peter's scribe, sent by James to record his teachings.
+- [28:27] Recognitions and Homilies as two versions of one story, like Matthew and Luke; Peter: Moses gave the Torah pure, and falsehoods were mixed in over time.
+- [30:03] A passage on screen that he takes as the original interpretation of the parable of the wheat and tares; he thinks the gospel's explanation was added later.
+
+## Sources He Cites
+
+- Richard Elliott Friedman, *Who Wrote the Bible?* (1987). **Not held**.
+- The 2011 computer study (web address on screen; likely Koppel, Akiva, Dershowitz and Dershowitz at Bar-Ilan University). **Not held**.
+- Genesis 1-2, 6-8, 12, 20; Deuteronomy 34:5-6; Numbers 12:3; Judges. **Held** (KJV); he reads a Hebrew-roots translation.
+- Clementine Recognitions and Homilies (the corruption of the law; the wheat and tares passage shown on screen, not cited by number). **Held**.
+- Matthew 13:24-43. **Held** (KJV).
+
+## Where This Overlaps the Repo
+
+- `christianity/prophetic-tradition-against-sacrifice.md` → `### The Documentary Hypothesis`; `christianity/old-testament-through-jesus-lens.md` → `## Who Wrote the Old Testament? The Documentary Hypothesis`.
+- `christianity/moses-scroll-deuteronomy-without-sacrifice.md` → `### The Documentary Hypothesis Connection` and `## The Josiah Connection`.
+- `questions/method-and-criteria.md` → `### 5. Ancient precedent: the Clementine "false pericopes" doctrine` and `### 3. The seams are in the manuscripts, not in our opinions`.
+- `podcast-archive/david-the-nazarene/006-i-came-to-abolish-sacrifices-pt2.md` and `010-i-came-to-abolish-sacrifices-pt1.md` (where he applies the P-as-latest point to the Recognitions' list of corruptions).
+
+## Claims to Check
+
+1. **Peter teaches the documentary hypothesis.** The closest held passage is Homilies 3.47: "The law of God was given by Moses, without writing, to seventy wise men... But after that Moses was taken up, it was written by some one, but not by Moses. For in the law itself it is written, And Moses died... But how could Moses write that Moses died?" Peter argues later writing and loss, and Homilies 2.38 and 3.42-50 argue added falsehoods; neither speaks of multiple source documents.
+2. **Moses' death and "to this day."** KJV Deuteronomy 34:6: "no man knoweth of his sepulchre unto this day"; Numbers 12:3: "very meek, above all the men which were upon the face of the earth." These are the same verses Homilies 3.47 uses.
+3. **P was written last, in the exile.** Friedman, whose book he recommends, dates P earlier (the reign of Hezekiah) and makes the redactor (Ezra) the last stage; the exilic or post-exilic P is Wellhausen's dating, held by many. Which dating applies matters for his point that the sacrificial system is latest.
+4. **JE has little sacrifice.** His own J flood reading ends with Noah's altar and burnt offerings (Genesis 8:20, assigned to J).
+5. **The 2011 algorithm: 90% agreement, and Genesis 1 placed outside P.** Not checked here; the source is not held.
+6. **Witter's work was rediscovered in 1921.** Not checked here; the rediscovery is usually credited to Adolphe Lods.
+7. **"The documentary fact."** The four-source model is still widely used, but many scholars now favour supplementary or fragmentary models, and the existence of E as a separate document is debated.
+8. **The gospel's explanation of the wheat and tares (Matthew 13:36-43) was added later.** His view; the passage he shows is not identified.
 
 ---
 

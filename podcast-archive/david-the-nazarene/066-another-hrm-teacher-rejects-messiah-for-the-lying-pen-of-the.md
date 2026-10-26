@@ -10,7 +10,65 @@
 
 ## Summary
 
-*Notes pending.*
+A response, recorded in his car, to a Messianic Torah teacher who had just released a series of about eight videos announcing that he no longer accepts Yeshua as Messiah, using arguments David identifies with the anti-missionaries. His argument: people warn him that rejecting Paul and biblical infallibility leads to rejecting Yeshua, yet here a man who held to infallibility and to Paul is the one who left. He explains cognitive dissonance (two mutually exclusive pieces of information, e.g. Moses' eternal Torah and Paul's Torah done away with) and says the hidden third factor is the doctrine of infallibility: faced with discrepancies between the Tanakh and the New Testament, the teacher threw one book out instead of sorting truth from falsehood in both. His key texts for doing that sorting: the Clementine Recognitions and Homilies (he has the Syriac version with him), Epiphanius on the Ebionites (a hostile witness who still preserves their doctrines), and Friedman's documentary hypothesis. Topics he runs through: the virgin birth (Isaiah 7:14 as a young woman; the Ebionites did not hold it; James as the elder brother, from the tradition that he died at 96 in 62 CE); the Ebionite Christology of Yeshua as head of the archangels and the angel of YHWH as his pre-incarnate form; James's letter as a refutation of Galatians; sacrifice never commanded (the prophets, Psalms, "did I ever ask you for sacrifices" in the wilderness); competing priesthoods in Kings; Jeremiah 8:8, which he cites as "the lying pen of the scribes"; Peter's two rules for false texts (anything that paints God negatively, anything favouring sacrifice); the Nazarenes as an Essene sect; Rachel Elior on a pre-Pharisaic Enochic Judaism; the Septuagint against the Masoretic text; Isaiah 43:11 read against the saviours YHWH raises in Judges; John 5:39; and the saying "be prudent money-changers."
+
+## Key Points
+
+- [00:07] A Messianic Torah teacher's video series rejecting Yeshua, using anti-missionary arguments. The warning David often hears: reject Paul and infallibility and you will reject Yeshua.
+- [01:44] Yet the teacher who believed in infallibility and in Paul is the one who rejected Yeshua. Anti-missionaries described as the hired guns of Judaism; know your material before engaging them.
+- [03:17] Cognitive dissonance explained: two mutually exclusive claims (the Torah eternal in Moses, done away with in Paul) and the excuses that reconcile them.
+- [04:50] The third factor is infallibility: the teacher could have looked for truth and falsehood in both testaments; instead he discarded one.
+- [06:24] Withheld books: the Recognitions and Homilies (he holds the Syriac version) answer many of his questions. The teacher's doubts began with Isaiah 7:14 read in its Hezekiah context.
+- [07:57] The fault lies with those who taught infallibility; scripture itself mentions the lying pen of the scribes. The Ebionites, first followers of Yeshua, did not accept the virgin birth; James, then Simeon son of Clopas, then a line of family bishops.
+- [09:33] James 96 at his death in 62 CE, so born about 34 BCE and older than Yeshua; hence either both virgin births or neither; Catholics answer with a different mother. He does not base his faith on the virgin birth.
+- [11:10] His allegiance is to Yeshua, not a book. Epiphanius: the Ebionites held Yeshua was not God in the flesh but head of the archangels; Peter in the Nazarene Acts says similarly; the angel of YHWH and the captain of the host as Yeshua's pre-incarnate form; "if you've seen me you've seen the father" as shared works and character.
+- [12:45] Reading the Bible critically shows factions; Paul vs James; in Galatians everyone, Barnabas included, turned against Paul.
+- [14:19] James as a point-by-point answer to Galatians (Abraham; cursing and blessing from one mouth, James 3:10-11 against Galatians 1:8-9). Sacrifice never commanded: the prophets, Proverbs on the sacrifice of fools, David in the Psalms.
+- [15:54] David's own words in Psalms against the narrative of his sacrifices; "forty years in the wilderness" (Amos 5:25); the documentary hypothesis: scholars, he says, almost universally hold the sacrifices were added by the priestly class.
+- [17:26] Priestly factions in Kings: the overthrown priests called priests of Baal may have been a rival YHWH cult; northern and southern, Mosaic and Aaronic priesthoods. Read Friedman, Who Wrote the Bible?
+- [19:01] Read the Clementines (free online) and Epiphanius, a hostile witness who preserves Ebionite doctrine that the Recognitions present in Peter's mouth in a form that makes sense.
+- [20:36] He feels for the teacher; Christians are taught never to listen to opposing views; his own faith is stronger for knowing both sides.
+- [22:12] No magic force field over the Bible; he says several NIV editors lost the ability to speak, which he takes as YHWH's punishment. Jeremiah 8:8. Peter's first rule: anything painting YHWH negatively is false; second: any text saying he ordered or is pleased with sacrifice is false.
+- [23:46] Those two rules matter most. In the first century three factions (Pharisees, Sadducees, Essenes); the Nazarenes were an Essene sect (his earlier videos, 064-065).
+- [25:25] If the Tanakh is a Pharisee/Sadducee document, Yeshua need not agree with all of it. Rachel Elior's lecture: a pre-Pharisaic Enochic Essene Judaism that Yeshua sought to restore; editing of Ezekiel.
+- [26:58] Yeshua's death does not fit the Levitical system because it was not a blood sacrifice; the blood language he takes as added later. The teacher's use of Isaiah 43:11 (only Saviour); Barb Wagner's video on its context.
+- [28:34] YHWH raising up saviours in Judges; the Septuagint as older than the Masoretic text and quoted by Yeshua and the disciples, so wording differences prove nothing.
+- [30:12] The Word of God is the Spirit, not a book; John (he says chapter 6): you search the scriptures. The Bible as a road map. The apostolic saying "be prudent money changers."
+- [31:49] Treating a book as the Almighty is itself idolatry.
+
+## Sources He Cites
+
+- Clementine Recognitions and Homilies (he shows a Syriac version). **Held** (Smith; Peterson, Smith and Donaldson). The two rules: Homilies 2.38-52 and 3.42-50; "be prudent money-changers," Homilies 2.51 and 3.50.
+- Epiphanius, Panarion 30 (Ebionites); the James-at-96 tradition (he attributes it to Hegesippus). **Held** (Wescoe).
+- Isaiah 7:14, 43:11; Jeremiah 7:22, 8:8; Amos 5:25; Ecclesiastes 5:1; Psalm 40:6, 51:16; Judges 3:9, 3:15; Nehemiah 9:27; John 5:39, 14:9; Galatians 1:8-9, 2:13; James 2:21-24, 3:10-11. **Held** (KJV).
+- Richard Elliott Friedman, Who Wrote the Bible? **Not held**.
+- Rachel Elior, lecture at the University of Chicago Divinity School. **Not held**.
+- Barb Wagner's video on Isaiah 43:11. **Not held**.
+- Septuagint and Masoretic text. **Not held** as texts.
+
+## Where This Overlaps the Repo
+
+- `questions/CITATION-NOTES.md` → `### 3. "The Torah was falsified by 'the lying pen of the scribes' to institute sacrifices" — attributed to Clementine Recognitions` (he cites Jeremiah 8:8 as Jeremiah, which is the usage that entry recommends).
+- `questions/method-and-criteria.md` → `### "Jeremiah 8:8 isn't about falsifying Torah. It's about scribes who misuse it."` and `### 5. Ancient precedent: the Clementine "false pericopes" doctrine`; `### "If the text is corrupted, why trust the parts you like?"` (his two rules answer this).
+- `questions/trinity-deity-of-jesus.md` → `### 1. The subordination runs one direction and is never reversed`; his file 067 on the Ebionites on Yeshua's birth and divinity.
+- `questions/essene-nazarene-origins.md` → `### 5. The line of succession runs through Jesus's own family, and it has a forwarding address`.
+- `questions/pauls-legitimacy.md` → `### 4. James's letter answers the same question the other way, and the church knew it`.
+- `questions/blood-atonement-and-salvation.md` → `### 3. Jesus quotes the anti-sacrifice prophets — twice`.
+
+## Claims to Check
+
+1. **Jeremiah 8:8, "the lying pen of the scribes."** That wording is the modern translations' (e.g. ESV); KJV 8:8 reads "the pen of the scribes is in vain." He cites it as Jeremiah, not as a Clementine quotation; see CITATION-NOTES item 3.
+2. **Hegesippus says James was 96.** In the held texts the figure is Epiphanius's: Panarion 78,14,5, "having lived twenty-four years, more or less, after the Saviour's ascension, at ninety-six years of age." The same section of Panarion 78 (78,7-8) is where Epiphanius makes James Joseph's son by an earlier wife, the view David attributes to the Catholics.
+3. **The Ebionites held Yeshua to be head of the archangels.** Held text matches in substance: Panarion 30,16,4, "created like one of the archangels, and yet is lord both of angels and of all [the things] made by the Almighty."
+4. **The Ebionites rejected the virgin birth.** Epiphanius says so of Ebion (30,2,2) and reports divided views among the Ebionites; see his file 067.
+5. **Peter's two rules for false texts.** The Homilies' false-pericopes doctrine (2.38-52, 3.42-50) is held; his two-rule summary is his compression of it.
+6. **"Proverbs" on the sacrifice of fools.** The phrase is KJV Ecclesiastes 5:1, "than to give the sacrifice of fools"; Proverbs 15:8 and 21:27 call the sacrifice of the wicked an abomination.
+7. **"You search the scriptures" is John 6.** It is John 5:39 (KJV: "Search the scriptures; for in them ye think ye have eternal life").
+8. **Scholars almost universally hold the sacrifices were added by the priestly class.** The documentary hypothesis assigns most sacrificial law to P; that P added sacrifice to a sacrifice-free Torah is a further step. See his file 063.
+9. **Several NIV editors lost the ability to speak.** No source given.
+10. **The Septuagint is three hundred or more years older than the Masoretic text, and Yeshua and the disciples always quote it.** The Septuagint's translation began in the 3rd century BCE; the Masoretic text is fixed in the medieval period on older consonantal tradition; New Testament quotations follow the Septuagint often, not always.
+11. **Rachel Elior: a pre-Pharisaic priestly (Enochic) Judaism; editing of Ezekiel.** Her thesis is in *The Three Temples* (2004); not held. The rabbinic debate over withdrawing Ezekiel (b. Shabbat 13b) concerns its contradictions with the Torah.
+12. **Isaiah 43:11 vs the saviours in Judges.** KJV Judges 3:9 and 3:15 use "deliverer"; KJV Nehemiah 9:27 has "thou gavest them saviours."
 
 ---
 

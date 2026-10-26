@@ -10,7 +10,74 @@
 
 ## Summary
 
-*Notes pending.*
+A viewer asked what the doctrines would be if he founded a church. His answer is two: believe Jesus above everyone else, and believe only good of God ("believe Jesus and think the best of God"), with other doctrines hanging from these as the commandments hang from the two great commandments. From the second he derives that God is not bloodthirsty, so cannot want animal sacrifice or the death of his son. Most of the video is a reading of Peter in the Clementines in support of each: Recognitions 2.33 (an apostle may say nothing of his own; one who does is a false apostle), Recognitions 1.15 and Homilies 2.6 (the smoke-filled house; the True Prophet who alone knows all things; believe him in everything once his credentials are established), Homilies 2.43-45 (the list of things scripture says against God that must not be believed, then how God is to be thought of), Homilies 7.4 (not to taste dead flesh), and Homilies 3.50-56 (how Jesus taught Peter to discriminate the scriptures: "the true things of the Scriptures", the things that pass away before heaven and earth do not belong to the law, each saying of Jesus set against a scriptural claim about God). Homilies 16.10 (each moulds his idea of God from the scriptures like wax) and Recognitions 3.20, 3.33-34, 3.37, 3.53 and 8.59-60 close it: seek God's justice and kingdom, teach in order, and seek the True Prophet, who is within every mind. Running through it are his replies to commenters: people "pick and choose" by what pleases them, he picks by what Jesus and Peter teach; he will not answer verse-by-verse objections; Christians deify the Bible and choose it over God (John 5:38-47). He says he stopped eating meat because of what he read in the Clementines.
+
+## Key Points
+
+- [00:00] The two doctrines: believe Jesus above all, and do not refute Jesus with Jesus (keep the commandments vs a cherry-picked verse in John). The bedtime analogy: a six-year-old using one exception to cancel the rule.
+- [02:40] The second doctrine: God is only good; he is not ignorant, weak, or sharing rule with other gods; all negative things written about him should be rejected.
+- [03:26] Matthew 22:37-40: love God first; love of neighbour must not lessen it; the other commandments hang on these two (Sabbath, adultery, theft as examples).
+- [05:10] Derived doctrine: God is not bloodthirsty; he does not demand the innocent slain for the wicked, so he does not demand sacrifice, nor the slaughter of his own son.
+- [06:31] The gospels we have are not the original; the original was the Gospel according to the Hebrews, which the church rewrote into Matthew, Mark, Luke and John.
+- [07:20] Recognitions 2.33, read from Snyder's Nazarene Acts (which he says is on page 180 of The Rock of a Sure Foundation): apostles may speak nothing of their own; "I should be a false apostle." Applied to anyone who permits idol meat, against Revelation 2:14 (the doctrine of Balaam). He calls Simon Magus "a prototype of Paul."
+- [10:42] Recognitions 2.33 continued: the prophet cannot be contrary to himself. John 3:16's "believe" (pisteuō), used of a person, he says should be translated "obey"; refers viewers to his earlier videos on the word.
+- [12:26] Peter constantly quotes and explains Jesus; Paul, he says, never does.
+- [13:38] Recognitions 1.15-16: the world as a house filled with smoke; only the True Prophet, outside it, can open the door.
+- [15:55] People believe whoever argues best; the church has "the best doctrine that money can buy."
+- [16:37] Once the prophet's credentials are examined, believe him in everything (Recognitions 1.16, his reading). If Jesus is the true prophet, believe him in all things; Christians call him Lord and believe Paul.
+- [20:31] Homilies 2.6-8 (the prophet of truth knows all things; it is peculiar to him to declare truth as to the sun to bring the day; truth is what is approved by the prophet, not what is pleasing). He says his own choosing is by what Jesus and Peter teach, not by what pleases him.
+- [25:11] He managed a barbecue restaurant twenty-some years ago and stopped eating meat after reading the Clementines, not because he wanted to go vegetarian.
+- [28:55] Objections from Genesis 22 and Cain and Abel: he will not "resurrect" the priestly writers to explain them; Cain and Abel he assigns to the priestly source. Mark 7:19's "thus he declared all foods clean" he says is not in the Greek and was added by publishers.
+- [30:44] Homilies 2.43-44 read: far be it from us to believe God shares his rule, lies, makes experiments as in ignorance, changes his purpose, hardens hearts, is fond of fat and sacrifices, dwells in a tabernacle, loves war, and so on. He matches each to Bible passages (God repenting that he made man, going down to see, testing Abraham, hardening hearts, blinding; he notes Paul was struck blind).
+- [35:47] Homilies 7.4 ("sermons of Peter, book seven, chapter 4"): things well pleasing to God include abstaining from the table of devils, "not to taste dead flesh, not to touch blood". He sets this beside Acts 10, where Peter refused three times to kill and eat, and answers a commenter who said he was inserting his views into Peter's vision.
+- [39:27] Homilies 2.45: beware of thinking otherwise of God than good and just, long-suffering, merciful; "thinking all things in his favor". He says this is the point of most of the pushback he has had in 14 years of the channel.
+- [42:44] A commenter left a vegan congregation because she "couldn't reject that many scriptures"; he says "Christians deify the Bible". John 5:38-47 read (search the scriptures, yet will not come to me), with "If another Paul comes in his own name" in place of "another" at 5:43.
+- [46:42] Homilies 3.10 read: the scriptures say all manner of things so that those who inquire ungratefully find what they wish; the truth is reserved for the grateful.
+- [48:17] Homilies 3.50-51: "Ye err, not knowing the true things of the Scriptures" (he says Peter is quoting the Gospel according to the Hebrews, and that canonical Matthew 22:29 has dropped "true things"); the things Jesus destroyed did not belong to the law; things that pass away before heaven and earth, such as sacrifices, were not ordinances of God. "Eye for an eye" he traces to Hammurabi.
+- [50:13] Homilies 3.52-56: every plant not planted shall be rooted up; I am the gate of life; Moses' prophet like me; marriage "from the beginning it was not so", which he extends to the diet of Genesis 1:29; let your yea be yea; God is not of the dead; the tempter is the wicked one; your Father knows what you need; God wishes "covenant loyalty and not sacrifice" (his reading).
+- [55:02] Paul's source as a vision, against Matthew 24:23-27; Ananias as Paul's only witness.
+- [57:51] A passage identified in the held text as Recognitions 10.47: some seek victory rather than salvation and "ought not to have a single word addressed to them"; he applies it to defenders of Paul. [1:00:02] Homilies 16.10: each has his disposition like wax and moulds his idea of God from the scriptures. Mark 7: what defiles comes from the heart, and the first named is murders; he applies it to the dinner plate.
+- [1:02:26] Recognitions 3.20 (his reading): seek not where evil comes from but the justice of the good God and his kingdom. Arguments over the shape of the earth, name pronunciation, feast days and the Trinity do not add to righteousness.
+- [1:04:55] Recognitions 3.33-34: learners who turn into masters; doctrine has an order.
+- [1:07:28] He says he deleted an earlier, harsher video on commenters who demand answers to objections, and will not answer verse-by-verse objections.
+- [1:12:16] Recognitions 3.37: to the Hebrews who thought God only good, Jesus taught to seek also his justice; judgment is on behaviour, not on Christology.
+- [1:14:03] Recognitions 3.53: God hid the kingdom as a secret treasure; love it above all; the two paths (Matthew 7:13-14): if you are travelling with two billion people, you are probably on the wrong path; few even find the narrow one.
+- [1:19:45] Recognitions 8.59-60: seek the True Prophet, who is within the mind of everyone and inoperative in those with no desire for God's justice; do not treat with him by questions and disputations. He advises taking a year to seek God's voice.
+- [1:26:19] Even the rewritten gospels give a Jesus who preaches works; lay hold of his words, not Paul's; Peter's teachings to understand them.
+
+## Sources He Cites
+
+- Recognitions 1.15-17; 2.33; 3.20, 3.33-34, 3.37, 3.53; 8.59-60; 10.47. **Held** (Smith, `christianity/Incoming/clementine-recognitions-full-text.md`); read from Snyder's Nazarene Acts, which uses "justice" where Smith has "righteousness".
+- Homilies 2.6-8, 2.43-45; 3.10, 3.50-56; 7.4; 16.10. **Held** (`christianity/Incoming/clementine-homilies-full-text.md`). He names only "book seven, chapter 4"; the others are identified here from the held text.
+- Matthew 5:17-18, 38-39; 6:8; 7:13-14; 15:13; 19:4-8; 22:29-40; 24:23-27; Mark 7:19; John 3:16; 5:38-47; Acts 10; Revelation 2:14; Genesis 1:29; 22. **Held** (KJV).
+- The Gospel according to the Hebrews as the source of "the true things of the Scriptures." **Not held**.
+- The Rock of a Sure Foundation (his compilation; see file 179).
+
+## Where This Overlaps the Repo
+
+- `questions/method-and-criteria.md` → `### 5. Ancient precedent: the Clementine "false pericopes" doctrine` (Homilies 3.50, the "prudent money-changers" passage, is quoted there).
+- `questions/pauls-legitimacy.md` → `### 5. The Jewish-Christian tradition remembers him as the opponent`; `christianity/paul-false-prophet-deuteronomy-18-test.md` (the Moses-prophet test he reads from Homilies 3.53).
+- `questions/jesus-and-the-torah.md` → `### "Mark 7:19 — 'thus he declared all foods clean.' That kills your vegetarian Jesus *and* James's Acts 15 food decrees."` (heading begins so).
+- `questions/nazarene-sect-sacrifice-and-diet.md` → `### The Homilies passages that weld the two claims together` (Homilies 7.4 and 3.45).
+- `questions/blood-atonement-and-salvation.md` → `### 1. Asked point-blank how to be saved, Jesus names behavior`.
+- `questions/two-ways-kingdom-within.md` → `### 5. The Two Ways predates Christianity — Jesus inherited it`.
+- `christianity/hebrew-gospel-of-matthew.md` (his premise that the Gospel of the Hebrews was the original).
+- `extended-library/polemic-answers-red-letters-added-florez.md` (uses Recognitions 2.33 and Homilies 2.43 and 3.10).
+- Files 344 and 345 (Isaac; Cain and Abel), which he refers to here as the typical objections.
+
+## Claims to Check
+
+1. **"The true things of the Scriptures" comes from the Gospel of the Hebrews.** Homilies 3.50 (held): "Wherefore ye do err, not knowing the true things of the Scriptures." The ANF footnote calls it Matthew 22:29 "misquoted and misapplied"; neither the footnote nor the text names the Gospel of the Hebrews. His attribution is not in the held text.
+2. **Homilies 3.56 wording.** Smith has "God wishes mercy, and not sacrifices"; "covenant loyalty" is his rendering of mercy (Hebrew hesed in Hosea 6:6).
+3. **Recognitions 2.33 wording.** Matches the held Smith text closely ("For if I should speak anything different from what He who sent me enjoined me, I should be a false apostle").
+4. **Homilies 2.43 wording.** Smith: "Or that He makes experiments as in ignorance"; his "conducts experiments" is a paraphrase. "Who then speaks truth?" matches.
+5. **Pisteuō with a person means "obey."** His lexical claim; standard lexicons give "believe, trust"; obedience language is apeitheō/peithō (compare John 3:36, where "believeth not" renders apeithōn in some translations).
+6. **Mark 7:19 "thus he declared all foods clean" is not in the Greek and was added around 1920.** The Greek has katharizōn panta ta brōmata ("purging all meats," KJV); modern versions construe the participle with "he said" in 7:18. The question is grammar and construal, not an added clause; the date is his. The card heading above addresses the verse.
+7. **Paul never quotes Jesus.** The repo's own card says the letters "almost never" do (`questions/pauls-legitimacy.md` → `### 2. The letters almost never quote Jesus`); 1 Corinthians 11:23-25 and 7:10 are the usual counterexamples.
+8. **Cain and Abel is from the priestly source.** Most source analyses assign Genesis 4 to J, not P; see `christianity/prophetic-tradition-against-sacrifice.md` → `### The Documentary Hypothesis`.
+9. **John 5:43 "another Paul".** KJV: "if another shall come in his own name"; "Paul" is his insertion.
+10. **Eye for an eye from Hammurabi.** A common comparison (Code of Hammurabi 196-200); not a held text.
+11. **The church rewrote the Gospel of the Hebrews into the four gospels.** His premise; compare `christianity/hebrew-gospel-of-matthew.md`.
 
 ---
 

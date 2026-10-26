@@ -10,7 +10,33 @@
 
 ## Summary
 
-*Notes pending.*
+A three-minute answer to the question whether God preferred Abel's animal offering over Cain's (Genesis 4). Same three moves as file 344: Matthew 9:13 ("not" means no sacrifices, which includes Cain's and Abel's), Homilies 2.38 (falsehoods added to the written law; whatever is contrary to God's law, including inserted sacrifices, is one of them), and Homilies 3.45, where he stresses "nor from the beginning did he require them": Cain and Abel were the beginning.
+
+## Key Points
+
+- [00:00] People bring a favourite sacrifice as if it were an exception to the statement that God did not ordain sacrifices; he says people read an asterisk into Peter's statement for Cain and Abel.
+- [00:48] Matthew 9:13: "not" is the negative; God does not desire sacrifices.
+- [01:38] That includes Cain and Abel. Homilies 2.38 read: falsehoods were added to the written law, the wicked one dared to do it. If sacrifice is contrary to God's law and appears in the text, it is one of the additions.
+- [02:22] Homilies 3.45 read; "When was Cain and Abel's sacrifice? Oh, it was in the beginning." God never asked for or desired them.
+
+## Sources He Cites
+
+- Matthew 9:13. **Held** (KJV).
+- Clementine Homilies 2.38 and 3.45. **Held** (`christianity/Incoming/clementine-homilies-full-text.md`). He gives the chapter for 2.38 only; the second passage is Homily III, "Chapter XLV — Sacrifices."
+- Genesis 4 (the story itself, not read). **Held** (KJV).
+
+## Where This Overlaps the Repo
+
+- `questions/nazarene-sect-sacrifice-and-diet.md` → `### The Homilies passages that weld the two claims together`.
+- `questions/method-and-criteria.md` → `### 5. Ancient precedent: the Clementine "false pericopes" doctrine`.
+- `christianity/prophetic-tradition-against-sacrifice.md` → `## Jesus in the Prophetic Tradition`.
+- File 344 (Isaac), the companion answer.
+
+## Claims to Check
+
+1. **"From the beginning" covers Cain and Abel.** Homilies 3.45 (Smith): "nor from the beginning did He require them." The application to Genesis 4 is his.
+2. **Texts a reader will bring.** Genesis 4:4 (KJV): "the LORD had respect unto Abel and to his offering"; Hebrews 11:4 (KJV): "By faith Abel offered unto God a more excellent sacrifice than Cain." Neither is discussed in the video. Genesis 4:3 has Cain's offering as "the fruit of the ground", so the story contrasts a vegetable and an animal offering, which is the point of the viewer's question.
+3. **"Not" as a flat negative.** As in file 344; see `questions/CITATION-NOTES.md` on Hosea 6:6b.
 
 ---
 

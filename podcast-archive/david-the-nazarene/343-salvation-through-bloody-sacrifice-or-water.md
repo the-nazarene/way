@@ -10,7 +10,79 @@
 
 ## Summary
 
-*Notes pending.*
+A follow-up to his previous video (file 342) on whether Jesus's death was a sacrifice demanded by the Father. Here he asks whether salvation comes from that death or from being born from above in water baptism, and answers from the Clementine Homilies, which he calls by the title in Clement's letter to James, "the Sermons of Peter," saying the church renamed the work to bury it. The first two-thirds lay the ground on scripture: Homilies 2.38-45 (falsehoods added to the written law as a test; Peter will not say so in public, 2.39; everything written against God is false, 2.40; the list of attributes that cannot belong to God, including being "fond of fat, and sacrifices," 2.43-44; how God is to be thought of, 2.45), Homilies 3.9-10 (anyone can find his own dogma in the scriptures), 16.10 (each reader's disposition is like wax), 18.19-21 (those who believed God rejoiced in murder and sacrifice became like their god; become experienced money-changers; Simon's indignation). Along the way he argues that scripture never claims infallibility (Jeremiah 8:8), that treating the Bible as infallible is idolatry ("Allegiance to a book does not equal allegiance to God"), that quoting a verse does not certify a whole book, that the only written text the Bible calls the word of God is the commandment Jesus cites in Mark 7, and that people seek a bloodthirsty God in scripture because it excuses their own desires, including eating animals. The last third turns to the cross and baptism: the Homilies mention the cross once (11.20), as Jesus's example of forgiving his killers; the just man forgives and does not punish (12.32-33); and salvation is through being born again of water (19.23; 11.24-27; 13.9, 13.21), with "baptism alone is lacking" for the righteous. He reads John 3 as a baptism text (born from above, *anōthen*; born of water and spirit; 3:22, Jesus then baptizes), renders 3:16 as "whoever keeps on obeying," cites the Luke 3:22 reading "this day I have begotten you," and concludes that the cross has nothing to do with salvation as a blood atonement, while it still has meaning as a demonstration of God's love and of faithfulness to death.
+
+## Key Points
+
+- [00:00] Follow-up to the previous video: is salvation from a blood sacrifice on the cross, or from being born from above in water baptism?
+- [01:08] The early Jewish-Christian sects rejected sacrifice and held that parts of the Pentateuch were added (Panarion on the Nazarenes on screen). The Father is not bloodthirsty; ascribing that to him is unlawful.
+- [01:08] The Homilies' title per Clement: "Clement's Epitome of the Popular Sermons of Peter"; he says the church renamed it "Clementine Homilies" to hide it, and put "pseudo" on the Recognitions (his "Nazarene Acts") to discredit it. The Recognitions is a consolidation of several documents and more toned down; the Homilies earlier and harsher.
+- [04:15] If God never asked for animal sacrifice, he did not want human sacrifice of the most righteous man: "Why would God want to slay the innocent to absolve the guilty?"
+- [05:20] Homilies 2.38 read (falsehoods added to the written law after the seventy). The Moses Scroll (Ross Nichols's book) as an old Deuteronomy without sacrifices, which he takes as evidence for Peter's statement.
+- [07:36] "It is safer to incur danger with respect to religious faith": the Bible never claims infallibility and says it has been corrupted (Jeremiah 8:8; priests "have done violence" to the law). "Allegiance to a book does not equal allegiance to God"; an infallible Bible as a wooden idol.
+- [09:16] The greater danger is an evil conscience from believing blasphemous words: a God demanding genocide, child sacrifice and his son's brutal death.
+- [09:59] Homilies 2.39 read: Simon will use the added chapters in public; Peter will not say in public that they were added. He applies this to people using scripture to justify slaughtering animals; Homilies 8.15-16 (the giants moved from eating animals to eating humans).
+- [12:19] "I desire mercy, not sacrifice": "You've ignored the not." Abraham and Isaac raised.
+- [13:10] Homilies 2.39 continued: the unlearned lack the power of discerning and would flee as from the impious. Discernment is choosing, but of God's will, not one's own.
+- [16:26] "Or some would even withdraw from the word": when Paul is exposed, people say throw out Luke and Acts too; he says Acts holds some of the best evidence against Paul, Luke holds Gospel of the Hebrews quotations, and Paul's own letters are the best evidence against him; keep them to know what not to believe.
+- [17:24] Homilies 2.40-41 read: everything written against God is false; Simon's delay of a day lets Peter teach Clement about the added chapters. He recommends reading the Homilies and Recognitions in full in his *Rock of a Sure Foundation*.
+- [21:08] The "blue thread" against sacrifice and the "bloody red thread" for it run through scripture. Matthew 5:17: "Think not that I came to abolish."
+- [22:06] Homilies 2.42-44 read (monarchic soul; "if He is fond of fat, and sacrifices ... who then is without need"). People search for verses showing God desires sacrifice because they desire it and hope he will not judge them.
+- [25:51] On "if He makes blind and deaf, who has given sight": Jesus opened the eyes of the blind, but the being on the Damascus road struck Paul blind; he takes Peter to be denying that it was Jesus.
+- [28:10] Homilies 2.45 read: think of God as good, just, the creator, merciful, the judge.
+- [30:48] Homilies 3.9-10 read: anyone can form a dogma and find testimonies for it in scripture; Simon will prove many gods from them; "the truth being reserved for the grateful." Jesus never promised a book to lead into all truth; the Holy Spirit does. Peter meant the Old Testament, but the New has also been changed.
+- [35:44] Quoting a verse does not certify the book. Mark 7: the commandment to honour father and mother is called the word of God, the only written passage he finds so called; elsewhere the word of God is the Holy Spirit.
+- [38:01] Homilies 16.10 read: scripture is like many types and each reader's disposition like wax; "from the abundance of the heart the mouth speaks."
+- [39:54] The goodness and justice of God: blessings on just and unjust now, judgment in the world to come.
+- [41:35] Homilies 18.19 read: those who believed God "rejoiced in murder" and was won by sacrifices became like their god; he applies it to the sacrificial cult.
+- [42:34] Homilies 18.20 read: "No one knows the Father but the Son"; whoever would be saved must judge the books written to try us; "be prudent money changers," a saying he says Epiphanius and Eusebius also quote.
+- [45:50] Homilies 18.21 read: Simon's feigned astonishment; he compares the reaction to his own channel. "I don't pick and choose what I like. I pick and choose what I think is the desire of God."
+- [48:13] The cross in the Homilies: one mention, 11.20 (he says "book 11, chapter 20"), Jesus praying for those who slew him; the cross as the example of forgiveness and of God's love, "not as a pagan blood sacrifice."
+- [51:06] Read in sequence: the just man fights with nature, loves enemies, does not punish the sinner; the male part of philanthropy is love, the female compassion (12.32-33); Simon on the lot of the humble, and Peter on how, "being born from above and changing your origin and living according to law, you will obtain eternal salvation" (19.23).
+- [54:12] Matthew 27:25 ("his blood be on us"): a curse, which he compares to being covered in the blood.
+- [56:36] After his baptism video (files 177-178), the question of what the death was for brought him back to baptism: "the cross has absolutely nothing to do with salvation" as blood atonement, though it was not meaningless.
+- [57:23] Homilies 11.24 read: water makes all things; born again by the first-born water, heirs of the parents who beget you to incorruption.
+- [58:29] Luke 3:22 in "the oldest copies": "This day I have begotten you"; he reads Jesus as begotten at baptism (he notes the term adoptionism), and believers as adopted by rebirth in baptism.
+- [1:00:01] Homilies 11.25: many are called, few chosen; he renders it "few choose."
+- [1:01:47] Homilies 11.25-26 read: the unbaptized have no hope however pious; born of water you change your first generation, of lust; "unless you be born from above by living water, you shall not enter the kingdom of heaven."
+- [1:04:37] John 3:3-7: *anōthen* means both again and from above, a wordplay lost in English; Nicodemus hears "again."
+- [1:06:15] Peter's "flee to the waters" against churches that schedule baptism months out; early baptism was immediate, with a fast.
+- [1:07:17] John 3:1-21 read; 3:16 rendered "whoever keeps on obeying unto him"; he says "believes" mistranslates. 3:22: Jesus and his disciples then baptize.
+- [1:10:33] Homilies 11.27 read: "if you are righteous, baptism alone is lacking in order to salvation"; no mention of accepting a sacrifice. "So get baptized and behave yourself."
+- [1:13:23] Homilies 13.9 (those baptized who do not urge their families to baptism) and 13.21 (chastity does not save the unbaptized) read.
+- [1:15:16] Jesus's teaching and the Homilies form a non-contradictory line; adding Paul produces contradictions with the gospels, with Peter, with baptism and with John 3.
+
+## Sources He Cites
+
+- Clementine Homilies: Epistle of Clement to James 20 (the title); 2.38-45; 3.9-10; 8.15-16 (by reference); 11.20, 11.24-27; 12.32-33; 13.9, 13.21; 16.10; 18.19-21; 19.23. **Held** (Smith, Peterson, Donaldson; ANF 8). He reads from his *Rock of a Sure Foundation*, with "Yahweh" for God. Title, Ep. Clem. 20: "inscribing them 'Clement's Epitome of the Popular Sermons of Peter.'" 11.20: "For the Teacher Himself, being nailed to the cross, prayed to the Father that the sin of those who slew Him might be forgiven." 11.27: "baptism alone is lacking in order to salvation."
+- Panarion on the Nazarenes / Nasaraeans (on screen; 18.1 by his description in other videos). **Held** (Wescoe).
+- Recognitions ("Nazarene Acts"). **Held** (Smith).
+- Ross Nichols, *The Moses Scroll*. Not held.
+- Jeremiah 8:8; Zephaniah 3:4 ("they have done violence to the law"); Matthew 5:17; 9:13; 22:14; 27:25; Mark 7:10-13; Luke 3:22; John 3:1-22. **Held** (KJV); Greek (Westcott-Hort) **held**: John 3:3, 3:7 γεννηθη ανωθεν; 3:16 ο πιστευων.
+- Justin Martyr on the Jordan voice (not cited by him; relevant to Luke 3:22). **Held**: Dialogue with Trypho 88 and 103 ("Thou art my Son: this day have I begotten Thee").
+- His own earlier videos on baptism (files 177, 178) and file 342.
+
+## Where This Overlaps the Repo
+
+- `questions/blood-atonement-and-salvation.md` → `### 1. Asked point-blank how to be saved, Jesus names behavior` and `### "You're reducing the cross to nothing."`
+- `questions/method-and-criteria.md` → `### 5. Ancient precedent: the Clementine "false pericopes" doctrine` (quotes Homilies 3.50, "Be ye prudent money-changers"), `### "That's a canon within a canon. You've just built a Bible out of your preferences."` and `### "If the text is corrupted, why trust the parts you like?"` (his "picking and choosing what I think is the desire of God").
+- `christianity/moses-scroll-deuteronomy-without-sacrifice.md` (the Shapira/Moses scroll he cites via Nichols).
+- `questions/CITATION-NOTES.md` → `### 3. "The Torah was falsified by 'the lying pen of the scribes' to institute sacrifices" — attributed to Clementine Recognitions` (he cites Jeremiah 8:8 as Jeremiah).
+- Not used in any card or research file: Homilies 11.20 (the one mention of the cross, as an example of forgiveness), 11.24-27 (salvation through baptism), 3.9-10 and 16.10 (scripture yields whatever the reader brings), 18.19-20 (a god who "rejoiced in murder"; "Become experienced bankers").
+- His baptism videos 177 and 178 in this folder.
+
+## Claims to Check
+
+1. **The church renamed the "Sermons of Peter" to bury it.** The held text has Clement's own title in the Epistle to James 20; the name "Homilies" is the editors'. Why the title changed is his reading.
+2. **The cross is mentioned once in the Homilies.** Held text agrees: "cross" occurs once, at 11.20.
+3. **The passages he reads as one sequence.** In the held text, "he is righteous who for the sake of what is reasonable fights with nature" and the male and female parts of philanthropy are 12.32-33 (Peter with Clement's mother), and the exchange with Simon on lot and appeal is 19.23; he presents them as continuing 11.20.
+4. **"Born from above" in Homilies 11.24-26.** Smith's held translation reads "born again" (11.24 "being born again by the first-born water"; 19.23 "being born again"), and 11.26 reads "Unless ye be regenerated by living water into the name of Father, Son, and Holy Spirit, you shall not enter the kingdom of heaven." His reading at [1:01:47] has no triadic phrase.
+5. **"Become experienced bankers" (18.20).** Held Donaldson: "Become experienced bankers"; Smith at 2.51 and 3.50: "Be ye prudent money-changers." Clement of Alexandria also quotes it (*Stromata* 1.28, held: "Be ye skilful money-changers"); the Epiphanius and Eusebius citations he mentions are not checked here.
+6. **Luke 3:22 "this day I have begotten you" in the oldest copies.** The reading is in Codex Bezae (5th century) and Old Latin witnesses; the held Westcott-Hort text reads συ ει ο υιος μου ο αγαπητος εν σοι ευδοκησα. Justin (held, Dialogue 88, 103) cites the Jordan voice as "Thou art my Son: this day have I begotten Thee."
+7. **John 3:16 means "keeps on obeying."** Held Greek: ο πιστευων (the believing one), a present participle; "obey" is his gloss.
+8. **Matthew 22:14 can mean "few choose."** The Greek is ολιγοι δε εκλεκτοι (few are chosen ones), a noun-adjective, not a verb.
+9. **Mark 7 is the only written passage called "the word of God."** KJV Mark 7:13 calls it "the word of God"; whether other passages do (e.g. "the word of the LORD" in the prophets, or Luke 11:28) depends on how he defines a written passage.
+10. **The Moses Scroll is an old Deuteronomy without sacrifices.** See the repo file above for the Shapira scroll's history and the dispute over its authenticity.
 
 ---
 

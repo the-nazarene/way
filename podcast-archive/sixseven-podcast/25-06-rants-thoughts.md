@@ -10,7 +10,84 @@
 
 ## Summary
 
-*Notes pending.*
+Recorded by Chris while driving back from the mountains to the city, the evening after Robert F. Kennedy Jr.'s Senate confirmation hearing for Health and Human Services (late January 2025, the day after the Washington, D.C. airliner and helicopter collision). He describes checking YouTube's live streams of the hearing (a few hundred viewers on CBS, a few thousand on PBS and CNN, tens of thousands on Fox) and concluding that almost everyone watching already supported Kennedy, then watching twenty or thirty minutes himself. His objection is to the hearing as a whole: Kennedy repeating that he is "pro vaccine," exchanges with Elizabeth Warren and Bernie Sanders (the "unvaccinated and unafraid" onesies from the Children's Health Defense website) that he likens to a reality-show reunion, and an audience that treats it as a contest of heroes.
+
+His underlying argument is the one running through these episodes: there is no top-down "net change" from any official, because real change "comes from God" and from people on the ground; the ruling families have never been displaced across the succession of empires (Babylon, Media-Persia, Greece, Rome, the Herods); figures like Ron Paul, Ross Perot, Tucker Carlson and Kennedy act as a "steam valve"; and the billionaires behind the Stargate announcement, not the president reading from cue cards, run things (his executive-producer and Jim Henson Studios analogies). He repeats his view that "traditional Pharma" is being phased out for biotech, that the internet of bodies and synthetic biology are the real story, Sabrina Wallace's reading of the IEEE 802.15 working groups, and that new technologies arrive alongside pandemics. Religious remarks come as asides: a joke about Paula White's subscription heaven where the only verses preached are Paul's, and the Antichrist as one who promises something and then deceives. He closes by telling listeners to ignore the show, look after their own family, soul and biofield, and make their own decisions as adults.
+
+## Key Points
+
+- [00:01] Recorded in the car after a day in the mountains, while mix-testing a music project.
+- [01:35] He woke to announcements about the hearing and watched it on YouTube before reading any commentary; the viewer counts by channel.
+- [03:11] Fox had the largest audience by far, so the watchers already agreed with Kennedy; Kennedy repeatedly says he is "pro vaccine," for safer vaccines.
+- [04:45] Ron Paul, Ross Perot and Tucker Carlson as the "steam valve"; Trump reading while Larry Ellison and Sam Altman talk.
+- [06:20] "there is no top down net change for you the net change comes from within it comes from God," through others on the ground and sometimes the angelic realms.
+- [07:55] Kennedy and Sanders sound like old men arguing at the YMCA; adults make their own choices (the ATF and alcohol analogy); pharma phased out for biotech.
+- [09:30] He has mutual connections with Kennedy, most of whom speak well of him; Elizabeth Warren asking for a commitment.
+- [11:04] The dynasties of Babylon, Media-Persia, Greece, Rome, the Herods, Xerxes, Nebuchadnezzar, Alexander: when was the leadership class ever uprooted? "never."
+- [12:37] The American Revolution as a lie; the 11-year-old who traced presidents to King John; "this is a family thing."
+- [14:12] Warp Speed and Stargate; the gold-fringed flag as a sign of a commercial vassal state, "in the US code."
+- [15:44] Elections as polling the effectiveness of marketing; the Electoral College as a fix.
+- [17:17] The pledge of $500 billion against $100 billion; "the billionaires are in charge and the guy reading from the Q cards is not in charge."
+- [18:52] The executive-producer analogy from his Hollywood years.
+- [20:28] Kennedy may not know what he does not know; levels of need-to-know; the helicopter and airliner collision as convenient timing.
+- [22:01] "it's a form of mass mind control"; Zuckerberg's apology after the "cyber bio interface" was installed.
+- [23:36] Stockholm syndrome; a viewer's comment.
+- [25:10] Owen Benjamin's jokes about Kennedy's voice; Chris notes Kennedy has a vocal condition and says he is not mocking him.
+- [26:44] Sanders and the Lex Fridman podcast clip; a reality-show reunion; Mars and data centres.
+- [28:17] The onesies from the Children's Health Defense site; why should anyone police a website.
+- [29:50] The injection as a "biological device"; nanobot and xenobot formations in the nervous system.
+- [31:22] What "big data" is for: feeding AI models that can control bodies; "the world is considered the enemy."
+- [32:55] Lipid nanoparticles and the spike protein; Kennedy as a slow-moving "sloth" while the stadium burns.
+- [34:27] The papier-mâché jail and the steel jail; recombinant DNA; a viewer on controlling one's spirit to keep the body.
+- [35:59] Adults do not need other adults to decide for them; the hepatitis B and vitamin K newborn shots as installation discs.
+- [37:34] The programming comes from television dramas, not HHS.
+- [39:07] Trump's age; "Robert Redford" on a coming bird-flu pandemic; every new technology arrives with a pandemic; shedding.
+- [40:41] Rand Paul and the NIH document on Wuhan gain-of-function research; letting off the steam, like puncturing a bloated cow; Trump as the lead actor, not the executive producer.
+- [42:14] Kennedy's wife at the hearing; "these men are not your Heroes."
+- [43:47] "it's a rigged thing"; the Jim Henson Studios analogy (swapping Ernie for Elmo does not change the enterprise).
+- [46:57] Stargate and remote viewing; Wallace's reading of IEEE 802.15 sub-groups (802.15.6 body area, 802.15.4, 802.15.5 mesh, 802.15.8 as a "remote viewing and astral surveillance channel"); technology from earlier civilisations.
+- [48:31] Candace Owens as someone who could have answered Warren; "it's a war out here."
+- [50:04] "drill baby drill" and Stargate in one message; uploading the neocortex by 2040; human augmentation as commercial.
+- [51:39] Even four years of Kennedy against vaccines would not undo forty years of messaging.
+- [53:11] "if y'all don't think they got the Christian version of this waiting in the wings": a joke about Paula White's subscription heaven where "the only preach verse is from Paul."
+- [54:44] Kennedy's answer about the onesies; a CEO could have the item removed with one call.
+- [56:17] Abuse and praise of "your hero" as trauma; "smart vaccine" and "freedom City"; "that's exactly what the Antichrist did say he was going to do promise you something and then deceive you."
+- [57:51] The TikTok ban and Truth Social servers, as he imagines Trump's side of it.
+- [59:30] mRNA as a software platform; Scott Gottlieb and the revolving door.
+- [1:01:05] He says he is not against Kennedy; Kennedy is caught in a system bigger than him.
+- [1:02:37] The 12-hour TikTok ban as a stunt with Trump's name on the screen.
+- [1:04:11] His doubts about the July 2024 ear wound; "cancer cures in 48 hours"; the medical body area network.
+- [1:05:45] What you put in your body is each adult's decision; the hearing as the world's Jersey Shore.
+- [1:07:18] Concentrate on "your own soul your own well-being your own biofield"; politics looks like pro wrestling once you stop watching.
+- [1:08:52] "continue fueling the Beast"; possible explanations for the collision, from accident to remote control; "out with the old in with the new."
+- [1:10:29] They will not force anyone; they will rebrand it; it is up to you whether to buy it.
+
+## Sources Cited
+
+- No scripture is read. Babylon, Media-Persia, Greece and Rome are named as a succession of empires [11:04]; the Antichrist and "the Beast" are mentioned [56:17], [1:08:52].
+- The January 2025 Senate confirmation hearing for Robert F. Kennedy Jr. (YouTube live streams on CBS, PBS, CNN, Fox). Not held.
+- Children's Health Defense website (onesies). Not held.
+- Sabrina Wallace on IEEE 802.15. Not held.
+- An NIH document on Wuhan gain-of-function research (not named). Not held.
+- Owen Benjamin; Lex Fridman podcast clip; Candace Owens. Not held.
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **Fox had about 290,000 live viewers on YouTube against a few hundred to a few thousand elsewhere.** His reading of live counters at one moment.
+2. **The ruling families have never been displaced through Babylon, Persia, Greece, Rome and on.** A thesis about continuity of elites; no source given.
+3. **An 11-year-old showed that the presidents descend from King John.** BridgeAnne d'Avignon's 2012 genealogy project linked 42 of 43 presidents to King John; distant common descent is shared by very large populations.
+4. **The gold fringe marks a commercial vassal state, per the US Code.** The Flag Code (4 U.S.C. ch. 1) does not address fringe.
+5. **IEEE 802.15.8 is a remote-viewing and astral-surveillance channel.** IEEE 802.15.8 is Peer Aware Communications (device-to-device). Also: 802.15.4 is low-rate personal area networking (the basis of Zigbee), not Bluetooth (802.15.1); 802.15.5 is mesh networking; 802.15.7 is visible light communication.
+6. **The former director who predicted a bird-flu pandemic.** The captions say "Robert Redford" and he says "former CIA director"; the remark matches Robert Redfield, former CDC director.
+7. **Every new technology arrives with a pandemic.** The same correlation claim as in earlier episodes.
+8. **An NIH document thanks the Wuhan Institute for gain-of-function research.** Grant acknowledgments in papers co-authored with WIV (EcoHealth Alliance funding) are the likely reference; checkable.
+9. **The 12-hour TikTok shutdown was staged.** His reading of the in-app messages naming Trump.
+10. **The July 2024 ear wound did not match a bullet graze.** His observation; medical records were not released.
+11. **Vaccine manufacturers do not make the active ingredient.** His claim; contract manufacturing is common, but each product's supply chain is documented in its approval file.
 
 ---
 

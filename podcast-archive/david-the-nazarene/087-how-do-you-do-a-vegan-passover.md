@@ -10,7 +10,38 @@
 
 ## Summary
 
-*Notes pending.*
+A short answer to a question he says he gets often. A Jewish Passover seder has no meat on the table, so a vegan Passover is the ordinary seder with the egg and the lamb shank bone left off and a plant-based meal afterwards. He adds that the lamb was probably added to the feast from Egyptian pagan custom, citing Epiphanius on Egyptians who still slaughtered a lamb at the turn of the year in his day, and that the Feast of Unleavened Bread is the older tradition. The second half turns to Immanuel Velikovsky: *Ages in Chaos* on Egyptian sources for the Exodus (he reads the death of the firstborn as the death of the chiefs of the people in an earthquake that brought down the brick houses of the elite and spared the slaves' mud huts and the army's tents), and *Worlds in Collision* on the calendar, where he says the lunar calendar and the lunar Sabbath come from Babylon and the solar calendar from Enoch is the older one.
+
+## Key Points
+
+- [00:00] The seder involves no meat; leave off the egg and the shank bone, and you have a vegan Passover.
+- [00:00] The lamb was probably added from pagan traditions in Egypt; he cites Epiphanius in the Panarion: the Egyptians still slaughtered a lamb at the turn of the year, in spring, in the 4th century.
+- [01:35] The Feast of Unleavened Bread, which is plant-based, is probably the original; Jewish or messianic seders both work without meat.
+- [01:35] Velikovsky, *Ages in Chaos* (from the Exodus to King Akhenaten): Egyptian sources that he says describe the Exodus, a "scroll" and an inscription he names from memory.
+- [03:09] Velikovsky's reading: the Hebrew words for "firstborn" and "chiefs of the people" differ by one similar-looking letter; an earthquake killed the elite in their brick houses, the slaves' mud huts stood, and the army in tents survived, which explains the pursuit.
+- [04:46] *Worlds in Collision* on the calendar: the Jewish lunar calendar and the lunar-Sabbath calendar match the ancient Babylonian one (same month names); the solar calendar from Enoch is the original.
+- [06:20] Closing: cook the post-seder meal vegan and "ditch the egg and ditch the the shank bone."
+
+## Sources He Cites
+
+- Epiphanius, Panarion, on the Egyptian lamb rite (no section given). **Held**: 18,3,1-2 (Wescoe), in the section on the Nasaraeans: "the tradition of the sheep [that was] sacrificed in the land of the Egyptians is still celebrated among the Egyptians, and among the idolaters," at "spring's beginning, when the first equinox comes," smearing the sheep and the trees with red ochre.
+- Immanuel Velikovsky, *Ages in Chaos* vol. 1 (1952) and *Worlds in Collision* (1950). Not held.
+- The Egyptian texts he recalls (one he calls a scroll; the usual identification in Velikovsky is the Ipuwer papyrus, Leiden I 344). Not held.
+- 1 Enoch's solar calendar (by reference). **Held** (Charles), Astronomical Book, chapters 72-82.
+
+## Where This Overlaps the Repo
+
+- `questions/sacrifice-culture-vegetarian-jesus.md` → `### "He kept Passover, so he ate the lamb — and John calls him the Lamb of God, which means he fulfilled the sacrificial system, not abolished it."`
+- `christianity/biblical-case-for-vegetarian-jesus.md` → `### The Passover Substitution`.
+- Panarion 18,3,1-2 is cited nowhere else in the repo.
+
+## Claims to Check
+
+1. **Epiphanius says the Passover lamb came from Egyptian paganism.** The held text (18,3,1-2) records an Egyptian spring rite of smearing a sheep with red ochre, called "the tradition of the sheep [that was] sacrificed in the land of the Egyptians." Epiphanius uses it, alongside Noah's ark and Abraham's altar, as surviving evidence that the scriptural events happened, against the Nasaraeans' rejection of the Pentateuch. So the held text describes the Egyptian rite as a survival of the Exodus Passover; the direction of borrowing he gives (Egyptian rite into Passover) is his reading.
+2. **The Feast of Unleavened Bread is older than the Passover sacrifice.** A position held in some scholarship (two originally separate festivals joined in Deuteronomy 16); not stated in any held text.
+3. **"Firstborn" and "chiefs" differ by one letter in Hebrew.** Velikovsky's argument (bekhor / bechir); not checked here.
+4. **The Exodus earthquake reading.** Velikovsky's theory, as reported.
+5. **The lunar calendar and month names are Babylonian.** The post-exilic Jewish month names (Nisan, Tishri, etc.) are Babylonian in origin, and the Talmud (y. Rosh Hashanah 1:2) says the names came up from Babylon (not held). The solar calendar is in 1 Enoch 72-82 and Jubilees 6:32 (held).
 
 ---
 

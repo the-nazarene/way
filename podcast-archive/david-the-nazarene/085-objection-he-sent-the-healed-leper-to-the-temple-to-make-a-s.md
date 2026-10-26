@@ -10,7 +10,61 @@
 
 ## Summary
 
-*Notes pending.*
+Objection five in his "answering the skeptics" series: Jesus sent the healed leper to the temple to make the offering Moses commanded (Matthew 8:4, Mark 1:44, Luke 5:14). His answer has three layers. First, the wording: Mark and Luke say "offer for thy cleansing" and Matthew, the most sacrificial-sounding, says "gift" (Greek *dōron*), the same word used for the money put in the temple treasury in Luke 21, so none of the three says sacrifice. Second, what "Moses commanded" means: in the Recognitions (1.36) Moses allowed sacrifice only to cut off half of an ingrained evil, while in the Homilies (2.38-39) the sacrificial chapters were added to the written law after Moses; he explains the difference by audience, the Recognitions as the public account and the Homilies as teaching for the initiated, pointing to Homilies 2.39, where Peter says he will not say in public that chapters were added. Discernment means separating what is written against God (2.40, 2.44: "if He is fond of fat, and sacrifices ...") from what is true. Third, the prophets and the Ebionite record: Jeremiah 8:8 and 7:22, Isaiah 1:10-15 (the "Torah of our Elohim" in 1:10 set against the sacrifices of 1:11), Isaiah 66:3, Amos 5:25-26 and 2:4, Abba Hillel Silver's *Moses and the Original Torah* on a Canaanite-derived sacrificial system, the Panarion on the Ebionites and the Nazarenes rejecting parts of the Pentateuch, Homilies 3.51-52 (sacrifices passed away, so they were never Torah), and the Ebionite gospel's "I came to abolish the sacrifices." So the man, who had heard Jesus teach, would have understood the offering as something other than a blood sacrifice. He closes on Recognitions 5.8 and Matthew 16:19, Peter's keys.
+
+## Key Points
+
+- [00:00] Objection five; many who ask are not objecting but puzzled by one verse. The Pentateuch's leper offering involves slaughtering birds; Mark, "generally thought to be the oldest," says offer for your cleansing what Moses commanded.
+- [01:33] Matthew says "offer the gift that Moshe commanded"; *dōron* means gift or offering, not sacrifice; the same word is used of the money offerings in Luke 21.
+- [01:33] Recognitions 1.36 read (Snyder's Nazarene Acts): Moses saw that sacrificing to idols was deeply ingrained from Egypt and allowed sacrifice only to YHWH, cutting off half the evil and leaving the other half for another, the Prophet, to correct.
+- [03:06] The Homilies differ: sacrifices were added after Moses by others. Homilies 2.38 read (falsehoods added to the written law after the seventy elders); allowed as a test.
+- [04:40] Homilies 2.39 read: Simon intends to speak in public of the chapters added against God; Peter will not say in public that chapters were added, lest the unlearned flee; explanations are given privately to the well-disposed after a trial of their faith. He compares his own experience of being called a heretic.
+- [07:51] Discerning is "picking and choosing," but by what Jesus, by Peter's testimony, said was true and false, and in line with the prophets. His explanation of the two Clementine positions: the Recognitions was the more public document, the Homilies insider teaching; either way God never commanded sacrifice.
+- [09:24] Homilies 2.40 read: everything spoken or written against God is false; believing such things makes people outcasts from the kingdom. "Everything is a Salvation issue."
+- [09:24] Homilies 2.44 read ("if he is fond of fat and sacrifices and offerings and drink offerings who then is without need"); a God who loves the smell of burning flesh as a god of death, against the god of the living Jesus preached.
+- [11:01] Jeremiah 8:8 read (ISR: "the false pen of the scribe has worked falsehood"); against the reading that it means oral teaching: a pen is not oral, and the verse names the Torah. Jeremiah 7:22 and 9:13 read.
+- [14:10] Abba Hillel Silver, *Moses and the Original Torah*, ch. 2, p. 8, read: the Pentateuch's elaborate sacrificial system developed later under Canaanite influence, some sacrifice names borrowed from them.
+- [14:10] Isaiah 1:11-15 read; 1:10 ("give ear to the Torah of our Elohim") followed by the rejection of sacrifice means the Torah of God does not include them.
+- [15:43] Isaiah 66:3-4 read (slaughtering a bull is slaying a man).
+- [17:15] Amos 5:25-27: the people knew a Torah of Moses without sacrifices; Amos 2:4: Judah rejected the Torah, yet the prophet criticises sacrifice.
+- [18:51] The Panarion described (a heresiology; "medicine chest"): the Ebionites do not accept the whole Pentateuch and reject certain sayings; the Nazarenes acknowledged Moses and his legislation, but not this legislation.
+- [20:23] Homilies 3.51-52 read: the things that pass away before heaven and earth were never Torah; sacrifices have passed away; every plant the Father has not planted will be rooted up.
+- [21:56] The Ebionite gospel: "I came to abolish the sacrifices"; he identifies it with the Gospel according to the Hebrews quoted by Origen and Jerome, the original Hebrew gospel behind Greek Matthew.
+- [21:56] The healing comes after the Sermon on the Mount, during a teaching tour, so the man would have understood the instruction: "He didn't say go and make a sacrifice."
+- [23:29] Recognitions 5.8 read: whoever refuses the things that pertain to salvation has the cause of his perishing from himself; Homilies 2.40 repeated; Matthew 16:19, the keys.
+
+## Sources He Cites
+
+- Matthew 8:4; Mark 1:44; Luke 5:14; Luke 21:1-4. **Held** (KJV). Matthew 8:4: "offer the gift that Moses commanded, for a testimony unto them"; Mark 1:44: "offer for thy cleansing those things which Moses commanded"; Luke 21:1: "casting their gifts into the treasury."
+- Leviticus 14 (by reference). **Held** (KJV).
+- Recognitions 1.36; 5.8. **Held** (Smith); read in Snyder's wording. Smith 1.36: "the vice of sacrificing to idols had been deeply ingrained ... he might cut off one half of the deeply ingrained evil."
+- Homilies 2.38, 2.39, 2.40, 2.44, 3.51-52. **Held** (Smith). 2.39: "For we do not wish to say in public that these chapters are added to the Bible, since we should thereby perplex the unlearned multitudes." 2.44: "If He is fond of fat, and sacrifices, and offerings, and drink-offerings, who then is without need, and who is holy, and pure, and perfect?"
+- Jeremiah 7:22; 8:8; 9:13-14; Isaiah 1:10-17; 66:3-4; Amos 2:4; 5:25-27; Matthew 16:19. **Held** (KJV); he reads the ISR Scriptures.
+- Abba Hillel Silver, *Moses and the Original Torah* (1961). Not held.
+- Panarion 30.18.7 (Ebionites) and 18.1.3-4 (by description). **Held** (Wescoe). 30,18,7a: "Nor do they accept the whole Pentateuch of Moses, but reject certain passages."
+- Panarion 30.16.5, the Ebionite gospel. **Held**: "I have come to do away with the sacrifices, and unless you cease from sacrificing, the wrath will not cease from you."
+- Origen and Jerome on the Gospel according to the Hebrews (by reference). Not held.
+
+## Where This Overlaps the Repo
+
+- `questions/sacrifice-culture-vegetarian-jesus.md` → `### "Jesus commands a Temple sacrifice. Matthew 8:4, Mark 1:44, Luke 5:14 — 'Go, show yourself to the priest, and offer the gift that Moses commanded.' Triple-attested red text. Your thesis is dead."`
+- `questions/jesus-and-the-torah.md` → `### "Matthew 8:4 / Mark 1:44 / Luke 5:14 — he sends the healed leper to the priest with the Mosaic offering. He puts a man *into* the sacrificial system."`
+- `questions/CITATION-NOTES.md` → `### Three verses that must never be absent again` (the leper verses) and `### 3. "The Torah was falsified by 'the lying pen of the scribes' to institute sacrifices" — attributed to Clementine Recognitions` (Jeremiah 8:8 cited as Jeremiah).
+- `questions/method-and-criteria.md` → `### 5. Ancient precedent: the Clementine "false pericopes" doctrine` and `### "Jeremiah 8:8 isn't about falsifying Torah. It's about scribes who misuse it."`
+- `questions/nazarene-sect-sacrifice-and-diet.md` → `### The Homilies passages that weld the two claims together`.
+- Homilies 2.39 (Peter's reason for not teaching the false chapters in public) is not cited in any card or research file; it is the Clementines' own statement of a public/private distinction.
+
+## Claims to Check
+
+1. **None of the three verses says sacrifice.** Held KJV agrees on the wording ("gift," "offer for thy cleansing"). The offering "Moses commanded" in Leviticus 14 includes, on the eighth day, "two he lambs ... and one ewe lamb" (14:10), a trespass offering, a sin offering and a burnt offering, with "make an atonement for him" (14:19-20); the poor man's version substitutes birds for two of the lambs (14:21-22).
+2. ***Dōron* does not mean sacrifice.** The held Greek (Westcott-Hort) has it at Matthew 8:4 (προσενεγκον το δωρον) and at Luke 21:1 and 21:4 for the treasury gifts (τα δωρα), as he says. It is the general word for a gift or offering; the same text uses it of an altar offering at Matthew 5:23 (το δωρον σου επι το θυσιαστηριον, KJV "thy gift to the altar").
+3. **The Recognitions was a public text and the Homilies an insider one.** His explanation for the difference; no source states it. Homilies 2.39 does describe a private explanation of the false chapters.
+4. **Jeremiah 8:8 names the Torah and means falsified writing.** The held KJV reads "the law of the LORD is with us? Lo, certainly in vain made he it; the pen of the scribes is in vain"; modern translations (and the ISR) read "the false pen of the scribes." The method card takes up the scribal-misuse reading.
+5. **Isaiah 1:10's "law of our God" excludes the sacrifices of 1:11.** His reading of the sequence; KJV 1:10: "give ear unto the law of our God."
+6. **Amos 5:25 shows a known Torah without sacrifice.** A rhetorical question, read both ways by commentators.
+7. **The Nazarenes rejected "this legislation."** The held passage (18,1,3-4) is in Epiphanius's section on the Nasaraeans, a group he distinguishes from the Nazarenes of section 29 (of whom he says at 29,7,2 that the Law, the Prophets and the Writings "are not rejected among them"). The Ebionites' rejection of passages is 30,18,7.
+8. **The Ebionite gospel is the Gospel according to the Hebrews and the original behind Greek Matthew.** His position; see file 006, Claims to Check 1, and his videos 183-184.
+9. **Silver's quotation.** Not held; unverified here.
 
 ---
 

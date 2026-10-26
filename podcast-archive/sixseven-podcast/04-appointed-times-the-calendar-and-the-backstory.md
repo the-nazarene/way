@@ -10,7 +10,94 @@
 
 ## Summary
 
-*Notes pending.*
+A conversation between Chris Crutchfield and the artist Daniel Quiñones, recorded for Daniel's channel (the captions give its name as "mlivismtv"), released on Yom Teruah 2020 on the calendar Chris follows. Chris's introduction says it is part three of a run of conversations released first, and Daniel refers back to earlier talks on CERN and the Apocrypha (compare `03-discerning-and-spirituality.md`). Chris tells how he came to the question: a documentary series his father sent him in January 2015 (the Fuel Project's *Know Your Enemy*), experiences in Los Angeles entertainment work in 2011-2012, a sense that his time in an institutional church was ending, Sunday mornings spent reading in a park, and then the Sabbath and the feasts. He then gives the backstory as he reads it: Levi's landless priestly portion and the tithe as food, the generations from Noah to Abraham, the two hundred Watchers and the Nephilim (whose spirits, he says, became the source of the world's half-human folklore), Abraham questioning the worship of sun and moon, Nimrod and Terah, and Enoch as the one who first set down the calendar.
+
+The calendar argument: Enoch's year is 364 days, reckoned by the sun from the spring equinox; Zadok's line kept it, and Ezekiel names the sons of Zadok as the legitimate priests; the priesthood of Jesus's day had already left the Zadokite line; the community at Qumran (which he identifies with the Essenes, Nazarenes and Ebionites, and with Jesus's relatives) kept that calendar, and so did Jesus; Hillel II, president of the Sanhedrin in the fourth century, later fixed a lunisolar calendar that, with the Gregorian reform, moved the appointed times off their days. He keeps the Gregorian calendar for daily life and the Zadokite one for the feasts, and says his family has followed it for two years. Along the way: Christmas, Easter and Halloween as pagan holidays Jesus did not keep (with an analogy of buying one's wife a gift on an ex-girlfriend's birthday), Jesus born at Sukkot, the angel of the Lord and the Word of John 1 as the pre-existent spirit of Yeshua, "Jesus is God" in the sense that a right arm is the person, and the Trinity as a later Babylonian addition. He closes on why dates matter to ritual (in his account, rituals depend on timing, and renaming a holiday does not change the day's energy) and the marriage metaphor for Israel and God.
+
+## Key Points
+
+- [00:00] Chris introduces the series: conversations with Daniel, released out of order, this one on Yom Teruah on a specific calendar. Daniel introduces himself and Chris.
+- [01:33] Daniel's framing: Christmas, December, September, which calendar to follow.
+- [03:08] 2015: his father sends him a YouTube documentary series that gave him "the border" of the jigsaw; he had seen things on music-video and post-production work in Los Angeles in 2011-2012 that he later connected to it.
+- [06:14] Leaving his Los Angeles church without any quarrel with its leadership, as his father had left Chris's childhood church fifteen years earlier.
+- [09:19] Sunday mornings in the park with a Bible; then the Sabbath and the feasts, which he had taken for Jewish practices and came to see as God's.
+- [12:23] His research conclusion: every culture and religion (Jewish, Christian, Islamic) has had its own deception placed on it; the problem is the leadership of institutions, not the people.
+- [15:26] The backstory begins: Jacob/Israel, Levi and Judah; Yeshua as an extension of both.
+- [16:57] Levi gets no land; the tithe begins as food for the minister.
+- [18:32] Shem alive in Abraham's time; lifespans tapering to about 120; Terah the tenth generation after Noah.
+- [20:05] The two hundred Watchers; the Nephilim's spirits going into men; folklore of half-human creatures from this period; "as it was in the days of Noah."
+- [21:40] Abraham asks why people worship the sun and moon rather than their maker; he cites a book the captions render "joshua" for the story.
+- [23:15] An idol is a caricature of the fallen angel behind it, which can do real things.
+- [26:18] The "new world order" as a defiance of the order set at the beginning; the Watchers' rebellion as the first instance.
+- [27:51] *Know Your Enemy* (the Fuel Project) as the series he first watched; Jubilees and Jasher give the chronology, e.g. Adam alone in the garden before Eve.
+- [30:56] Every creature has free will, including the sun and winds in Enoch; after the flood the fallen ones resume; Abraham chosen.
+- [32:29] Nimrod is warned of a child who will overthrow him and offers Terah horses and money for the baby; Terah refuses.
+- [34:02] Ishmael, Isaac, Esau and Jacob, the twelve sons; Levi's line codifies the code of conduct.
+- [35:38] Enoch first fixed the calendar; Shem kept his text; Enoch was removed from the canon because his perspective overturns later systems.
+- [37:13] The 364-day solar year counted from the spring equinox; sun and moon made on the fourth day.
+- [38:45] The Zadokite calendar movement identifies the equinox by the sun; Leviticus gives months and days, not names of months.
+- [40:17] Rosh Hashanah is not the head of the year; spring is.
+- [41:50] Zadok in Ezekiel as the one legitimate priestly line; Chris describes Zadok as Levi's son.
+- [48:02] The northern tribes scattered and became the "gentiles"; Jesus came for the lost sheep of the house of Israel; Judah is one-twelfth of Israel, and the modern claim to all of Israel draws on the promise of blessing for those kind to Israel.
+- [51:11] God tells Ezekiel that only Zadok's line is legitimate; the Zadokites followed the Enochian calendar.
+- [54:17] "Narrow is the way": how a few, not 2.2 billion, find it; Freemasonry, Roman and Sanhedrin control of the text.
+- [55:50] Why the calendar matters: the feasts are *moedim*, appointments; you need the right day.
+- [57:23] Matthew 5:17's "fulfil" read as completing a roster before the game begins; Jesus kept Torah and the feasts and not the pagan holidays.
+- [58:57] The ex-girlfriend's-birthday analogy for Christmas; Jesus born at Sukkot, which is why there was no room at the inn.
+- [1:00:30] Saturnalia as pagan, with gingerbread men described as a relic of cannibalism and human sacrifice of captured Jews; Rome's control since 70 CE.
+- [1:03:35] Jesus kept the Zadokite calendar because the leadership was illegitimate; Herod feared him as heir to both the kingly and priestly lines.
+- [1:05:08] The feasts listed; the priesthood had left Zadok two or three hundred years before Jesus; Hillel II, *nasi* of the Sanhedrin, dated 320-385 CE.
+- [1:06:42] Hillel II added a day and reworked the reckoning by the moon; with Gregory, the dates of observance drift; "in the seventh month on the 14th day."
+- [1:09:48] Which calendar Jesus used: the Zadokite one, kept by the group variously called Ebionites, Essenes or Nazarenes; Qumran; the Dead Sea Scrolls as evidence for the Bible's veracity and for Hebrew culture.
+- [1:11:21] Torah written on the heart is not Torah abolished; Matthew 7:23, workers of iniquity.
+- [1:12:54] The angel of the Lord, the pillar of cloud and fire, and the Word of John 1 as the pre-existent spirit of Yeshua; the plural of Genesis 1:26; Jesus is God as a right arm is the person.
+- [1:14:28] "the trinity is a babylonian thing that was much later added"; the Scrolls show Jesus's circle using a calendar Hillel's postdates by about 280 years.
+- [1:17:32] Summary: they keep this calendar out of love for Yeshua.
+- [1:19:06] This coming Christmas will be the fourth or fifth the family has not celebrated; handling family gatherings with love.
+- [1:23:44] Next conversations proposed: what to celebrate and when; Freemasonry.
+- [1:25:18] Rituals depend on timing and synchronization; renaming a pagan holiday still lends "energy" to the day; the marriage metaphor for God and Israel.
+
+## Sources Cited
+
+- 1 Enoch: the two hundred Watchers (6:6), the giants' spirits as evil spirits on earth (15:8-12), stars punished for not coming forth "at their appointed times" (18:15-16), the 364-day year (72:32; 74:10-12). **Held** (Charles 1913 in `christianity/ethiopian-bible/unique-ethiopian-texts.md`; Charles 1917 in `christianity/Incoming/book-of-enoch-charles-1917-full-text.md`).
+- Jubilees: Adam and the woman in the first and second weeks (ch. 3); Abram and his father's idols (ch. 11-12); the 364-day year (6:32). **Held** (Charles, same file).
+- Book of Jasher: Nimrod, Terah and the horse offered for the child (ch. 8). **Held** (`christianity/Incoming/jasher-1840-full-text.md`, the 1840 translation; registered as a medieval work). The captions render the book "joshua"; Joshua 24:2 (Terah served other gods) is in KJV.
+- Genesis 1:26, 5, 11 (Noah to Terah); Leviticus 23 (Passover, Yom Teruah); Ezekiel 44:15 (the sons of Zadok); Matthew 2 (Herod), 5:17, 7:13-14, 7:21-23, 15:24; John 1:1; "as it was in the days of Noah" (Matthew 24:37). **Held** (KJV).
+- Dead Sea Scrolls (Qumran calendar). Tier 2 excerpts held; the calendar is discussed in `christianity/dead-sea-scrolls/Incoming/dead-sea-scrolls-selected-texts.md` under 4QMMT.
+- *Know Your Enemy*, the Fuel Project (YouTube documentary series). Not held.
+- Hillel II's calendar; Pope Gregory's reform. Not held; named only.
+
+## Where This Overlaps the Repo
+
+- The 364-day calendar: `christianity/dead-sea-scrolls/Incoming/dead-sea-scrolls-selected-texts.md` → `## 5. 4QMMT -- Miqsat Ma'ase Ha-Torah (4Q394-399)` → `#### The Calendar Dispute (Section A)` (which also notes the hypothesis that Jesus followed the solar calendar at the Last Supper); `christianity/ethiopian-bible/00-overview.md` → `## 1 Enoch — The Crown Jewel` and `## Jubilees — The Second Key Text`.
+- The Zadokite priesthood and Qumran's separation: `christianity/dead-sea-scrolls/00-overview.md` → `## The Qumran Community -- Who They Were`.
+- Essenes, Nazarenes, Ebionites as one line: `christianity/2026-02-25-essene-nazarene-ebionite-lineage.md` → `## The Three Stages`; `questions/essene-nazarene-origins.md` → `### 5. The line of succession runs through Jesus's own family, and it has a forwarding address`; `christianity/nazarene-sect-predated-jesus.md`.
+- Jesus kept the Torah; "fulfil": `questions/jesus-and-the-torah.md` → `### 1. He says it himself, and then raises the bar` and `### "'Fulfill' (πληρῶσαι) means 'complete, and therefore bring to an end.'"`.
+- Sabbath and feasts: `christianity/DRAFT-sabbath-to-sunday.md` (a draft, not for citation) → `## 4. Jewish-Christian groups who kept the Sabbath`.
+- The Trinity as a later construction: `christianity/trinity-fourth-century-construction.md` → `### The Historical Timeline: From Plato to Chalcedon`; `questions/trinity-deity-of-jesus.md`. Chris's "right arm" model and pre-existent Word differ from the repo's reading and from his own later reading of *logos* in Shabbat Studies Ch 1 (see `podcast-archive/shabbat-studies/00-overview.md` → `### Who Jesus is`).
+- The blessing on those who bless Israel, and Judah as one tribe of twelve: `christianity/2026-03-09-combating-christian-zionism-strategy.md` → `### Layer 2: The History They Were Never Told`.
+- Shabbat Studies on the Enochic calendar: `podcast-archive/shabbat-studies/00-overview.md` → `### H. Eschatology, Revelation, the calendar` (claims 157-159) and claim 167 on December 25.
+
+## Claims to Check
+
+1. **Hillel II, *nasi* 320-385 CE, changed the calendar between 320 and 325, around Nicaea.** Jewish tradition (Hai Gaon, via Abraham bar Hiyya) dates Hillel II's fixed calendar to 358/359 CE (4119 AM), a generation after Nicaea. The temple-era calendar was already lunisolar; what changed was calculation replacing observation of the new moon and the barley.
+2. **Hillel II "added a day" and based the calendar on 365 days.** The rabbinic calendar is lunisolar (12 or 13 lunar months, with postponement rules that add or remove a day); the 365-day year is the Julian/Gregorian solar year. Needs a source for what he means.
+3. **"Hillel" is how you say Satan.** Isaiah 14:12's *helel* (KJV "Lucifer") is spelled הילל; the name Hillel is הלל. Related root (to shine, to praise), different word.
+4. **Enoch's year begins at the spring equinox.** 1 Enoch 72 begins the year with the sun in the fourth portal in the first month, and 72:32 has day and night equal and a 364-day year. Supported; Shabbat claim 159 checked the same point.
+5. **Jesus kept the Zadokite (364-day) calendar.** A scholarly hypothesis (Annie Jaubert, 1957, on the Last Supper chronology), noted in the repo's 4QMMT section; not a consensus. No gospel names a calendar.
+6. **Ezekiel names Zadok's line as the only legitimate priesthood.** Ezekiel 44:15 (also 40:46, 48:11) says so; the same verse has them "offer unto me the fat and the blood" (KJV), which bears on the sacrifice argument in Shabbat Studies.
+7. **Zadok was Levi's son.** Zadok was a priest under David (2 Samuel 8:17), descended from Levi through Aaron and Eleazar (1 Chronicles 6:1-8), many generations later.
+8. **The priesthood left Zadok two or three hundred years before Jesus.** The Hasmoneans took the high priesthood in 152 BCE (Jonathan); the Oniad Zadokites were displaced from about 175 BCE. Roughly consistent; see the DSS overview.
+9. **The Qumran community included Jesus's relatives; Essenes, Nazarenes and Ebionites were one group.** The repo argues continuity between them, not identity, and does not place Jesus's family at Qumran.
+10. **"In the seventh month on the 14th day" (Yom Teruah).** Leviticus 23:24 sets it on the first day of the seventh month; the 14th of the first month is Passover (23:5); the 14th of the second month is the second Passover (Numbers 9:11).
+11. **Jesus was born at Sukkot, which is why the inn was full.** An inference; Luke 2 names the census as the reason for travel.
+12. **Gingerbread men derive from Saturnalia cannibalism and the sacrifice of captured Jews.** No source given; the conventional history of gingerbread figures is late medieval and early modern Europe.
+13. **Christmas, Easter and Halloween are pagan holidays.** Debated history: see Shabbat claim 167 (December 25 and Sol Invictus); Easter's date was set by the Passover computation; Halloween is the eve of All Saints with disputed Celtic antecedents.
+14. **Chronology: "Noah was 535 when the flood happened"; dates given as 1056 "AD" and 1948 "BC."** Genesis 7:6 has Noah 600 at the flood. 1056 and 1948 are the Masoretic *anno mundi* years for Noah's and Abraham's births, not AD or BC dates. Shem outliving Abraham's birth holds on the Masoretic numbers (Genesis 11:10-11).
+15. **Enoch was removed because his book overturns later systems.** 1 Enoch was used by Jude (14-15) and kept in the Ethiopian canon; the reasons for its exclusion elsewhere are discussed in `christianity/ethiopian-bible/00-overview.md` → `### Why It Was Excluded`.
+16. **The Trinity is Babylonian.** The repo treats it as a fourth-century development from Greek philosophical categories, not a Babylonian import.
+17. **The angel of the Lord and the pillar of fire were the spirit of Yeshua.** A traditional Christian reading (Justin Martyr's *Dialogue* 56-62 identifies the angel as the pre-incarnate Word); not stated in the Hebrew Bible.
+18. **The northern tribes became the gentiles.** A reading held in some Hebrew Roots and British-Israel circles; no ancient source identifies the gentiles of Jesus's sayings with the ten tribes.
 
 ---
 

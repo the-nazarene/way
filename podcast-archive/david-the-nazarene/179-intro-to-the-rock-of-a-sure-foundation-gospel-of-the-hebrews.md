@@ -10,7 +10,95 @@
 
 ## Summary
 
-*Notes pending.*
+His introduction to *The Rock of a Sure Foundation: the Original New Covenant Scriptures of Yeshua of Nazareth and the Apostles Whom He Chose*, a free PDF of his own (almost 600 pages at letter size). It began as a personal New Testament where he corrected what he takes to be mistranslations (pisteuo toward a person as obey; dysnoeta in 2 Peter 3:16 as nonsense) and restored readings he holds to be earlier, and grew into a collection: a restored Gospel According to the Hebrews, John, the Nazarene Acts (his title for the Recognitions, in modern English from the Latin and Syriac), the Didache, James, 1-2 Peter, 1-3 John, Jude, the letters of Peter and Clement to James, Clement's Epitome of the Popular Sermons of Peter (his title for the Homilies, which he takes from Clement's letter), Revelation, and Eusebius's account of the murder of James. He calls it "not a translation but a restoration." Much of the first hour is framing: Josephus's "three philosophical sects" prompts him to treat religions as philosophies, contrasting a doing-God's-will philosophy (Moses, the Essenes, Yeshua, James, Peter, John) with a proof-text-and-loophole philosophy he traces to the Pharisees and Paul. Along the way: Matthew 28:19 and Didache 7 restored to baptism in Yeshua's name; the fish removed from the feeding of the multitude; meat details edited out of parables; Isaiah 28's covenant with death and Sheol read as also Saul (the same consonants), set beside the Didache's way of death, which he says Jerome traces to the Gospel of the Hebrews. The last section explains his method for the Gospel of the Hebrews: patristic quotations, the Jewish-Christian marginal notes, the Shem-Tob Hebrew Matthew, Lukan semitisms (following Stanford Rives and James R. Edwards), the Clementines' wording of Jesus' sayings, and a few lines from Thomas, with added verses numbered as .1.
+
+## Key Points
+
+- [00:00] The project began as a personal New Testament correcting mistranslations; pisteuo toward a person means obey, especially in John.
+- [01:35] Where the earliest manuscripts differ from later text, he restored the earlier reading; 2 Peter 3:16 dysnoeta as nonsense rather than hard to understand.
+- [03:11] He first heard of the Gospel of the Hebrews about eight years earlier, while in the Hebrew-roots movement; he holds it is the original Matthew, written in Hebrew soon after the ascension.
+- [04:45] Lost, he believes deliberately; quoted by Epiphanius, Eusebius, Justin, Jerome and Origen, often agreeing with Luke's wording against Greek Matthew; Luke likely used it as a source.
+- [07:58] The introductory letter in the book reads like an epistle; this video stands in for an introduction.
+- [09:30] Josephus's three philosophical sects (Pharisees, Sadducees, Essenes). He repeats his view (from the Esau/Edom series) that the Pharisees descend from Idumeans forcibly converted by John Hyrcanus.
+- [11:03] Religion as philosophy: Christianity as a philosophy shared across denominations.
+- [12:39] The modern Christian philosophy as he describes it: find one verse, ignore known mistranslations (pisteuo, dysnoeta).
+- [14:13] The early church's philosophy (Yeshua, James, Peter, John): do God's will, with texts in support of it. Paul as a Pharisaic infiltrator.
+- [15:48] The Essene quarter in Jerusalem becoming the Christian quarter within 40 years; the conflict as one of philosophies, not religions.
+- [17:25] Pharisaism continued as rabbinic Judaism; loopholes; Yeshua broke the Pharisees' added Sabbath rules, not the Sabbath.
+- [18:59] Paul's habit, as he reads it: Habakkuk 2:4 is faithfulness (obedience), not faith; "to the Jews I became as a Jew."
+- [20:32] The Nazarenes: Messiah's words first, Moses for what he did not address; the message meeting Greek philosophy (Plato, Pythagoras) and Paul.
+- [22:04] Modern Christianity as pagan philosophy mixed with Pauline Pharisaic philosophy; Judeo-Christian values as that blend.
+- [23:39] The aim is the earliest recoverable text: "not a translation but a restoration."
+- [25:11] Matthew 28:19 restored to make disciples in my name, from pre-300 references (his previous video).
+- [26:46] Why "Nazarene Acts of the Apostles" for the Recognitions: he holds that "pseudo-Clementine Recognitions" is a title that discourages reading.
+- [28:20] His Nazarene Acts: modern English from the 1800s translation checked against Latin and Syriac; a passage in book 3 left untranslated in the older English is supplied.
+- [29:54] "Popular Sermons of Peter" for the Homilies, from Clement's letter to James, which he reads.
+- [33:02] Paragraphing for dialogue; Didache baptism restored to the name of the Messiah Yeshua and living water.
+- [34:36] Footnotes link John and the Gospel of the Hebrews to the Nazarene Acts and Sermons (e.g. Recognitions 1.48 on the baptism voice).
+- [36:09] A companion file lists every patristic source behind each inserted line, chapter by chapter.
+- [37:43] Example: Epiphanius's Ebionite baptism account (the Spirit entering into him; today I have begotten you; the great light; John asks to be baptized), harmonized with Cyprian, Jerome and Origen.
+- [39:18] Every inserted quotation is traceable to its source.
+- [40:51] Marginal notes in early Greek manuscripts of Matthew citing the Jewish gospel (blessed are the poor, as in Luke); Lukan semitisms as a sign of a Hebrew source.
+- [42:25] He concludes the authors of the Recognitions and Homilies were reading the Gospel of the Hebrews; where Matthew and the Nazarene Acts differ, he follows the Nazarene Acts.
+- [44:02] The feeding of the multitude: five pre-200 references mention only bread; Eusebius; Matthew 16:9-10 mentions only loaves; textual critics on the fish as additions.
+- [45:35] His sixth-grade teacher at a Catholic parochial school said the fish references were added (the fish as a persecution-era symbol). He removed the fish. Epiphanius says the Ebionites mutilated the gospel, which he takes as evidence it had no meat-eating.
+- [47:10] Meat details in parables edited out. Stanford Rives quotes Erasmus on the duty to correct the gospels from early codices.
+- [48:42] He felt told by God that the experts have had 2,000 years to fix the text and will not.
+- [50:18] His table of contents, given as the New Testament he would assemble.
+- [51:54] He says he is starting from the ground up rather than removing books. Jerome, he says, connects the Didache to the Gospel of the Hebrews; the Two Ways may have opened the original Sermon on the Mount.
+- [53:28] The title: Peter as the rock; about 600 pages of Peter teaching about Yeshua in the Sermons and the Nazarene Acts.
+- [55:02] Isaiah 28 (house on the rock imagery; the overwhelming scourge).
+- [56:33] Isaiah 28:15: covenant with death and with Sheol; Sheol and Shaul share consonants, so it can be read as a covenant with Saul.
+- [58:09] Baptism unto life (Yeshua, Peter) against Paul's baptism into death.
+- [59:46] For Paul salvation comes at the death, for the apostles at the resurrection. Didache 5's way of death read.
+- [1:01:19] Earlier baptism video: eating dead flesh opens one to demons. His new playlist on Jesus and a vegetarian diet.
+- [1:04:27] Two mindsets: study the matter or find a gotcha verse (Leviticus, Noah). Epiphanius on the Ebionites not eating flesh because Jesus told them not to, and their gospel portraying Yeshua and the apostles not eating meat.
+- [1:05:59] Genesis 1:29 as the original diet.
+- [1:07:34] Method for the Gospel of the Hebrews: Stanford Rives's three volumes (volumes 1-2 suffice).
+- [1:09:07] Rives colour-codes the Shem-Tob Hebrew Matthew against an English Greek text; David followed that method with his own copy of Shem-Tob, with different results.
+- [1:10:40] Small wording changes usually come from Shem-Tob; whole sentences from the patristic quotations (e.g. Joseph and the Magi in chapter 2).
+- [1:12:16] Greek verse numbers kept; inserted material numbered .1.
+- [1:13:51] Free PDF; copyright registered only to stop others selling it.
+- [1:15:22] James R. Edwards, The Hebrew Gospel and the Development of the Synoptic Tradition: appendices of citations and Lukan semitisms.
+- [1:16:56] Most changes come from Shem-Tob or imported Luke, a few from Thomas. He expects an excavated Gospel of the Hebrews would contain the same material, perhaps in different places.
+- [1:18:29] Share freely, do not alter or charge. Print-on-demand possible if wanted (see file 180).
+
+## Sources He Cites
+
+- Josephus, War 2.8.2 (three philosophical sects). **Not held** at 2.8.2; the witnesses file holds War 2.8.5 and Ant. 18.1.5, and Porphyry 4.11 paraphrasing Josephus ("three kinds of philosophers among them").
+- Matthew 16:9-10; 28:19; Isaiah 28:14-19; Genesis 1:29; Habakkuk 2:4; 1 Corinthians 9:20; 2 Peter 3:16. **Held** (KJV).
+- Didache 5 (way of death), 7 (baptism). **Held** (Richardson).
+- Epiphanius, Panarion 30.13.7-8 (the baptism account); 30.13.2 (falsified and mutilated). **Held** (Wescoe).
+- Clement's letter to James (prefixed to the Homilies). **Held**.
+- Recognitions (Nazarene Acts) 1.48, 8.34 as footnote examples. **Held** (Smith); his own edition is a fresh modern-English version.
+- Jerome, Cyprian, Origen, Eusebius, Justin on the Gospel of the Hebrews; Jerome on the Didache. **Not held**.
+- Shem-Tob Hebrew Matthew; Stanford Rives, Original Gospel of Matthew (3 vols.); James R. Edwards, The Hebrew Gospel and the Development of the Synoptic Tradition (2009); Erasmus (quoted via Rives). **Not held**.
+- Gospel of Thomas (a few lines). **Held** (Lambdin).
+- Eusebius, Church History 2.23 (murder of James). **Excerpt held** (2.23.4-7).
+
+## Where This Overlaps the Repo
+
+- `christianity/hebrew-gospel-of-matthew.md` → `## The Patristic Evidence` and `### Gospel of the Hebrews`; his part 1 and 2 videos are noted in `183-what-is-the-gospel-of-the-hebrews-part-1-mentions-from-histo.md` and `184-what-is-the-gospel-of-the-hebrews-part-2-quotations-from-his.md` (184 covers the method and sources in more detail). File 180 is his update on the print edition.
+- `questions/trinity-deity-of-jesus.md` → `### "The Trinity is in Scripture even if the word isn't — Matthew 28:19 and 1 John 5:7."` (Matthew 28:19 and Didache 7).
+- `questions/sacrifice-culture-vegetarian-jesus.md` → `### "Jesus ate fish — Luke 24:42–43 — and he fed thousands with fish. The vegetarian claim is fiction."`; his feeding-of-the-multitude case is in files 070 and 182.
+- `questions/pauls-legitimacy.md` → `### "Peter personally endorses Paul — 2 Peter 3:15-16 calls him 'our beloved brother Paul.'"` (dysnoeta).
+- `questions/two-ways-kingdom-within.md` → `### 4. The Didache: the oldest Christian catechism opens with the Two Ways, not a creed`.
+- `questions/method-and-criteria.md` → `### 5. Ancient precedent: the Clementine "false pericopes" doctrine` (restoring a text from early witnesses).
+- `podcast-archive/david-the-nazarene/177-on-baptism-wedding-garments-marriage-feasts-and-the-law-of-d.md` (the baptism video he refers back to).
+
+## Claims to Check
+
+1. **Epiphanius's baptism account.** The held text matches in substance: 30,13,7b "he beheld the Holy Spirit in a dove's likeness, coming down and entering into him"; 30,13,7c "Today I have begotten you"; 30,13,7d "a great light shone round the place"; 30,13,8a-b John asks to be baptized and is prevented. Epiphanius presents it as the Ebionites' gospel, which he calls "falsified and mutilated" (30,13,2a); whether the Ebionite gospel and the Gospel of the Hebrews are one text is the question taken up in 183/184.
+2. **Didache baptism originally read "in the name of the Messiah Yeshua."** The held Didache 7.1 (Richardson) reads "in the name of the Father and of the Son and of the Holy Spirit"; Didache 9.5 has "those baptized in the Lord's name." His restoration rests on 9.5 and pre-300 testimony; no Didache manuscript reads otherwise at 7.1.
+3. **Matthew 28:19 originally read "in my name."** The pre-Nicene evidence he refers to (his previous video) is mainly Eusebius's shorter citations; no Greek manuscript lacks the triadic formula.
+4. **Epiphanius says the Ebionites refused flesh because Jesus told them not to.** In the held Panarion, 30,15,4 gives their reason as "because they come from intercourse and the mingling of bodies"; 30,22,4 records their Passover saying ("I have not longed with longing to eat meat this Passover with you"). Neither passage states that their gospel had no meat-eating.
+5. **The fish appear in no reference before 200, and Eusebius knows only bread.** Not checked here; the sources are not held. KJV Matthew 16:9-10 names only loaves.
+6. **Jerome says the Didache comes from the Gospel of the Hebrews.** Not held; Jerome is usually cited for quoting the Gospel of the Hebrews, not for a Didache source claim.
+7. **Isaiah 28:15's Sheol can be read as Shaul (Saul).** KJV 28:15: "We have made a covenant with death, and with hell are we at agreement." The consonantal identity of sh'l is real; the reading as Saul of Tarsus is his.
+8. **Pharisees as Idumean converts under Hyrcanus.** His position from the Esau/Edom series (files 127-129); Josephus (Ant. 13.9.1) records the forced conversion of the Idumeans, not their becoming Pharisees.
+9. **The Essene quarter became the Christian quarter within 40 years.** Not sourced in the video.
+10. **pisteuo toward a person means obey; dysnoeta means nonsense.** Lexical claims; dysnoetos is usually glossed "hard to understand."
+11. **Luke used the Gospel of the Hebrews.** Edwards's thesis, as he presents it.
 
 ---
 

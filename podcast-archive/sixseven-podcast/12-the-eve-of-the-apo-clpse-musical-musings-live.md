@@ -10,7 +10,58 @@
 
 ## Summary
 
-*Notes pending.*
+A late-night music livestream recorded on April 7, 2024, the night before the North American solar eclipse, which Chris nicknames the apocalypse-eclipse ("the eve of the Apocalypse"). Most of the three and a half hours is Chris building a song live on looper, keys, bass and samples (the refrains "let's just have fun and sing our worries away" and "will you be patient, will you be true"), with long walkthroughs of his vocal and recording chain for viewers who ask about it. Between takes he answers chat questions. The talk segments cover the coincidence of the eclipse with CERN's Large Hadron Collider restarting, the statue in CERN's courtyard, NASA's eclipse sounding rockets (named, he says, after Apep, the Egyptian destroyer serpent), the British royal family's health news read as a sign of a reserve-currency changeover, and a run of current events (Ecuador's raid on the Mexican embassy, red heifers and the Temple Mount, six months since October 7, an earthquake near New York). His own position, repeated several times: he does not expect anything to happen, anything that does will happen "in the background," and the hype is something he does not trust. Near the end he answers two viewer questions: whether his family supported his change in belief about Yeshua (yes; his parents had been on a parallel journey), and whether his diet is the original, pre-fall design (yes: Genesis's seed-bearing plants and herbs, the grinding jaw, a design he believes Yeshua and his most faithful apostles put forward). He closes with a sung prayer for every child to see through the noise to the Creator.
+
+## Key Points
+
+- [00:00] Opening jam: it is April 7, "the eve of the Apocalypse," named for the eclipse everyone is making a big deal of.
+- [11:14] Personal notes in passing: his wife is from Sweden; they married there, he says, "to the state a California" before he knew better.
+- [15:56] CERN: the collider, he says, has been shut down for two years and powers on the same day as the eclipse; viewers are pointed to the "statue in the courtyard" at CERN, which he identifies as a god of destruction.
+- [19:05] He reads "CERN" as containing "con," and paraphrases a 2015 photo and statement about opening a door or portal (he says he is paraphrasing).
+- [34:40] Answering whether the British royal situation connects to the eclipse: yes, in his view, because the royals represent a financial character on the world stage.
+- [36:15] Reserve currencies change hands over time (he lists the Swiss franc, the Spanish currency, the pound, the dollar); he believes a switch is under way and that the Old Guard is being dismantled strategically.
+- [39:24] NASA's eclipse rockets named after Apep, the Egyptian destroyer; he contrasts the name with the stated purpose of measuring upper-atmosphere temperature changes.
+- [41:00] Current events: Ecuador's raid on a Mexican diplomatic post; red heifers and tension on the Temple Mount, linked to statements around October 7; [42:32] Putin and Moscow, the royal family's health news; [44:05] April 7 is six months from October 7.
+- [53:38] A viewer's comment that the powerful are building bunkers to hide from God; he adds that they cannot hide from the contractors who built them.
+- [56:49] On eschatology and hermeneutics: he does not want to go deep tonight; the eclipse is the blank square in Scrabble, "it can kind of work for anything."
+- [1:11:15] He says he has "no clue," does not "really care," and is "pretty sure nothing's going to happen"; the hype is "a energy harvesting session" and he tries to turn that energy back into something useful; "I'm going trust the most high."
+- [1:12:49] On "vibe high": he agrees in principle but says the phrase is usually associated with a subculture "just as lost as everyone else's"; peace and quietness are how one rises.
+- [1:38:12] He lived and worked in Los Angeles for ten years and is now in North Carolina.
+- [2:18:47] The hook's meaning: "taking responsibility for my life" (family, mind, heart, body, soul) while waking up, dealing with drama and spiritual warfare.
+- [2:20:21] Verse idea from 2 Timothy 1:7 (God has not given a spirit of fear but of power, love and a sound mind); "fear is not of the father," remember who is in charge.
+- [2:58:52] Viewer question (from someone who watched the first episode of the series he made with his wife): was his family supportive when his beliefs about Yeshua changed? Yes; [3:00:28] his parents had already been on their own parallel journey away from the traditions of men.
+- [3:06:54] Viewer question: is his diet biblical, the way humans ate before sin? Yes: grinding jaws versus a lion's clamping jaw, Genesis's seed-bearing fruits, plants and herbs; he believes that design was "put forth by Yeshua and his most faithful Apostles" and that much about them has been misrepresented, a subject for another night.
+- [3:29:25] Closing reflection: the eclipse is natural, but he wonders whether such things can be staged ("fake the funk"), and says "I don't trust nothing they hyping up."
+- [3:32:33] Closing prayer: that every boy and girl see through the nonsense to the Creator of all things, the life-bringer.
+
+## Sources Cited
+
+- Genesis 1:29 (seed-bearing plants and fruit as food), referred to, not read. **Held** (KJV).
+- 2 Timothy 1:7, sung as a lyric idea. **Held** (KJV): "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind."
+- Daniel 9, raised in a viewer's question about eclipses and earthquakes; not discussed. **Held** (KJV).
+- CERN's courtyard statue and a 2015 CERN photo and statement, described from memory. Not held.
+- NASA's eclipse rocket mission, described from memory. Not held.
+- News items (Ecuador and Mexico, red heifers, October 7, the British royal family, an earthquake near New York). Not held.
+- Shabbat Studies with Jen & Chris, referred to by a viewer as the first episode of his series with his wife. In the repo: `podcast-archive/shabbat-studies/`.
+
+## Where This Overlaps the Repo
+
+- `christianity/biblical-case-for-vegetarian-jesus.md` → `### Genesis 1:29` and `### James the Just -- Vegetarian from Birth` (his answer that the plant diet was the original design and was taught by Yeshua and his closest apostles).
+- `questions/sacrifice-culture-vegetarian-jesus.md` → `### 4. The people closest to him held the same line`.
+- `questions/rapture-end-times.md` → `### 3. Jesus denied that the kingdom arrives by observable signs — and sign-watching is the engine of the whole system` (his treatment of the eclipse as a blank square that can fit any reading).
+- `podcast-archive/shabbat-studies/00-overview.md` → `### Practice` (the same household's diet; the family question refers to that series).
+
+## Claims to Check
+
+1. **CERN's collider was shut down for two years and restarted on eclipse day.** The LHC's second long shutdown ran 2018-2022; in 2024 it restarted after its usual winter stop, with beams back in March and physics running in April. Check CERN's 2024 schedule for April 8.
+2. **The statue in CERN's courtyard is a god of destruction.** It is a Shiva Nataraja (Shiva as the cosmic dancer), a gift from India in 2004. In Hindu tradition Shiva's dance is creation and destruction together.
+3. **The 2015 "door" or "portal" statement by CERN's head.** Offered as a paraphrase; no source given.
+4. **NASA's eclipse rockets were named after Apep.** NASA's 2024 mission was APEP (Atmospheric Perturbations around the Eclipse Path), three sounding rockets from Wallops; the team linked the acronym to Apep, the Egyptian serpent of chaos who swallows the sun.
+5. **The order of world reserve currencies.** Usual lists run Portuguese, Spanish, Dutch, French, British pound, US dollar; the Swiss franc is not usually counted among them.
+6. **A royal-family illness signals a reserve-currency changeover.** His interpretation.
+7. **The current-events items.** Ecuadorian police entered the Mexican embassy in Quito on 5 April 2024 to arrest former vice president Jorge Glas (in Ecuador, not a consulate in Mexico); a magnitude 4.8 earthquake centred in New Jersey and felt in New York struck on 5 April 2024; Hamas's spokesman did mention red heifers in a January 2024 statement about October 7.
+8. **The grinding-jaw argument for a plant diet.** A common argument; human teeth and jaws are usually classed as omnivorous.
+9. **Yeshua and his most faithful apostles taught the original plant diet.** Stated, with the case deferred to another night; the repo's own evidence is in the vegetarian files above.
 
 ---
 

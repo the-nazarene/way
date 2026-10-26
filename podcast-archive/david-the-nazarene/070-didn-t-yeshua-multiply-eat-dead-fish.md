@@ -10,7 +10,44 @@
 
 ## Summary
 
-*Notes pending.*
+A short answer to the fish objection, built on two arguments. First, a method point: on a scroll or codex the easiest place to alter a text is the end, which is why the passages he questions sit there (2 Peter's "our beloved brother Paul," the longer ending of Mark, John 21 with the risen Jesus cooking fish on the shore, and the last verses of Luke, which he reads as an anti-Marcion addition by the orthodox church, since Marcion used Luke alone). Second, the feeding of the five thousand: a fish-multiplying Jesus does not fit followers who did not eat flesh and said he taught them so, and the earliest outside references he can find (Irenaeus twice, Arnobius, Eusebius's *Proof of the Gospel*) mention only the loaves. Inside Matthew, Jesus himself recalls the two feedings two chapters later by the loaves alone (Matthew 16:9-11), and Matthew 14:19 has him giving "the loaves" to the disciples. His theory: someone added the fish to both feeding stories and missed those two places.
+
+## Key Points
+
+- [00:00] Altering a scroll means replacing text, so the end of a document is the easiest place to make a change; the most questionable interpolations sit at the end. Example: 2 Peter's "our beloved brother Paul."
+- [01:36] The longer ending of Mark is missing from some of the earliest copies; John appears to end at chapter 20 and chapter 21, with the fish on the shore, is tacked on; the last verses of Luke he calls "anti Marcion," added because Marcion used only Luke.
+- [01:36] The feeding question: did he multiply "dead fish"?
+- [03:10] It does not fit: if his earliest followers did not eat flesh and said he taught them that, he would not feed the crowd flesh; the Ebionites, Essenes and related groups did not eat animals. External references to the event do not mention the fish.
+- [03:10] Matthew 14:19 read: five loaves, two fish, twelve baskets, five thousand men besides women and children.
+- [04:45] Irenaeus, Against Heresies, mentions the event twice, with loaves and fragments and no fish; Arnobius (end of the 3rd century) the same.
+- [04:45] Eusebius, *Proof of the Gospel*: five thousand men plus women and children satisfied with five loaves; no fish.
+- [06:21] Matthew 16:9-11 read: Jesus recalls the five loaves of the five thousand and the seven loaves of the four thousand, and does not mention fish; the leaven of the Pharisees and Sadducees he ties to Peter's teaching that the scribes added to the scriptures.
+- [07:54] Theory: the fish were added to both feeding accounts; the alterer missed 16:9-11 and the third mention in 14:19, where he gave "the loaves" to the disciples. He says this comes from weighing the Bible, the historical references and what Jesus's followers taught, not from fitting the text to his beliefs.
+
+## Sources He Cites
+
+- Matthew 14:17-21; 15:34-36; 16:5-12. **Held** (KJV). 14:19: "took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude." 16:9-10: "Do ye not yet understand, neither remember the five loaves of the five thousand ... Neither the seven loaves of the four thousand."
+- Mark 16:9-20; John 21; Luke 24 (closing verses); 2 Peter 3:15. **Held** (KJV).
+- Irenaeus, Against Heresies 2.22.3 and 2.24.4 (he gives no book numbers). **Held** (Roberts, ANF 1; `christianity/Incoming/irenaeus-against-heresies-full-text.md`, added 2026-10-26, not yet audited). 2.22.3: "fed all that multitude with five loaves of bread, and twelve baskets of fragments remained over and above"; 2.24.4: "after blessing the five loaves, fed with them five thousand men." Neither mentions fish.
+- Arnobius, Against the Heathen (no section given; the "was he one of us" passage is 1.46). Not held.
+- Eusebius, Demonstratio Evangelica, on the feeding (no section given). Not held; the witnesses file excerpts only 3.5's abstinence passage.
+- Peter on additions to scripture (by reference; the Homilies' false-pericopes teaching, 2.38, 3.42-50). **Held**.
+
+## Where This Overlaps the Repo
+
+- `questions/sacrifice-culture-vegetarian-jesus.md` → `### "Jesus ate fish — Luke 24:42–43 — and he fed thousands with fish. The vegetarian claim is fiction."` (makes the same loaves-only point from Mark 8:19-21).
+- `christianity/biblical-case-for-vegetarian-jesus.md` → `## V. The "Fish" Question` (`**The Loaves Tradition:**`).
+- `questions/method-and-criteria.md` → `### 3. The seams are in the manuscripts, not in our opinions` (Mark 16:9-20).
+- `questions/pauls-legitimacy.md` → `### "Peter personally endorses Paul — 2 Peter 3:15-16 calls him 'our beloved brother Paul.'"`; his own videos 156 and 226 in this folder.
+- File 182 in this folder returns to the feeding stories at length; file 006 gives his earlier, tentative answer on fish (Friedman, fish outside the sacrificial system).
+
+## Claims to Check
+
+1. **Matthew's two recalls mention only the loaves.** Held text agrees for Matthew 16:9-10 and Mark 8:19-20. The parallel feeding accounts in the held KJV do distribute the fish: Mark 6:41 "the two fishes divided he among them all"; Mark 6:43 "twelve baskets full of the fragments, and of the fishes"; Mark 8:7 the few small fishes "set ... also before them"; John 6:11 "likewise of the fishes as much as they would"; Matthew 15:36 "the seven loaves and the fishes."
+2. **Irenaeus, Arnobius and Eusebius cite the feeding without fish.** Irenaeus is held and both passages read as he says. 2.22.3 is a list of Jesus's movements from John's gospel (the "other side of the sea of Tiberias" is John 6:1), and 2.24.4 is an argument about the number five (five letters in Soter, five loaves, five virgins), so the five loaves are the point there. Arnobius and Eusebius's feeding passage are not held. Whether a summary that omits the fish means the writer's gospel lacked them is an inference.
+3. **Interpolations cluster at the ends of texts.** Mark 16:9-20 is a recognised textual problem (on the method card). John 21 is widely treated as an epilogue, but no manuscript of John lacks it. No manuscript of Luke ends before 24:44-53 (some omit phrases in 24:51-52).
+4. **Luke's ending was added against Marcion.** His reading; some scholars (e.g. Tyson, Knox) argue for a post-Marcion final edition of Luke-Acts.
+5. **Ebionites, Essenes and related groups did not eat flesh.** Panarion 30.15.3-4 (Ebionites) and 18.1.4 (Nasaraeans) are held; for Essenes the held witnesses file notes that Philo, Josephus and Porphyry do not state Essene vegetarianism, and Jerome does.
 
 ---
 

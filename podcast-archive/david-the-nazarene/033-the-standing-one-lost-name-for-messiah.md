@@ -10,7 +10,56 @@
 
 ## Summary
 
-*Notes pending.*
+A short study building on his earlier presentation that the pre-incarnate Messiah is the angel of YHWH. Starting from the Nazarene Acts (Recognitions 1.72 and 2.7), where Simon Magus claims to be "the standing one," that is, the Messiah, he asks whether "the Standing One" was once a name for the Messiah himself. He gathers three strands: Epiphanius's report of the Elchasaite and Ebionite Christ as a giant power ninety-six miles tall; a Jewish shofar prayer that names Yeshua as Prince of the Face alongside Metatron, with the Shi'ur Qomah and 3 Enoch's giant Metatron (and 3 Enoch's 24 angels casting crowns, set beside Revelation 4); and the many passages where the angel of YHWH stands (Genesis 18 and 28, Exodus 14, Numbers 22, Joshua 5). He ties standing to righteousness and justice (tsedaqah and mishpat: relieving the oppressed, punishing the oppressor), then lists righteous men who stand in that role (Abraham, Joseph, Moses, Aaron, Phinehas, James on the temple pinnacle) and passages where Yeshua stands (John 7:37, Acts 7:56). Hippolytus on the Ebionites becoming Christs by keeping the law, and the Recognitions on the oil from the tree of life, give him the idea that the obedient become a shadow of the Messiah. He says he is not promoting Jewish mysticism, only noting a possible ancient understanding.
+
+## Key Points
+
+- [00:00] Recap of his earlier view: the angel of YHWH in the Tanakh is the pre-incarnate Messiah. Recognitions 1.72 (Snyder's Nazarene Acts): James sends Peter to Caesarea because Zacchaeus wrote that Simon, a Samaritan magician, was asserting he was "the standing one," that is, the Messiah.
+- [01:35] Recognitions 2.7: Simon's parentage, a Samaritan of the Gettones, wishes to be thought the Messiah and called the Standing One. Epiphanius on the Elchasaites (and again in Panarion 30 on the Ebionites): Christ as a power 24 schoeni (96 miles) long.
+- [03:11] A Jewish siddur prayer for the shofar blasts names Yeshua as Prince of the Face; he stresses it is a Jewish prayer book, not a Messianic one.
+- [04:44] A second version (an Orthodox machzor, which he dates to the 1800s) names Yeshua alongside Metatron. A rabbi David Cooper website on the Sar ha-Panim as the greatest angel, sometimes called the little YHWH, earlier named Yahoel.
+- [06:18] He disclaims promoting Jewish mysticism. Shi'ur Qomah: Rabbi Ishmael's measurements of a giant figure. Rabbi Ishmael as the narrator of 3 Enoch.
+- [07:52] 3 Enoch's 24 princes casting crowns before Metatron set beside Revelation 4's 24 elders; he suggests 3 Enoch as a study for anyone with time. Righteousness and justice as a hendiadys for social and economic equity.
+- [09:26] Genesis 18: Abraham chosen to keep the way of YHWH, doing righteousness and justice; YHWH stands before Abraham; Abraham argues for the righteous of Sodom.
+- [11:03] Genesis 28: YHWH stands above the ladder, which he takes to be the angel of YHWH; Exodus 14: the messenger and the pillar of cloud move and stand behind the camp.
+- [12:37] Judges 2: the messenger of YHWH speaks as the one who brought them out and made the covenant (Bochim). Exodus 23:20-21 (my name is in him) and Exodus 32:34.
+- [14:11] Numbers 22: the messenger of YHWH stands in Balaam's way, which he counts as seven or eight mentions of standing.
+- [15:45] Joshua 5:13-15: the captain of the host of YHWH, standing, sword drawn; remove your sandal, a reprise of the burning bush. Isaiah 11:10 (the root of Jesse shall stand as a banner).
+- [17:18] Micah 5:2-4 (he shall stand and shepherd). Hippolytus, Refutation of All Heresies: the Ebionites say Jesus was justified by fulfilling the law and they too can become Christs.
+- [18:52] Recognitions 1.45: the Messiah anointed with oil from the tree of life, who anoints the obedient in his kingdom; so the obedient become a type and shadow of the Messiah. Abraham standing before YHWH (Genesis 19:27).
+- [20:24] Joseph stood before Pharaoh at thirty; Jacob on his deathbed strengthens himself and sits up (Genesis 48); Moses stands up for the daughters of the priest of Midian (Exodus 2).
+- [21:58] Moses stands in the camp gate after the calf; Aaron stands between the dead and the living (Numbers 16); Phinehas stands up (Numbers 25).
+- [23:31] James told to stand on the pinnacle of the temple and testify (Hegesippus's account of James's death); Yeshua stood and cried out at the feast (John 7:37-41); Stephen sees the Son of Man standing at the right hand (Acts 7:55-56).
+- [25:07] Conclusion: the Standing One relates both to the angel of YHWH and to anyone performing righteousness and justice, and is "a lost name of the Messiah" with traces in scripture.
+
+## Sources He Cites
+
+- Recognitions 1.72, 2.7, 1.45, read in Snyder's Nazarene Acts. **Held** (Smith). Smith 2.7: "to be thought to be the Christ, and to be called the Standing One." Smith 1.45: "Him first God anointed with oil which was taken from the wood of the tree of life."
+- Homilies 2.22 (Simon "styles himself the Standing One"), not cited by him. **Held**.
+- Epiphanius, Panarion 19 (Elchasai) and 30 (Ebionites). **Held** (Wescoe): 19,4,1 and 30,17,6a.
+- Hippolytus, Refutation of All Heresies (the Ebionite passage, usually 7.34). **Not held**.
+- Hegesippus on James's death (via Eusebius, Church History 2.23). **Excerpt held** (2.23.4-7 only); the pinnacle scene (2.23.10-18) is **not held**.
+- A Jewish siddur prayer and an Orthodox machzor (Sar ha-Panim, Metatron), shown on screen; Shi'ur Qomah; 3 Enoch; a website by rabbi David Cooper. **Not held**.
+- Genesis 18:19-23, 19:27, 28:12-13, 41:46, 48:2; Exodus 2:17, 14:19-20, 23:20-21, 32:26, 32:34; Numbers 16:46-48, 22:22-34, 25:7-8; Joshua 5:13-15; Judges 2:1-5; Isaiah 11:10; Micah 5:2-4; John 7:37-41; Acts 7:55-56; Revelation 4:10. **Held** (KJV); he reads a Hebrew-roots translation.
+
+## Where This Overlaps the Repo
+
+- `christianity/clementine-literature-nazarene-writings.md` (the Clementine texts generally); `extended-library/nazarene-acts-snyder-notes.md`, item 11 on the Standing One as Samaritan and Simonian vocabulary.
+- `podcast-archive/david-the-nazarene/191-is-the-identity-of-paul-s-messiah-revealed-in-the-nazarene-a.md` (his later Simon Magus theory, built on the same Recognitions material).
+- `questions/trinity-deity-of-jesus.md` → `### 1. The subordination runs one direction and is never reversed` (an angelic, subordinate Messiah bears on this card; the card does not discuss angel Christology).
+- `questions/essene-nazarene-origins.md` → `### "The Ebionites were heretics. Irenaeus and Epiphanius both say so."` (Epiphanius's 30,17,6a report is in the chapter that card relies on).
+
+## Claims to Check
+
+1. **Recognitions 1.72 uses "the Standing One."** Smith's held text at 1.72 reads "asserting that he was one Stans, [598] --that is, in other words, the Christ, and the great power of the high God"; the English "Standing One" appears in Smith at 2.7. The wording he reads at 1.72 is Snyder's.
+2. **Simon's father is Antigonus.** Smith 2.7 and Homilies 2.22 both give "Antonius"; the village is "of the Gettones" (Recognitions) or "Gitthae" (Homilies). The auto-captions may have misheard.
+3. **Epiphanius's 96-mile Christ.** Held text matches: 19,4,1 "twenty-four schoeni in length, that is, ninety-six miles"; 30,17,6a "ninety-six miles in length, supposedly twenty-four schoeni." Neither passage uses the phrase "Standing One"; the link between the giant figure and the Standing One is his.
+4. **A Jewish prayer names Yeshua as Prince of the Face.** The prayer and the machzor are not held; the edition and date of the version he shows are not given.
+5. **3 Enoch's 24 princes cast crowns before Metatron, parallel to Revelation 4.** 3 Enoch is not held. KJV Revelation 4:10 has the twenty-four elders casting their crowns before the throne.
+6. **Hippolytus: the Ebionites say they become Christs by fulfilling the law.** Not held.
+7. **The angel of YHWH is the pre-incarnate Messiah.** His interpretation, carried over from an earlier presentation.
+8. **"Standing One" was a lost name for the Messiah.** His thesis; in the held Clementine texts the title appears as Simon's self-designation.
+9. **James on the pinnacle.** Hegesippus via Eusebius 2.23; the held excerpt stops before the pinnacle scene.
 
 ---
 

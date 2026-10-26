@@ -10,7 +10,26 @@
 
 ## Summary
 
-*Notes pending.*
+A short appeal recorded after Hurricane Helene struck the North Carolina mountains (late September 2024). Chris says he lives in a part of North Carolina that is fine, but a friend in the hardest-hit area lost much of his town and is struggling, and his wife is due to give birth any day. He says the federal response has been lacking, plays a brief clip of someone saying FEMA has brought nothing and takes over donations, and says a local church group has contacted him about getting aid past checkpoints that have obstructed civilian volunteers. He asks for donations through his Venmo and Cash App, promising transparency, and says the greatest need is communications: a Starlink base station and walkie-talkies, plus food for his friend's family, delivered directly.
+
+## Key Points
+
+- [00:00] A friend in the area where the eye passed, half his city washed away; federal help "lacking"; a clip on FEMA; a church group working to get aid past checkpoints.
+- [01:33] Donations by Venmo and Cash App, with transparency; distrust of federal and state government; communications as the main need.
+- [01:33] A Starlink base station, walkie-talkies, food; the friend's wife due any day; people driving to find power and internet.
+- [03:07] He would go himself with a helicopter; helping by proxy.
+
+## Sources Cited
+
+- A short clip of an unnamed person describing FEMA's role. Not held.
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **FEMA brought nothing, took donations, and blocked civilian aid at checkpoints.** Contested at the time: FEMA, state officials and news outlets disputed claims of seized donations; there were reports of road closures and access restrictions for safety and of tension over private aid flights. Specific incidents would need dates and places.
 
 ---
 

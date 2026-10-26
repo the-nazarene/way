@@ -255,6 +255,45 @@ show the verse text in the reader pane. Note for the semantic index: this adds
 
 ---
 
+## import-westcott-hort.py and import-ebible.py — the Greek NT, the Septuagint, JPS 1917
+
+Three more public-domain Bibles in the same one-verse-per-line form as `kjv/`
+(added 2026-10-26 for PROCESSING-ROADMAP Next Up 18):
+
+| Folder | Text | Script | Source download |
+|---|---|---|---|
+| `christianity/Incoming/greek-nt-westcott-hort/` | Westcott-Hort Greek NT (1881) | `import-westcott-hort.py` | the `textonly/*.WH` files (and `TITLES.W-H`) from https://github.com/byztxt/greektext-westcott-hort |
+| `christianity/Incoming/septuagint-brenton/` | Brenton's English Septuagint (1844/1851) | `import-ebible.py brenton` | `eng-Brenton_vpl.zip` from https://ebible.org/Scriptures/details.php?id=eng-Brenton |
+| `christianity/Incoming/jps-1917/` | JPS 1917 Hebrew Bible in English | `import-ebible.py jps` | `engjps_vpl.zip` from https://ebible.org/Scriptures/details.php?id=engjps |
+
+Downloads are untrusted data: put them in their own folder under the
+git-ignored root `/Incoming/`, unzip there, and run the scripts with `python -I`:
+
+```
+python -I scripts/import-westcott-hort.py Incoming/<folder>/wh-textonly
+python -I scripts/import-ebible.py brenton Incoming/<folder>/eng-Brenton/vpl/eng-Brenton_vpl.txt
+python -I scripts/import-ebible.py jps     Incoming/<folder>/engjps/vpl/engjps_vpl.txt
+```
+
+Things to know before grepping:
+
+- **Westcott-Hort is unaccented lower-case Greek** (the digital text has no
+  accents or breathings): grep `καθαριζων`, not `καθαρίζων`. WH's `[ ]` and
+  `[[ ]]` brackets are kept as printed; verses WH omit get a "no text" line.
+- **Brenton uses the Septuagint's numbering** (Psalm 39:7 here = Psalm 40:6 in
+  English; Jeremiah 25-51 in Septuagint order) and lettered verses for
+  Septuagint-only text (Joshua 9:2a-f). `[ ]` marks Brenton's supplied words.
+- **JPS 1917 uses the Hebrew numbering it was printed with.** eBible ships it
+  renumbered to the KJV with JPS's numbers inline as `(51-3)`; the script
+  restores the JPS numbers, checks they run without gaps, and labels any line
+  whose KJV number differs: `**40:7** _(KJV 40:6)_ Sacrifice and meal-offering ...`.
+
+`import-ebible.py` takes any eBible VPL file given a `PROFILES` entry (book
+list, folder, header text). All three are idempotent: re-running overwrites the
+same files and the folder's `00-README.md`.
+
+---
+
 ## processing-status.py
 
 Keeps `PROCESSING-ROADMAP.md` current and catches duplicates before anything is added.

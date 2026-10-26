@@ -10,7 +10,51 @@
 
 ## Summary
 
-*Notes pending.*
+Objection two in his series answering skeptics of Peter's testimony in the Clementines and the historical accounts of the Nazarenes (part three, on Leviticus, is announced at the end). The objection: Genesis 9:3 gives Noah every moving creature for food. His answer turns on the Hebrew noun *remes* (Strong's 7431). In Genesis 1:24-25 it names a third class of animal, "creeping thing," distinct from livestock and from beasts of the earth; everywhere else it is rendered creeping or swarming things, and only at 9:3 as "moving thing"; the Septuagint has "reptile." So Noah, coming off the ark in a survival situation, was allowed cold-blooded creeping creatures (reptiles, insects), which he compares to a Marine survival class on eating ants, and 9:4's concern with blood fits that distinction. Further, 9:1-7 is addressed to Noah and his sons, while the covenant for all mankind begins at 9:8, so the permission was not for all history. He then asks why the flood came and answers from Homilies 8.15-16: the giants, not content with pure food, first tasted flesh, men imitated them, and when the animals ran short they ate human flesh; this was the violence that filled the earth (Genesis 6:11-13), which he says agrees with Enoch. He closes with Homilies 7.4 (not to taste dead flesh) and Matthew 16:19: Peter holds the keys, so what Peter binds about meat is bound in heaven.
+
+## Key Points
+
+- [00:00] Series frame: answering objections to Peter's testimony in Clement's writings; objection two is Genesis 9; part three will take Leviticus. Genesis 9:1-4 read from the ISR Scriptures ("every moving creature that lives is food for you").
+- [01:34] The question hinges on "moving creature": Hebrew *remes*, Strong's 7431, used earlier in Genesis 1:24-25 for "creeping thing."
+- [01:34] Genesis 1:24-25 lists three kinds: livestock, creeping creatures and beasts of the earth. He takes livestock and beasts as domesticated and wild, and creeping things as a separate class (lizards, snakes, insects), so livestock is not included.
+- [03:07] *Remes* is rendered "moving thing" only once (Genesis 9:3); elsewhere creeping thing, creeps, or swarms.
+- [04:41] Why permit creeping things? A survival circumstance; his Marine survival class and the story of a Marine who lived for weeks on ants.
+- [06:14] The Septuagint renders it reptile, which he takes as confirmation; Genesis 9:4's mention of blood points to cold-blooded animals.
+- [07:50] Genesis 9:1-7 is addressed to Noah and his sons; from 9:8 the covenant is with them, their seed and every living creature, so the food permission is not a rule for all mankind.
+- [09:25] Why the flood? Genesis 6:4, 11-13: the Nephilim, corruption, and the earth filled with violence.
+- [11:00] Homilies 8.15-16 read: the giants, of bastard nature, not pleased with purity of food, first tasted flesh; men imitated them; when animals fell short they ate human flesh. He says this lines up with Enoch, and compares the famine cannibalism in the siege of Jerusalem in Josephus.
+- [12:33] Homilies 7.4 read: what pleases God includes abstaining from the table of devils, not tasting dead flesh, not touching blood, and the golden rule.
+- [12:33] From the Nazarene Acts: listeners are responsible for studying the texts themselves.
+- [14:07] Matthew 16:19: Peter was given the keys; if Peter forbids meat, it is bound in heaven; and Peter says in the Recognitions and Homilies that he only repeats what Jesus told him.
+
+## Sources He Cites
+
+- Genesis 1:24-25; 6:4, 11-13; 9:1-12. **Held** (KJV); he reads the ISR Scriptures. KJV 9:3: "Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things."
+- Strong's 7431 (*remes*). Not held.
+- Septuagint, Genesis 9:3. **Held** (Brenton, `christianity/Incoming/septuagint-brenton/01-genesis.md`): "And every reptile which is living shall be to you for meat, I have given all things to you as the green herbs."
+- Clementine Homilies 8.15-16. **Held** (Smith/Peterson, ANF 8): "they, on account of their bastard nature, not being pleased with purity of food, longed only after the taste of blood. Wherefore they first tasted flesh." 8.16: "when irrational animals fell short, these bastard men tasted also human flesh."
+- Clementine Homilies 7.4. **Held**: "to abstain from the table of devils, not to taste dead flesh, not to touch blood."
+- 1 Enoch (by reference; 7:3-6 is the parallel). **Held** (Charles): the giants "devoured mankind. And they began to sin against birds, and beasts, and reptiles, and fish, and to devour one another's flesh, and drink the blood."
+- Josephus on cannibalism in the siege of Jerusalem (War 6.3.4). Not held.
+- Matthew 16:19. **Held** (KJV).
+- Recognitions (Snyder's Nazarene Acts) on studying for oneself; no passage given. **Held** (Smith).
+
+## Where This Overlaps the Repo
+
+- `questions/MINING-2026-10-debates.md` lists "**Gen 9:3 is the Noahic covenant**" as an argument not yet answered on the cards; this video is one answer to it.
+- `questions/nazarene-sect-sacrifice-and-diet.md` (cites Homilies 7.4, "not to taste dead flesh, not to touch blood").
+- `christianity/biblical-case-for-vegetarian-jesus.md` → `## I. The Genesis Ideal: God's Original Diet`.
+- Homilies 8.15-16 (flesh-eating begins with the giants) is not used in any research file or card.
+- Panarion 18,3,4 (held) gives Epiphanius's version of the Noah permission against the Nasaraeans: "Behold, I have given you all things as the herbs of the field; sacrifice and eat".
+
+## Claims to Check
+
+1. ***Remes* is rendered "moving thing" only at Genesis 9:3.** In the held KJV, 9:3 has "moving thing" and 1:24 "creeping thing." Note that 9:2 in the same speech names "every beast of the earth ... every fowl of the air ... all the fishes of the sea" (KJV); whether 9:3's permission covers the 9:2 list is the point at issue.
+2. **The Septuagint reads "reptile."** Held Brenton agrees: 9:3 "every reptile which is living"; at 1:24 the same word stands beside "quadrupeds" and "wild beasts" ("quadrupeds and reptiles and wild beasts of the earth"). Brenton 9:2 still lists "all the wild beasts of the earth, on all the birds of the sky ... and upon all the fishes of the sea" as placed under their power.
+3. **Genesis 1:24-25 makes creeping things a class separate from livestock.** Held text agrees on the three categories (cattle, creeping thing, beast of the earth).
+4. **9:1-7 is for Noah's household only; 9:8 begins the covenant for all.** His reading of the speech's structure; 9:9 (KJV) addresses "you, and ... your seed after you."
+5. **Homilies 8.15-16 agrees with Enoch.** Held texts agree that the giants devour flesh and then human flesh (1 Enoch 7:3-5). Homilies 8.15 adds that God rained manna on the giants so they would not turn to eating animals, a detail he does not mention.
+6. **Peter binds the meat prohibition through the keys (Matthew 16:19).** His argument from the Clementine Peter; Homilies 7.4 is the held passage.
 
 ---
 

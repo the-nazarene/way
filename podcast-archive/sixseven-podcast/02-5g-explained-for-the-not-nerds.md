@@ -10,7 +10,40 @@
 
 ## Summary
 
-*Notes pending.*
+A whiteboard explainer of 5G, with Chris drawing the electromagnetic spectrum and a second, unnamed voice asking questions. He describes wavelength and penetration (low frequencies travel farther and pass through buildings; millimetre waves are blocked more easily), places 3G, 4G and 5G on the spectrum, and distinguishes 5 GHz Wi-Fi from the fifth generation of cellular technology. The FCC allots frequency ranges to carriers like radio stations, and he describes a revolving door between industry and the FCC like the one between pharma and the FDA and CDC. His central claim is that two frequencies within the 5G range matter: about 8 GHz, which he calls the absorption point of iodine, and 60 GHz, the absorption point of oxygen, which in his account breaks the oxygen molecule so hemoglobin cannot use it. He says these frequencies were developed as military technology, that dense urban tower placement shows the aim is control rather than efficiency, and that 5G's wide range serves the Internet of Things. He closes with radiation exposure producing exosomes (which, he says, pharmaceutical science calls viruses), symptoms of radiation poisoning compared with COVID-19 (loss of taste and smell), and a link between the 1918-1950s pandemics and the introduction of radio and radar.
+
+## Key Points
+
+- [00:01] The spectrum from extremely low to extremely high frequencies; millimetre waves; wide wavelengths travel farther and penetrate more.
+- [01:35] Approximate ranges for 3G, 4G and 5G (he says not to quote his numbers); 5 GHz Wi-Fi is a frequency, 5G a generation of technology.
+- [03:11] Studies on phone and router exposure; 5G spans from hundreds of megahertz to about 300 GHz; carriers are allotted bands like radio stations.
+- [04:42] FCC regulators drawn from the industry, as with the FDA and CDC; 8 GHz (iodine) and 60 GHz (oxygen) as the two frequencies people focus on.
+- [06:17] At 60 GHz, in his account, the bond holding the two oxygen atoms breaks, leaving free-radical oxygen that hemoglobin cannot use; the same for iodine at 8 GHz.
+- [07:50] More towers in cities than in rural areas, which he reads as control rather than efficiency; the two frequencies as military technology adapted to consumer use.
+- [09:27] The Internet of Things and the need for many unique addresses; a military division of the spectrum.
+- [11:03] Towers and satellites; millimetre-wave exposure as radiation poisoning that produces exosomes, which he says pharmaceutical science calls viruses; "it's not just as simple as" 5G causing COVID.
+- [12:37] Symptoms of radiation poisoning, including loss of taste and smell; towers as large microwave ovens.
+- [14:09] Pandemics from 1918 through the 1950s coinciding with the introduction of radio and radar (he recalls a quotation from the early 1900s without naming its source).
+
+## Sources Cited
+
+- "Many many studies" on mobile and Wi-Fi exposure (unnamed). Not held.
+- An early-1900s figure on radio and illness (the speakers try to recall it; unnamed). Not held.
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **60 GHz is oxygen's absorption frequency.** Atmospheric oxygen has a strong absorption band around 60 GHz, which is why that band is short-range. Absorption is energy taken up as rotation and heat; standard physics does not describe it as splitting O₂ or changing hemoglobin's use of oxygen. Needs a source.
+2. **8 GHz is iodine's absorption point.** No standard reference found for this; would need a source.
+3. **US carriers use 60 GHz for 5G.** US 5G millimetre-wave licences are mainly 24-47 GHz; 57-71 GHz is unlicensed (used for WiGig and some fixed wireless).
+4. **The frequencies were developed as a military weapon to choke people at a distance.** The best-known directed-energy system, the Active Denial System, uses 95 GHz to heat skin; no source is given for a 60 GHz weapon.
+5. **Exosomes are what pharmaceutical science calls viruses.** Exosomes and viruses are distinguished in the literature, though they overlap in size and some features; the claim needs a source.
+6. **Radiation poisoning symptoms include loss of taste and smell.** Taste changes are reported in radiation therapy; acute radiation syndrome is dominated by nausea, marrow and gut effects.
+7. **The 1918-1950s pandemics coincided with radio and radar.** The argument is associated with Arthur Firstenberg's *The Invisible Rainbow* (2017); mainstream epidemiology attributes 1918 to H1N1 influenza.
+8. **Regulators move between the FCC and the industry it regulates.** Several FCC chairs and commissioners have industry backgrounds (e.g. Tom Wheeler, Ajit Pai); checkable case by case.
 
 ---
 

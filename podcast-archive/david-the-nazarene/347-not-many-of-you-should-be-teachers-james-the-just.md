@@ -10,7 +10,71 @@
 
 ## Summary
 
-*Notes pending.*
+A follow-on to his two-paths video (file 346), built around James 3:1, "not many of you should be teachers." He says the verse has been used against him by people who did not want competition or did not accept his position on Paul, and argues James was not guarding his authority (Numbers 11:29, Moses wishing all the people were prophets) but warning against teaching what is not true and against teachers who cannot rebuke sin because they practise it themselves. The middle of the video is a case that the greatest commandment (love God) ranks above the second (love neighbour), that rebuke is not hate (Didache 2.7, Luke 17:3), and that sexual sin is ranked second only to murder in the early lists (Recognitions 4.36, Didache 5). Acts 15:19-21 is read as four starter commands for Gentiles who are "turning", with Moses read in the synagogues as the path to more; Recognitions 4.36 calls the same list the first of three steps (thirty, sixty, a hundred commands). Homilies 8.18-19, the law given to the demons (the spirits of the dead giants), is read as the reason behind James's list. He then reads James 3:1-4:17 alongside a story from a church he attended, and closes on Matthew 7:1-20: the prohibition is on hypocritical judging, while the same chapter commands judging by fruits.
+
+## Key Points
+
+- [01:13] James 3:1 has been "thrown at me", he says, by people who did not want competition and by pastors because he does not accept Paul.
+- [02:10] Everything known about James, he says, points to humility; Numbers 11:29 read (Moses: would all the people were prophets). His reading: James is warning against teaching falsehood.
+- [04:21] Matthew 22:37-40 and Matthew 6:24: the first commandment is the greater; you love God by obeying his commandments and pursuing his justice.
+- [06:06] An aside on what he calls the "Edomite influence on our world": a group he says controls the media and claims to be the most oppressed people in history. No source is cited for it.
+- [08:36] Putting love of neighbour above love of God brings a pastor income; you cannot love your neighbour "by condoning their sin" when it contradicts God's commands.
+- [09:49] Didache 2.7 (do not hate anyone, but some you shall rebuke); Luke 17:3: rebuke, and forgive if he repents. He says these verses are not a command to stay in an abusive situation.
+- [12:11] The Hebrew Matthew, he says, specifies "if your brother sins against you in word" for the seven-times forgiveness, as against sinning in deed.
+- [12:55] Matthew 5:27-32: he argues that Jesus' teaching on adultery and lust covers homosexual acts and that the Torah's list of forbidden unions is not among the false texts.
+- [19:09] Acts 15:19-21 read; most Christians stop at verse 20. The four are "starter commands"; each is a way of loving God or neighbour, and abstaining from blood and the strangled is love of "your animal neighbor."
+- [23:27] "Gentiles who are turning": a present-tense verb; they are not full converts; a convert is part of Israel, not a Gentile. Read plainly, he says, Acts 15 means no idols, no sexual immorality, and no meat.
+- [25:11] Recognitions 4.36 (from Snyder's Nazarene Acts): the table of demons (things sacrificed, blood, the strangled); "the first step to you of three", thirty commands, then sixty, then a hundred. He suggests the Didache's commands number about thirty.
+- [29:17] Churches that cite Acts 15:20 as the only four commands do not keep them (meat has blood in it; a captive bolt is no different from strangling, he argues).
+- [30:50] Recognitions 4.35-36: baptism as the wedding garment; it is fatally polluted by receiving another teacher, by unworthy thoughts of the Godhead, and in action by murders, adulteries, hatreds, avarice and evil ambition. He applies the Godhead clause to commenters who say Yahweh is Satan, and answers them from Peter's false-texts doctrine: bloodthirsty passages are additions.
+- [34:09] If the four were the only commands, murder would be permitted; James gave the four "so that people can hear Moses read."
+- [37:05] Homilies 8.18-19: the giants' souls became demons; the law given to them through an angel: they may trouble no one unless he subjects himself to them by worship, sacrifice, libations, their table, shedding blood, tasting dead flesh, the torn or strangled. He reads this as the logic of James's list.
+- [41:20] God judges whether repentance is worthy of pardon; the thief on the cross as an exception, which he says the Syriac Book of Steps (Liber Graduum) explains the same way; deathbed repentance should not be counted on.
+- [43:51] The good path: obedience to God's will, including what the Spirit convicts you of beyond what is written; salvation and entry into the kingdom are the same thing.
+- [48:02] Didache 2.3-7 read again. His thesis: some should not teach because they cannot rebuke.
+- [48:50] A story from a Church of God congregation on Father's Day: he rebuked a young woman wearing pride clothing ("Shame on you"); the pastor did not act; he later heard of the pastor's own misconduct, which he relates as reports from others and his own suspicion.
+- [54:24] Didache 5, the way of death, read; adulteries again follow murders, as in Recognitions 4.36.
+- [56:50] James 3:2-18 read; 3:9-10 (blessing God and cursing men) he takes as aimed at Paul cursing in Galatians 1, and says the whole letter of James is a rebuke of Paul. "Pleasures" in 4:1 he would render as something like a fetish.
+- [1:01:48] James 4:4, friendship with the world: he applies it to political correctness.
+- [1:07:28] James 4:11-17: judge actions, not persons ("Judge the action, not the person").
+- [1:09:28] Matthew 7:1-5, John 7:24, Luke 6:37 (the words for judge and condemn compared); Matthew 7:15-20: judge by fruits. Matthew 7:1 is against hypocritical judging.
+- [1:17:43] James's point is not theological error but self-control; he describes his own change over twelve or thirteen years of doing this.
+
+## Sources He Cites
+
+- James 3:1-4:17. **Held** (KJV). KJV 3:1: "be not many masters, knowing that we shall receive the greater condemnation."
+- Numbers 11:26-29; Matthew 5:27-32; 6:24; 7:1-20; 22:37-40; Luke 6:37; 17:3-4; John 7:24; Acts 15:19-21. **Held** (KJV). KJV Acts 15:19: "which from among the Gentiles are turned to God."
+- Didache 2.3-7 and 5. **Held** (Richardson). 2.7: "Do not hate anybody; but reprove some, pray for others, and still others love more than your own life."
+- Recognitions 4.35-36. **Held** (Smith); read from Snyder's Nazarene Acts.
+- Homilies 8.18-19. **Held** (`christianity/Incoming/clementine-homilies-full-text.md`, Homily VIII, "Chapter XIX — The Law to the Giants or Demons").
+- "Hebrew Matthew" on sinning "in word". **Not held**; not named further in the video (see Claims 4).
+- Syriac Book of Steps (Liber Graduum) on the thief on the cross. **Not held**.
+- A passage opening with peace to all "prepared to give your right hand to the truth of God" [43:51]. Not named; the opening resembles the salutation at Homilies 3.30 (held: "Peace be to all you who are in readiness to give your right hands to the truth of God"), but the rest of what he reads was not found in either held Clementine text.
+
+## Where This Overlaps the Repo
+
+- `christianity/acts-15-james-four-decrees.md` → `## The Dietary Logic` and `### The Didache Confirms`.
+- `questions/nazarene-sect-sacrifice-and-diet.md` → `### HOLE 1 — Acts 21:23-26. James arranges and pays for Temple sacrifices.` and `### The Homilies passages that weld the two claims together`.
+- `christianity/biblical-case-for-vegetarian-jesus.md` (the "table of devils" and the Acts 15 list).
+- `questions/pauls-legitimacy.md` → `### 4. James's letter answers the same question the other way, and the church knew it`.
+- `christianity/james-the-just-key-to-understanding-jesus.md` → `### James vs. Paul`.
+- `questions/two-ways-kingdom-within.md` → `### 4. The Didache: the oldest Christian catechism opens with the Two Ways, not a creed`; `christianity/two-ways-oldest-christian-doctrine.md`.
+- `questions/jesus-and-the-torah.md` → `### 5. The Law summarizes itself — and a Torah scholar agrees out loud` (Matthew 22:37-40).
+- Files 177-178 (his baptism and wedding-garment videos) and 346 (two paths).
+
+## Claims to Check
+
+1. **Recognitions 4.36 wording.** The held Smith text matches his reading closely ("Be this therefore the first step to you of three; which step brings forth thirty commands, and the second sixty, and the third a hundred"). Where he reads "receiving another teaching like Paul besides Messiah", Smith has "receiving another teacher besides Christ"; "like Paul" is not in the held text. The ANF editor's footnote ties the list to Acts 15:20 and 1 Corinthians 10:21.
+2. **Homilies 8.19 wording.** Matches the held text closely; Smith/ANF has "that you lord it over no man" and lists "tasting dead flesh" and "that which is strangled". The adultery clause there is "either committing adultery, or practising magic, or living impurely"; "all forms of adultery" is his gloss.
+3. **"Turning" is present tense, so not full converts.** The Greek participle in Acts 15:19 is present (epistrephousin); KJV renders it "are turned." The inference about conversion status is his.
+4. **Hebrew Matthew: "if your brother sins against you in word".** This matches the Gospel of the Hebrews fragment Jerome quotes (Against Pelagius 3.2); the repo holds no copy of it.
+5. **The Didache's commands number about thirty.** His estimate; not counted.
+6. **Acts 15, read plainly, forbids meat.** His reading of "things strangled, and blood"; compare `christianity/acts-15-james-four-decrees.md` → `### Why Three Food Laws?`.
+7. **James 3:9-10 is aimed at Paul's curses in Galatians 1, and the whole letter is a rebuke of Paul.** His reading; the repo makes the narrower case that James 2 answers the faith-and-works question the other way (`questions/pauls-legitimacy.md`).
+8. **The Book of Steps on the thief on the cross.** Not held; unverified here.
+9. **Adultery ranked second after murder.** Recognitions 4.36 (held: "murders, adulteries, hatreds, avarice, evil ambition") and Didache 5 (held, Richardson: "murders, adulteries, lusts, fornications") list them in that order.
+10. **"The Edomite influence" and media control.** Stated without a source in the video (compare decision D3 on similar remarks in files 187 and 189).
+11. **Accounts about the former pastor.** Reported by him as things others told him and his own suspicion.
 
 ---
 

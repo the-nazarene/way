@@ -10,7 +10,89 @@
 
 ## Summary
 
-*Notes pending.*
+A Sunday livestream (recorded on or about January 25, 2025) in the same format as the previous episode: Chris plays an excerpt from a Sabrina Wallace video, voiced by his animated character ("Professor Wallace"), pausing to restate her points in plainer language. He proposes a series built on his eight-sector chart, one sector at a time, and a recurring segment he calls Chris Science Theater 3000, on the view that compartmentalisation is what keeps people from seeing the whole.
+
+Wallace's excerpt moves from a 2021 report of drones used for rain-making in Dubai and the *Encyclopaedia Britannica* entry on geoengineering, through headlines on RFK Jr. and vaccines, to the January 25, 2023 update of Department of Defense Directive 3000.09 on autonomy in weapon systems, then to the vocabulary of synthetic biology: a term the captions render as "nanoc condrea" (apparently nano plus mitochondria), xenobots and anthrobots (Michael Levin's group at Tufts and the University of Vermont), BioBricks and the Synthetic Biology Open Language (*Nature Biotechnology*, 2014), the iGEM student competition (since 2003), Levin's 2013 hypothesis on bioelectric signalling, smart dust and intrabody nano-networks. Her recurring line is that "these are jobs," built by the young generation she likens to a Maoist revolution, rather than conspiracy theory, and that both parties and much of the alternative media look elsewhere. Chris's commentary adds his view that the aim is to siphon "life force energy," that nanoparticles and products containing nano should be avoided, and that the counter is "offense and defense": nutrition, water, prayer, nature, grounding, gratitude and one's own biofield. Twice the discussion turns to religion: Chris's remark that one can pray to Jesus and wait for his return while one's town is steamrolled, and Wallace's suggestion that a "Christian version" of life-extension technology is waiting in beta. The last part of the stream introduces his wife Jen (Swedish Love on Instagram) and her handmade skin-care products, sold through her Etsy shop, Buttery Things.
+
+## Key Points
+
+- [00:02] Opening with piano; a disclaimer that it is "for entertainment purposes only."
+- [01:35] Plans for a series on each sector of his chart, since "the compartmentalization is really what's got us here."
+- [03:08] A Chris Science Theater 3000 segment, modelled on Mystery Science Theater 3000.
+- [04:42] Creatures, creating and Creator as one word family; he appeals to the non-technical side of the brain while Wallace handles the technical.
+- [06:14] Wallace clip: AI drones for rain in Dubai (2021). Chris is tired of the alternative-media "communities"; knowing 15% still leaves 85% unknown.
+- [09:24] "Bishop Chris" sets up "Professor Wallace": "keep it out of church and keep it in the classroom."
+- [10:58] Geoengineering in *Encyclopaedia Britannica*; metallic particulate as navigation guides for drones and as wireless sensor networks; RFK Jr. on vaccines.
+- [12:33] Xenobots; Stargate and Warp Speed as space and alien names; Agenda 2030 goals described as already met.
+- [14:06] "these are jobs and stop pretending they're conspiracy theories"; Jen's point, as Chris relays it, that good people imbue their goodness on others in business.
+- [15:41] Tax dollars on nano, bio, info and cognitive technologies; WG6 environmental engineering and geoengineering; Greta Thunberg.
+- [17:14] Autonomous drones in the Law of War Manual; the DoD autonomy directive update dated January 25, 2023.
+- [20:22] Nano-scale devices named after mitochondria; Chris explains mitochondria; the cell's energy, cerebrospinal fluid and the ether.
+- [21:56] Bone marrow in the lipid nanoparticle biodistribution study.
+- [23:29] Wallace: "our youth built this"; a Mao-style revolution; the inauguration distractions (the pastor, the hand on the Bible, Melania).
+- [25:04] Secret societies and "the profane"; Chris: not a Democrat or Republican question; politics opposite education and history opposite religion on his chart.
+- [29:45] Electronic health records since 1989; the FCC under Julius Genachowski and medical body area networks; the xenobot video from Levin's group.
+- [31:19] BioBricks as genetic Lego; iGEM; "less biological and more synthetic."
+- [34:29] Chris dramatises a consent form for a gene-based injection; a YouTube video deleted for using the word.
+- [37:34] BioBricks parts (promoter, ribosome binding site, repressor, GFP, terminator); the Synthetic Biology Open Language; "Swiss authority bankers."
+- [40:45] Chris: the injection is one component; shedding and cardiovascular effects; the aim is to siphon "life force energy."
+- [42:21] Engineers and RF specialists are "up to bat next" to drop their ego.
+- [43:54] Wallace on adults who "scream religious platitudes" but won't talk about industry; iGEM's history.
+- [45:31] Compartmentalisation and NDAs; the Manhattan Project; an engineer who worked on the antenna array in Alaska.
+- [47:03] "you can sit there and stare at the wall and pray to Jesus until maybe Jesus comes back," but your town may be steamrolled first.
+- [48:37] SBOL in *Nature Biotechnology* (2014); synthetic biology at least 30 years old.
+- [50:13] Michael Levin, 2013, *Communicative and Integrative Biology*; magnetic antenna arrays and remote effects; morphogenetic fields.
+- [53:19] Xenobots as co-creations of one's own cells; the human body is capable of more.
+- [54:53] Levin's hypothesis on gap-junction bioelectric signalling read on screen.
+- [56:27] Chris's simplest summary: a mechanism to connect people to the internet that hijacks natural human interconnection.
+- [58:01] The solution is "how to take what God gave us and build it and Supply with the right nutrients," not voting; Wallace on Robert Malone.
+- [59:35] The gut microbiome (2018); xenobots as synthetic life forms designed by computers.
+- [1:01:08] Wallace: "they have a demon field it's the mark of the beast" as a diversion; Tony "the Nano triangle guy" on avoiding nano products; consumer-goods companies.
+- [1:02:40] Jen makes the household's lotions, toothpaste, soaps and shampoo from scratch.
+- [1:04:13] Offense and defense; coffee and nanobots.
+- [1:05:51] "icky sticky Legos"; water, biofield, prayer, nature, grounding, sun-gazing, gratitude.
+- [1:07:24] Wallace: NFTs and crypto double as wireless sensor networks; Chris on Satoshi Nakamoto.
+- [1:08:57] The smart-dust diagram: dust on the skin finds a nano controller; intrabody networking.
+- [1:12:04] Chris's restatement: galvanic coupling, assembly, blood-pressure readings relayed to a node; he does not know how efficient it is.
+- [1:13:40] Dogecoin, Doge, XRP; Q.
+- [1:15:13] Wallace: life extension; "a Christian version waiting in the app"; "the profane" running to white coats.
+- [1:16:46] Chris: most doctors are not bad people; know what your doctor is recommending; prefer care outside the allopathic system except triage.
+- [1:18:19] Smart dust reporting to a router; biosensors made from enzymes, antibodies and nucleic acids.
+- [1:19:52] The excerpt is part one of a three-part upload; he likes learning how things work.
+- [1:21:27] Closing takeaway: not fear; you are still here.
+- [1:24:38] Jen joins to present her products (3-in-1 body soap, tea tree face wash, body butter, face-lift serum) and their ingredients.
+- [1:29:20] Spring water from Black Mountain, North Carolina.
+- [1:32:29] Jen (Swedish Love) posts the Etsy link for Buttery Things.
+
+## Sources Cited
+
+- No scripture is read. Jesus is mentioned at [47:03]; the mark of the beast at [1:01:08].
+- Sabrina Wallace, video excerpt (part one of a three-part upload). Not held.
+- Department of Defense Directive 3000.09, *Autonomy in Weapon Systems*, update of January 25, 2023; DoD *Law of War Manual*. Not held.
+- *Encyclopaedia Britannica*, "geoengineering." Not held.
+- Michael Levin et al., xenobot papers (Tufts, University of Vermont, Wyss Institute) and a 2013 paper in *Communicative and Integrative Biology*. Not held.
+- Galdzicki et al., "The Synthetic Biology Open Language," *Nature Biotechnology*, June 2014. Not held.
+- iGEM and BioBricks (Wikipedia and a Medium article shown on screen). Not held.
+- Headlines from *The Independent* on RFK Jr. Not held.
+
+## Where This Overlaps the Repo
+
+- `christianity/2026-03-08-darby-dispensationalism-deep-dive.md` → `### Escapist Soteriology vs. Kingdom-Now Participation`: Chris's remark at [47:03] on praying and waiting for Jesus's return while things happen in the world.
+
+## Claims to Check
+
+1. **DoD Directive 3000.09 shows autonomous drone systems "fully deployed" as of January 25, 2023.** The directive was updated on that date; it sets policy and review requirements for autonomous weapons. Deployment is a separate question.
+2. **The Law of War Manual treats autonomous drones like land mines.** The manual discusses autonomy in weapons alongside mines in some passages; check the exact wording.
+3. **The Pentagon has no human in the loop despite saying it does.** Wallace's claim; 3000.09 requires appropriate levels of human judgment over the use of force.
+4. **The devices named after mitochondria are nanoscale devices inserted into cells that replicate with them.** The term needs a source; the xenobot work does not describe intracellular devices.
+5. **Xenobots are made from people's own cells.** Published xenobots are built from frog (*Xenopus*) embryonic cells; anthrobots from human tracheal cells donated for research.
+6. **Synthetic biology is at least 30 years old; iGEM has trained over 80,000 students in 65 countries since 2003.** iGEM began at MIT in 2003; the figures are iGEM's own.
+7. **Electronic health records date from 1989 and needed an FCC upgrade for medical body area networks.** The FCC allocated spectrum for MBANs in 2012 under Chairman Genachowski.
+8. **Lipid nanoparticles settled in bone marrow in the biodistribution study.** Refers to Pfizer's rat biodistribution data released under FOIA; check which tissues it reports.
+9. **Smart dust on the skin communicates with intrabody nano-networks by galvanic coupling.** Galvanic-coupling body-area communication exists in research; the claim is about its use on people.
+10. **NFTs and crypto tokens double as wireless sensor networks.** Wallace's claim; no source given.
+11. **Satoshi Nakamoto means "Central Intelligence" in Japanese.** A common internet claim; the name does not translate that way.
+12. **Black Mountain, North Carolina has the oldest aquifer.** Local claim; unverified.
 
 ---
 

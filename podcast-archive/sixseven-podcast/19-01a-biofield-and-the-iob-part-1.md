@@ -10,7 +10,68 @@
 
 ## Summary
 
-*Notes pending.*
+A solo New Year's Eve 2024 livestream (Chris notes it is the last day of 2024 and that he is 40, born 1984). Working from two hand-drawn charts, he lays out his framework for the series: a wheel of control sectors (food, pharma, education, entertainment, politics and government, technology, history, religion) radiating from centralized money and the internet, with experts in each sector unable to see the whole because knowledge has been compartmentalized; and a timeline running from a "major reset" in the early 1800s, through what he calls the "Rockefeller remix" of medicine and education, to the present. His central claim is that pharma and technology are "swapping": the exposure of pharmaceutical fraud after COVID is being allowed so that trust moves to a new technocratic system, built on decentralized money (crypto) and an "internet of bodies" that routes data through the human biofield, which he describes as the hidden organ of a sixth sense. He reads the Trump, Kennedy and Musk transition as a controlled demolition of the old system rather than a reform, plays a clip about Musk and the H-1B visa dispute, and spends the later part on Tartaria, the mud flood, Old World buildings, and his view that the history of the transatlantic slave trade and of Native and Black Americans has been told in reverse. Religion appears briefly: Daniel's statue as a sequence of declining kingdoms, and the biofield as what people call intuition or the Holy Spirit. He closes by recommending personal responsibility, local and organic living, and learning to control one's biofield.
+
+## Key Points
+
+- [00:00] Opens on the last day of 2024; has been quiet on social media since election night, reading and watching; wants to give a condensed presentation.
+- [04:40] The control wheel: food, pharma, education, entertainment, politics and government, technology, history, religion, all fed from centralized money and the internet. Tonight's focus is pharma and technology, with some history.
+- [06:12] "We are in a war": he expects history to bracket the present as wartime; focusing on any one sector misses the larger picture.
+- [07:46] Cites a Danny Jones podcast interview with Dr. Jack Kruse as an example of experts who know one sector well but not technology or history.
+- [09:21] Tobacco as precedent: decades passed before industries admitted cigarettes were harmful; he expects the same lag now, and does not expect Kennedy, Trump and Musk to fix the system.
+- [10:55] Herbal, holistic and tribal medicine displaced in the early 1900s by "Rockefeller medicine."
+- [15:41] His early viral video on the COVID vaccines; mRNA described as synthetic biology; he holds that what is in the injections is intended, not negligence.
+- [20:23] Money moving from centralized to decentralized (crypto) is presented as liberation but is a Trojan horse; the internet is moving from wires to the human biofield ("your aura technically referred to as your biofield").
+- [23:31] Describes bacteria, yeasts and enzymes engineered to produce non-native bio-signatures that act as binary input and output.
+- [28:12] Says the IEEE, more than the FDA or CDC, explains the loss of taste and smell people reported; history has hidden the "sixth sense."
+- [34:28] Says the US Department of Defense has offered "AI precision healthcare" since 2017.
+- [42:21] The biofield: a field of about 30 feet around the body, part of the immune system, known by many names ("my intuition my gut feeling my Spidey senses the Holy Spirit"); he says it has a resonant frequency codified by the FCC and IEEE.
+- [48:35] Timeline: a reset in the early 1800s; the slave-trade story told in reverse; 1776 as about the 13 colonies only; 1933 as the start of birth certificates and citizenship.
+- [50:07] The "Rockefeller remix" of textbooks, the AMA and colleges; Native and Aboriginal peoples worldwide lived freely with advanced technology (human ingenuity, he clarifies, not spaceships) before the reset, which he places around 1810.
+- [54:49] Calls the 1969 moon landing a lie and holds that viruses as a category are a red herring; computer viruses are real.
+- [59:26] Internet of bodies "launched in 1995," went public in 2005; by 2012 global, by 2017 DoD services (restated at [1:00:58]).
+- [1:07:11] The three-world-wars letter attributed to Albert Pike (1871) and Giuseppe Mazzini, cited as the plan now being completed.
+- [1:08:47] Carbon-footprint scarcity is the "big Trojan Horse lie"; the earth and bodies are regenerative.
+- [1:10:20] Daniel's statue (gold, silver, bronze): he reads it as "each kingdom would be lesser than the kingdom before it," matching his model of technology cycles that decline.
+- [1:13:30] Financial power moving from the West (Federal Reserve, Vatican) to the East (BRICS, China).
+- [1:18:08] IEEE 802.15.6, the wireless body area network standard, read from Wikipedia; compared with Wi-Fi (802.11); at [1:41:31] he places Bluetooth at 802.15.4.
+- [1:21:18] Hertz to terahertz: terahertz "intrabody nano networks" over centimeters.
+- [1:24:24] DNA described as an acid with electrical properties; everything as a wave; Tesla on frequency and vibration.
+- [1:32:12] Plays a clip by an unnamed woman on Musk and the H-1B visa dispute; then comments on Ramaswamy and Musk, and on Musk's grandfather and his idea of a technate.
+- [1:44:39] Tartaria and the mud flood; whitewashing of Native peoples in film.
+- [1:49:23] His view that most Black Americans descend from Native and Aboriginal peoples of the Americas (family stories of Cherokee ancestry), and that the slave-trade narrative is inflated and reversed; at [1:52:31] ocean currents carried most ships to Brazil and the Caribbean.
+- [1:54:04] COVID as a global experiment to bring broadband input and output to human bodies; a computer virus explained.
+- [1:57:10] Solutions: organic, local, self-provision; detox protocols do not remove everything.
+- [2:03:22] Space Force as management of cyberspace; synthetic remote viewing.
+- [2:08:09] Advice: don't trust crypto, the dollar or these systems; "trust yourself trust God trust the Earth" ([2:09:42]); learn to use your biofield, which he credits to the person he learned it from (unnamed here).
+- [2:15:58] Close: says the DoD signed a contract with Amazon in 2017 to process Amazon Web Services on people's bodies.
+
+## Sources Cited
+
+- Daniel 2 (the statue of gold, silver, bronze). **Held** (KJV). KJV 2:39: "And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth."
+- IEEE 802.15.6 (wireless body area network), read from the Wikipedia entry on screen. Not held.
+- Letter attributed to Albert Pike (1871) on three world wars. Not held.
+- Danny Jones podcast interview with Dr. Jack Kruse. Not held.
+- US Department of Defense material on "AI precision healthcare" (2017) and an Amazon contract (2017); no document named. Not held.
+- The SPARS pandemic scenario ("Spars pandemic preparedness Playbook" in the captions). Not held.
+- Anthony Fauci's March 2020 remarks on masks (played). Not held.
+
+## Where This Overlaps the Repo
+
+- `christianity/2026-03-23-revelation-deep-dive.md` → `### The Apocalyptic Genre: Protest Literature in Code` treats apocalyptic writing as addressed to its own time; his use of Daniel 2 as a pattern of declining cycles reads the same genre another way.
+- Otherwise, no direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **Daniel 2 says each kingdom is lesser than the one before.** KJV 2:39 calls the second kingdom "inferior"; the metals descend in value, while the fourth (iron) is described as strong (2:40).
+2. **The three-world-wars letter of Albert Pike to Mazzini (1871).** The text circulates from the 1950s (William Guy Carr); no original letter has been located, and its authenticity is disputed.
+3. **The biofield is an NIH-defined organ of a sixth sense, about 30 feet around the body, with a frequency codified by the FCC and IEEE.** NIH (NCCIH) uses "biofield" for a category of complementary therapies; a source for the organ, the 30-foot extent and the FCC/IEEE codification is not given.
+4. **The internet of bodies went live in 1995, commercial in 2005, global in 2012; DoD AI precision healthcare from 2017; a 2017 DoD contract with Amazon to run web services on bodies.** No documents named.
+5. **Bluetooth is IEEE 802.15.4.** Bluetooth was standardized as 802.15.1; 802.15.4 is the low-rate standard used by Zigbee and similar protocols. IEEE 802.15.6 (2012) is the body area network standard.
+6. **A "major reset" around 1810; 1776 concerned only the 13 colonies; Tartaria and the mud flood.** No source named.
+7. **The transatlantic slave trade was smaller than taught and told in reverse; most Black Americans descend from Native peoples of the Americas.** The Trans-Atlantic Slave Trade Database (Eltis and Richardson) records about 12.5 million people embarked from Africa, most landing in Brazil and the Caribbean and about 388,000 in mainland North America; his point about where most ships went matches that record; the conclusion about ancestry is his reading.
+8. **1933 as the start of birth certificates and citizenship.** US birth registration became nationwide in 1933, when the last state joined the federal registration area; citizenship law is older.
+9. **The 1969 moon landing was staged; viruses as a category are a red herring; the loss of taste and smell came from wireless technology.** His positions; no sources named.
 
 ---
 

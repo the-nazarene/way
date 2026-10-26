@@ -10,7 +10,55 @@
 
 ## Summary
 
-*Notes pending.*
+Part two of his reading of Robert Orlando's *Apostle Paul: A Polite Bribe* (part one is file 088). The highlights cover: the thorn in the flesh as a person from Jerusalem (Orlando traces the image to the Tanakh, where the nations are thorns to Israel, and David sees Paul reversing it onto the Jewish Christians); the superlative apostles and false apostles of 2 Corinthians as the Jerusalem leadership; letters of commendation, which he again ties to the Nazarene Acts' rule that only James's testimonial authorizes a teacher; Paul's last visit to Jerusalem, where James did not accept the collection directly and sent Paul to pay for the vows in the temple (Orlando's footnote allows a "more cynical view" that James was setting Paul up, which David holds); the Roman rescue, which David attributes to Paul's Herodian kinship; the reversal of enemies (the establishment killed Jesus and James and protected Paul; the common people protected Jesus and James and attacked Paul); Luke's silence about the collection and about the Jerusalem church at Paul's trial; and the Paul of Acts as a gentler figure than the Paul of the letters. He closes by recommending the book, his Galatians series and his Pythagorean Luke-Acts series, in which he argues Luke encodes an anti-Pauline reading.
+
+## Key Points
+
+- [00:00] Who could be such a thorn for Paul? Orlando: only someone from Jerusalem, because the conflict was over the legitimacy of his apostleship.
+- [00:52] Paul tolerated rival styles (Apollos, Cephas at Corinth) but not additions to his law-free gospel; his Gentile converts were the proof of his mission.
+- [01:36] The thorn in the flesh as a person, not an illness: in the Tanakh the surrounding nations are thorns to Israel; Paul reverses the image onto the Jewish Christians.
+- [02:25] About 15 years on, no return of Yeshua; Paul as a maverick; James, Peter and John would no longer go along with him.
+- [03:16] Orlando: Paul never wanted to split the church and knew his mission needed James; after 2 Corinthians he returned to Jerusalem uninvited with the collection.
+- [04:09] The superlative apostles and pseudo-apostles as one group, messengers of Satan in Paul's terms; David: sarcastic names for the followers of James, Cephas and John.
+- [05:37] Letters of commendation: Paul says his converts are his letters; David reads this as defensiveness about not having them.
+- [06:54] Peter in the Nazarene Acts: accept no teacher without letters from James or his successor. Stowers on Paul's rhetorical devices in Romans recommended.
+- [07:45] Orlando: James did not accept the collection, at least not directly; Acts 21's vows. David is unsure where the seven days of prayer come from.
+- [08:44] Orlando's footnote: the more cynical view is that James was washing his hands of Paul, even setting him up. David: that is his view, James "sending Paul into the lion's den."
+- [09:28] Orlando: a tribune intervening over one man's doctrine is unlikely unless mob violence threatened the city. David: the soldiers rescued Paul because he was a relative of Herod Agrippa.
+- [10:20] Why was Paul an outcast at the temple when the other apostles worshipped there daily? James the Just, the tsaddik, as a very Jewish title.
+- [11:05] Opposite enemies: the establishment killed Yeshua and James and protected Paul; the common people protected Yeshua and James and attacked Paul. Luke's agenda of a unified mission.
+- [12:05] Orlando: to the apostles, a law-free gospel for Gentiles meant disobedience to Moses.
+- [12:47] Kümmel, citing Baur: Luke passed over the primitive church's opposition to the Gentile mission in silence. Orlando: Acts has no ending and is modelled on the Aeneid.
+- [14:07] Why is the collection absent from Acts, and why does no Jewish Christian visit Paul in prison? The Asian Jews at the temple (Acts 21:27) knew what he taught in Ephesus.
+- [15:39] James D. G. Dunn (as read): the Jerusalem Christians seem to have washed their hands of Paul. David: Yeshua's way into the kingdom was keeping the law, Paul's was believing.
+- [16:29] Orlando: Paul's "my gospel" by revelation made a Jerusalem commission impossible, so no letter of commendation could have come.
+- [17:20] The Paul of Acts became the church's Paul; the letters are read through Acts; the Jerusalem voices are no longer heard.
+- [18:14] His Pythagorean Luke-Acts series: a code in Luke-Acts that he reads as anti-Paul. Recommends the book, the documentary and his Galatians series.
+- [19:02] Ask whether Paul is a legitimate apostle; judge teachers by their words and doctrine.
+
+## Sources He Cites
+
+- Robert Orlando, *Apostle Paul: A Polite Bribe*; within it Stanley Stowers (*A Rereading of Romans*), Werner Georg Kümmel (*Introduction to the New Testament*, on F. C. Baur), James D. G. Dunn. **Not held**.
+- Recognitions 4.35 (the testimonial of James). **Held**.
+- 2 Corinthians 3:1-3, 11:5, 11:13-15, 12:7; 1 Corinthians 15:32 (the beasts at Ephesus); Acts 21:17-40; Numbers 33:55 and similar thorn passages (not named individually). **Held** (KJV).
+- Hegesippus on James the Just. **Excerpt held** (Eusebius, Church History 2.23.4-7).
+
+## Where This Overlaps the Repo
+
+- `questions/pauls-legitimacy.md` → `### 5. The Jewish-Christian tradition remembers him as the opponent` and `### "You cite Acts when it suits you and dismiss it when it doesn't."`
+- `questions/nazarene-sect-sacrifice-and-diet.md` → `### HOLE 1 — Acts 21:23-26. James arranges and pays for Temple sacrifices.`
+- `podcast-archive/david-the-nazarene/354-the-demon-in-2-corinthians-12-7-a-requested-teaching-of-mrfi.md` (his later video on the thorn in the flesh) and `191-is-the-identity-of-paul-s-messiah-revealed-in-the-nazarene-a.md` (Recognitions 4.35 with 2 Corinthians 12:7).
+- `podcast-archive/david-the-nazarene/073-the-pythagorean-connection-in-luke-acts-pt-1.md` to `078-...` (the series he recommends; not yet noted).
+
+## Claims to Check
+
+1. **Accept no teacher without James's letter.** Held, Recognitions 4.35: "believe no teacher, unless he bring from Jerusalem the testimonial of James the Lord's brother, or of whosoever may come after him."
+2. **Where the seven days come from.** KJV Acts 21:27: "when the seven days were almost ended"; the purification period is in the text. Acts 21:24 says "purify thyself with them, and be at charges with them"; the collection is not mentioned.
+3. **The thorn in the flesh is a person.** The Tanakh image is real (KJV Numbers 33:55, "thorns in your sides"); 2 Corinthians 12:7 calls it "the messenger of Satan." Identifying the person as from Jerusalem is Orlando's reading and David's.
+4. **The Romans rescued Paul because he was Herod Agrippa's relative.** His thesis; Acts 21:31-39 gives the tribune's reasons as the uproar and Paul's citizenship.
+5. **No Jewish Christian visited Paul in prison.** An argument from Acts' silence.
+6. **Acts was modelled on the Aeneid.** Orlando's point (associated with Dennis MacDonald); not checked here.
+7. **James killed by the same establishment that killed Jesus.** Josephus (Ant. 20.9.1, not held) names the high priest Ananus; Hegesippus (held excerpt stops at 2.23.7) has scribes and Pharisees.
 
 ---
 

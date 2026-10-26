@@ -10,7 +10,39 @@
 
 ## Summary
 
-*Notes pending.*
+Trust, part three, April 2021. Chris turns to reports of menstrual changes in women who received a COVID-19 vaccine and in some who had only been around vaccinated people, which he calls the "shedding" phenomenon while saying he does not know what is causing it and that the conventional concept of shedding does not apply to non-live vaccines. He argues that attributing the reports to stress makes no sense in April 2021, compares the removal of social-media accounts that collect such reports to the Nazi era (where, he says, people did not know until after the war), and raises a claim about sterility among African women years after earlier vaccine campaigns. He cites Fauci's 2008 co-authored paper on bacterial pneumonia as the main cause of death in 1918, mocks "trust the science" as a religion (introducing himself by name, Chris Crutchfield, in the joke), and asks whether positive tests after vaccination might reflect the spike protein. He says the weapons of this war are not carnal and the battlefield is the mind.
+
+## Key Points
+
+- [00:00] From late February or early March, many women reporting heavy, skipped or double periods and decidual casts, including some who had not been vaccinated; the conventional idea of shedding does not fit non-live vaccines.
+- [01:33] Stress as an explanation: April 2021 is less stressful than April 2020.
+- [03:07] Paid voices versus a few people exaggerating online; women whose cycles had stopped resuming.
+- [04:41] Instagram accounts that repost women's messages being deleted; the comparison with 1930s Germany and survivors who say they did not know.
+- [06:15] Fact-checks; the reproductive system; *Children of Men*; African presidents saying women of childbearing age were left sterile twenty years after earlier vaccines.
+- [07:50] Isolation, not the virus, harming grandparents; survival rates by age.
+- [09:25] Fauci as one of three co-authors of a 2008 study naming bacterial pneumonia as the chief cause of death in the 1918 pandemic; masks as a future topic.
+- [10:57] "Anti-vaxxer" as a label; science treated as a religion; "trust the science like I trust Crutchfield."
+- [12:35] Positive tests after full vaccination; perhaps the test is detecting spike protein.
+- [14:07] He is not trying to frighten; "we're at war," and the weapons are not carnal.
+- [15:40] The government has never helped; pay attention.
+
+## Sources Cited
+
+- Morens, Taubenberger and Fauci, "Predominant Role of Bacterial Pneumonia as a Cause of Death in Pandemic Influenza," *Journal of Infectious Diseases* 198 (2008). Not held.
+- Instagram accounts collecting women's reports (unnamed). Not held.
+- 2 Corinthians 10:4 (the weapons of our warfare are not carnal), alluded to. **Held** (KJV).
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **Menstrual changes after COVID-19 vaccination.** Later studies (e.g. Edelman et al., *Obstetrics & Gynecology*, 2022) found a small, temporary change in cycle length (under one day on average); heavier bleeding was also reported in surveys. The 2021 reports he describes were real; their size and cause were studied afterward.
+2. **Women who were not vaccinated were affected by proximity ("shedding").** No mechanism or study has shown this; he himself says the conventional concept of shedding does not apply.
+3. **African presidents say women were sterilized by vaccines given in the 1990s and 2000s.** The best-known case is the 2014 claim by Kenya's Catholic bishops about a tetanus vaccine containing hCG, which the WHO and Kenyan government disputed; the claim as he states it needs a source.
+4. **Fauci co-authored the 2008 bacterial pneumonia paper.** Correct: Morens, Taubenberger and Fauci (2008).
+5. **Positive tests after vaccination come from the spike protein.** PCR tests target viral RNA regions (often N, E, ORF1ab genes), not the spike protein; antigen tests mostly target the N protein. Needs a source.
 
 ---
 

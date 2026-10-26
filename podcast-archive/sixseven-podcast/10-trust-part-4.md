@@ -10,7 +10,44 @@
 
 ## Summary
 
-*Notes pending.*
+Trust, part four, spring 2021. Chris asks viewers to let gut feelings back into decisions, illustrated by a friend's account of driving her aunt to a drive-up vaccination site where, in her words as he relays them, it looked like a field of people signing up for something they knew they did not need. He argues that complying "to travel" made mandates possible, lists the J&J blood-clot pause, thrombocytopenia, Bell's palsy, miscarriages and heart attacks as reported adverse events (with VAERS again said to capture about 1%), recalls DDT spraying on American beaches in the past, and returns to menstrual reports and reverse transcription. He describes the caduceus as two snakes around a pole, says he will keep speaking while he is allowed, compares fact-checking to being told what to think, and promises later videos with resources. He ends asking for "soldiers" in an information war and urging informed choice.
+
+## Key Points
+
+- [00:00] Gut feelings: has anyone's gut ever warned them wrongly?
+- [01:32] A friend's account of a drive-up clinic: people signing up for something "they didn't really need."
+- [03:04] Getting vaccinated to travel makes requirements possible; J&J's baby-powder litigation; the blood-clot cases.
+- [04:36] Thrombocytopenia, Bell's palsy, miscarriages, heart attacks in VAERS; China's street spraying.
+- [06:07] A 1960s photo of DDT sprayed on American beaches; correlation and causation applied consistently.
+- [07:39] *Children of Men*; reverse transcription again, and whether "replication incompetent" settles it.
+- [09:12] Cigarettes and the food pyramid as past certainties; fact-checks; private messages from scientists agreeing with him.
+- [10:45] Television sells products and programs thought; two hours a week of research.
+- [12:18] "Virtue signalosity"; the friend's report that nobody at the site looked heroic; the caduceus as "two snakes wrapped around a pole."
+- [13:52] "We are at war"; history repeating; reproductive anomalies as an alarm.
+- [15:24] "No data to support" as an evasion; follow-up of trial pregnancies.
+- [16:58] Women's intuition and the womb ringing the alarm; pray to God for help.
+- [18:32] Fact-checking as patronizing; nobody is forced to watch his videos.
+- [20:05] An "infodemic"; the major news outlets as the real source of misinformation.
+- [21:39] Future videos with resources; question everything, including him.
+- [23:13] Soldiers for an information war; be informed.
+
+## Sources Cited
+
+- A friend's first-hand account (unnamed). Not held.
+- VAERS (referred to). Not held.
+- A 1960s photo of DDT spraying (shown, not identified). Not held.
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **Six blood-clot cases with the J&J vaccine.** Correct for the April 13, 2021 FDA/CDC pause (six cases of cerebral venous sinus thrombosis with low platelets among about 6.8 million doses); more were identified later.
+2. **J&J put asbestos in baby powder for 40 years.** J&J faced tens of thousands of lawsuits alleging asbestos contamination of its talc, lost several verdicts, and denies the allegation; a 2018 Reuters investigation reported internal documents from 1971 onward.
+3. **"the 66 percent that turned out to actually give you blood clots."** The captions are unclear about what the 66 percent refers to; the figure needs identifying.
+4. **DDT was sprayed on beaches over people.** Film and photos from the late 1940s show DDT fogging trucks on US beaches (e.g. Jones Beach, 1945); the cancer outcome is his supposition.
+5. **The caduceus is the symbol of medicine.** The two-snake caduceus (Hermes) is widely used in US medical branding; the traditional symbol of medicine is the one-snake Rod of Asclepius. The image also echoes the bronze serpent on a pole (Numbers 21:9).
 
 ---
 

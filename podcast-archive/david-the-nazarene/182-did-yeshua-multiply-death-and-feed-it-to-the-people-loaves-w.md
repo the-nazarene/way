@@ -10,7 +10,64 @@
 
 ## Summary
 
-*Notes pending.*
+A remake of his earlier fish video (file 070), made because his new book, *The Rock of a Sure Foundation*, drops the fish from the feeding stories in its restored Matthew. He describes the book: the apostolic writings as they might have stood without Paul (the Clementine sermons of Peter, the Nazarene Acts, the Didache and others) and a Matthew with the Gospel according to the Hebrews quotations put back in; free as a PDF, print at cost. The argument has three parts. A fish-multiplying Jesus does not fit the God the Messiah revealed; it does not fit the original faith, since the sources on the Ebionites (he names Irenaeus, Eusebius, Epiphanius, Origen, Jerome) say they ate no meat, Epiphanius records that they said Jesus revealed it to them, and Peter in the Nazarene Acts ties eating dead flesh to demons; and the external references before 325 mention only loaves. He adds a typology: John the Baptist is Elijah (Matthew 17:10-13), so Jesus is the Elisha who receives the double portion (2 Kings 2), and Elisha's feeding of a hundred with twenty barley loaves of the firstfruits (2 Kings 4:42-44) has no fish. Then he reads his list of pre-Nicene references, now eight or nine against three in the first version (Irenaeus twice, Eusebius, the anonymous *Treatise on Rebaptism*, Origen *Against Celsus* 1.68, Archelaus *Disputation with Manes* 36 and 44, Arnobius, and the narrative attributed to Aeneas and Nicodemus), plus Matthew 16:9-11 and the "gave the loaves" of Matthew 14:19. He closes saying things are different after about 400 than before (Justin quoting sayings not in our gospels, Jerome's Hebrew Matthew), that the disciples were fishermen before their call, and that the Gospel of the Hebrews explains how John got Peter into the high priest's court: as a boy John sold his father Zebedee's fish to the priests.
+
+## Key Points
+
+- [00:00] A remake of an earlier presentation; occasioned by his book *The Rock of a Sure Foundation*: what the New Testament would have been without Saul of Tarsus "hijacking the church."
+- [01:34] Transmission as he gives it: Clement gave Peter's sermons to James; they passed to Simeon (James's successor); the family of Jesus led the community, which fled to Pella toward Damascus, where the Ebionites lived for some 400 years.
+- [03:07] The book reconstructs Matthew by putting the Gospel according to the Hebrews quotations back in, and removes the fish from the feeding stories as additions, since references before 300 mention only bread.
+- [04:43] Why question it: it does not fit the nature of God as revealed by the Messiah; the Ebionites were vegetarian in every source; Epiphanius asked them why, and they said "Jesus revealed to us."
+- [06:16] Peter in the Nazarene Acts: eating dead flesh opens you to demons; Eusebius: the apostles did not eat meat; Epiphanius: the Gospel according to the Hebrews has Jesus not eating meat; the Didache: do the best you can about food. "Those are historical documents," not his feelings.
+- [07:49] Typology: Matthew 17:10-13, John is Elijah; Elijah is forerunner of Elisha, who receives the double portion (2 Kings 2:7-14), so Jesus fulfils what Elisha does.
+- [10:55] 2 Kings 4:42-44: twenty barley loaves of the firstfruits feed a hundred, with some left over; no fish. Jesus does a greater version with a quarter of the loaves.
+- [14:07] Matthew 14:19 read; the question: did someone add the fish later? He looks for references before Nicaea (325).
+- [15:42] Irenaeus, Against Heresies 2.22.3 and 2.24.4: five loaves, five thousand, twelve baskets; no fish.
+- [15:42] Eusebius, *Proof of the Gospel* (313-318): five loaves, five thousand plus women and children; no fish.
+- [17:17] *Treatise on Rebaptism* (anonymous, 250s, against Cyprian; ANF 5): five thousand satisfied with five loaves; no fish.
+- [18:49] Origen, *Against Celsus* 1.68: the feeding of a multitude "with a few loaves"; no fish.
+- [20:23] Archelaus, *Disputation with Manes* 36 and 44: a hungering multitude refreshed with a few loaves; five loaves, five thousand. He notes these writers also never mention the second feeding.
+- [21:59] Arnobius, *Against the Heathen* (c. 303): five loaves, five thousand, twelve baskets. The narrative attributed to Aeneas and translated by Nicodemus (ch. 11, ANF): Joseph of Arimathea laments "those whom thou fed with a few loaves." No fish in any.
+- [23:32] Matthew 16:9-11: Jesus recalls both feedings by the loaves alone; the interpolator added fish to chapters 14 and 15 and missed chapter 16, and missed "gave the loaves" in 14:19.
+- [26:42] Things are different after about the year 400 than before: Justin quotes things not in the gospels, and Jerome's Gospel according to the Hebrews differs from Greek Matthew.
+- [26:42] The disciples were fishermen before their call (Peter says so in the Nazarene Acts); the Gospel of the Hebrews says John knew the high priest because he sold Zebedee's fish to the priests, which is how he got Peter into the trial.
+
+## Sources He Cites
+
+- Matthew 14:17-21; 15:34-38; 16:5-12; 17:10-13; 2 Kings 2:7-14; 4:42-44. **Held** (KJV). 2 Kings 4:42: "bread of the firstfruits, twenty loaves of barley, and full ears of corn in the husk thereof."
+- Irenaeus, Against Heresies 2.22.3, 2.24.4. **Held** (Roberts, ANF 1; `christianity/Incoming/irenaeus-against-heresies-full-text.md`, added 2026-10-26, not yet audited). 2.22.3: "fed all that multitude with five loaves of bread, and twelve baskets of fragments remained over and above"; 2.24.4: "after blessing the five loaves, fed with them five thousand men." Neither mentions fish.
+- Eusebius, Demonstratio Evangelica (feeding passage; no section given). Not held; only 3.5 is excerpted in the witnesses file.
+- *Treatise on Rebaptism* (ANF 5). Not held.
+- Origen, Against Celsus 1.68. Not held.
+- Archelaus, *Acts of the Disputation with Manes* 36, 44. Not held.
+- Arnobius, Against the Heathen (1.46). Not held.
+- The narrative of Aeneas/Nicodemus (the Acts of Pilate / Gospel of Nicodemus tradition, ANF 8), ch. 11. Not held.
+- Panarion on Ebionite vegetarianism. **Held** (Wescoe): 30,15,3-4 (they say Peter "abstained from animate creatures and from meats, as they themselves do"; asked why, they answer that meat comes "from intercourse and the mingling of bodies"); 30,18,9 ("Christ revealed it to me"); 30,22,4-5 (the Ebionite gospel's Passover saying).
+- Recognitions / Nazarene Acts on flesh and demons (no passage given). **Held** (Smith); the nearest passages are Recognitions 4.36 ("to partake of the table of demons, that is, to taste things sacrificed, or blood, or a carcase which is strangled") and Homilies 9.9 (demons "having power by means of the food given to them").
+- Eusebius on the apostles' abstinence (DE 3.5). **Held** (Ferrar, witnesses file).
+- Didache 6.2-3. **Held** (Richardson).
+- Gospel of the Hebrews on John selling fish to the priests. Not held.
+- His own *The Rock of a Sure Foundation*. Not held; his introduction is file 179 in this folder.
+
+## Where This Overlaps the Repo
+
+- `questions/sacrifice-culture-vegetarian-jesus.md` → `### "Jesus ate fish — Luke 24:42–43 — and he fed thousands with fish. The vegetarian claim is fiction."`
+- `christianity/biblical-case-for-vegetarian-jesus.md` → `## V. The "Fish" Question` (`**The Loaves Tradition:**`) and `### The Gospel of the Ebionites`.
+- `questions/MINING-2026-10-debates.md` lists "**John 21 as a *commanded* catch**" as an open fish argument; this video does not address John 21 (file 070 does, as an end-of-book addition).
+- `christianity/hebrew-gospel-of-matthew.md` (the Gospel according to the Hebrews and Jerome).
+- File 070 in this folder is the earlier version with three references.
+
+## Claims to Check
+
+1. **The pre-325 references mention only loaves.** Irenaeus is held and reads as he says; 2.22.3 follows John's gospel ("the other side of the sea of Tiberias," John 6:1, whose own account has the fish at 6:9-11), and 2.24.4 is an argument about the number five, so the five loaves are the point there. The other seven are not held, so those readings are unverified here. That a summary omits the fish shows what the writer chose to mention; whether his gospel lacked the fish is an inference. All four canonical feeding accounts in the held KJV include fish (Matthew 14:17-19; Mark 6:38-43, "the two fishes divided he among them all"; Luke 9:13-16; John 6:9-11, "likewise of the fishes as much as they would").
+2. **Archelaus's wording.** At [20:23] his reading includes "with a few loaves and no fish"; whether "and no fish" is in the ANF text of *Disputation* 36 or his own aside is not checked here.
+3. **Epiphanius says the Ebionites told him "Jesus revealed it to us."** Held text: at 30,18,9 the reply "Christ revealed it to me" answers the question of where they learned of Moses and Abraham, in a passage on the eating of animate creatures. At 30,15,4 the reason given for abstaining is that meat comes "from intercourse and the mingling of bodies." Epiphanius writes these as his account of the Ebionites, not as a personal interview.
+4. **Epiphanius says the Gospel according to the Hebrews has Jesus not eating meat.** The held passage (30,22,4-5) is from the gospel Epiphanius attributes to the Ebionites, which he presents as their alteration of Luke 22:15; the repo treats it the same way (`christianity/biblical-case-for-vegetarian-jesus.md`; the card's Passover objection).
+5. **Every source on the Ebionites says they did not eat meat (Irenaeus, Origen, Jerome among them).** Irenaeus's account of the Ebionites (Against Heresies 1.26.2, held) concerns their use of "the Gospel according to Matthew only," their repudiation of Paul, circumcision and "the observance of those customs which are enjoined by the law," and does not mention diet; the held statements are Epiphanius's.
+6. **The fish were added about 400 years after Jesus.** His dating; the feeding with fish is in all four gospels in the earliest manuscripts (third and fourth centuries, e.g. P45, P66, P75, Sinaiticus, Vaticanus).
+7. **Elisha typology.** His reading; commentators commonly note 2 Kings 4:42-44 as the background of the feeding stories, including John's "barley loaves" (John 6:9, KJV).
+8. **John sold fish to the priests, per the Gospel of the Hebrews.** This tradition is known from a medieval text (the *Historia passionis Domini*, 14th-15th century) citing the "gospel of the Nazarenes"; not held.
+9. **Simeon succeeded James; the community went to Pella.** Eusebius, Church History 3.5.3 (Pella) and 3.11 (Symeon), held (McGiffert, `christianity/Incoming/eusebius-church-history-full-text.md`, added 2026-10-26); Panarion 29,7,7-8 and 30,2,7 (held) on Pella.
 
 ---
 

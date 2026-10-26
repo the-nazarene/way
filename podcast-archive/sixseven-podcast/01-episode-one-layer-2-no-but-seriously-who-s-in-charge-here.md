@@ -10,7 +10,43 @@
 
 ## Summary
 
-*Notes pending.*
+The channel's first episode, recorded in 2020 before the November election. Chris describes a shift from government by secret societies and policy groups (he names the Trilateral Commission, Bilderberg, the Round Table, the Council on Foreign Relations, the Royal Institute of International Affairs) working through national governments, to a technocracy in which the same interests govern through large technology companies such as Apple, Google and Microsoft, which in his view do not need to share location data with governments because they are becoming the government. He predicts the 2020 election will not take place as expected because of an event near election day, a few days after Halloween, which he describes as the largest day of ritual sacrifice. The middle of the episode is about the COVID-19 response: Anthony Fauci's March 2020 statement that masks were not needed against his later mask-wearing, a WHO official's remark that asymptomatic transmission appeared rare, mask mandates and fines in California, test counts against deaths, and comparisons with influenza, tuberculosis and malaria. A clip from a film or drama about an outbreak plays, followed by several minutes of music. He closes on wireless signals as the infrastructure of a "control grid," physiological effects of wireless exposure, and the global and simultaneous character of the lockdowns, which he takes as evidence that the response was not about any one president.
+
+## Key Points
+
+- [00:01] Technocracy: control moving from secret societies and policy groups operating through governments to corporations operating through their products.
+- [01:37] Apple's quarterly profit and revenue as buying power; governments as shell companies for lobbies and PACs; his expectation that there will be no real election in 2020, with an event near election day shortly after Halloween.
+- [03:10] Fauci's March 2020 statement that Americans need not wear masks, and his later public mask-wearing, as evidence of a changed script.
+- [04:42] A WHO official's statement that asymptomatic transmission seemed rare; mask boxes that say they do not protect against COVID-19; the size of a virus against mask weave.
+- [06:15] Newsom's mask order and West Hollywood fines; sun, family, food, vitamins and exercise as the basis of immunity; deaths from suicide, depression and isolation left out of the count.
+- [07:49] Rising case counts as a function of rising testing; the case-to-death ratio; other diseases he lists as deadlier, citing CDC figures while saying he does not trust the CDC.
+- [09:20] Doctors trained on pharma-written textbooks; outbreak scenarios modelled years in advance and placed in films; a film clip plays (unidentified in the captions), then music to about [14:54].
+- [14:54] The technocracy needs wireless infrastructure; he believes it affects physiology and that little research money goes to the question.
+- [16:26] Lockdown retail (queues outside Trader Joe's) pushing people toward home delivery and voice assistants.
+- [17:59] Friends in Italy, China, Uganda and South Africa report the same measures; the world stopped within about seven days in March; the changing rules as evidence of a lie.
+
+## Sources Cited
+
+- Anthony Fauci, March 2020 television interview on masks (played as audio). Not held.
+- World Health Organization briefing on asymptomatic transmission (paraphrased). Not held.
+- CDC mortality statistics (referred to, not quoted). Not held.
+- An unidentified film or TV drama clip about an outbreak. Not held.
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **There would be no 2020 US election, or an event around election day would derail it.** The election was held on November 3, 2020; this was a prediction he said he might revise.
+2. **Halloween is the largest day of ritual sacrifice.** No source given.
+3. **Fauci said in March 2020 that people should not be walking around with masks.** He said this on *60 Minutes* (recorded early March 2020); CDC guidance changed on April 3, 2020.
+4. **The WHO found asymptomatic carriers rarely transmit.** Maria Van Kerkhove said on June 8, 2020 (the clip played here) that onward transmission from asymptomatic people "still seems to be rare"; the WHO clarified the next day that this referred to a subset of studies and that pre-symptomatic spread was significant.
+5. **Mask boxes state they will not protect against COVID-19.** Some packaging carried such disclaimers for non-medical masks; not a universal label.
+6. **West Hollywood fines of $300 and $1,000.** City orders set fines for non-compliance in 2020; the exact amounts would need the ordinance.
+7. **Influenza, tuberculosis, malaria, shigella and norovirus were each deadlier than COVID-19, per the CDC.** Comparisons depend on the measure (absolute deaths, US or global, infection-fatality rate); US COVID-19 deaths in 2020 exceeded US influenza deaths in recent seasons.
+8. **Apple earned about $22 billion profit on about $90 billion revenue in a quarter.** Apple's figures varied by quarter in 2019-2020 (for example about $22.2 billion net income on $91.8 billion revenue in Q1 FY2020).
+9. **Wireless exposure has negative physiological effects that go unstudied.** A large literature exists with mixed findings; the claim as stated needs specific studies.
 
 ---
 

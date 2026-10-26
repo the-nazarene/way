@@ -25,7 +25,7 @@ He reads the Recognitions from Jackson Snyder's Nazarene Acts edition (Kefa, Yah
 - [10:59] Sacrifice is ancient (Abel, Abraham, Moses); the question has only become live again with talk of rebuilding the temple, partly from the Hebrew-roots movement.
 - [12:32] The documentary hypothesis: a redactor in the captivity; P, the document holding the sacrifices, was one of the last items incorporated, which he dates to the 6th century BCE. He finds it compelling.
 - [14:08] The Recognitions 1 temple debate parallels Acts 7; Stephen as stand-in for James (his video 004). Reads 1.63-64: unlearned fishermen; the time of sacrificing has passed; the temple will be destroyed; the abomination of desolation; the gospel to the Gentiles.
-- [15:41] Two doctrines in the Clementines: Recognitions (Moses allowed it) vs Homilies (never commanded; added later). Reads Homilies 2.45: the grave of lust; God did not ordain sacrifices nor require them from the beginning.
+- [15:41] Two doctrines in the Clementines: Recognitions (Moses allowed it) vs Homilies (never commanded; added later). Reads "book two chapter 45", which in the held text is Homilies 3.45 (the grave of lust; God did not ordain sacrifices nor require them from the beginning). In the held text, Homilies 2.45 is "How God is to Be Thought of."
 - [17:15] Numbers 11: the people came out of Egypt with herds, yet lusted after meat and were struck when they ate the quail. Why not slaughter their own flocks? His answer: the original plan did not include meat. Reads 11:16-20, 31-34.
 - [20:23] Isaiah 1:11-16 from the ISR Scriptures; compares with the NET and says most English translations make the sacrifices themselves the sin, not the people's apostasy; cautions that ISR leans toward supporting sacrifice.
 - [21:56] Isaiah 66:1-4: the house, the rest, "he who kills an ox is as one who slays a man"; he reads it as about temple sacrifice, not pagan rites, because verse 1 sets the temple as the subject.
@@ -42,7 +42,7 @@ He reads the Recognitions from Jackson Snyder's Nazarene Acts edition (Kefa, Yah
 
 - Epiphanius, Panarion 18.1.3-4; 30.16.5-7; 30.18.7-9. **Held**, `christianity/Incoming/epiphanius-panarion-book-1-full-text.md`. He reads Williams's English; the held file is a machine translation from Holl, so wording differs ("I have come to do away with the sacrifices" for his "abolish"), but the content matches at every point checked.
 - Clementine Recognitions 1.36-37, 1.63-64. **Held** (Smith, ANF 8). He reads Snyder; Smith's numbering is the same. Smith 1.64: "God is much rather displeased with the sacrifices which you offer, the time of sacrifices having now passed away."
-- Clementine Homilies 2.45. **Held**; cited correctly here as book two, chapter 45.
+- Clementine Homilies 3.45 ("Sacrifices"), read aloud as "book two chapter 45". **Held**; in the held text 2.45 is a different chapter.
 - Numbers 11; Isaiah 1:11-17, 66:1-4; Amos 5:21-27; Ezekiel 20:24-26; Micah 6:6-8; Jeremiah 7:21-25; Hosea 2:16-20, 6:4-9, 8:11-13; Isaiah 11:6-10; Genesis 1:29-31; Acts 7:42-50; Matthew 5; Revelation 21:4. **Held** (KJV). He reads ISR, not KJV: KJV Isaiah 1:13 has "incense is an abomination unto me" (he argues the Hebrew is smoke); KJV Ezekiel 20:25 has "I gave them also statutes that were not good."
 - Eusebius, Demonstratio Evangelica 3.5. **Held** as an excerpt (Ferrar) in `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md` §2; his reading matches it.
 - Friedman, Who Wrote the Bible? Secondary; not held.

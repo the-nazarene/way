@@ -10,7 +10,38 @@
 
 ## Summary
 
-*Notes pending.*
+The first of four 2021 monologues titled "Trust," recorded in spring 2021 during the COVID-19 vaccine rollout (he cites 167 million doses). Chris says he has to speak in metaphor and "riddle" because of social-media moderation, and builds the episode on the phrase "I trust the science": trust, he argues, belongs to persons and to proven behaviour, not to inanimate things or to a body of knowledge, so the phrase really means trusting that the science is being explained honestly, which he says history gives no reason to assume. He describes counting doses rather than people as inflating the uptake, fear as the real enemy, a long-running mismatch between American health messaging and real nutrition, a regulatory system he calls the fox guarding the henhouse, and "conspiracy theory" as a term he says an intelligence agency invented. He says he has no financial interest, that his bias is against the mainstream narrative, that viewers should read both sides, and that the gut is the body's defence system which injection bypasses.
+
+## Key Points
+
+- [00:00] Speaking in code on social media in 2021; "this is war"; a riddle about trust.
+- [01:33] "I trust the science" usually comes from people who have not read it; 167 million doses, and why counting doses for two-dose products overstates uptake.
+- [03:05] Fear as the enemy; nothing in the messaging has been about health; pharmaceutical and junk-food advertising.
+- [04:42] Trust applies to persons and proven behaviour (a dog barking at the mailman, a sticky note that restucks), not to "science" as such; the difference between a randomized controlled trial and a meta-analysis.
+- [06:16] The highest-paid government official, in his account, co-funds one of the vaccine options; spiritual discernment.
+- [07:51] When has the science ever been accurately explained; "conspiracy theory" as an intelligence-agency invention; women's menstrual reports trending.
+- [09:24] Speaking up costs him; mass use of the new injections is unprecedented.
+- [10:58] He points to resources in his bio; read both sides and follow the money; his own bias is against the mainstream narrative.
+- [12:32] He is not paid; the gastrointestinal tract as the body's main defence, bypassed by injection.
+- [14:03] "Natural flavors" and "fragrance" as umbrella terms; travel requirements as the incentive; few deaths in his own circle.
+- [15:36] Listen to independent doctors and use your God-given judgment; *Fahrenheit 451*.
+
+## Sources Cited
+
+- Dose counts from news reports (167 million). Not held.
+- "Resources in my bio" (not named on air). Not held.
+
+## Where This Overlaps the Repo
+
+No direct overlap with the repo's research files.
+
+## Claims to Check
+
+1. **167 million doses administered.** The US passed about 167 million doses in mid-April 2021 (CDC tracker); the dose-versus-person point is accurate for the two-dose mRNA products.
+2. **The highest-paid federal official co-funds one of the vaccines.** Fauci was the highest-paid federal employee; the claim usually refers to NIAID's partnership with Moderna on mRNA-1273 and NIH patent royalties. The personal-funding claim needs a source.
+3. **"Conspiracy theory" was invented by an intelligence agency.** The phrase predates the CIA (it appears in the nineteenth century); the claim usually cites CIA Dispatch 1035-960 (1967) on critics of the Warren Commission, which encouraged countering critics but did not coin the term.
+4. **"Natural flavors" and "fragrance" conceal many chemicals.** Under FDA and FTC rules both are umbrella label terms; "fragrance" can cover many components; "half of which are cancerous" needs a source.
+5. **The injections had never been used in humans at scale.** mRNA vaccines had not been licensed before 2020; the claim holds for mRNA, not for the adenovirus-vector platform (used for the 2019 Ebola vaccine).
 
 ---
 

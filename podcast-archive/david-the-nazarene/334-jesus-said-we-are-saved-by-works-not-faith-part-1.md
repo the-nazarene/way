@@ -10,7 +10,76 @@
 
 ## Summary
 
-*Notes pending.*
+Part one of a series (part two is file 335, on the parables; a part three on Peter and the apostles is announced). Prompted by an argument in a Facebook meme group over salvation as a free gift, he sets out to show from Jesus' own words alone, with no other speaker on the slides, that salvation turns on doing, not on belief alone, and that this agrees with James ("faith without works is dead"). The frame is Luke 21:33 and Matthew 5:17-19 (heaven and earth have not passed away, so neither have Jesus' words or the Torah), set against dispensationalism, which he says exists to set Jesus' words aside. The core passages: repentance as *teshuvah*, turning (Matthew 4:17, 9:13); good works as the light (5:14-16); "least in the kingdom" (5:19) read as Paul; "Lord, Lord" and the two builders (7:21-29), paired with Isaiah 28, where he proposes reading the consonants שאול as Shaul (Saul/Paul) instead of Sheol in "a covenant with death and with Sheol"; Jesus' family as those who do the Father's will; rendering to each according to deeds (16:27); the lawyer and the rich young man (Luke 10:25-28; Matthew 19:16-24, with the Gospel of the Hebrews' second rich man); the two sons, the faithful servant and the sheep and goats (with a suggestion that "the least of these" and the "fellow servants" may include animals). The last third is John, where he argues *pisteuō* with a person as its object should be rendered "obey" or "commit to," and reads John 3, 5, 6, 10, 11 and 12 with "keeps on obeying" (his rendering in *The Rock of a Sure Foundation*). Born from above (John 3:3-5) is baptism, which he says Peter in the Recognitions makes necessary even for the righteous. He closes by announcing that the Hebrew Matthew preserves a phrase at Matthew 7:20 that the Greek lacks.
+
+## Key Points
+
+- [00:51] Occasion: a meme celebrating salvation with nothing required; 50-60 comments calling him a heretic for telling people to do what Jesus says. He attributes to Peter the remark that this gospel makes the Creator reward the unrighteous and ridicule the righteous.
+- [02:37] Plan: part one is Jesus' plain statements only; part two the parables; part three Peter in the Nazarene Acts and the Homilies and the other apostles.
+- [03:59] Luke 21:33 and Matthew 5:17-19: if heaven and earth stand, Jesus' words and the Torah stand. Caveat from Peter: parts of the law Jesus seemed to abolish were additions that never belonged in it, which he calls the work of "the lying pen of the scribes."
+- [06:20] Dispensationalism: Darby, his family's castle, séances and automatic writing; an age of law ending at the resurrection. His conclusion: its purpose is not to remove the law but to remove Jesus, leaving Paul's post-resurrection gospel unquestioned.
+- [08:41] Matthew 4:17, "repent": *teshuvah* from *shuv*, to turn; saying "I repent" and repeating the act is not repentance.
+- [11:03] Matthew 5:14-16: the light is the visible result of good works; faith without action is the lamp under the basket.
+- [13:24] Matthew 5:17-18: "fulfil" as filling up or fully preaching, not ending; "it is finished" (John 19:30) says nothing about the law.
+- [15:12] Matthew 5:19: being "called least" does not say the person is in the kingdom; Jamieson-Fausset-Brown on 1 Corinthians 15:9 gives Paulus as "least"; one of his seven warnings (file 155). Matthew 5:20: righteousness is deeds; the Pharisees had works, and Jesus corrected them.
+- [18:37] A commenter's "Jesus's words are only for Jews": then his salvation is too; the body of Messiah is Israelite, and a baptized follower is no longer a Gentile (one outside the covenant).
+- [21:21] Matthew 7:21-23: the Greek in verse 22 is the word for miracles, which some translations render "mighty works"; he reads the rejection as aimed at reliance on signs, and sets it beside Paul's appeal to the signs of an apostle and Matthew 24's warning about signs (Simon Magus as an example).
+- [24:14] Matthew 7:24-27 continues the thought ("therefore"): the Father's will is to do Jesus' words. Both builders heard; only doing distinguished them. *The Rock of a Sure Foundation* takes its title from this passage.
+- [28:35] Matthew 7:28-29 (he taught with authority) set beside Isaiah 28:9-23, which ends the same way ("give ear and hear my voice"). Isaiah 28:11-13 is, in his reading, the passage behind Jesus' speaking in parables: so that they "fall backward," not so that simple people understand.
+- [32:11] Isaiah 28:14-18 with Shaul for Sheol: a covenant with death and with Shaul; Paul's baptism unto death against the apostles' gospel of life; the refuge of lies as the house on sand; justice and righteousness as the measuring line; the agreement "shall not stand."
+- [39:38] Luke 6:46-49, the same point in Luke's form.
+- [41:11] Matthew 9:13: called to repentance, not to belief. Matthew 12:46-50 and Luke 8:21, 11:27-28: his family are those who hear and do; "hear the word of God" means through the Holy Spirit, not a written text.
+- [43:25] Matthew 13:49-51; then Matthew 16:24-28: deny yourself, take up the cross, follow, and he will render to everyone according to his deeds; "everyone" includes the commenter who said it only applies at the end.
+- [46:45] Luke 10:25-28: the Torah scholar answers correctly; do this and you will live.
+- [47:29] Matthew 19:16-22: keep the commandments; love God first, then neighbour. The Gospel of the Hebrews explains the command to sell everything (fellow Israelites in poverty while nothing goes out of his house), which he regrets is missing from the Greek.
+- [50:47] Mendenhall, *Ancient Israel's Faith and History*: the Sinai covenant as a suzerain-vassal treaty; the Ten Commandments as ten commitments, a standard of behaviour applied to new cases (internet pornography via Matthew 5:28-30; "thou shalt not kill" and eating when there is an alternative).
+- [54:53] Matthew 19:23-24 and the narrow gate: entering is hard and takes effort; a road with billions on it is the wide one.
+- [56:55] Matthew 21:28-32, the two sons: repentance is going to work.
+- [58:35] Matthew 24:45-51 and Luke 12:47-48: the faithful servant set over the household (he compares Adam's dominion); "beat his fellow servants" possibly including animals; the Ebionites taught judgment for conduct toward all creatures.
+- [1:01:11] Matthew 25:31-46: every criterion is a work; he wonders whether "the least of these" includes animals. Sheep and goats: from keeping goats, the difference he sees is obedience.
+- [1:05:41] *Pisteuō*: with a statement it is "believe"; with a person it means obey, submit, commit to. He says the NIV's theological dictionary gives "obey" for the personal use while the NIV never translates it so. "Lord, Lord" without obedience; the rain and car-washing illustration.
+- [1:11:42] John 3:3-5: *anōthen*, "from above"; Nicodemus misheard "again." Born from above is baptism; he cites Peter in the Recognitions that without baptism even a righteous person cannot enter; Jesus and the disciples baptize later in John 3.
+- [1:14:09] John 3:14-21 rendered "whoever keeps on obeying unto him," from the present active participle; judgment as one's own works convicting; the light and the darkness (he names the darkness as the Pauline gospel).
+- [1:22:15] John 5:24-29: those who have done good rise to life, those who have done evil to judgment; he sees no third group. John 5:39-47: searching the scriptures is not enough; scriptural infallibility as a first-century Pharisaic belief; the map and the journey; "if another comes in his own name" read as Paul; "if you had obeyed Moses."
+- [1:29:42] John 6:26-29, 40, 47: "this is the work of God, that you obey unto him whom he has sent"; the bread of life eaten, not shelved. John 10:25-30: "my sheep hear my voice"; churches that say the Spirit no longer speaks. John 11:25-26; 12:44-50: hearing and not keeping is rejecting him; the word he spoke will judge.
+- [1:37:11] Teaser: Matthew 7:20 has a phrase in the Hebrew Matthew that is gone from the Greek, the key to the fruit parables.
+
+## Sources He Cites
+
+- Matthew 4:17; 5:14-20; 7:21-29; 9:13; 12:46-50; 13:49-51; 16:24-28; 19:16-24; 21:28-32; 24:45-51; 25:31-46; Luke 6:46-49; 8:21; 10:25-28; 11:27-28; 12:47-48; 21:33; John 3:3-21; 5:24-47; 6:26-47; 10:25-30; 11:25-26; 12:44-50; 19:30; Isaiah 28:9-23; 1 Corinthians 15:9; 2 Corinthians 12:12. **Held** (KJV). He reads from a modern Hebrew-names translation and his own *Rock of a Sure Foundation* renderings ("keeps on obeying").
+- Peter on the lying pen of the scribes, and Peter on a gospel that rewards the unrighteous. No locator given for either.
+- Recognitions on baptism as necessary even for the righteous. **Held** (Smith): 1.69 and 6.9 (see Claims).
+- Gospel of the Hebrews, the second rich man (via Origen). Not held as a text; the passage is read in his file 184.
+- Jamieson-Fausset-Brown commentary on 1 Corinthians 15:9. Not held.
+- An NIV theological dictionary of the New Testament on *pisteuō*. Not held.
+- George Mendenhall, *Ancient Israel's Faith and History*. Not held.
+- Hebrew Matthew (announced for part two; George Howard's Shem-Tob text). Not held.
+
+## Where This Overlaps the Repo
+
+- `questions/blood-atonement-and-salvation.md` → `### 1. Asked point-blank how to be saved, Jesus names behavior`; the objections `### "You stop reading at Matthew 19:17. Finish the pericope: ..."` and `### "'Keep the commandments' is works-righteousness — nobody can do it, which is the whole point."`
+- `questions/two-ways-kingdom-within.md` → `### 1. Jesus was asked the salvation question directly — and answered with commandments`, `### 2. The final judgment scene is entirely behavioral` and the objection `### "Works are the fruit of salvation, not its basis. ..."`
+- `questions/how-we-read-john.md` → `### 4. The belief vocabulary spikes in John and nowhere else` and `### "The belief conditions settle it — 3:16, 3:18, 3:36, 5:24, 6:40, 6:47, 8:24, 11:25-26, 14:6."` His *pisteuō*-as-obey reading is a different answer to the same verses.
+- `questions/jesus-and-the-torah.md` → `### 1. He says it himself, and then raises the bar` (Matthew 5:17-20) and `### "'Fulfill' (πληρῶσαι) means 'complete, and therefore bring to an end.'"`
+- `questions/pauls-legitimacy.md` → `### "James 2 isn't aimed at Paul. ..."` (James 2 and Jesus' teaching on works).
+- `questions/rapture-end-times.md`; `christianity/2026-03-08-darby-dispensationalism-deep-dive.md` → `## John Nelson Darby — The Man and His Innovation`.
+- `questions/CITATION-NOTES.md` → `### 3. "The Torah was falsified by 'the lying pen of the scribes' to institute sacrifices" — attributed to Clementine Recognitions`.
+- Related David files: 155 (the "least" warning), 177 (baptism, born from above), 184 (the Gospel of the Hebrews rich man).
+
+## Claims to Check
+
+1. **"The lying pen of the scribes" as Peter's words.** The phrase is Jeremiah 8:8 (KJV: "the pen of the scribes is in vain"); `questions/CITATION-NOTES.md` item 3 records no hits in the held Homilies or Recognitions. The Clementine doctrine of additions to scripture is Homilies 2.38 and 3.42-50.
+2. **Peter says this gospel makes the Creator reward the unrighteous and ridicule the righteous.** No locator given; not found in the held Homilies or Recognitions by a search on "unrighteous."
+3. **Darby received dispensationalism at séances in a haunted family castle.** The repo's Darby file and `questions/rapture-end-times.md` trace the system through the Powerscourt conferences (1833) and record no séances.
+4. **Paulus means "least."** Paulus is a Latin cognomen meaning "small"; Paul calls himself "the least of the apostles" (1 Corinthians 15:9, KJV). File 155 lists the same question.
+5. **Matthew 7:22 is the word for miracles.** The Greek is *dynameis*; KJV: "done many wonderful works." Modern versions vary between "miracles" and "mighty works."
+6. **Isaiah 28:15, 18 as a covenant with Shaul.** Unpointed, Sheol and Shaul are both שאול; the Masoretic pointing and the KJV read Sheol ("with hell are we at agreement"; "your agreement with hell shall not stand"). His reading is a proposed double meaning.
+7. **Jesus draws on Isaiah 28 when explaining the parables.** Matthew 13:14-15 quotes Isaiah 6:9-10; the link to Isaiah 28:11-13 is his.
+8. ***Pisteuō* with a personal object means "obey."** Lexicons give believe, trust, entrust; Greek has separate verbs for obey (*peithomai*, *hypakouō*), and John 3:36 sets *pisteuōn* against *apeithōn* (KJV "he that believeth not"; many modern versions "whoever disobeys"). The NIV dictionary statement is unverified here.
+9. **"Keeps on obeying" from the present participle.** The present participle can carry continuous force; whether it must be translated so is a grammatical judgment.
+10. **Recognitions: without baptism even a righteous person cannot enter.** The held text (Smith) matches: 1.69, "unless a man be baptized in water... he can neither receive remission of sins nor enter into the kingdom of heaven"; 6.9, "whether you be righteous or unrighteous, baptism is necessary for you in every respect," quoting John 3:5 as "unless a man is born again of water." 6.10, titled "Necessity of Good Works," follows.
+11. **Scriptural infallibility as a first-century Pharisaic doctrine.** Stated without a source.
+12. **The Gospel of the Hebrews wording on the rich man.** Origen's Latin commentary on Matthew is the source; see file 184.
 
 ---
 

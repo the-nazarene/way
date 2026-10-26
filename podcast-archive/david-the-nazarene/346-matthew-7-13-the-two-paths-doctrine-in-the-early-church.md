@@ -10,7 +10,68 @@
 
 ## Summary
 
-*Notes pending.*
+A study of the Two Ways as "a central pillar in early Christianity" that is "just not very prevalent in the Gospels." He starts from Luke 13:24-28 (the narrow door, "Lord, Lord, open to us," depart from me) and Matthew 7:12-15 (the golden rule, the narrow and wide gates, false prophets as ravening wolves), and reads the ravening wolf against Jacob's blessing of Benjamin (Genesis 49:27), identifying the wolf with Paul, the one Benjaminite of the New Testament, and the broad way with confession-and-belief salvation. He then reads Peter's Two Paths discourse at Sidon (Homilies 7.6-8: the broad, smooth path and the narrow, rugged one; lesser punishment for honest error than for wilful indifference; the appointed service of one God, the Prophet of truth, baptism, abstaining from the table of devils, washing and purity) and the Didache's Two Ways in full (chapters 1-6), which he presents as an expanded Ten Commandments and, with chapter 7, as the original baptismal ceremony to be read aloud before baptism. Along the way: George Mendenhall on the Ten Commandments as a pattern for covenant behaviour, the Exodus covenant code as Babylonian law (eye for an eye, Hammurabi), "you shall not kill" as covering animals, and a reading of 2 Peter 3:15-16 and Galatians 2:9 as faint praise and a handshake rather than approval. He closes on the greatest commandment (Matthew 22:35-40) with love of God ranked before love of neighbour, two masters, forgiveness (Matthew 6:12-15, Luke 17:3-4), and Recognitions 2.20 on seeking first God's righteousness and kingdom.
+
+## Key Points
+
+- [00:00] The Two Ways as an early pillar, possibly older than Jesus' ministry because the Dead Sea Scrolls mention it; prominent in the Clementines (Peter "spends several chapters" on it) and in the first half of the Didache; he expects a full form of it in the Gospel of the Hebrews if one is found.
+- [01:45] Luke 13:24-28: the narrow door, which he links to the narrow path and to the camel and the needle's eye; once the master shuts the door, "Lord, Lord, open to us" is refused.
+- [03:27] Peter's teaching that this age is "the time of works"; get through the narrow door before it shuts.
+- [04:14] Matthew 7:12-14: the golden rule as a large part of the good path; then the two gates.
+- [05:42] Matthew 7:15: ravening wolves; he says the phrase occurs only here and in Genesis 49 (Benjamin "a ravening wolf in the last days"); the last days begin with the Messiah; the only New Testament Benjaminite is Paul. The broad way is believing biographical facts about Jesus (Romans 10:9 paraphrased); "the vast majority of the church follows Paul, not Jesus."
+- [08:28] Homilies 7.6 read: conditions fore-ordained before the foundation of the world; evil deeds punished by the prince of evil, good deeds rewarded; his theme of allegiance shown by behaviour (the prince of the right hand).
+- [09:29] Homilies 7.7 read: the two paths, broad and smooth vs narrow and rugged, presided over by unbelief and faith; God judges thoughts as well as actions; honest error is lightly punished, wilful indifference severely. His gloss: "That's what grace is," covering honest mistakes; feigned ignorance does not work with God.
+- [14:11] Homilies 7.8 read: the appointed service (worship him only, trust the Prophet of truth, baptism for remission of sins, abstain from the table of devils, wash after intercourse, purification, good works). Baptism is not optional, "you're saved by water baptism" (referring to his earlier presentation, file 343); the abstentions correspond to James's rules in Acts 15; the Nazarenes "would baptize daily for purification."
+- [16:56] The Didache introduced: a first-century handbook for congregations, "the teaching of Yeshua to his apostles for the nations," readable in about 15 minutes.
+- [17:39] Didache 1 read: two paths of life and death; love God, love neighbour, the negative golden rule; he parallels Matthew 7:12 and the greatest commandment, and stresses that love of God comes first, so love of neighbour must not condone sin.
+- [20:40] "Keep yourself from fleshly and bodily lusts": he includes the lust of the belly; the first Christians, James and the twelve, and the Ebionites/Nazarenes were vegetarian; Paul opposed the vegetarian assembly; eating meat breaks "Thou shalt not kill," including paying someone else to kill.
+- [23:00] Didache 1.5-6 on giving and receiving; "let your alms sweat in your hands."
+- [24:43] Didache 2 read ("You shall not kill" applied to meat-eaters). On "You shall not slander": Peter not slandering Paul in 2 Peter 3:16 is not approval; "our beloved brother" demotes him; the Greek word means nonsense, not hard to understand. Acts 15: the apostles listened, which is not approval; Galatians 2:9's right hand of fellowship is a handshake, and only Paul reports it.
+- [29:36] Didache 2.7: hate no one, but rebuke some; rebuke is not hate.
+- [30:31] Didache 3 read (the "my child" fences: anger to murder, lust to fornication, omens to idolatry, lying to theft, complaining to blasphemy; the meek inherit the earth). He calls it "an expanded version of the Ten Commandments."
+- [32:24] George Mendenhall, Ancient Israel's Faith and History: the Ten Commandments as a pattern from which covenant behaviour in other situations is derived. The covenant code (Exodus 20 onward) as Babylonian legal code, related to Hammurabi by common origin; Jesus' correction of "eye for an eye" aims at that code.
+- [35:46] Didache 4 read (honour the one who speaks God's word; give as a ransom for sins; share everything; teach children the fear of God; neither add to nor take from the commandments; confess in the assembly).
+- [38:33] Didache 5 read (the way of death), then 6.1-3 (the whole yoke; about food, bear what you can; abstain from idol food, "fellowship with demons").
+- [40:51] Didache 7: the first six chapters are "a baptism ceremony"; read them at the water and have the candidate consent; living water, then other water, pouring three times; fasting one or two days beforehand by all present.
+- [42:55] Matthew 22:35-40; love of God before love of neighbour; Matthew 6:24 (two masters), extended to God and man when they conflict; Didache 2.7 again.
+- [45:17] Matthew 6:12-15 (unforgiven if you do not forgive) and Luke 17:3-4 (forgive the repentant brother seven times); forgiving the unrepentant is hard and frees the one who forgives.
+- [46:12] Closing reading of Peter (Recognitions 2.20): peace to those prepared to give their right hand to the truth; seek first his justice and his kingdom; reward for the good, punishment for the wicked. Call to repentance and to "practicing just justice and righteousness."
+
+## Sources He Cites
+
+- Luke 13:24-28; Matthew 6:12-15, 6:24, 7:12-15, 22:35-40; Luke 17:3-4; Genesis 49:27; Romans 10:9 (paraphrased); 2 Peter 3:15-16; Acts 15; Galatians 2:9; Exodus 20-23 (covenant code). **Held** (KJV). KJV Genesis 49:27: "Benjamin shall ravin as a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil." KJV Matthew 7:15: "inwardly they are ravening wolves." KJV 2 Peter 3:16: "some things hard to be understood."
+- Clementine Homilies 7.6-8 (Peter at Sidon; "The Two Paths"; "The Service of God's Appointment"). **Held** (Smith); his reading follows Smith closely ("The path of the lost, then, is broad and very smooth--it ruins them without troubling them").
+- Clementine Recognitions 2.20 ("The Kingdom of God and His Righteousness"). **Held** (Smith): "Peace be to all of you who are prepared to give your right hands to truth"; he reads a version with "justice" for righteousness.
+- Didache 1-7. **Held** (Richardson); he reads a different translation with Yahweh and Yeshua (see Claims 6-7).
+- Dead Sea Scrolls, the Two Ways (unspecified). Tier 2 excerpts **held**: the Two Spirits doctrine, 1QS 3:13-4:26, with 3:17-19 verified.
+- George Mendenhall, Ancient Israel's Faith and History. Secondary; not held.
+- Code of Hammurabi. Not held.
+
+## Where This Overlaps the Repo
+
+- `questions/two-ways-kingdom-within.md` → `### 4. The Didache: the oldest Christian catechism opens with the Two Ways, not a creed` and `### 5. The Two Ways predates Christianity — Jesus inherited it`.
+- `christianity/two-ways-oldest-christian-doctrine.md` → `### The Didache's Two Ways`, `### Dead Sea Scrolls: The Two Spirits`, `### Jesus's Own Two Ways Teaching`. Neither this file nor the card cites Homilies 7.7, which he reads in full.
+- `christianity/Incoming/didache-full-text.md` → `## Chapter 1` to `## Chapter 7`; `christianity/Incoming/clementine-homilies-full-text.md` → `### Chapter VII — The Two Paths`.
+- `questions/pauls-legitimacy.md` → `### "Peter personally endorses Paul — 2 Peter 3:15-16 calls him 'our beloved brother Paul.'"` and `### "The Jerusalem church accepted him — they gave him the right hand of fellowship (Galatians 2:9)."`
+- `questions/blood-atonement-and-salvation.md` → `### 2. Forgiveness is reciprocal, not purchased` (Matthew 6:14-15).
+- `questions/jesus-and-the-torah.md` → `### 5. The Law summarizes itself — and a Torah scholar agrees out loud` (Matthew 22:35-40).
+- `questions/nazarene-sect-sacrifice-and-diet.md` → `## What to concede, early and in your own words` (on reading Didache 6.3 as a diet rule).
+
+## Claims to Check
+
+1. **"Ravening wolf" occurs only in Matthew 7:15 and Genesis 49.** KJV Genesis 49:27 reads "Benjamin shall ravin as a wolf"; the verse has "in the morning" and "at night," and the "last days" frame is Genesis 49:1. Ezekiel 22:27 and Zephaniah 3:3 also compare princes and judges to wolves.
+2. **Paul is the only Benjaminite in the New Testament.** Romans 11:1 and Philippians 3:5 name Paul's tribe; Acts 13:21 also names King Saul as "a man of the tribe of Benjamin."
+3. **The Two Ways appears in the Dead Sea Scrolls.** The held excerpt is the Two Spirits doctrine (1QS 3:13-4:26): God "has appointed for him two spirits in which to walk" (1QS 3:17-19, Vermes). The repo's research file treats it as the Two Ways' precursor.
+4. **Homilies 7.7 as he reads it.** The held text matches his reading, including "these two paths are presided over by unbelief and faith," and its editor's note compares the chapter with the Didache and Apostolic Constitutions 7.1.
+5. **Homilies 7.8 as an Acts 15 parallel.** The held text's own note: "The language recalls Acts xv. 20 and 1 Cor. x. 21." It lists "dead carcases" where he reads "dead relics."
+6. **Didache 7: baptism "in the name of the Messiah, Yeshua, the son of God."** The held Richardson text reads "in the name of the Father and of the Son and of the Holy Spirit" (7.1) and "in the name of the Father, Son, and Holy Spirit" (7.3). The translation he reads is not named in the video.
+7. **Didache 6.3: idol food is "fellowship with demons."** Richardson: "keep strictly away from what is offered to idols, for that implies worshiping dead gods." The held text's food line is "undertake what you can."
+8. **The first six chapters of the Didache are a baptismal ceremony.** Didache 7.1 (Richardson): "Give public instruction on all these points, and then 'baptize'." That chapters 1-6 were recited at the water and consented to is his reconstruction of the procedure.
+9. **The Nazarenes baptized daily.** The held Panarion says it of the Ebionites: "They too receive baptism, apart from the baptisms they undergo every day" (30,16,1a), and their Travels of Peter say "that he was baptized every day for the sake of purification" (30,15,3). Epiphanius also lists the Hemerobaptists (Anaceph. I 17) as a Jewish sect defined by daily baptism.
+10. **The Greek of 2 Peter 3:16 means "nonsense."** Standard lexicons give dysnoētos as "hard to understand"; the KJV has "hard to be understood."
+11. **The covenant code is Babylonian legal code.** His position, with Mendenhall; the parallels with Hammurabi are widely discussed and the nature of the relationship is debated.
+12. **The Didache is first-century and attributed to the apostles.** The long title in the Jerusalem manuscript names the twelve apostles; dating is usually given as c. 50-120.
+13. **"You shall not kill" covers animals.** His reading; Exodus 20:13 and Didache 2.2 are phrased without an object.
 
 ---
 
