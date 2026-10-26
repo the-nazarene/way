@@ -138,6 +138,8 @@ The sheet follows James R. Edwards, *The Hebrew Gospel and the Development of th
 
 ## What we checked against texts we hold
 
+Each of these checks is now also an entry in the shared claims list (`claims/`, entries C1-C98), so the next source that cites the same passage can use it. `python scripts/claims.py find <passage>` finds one.
+
 Full detail, with file:line references, is in `audits/2026-10-26-florez-red-letters-citation-check.md`.
 
 **Where the held texts match the sheet**

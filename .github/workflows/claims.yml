@@ -1,0 +1,31 @@
+# Every quotation in the claims list must be found word for word in its held
+# text. Runs when the list or any held text changes.
+name: claims list
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'claims/**'
+      - 'christianity/**'
+      - 'scripts/claims.py'
+      - '.github/workflows/claims.yml'
+  pull_request:
+    paths:
+      - 'claims/**'
+      - 'scripts/claims.py'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check every claim against its held text
+        run: python scripts/claims.py check

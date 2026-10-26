@@ -16,7 +16,7 @@ Both return passages with their file, line, source header and link (talks link t
 - **Index:** Cloudflare Vectorize index `the-way` (1,024 dims, cosine, filterable by `group`), on Matt's Cloudflare account.
 - **Embeddings:** Workers AI `@cf/baai/bge-m3`, for the passages and for each question.
 - **Filling it:** `scripts/vectorize-sync.py`, using the same chunking and skip rules as `scripts/semantic-search.py`, minus `site/` and `ideas/`.
-- **Keeping it current:** `.github/workflows/search-index.yml` runs `--since <previous commit>` on every push to `main` that touches Markdown. It needs the repo secret `CLOUDFLARE_SEARCH_TOKEN`. Running the workflow by hand re-embeds everything.
+- **Keeping it current:** `.github/workflows/search-index.yml` runs on every push to `main` that touches Markdown and embeds everything changed since the last run that succeeded, so a failed run is caught up by the next one. It needs the repo secret `CLOUDFLARE_SEARCH_TOKEN`. Running the workflow by hand does the same catch-up; tick **full** to re-embed everything.
 - **Limits:** 30 requests a minute per address (the `LIMITER` binding).
 
 ## Working on it

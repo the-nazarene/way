@@ -53,6 +53,7 @@ EXTRA_SKIP_ROOT = {"site", "ideas"}
 
 METADATA_MAX_BYTES = 9500   # Vectorize allows 10 KiB of metadata per vector
 TEXT_MAX_CHARS = 2000
+DELETE_BATCH = 100          # Vectorize refuses more than 100 ids per delete
 
 ACCOUNT = os.environ.get("CLOUDFLARE_ACCOUNT_ID", "")
 TOKEN = os.environ.get("CLOUDFLARE_SEARCH_TOKEN", "")
@@ -209,8 +210,8 @@ def setup():
 
 def delete_ids(ids):
     ids = sorted(ids)
-    for i in range(0, len(ids), 1000):
-        call("POST", f"/vectorize/v2/indexes/{INDEX_NAME}/delete_by_ids", {"ids": ids[i:i + 1000]})
+    for i in range(0, len(ids), DELETE_BATCH):
+        call("POST", f"/vectorize/v2/indexes/{INDEX_NAME}/delete_by_ids", {"ids": ids[i:i + DELETE_BATCH]})
     if ids:
         print(f"  Removed {len(ids)} stale chunks")
 

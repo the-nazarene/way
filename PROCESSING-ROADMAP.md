@@ -55,6 +55,8 @@ The full method (stages, which model does what, quality checks, rights, git habi
 - **Transcripts:** every David The Nazarene and SixSeven video now has one. The last 58 had no captions and were transcribed locally with Whisper (Next Up 10, 12).
 - **Audit list:** A23-A30 added from the new notes; A8's two sources are now held.
 - **Christian Florez:** research sheet "The Red Letters That Were Added" converted, read, checked against held texts and mapped against the repo (Next Up 19). Seven possible problems in our own files are on the audit list (A16-A22).
+- **Claims list (new):** `claims/` holds one entry per checked claim about what a source says, so each claim is checked once. Started with 98 entries from the Florez checks and the church-father checks; `python scripts/claims.py check` confirms every quotation in it against the held text, on every push (Next Up 21).
+- **Search site:** syncs now start from the last one that succeeded, so a failed sync is caught up by the next push. The failures on 2026-10-26 were the script sending 1,000 ids per delete when Cloudflare takes 100 (fixed).
 
 **Waiting on people**
 - Rex: which item 9 research-file changes to apply (D1); create the private library repo (D5); send Chris the source questions (Next Up 8).
@@ -103,6 +105,7 @@ In order. Put your name in **Who** when you take one.
 | 19b | Send Christian the points where our held texts read differently from the sheet (notes file, "Where the held texts read differently"; ten points, e.g. the baptisms in Acts, Caiaphas in Matthew 26, Panarion 30,13,7 and 30,22,4-5, Recognitions 1.39), and the two of his open items our texts settle (Panarion 46,1,9; the Didache's two baptismal formulas). | Christian Florez | Rex | [ ] |
 | 19c | The sources the sheet leans on that we don't hold, and that would let us check the rest: Metzger's *Textual Commentary* (UBS grades, A7, A26), Edwards's *The Hebrew Gospel* (2009) and Gregory (*NTS* 2005), Jerome's commentaries and *Against the Pelagians*, Clement's *Stromata*, Origen's *Commentary on John*. The public-domain ones join Next Up 18 **2026-10-26:** Jerome's *Letters*, *Against the Pelagians* and *Lives*, Clement's *Stromata* and Origen's *Commentary on John* are now held (Next Up 18), and the sheet's quotations from them are checked. Metzger and Edwards are in copyright and stay unheld | Christian Florez | | [ ] |
 | 20 | More public-domain sources the new notes point to: Josephus, *Jewish War* and *Antiquities* (Whiston, 1737), Tacitus, *Histories* (Church and Brodribb), the Sinaitic Syriac gospels in English (Lewis 1894, Burkitt 1904), the Scofield Reference Bible's 1909 notes, and Tertullian (ANF 3-4). Josephus is also `OPEN-RESEARCH.md` item 7 | | Claude | [ ] |
+| 21 | Claims list, next steps: (a) add the claims already checked in older audits (`audits/2026-10-20-panarion-quotations.md`, AUDIT-LIST A1-A30, `questions/CITATION-NOTES.md`); (b) when processing anything new, add its checkable claims here instead of re-checking them in each notes file (Intake Rules, step 8); (c) show each claim's result on the site next to the card citation that uses it; (d) a person reads the passages and changes "person check: not yet" to their name. Format and rules: `claims/README.md` | | | [ ] |
 
 ---
 
@@ -123,6 +126,7 @@ Judgment calls collected as they come up, for Rex and Matt to go through togethe
 | D5 | Private library repo for the 🔴 books (also Next Up 4) | GitHub | Waiting on Rex to create it |
 | D8 | Christian Florez's research sheet: publish the full text in the public repo? It sits in his own Notion workspace, and he sent it to us for the repo | `extended-library/polemic-answers-red-letters-added-florez.md` | Decided 2026-10-26 (Rex): publish in full, since Christian sent it for the repo |
 | D9 | Next Up 19a: which of the ten card additions from Christian's sheet to draft, and the label question underneath them. The sheet follows Edwards in calling the Panarion 30 sayings "the Hebrew Gospel"; our cards call them the Gospel of the Ebionites (audit A20). The repo map has the full list with file:line references | `audits/2026-10-26-florez-red-letters-repo-map.md` §2 | Waiting |
+| D10 | What the public search shows. Right now it returns everything in the repo: primary texts, cards, our notes, podcast transcripts and contributors' full texts, without saying which kind a result is. Options: (1) label every result by kind and show all of it; (2) search primary texts, cards and the claims list by default, with working material (talks, notes, contributed works) behind a clearly labelled switch; (3) leave working material out of the public search entirely and keep it in the repo only. Whichever is chosen, the full texts stay in the repo as the record of what we were sent | `site/search/`, `scripts/vectorize-sync.py` | Waiting (Rex, Matt) |
 
 ---
 
@@ -222,6 +226,7 @@ For Claude and for anyone adding sources by hand.
 5. **Check the rights before anything goes public, and never push a copyrighted file even briefly** (git history keeps it forever). Public domain or the contributor's own work: full text in the repo. Copyrighted: Markdown stays out of the public repo; the repo gets notes. Mark it 🔴 (or ⚠️ if unclear) everywhere it's listed, and add it to Copyrighted Works We Hold.
 6. **Describe, don't judge.** Contributors share this repo and read this file. Say what a source covers. Order of work goes in Next Up, not in labels on the source.
 7. **Add the next steps to Next Up** with the contributor's name.
+8. **Put every checkable citation in the claims list.** For each claim about what a source says, run `python scripts/claims.py find <passage>` first. If there's an entry, add the new source to its **Raised by:** line. If not, check it against the held text and add one (`claims/README.md`). Readings and opinions stay in the notes; only claims a source can settle go in the list.
 
 **By type**
 

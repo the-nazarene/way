@@ -317,3 +317,17 @@ python scripts/vectorize-sync.py --all --dry-run     # count, send nothing
 ```
 
 Needs `CLOUDFLARE_ACCOUNT_ID` and `CLOUDFLARE_SEARCH_TOKEN`. Stateless: old passages of a changed file are found by chunking the file as it was at `<sha>`.
+
+## claims.py — the claims list
+
+`claims/` holds one entry per claim about what a source says (format in `claims/README.md`). This script keeps it honest.
+
+```
+python scripts/claims.py check          # every entry well formed; every quoted line found in its held text
+python scripts/claims.py find Eusebius 3.27
+python scripts/claims.py find "apostate from the law"
+python scripts/claims.py stats          # entries by result
+python scripts/claims.py next           # next free ID
+```
+
+`check` compares the way a reader would: it ignores curly vs straight quotes, dash style, footnote markers like `[830]`, emphasis marks and line breaks. `…` in a quotation stands for words left out; the pieces must appear in order. It runs on GitHub (`.github/workflows/claims.yml`) on every push that touches `claims/` or a held text, and fails if any quotation is not found.

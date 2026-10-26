@@ -1,6 +1,9 @@
 # Keeps search.nazareneway.com current: on every push to main that touches
-# Markdown, embed the changed files and drop their old passages.
-# Running it by hand (Actions → search index → Run workflow) re-embeds everything.
+# Markdown, embed what changed since the last sync that succeeded and drop the
+# old passages. Starting from the last success (not the previous push) means a
+# failed run is caught up by the next one, with nobody re-running it by hand.
+# Running it by hand (Actions → search index → Run workflow) does the same
+# catch-up; tick "full" to re-embed everything.
 name: search index
 
 on:
@@ -8,10 +11,19 @@ on:
     branches: [main]
     paths: ['**.md']
   workflow_dispatch:
+    inputs:
+      full:
+        description: 'Re-embed every file'
+        type: boolean
+        default: false
 
 concurrency:
   group: search-index
   cancel-in-progress: false
+
+permissions:
+  contents: read
+  actions: read
 
 jobs:
   sync:
@@ -19,6 +31,7 @@ jobs:
     env:
       CLOUDFLARE_ACCOUNT_ID: a7dc5999bd87dca2db4de77a5ac27e66
       CLOUDFLARE_SEARCH_TOKEN: ${{ secrets.CLOUDFLARE_SEARCH_TOKEN }}
+      GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -28,9 +41,12 @@ jobs:
           python-version: '3.12'
       - name: Sync changed files
         run: |
-          BEFORE="${{ github.event.before }}"
-          if [ -z "$BEFORE" ] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+          LAST=$(gh run list --workflow search-index.yml --branch main --status success \
+                   --limit 1 --json headSha --jq '.[0].headSha // empty' || true)
+          if [ "${{ inputs.full }}" = "true" ] || [ -z "$LAST" ] \
+             || ! git cat-file -e "$LAST^{commit}" 2>/dev/null; then
             python scripts/vectorize-sync.py --all
           else
-            python scripts/vectorize-sync.py --since "$BEFORE"
+            echo "Catching up from the last successful sync, $LAST"
+            python scripts/vectorize-sync.py --since "$LAST"
           fi
