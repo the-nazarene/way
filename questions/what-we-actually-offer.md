@@ -59,7 +59,7 @@ The woman at the well (John 4) — wrong ethnicity, wrong hill, five husbands �
 And the one everybody quotes:
 > "Neither do I condemn you. Go your way, and from now on do not sin again." — John 8:11
 
-**Say the textual status out loud before someone else does:** the *pericope adulterae* (John 7:53-8:11) is absent from our earliest manuscripts and floats between locations in later ones — some put it in Luke. We cite it as early and treasured Christian tradition, not as textual bedrock. We flag it because flagging it costs nothing and buys credibility, and because **the case does not need it.** Luke 23:43 and Luke 15:20 are not in doubt by anyone.
+**Say the textual status out loud before someone else does:** the *pericope adulterae* (John 7:53-8:11) is absent from the earliest copies of John (P66 and P75, about 200, and the great fourth-century codices), Origen's commentary goes from 7:52 straight to 8:12, and in later manuscripts it floats between locations — some put it in Luke. But the story is older than its place in John: Eusebius reports that Papias "relates another story of a woman, who was accused of many sins before the Lord, which is contained in the Gospel according to the Hebrews" (*Church History* 3.39.16, McGiffert). We cite it as early and treasured Christian tradition, not as John's text and not as textual bedrock. (Florez sheet, A2) We flag it because flagging it costs nothing and buys credibility, and because **the case does not need it.** Luke 23:43 and Luke 15:20 are not in doubt by anyone.
 
 ## The Hard Questions
 
