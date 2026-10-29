@@ -1,6 +1,6 @@
 # Claims: Epiphanius, *Panarion*
 
-Held text: `christianity/Incoming/epiphanius-panarion-book-1-full-text.md` (machine translation from Holl's Greek, checked by Craig Wescoe). Section numbers are written as in the file (29,9,4a = 29.9.4a). Some passages were also checked against Holl's Greek in `audits/2026-10-20-panarion-quotations.md`.
+Held text: `christianity/Incoming/epiphanius-panarion-book-1-full-text.md` (machine translation from Holl's Greek, checked by Craig Wescoe). Section numbers are written as in the file (29,9,4a = 29.9.4a). Some passages were also checked against Holl's Greek in `audits/2026-10-20-panarion-quotations.md`. Sects 65-80 (C125) are in `christianity/Incoming/epiphanius-panarion-book-3-full-text.md`, same translation.
 
 ### C41 · Epiphanius, Panarion 29.9.4
 **Claim:** The Nazoraeans have Matthew "most complete, in Hebrew".
@@ -65,7 +65,7 @@ Held text: `christianity/Incoming/epiphanius-panarion-book-1-full-text.md` (mach
 > And at once a great light shone round the place.
 > I beg you, Lord, baptize me yourself.
 **Note:** The details (entering, light, John's request) match. But the text has the "well pleased" form twice and the Psalm 2:7 line once: a third voice follows, "This is my beloved Son, on whom I am well pleased". So it combines both readings rather than giving the Psalm 2:7 form instead of the majority one. The sheet's F3.6 quotation leaves out the "in you I am well pleased" clause that sits between the two parts.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md` (A27, F3.6, F7)
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md` (A27, F3.6, F7); `extended-library/polemic-answers-was-yeshua-god-florez.md:165` (B3, among witnesses that "knew it as 'today I have begotten thee'"), :1033
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-florez-red-letters-citation-check.md`); person check: not yet
 
 ### C47 · Epiphanius, Panarion 30.14.5
@@ -109,3 +109,35 @@ Held text: `christianity/Incoming/epiphanius-panarion-book-1-full-text.md` (mach
 **Note:** The place is confirmed.
 **Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md` (verify list, item 8)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-florez-red-letters-citation-check.md`); person check: not yet
+
+### C123 · Epiphanius, Panarion 29.7.6
+**Claim:** On the Nazarenes, Epiphanius "admits he does not know whether they held him to be a mere man or taught the virgin birth".
+**Result:** Matches
+**Held text:** `christianity/Incoming/epiphanius-panarion-book-1-full-text.md` (Wescoe)
+**Text says:**
+> Concerning Christ, I cannot say whether they too, led astray by the wickedness of the followers of Cerinthus and Merinthus mentioned above, regard him as merely a man, or whether they hold, as the truth has it, that he was begotten of Mary through the Holy Spirit.
+**Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:189`, :193
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet
+
+### C124 · Epiphanius, Panarion 30.16.4 (with 30.3.3-6)
+**Claim:** Panarion 30.16.4: the Ebionites held that Christ was not begotten of God the Father but created as one of the archangels, ruling over the angels, who came into Adam and the patriarchs and finally clothed himself in the body of Jesus.
+**Result:** Matches, other section number
+**Held text:** `christianity/Incoming/epiphanius-panarion-book-1-full-text.md` (Wescoe)
+**Text says:**
+> But they do not say that he was begotten of God the Father, but that he was created like one of the archangels, and yet is lord both of angels and of all [the things] made by the Almighty
+> but that he comes here whenever he chooses, just as he came in Adam too, and showed himself to the patriarchs, putting on the body
+> No, but the Spirit, which is the Christ, came into him and put on the one called Jesus.
+**Note:** The archangel part is 30.16.4 (first line). Adam, the patriarchs and putting on Jesus are 30.3.5-6a (second and third lines). Epiphanius says their accounts vary ("one in one way and another in another", 30.3.1; "now one thing and now another", 30.3.6b), and 30.16.3 adds that Jesus "was born from a man's seed and was chosen, and so by election was called Son of God". So "a high created being" is one Ebionite view among several he reports.
+**Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:189`, :1033
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet
+
+### C125 · Epiphanius, Panarion 69.72.8 and 69.73.1
+**Claim:** *Homoousios* "is not in scripture", and the Nicene side knew it was not.
+**Result:** Matches
+**Held text:** `christianity/Incoming/epiphanius-panarion-book-3-full-text.md` (Wescoe)
+**Text says:**
+> So too we are compelled to speak of the homoousion, even if it were not written in its own wording
+> If, then, we piously use a word that is not written, and it is acceptable because it is spoken for the glory of God
+**Note:** This is Epiphanius about 377, defending the word against the Arians; it is a pro-Nicene writer conceding that it is unscriptural. It does not report what was said at the council in 325, which needs Athanasius or Eusebius's letter (not held; C157).
+**Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:32`, :951
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet

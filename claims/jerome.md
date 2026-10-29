@@ -120,3 +120,13 @@ Jerome's commentaries (Matthew, Isaiah, Micah, Ezekiel, Ephesians) are not in NP
 **Note:** NPNF does not translate this letter. Its summary lists Hedibia's twelve questions, and question 8 (above) is about Matthew 27:51, which fits the claim.
 **Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:841`
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
+
+### C122 · Jerome, Lives of Illustrious Men 1
+**Claim:** 2 Peter was doubted in antiquity, and Jerome records the doubt.
+**Result:** Matches
+**Held text:** `christianity/Incoming/jerome-lives-of-illustrious-men-full-text.md` (Richardson, NPNF 2.3)
+**Text says:**
+> He wrote two epistles which are called Catholic, the second of which, on account of its difference from the first in style, is considered by many not to be by him.
+**Note:** Origen and Eusebius are C118.
+**Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:301`
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet

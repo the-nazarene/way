@@ -58,11 +58,15 @@ The full method (stages, which model does what, quality checks, rights, git habi
 - **Claims list (new):** `claims/` holds one entry per checked claim about what a source says, so each claim is checked once. Started with 98 entries from the Florez checks and the church-father checks; `python scripts/claims.py check` confirms every quotation in it against the held text, on every push (Next Up 21).
 - **Search site:** syncs now start from the last one that succeeded, so a failed sync is caught up by the next push. The failures on 2026-10-26 were the script sending 1,000 ids per delete when Cloudflare takes 100 (fixed).
 
+**Done 2026-10-28**
+- **Christian Florez, second sheet:** "Was Yeshua God?" converted, read, checked against held texts (68 new claims, C99-C166) and mapped against the repo (Next Up 22). Seven possible problems in our own files are on the audit list (A31-A37), including one plain error on the Trinity card (Mark 10:18: Luke doesn't soften it). A Trinity card packet is drafted for a yes or strike (22a, D11).
+
 **Waiting on people**
 - Rex: which item 9 research-file changes to apply (D1); create the private library repo (D5); send Chris the source questions (Next Up 8).
 - Group: ask the authors for permission, or sideline (D4).
 - Matt: ask Scott and Dr. Tabor about their talks being public (Next Up 2b).
 - Rex: send Christian Florez the points to check (Next Up 19b); pick the card additions (D9).
+- Matt or Rex: yes or strike on the Trinity card packet (D11); send Christian the second sheet's points (Next Up 22b).
 
 ---
 
@@ -106,6 +110,10 @@ In order. Put your name in **Who** when you take one.
 | 19c | The sources the sheet leans on that we don't hold, and that would let us check the rest: Metzger's *Textual Commentary* (UBS grades, A7, A26), Edwards's *The Hebrew Gospel* (2009) and Gregory (*NTS* 2005), Jerome's commentaries and *Against the Pelagians*, Clement's *Stromata*, Origen's *Commentary on John*. The public-domain ones join Next Up 18 **2026-10-26:** Jerome's *Letters*, *Against the Pelagians* and *Lives*, Clement's *Stromata* and Origen's *Commentary on John* are now held (Next Up 18), and the sheet's quotations from them are checked. Metzger and Edwards are in copyright and stay unheld | Christian Florez | | [ ] |
 | 20 | More public-domain sources the new notes point to: Josephus, *Jewish War* and *Antiquities* (Whiston, 1737), Tacitus, *Histories* (Church and Brodribb), the Sinaitic Syriac gospels in English (Lewis 1894, Burkitt 1904), the Scofield Reference Bible's 1909 notes, and Tertullian (ANF 3-4). Josephus is also `OPEN-RESEARCH.md` item 7 | | Claude | [ ] |
 | 21 | Claims list, next steps: (a) add the claims already checked in older audits (`audits/2026-10-20-panarion-quotations.md`, AUDIT-LIST A1-A30, `questions/CITATION-NOTES.md`); (b) when processing anything new, add its checkable claims here instead of re-checking them in each notes file (Intake Rules, step 8); (c) show each claim's result on the site next to the card citation that uses it; (d) a person reads the passages and changes "person check: not yet" to their name. Format and rules: `claims/README.md` | | | [ ] |
+| 22 | Christian Florez's research sheet "Polemic Answers — Was Yeshua God?" done 2026-10-28. It is converted (`extended-library/polemic-answers-was-yeshua-god-florez.md`, all 557 Notion blocks) and has notes (`-notes.md`: the argument, its own cautions, what we checked, where it meets the repo). Two helper passes checked every claim a held text can test (church fathers, Westcott-Hort, JPS 1917, Brenton, KJV; claims C99-C166) and mapped the sheet against the cards. Reports in `audits/2026-10-28-florez-was-yeshua-god-*.md`. Possible problems in our own files are on `AUDIT-LIST.md` as A31-A37 | Christian Florez | Claude | [x] |
+| 22a | Feed the sheet into the Trinity card. Drafted 2026-10-28 as one packet, in the same pull request as the processing (stacked on PR #19): the Mark 10:18 fix (A31), the fathers caveat (A32), 1 Samuel 24:9 (A33), counter-evidence (Ignatius, Hurtado and Bauckham, the texts the sheet concedes are strong), 1 Timothy 3:16 and the cases that complicate the "one way" list, the first preaching in Acts and Romans 1:4, the Ebionites from hostile witnesses, John 1:1 with Origen, Brown's count for the epistles; site card: the Mark 10:18 note, a "don't say Nicaea invented it" line, an Ignatius counter-source. Approve or strike numbers (D11) | Christian Florez | Claude drafted; Matt or Rex approves | [ ] |
+| 22b | Send Christian the points where our held texts read differently from the sheet (notes file, "Where the held texts read differently"; eleven points, e.g. Origen and the baptism voice, Genesis 24:43, Isaiah 48:16, Deuteronomy 32:43 in Brenton, Didache 10) | Christian Florez | Matt or Rex | [ ] |
+| 22c | Not yet in the packet, for a later round: the Old Testament proof texts (Isaiah 9:6, Zechariah 12:10, Micah 5:2, Psalm 110:1, Genesis 19:24, with JPS 1917 and Brenton; Justin's *Dialogue* 129 uses Genesis 19:24 for "two") as a new research file; Philippians 2 and the "I am" sayings in more depth; the D2 dating table for `trinity-fourth-century-construction.md`; TOPIC-INDEX "Primary Texts" still doesn't list the texts added 2026-10-26 | Christian Florez | Claude | [ ] |
 
 ---
 
@@ -127,13 +135,14 @@ Judgment calls collected as they come up, for Rex and Matt to go through togethe
 | D8 | Christian Florez's research sheet: publish the full text in the public repo? It sits in his own Notion workspace, and he sent it to us for the repo | `extended-library/polemic-answers-red-letters-added-florez.md` | Decided 2026-10-26 (Rex): publish in full, since Christian sent it for the repo |
 | D9 | Next Up 19a: which of the ten card additions from Christian's sheet to draft, and the label question underneath them. The sheet follows Edwards in calling the Panarion 30 sayings "the Hebrew Gospel"; our cards call them the Gospel of the Ebionites (audit A20). The repo map has the full list with file:line references | `audits/2026-10-26-florez-red-letters-repo-map.md` §2 | Waiting |
 | D10 | What the public search shows. Right now it returns everything in the repo: primary texts, cards, our notes, podcast transcripts and contributors' full texts, without saying which kind a result is. Options: (1) label every result by kind and show all of it; (2) search primary texts, cards and the claims list by default, with working material (talks, notes, contributed works) behind a clearly labelled switch; (3) leave working material out of the public search entirely and keep it in the repo only. Whichever is chosen, the full texts stay in the repo as the record of what we were sent | `site/search/`, `scripts/vectorize-sync.py` | Waiting (Rex, Matt) |
+| D11 | Next Up 22a: the Trinity card packet from Christian's second sheet. Reply yes, or yes except the numbers to strike. Underneath it, one framing question (not a blocker): the sheet argues "an exalted man, not God"; the card argues "divine, and so are you." The packet adds one sentence saying both deny *homoousios* and neither puts a ceiling on us; say if you want it framed differently | pull request for Next Up 22a | Waiting |
 
 ---
 
 ## Status
 
 <!-- STATUS:START -->
-*Generated by `python scripts/processing-status.py` on 2026-10-26. Don't edit by hand.*
+*Generated by `python scripts/processing-status.py` on 2026-10-28. Don't edit by hand.*
 
 | Source | Contributed by | Items | Transcripts | Notes | Queue |
 |---|---|---|---|---|---|
@@ -185,6 +194,7 @@ Every item, newest first. One row per link or file as it was given to us.
 
 | Received | Contributed by | Item | Type | Link | Where it lives | Status |
 |---|---|---|---|---|---|---|
+| 2026-10-28 | Christian Florez | "Polemic Answers — Was Yeshua God?": research sheet on whether Yeshua claimed to be God and whether the New Testament says so. What he said about himself (Part A), what the first believers said (Part B), about 40 proof texts answered one at a time with a "how to present this" box on each (Part C), how the doctrine was built from Justin to Nicaea (Part D), objections, comment-length versions and sources | Notion page, about 25,000 words | [Notion](https://app.notion.com/p/Polemic-Answers-Was-Yeshua-God-3fb92732ec068154945cfef9dd535ddb) | `extended-library/polemic-answers-was-yeshua-god-florez.md` (full text) + `-notes.md` | Converted to Markdown; checked against held texts; see Next Up 22 |
 | 2026-10-26 | Christian Florez | "Polemic Answers, The Red Letters That Were Added, Every Saying of Yeshua That Scholarship Says He Never Said": research sheet on red-letter passages that later scribes added (Part A, 35 entries) or the Gospel writers composed (Part B, 18 entries), with what this does to doctrines, objections and answers, and a long part on the Hebrew Gospel fragments, Thomas and Q (Part F). Each entry is marked ESTABLISHED, CONTESTED or QUARANTINED | Notion page, about 27,000 words | [Notion](https://app.notion.com/p/Polemic-Answers-The-Red-Letters-That-Were-Added-Every-Saying-of-Yeshua-That-Scholarship-Says-He-Ne-3ff92732ec0681e7bcf1dd44c4d9fd9a) | `extended-library/polemic-answers-red-letters-added-florez.md` (full text) + `-notes.md` | Converted to Markdown; checked against held texts; see Next Up 19 |
 | 2026-10-20 | Matt Fracek (Scott's own channel) | Scott, Nazarene Way | YouTube channel, 84 videos | https://www.youtube.com/@NazareneWay | `podcast-archive/scott-nazarene-way/` | Transcripts and notes done; see Next Up 1 |
 | 2026-10-20 | Matt Fracek | Dr. James Tabor's channel | YouTube channel, 483 videos | https://www.youtube.com/@JamesTaborVideos | `podcast-archive/dr-tabor-channel/` (+ `dr-tabor/` for the Paul playlist) | 398 with transcripts and notes; 85 not added; see Next Up 2 |
@@ -206,7 +216,7 @@ Every item, newest first. One row per link or file as it was given to us.
 | Craig Wescoe | Epiphanius, *Panarion* | 2026-10-17 |
 | Chris Crutchfield | Shabbat Studies with Jen & Chris, David The Nazarene, SixSeven Podcast (YouTube); Google Drive batch of 11 works (3 folders, 3 files) | 2026-10-19 |
 | Brad Brink | David The Nazarene (YouTube channel; also sent by Chris) | 2026-10-20 |
-| Christian Florez | Research sheet "Polemic Answers, The Red Letters That Were Added" (Notion) | 2026-10-26 |
+| Christian Florez | Research sheets "Polemic Answers, The Red Letters That Were Added" and "Polemic Answers — Was Yeshua God?" (Notion) | 2026-10-26 |
 | Matt Fracek | Scott's Nazarene Way channel (84 videos), Dr. James Tabor's channel (483 videos) | 2026-10-20 |
 
 Every file made from a contribution carries a `**Contributed by:**` line with the person's name and the date.
@@ -247,6 +257,21 @@ For Claude and for anyone adding sources by hand.
 ---
 
 ## Batch Details
+
+### 2026-10-28 — Second research sheet from Christian Florez
+
+**Sent by:** Christian Florez, to the whole group, passed on by Matt. Christian knows it is being added to the repo (Matt, 2026-10-28).
+**What it is:** "Polemic Answers — Was Yeshua God?" A public Notion page in Christian's own workspace, created 2026-10-16 and last edited 2026-10-28 (he was still editing it the day we converted it), about 25,000 words. It is built in layers: Yeshua's own words, the first believers, about 40 proof texts one at a time, and how the doctrine was built. Many entries end with a "how to present this" box saying where our side overreaches.
+
+- [x] Duplicate check: new
+- [x] Downloaded through Notion's public page data: all 557 content blocks, none missing
+- [x] Converted to Markdown with a source header and Contributed by line: `extended-library/polemic-answers-was-yeshua-god-florez.md`. Wording unchanged
+- [x] Read; notes written: `extended-library/polemic-answers-was-yeshua-god-florez-notes.md`
+- [x] Citation check against held texts (helper pass, spot-checked): `audits/2026-10-28-florez-was-yeshua-god-citation-check.md`; claims C99-C166
+- [x] Mapped against the repo's cards and research files (helper pass): `audits/2026-10-28-florez-was-yeshua-god-repo-map.md`
+- [x] Possible problems in our own files logged: `AUDIT-LIST.md` A31-A37
+- [x] Rights: published in full on the same basis as his first sheet (D8)
+- [ ] Card packet (Next Up 22a, D11); points to send Christian (22b); later round (22c)
 
 ### 2026-10-26 — Research sheet from Christian Florez
 

@@ -25,7 +25,7 @@ The routine checks of Christian Florez's sheet, that each verse it says the KJV 
 > And he commanded them to be baptized in the name of the Lord.
 > When they heard this, they were baptized in the name of the Lord Jesus.
 **Note:** Four baptism scenes in Acts state a formula, and all four name Jesus or "the Lord"; none uses the triadic formula. About five more baptisms state no formula at all. So "every baptism that states a formula" holds, and "every baptism" is broader than the text. In the KJV, 10:48 reads "in the name of the Lord", not "Jesus".
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md` (B1, Part C, Part D, E3)
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md` (B1, Part C, Part D, E3); `extended-library/polemic-answers-was-yeshua-god-florez.md:319` (C12: "has every one 'in the name of Jesus' (2.38, 8.16, 10.48, 19.5)")
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-florez-red-letters-citation-check.md`); person check: not yet
 
 ### C78 · "New" in the sayings of Jesus
@@ -80,3 +80,13 @@ The routine checks of Christian Florez's sheet, that each verse it says the KJV 
 **Note:** The text calls it a sin offering, and 14:12-13 and 14:21-22 add a trespass offering. The atonement is "for him that is to be cleansed from his uncleanness", so a narrower wording (atonement for ritual uncleanness, not for moral sin) may still make the cards' point.
 **Raised by:** `questions/jesus-and-the-torah.md:72`, `questions/sacrifice-culture-vegetarian-jesus.md:57`; AUDIT-LIST A24
 **Checked:** 2026-10-26, Claude (David The Nazarene notes batch 3); person check: not yet
+
+### C152 · Matthew 19:17
+**Claim:** "Watch Matthew change it. Matthew 19.17, reporting the same scene, reads 'Why askest thou me concerning that which is good? One there is who is good.'... you can see it happen by laying the two verses side by side."
+**Result:** Reads differently
+**Held text:** `christianity/Incoming/kjv/40-matthew.md` (KJV)
+**Text says:**
+> And he said unto him, Why callest thou me good? there is none good but one, that is, God:
+**Note:** In the KJV, Matthew 19:17 has Mark's wording, so a KJV reader laying the verses side by side will see no change. The change is in the critical Greek (Westcott-Hort, C134) and in translations made from it, such as the ASV the sheet quotes. Say "in the earliest Greek text" when using it.
+**Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:63`, :995, :831
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet
