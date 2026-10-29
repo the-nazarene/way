@@ -64,6 +64,7 @@ The softer claim already wins the point: the oldest Christian catechism is a Jew
 - **Matthew 19:17 passes — and isn't single-source.** "Keep the commandments" is in Mark 10:19 and Luke 18:20 too. Matthew *does* edit this pericope: he softens Mark's "no one is good but God alone" into "why do you ask me about what is good?" What he edited is the Christology, not the answer.
 - **Matthew 25:31–46 passes on embarrassment.** No Markan source to deviate from, and it undercuts Matthew's own investment in confession and church order.
 - **Matthew 6:14–15 passes on substance.** Reciprocal forgiveness is independently in Mark 11:25 and the Lord's Prayer at Luke 11:4.
+- **The narrow gate isn't single-source Matthew.** Matthew 7:13-14 has it, and so does Luke: "Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able" (Luke 13:24). That puts the card's headline image in the double tradition (Q 13:24).
 - **Matthew 11:30 is the weakest.** No Synoptic parallel; the shared Q block ends at 11:27. Use it as corroboration, not a pillar — and note it is corroborated outside the gospels by Didache 6:2.
 
 **Concede the limit out loud:** the criterion is directional and probabilistic, not proof, and it can be aimed at us. Which is precisely why the load-bearing claims here are the multiply attested ones. Full version on `questions/blood-atonement-and-salvation.md`.
