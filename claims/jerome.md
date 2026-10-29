@@ -13,7 +13,7 @@ Jerome's commentaries (Matthew, Isaiah, Micah, Ezekiel, Ephesians) are not in NP
 **Held text:** `christianity/Incoming/jerome-lives-of-illustrious-men-full-text.md` (Richardson, NPNF 2.3)
 **Text says:**
 > The Gospel also which is called the Gospel according to the Hebrews, [2347] and which I have recently translated into Greek and Latin
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:554`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:554`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C19 · Jerome, Lives of Illustrious Men 2
@@ -24,7 +24,7 @@ Jerome's commentaries (Matthew, Isaiah, Micah, Ezekiel, Ephesians) are not in NP
 > but the Lord, after he had given his grave clothes to the servant of the priest, appeared to James
 > my brother eat thy bread, for the son of man is risen from among those that sleep.
 **Note:** "eat thy bread" in this translation. James's vow (not to eat until he saw him risen) is in the same passage, as the claim says.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:831`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:831`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C20 · Jerome, Lives of Illustrious Men 3
@@ -36,7 +36,7 @@ Jerome's commentaries (Matthew, Isaiah, Micah, Ezekiel, Ephesians) are not in NP
 > The Hebrew itself has been preserved until the present day in the library at Cæsarea
 > I have also had the opportunity of having the volume described to me by the Nazarenes [2351] of Beroea, [2352] a city of Syria, who use it.
 **Note:** The quoted phrases match. On one point the translation differs: Richardson has the Nazarenes of Beroea *describe* the volume to Jerome, not Jerome copying it. Richardson has no note on the word, and other translations render the Latin verb "to copy". This is a question for the Latin, not an error found.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:554`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:554`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); Christian Florez's Q sheet (line 165)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C21 · Jerome, Lives of Illustrious Men 16
@@ -47,7 +47,7 @@ Jerome's commentaries (Matthew, Isaiah, Micah, Ezekiel, Ephesians) are not in NP
 > he bore witness to the Gospel which I have recently translated, in respect of the person of Christ saying
 > Behold! touch me and see me how that I am not an incorporeal spirit
 **Note:** The held quotation begins with "Behold!". See C29 for the saying in Ignatius.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:612`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:612`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C22 · Jerome, Lives of Illustrious Men 36
@@ -57,7 +57,7 @@ Jerome's commentaries (Matthew, Isaiah, Micah, Ezekiel, Ephesians) are not in NP
 **Text says:**
 > he found that Bartholomew, one of the twelve apostles, had preached the advent of the Lord Jesus according to the gospel of Matthew, and on his return to Alexandria he brought this with him written in Hebrew characters.
 **Note:** Recorded from the same check, as the source of the "Hebrew letters" wording that Eusebius 5.10.3 (C16) does not have in McGiffert.
-**Raised by:** `audits/2026-10-26-fathers-added-checks.md`
+**Raised by:** `audits/2026-10-26-fathers-added-checks.md`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C23 · Jerome, Against the Pelagians 3.2
@@ -67,7 +67,7 @@ Jerome's commentaries (Matthew, Isaiah, Micah, Ezekiel, Ephesians) are not in NP
 **Text says:**
 > which is written in the Chaldee and Syrian language, but in Hebrew characters, and is used by the Nazarenes to this day (I mean the Gospel according to the Apostles, or, as is generally maintained, the Gospel according to Matthew, a copy of which is in the library at Cæsarea)
 **Note:** The claim's ellipsis stands for "as is generally maintained, the Gospel".
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:515`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:515`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C24 · Jerome, Against the Pelagians 3.2
@@ -77,7 +77,7 @@ Jerome's commentaries (Matthew, Isaiah, Micah, Ezekiel, Ephesians) are not in NP
 **Text says:**
 > let us go and be baptized by him. But He said to them, what sin have I committed that I should go and be baptized by him? Unless, haply, the very words which I have said are only ignorance.
 **Note:** The held quotation goes on with "Unless, haply, the very words which I have said are only ignorance", which the claim doesn't quote.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:861`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:861`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C25 · Jerome, Against the Pelagians 3.2
@@ -87,7 +87,7 @@ Jerome's commentaries (Matthew, Isaiah, Micah, Ezekiel, Ephesians) are not in NP
 **Text says:**
 > Even the prophets, after they were anointed with the Holy Spirit, were guilty of sinful words.
 **Note:** In the held text this sentence stands outside quotation marks, after the two gospel quotations. Whether it belongs to the gospel or is Jerome's own comment depends on the punctuation; "in the same passage" is accurate either way.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:861`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:861`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C26 · Jerome, Against the Pelagians 3.2
@@ -98,7 +98,7 @@ Jerome's commentaries (Matthew, Isaiah, Micah, Ezekiel, Ephesians) are not in NP
 > If thy brother sin against thee in word, and make amends to thee, receive him seven times in a day.
 > Simon, His disciple, said to Him, "Seven times in a day?" The Lord answered and said to him, "I say unto thee until seventy times seven."
 **Note:** Same content; the claim modernises the pronouns.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:602`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:602`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C27 · Jerome, Letter 20.5
@@ -108,7 +108,7 @@ Jerome's commentaries (Matthew, Isaiah, Micah, Ezekiel, Ephesians) are not in NP
 **Text says:**
 > Jerome's reply to the foregoing. Exposing the error of Hilary of Poitiers, who supposed the expression to signify "redemption of the house of David," he goes on to show that in the gospels it is a quotation from Psa. cxviii. 25
 **Note:** NPNF does not translate this letter; the summary above is all it prints. It fits the subject, but *osianna barrama* is not in it.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:715`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:715`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C28 · Jerome, Letter 120.8
@@ -118,7 +118,7 @@ Jerome's commentaries (Matthew, Isaiah, Micah, Ezekiel, Ephesians) are not in NP
 **Text says:**
 > What is the meaning of Matt. xxvii. 50, 51?
 **Note:** NPNF does not translate this letter. Its summary lists Hedibia's twelve questions, and question 8 (above) is about Matthew 27:51, which fits the claim.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:841`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:841`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C122 · Jerome, Lives of Illustrious Men 1
@@ -130,3 +130,13 @@ Jerome's commentaries (Matthew, Isaiah, Micah, Ezekiel, Ephesians) are not in NP
 **Note:** Origen and Eusebius are C118.
 **Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:301`
 **Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet
+
+### C174 · Jerome, Lives of Illustrious Men 3 (Old Testament quotations)
+**Claim:** Jerome says the Hebrew Matthew quotes the Old Testament from the Hebrew, not the Septuagint, giving "Out of Egypt have I called my son" and "he shall be called a Nazarene".
+**Result:** Matches
+**Held text:** `christianity/Incoming/jerome-lives-of-illustrious-men-full-text.md` (Richardson, NPNF 2.3)
+**Text says:**
+> he does not follow the authority of the translators of the Septuagint but the Hebrew. Wherefore these two forms exist "Out of Egypt have I called my son," and "for he shall be called a Nazarene."
+**Note:** Brenton's Septuagint at Hosea 11:1 reads "out of Egypt have I called his children", JPS 1917 "out of Egypt I called My son" (C188), so the first example checks out in held texts. The rest of chapter 3 is C20.
+**Raised by:** Christian Florez's Hebrew Gospel sheet (lines 79, 231)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); person check: not yet

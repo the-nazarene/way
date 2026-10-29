@@ -14,7 +14,7 @@ Held texts, all ANF 1 (Roberts and Donaldson):
 > Lay hold, handle Me, and see that I am not an incorporeal spirit.
 > [991] Literally, "demon." According to Jerome, this quotation is from the Gospel of the Nazarenes.
 **Note:** ANF renders "incorporeal spirit" and gives "demon" as the literal word in its note; "bodiless demon" is the literal rendering. The shorter and longer recensions have the same sentence. ANF does not number the subsections.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:534`, :612
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:534`, :612; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C30 · Ignatius, Magnesians 9 (shorter recension)
@@ -130,7 +130,7 @@ Held texts, all ANF 1 (Roberts and Donaldson):
 > a voice, which was uttered also by David when he spoke, personating Christ, what the Father would say to Him: Thou art My Son: this day have I begotten Thee;'
 > at the time when the voice spake to Him, Thou art my Son: this day have I begotten Thee,' [2344] is recorded in the memoirs of the apostles to have come to Him and tempted Him
 **Note:** Both chapters give the baptism voice in the Psalm 2:7 form, as the sheet says. Neither names Luke. In 88 Justin presents the words as David's (Psalm 2:7); in 103 "the memoirs of the apostles" is cited for the temptation that followed, with the voice in a time clause. ANF note 2344 points to Psalm 2:7 and Matthew 3:17. So the held text supports "Justin knew the voice in the Psalm 2:7 form"; "as the text of Luke" is the sheet's inference. (C32 is a different claim from chapter 103.)
-**Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:165`, :995, :1003, :1023; `extended-library/polemic-answers-red-letters-added-florez.md:229` (A27), :624
+**Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:165`, :995, :1003, :1023; `extended-library/polemic-answers-red-letters-added-florez.md:229` (A27), :624; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet
 
 ### C110 · Ignatius, Ephesians, salutation
@@ -186,3 +186,13 @@ Held texts, all ANF 1 (Roberts and Donaldson):
 **Note:** Shorter recension first; the longer recension has "the blood of Christ".
 **Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:787`
 **Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet
+
+### C176 · Justin, Dialogue with Trypho 88 (fire in the Jordan)
+**Claim:** Justin, around 155, says a fire was kindled in the Jordan when Yeshua went down into the water.
+**Result:** Matches
+**Held text:** `christianity/Incoming/justin-martyr-dialogue-with-trypho-full-text.md` (Dods and Reith, ANF 1)
+**Text says:**
+> and when He had stepped into the water, a fire [2297] was kindled in the Jordan; and when He came out of the water, the Holy Ghost lighted on Him like a dove, [as] the apostles of this very Christ of ours wrote.
+**Note:** Justin says "fire", not "light". He credits the apostles' writings for the dove; whether that covers the fire is not clear. ANF note 2297 says Justin had it "either from tradition or from apocryphal books" and that a fire is mentioned "in the Ebionite Gospel". The baptism voice in chapters 88 and 103 is C109.
+**Raised by:** Christian Florez's Hebrew Gospel sheet (lines 137, 312)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); person check: not yet
