@@ -23,7 +23,7 @@ Then the Sermon does exactly what v.20 announces. Murder → anger. Adultery →
 
 This is the thesis of the whole card in one verse, from his mouth. There are *weightier* matters — a comparative, inside the law, not a replacement of it. And the final clause forecloses the antinomian reading: he does not tell them to stop tithing herbs. He tells them they got the weighting wrong.
 
-**Quote the last clause every time.** If you cite 23:23 without it, someone who knows the text will finish the verse for you and it will look like you were hiding it.
+**Quote the last clause every time.** If you cite 23:23 without it, someone who knows the text will finish the verse for you and it will look like you were hiding it. Luke has the same clause: "these ought ye to have done, and not to leave the other undone" (Luke 11:42, KJV). It is in the material Matthew and Luke share, so it isn't Matthew's Torah-keeping editing.
 
 ### 3. He settles legal disputes by quoting a prophet's hierarchy
 > "Go and learn what this means: 'I desire mercy, not sacrifice.'" — Matthew 9:13 (Hosea 6:6)
