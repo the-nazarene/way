@@ -35,6 +35,8 @@ A few things jump out.
 
 **Matthew is the only source that adds "for the forgiveness of sins" to the cup saying.** Not his own source (Mark). Not Luke. Not Paul. Not John. Not the Didache. *Matthew alone.*
 
+**And you can see where Matthew got the phrase.** In Mark it belongs to John the Baptist: "John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins" (Mark 1:4, KJV). Matthew, copying that scene, drops it — his John says only "Repent ye: for the kingdom of heaven is at hand" (Matthew 3:2, KJV) — and "remission" appears once in all of KJV Matthew, at the cup (26:28). Forgiveness is lifted off John's baptism of repentance and set on Jesus's blood. Davies and Allison, Luz, and Meier read this as deliberate Matthean editing. The words are secure in Matthew's manuscripts, so this is a claim about the evangelist, not a copyist. (Florez sheet, B14; Mark 1:4 and Matthew 3:2 checked against the held KJV, `audits/2026-10-26-florez-red-letters-citation-check.md`.)
+
 **John's gospel has no Last Supper institution narrative at all.** The latest and most theologically developed gospel — written by a community deep into Jesus's divinity — leaves out the eucharistic institution entirely. If "this is my blood, shed for the forgiveness of sins" was a central teaching of Jesus, John's omission is hard to explain.
 
 **The earliest Christian liturgical document — the Didache, "Teaching of the Twelve Apostles" — has no blood theology in its communion liturgy at all.** Its Eucharist is a thanksgiving meal celebrating what Jesus *revealed*, not what he *died for*. Zero body, blood, sacrifice, death, or "remembrance of my death" language.
@@ -103,7 +105,7 @@ Matt 26:28 isn't one teaching from Jesus. It's at least three layers of theologi
 1. **Earliest layer (possibly Jesus):** "Blood of the covenant" as an Exodus 24 echo at a Passover meal — covenant ratification language.
 2. **Mark, ~65-70 CE:** Records the saying with "poured out for many."
 3. **Matthew, ~80-90 CE:** Adds "for the forgiveness of sins" — explicit atonement. *Not in his source.* This is Matthew's editorial layer.
-4. **Later scribes:** Add "new" to "covenant" in many manuscripts, harmonizing with Paul.
+4. **Later scribes:** Add "new" to "covenant" in many manuscripts, harmonizing with Paul. The KJV shows this layer: "my blood of the new testament" at both Matthew 26:28 and Mark 14:24 (KJV). "New" is missing from Sinaiticus and Vaticanus in both gospels (and from P37, Regius, Θ and 33 in Matthew; from Ephraemi, the Greek of Bezae, Regius and Bobiensis in Mark), and modern Bibles (NRSV, NIV, ESV, NABRE) read "the covenant." It comes in from Luke 22:20 and 1 Corinthians 11:25, the only places Jesus is reported speaking of a *new* covenant. (Florez sheet, A24. Say "new covenant," not just "new": he says "new" elsewhere, e.g. "drink it new," Mark 14:25.)
 
 The verse most English Bibles print today is Layer 4. The verse Jesus may have actually spoken is closer to Layer 1.
 

@@ -31,6 +31,8 @@ He is not softening the sacrificial system; he is citing the prophetic tradition
 
 Matthew adds the atonement clause to his own Markan source. It appears in no other early witness — not Mark, not Luke 22:20, not Paul at 1 Corinthians 11:25, not John (who has no institution narrative at all), not the Didache. Strip the addition and what remains is an Exodus 24:8 covenant-ratification echo. Sinai blood seals an agreement; it does not pay for sins.
 
+**You can watch Matthew move the phrase.** In Mark, "for the remission of sins" belongs to John the Baptist: "John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins" (Mark 1:4, KJV). When Matthew copies that scene he drops it — his John says only "Repent ye: for the kingdom of heaven is at hand" (Matthew 3:2, KJV) — and the phrase turns up once in his whole gospel, at the cup (26:28). So it isn't just absent from the other witnesses; it was taken off John's baptism of repentance and attached to Jesus's blood. Davies and Allison, Luz, and Meier read it as deliberate Matthean editing. The words are secure in Matthew's manuscripts; the claim is about Matthew's pen, not a copyist's. (Florez sheet, B14.) Mark's own cup word is a separate and harder question — Paul's independent version in 1 Corinthians 11:25 shows a cup saying is earlier than Mark — so don't stretch this argument to it.
+
 ### 5. The earliest Christian communion liturgy has no blood in it
 > "We thank you, our Father, for the holy vine of David, your child, which you have revealed through Jesus, your child. To you be glory forever." — Didache 9 (cup prayer)
 
@@ -70,6 +72,8 @@ Third, read the verse in its own paragraph. Mark 10:42-45 is about **status**, n
 
 Then turn it: "Does Mark 10:45 tell you to believe something, or to do something? Read verse 43 — 'whoever would be great among you must be your servant.' That's the instruction attached to it."
 
+**Know the authenticity debate, and don't lead with it.** There *is* a redaction argument, it's just not decisive. Luke has what looks like the same saying at the Last Supper with no ransom clause — "I am among you as he that serveth" (Luke 22:27, KJV) — and the ransom wording sounds like the later church's (1 Timothy 2:6; Titus 2:14). Bultmann read the clause as a Hellenistic reworking; Morna Hooker denied the Isaiah 53 background. On the other side, Jeremias, Stuhlmacher, Watts, Yarbro Collins, Allison, and N. T. Wright argue it is early and Semitic ("the many" from Isaiah 53:11-12, the Son of Man from Daniel 7). Florez tiers it CONTESTED, with critical weight slightly against the exact wording (Florez sheet, B8). That's why the three moves above concede the verse: our answer works even if Jesus said every word of it. Mention the Luke 22:27 parallel as a fact about the tradition, never as "the verse is fake."
+
 ### "Hebrews 9:22 — 'without the shedding of blood there is no forgiveness of sins.'"
 Hebrews is not Pauline and not Jesus. Its argument is a sustained reading of Leviticus applied to the crucifixion after the fact — it's a first-century theologian's interpretation, which is exactly what's in dispute. Set it beside Jesus quoting Hosea 6:6 twice, and beside Jeremiah 7:22, and you have to choose which stack you build on. We build on the red text. (Don't argue "it's anonymous" — so are all four gospels, and we build our case on them. That one hands them a criterion that cuts our own throat.)
 
@@ -96,6 +100,8 @@ Concede the verse immediately and without hedging: Jeremiah 33:18 promises perpe
 **This belongs on the card. Isaiah 53 is the most-preached atonement text in evangelicalism and Luke 22:37 is red text. Concede what's true first, then be precise.**
 
 Concede three things, because all three are true: (1) Isaiah 52:13-53:12 genuinely uses substitutionary and sacrificial language — verse 10 makes the servant's life an *asham*, a guilt offering. (2) Jesus cites the chapter about himself: "For I tell you that this Scripture must be fulfilled in me: 'And he was numbered with the transgressors'" (Luke 22:37, quoting Isaiah 53:12). (3) Luke 24:26 has the risen Jesus say, "Was it not necessary that the Christ should suffer these things and enter into his glory?" A suffering-messiah expectation is in the gospels, in his mouth. Don't pretend otherwise.
+
+**First, know where the citation actually stands.** Luke 22:37 is the only place in the gospels where Jesus himself explicitly quotes Isaiah 53 (allusions like "the many" in Mark 10:45 are another matter). The KJV's Mark 15:28 — "And the scripture was fulfilled, which saith, And he was numbered with the transgressors" (KJV) — is narration, and it's a copyist's import from Luke: it's missing from Sinaiticus, Vaticanus, Alexandrinus, Bezae and the oldest versions, and modern Bibles drop it (Florez sheet, A21). Luke 22:37 itself is textually secure, but it sits in the two-swords passage (22:35-38), found only in Luke, which Conzelmann and Fitzmyer read as Luke's own composition or special material (Florez sheet, B12; ESTABLISHED as Lukan, CONTESTED whether an older source stands behind it). Don't say "Jesus never cited Isaiah 53." Say: one citation, in one gospel, in a passage scholars widely treat as Luke's.
 
 Now the precision, four moves:
 
