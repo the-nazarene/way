@@ -73,7 +73,7 @@ Between the red text and the fathers sits the earliest preaching, and it speaks 
 
 Keep the honest limit: most scholars read the Acts speeches as Luke's own compositions (Dibelius, Cadbury, Barrett). So the claim is not "these are Peter's words." It is that a writer composing freely, around 85-120, still gave the apostles an exaltation Christology, because that is what the tradition he received contained (Florez, *Was Yeshua God?*, B1-B2).
 
-### 7. The people closest to him: what the Ebionites held, from their enemies
+### 7. The Jewish followers of Jesus: what the Ebionites held, from their enemies
 The Torah-keeping Jewish followers of Jesus are recorded, by fathers who wrote against them, as holding him to be a man anointed by God, not God.
 - **Irenaeus, about 180:** "The Ebionites, following these, assert that He was begotten by Joseph" (*Against Heresies* 3.21.1, ANF 1). "These" are Theodotion and Aquila, who translated Isaiah 7:14 from the Hebrew as "a young woman" (JPS 1917 has "the young woman shall conceive").
 - **Eusebius, about 324:** one group "considered him a plain and common man"; another accepted the virgin birth but "refused to acknowledge that he pre-existed, being God, Word, and Wisdom" (*Church History* 3.27, McGiffert).
@@ -82,7 +82,7 @@ The Torah-keeping Jewish followers of Jesus are recorded, by fathers who wrote a
 
 **Be careful with the Nazarenes.** Epiphanius says he "cannot say" whether they regard Christ "as merely a man" or hold that he was begotten of Mary through the Holy Spirit (*Panarion* 29.7.6, Wescoe). The safe sentence: neither group is recorded as holding him to be God, and the Ebionites are recorded as denying it (Florez, B6). That these believers carry the Jerusalem church's view is our thesis, and a minority one in the field; that the fathers report what they believed is not in dispute.
 
-**How this fits our position.** The earliest believers called him a man God anointed and raised; Jesus, in John 10:34 and 17:22, says the same unity is open to his followers. Those are one claim from two sides: no *homoousios*, and no ceiling.
+**How this fits our position.** The earliest believers called him a man God anointed and raised. Jesus, in John 10:34 and 17:22, says the same unity with God is open to his followers. The two agree on what matters here: no *homoousios*, and no ceiling.
 
 ## Questions People Raise
 
