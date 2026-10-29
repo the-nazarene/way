@@ -150,7 +150,7 @@ Notice what the concession costs the other side:
 One-liner: "The New Perspective says Paul didn't mean what the pulpit says he meant. We say Jesus didn't say what the pulpit says he said. Those two arguments are allies, not opponents."
 
 ### "You're reducing the cross to nothing."
-No — we're relocating its meaning. The cross is what empire and priesthood do to a man who confronts them, and it is a demonstration that love does not retaliate even under maximal pressure. That reading honors the event without requiring an omnipotent God who cannot forgive until someone bleeds.
+No — we're relocating its meaning. The cross is what empire and priesthood do to a man who confronts them, and it is a demonstration that love does not retaliate even under maximal pressure. That reading honors the event without requiring an omnipotent God who cannot forgive until someone bleeds. It also matches the earliest layer we can reach. The sayings Matthew and Luke share beyond Mark (Q) have no sentence calling his death a sacrifice, a ransom or a payment; their one cross saying is about the follower's cross: "whosoever doth not bear his cross, and come after me, cannot be my disciple" (Luke 14:27). That doesn't mean the compilers denied the crucifixion. It means they didn't build their teaching on it.
 
 ## In One Sentence
 

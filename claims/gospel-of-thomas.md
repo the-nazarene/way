@@ -9,7 +9,7 @@ Held text: `christianity/Incoming/gospel-of-thomas-full-text.md` (Coptic, Thomas
 **Text says:**
 > Let him who seeks continue seeking until he finds. When he finds, he will become troubled. When he becomes troubled, he will be astonished, and he will rule over the All.
 **Note:** The Coptic in Lambdin runs seek, find, troubled, astonished, rule, with no "rest". "Rest" is in the Greek form (P.Oxy 654), which we don't hold. "Thomas 2 in its Greek form (P.Oxy 654)" would be the accurate way to cite the five-step chain.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md` (F3.13, F4)
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md` (F3.13, F4); Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-florez-red-letters-citation-check.md`); person check: not yet
 
 ### C58 · Gospel of Thomas 9

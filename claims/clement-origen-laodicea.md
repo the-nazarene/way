@@ -14,7 +14,7 @@ Origen's *Homilies on Jeremiah*, *On First Principles* and the Latin *Commentary
 **Text says:**
 > So also in the Gospel to the Hebrews it is written, "He that wonders shall reign, and he that has reigned shall rest.
 **Note:** One word differs ("has reigned"). The named source is confirmed.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:544`, :695
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:544`, :695; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C37 · Clement of Alexandria, Stromata 5.14.96
@@ -24,7 +24,7 @@ Origen's *Homilies on Jeremiah*, *On First Principles* and the Latin *Commentary
 **Text says:**
 > He, who seeks, will not stop till he find; and having found, he will wonder; and wondering, he will reign; and reigning, he will rest.
 **Note:** In the held text this form names no source. It follows a passage of Plato, with no mention of the Gospel according to the Hebrews; only the 2.9 form (C36) is credited to it. That the two are one saying is the usual scholarly view; the held text simply doesn't say so. The wording also differs ("will not stop till he find").
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:544`, :695
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:544`, :695; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C38 · Origen, Commentary on John 2.12 (Menzies Book II, section 6)
@@ -34,7 +34,7 @@ Origen's *Homilies on Jeremiah*, *On First Principles* and the Latin *Commentary
 **Text says:**
 > If any one should lend credence to the Gospel according to the Hebrews, where the Saviour Himself says, "My mother, the Holy Spirit took me just now by one of my hairs and carried me off to the great mount Tabor,"
 **Note:** Menzies prints it in Book II, section 6 (modern editions: chapter 12), and the wording differs by translation ("took me just now", "carried me off", "the great mount Tabor"). Origen frames it as a condition, "If any one should lend credence to the Gospel according to the Hebrews", and goes on to discuss how the Spirit can be Christ's mother.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:546`, :801
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:546`, :801; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C39 · Council of Laodicea, canon 29
@@ -91,3 +91,13 @@ Origen's *Homilies on Jeremiah*, *On First Principles* and the Latin *Commentary
 **Note:** The sheet does not cite Origen, but he makes its C1 argument about 230 in a held text, and quotes John 17:3 ("the only true God") with it. The Greek wording of the verse itself is in Westcott-Hort (C129).
 **Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:249`, :969
 **Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet
+
+### C175 · Clement of Alexandria, Paedagogus 2.1 (Matthew without flesh)
+**Claim:** Clement says the apostle Matthew ate seeds, nuts and vegetables without flesh (*The Instructor* 2.1.16).
+**Result:** Matches
+**Held text:** `christianity/Incoming/witnesses-on-flesh-and-sacrifice-selected-texts.md` (Wilson, ANF 2; Tier 2 excerpt)
+**Text says:**
+> Accordingly, the apostle Matthew partook of seeds, and nuts, and vegetables, without flesh. And John, who carried temperance to the extreme, ate locusts and wild honey.
+**Note:** The excerpt has no paragraph number (2.1.16 is the modern one). The next sentence has John the Baptist eating "locusts and wild honey", and Clement treats food as "indifferent to us" (the excerpt's own note). Read with the sheet's D2, which gives the Ebionite Baptist no locusts.
+**Raised by:** Christian Florez's Hebrew Gospel sheet (lines 32, 366)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); person check: not yet

@@ -45,8 +45,10 @@
      "note": "Then, in his letters, he reverses the first decree outright."},
     {"side": "for", "tier": "Jerusalem church", "ref": "James 2:24", "phrase": "not by faith only",
      "note": "Jesus's brother answers the same question the other way, and names the formula he is denying. Luther's resolution was to call James \"an epistle of straw\" rather than question Paul."},
-    {"side": "for", "tier": "Jewish-Christian tradition · not first-century", "title": "Epistle of Peter to James 2 (Clementine Homilies)", "path": "christianity/Incoming/clementine-homilies-full-text.md", "phrase": "the man who is my enemy", "edition": "Ante-Nicene Fathers vol. 8 (1886), translator not named, public domain",
+    {"side": "for", "tier": "Jewish-Christian tradition · not first-century", "title": "Epistle of Peter to James 2 (Clementine Homilies)", "path": "christianity/Incoming/clementine-homilies-full-text.md", "phrase": "the man who is my enemy", "edition": "Ante-Nicene Fathers vol. 8 (1886), translated by Thomas Smith, public domain",
      "note": "Communities claiming descent from the Jerusalem church preserved a tradition in which Peter's authority and a visionary apostle's authority were in direct conflict. Cited for that, not as eyewitness history. See also Homilies 17.19."},
+    {"side": "for", "tier": "Jewish-Christian tradition · second-century source", "title": "Clementine Recognitions 1.70-71", "path": "christianity/Incoming/clementine-recognitions-full-text.md", "phrase": "threw him headlong from the top", "edition": "Rev. Thomas Smith, Ante-Nicene Fathers vol. 8 (1886), from Rufinus's Latin, public domain",
+     "note": "\"That enemy\" throws James from the Temple steps, then takes a commission from Caiaphas to Damascus (1.71). Unnamed, but the commission is Saul's in Acts 9. Specialists date this source to about 150-200: a counter-history to Acts from the James side, not eyewitness history."},
     {"side": "for", "tier": "Thomas · Lambdin", "title": "Gospel of Thomas 12", "path": "christianity/Incoming/gospel-of-thomas-full-text.md", "phrase": "James the righteous", "edition": "Lambdin, in Robinson (ed.), The Nag Hammadi Library",
      "note": "Jesus appointing James. Cite as an independent sayings tradition, not a 50s-CE text; James's primacy stands on Acts 15, Galatians 2, Hegesippus and Josephus without it."},
     {"side": "against", "tier": "Paul's own letter", "ref": "Galatians 1:18-19", "phrase": "went up to Jerusalem to see Peter",
@@ -62,7 +64,8 @@
     {"side": "other", "tier": "Paul's own letter", "ref": "Romans 2:6-13", "phrase": "the doers of the law shall be justified",
      "note": "Paul can sound like James. Some of the tension is inside Paul, which is the point: his system needs harmonizing, and Jesus's answer doesn't."},
     {"side": "other", "tier": "Dead Sea Scrolls · excerpts", "title": "4QMMT, \"some of the works of the Torah\"", "path": "christianity/dead-sea-scrolls/Incoming/dead-sea-scrolls-selected-texts.md", "phrase": "4QMMT", "edition": "Vermes / Wise-Abegg-Cook / García Martínez, attributed per quote",
-     "note": "The documented pre-Christian referent of \"works of the law\": a halakhic list, not a statement about human morality. Our own file says so; we don't argue against it."}
+     "note": "The documented pre-Christian referent of \"works of the law\": a halakhic list, not a statement about human morality. Our own file says so; we don't argue against it."},
+    {"side": "for", "tier": "clementine · Jewish-Christian, held", "title": "Recognitions 4.35, the testimonial of James", "path": "christianity/Incoming/clementine-recognitions-full-text.md", "phrase": "unless he bring from Jerusalem the testimonial of James the Lord's", "edition": "Thomas Smith, ANF vol. 8 (1886), public domain", "note": "\"Believe no teacher, unless he bring from Jerusalem the testimonial of James the Lord's brother.\" James's primacy as a rule. The 1886 editor sees \"a suggestion of anti-Pauline spirit in its teaching\" (note 746)."}
   ],
   "goDeeper": [
     {"title": "The imminent-expectation material and the scholarly consensus behind it", "path": "christianity/paul-false-prophet-deuteronomy-18-test.md"},

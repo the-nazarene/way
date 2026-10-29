@@ -9,7 +9,7 @@ Held text: `christianity/Incoming/irenaeus-against-heresies-full-text.md` (Rober
 **Text says:**
 > They use the Gospel according to Matthew only, and repudiate the Apostle Paul, maintaining that he was an apostate from the law.
 **Note:** The passage does not call Paul a "false prophet" and does not name the Nazarenes.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:540`; `extended-library/polemic-answers-was-yeshua-god-florez.md:185`, :1028; AUDIT-LIST A8 (`christianity/paul-false-prophet-deuteronomy-18-test.md:86`, `questions/pauls-legitimacy.md:43`)
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:540`; `extended-library/polemic-answers-was-yeshua-god-florez.md:185`, :1028; AUDIT-LIST A8 (`christianity/paul-false-prophet-deuteronomy-18-test.md:86`, `questions/pauls-legitimacy.md:43`); Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C2 · Irenaeus, Against Heresies 3.1.1
@@ -18,7 +18,7 @@ Held text: `christianity/Incoming/irenaeus-against-heresies-full-text.md` (Rober
 **Held text:** `christianity/Incoming/irenaeus-against-heresies-full-text.md` (Roberts and Rambaut, ANF 1)
 **Text says:**
 > Matthew also issued a written Gospel among the Hebrews [3310] in their own dialect
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:540`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:540`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); Christian Florez's Q sheet (line 165)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C3 · Irenaeus, Against Heresies 3.11.7
@@ -27,7 +27,7 @@ Held text: `christianity/Incoming/irenaeus-against-heresies-full-text.md` (Rober
 **Held text:** `christianity/Incoming/irenaeus-against-heresies-full-text.md` (Roberts and Rambaut, ANF 1)
 **Text says:**
 > For the Ebionites, who use Matthew's Gospel [3448] only
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:540`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:540`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C4 · Irenaeus, Against Heresies 3.10.5 (modern 3.10.6)
@@ -116,3 +116,13 @@ Held text: `christianity/Incoming/irenaeus-against-heresies-full-text.md` (Rober
 **Note:** The second line is ANF note 4097, quoting the editor Harvey: an earlier quotation of the verse in the same work reads "Son" (he also points to 3.11.5). Harvey judges from the Syriac that "God" is what Irenaeus wrote and that the "Son" quotation was adjusted to the Vulgate. So the held Irenaeus has both readings, and its editor favours "God".
 **Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:235` (A30); `extended-library/polemic-answers-was-yeshua-god-florez.md:251`, :931
 **Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet
+
+### C167 · Irenaeus, Against Heresies 1.26.2 (circumcision, the law, Jerusalem)
+**Claim:** The Ebionites are circumcised, keep the customs of the law, and "adore Jerusalem as if it were the house of God".
+**Result:** Matches
+**Held text:** `christianity/Incoming/irenaeus-against-heresies-full-text.md` (Roberts and Rambaut, ANF 1)
+**Text says:**
+> they practise circumcision, persevere in the observance of those customs which are enjoined by the law, and are so Judaic in their style of life, that they even adore Jerusalem as if it were the house of God.
+**Note:** Same section as C1 (Matthew only, Paul an apostate). The quoted phrase is word for word.
+**Raised by:** Christian Florez's Hebrew Gospel sheet (line 49)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); person check: not yet

@@ -270,3 +270,178 @@ We hold no Hebrew text. Claims about a Hebrew word can be tested only as far as 
 **Note:** No worship line. Brenton's Septuagint (05-deuteronomy.md 32:43) has it, and in Hebrews' wording: "let all the angels of God worship him... let all the sons of God strengthen themselves in him". That is the reverse of the order the sheet gives for Swete and Rahlfs ("sons" bow, "angels" strengthen). It fits the sheet's point that the Greek copies split; Brenton is a further printed witness for "angels... worship". Brenton's Psalm 96:7 (KJV 97:7) also reads "worship him, all ye his angels", where the Hebrew has "gods".
 **Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:591`, :599, :877
 **Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet
+
+### C185 · Luke 22:16 (Westcott-Hort)
+**Claim:** Luke's Yeshua says, with the emphatic double negative *ou mē*, that he will not eat it.
+**Result:** Matches
+**Held text:** `christianity/Incoming/greek-nt-westcott-hort/03-luke.md` (Westcott-Hort 1881)
+**Text says:**
+> λεγω γαρ υμιν οτι ου μη φαγω αυτο εως οτου πληρωθη εν τη βασιλεια του θεου
+**Note:** The KJV's "not any more" reflects a Textus Receptus addition (C177). Luke 22:15 in W-H: επιθυμια επεθυμησα τουτο το πασχα φαγειν μεθ υμων, the doubled idiom the sheet points to. The idiom is in Luke's own form as well as the Ebionite one.
+**Raised by:** Christian Florez's Hebrew Gospel sheet (lines 183, 297)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); person check: not yet
+
+### C186 · Matthew 5:22 (Westcott-Hort)
+**Claim:** In the "Jewish" margin reading, "without a cause" is absent from "whoever is angry with his brother", so the saying forbids anger at a brother outright.
+**Result:** Matches
+**Held text:** `christianity/Incoming/greek-nt-westcott-hort/01-matthew.md` (Westcott-Hort 1881)
+**Text says:**
+> εγω δε λεγω υμιν οτι πας ο οργιζομενος τω αδελφω αυτου ενοχος εσται τη κρισει
+**Note:** The margin note itself is not held (C196). What the held texts show: Westcott-Hort has no εικη ("without a cause"); the KJV has "angry with his brother without a cause". So the reading the sheet reports is also the critical-text reading, not a reading unique to the Hebrew Gospel.
+**Raised by:** Christian Florez's Hebrew Gospel sheet (line 252)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); person check: not yet
+
+### C187 · Matthew 16:2-3 (Westcott-Hort)
+**Claim:** The weather sayings ("when it is evening you say fair weather") are absent in the "Jewish" reading, as they are in Codex Sinaiticus and Codex Vaticanus.
+**Result:** Matches
+**Held text:** `christianity/Incoming/greek-nt-westcott-hort/01-matthew.md` (Westcott-Hort 1881)
+**Text says:**
+> [[οψιας γενομενης λεγετε ευδια πυρραζει γαρ ο ουρανος
+**Note:** Westcott-Hort print the passage in double brackets (not original, kept). The manuscripts themselves are not held. The KJV prints it (16:2 "When it is evening, ye say, It will be fair weather").
+**Raised by:** Christian Florez's Hebrew Gospel sheet (line 259)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); person check: not yet
+
+### C188 · Hosea 11:1 (Brenton and JPS 1917)
+**Claim:** Matthew's "Out of Egypt have I called my son" follows the Hebrew, not the Greek Septuagint (Jerome).
+**Result:** Matches
+**Held text:** `christianity/Incoming/septuagint-brenton/28-hosea.md` (Brenton)
+**Text says:**
+> for Israel is a child, and I loved him, and out of Egypt have I called his children.
+**Note:** JPS 1917 (`jps-1917/`, Hosea 11:1): "out of Egypt I called My son". The Septuagint has "his children", so Matthew 2:15's "my son" agrees with the Hebrew, as Jerome says (C174). This holds for canonical Greek Matthew too, so it doesn't by itself distinguish the Hebrew Gospel.
+**Raised by:** Christian Florez's Hebrew Gospel sheet (lines 79, 231)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); person check: not yet
+
+### C189 · Numbers 11:8 and Exodus 16:31 (Brenton)
+**Claim:** "Its taste was like a cake made with oil" is the Greek Bible's own description of manna in Numbers 11:8, and Exodus 16:31 uses the same word *enkris* for manna.
+**Result:** Matches, other translation
+**Held text:** `christianity/Incoming/septuagint-brenton/04-numbers.md` (Brenton)
+**Text says:**
+> and the sweetness of it was as the taste [of] wafer made with oil.
+**Note:** Brenton has "wafer" in both places (Exodus 16:31: "the taste of it as a wafer with honey"), so the same English word stands for the same Greek, which fits the sheet. The Greek word *enkris* can't be checked: we hold Brenton's English, not the Septuagint Greek. Panarion 30.13.4c (Wescoe) has "like a cake made with oil".
+**Raised by:** Christian Florez's Hebrew Gospel sheet (lines 155, 336)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); person check: not yet
+
+### C190 · Sirach 24:7 (Brenton)
+**Claim:** The Spirit at the Jordan speaks as Wisdom speaks in Sirach 24:7, seeking a resting place among the people.
+**Result:** Matches
+**Held text:** `christianity/Incoming/septuagint-brenton/43-sirach.md` (Brenton)
+**Text says:**
+> With all these I sought rest: and in whose inheritance shall I abide?
+**Note:** 24:8 continues "he that made me caused my tabernacle to rest, and said, Let thy dwelling be in Jacob". The fragment the comparison is drawn from (Jerome, *Commentary on Isaiah* 11.2) is not held (C88).
+**Raised by:** Christian Florez's Hebrew Gospel sheet (line 197)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); person check: not yet
+
+### C191 · John 7:53-8:11 (Westcott-Hort)
+**Claim:** The story of the woman taken in adultery is missing from the oldest manuscripts of John.
+**Result:** Matches
+**Held text:** `christianity/Incoming/greek-nt-westcott-hort/04-john.md` (Westcott-Hort 1881)
+**Text says:**
+> [[και επορευθησαν εκαστος εις τον οικον αυτου
+**Note:** Westcott-Hort print the passage in double brackets (not part of the original text). The manuscripts are not held, nor are the later copies that place it after Luke 21:38. That Papias's story (C14) is this one is the sheet's "Tier 3" identification.
+**Raised by:** Christian Florez's Hebrew Gospel sheet (line 221)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); person check: not yet
+
+### C259 · Luke 3:7-9 and Matthew 3:7-10 (Westcott-Hort)
+**Claim:** In John the Baptist's sermon, "of roughly sixty three words, about sixty are identical and in the same order. The only real difference is that Matthew writes 'think not to say' where Luke writes 'begin not to say.'"
+**Result:** Matches
+**Held text:** `christianity/Incoming/greek-nt-westcott-hort/03-luke.md` (Westcott-Hort 1881)
+**Text says:**
+> γεννηματα εχιδνων τις υπεδειξεν υμιν φυγειν απο της μελλουσης οργης
+> ποιησατε ουν καρπους αξιους της μετανοιας και μη αρξησθε λεγειν εν εαυτοις πατερα εχομεν τον αβρααμ
+> ηδη δε και η αξινη προς την ριζαν των δενδρων κειται
+**Note:** Counted from γεννηματα to the end: Matthew 3:7b-10 has 63 words, Luke 3:7b-9 has 64, and 60 are identical and in the same order. Besides δοξητε / αρξησθε ("think" / "begin"), Matthew has the singular καρπον αξιον ("fruit worthy") where Luke has the plural, and Luke adds και ("also") before "the axe". W-H brackets [καλον] ("good") in Luke 3:9. The KJV shows the agreement too (Luke 3:8 "begin not to say", Matthew 3:9 "think not to say"), but it is a Greek claim and the Greek confirms it.
+**Raised by:** Christian Florez's Q sheet (line 83); `christianity/Incoming/q-source-reconstruction.md` (Q 3:7-9 note, "almost verbatim")
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-q-source-citation-check.md`); person check: not yet
+
+### C260 · Luke 10:21-22 and Matthew 11:25-27 (Westcott-Hort)
+**Claim:** The thanksgiving to the Father is "nearly as tight" as the Baptist's sermon.
+**Result:** Matches
+**Held text:** `christianity/Incoming/greek-nt-westcott-hort/03-luke.md` (Westcott-Hort 1881)
+**Text says:**
+> οτι απεκρυψας ταυτα απο σοφων και συνετων και απεκαλυψας αυτα νηπιοις
+**Note:** Counted the same way: Matthew 69 words, Luke 74, and 55 of Matthew's words identical and in order. The main differences are the openings (Luke "rejoiced in the Holy Spirit") and the knowledge clause: Matthew "no one knoweth the Son" (επιγινωσκει τον υιον), Luke "who the Son is" (τις εστιν ο υιος). A little looser than the Baptist's sermon, which is what "nearly" says.
+**Raised by:** Christian Florez's Q sheet (line 85)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-q-source-citation-check.md`); person check: not yet
+
+### C261 · Luke 13:34-35 and Matthew 23:37-39 (Westcott-Hort)
+**Claim:** The lament over Jerusalem is the same, with the rare word for "hen" and the unusual "how often would I have gathered thy children together, even as a hen gathereth her own brood under her wings" preserved in both.
+**Result:** Matches
+**Held text:** `christianity/Incoming/greek-nt-westcott-hort/03-luke.md` (Westcott-Hort 1881)
+**Text says:**
+> ποσακις ηθελησα επισυναξαι τα τεκνα σου ον τροπον ορνις την εαυτης νοσσιαν υπο τας πτερυγας και ουκ ηθελησατε
+**Note:** Both have ποσακις ηθελησα, ορνις ("hen") and υπο τας πτερυγας. "Her own brood" is Luke's wording (την εαυτης νοσσιαν); Matthew 23:37 has επισυναγει τα νοσσια [αυτης], "gathereth her chickens", and a different verb form (επισυναγαγειν). 45 of Matthew's 55 words are identical and in order.
+**Raised by:** Christian Florez's Q sheet (line 85)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-q-source-citation-check.md`); person check: not yet
+
+### C262 · Luke 11:9-13 and Matthew 7:7-11 (Westcott-Hort)
+**Claim:** "Ask, seek, knock, Luke 11.9 to 13 and Matthew 7.7 to 11, is near verbatim through the whole run."
+**Result:** Reads differently
+**Held text:** `christianity/Incoming/greek-nt-westcott-hort/03-luke.md` (Westcott-Hort 1881)
+**Text says:**
+> τινα δε εξ υμων τον πατερα αιτησει ο υιος ιχθυν μη αντι ιχθυος οφιν αυτω επιδωσει
+> η και αιτησει ωον επιδωσει αυτω σκορπιον
+> ποσω μαλλον ο πατηρ [ο] εξ ουρανου δωσει πνευμα αγιον τοις αιτουσιν αυτον
+**Note:** The first two verses are verbatim (Matthew 7:7-8 and Luke 11:9-10: all 24 of Matthew's words, Luke adding "and I say unto you"). Then they part: Matthew has bread/stone and fish/serpent, Luke fish/serpent and egg/scorpion, and the last line ends "good things" in Matthew 7:11, "the Holy Spirit" in Luke 11:13. Across the whole run only 52 of Matthew's 73 words are identical and in order. The sheet itself uses the 7:11 / 11:13 difference in B6 (C266). Better: "near verbatim in its opening".
+**Raised by:** Christian Florez's Q sheet (line 85)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-q-source-citation-check.md`); person check: not yet
+
+### C263 · Luke 16:13 and Matthew 6:24 (Westcott-Hort)
+**Claim:** (Not in the sheet; a held example for its B1.) The two-masters saying is the tightest double-tradition agreement in a single verse.
+**Result:** Matches
+**Held text:** `christianity/Incoming/greek-nt-westcott-hort/03-luke.md` (Westcott-Hort 1881)
+**Text says:**
+> ουδεις οικετης δυναται δυσιν κυριοις δουλευειν η γαρ τον ενα μισησει και τον ετερον αγαπησει η ενος ανθεξεται και του ετερου καταφρονησει ου δυνασθε θεω δουλευειν και μαμωνα
+**Note:** Matthew 6:24 (01-matthew.md) has the same 27 words in the same order; Luke adds one word, οικετης ("servant"). The KJV shows it in English too: Matthew "No man can serve two masters", Luke "No servant can serve two masters", the rest identical. Our Q reconstruction lists it as Q 16:13.
+**Raised by:** this check, as a held example for Christian Florez's Q sheet (line 81)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-q-source-citation-check.md`); person check: not yet
+
+### C264 · Luke 11:2-4 and Matthew 6:9-13 (Westcott-Hort)
+**Claim:** The Lord's Prayer in Luke 11:2-4 is much shorter than Matthew 6:9-13, and almost universally judged earlier.
+**Result:** Matches
+**Held text:** `christianity/Incoming/greek-nt-westcott-hort/03-luke.md` (Westcott-Hort 1881)
+**Text says:**
+> ειπεν δε αυτοις οταν προσευχησθε λεγετε πατερ αγιασθητω το ονομα σου ελθατω η βασιλεια σου
+> και αφες ημιν τας αμαρτιας ημων και γαρ αυτοι αφιομεν παντι οφειλοντι ημιν και μη εισενεγκης ημας εις πειρασμον
+**Note:** In W-H Luke's prayer is 44 words to Matthew's 61: no "our... which art in heaven", no "thy will be done", no "deliver us from evil". **The KJV does not show this**: its Luke 11:2-4 has "Our Father which art in heaven", "Thy will be done" and "deliver us from evil", the later harmonized text. A KJV reader will see two prayers of nearly the same length. Our Q reconstruction prints the KJV form while calling Luke's shorter (AUDIT-LIST A19). Which is earlier is a scholarly judgment (not held).
+**Raised by:** Christian Florez's Q sheet (lines 91, 113)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-q-source-citation-check.md`); person check: not yet
+
+### C265 · Luke 6:20-22 and Matthew 5:3-11 (Westcott-Hort)
+**Claim:** "Luke has four, in the second person, 'Blessed are ye poor'; Matthew has eight, in the third, 'Blessed are the poor in spirit.'"
+**Result:** Matches
+**Held text:** `christianity/Incoming/greek-nt-westcott-hort/03-luke.md` (Westcott-Hort 1881)
+**Text says:**
+> μακαριοι οι πτωχοι οτι υμετερα εστιν η βασιλεια του θεου
+**Note:** Luke has four μακαριοι (6:20, 6:21 twice, 6:22). Matthew has eight in the third person (5:3-10) and a ninth in the second person at 5:11 (μακαριοι εστε), which parallels Luke's fourth. Luke's are second person by the pronoun ("yours is the kingdom"); the adjective is "the poor", with no "in spirit". Luke 6:24-26 adds four woes Matthew lacks (see C273).
+**Raised by:** Christian Florez's Q sheet (lines 91, 113)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-q-source-citation-check.md`); person check: not yet
+
+### C266 · Luke 11:13 and Matthew 7:11 (Westcott-Hort)
+**Claim:** Matthew's "your heavenly Father will give good things" (7:11) is probably earlier than Luke's "will give the Holy Spirit" (11:13).
+**Result:** Matches
+**Held text:** `christianity/Incoming/greek-nt-westcott-hort/03-luke.md` (Westcott-Hort 1881)
+**Text says:**
+> ποσω μαλλον ο πατηρ [ο] εξ ουρανου δωσει πνευμα αγιον τοις αιτουσιν αυτον
+**Note:** Matthew 7:11 (01-matthew.md): ποσω μαλλον ο πατηρ υμων ο εν τοις ουρανοις δωσει αγαθα τοις αιτουσιν αυτον. The wording difference is as the sheet says; which is earlier is a judgment (not held).
+**Raised by:** Christian Florez's Q sheet (line 113)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-q-source-citation-check.md`); person check: not yet
+
+### C267 · Luke 22:64, Matthew 26:68 and Mark 14:65 (Westcott-Hort)
+**Claim:** The minor agreement at the mocking: Mark 14:65 has the guards say "Prophesy," while Matthew 26:68 and Luke 22:64 both add "who is he that struck thee?"
+**Result:** Matches
+**Held text:** `christianity/Incoming/greek-nt-westcott-hort/03-luke.md` (Westcott-Hort 1881)
+**Text says:**
+> προφητευσον τις εστιν ο παισας σε
+**Note:** Matthew 26:68: προφητευσον ημιν χριστε τις εστιν ο παισας σε. Mark 14:65: λεγειν αυτω προφητευσον, with no question. Five words agree exactly against Mark. W-H prints Luke 22:64 without brackets; whether "the manuscripts of Luke 22.64 are not uniform" needs an apparatus (not held, C284).
+**Raised by:** Christian Florez's Q sheet (line 169)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-q-source-citation-check.md`); person check: not yet
+
+### C268 · Luke 16:17 and Matthew 5:18 (Westcott-Hort)
+**Claim:** Q 16.17 (Luke 16:17, Matthew 5:18): it is easier for heaven and earth to pass away than for one tittle of the law to fall; the "tittle" is the Greek *keraia*.
+**Result:** Matches
+**Held text:** `christianity/Incoming/greek-nt-westcott-hort/03-luke.md` (Westcott-Hort 1881)
+**Text says:**
+> ευκοπωτερον δε εστιν τον ουρανον και την γην παρελθειν η του νομου μιαν κεραιαν πεσειν
+**Note:** Matthew 5:18 has ιωτα εν η μια κεραια, "one jot or one tittle". The KJV Luke 16:17 reads "than one tittle of the law to fail". The two sayings share the image and the word κεραια, not the sentence: Luke's is a comparison ("easier... than"), Matthew's an oath with "till all be fulfilled". AUDIT-LIST A21 records that Kloppenborg places Q 16:17 in Q's latest layer (not held).
+**Raised by:** Christian Florez's Q sheet (lines 147, 179, 198, 201); `questions/method-and-criteria.md:23-25`; `questions/jesus-and-the-torah.md:12, 15`
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-q-source-citation-check.md`); person check: not yet

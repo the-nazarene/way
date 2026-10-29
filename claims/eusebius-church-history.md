@@ -17,7 +17,7 @@ Held text: `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffe
 **Held text:** `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffert, NPNF 2.1)
 **Text says:**
 > For Matthew, who had at first preached to the Hebrews, when he was about to go to other peoples, committed his Gospel to writing in his native tongue
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:548`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:548`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); Christian Florez's Q sheet (line 165)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C8 · Eusebius, Church History 3.25.5
@@ -27,7 +27,7 @@ Held text: `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffe
 **Text says:**
 > the Gospel according to the Hebrews, [802] with which those of the Hebrews that have accepted Christ are especially delighted
 **Note:** In the same section Eusebius lists this gospel among the disputed books.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:548`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:548`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C9 · Eusebius, Church History 3.27.4
@@ -37,7 +37,7 @@ Held text: `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffe
 **Text says:**
 > These men, moreover, thought that it was necessary to reject all the epistles of the apostle, whom they called an apostate from the law; [830] and they used only the so-called Gospel according to the Hebrews [831] and made small account of the rest.
 **Note:** "These men" continues from 3.27.3, the second group of Ebionites, who accepted the virgin birth. The passage does not say "false prophet" and does not name the Nazarenes.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:548`; AUDIT-LIST A8 (`questions/pauls-legitimacy.md:43`)
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:548`; AUDIT-LIST A8 (`questions/pauls-legitimacy.md:43`); Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C10 · Eusebius, Church History 3.27.5
@@ -77,7 +77,7 @@ Held text: `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffe
 **Text says:**
 > Matthew wrote the oracles in the Hebrew language, and every one interpreted them as he was able.
 **Note:** "Logia" is the Greek word McGiffert renders "oracles".
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:536`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:536`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); Christian Florez's Q sheet (lines 121, 177)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C14 · Eusebius, Church History 3.39.17 (McGiffert 3.39.16)
@@ -87,7 +87,7 @@ Held text: `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffe
 **Text says:**
 > And he relates another story of a woman, who was accused of many sins before the Lord, which is contained in the Gospel according to the Hebrews.
 **Note:** McGiffert prints this in section 16. His note 967 says Eusebius "does not say that Papias took the story from the Gospel according to the Hebrews, but only that it was contained in that Gospel".
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:105`, :536, :632
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:105`, :536, :632; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C15 · Eusebius, Church History 4.22.8 (McGiffert 4.22.7)
@@ -97,7 +97,7 @@ Held text: `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffe
 **Text says:**
 > And from the Syriac Gospel according to the Hebrews he quotes some passages in the Hebrew tongue
 **Note:** McGiffert reads one book, "the Syriac Gospel according to the Hebrews", where the claim reads three sources. His note 1242 gives the Greek, says "the exact meaning of this sentence is very difficult to determine", and says the grammar requires a Syriac gospel "in addition to the Hebrew". So the three-source reading has support in the Greek, but it is not what this translation prints. McGiffert numbers the passage section 7.
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:538`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:538`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C16 · Eusebius, Church History 5.10.3
@@ -107,7 +107,7 @@ Held text: `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffe
 **Text says:**
 > For Bartholomew, [1512] one of the apostles, had preached to them, and left with them the writing of Matthew in the Hebrew language
 **Note:** McGiffert has "in the Hebrew language", not "letters". "Written in Hebrew characters" is in Jerome's telling of the same story (C22).
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:542`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:542`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C17 · Eusebius, Church History 6.25.4
@@ -116,7 +116,7 @@ Held text: `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffe
 **Held text:** `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffert, NPNF 2.1)
 **Text says:**
 > the first was written by Matthew, who was once a publican, but afterwards an apostle of Jesus Christ, and it was prepared for the converts from Judaism, and published in the Hebrew language
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:546`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:546`; Christian Florez's Hebrew Gospel sheet (see `audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); Christian Florez's Q sheet (line 165)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C116 · Eusebius, Church History 3.27.2-3
@@ -152,3 +152,47 @@ Held text: `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffe
 **Note:** 3.3.1 and 3.25.3 (among "the disputed writings") are Eusebius; 6.25.8 is Origen, quoted by Eusebius. Jerome is C122. In 3.25.3 the letter of James is on the same disputed list.
 **Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:301`
 **Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet
+
+### C168 · Eusebius, Church History 2.23.5
+**Claim:** Hegesippus describes James the Just as one who "ate no flesh".
+**Result:** Matches, other translation
+**Held text:** `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffert, NPNF 2.1)
+**Text says:**
+> He was holy from his mother's womb; and he drank no wine nor strong drink, nor did he eat flesh.
+**Note:** "Ate no flesh" is the wording of Jerome's version of the same Hegesippus passage (*Lives of Illustrious Men* 2, Richardson): "He drank neither wine nor strong drink, ate no flesh". Both are held.
+**Raised by:** Christian Florez's Hebrew Gospel sheet (line 155)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); person check: not yet
+
+### C169 · Eusebius, Church History 3.39.15 ("the Lord's logia" in the sentence on Mark)
+**Claim:** Papias uses the same word, *logia*, for Mark's Gospel in the sentence before the Matthew sentence ("the Lord's logia"), so for Papias *logia* covers a narrative Gospel.
+**Result:** Reads differently
+**Held text:** `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffert, NPNF 2.1)
+**Text says:**
+> but with no intention of giving a connected account of the Lord's discourses, [962] so that Mark committed no error
+> logon, "discourses," or logion, "oracles." The two words are about equally supported by ms. authority.
+**Note:** McGiffert prints "discourses" (*logōn*) and says in his note 962 that the manuscripts are split between *logōn* and *logiōn*; most editors print *logiōn*, and he thinks *logōn* more likely original. So the argument holds on the majority editors' text, but the word it rests on is a variant. The Matthew sentence (3.39.16) has "oracles" without a note.
+**Raised by:** Christian Florez's Hebrew Gospel sheet (line 346)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-hebrew-gospel-citation-check.md`); person check: not yet
+
+### C254 · Eusebius, Church History 2.23.11-18 (Hegesippus on James)
+**Claim:** Hegesippus' account of James being thrown from the Temple is preserved in Eusebius; its Temple scenes and James tradition run parallel to Recognitions 1.
+**Result:** Matches
+**Held text:** `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffert, NPNF 2.1)
+**Text says:**
+> Stand therefore upon the pinnacle of the temple, that from that high position thou mayest be clearly seen
+> So they went up and threw down the just man, and said to each other, Let us stone James the Just.
+> And they began to stone him, for he was not killed by the fall
+> took the club with which he beat out clothes and struck the just man on the head. And thus he suffered martyrdom.
+**Note:** The parallels with Recognitions 1.66-70 are real: James addresses the Passover crowd from a height in the Temple, the "sects" appear (2.23.8-9; Hegesippus's seven are listed at 4.22.6), many are persuaded, and he is thrown down and not killed by the fall. The differences are as clear: Hegesippus has the pinnacle, not the steps; scribes and Pharisees, not one enemy; and James is stoned and clubbed to death there. In Recognitions 1.70-73 he survives and is "still lame on one foot". Eusebius 2.23.3 adds that Clement (of Alexandria) has him thrown from the pinnacle and beaten to death with a club.
+**Raised by:** Christian Florez's Clementine kernels sheet (lines 69, 80)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-clementine-kernels-citation-check.md`); person check: not yet
+
+### C255 · Eusebius, Church History 4.11.7 and 4.22.3 (Hegesippus's date)
+**Claim:** Hegesippus wrote about 180.
+**Result:** Matches
+**Held text:** `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffert, NPNF 2.1)
+**Text says:**
+> And when I had come to Rome I remained there until Anicetus, whose deacon was Eleutherus. And Anicetus was succeeded by Soter, and he by Eleutherus.
+**Note:** Hegesippus lists the Roman bishops down to Eleutherus, whom McGiffert dates 177-190 (note 1083), so a date about 180 fits. Our cards say "c. 170" (`questions/essene-nazarene-origins.md:49`, `questions/sacrifice-culture-vegetarian-jesus.md:92`); both are round figures inside the same window. Eusebius 2.23.3 says he "lived immediately after the apostles".
+**Raised by:** Christian Florez's Clementine kernels sheet (line 80)
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-clementine-kernels-citation-check.md`); person check: not yet

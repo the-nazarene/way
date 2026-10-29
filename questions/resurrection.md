@@ -29,6 +29,8 @@ Cited here to characterize Paul's claim, not Jesus's teaching. **State the early
 
 What it says is ὤφθη (*ōphthē*, "he was seen / appeared to") — one verb, used identically for Cephas, the Twelve, the five hundred, and for Paul himself. Paul's own experience is a light and a voice, which Acts has him call exactly that: "I was not disobedient to the heavenly vision" (Acts 26:19). The New Testament's only first-person resurrection witness describes a vision and places it in the same grammatical category as everyone else's — a point James Tabor presses at length in *Paul and Jesus* (2012). **Pushing the creed back to the 30s makes that problem older, not smaller:** the earliest formula we possess reports appearances in language that cannot distinguish a body from a vision. One further honesty: v. 3's "died for our sins in accordance with the scriptures" is inside the received formula too, so the interpretive clause is early as well. Early attestation of an interpretation is not the same as Jesus teaching it — and nothing in the red text does.
 
+The same list says "After that, he was seen of James" (1 Corinthians 15:7, KJV), and no canonical gospel tells that appearance. The gospel the Hebrew believers used did. Jerome quotes the Gospel according to the Hebrews: "the Lord... appeared to James (for James had sworn that he would not eat bread from that hour in which he drank the cup of the Lord until he should see him rising again from among those that sleep)" (*Lives of Illustrious Men* 2, NPNF 2.3). Jerome wrote around 392 about a book he says he translated, so this is the Hebrew believers' memory, not a first-century report. It shows James at the center of the resurrection story in the community that claimed him.
+
 ### 4. The earliest gospel *promises* an appearance and then narrates none — and the later gospels can't agree on where it happened
 > "And they went out and fled from the tomb, for terror and amazement had seized them; and they said nothing to anyone, for they were afraid." — Mark 16:8
 
@@ -42,6 +44,8 @@ Mark (c. 70 CE) ends at 16:8 in our oldest complete manuscripts — Codex Sinait
 > "Whoever finds the interpretation of these sayings will not experience death." — Gospel of Thomas 1
 
 114 sayings, no passion narrative, no empty tomb, no appearances, no atonement. Thomas's answer to death is recognition and interpretation — bringing forth what is already within. Whatever you conclude about Thomas's date, it is evidence that an early Jesus community built its entire soteriology without the event.
+
+Thomas isn't alone. The sayings Matthew and Luke share (Q, the material the method card relies on) also have no passion narrative, no empty tomb and no appearance. Their one cross is the follower's: "whosoever doth not bear his cross, and come after me, cannot be my disciple" (Luke 14:27, KJV). Q does know he faced death: it sets him among the prophets Jerusalem killed (Luke 11:49-51; "O Jerusalem, Jerusalem, which killest the prophets," 13:34). A murdered prophet, not a sacrifice. Its compilers lived after the crucifixion and knew of it; what they didn't do was build their book on it (Christian Florez's Q sheet, C2 and C6).
 
 ## Questions People Raise
 
