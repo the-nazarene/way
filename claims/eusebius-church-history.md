@@ -8,7 +8,7 @@ Held text: `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffe
 **Held text:** `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffert, NPNF 2.1)
 **Text says:**
 > relying upon the power of Christ, who had said to them, "Go ye and make disciples of all the nations in my name."
-**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:261`
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:261`; `extended-library/polemic-answers-was-yeshua-god-florez.md:319` (C12; the only quotation of Matthew 28:19 in the *Church History*, which has no form with the triadic formula)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
 
 ### C7 · Eusebius, Church History 3.24.6
@@ -118,3 +118,37 @@ Held text: `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffe
 > the first was written by Matthew, who was once a publican, but afterwards an apostle of Jesus Christ, and it was prepared for the converts from Judaism, and published in the Hebrew language
 **Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:546`
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
+
+### C116 · Eusebius, Church History 3.27.2-3
+**Claim:** There are two kinds of Ebionites. One holds Christ was "a plain and common man" born of Joseph. The other accepts the virgin birth but "refuses to acknowledge that he pre existed as God, the Word, and Wisdom."
+**Result:** Matches, other translation
+**Held text:** `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffert, NPNF 2.1)
+**Text says:**
+> For they considered him a plain and common man, who was justified only because of his superior virtue, and who was the fruit of the intercourse of a man with Mary.
+> inasmuch as they also refused to acknowledge that he pre-existed, [828] being God, Word, and Wisdom
+**Note:** "A plain and common man" is word for word. McGiffert does not name Joseph ("a man"), and the second quotation is close to McGiffert but not his words. C9 and C10 are the next sections.
+**Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:187`, :1032
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet
+
+### C117 · Eusebius, Church History 6.25.13-14
+**Claim:** Hebrews is anonymous: "Origen in the third century said 'who wrote the epistle, in truth God knows' (quoted by Eusebius, Church History 6.25). It is not by Paul, not by an apostle".
+**Result:** Matches
+**Held text:** `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffert, NPNF 2.1)
+**Text says:**
+> But who wrote the epistle, in truth, God knows.
+> If I gave my opinion, I should say that the thoughts are those of the apostle, but the diction and phraseology are those of some one who remembered the apostolic teachings
+**Note:** The quotation matches (McGiffert 6.25.14). The next sentence of the sheet goes past Origen: in 6.25.13 he gives the thoughts to Paul and says "if any church holds that this epistle is by Paul, let it be commended for this". He doubts Paul wrote it down, not that it is Pauline.
+**Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:289`
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet
+
+### C118 · Eusebius, Church History 3.3.1, 3.25.3 and 6.25.8
+**Claim:** 2 Peter was "doubted even in antiquity (Origen, Eusebius and Jerome all record doubts)".
+**Result:** Matches
+**Held text:** `christianity/Incoming/eusebius-church-history-full-text.md` (McGiffert, NPNF 2.1)
+**Text says:**
+> But we have learned that his extant second Epistle does not belong to the canon;
+> also the second epistle of Peter,
+> has left one acknowledged epistle; perhaps also a second, but this is doubtful.
+**Note:** 3.3.1 and 3.25.3 (among "the disputed writings") are Eusebius; 6.25.8 is Origen, quoted by Eusebius. Jerome is C122. In 3.25.3 the letter of James is on the same disputed list.
+**Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:301`
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet

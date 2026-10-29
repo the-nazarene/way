@@ -57,3 +57,37 @@ Origen's *Homilies on Jeremiah*, *On First Principles* and the Latin *Commentary
 **Note:** The bracket in canon 16 is Percival's.
 **Raised by:** `christianity/DRAFT-sabbath-to-sunday.md:133`
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-fathers-added-checks.md`); person check: not yet
+
+### C119 · Origen, Commentary on John, Book I (Menzies section 32)
+**Claim:** The Bezae reading of Luke 3:22, "Thou art my Son, this day have I begotten thee", is quoted as the text of Luke by "Origen (Commentary on John, book 1)"; the baptism voice "in Justin, Clement and Origen says 'today I have begotten thee'".
+**Result:** Reads differently
+**Held text:** `christianity/Incoming/origen-commentary-on-john-full-text.md` (Menzies, ANF 9)
+**Text says:**
+> "Thou art My Son, this day have I begotten Thee," [4608] this is spoken to Him by God, with whom all time is to-day
+> [4608] Mark i. 11; Ps. ii. 7; Heb. i. 5.
+**Note:** Origen quotes the Psalm 2:7 words and reads "to-day" as God's timeless present, the eternal begetting of the Son. Nothing in the section mentions the baptism, the Jordan or Luke, and Menzies' note points to Mark 1:11, Psalm 2:7 and Hebrews 1:5, not Luke 3:22. This is the only place the words occur in the held books (I, II, VI, X). If Origen quotes Luke 3:22 in this form elsewhere, it is in a work we don't hold.
+**Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:165`, :1003
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet
+
+### C120 · Origen, Commentary on John, Book II (Menzies section 29) and Book VI (section 2)
+**Claim:** At John 1:18, Origen is a witness for "only begotten God".
+**Result:** Matches
+**Held text:** `christianity/Incoming/origen-commentary-on-john-full-text.md` (Menzies, ANF 9)
+**Text says:**
+> No one hath seen God at any time; the only-begotten God, who is in the bosom of the Father, He hath declared Him."
+> "The only-begotten Son of God who is in the bosom of the Father, He hath declared him."
+**Note:** Book II quotes "the only-begotten God"; Book VI quotes "the only-begotten Son of God". So Origen, in Menzies' English, has both. The Greek of these passages is not held.
+**Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md:235` (A30); `extended-library/polemic-answers-was-yeshua-god-florez.md:251`
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet
+
+### C121 · Origen, Commentary on John, Book II (Menzies section 2)
+**Claim:** In John 1:1, "God" has the article in the second clause (*ton theon*) and not in the third (*theos*), and John made the distinction on purpose.
+**Result:** Matches
+**Held text:** `christianity/Incoming/origen-commentary-on-john-full-text.md` (Menzies, ANF 9)
+**Text says:**
+> He does not write without care in this respect, nor is he unfamiliar with the niceties of the Greek tongue.
+> He uses the article, when the name of God refers to the uncreated cause of all things, and omits it when the Logos is named God.
+> all beyond the Very God is made God by participation in His divinity, and is not to be called simply God (with the article), but rather God (without article).
+**Note:** The sheet does not cite Origen, but he makes its C1 argument about 230 in a held text, and quotes John 17:3 ("the only true God") with it. The Greek wording of the verse itself is in Westcott-Hort (C129).
+**Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:249`, :969
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet

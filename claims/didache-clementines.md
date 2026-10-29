@@ -65,3 +65,15 @@ Held texts:
 **Note:** The idea is there, as the sheet says. But the words in quotation marks, "instead of sacrifices", are not in the text of 1.39; the nearest is the chapter heading, which is most likely the ANF editor's. The quotable words are "purified not by the blood of beasts". The sheet's link is labelled "Homilies 3", which does not match the citation (Recognitions Book 1).
 **Raised by:** `extended-library/polemic-answers-red-letters-added-florez.md` (F3.22)
 **Checked:** 2026-10-26, Claude (`audits/2026-10-26-florez-red-letters-citation-check.md`); person check: not yet
+
+### C115 · Didache 9.2-3 and 10.2
+**Claim:** "Yeshua is 'thy servant' (*pais*) in its prayers, 9.2 and 10.2. Not God."
+**Result:** Matches, other translation
+**Held text:** `christianity/Incoming/didache-full-text.md` (Richardson)
+**Text says:**
+> for the holy vine of David, your child, which you have revealed through Jesus, your child.
+> for your sacred name which you have lodged in our hearts, and for the knowledge and faith and immortality which you have revealed through Jesus, your child.
+> "Hosanna to the God of David!"
+**Note:** Richardson renders *pais* "child"; the word means both "child" and "servant". The Eucharistic prayers in our text also have "Hosanna to the God of David!" and "Our Lord, come!" (10.6). Some readers take the Hosanna as addressed to Jesus (compare Matthew 21:9, "Son of David"), so someone may raise it against "Not God".
+**Raised by:** `extended-library/polemic-answers-was-yeshua-god-florez.md:233`; `questions/trinity-deity-of-jesus.md:104`
+**Checked:** 2026-10-28, Claude (`audits/2026-10-28-florez-was-yeshua-god-citation-check.md`); person check: not yet
