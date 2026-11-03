@@ -6,7 +6,7 @@
                                                   # is this link already in the repo? (run BEFORE adding)
 
 What "sync" does:
-  1. finds every `podcast-archive/*/00-queue.md`
+  1. finds every `podcast-archive/*/00-queue.md` (and one level deeper, for a contributor with several channels)
   2. ticks T (transcript in) and N (notes written) for each row from the file itself:
      a file still showing `*Pending.*` has no transcript; `*Notes pending.*` has no notes
   3. rewrites the status table in PROCESSING-ROADMAP.md between the STATUS markers
@@ -49,7 +49,7 @@ def sync_queue(q: Path) -> dict:
     q.write_text("\n".join(lines), encoding="utf-8")
     head = "\n".join(lines[:12])
     title = lines[0].lstrip("# ").replace(": queue", "").strip()
-    return {"title": title, "folder": q.parent.name, "contrib": field(head, "Contributed by"),
+    return {"title": title, "folder": q.parent.relative_to(REPO / "podcast-archive").as_posix(), "contrib": field(head, "Contributed by"),
             "total": tot, "t": t, "n": n}
 
 def status_table(rows: list[dict]) -> str:
@@ -104,7 +104,7 @@ def main() -> int:
     a = ap.parse_args()
     if a.check:
         return check(a.check)
-    rows = [sync_queue(q) for q in sorted((REPO / "podcast-archive").glob("*/00-queue.md"))]
+    rows = [sync_queue(q) for q in sorted([*(REPO / "podcast-archive").glob("*/00-queue.md"), *(REPO / "podcast-archive").glob("*/*/00-queue.md")])]
     text = ROADMAP.read_text(encoding="utf-8")
     if START in text and END in text:
         pre, rest = text.split(START, 1)

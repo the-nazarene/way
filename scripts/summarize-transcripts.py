@@ -16,7 +16,9 @@ Usage (needs ANTHROPIC_API_KEY, and ANTHROPIC_WORKSPACE_ID for an org-scoped key
   summarize-transcripts.py submit FILES...     # send one batch, remember it in --state
   summarize-transcripts.py status              # how far along the batch is
   summarize-transcripts.py collect             # write finished summaries into the files
-Options: --state FILE (default: .summarize-batch.json beside the first file), --speaker TEXT
+Options: --state FILE (default: .summarize-batch.json beside the first file), --speaker TEXT,
+  --paul-flag (adds an **Argues from Paul:** header line, for channels addressed to audiences
+  who take Paul as authoritative; the contributor asked for those talks to be marked)
 """
 from __future__ import annotations
 
@@ -88,7 +90,12 @@ Bullets tying the talk to the repo's recurring questions where it genuinely bear
 ## Books & Resources Mentioned
 Bullets of books, courses, sites, or other videos the speaker points to. "None mentioned." if none.
 
-Rules: use only what is in this transcript; add no outside facts, dates or quotations. If the talk is mostly a guest or host speaking, say who carries it in the Summary. Plain markdown, no preamble, no closing remarks: the TOPICS line, the SPEAKERS line, then "## Summary"."""
+Rules: use only what is in this transcript; add no outside facts, dates or quotations. If the talk is mostly a guest or host speaking, say who carries it in the Summary. Plain markdown, no preamble, no closing remarks: the TOPICS line, the SPEAKERS line, then "## Summary".{paul}"""
+
+PAUL_RULE = """
+
+One more line goes between SPEAKERS and "## Summary":
+PAUL: "yes" or "no", then " - " and one short clause. "yes" when the talk's case rests on Paul's letters as evidence or presents Paul favorably as an authority (the speaker may be meeting a traditional audience on its own ground); "no" when Paul is absent, incidental, or criticized."""
 
 
 def stamp_seconds(m: re.Match) -> int:
@@ -114,30 +121,33 @@ USE_LINE = ("**Use:** auto-captioned transcript with machine-written notes. Quot
             "before quoting. See `questions/CITATION-NOTES.md`.")
 
 
-def build_head(head: str, speakers: str, topics: list[str], published: str | None) -> str:
+def build_head(head: str, speakers: str, topics: list[str], published: str | None, paul: str = "") -> str:
     """Header lines in a fixed order, replacing any from an earlier run."""
-    drop = r"\*\*(Speakers?|Topics|Published|Use):\*\*" if speakers else r"\*\*(Speakers|Topics|Published|Use):\*\*"
+    drop = r"\*\*(Speakers?|Topics|Published|Use|Argues from Paul):\*\*" if speakers else r"\*\*(Speakers|Topics|Published|Use|Argues from Paul):\*\*"
     lines = [l for l in head.splitlines() if not re.match(drop, l.strip())]
     title, rest = lines[0], [l.rstrip() for l in lines[1:] if l.strip()]
     extra = []
     if speakers: extra.append(f"**Speakers:** {speakers}")
     if published: extra.append(f"**Published:** {published}")
     extra.append(f"**Topics:** {', '.join(topics) if topics else 'none tagged'}")
+    if paul: extra.append(f"**Argues from Paul:** {paul}")
     extra.append(USE_LINE)
     body = [l if l.endswith("  ") else l + "  " for l in extra[:1] + rest + extra[1:]]
     body[-1] = body[-1].rstrip()
     return title + "\n\n" + "\n".join(body)
 
 
-def parse_preamble(text: str) -> tuple[list[str], str, str]:
-    topics, speakers = [], ""
+def parse_preamble(text: str) -> tuple[list[str], str, str, str]:
+    topics, speakers, paul = [], "", ""
     pre, sep, body = text.partition("## Summary")
     for line in pre.splitlines():
         if line.upper().startswith("TOPICS:"):
             topics = [t.strip().lower() for t in line.split(":", 1)[1].split(",")]
         elif line.upper().startswith("SPEAKERS:"):
             speakers = line.split(":", 1)[1].strip()
-    return [t for t in topics if t in TOPICS], speakers, (sep + body).strip()
+        elif line.upper().startswith("PAUL:"):
+            paul = line.split(":", 1)[1].strip()
+    return [t for t in topics if t in TOPICS], speakers, (sep + body).strip(), paul
 
 
 def load_dates(path: Path | None) -> dict[str, str]:
@@ -200,7 +210,8 @@ def client() -> anthropic.Anthropic:
     return anthropic.Anthropic(default_headers=headers)
 
 
-def submit(files: list[Path], state: Path, max_tokens: int = 16000) -> None:
+def submit(files: list[Path], state: Path, max_tokens: int = 16000, paul_flag: bool = False) -> None:
+    system = SYSTEM.replace("{paul}", PAUL_RULE if paul_flag else "")
     reqs, ids = [], {}
     for i, f in enumerate(files):
         text = f.read_text(encoding="utf-8")
@@ -222,7 +233,7 @@ def submit(files: list[Path], state: Path, max_tokens: int = 16000) -> None:
         reqs.append(Request(custom_id=cid, params=MessageCreateParamsNonStreaming(
             model=MODEL,
             max_tokens=max_tokens,
-            system=SYSTEM,
+            system=system,
             messages=[{"role": "user", "content": f"Talk title: {title}\n\n{desc}{head}\n\n{transcript}"}],
         )))
     batch = client().messages.batches.create(requests=reqs)
@@ -252,14 +263,14 @@ def collect(state: Path, dates: dict[str, str]) -> int:
         tin += msg.usage.input_tokens; tout += msg.usage.output_tokens
         if msg.stop_reason != "end_turn":
             failed.append((path.name, f"stop_reason={msg.stop_reason}")); continue
-        topics, speakers, body = parse_preamble("".join(b.text for b in msg.content if b.type == "text"))
+        topics, speakers, body, paul = parse_preamble("".join(b.text for b in msg.content if b.type == "text"))
         if not body.startswith("## Summary"):
             failed.append((path.name, "unexpected format")); continue
         head, transcript = split_file(path.read_text(encoding="utf-8"))
         body, dropped = check_quotes(body, transcript)
         all_dropped += [(path.name, d) for d in dropped]
         vid = re.search(r"watch\?v=([A-Za-z0-9_-]{11})", head)
-        head = build_head(strip_old_notes(head), speakers, topics, dates.get(vid.group(1)) if vid else None)
+        head = build_head(strip_old_notes(head), speakers, topics, dates.get(vid.group(1)) if vid else None, paul)
         path.write_text(f"{head}\n\n---\n\n{body}\n\n---\n\n{transcript.rstrip()}\n", encoding="utf-8")
         written += 1
     log = state.with_suffix(".log")
@@ -278,12 +289,13 @@ def main() -> int:
     ap.add_argument("files", nargs="*", type=Path)
     ap.add_argument("--state", type=Path)
     ap.add_argument("--max-tokens", type=int, default=16000, help="raise for very long talks that stop at max_tokens")
+    ap.add_argument("--paul-flag", action="store_true", help="ask for an Argues from Paul: header line")
     ap.add_argument("--dates", type=Path, help='file of "<youtube id> <YYYYMMDD>" lines (yt-dlp --print)')
     a = ap.parse_args()
     state = a.state or ((a.files[0].parent if a.files else Path.cwd()) / ".summarize-batch.json")
     if a.cmd == "submit":
         if not a.files: ap.error("submit needs files")
-        submit(a.files, state, a.max_tokens)
+        submit(a.files, state, a.max_tokens, a.paul_flag)
     elif a.cmd == "status":
         status(state)
     else:
