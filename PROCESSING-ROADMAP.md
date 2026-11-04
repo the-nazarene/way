@@ -27,7 +27,7 @@ The full method (stages, which model does what, quality checks, rights, git habi
 *Checkpoint 2026-10-20. Update this section at every checkpoint; the details live in Next Up, Decisions Waiting and the inventory below.*
 
 **Done**
-- **Craig Wescoe:** Epiphanius, *Panarion*, merged and registered as a source (audit of quoted passages still open).
+- **Craig Wescoe:** Epiphanius, *Panarion*, merged and registered as a source (audit of quoted passages still open). His three YouTube channels (Creation Care Church, Vegan School, Bible Origin: 303 videos) with transcripts and notes, each talk marked whether it argues from Paul (Next Up 24).
 - **Chris Crutchfield, YouTube:** every video from all three links listed (414) with Chris credited on each; Shabbat Studies fully transcribed (Ch 2 via local Whisper), notes on all 10 chapters, and a series overview with one combined claims-to-check list; David The Nazarene confirmed as David H. Notsari (Jesus Way ep. 23); 22 of David's most relevant videos have notes.
 - **Chris Crutchfield, Google Drive:** all 65 PDFs downloaded and converted to Markdown (11 works); public-domain texts added and registered (1 Maccabees, Book of Jasher, plus R. H. Charles's 1917 Enoch); notes written for all six 🔴 copyrighted works; copyright check done (no permission to republish found).
 - **Matt Fracek:** Scott's Nazarene Way channel (84 videos) and the rest of Dr. Tabor's channel (398) with transcripts and notes.
@@ -119,6 +119,7 @@ In order. Put your name in **Who** when you take one.
 | 23 | Christian Florez's three research sheets of 2026-10-28 done: "The Hebrew Gospel of Matthew, One Book Under Three Names, and Every Recorded Saying", "The Kernel Texts of the Clementine Literature" and "The Q Source, Why We Use It and Why Scholarship Finds It Credible". Converted (`extended-library/polemic-answers-hebrew-gospel-of-matthew-florez.md`, `clementine-kernel-texts-florez.md`, `polemic-answers-q-source-florez.md`), each with a `-notes.md`. Two helper passes checked every claim a held text can test (claims C167-C203, C230-C284) and mapped the sheets against the cards; reports in `audits/2026-10-28-florez-{hebrew-gospel,clementine-kernels,q-source}-*.md`. Possible problems in our own files: `AUDIT-LIST.md` A38-A47 | Christian Florez | Claude | [x] |
 | 23a | Card packet from the three sheets, in the same pull request: fixes to the Passover line (A40, A41), the Pella attribution (A39) and "stood condemned" (A43); the Ebionites' sacrifice saying (Panarion 30,16,5a); Recognitions 1.70-71 and the Clementine layer dating on the Paul card; Recognitions 1.39 on the Pella objection; the appearance to James (1 Corinthians 15:7, Jerome *Lives* 2); Q on the method, Torah and resurrection cards. Plus the held-back round, added on Matt's word: Panarion 29,9,4 and Jerome *Against the Pelagians* 3.2 (Nazarene card §5), Clement *Stromata* 2.9 beside Thomas 2, Recognitions 1.64 and 4.35, Luke 16:13 W-H (Thomas card), Luke 13:24 (Two Ways), Luke 14:27 (atonement); and the site copy of the Pella error (A39) | Christian Florez | Approved by Matt 2026-10-29, merged in PR #21 | [x] |
 | 23b | Send Christian the points where our held texts read differently (each notes file, "Where the held texts read differently": 12 on the Hebrew Gospel sheet, 7 on the Clementine sheet, 4 on the Q sheet) | Christian Florez | Matt or Rex | [ ] |
+| 24 | Craig Wescoe's three channels done 2026-11-03: `podcast-archive/craig-wescoe/` (`creation-care-church/` 199, `vegan-school/` 94, `bible-origin/` 10; videos tab and live streams; Shorts and the 11 "excerpt from FNL" clips left out as repeats). 301 transcripts; notes by `scripts/summarize-transcripts.py --paul-flag`, which adds an **Argues from Paul:** line. Craig asked that arguments using Paul's letters as evidence or presenting Paul favorably be ignored, because many talks meet traditional Christians on their own ground. We mark them instead of dropping them (162 yes, 139 no), so the archive stays a true record of what he has argued in public; cards and search can leave the *yes* talks out with one rule (D13). Two videos have no captions (creation-care-church 162, vegan-school 029) | Craig Wescoe (his own channels) | Claude | [x] |
 | 23c | "Research Notes, The Didache and Sacrifice (Pinned)" saved in full (`extended-library/research-notes-didache-and-sacrifice-florez.md`) but not processed: he marked it starting notes, "to be researched further before any of it is used." Process it when he says it is finished | Christian Florez | Claude, when he says | [ ] |
 
 ---
@@ -143,16 +144,20 @@ Judgment calls collected as they come up, for Rex and Matt to go through togethe
 | D10 | What the public search shows. Right now it returns everything in the repo: primary texts, cards, our notes, podcast transcripts and contributors' full texts, without saying which kind a result is. Options: (1) label every result by kind and show all of it; (2) search primary texts, cards and the claims list by default, with working material (talks, notes, contributed works) behind a clearly labelled switch; (3) leave working material out of the public search entirely and keep it in the repo only. Whichever is chosen, the full texts stay in the repo as the record of what we were sent | `site/search/`, `scripts/vectorize-sync.py` | Waiting (Rex, Matt) |
 | D11 | Next Up 22a: the Trinity card packet from Christian's second sheet. Reply yes, or yes except the numbers to strike. Underneath it, one framing question (not a blocker): the sheet argues "an exalted man, not God"; the card argues "divine, and so are you." The packet adds one sentence saying both deny *homoousios* and neither puts a ceiling on us; say if you want it framed differently | pull request for Next Up 22a | Decided 2026-10-28 (Matt): all 10 approved; the bridge now reads "the two agree on what matters here: no *homoousios*, and no ceiling", and §7's heading no longer assumes the Ebionites were "the people closest to him" (PR #20) |
 | D12 | Next Up 23a: the card packet from Christian's three sheets (sacrifice, Nazarene origins, Paul, resurrection, method, Torah cards). Reply yes, or yes except the numbers to strike. Underneath it, the label question from D9 and A20: the packet calls the Panarion 30 book "the gospel the Ebionites used (he says they called it Matthew, and 'Hebrew'; scholars today call it the Gospel of the Ebionites)", which is what Epiphanius says and doesn't take Edwards's side or the majority's | pull request for Next Up 23a | Decided 2026-10-29: Matt approved all ten and the neutral label |
+| D13 | Craig Wescoe's talks (Next Up 24): every one is in the archive with an **Argues from Paul:** line. Craig suggested ignoring the ones that argue from Paul. Options: (1) keep all in search, and the cards never cite a *yes* talk for what Jesus taught (recommended: the cards already keep Paul out of that stack); (2) leave the *yes* talks out of public search too; (3) drop them from the repo | pull request for Next Up 24 | Decided 2026-11-04 (Matt): option 1 |
 
 ---
 
 ## Status
 
 <!-- STATUS:START -->
-*Generated by `python scripts/processing-status.py` on 2026-10-28. Don't edit by hand.*
+*Generated by `python scripts/processing-status.py` on 2026-11-03. Don't edit by hand.*
 
 | Source | Contributed by | Items | Transcripts | Notes | Queue |
 |---|---|---|---|---|---|
+| Bible Origin | Craig Wescoe, 2026-11-03 (his own channel; sent to the group, passed on by Matt) | 10 | 10 of 10 | 10 of 10 | [queue](podcast-archive/craig-wescoe/bible-origin/00-queue.md) |
+| Creation Care Church | Craig Wescoe, 2026-11-03 (his own channel; sent to the group, passed on by Matt) | 199 | 198 of 199 | 198 of 199 | [queue](podcast-archive/craig-wescoe/creation-care-church/00-queue.md) |
+| Vegan School | Craig Wescoe, 2026-11-03 (his own channel; sent to the group, passed on by Matt) | 94 | 93 of 94 | 93 of 94 | [queue](podcast-archive/craig-wescoe/vegan-school/00-queue.md) |
 | David The Nazarene | Chris Crutchfield, 2026-10-19; Brad Brink, 2026-10-20 | 370 | 370 of 370 | 68 of 370 | [queue](podcast-archive/david-the-nazarene/00-queue.md) |
 | Dr. James Tabor, YouTube channel | Matt Fracek, 2026-10-20 | 405 | 405 of 405 | 405 of 405 | [queue](podcast-archive/dr-tabor-channel/00-queue.md) |
 | Scott, Nazarene Way | Matt Fracek, 2026-10-20 | 84 | 84 of 84 | 80 of 84 | [queue](podcast-archive/scott-nazarene-way/00-queue.md) |
@@ -201,6 +206,7 @@ Every item, newest first. One row per link or file as it was given to us.
 
 | Received | Contributed by | Item | Type | Link | Where it lives | Status |
 |---|---|---|---|---|---|---|
+| 2026-11-03 | Craig Wescoe (his own channels) | Creation Care Church, Vegan School, Bible Origin | YouTube channels, 303 videos | https://www.youtube.com/@creationcarechurch, https://www.youtube.com/@veganschool, https://www.youtube.com/@bibleorigin | `podcast-archive/craig-wescoe/` | Transcripts and notes done; see Next Up 24 |
 | 2026-10-28 | Christian Florez | "Polemic Answers, The Hebrew Gospel of Matthew, One Book Under Three Names, and Every Recorded Saying": every ancient witness that Matthew wrote in Hebrew, the case (after James R. Edwards) that the Hebrew Matthew, the Gospel according to the Hebrews and the "Gospel of the Ebionites" are one book, and every surviving fragment | Notion page, about 9,900 words | [Notion](https://app.notion.com/p/Polemic-Answers-The-Hebrew-Gospel-of-Matthew-One-Book-Under-Three-Names-and-Every-Recorded-Saying-40792732ec0681948ce3dee4a865727e) | `extended-library/polemic-answers-hebrew-gospel-of-matthew-florez.md` (full text) + `-notes.md` | Converted to Markdown; checked against held texts; see Next Up 23 |
 | 2026-10-28 | Christian Florez | "The Kernel Texts of the Clementine Literature": dates the sources inside the Clementine Homilies and Recognitions (the *Kerygmata Petrou* and the Recognitions 1.27-71 "Ascents of James" source, about 150-200), with a table of what is settled and what is disputed | Notion page, about 2,400 words | [Notion](https://app.notion.com/p/The-Kernel-Texts-of-the-Clementine-Literature-40792732ec0681609aa5d372cd889364) | `extended-library/clementine-kernel-texts-florez.md` (full text) + `-notes.md` | Converted to Markdown; checked against held texts; see Next Up 23 |
 | 2026-10-28 | Christian Florez | "Polemic Answers, The Q Source, Why We Use It and Why Scholarship Finds It Credible": what Q is and isn't, why most scholars hold it, why it matters (no atoning death, Torah to the last stroke), and the objections, Farrer first | Notion page, about 7,500 words | [Notion](https://app.notion.com/p/Polemic-Answers-The-Q-Source-Why-We-Use-It-and-Why-Scholarship-Finds-It-Credible-40092732ec06810881c7dcfc5c30e408) | `extended-library/polemic-answers-q-source-florez.md` (full text) + `-notes.md` | Converted to Markdown; checked against held texts; see Next Up 23 |
@@ -224,7 +230,7 @@ Every item, newest first. One row per link or file as it was given to us.
 
 | Name | What they've sent | First contribution |
 |---|---|---|
-| Craig Wescoe | Epiphanius, *Panarion* | 2026-10-17 |
+| Craig Wescoe | Epiphanius, *Panarion*; his YouTube channels Creation Care Church, Vegan School and Bible Origin (303 videos) | 2026-10-17 |
 | Chris Crutchfield | Shabbat Studies with Jen & Chris, David The Nazarene, SixSeven Podcast (YouTube); Google Drive batch of 11 works (3 folders, 3 files) | 2026-10-19 |
 | Brad Brink | David The Nazarene (YouTube channel; also sent by Chris) | 2026-10-20 |
 | Christian Florez | Research sheets "Polemic Answers, The Red Letters That Were Added", "Polemic Answers — Was Yeshua God?", "The Hebrew Gospel of Matthew", "The Kernel Texts of the Clementine Literature", "The Q Source", and research notes on the Didache and sacrifice (Notion) | 2026-10-26 |
@@ -268,6 +274,18 @@ For Claude and for anyone adding sources by hand.
 ---
 
 ## Batch Details
+
+### 2026-11-03 — Craig Wescoe's three YouTube channels
+
+**Sent by:** Craig Wescoe, to the group (passed on by Matt): "I have 200 talks on @creationcarechurch and 26 lessons on @veganschool and another several videos on @bibleorigin." He added: "A lot of them start from the assumption that Paul is legit because they are targeting traditional Christians who hold that view of Paul. So I would recommend filtering by telling the ai scraper 'ignore all arguments that use Paul's writings as evidence or that depict Paul favorably'."
+
+- [x] Duplicate check: all three new
+- [x] Listed: Creation Care Church 138 videos + 72 streams, Vegan School 84 + 10, Bible Origin 10. Left out: Shorts (about 490, clips of the long videos) and 11 "excerpt from FNL" clips
+- [x] Transcripts (Apify, timestamped): 301 of 303; no captions on creation-care-church 162 and vegan-school 029
+- [x] Notes (Claude Haiku 5.5, quotes checked against the captions): every talk with a transcript, plus an **Argues from Paul:** line
+- [x] Craig named as presenter where the captions and description don't name him (37 files), on his word that these are his talks
+- [x] Queues and overview: `podcast-archive/craig-wescoe/00-overview.md`, `*/00-queue.md`
+- [x] D13: whether search and the cards should leave out the talks marked *yes* (decided 2026-11-04: keep all in search; cards never cite a *yes* talk for what Jesus taught)
 
 ### 2026-10-28 — Four more sheets from Christian Florez
 

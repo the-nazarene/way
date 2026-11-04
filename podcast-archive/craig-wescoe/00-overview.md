@@ -1,0 +1,1230 @@
+# Craig Wescoe: overview
+
+Talks and lessons from Craig Wescoe's three YouTube channels: 303 videos, 301 with notes. Craig also gave the repo its Panarion translation (`christianity/Incoming/epiphanius-panarion-*`).
+
+| Folder | Channel | Videos | Queue |
+|---|---|---|---|
+| `creation-care-church/` | [@creationcarechurch](https://www.youtube.com/@creationcarechurch) | 199 | [creation-care-church/00-queue.md](creation-care-church/00-queue.md) |
+| `vegan-school/` | [@veganschool](https://www.youtube.com/@veganschool) | 94 | [vegan-school/00-queue.md](vegan-school/00-queue.md) |
+| `bible-origin/` | [@bibleorigin](https://www.youtube.com/@bibleorigin) | 10 | [bible-origin/00-queue.md](bible-origin/00-queue.md) |
+
+**Contributed by:** Craig Wescoe, 2026-11-03 (sent to the group; passed on by Matt)  
+**Use:** auto-captioned transcripts with machine-written notes (`scripts/summarize-transcripts.py --paul-flag`). Pointers, not proof: verify in the video and the primary text before quoting.
+
+## On Paul
+
+Craig's own caution, sent with these channels: "A lot of them start from the assumption that Paul is legit because they are targeting traditional Christians who hold that view of Paul." So every talk carries an **Argues from Paul:** line (machine-written): *yes* where the case rests on Paul's letters or presents Paul favorably, meeting that audience on its own ground. Read those as addressed to that audience, not as Craig's view of Paul. `grep -l "Argues from Paul:\*\* no"` lists the rest.
+
+Count: 162 talks marked *yes*, 139 *no*.
+
+Cite a moment as `<folder>-NNN @ mm:ss` (e.g. `creation-care-church-119 @ 12:39`).
+
+## By topic
+
+Generated from each file's `**Topics:**` line (tags from `podcast-archive/TOPICS.md`). *(P)* = argues from Paul.
+
+### diet (257)
+
+- [Should we Judge those who Harm Animals?](vegan-school/001-should-we-judge-those-who-harm-animals.md) · 2017-08-20
+- [Witnessing at NYC Animal Liberation March 2017](vegan-school/002-witnessing-at-nyc-animal-liberation-march-2017.md) · 2017-09-03
+- [Restoring the Garden Paradise Ideal](vegan-school/003-restoring-the-garden-paradise-ideal.md) · 2017-12-20
+- [Genesis 1 Explanation Bible Commentary](vegan-school/004-genesis-1-explanation-bible-commentary.md) · 2018-01-03 *(P)*
+- [Balaam's Donkey](vegan-school/008-balaams-donkey.md) · 2018-12-20
+- [Bible Trivia Question: God's Response to Noah](vegan-school/010-bible-trivia-question-gods-response-to-noah.md) · 2018-12-24
+- [Daniel's Wisdom & Faithfulness to God](vegan-school/012-daniels-wisdom-faithfulness-to-god.md) · 2018-12-26
+- [Can you be Vegan and also Believe in the Christian God of the Bible?](vegan-school/013-can-you-be-vegan-and-also-believe-in-the-christian-god-of-th.md) · 2019-01-12
+- [Faithful and Wise Stewardship](vegan-school/014-faithful-and-wise-stewardship.md) · 2019-02-01
+- [Romans 14: Should we ignore vegans because they have weak faith?](vegan-school/015-romans-14-should-we-ignore-vegans-because-they-have-weak-fai.md) · 2019-04-21 *(P)*
+- [Truckloads of Heartbreak 💔😥](vegan-school/016-truckloads-of-heartbreak.md) · 2019-04-29
+- [Hey Vegans, God Gave Us Dominion Over Animals!](vegan-school/018-hey-vegans-god-gave-us-dominion-over-animals.md) · 2019-05-26
+- [Did God Give Permission to Eat Animals?](vegan-school/020-did-god-give-permission-to-eat-animals.md) · 2019-06-05 *(P)*
+- [A COW'S LIFE](vegan-school/022-a-cows-life.md) · 2019-07-08
+- [KICKED OUT OF CHURCH FOR ASKING IF GOD LOVES ANIMALS!?!?](vegan-school/023-kicked-out-of-church-for-asking-if-god-loves-animals.md) · 2019-07-10
+- [BIG JOE TELLS CHRISTIANS TO GO VEGAN!!](vegan-school/024-big-joe-tells-christians-to-go-vegan.md) · 2019-07-23
+- [Right to Rescue March - Los Angeles](vegan-school/025-right-to-rescue-march-los-angeles.md) · 2019-07-24
+- [DOES GOD WANT US TO KILL AND EAT ANIMALS?](vegan-school/026-does-god-want-us-to-kill-and-eat-animals.md) · 2019-07-26
+- [CHRISTIAN TALKS TO YOGI MASTER ABOUT VEGANISM](vegan-school/027-christian-talks-to-yogi-master-about-veganism.md) · 2019-08-01 *(P)*
+- [ANIMAL RIGHTS RADIO INTERVIEW](vegan-school/028-animal-rights-radio-interview.md) · 2019-08-07
+- [GOD CREATED THE WORLD TO BE VEGAN!](vegan-school/030-god-created-the-world-to-be-vegan.md) · 2019-08-23
+- [CHRISTIAN DEBATES VEGANISM WITH MUSLIM](vegan-school/031-christian-debates-veganism-with-muslim.md) · 2019-09-16
+- [VEGANS PREACHING LOVE FOR ALL GOD’S CREATURES TO CHRISTIANS!!](vegan-school/032-vegans-preaching-love-for-all-gods-creatures-to-christians.md) · 2019-10-29 *(P)*
+- [SHOULD WE EXCLUDE ANIMALS FROM OUR LOVE?](vegan-school/033-should-we-exclude-animals-from-our-love.md) · 2019-11-27
+- [What Caused Me to Go Vegan](vegan-school/034-what-caused-me-to-go-vegan.md) · 2020-03-18
+- [WHAT DOES GOD DO TO PEOPLE WHO CRAVE MEAT?](vegan-school/035-what-does-god-do-to-people-who-crave-meat.md) · 2020-09-06
+- [WHAT HAPPENS TO PEOPLE WHO CRAVE MEAT?](vegan-school/037-what-happens-to-people-who-crave-meat.md) · 2020-09-14
+- [PREACHING THE WORD OF GOD AT A SLAUGHTERHOUSE LOCKDOWN!!!](vegan-school/040-preaching-the-word-of-god-at-a-slaughterhouse-lockdown.md) · 2020-10-03
+- [ARE ANIMALS CAPABLE OF SHOWING LOVE?](vegan-school/041-are-animals-capable-of-showing-love.md) · 2020-10-13
+- [DID JESUS DECLARE ALL FOODS CLEAN?](vegan-school/043-did-jesus-declare-all-foods-clean.md) · 2020-11-16 *(P)*
+- [PASTOR ROB MUNRO INTERVIEW - ON CONCERN FOR ANIMALS](vegan-school/044-pastor-rob-munro-interview-on-concern-for-animals.md) · 2020-12-07
+- [WHY DID GOD DISTINGUISH BETWEEN CLEAN AND UNCLEAN ANIMALS?](vegan-school/045-why-did-god-distinguish-between-clean-and-unclean-animals.md) · 2021-05-20
+- [Friday Night Live #1: How did nature get the way it is if predation wasn't God's design?](creation-care-church/001-friday-night-live-1-how-did-nature-get-the-way-it-is-if-pred.md) · 2021-08-21 *(P)*
+- [Friday Night Live #2 – What does the Bible say about hunters and the practice of hunting?](creation-care-church/002-friday-night-live-2-what-does-the-bible-say-about-hunters-an.md) · 2021-08-30
+- [Friday Night Live #3 - Dominion](creation-care-church/003-friday-night-live-3-dominion.md) · 2021-09-07 *(P)*
+- [Friday Night Live #4 - Will animals be in heaven?](creation-care-church/004-friday-night-live-4-will-animals-be-in-heaven.md) · 2021-09-11
+- [Friday Night Live #5 - Should we judge those who harm animals?](creation-care-church/005-friday-night-live-5-should-we-judge-those-who-harm-animals.md) · 2021-09-18 *(P)*
+- [Friday Night Live #6 - Do animals have a soul?](creation-care-church/006-friday-night-live-6-do-animals-have-a-soul.md) · 2021-09-25 *(P)*
+- [Friday Night Live #7 - Did God change His mind about animals after the flood?](creation-care-church/007-friday-night-live-7-did-god-change-his-mind-about-animals-af.md) · 2021-10-02
+- [Friday Night Live #8 - Why did God instruct animal sacrifices?](creation-care-church/008-friday-night-live-8-why-did-god-instruct-animal-sacrifices.md) · 2021-10-09 *(P)*
+- [Friday Night Live #11 - Why in Numbers 11 does God say to eat as much meat as you desire?](creation-care-church/010-friday-night-live-11-why-in-numbers-11-does-god-say-to-eat-a.md) · 2021-11-01 *(P)*
+- [Friday Night Live #12 - What does it mean for a land to be flowing with milk and honey?](creation-care-church/011-friday-night-live-12-what-does-it-mean-for-a-land-to-be-flow.md) · 2021-11-06
+- [Friday Night Live #13 - What does it mean to be a good steward of the earth?](creation-care-church/012-friday-night-live-13-what-does-it-mean-to-be-a-good-steward.md) · 2021-11-13 *(P)*
+- [Friday Night Live #14 - Did Jesus declare all foods clean?](creation-care-church/013-friday-night-live-14-did-jesus-declare-all-foods-clean.md) · 2021-11-20
+- [Friday Night Live #15 - Were animals created to be eaten with thanks?](creation-care-church/014-friday-night-live-15-were-animals-created-to-be-eaten-with-t.md) · 2021-11-27 *(P)*
+- [Friday Night Live #16 - Why in Acts 10 did God tell Peter “Arise, Peter, kill and eat!”](creation-care-church/015-friday-night-live-16-why-in-acts-10-did-god-tell-peter-arise.md) · 2021-12-04 *(P)*
+- [Friday Night Live #17 - Did Jesus cause a herd of pigs to drown?](creation-care-church/016-friday-night-live-17-did-jesus-cause-a-herd-of-pigs-to-drown.md) · 2021-12-11
+- [Friday Night Live #18 - Why did God favor Abel’s gift but not Cain’s?](creation-care-church/017-friday-night-live-18-why-did-god-favor-abels-gift-but-not-ca.md) · 2021-12-18
+- [Friday Night Live #19 - Jesus and fish in the New Testament](creation-care-church/019-friday-night-live-19-jesus-and-fish-in-the-new-testament.md) · 2022-01-08
+- [Friday Night Live #20 - Are animals capable of giving and receiving love?](creation-care-church/020-friday-night-live-20-are-animals-capable-of-giving-and-recei.md) · 2022-01-15
+- [Friday Night Live #21 - Did God kill an animal when clothing Adam and Eve?](creation-care-church/021-friday-night-live-21-did-god-kill-an-animal-when-clothing-ad.md) · 2022-01-22 *(P)*
+- [FNL #22 - Why does Paul say to eat whatever is sold without raising questions of conscience?](creation-care-church/023-fnl-22-why-does-paul-say-to-eat-whatever-is-sold-without-rai.md) · 2022-01-29 *(P)*
+- [Friday Night Live #23 - Did God create animals to be eaten as food?](creation-care-church/024-friday-night-live-23-did-god-create-animals-to-be-eaten-as-f.md) · 2022-02-05 *(P)*
+- [Friday Night Live #24 - Is Veganism Idolatry?](creation-care-church/025-friday-night-live-24-is-veganism-idolatry.md) · 2022-02-12 *(P)*
+- [FNL #25 - Why aren't more Christians concerned with creation care, especially church leaders?](creation-care-church/026-fnl-25-why-arent-more-christians-concerned-with-creation-car.md) · 2022-02-19 *(P)*
+- [Friday Night Live #26 - Is Creation Care Relevant to the Gospel?](creation-care-church/027-friday-night-live-26-is-creation-care-relevant-to-the-gospel.md) · 2022-02-26 *(P)*
+- [Friday Night Live #27 - Are God’s promises only for humans?](creation-care-church/028-friday-night-live-27-are-gods-promises-only-for-humans.md) · 2022-03-05
+- [Friday Night Live #28 - Is it a sin to eat animals?](creation-care-church/029-friday-night-live-28-is-it-a-sin-to-eat-animals.md) · 2022-03-12 *(P)*
+- [Friday Night Live #29 - How does one overcome the temptation to consume products of animal cruelty?](creation-care-church/030-friday-night-live-29-how-does-one-overcome-the-temptation-to.md) · 2022-03-19 *(P)*
+- [Friday Night Live #30 - Will animals be judged by God?](creation-care-church/031-friday-night-live-30-will-animals-be-judged-by-god.md) · 2022-03-26 *(P)*
+- [FNL #31 - Is it more Christlike to defend animals or to defend people’s freedom to hurt animals?](creation-care-church/032-fnl-31-is-it-more-christlike-to-defend-animals-or-to-defend.md) · 2022-04-02 *(P)*
+- [Friday Night Live #32 - Did Jesus eat lamb?](creation-care-church/033-friday-night-live-32-did-jesus-eat-lamb.md) · 2022-04-09 *(P)*
+- [FNL #33-  If good works are evidence of salvation, why are we failing to do good works to animals?](creation-care-church/034-fnl-33-if-good-works-are-evidence-of-salvation-why-are-we-fa.md) · 2022-04-16 *(P)*
+- [FNL #35 - Why did God bless and make a covenant with Noah and his family after the flood?](creation-care-church/036-fnl-35-why-did-god-bless-and-make-a-covenant-with-noah-and-h.md) · 2022-04-30
+- [Friday Night Live #36 - What was the purpose of distinguishing between clean and unclean animals?](creation-care-church/037-friday-night-live-36-what-was-the-purpose-of-distinguishing.md) · 2022-05-07
+- [Friday Night Live #38 - Does someone have weak faith if they don’t eat animal flesh?](creation-care-church/039-friday-night-live-38-does-someone-have-weak-faith-if-they-do.md) · 2022-05-21 *(P)*
+- [FNL #39 - Should we wait until Jesus returns or should we make ourselves ready for the kingdom now?](creation-care-church/040-fnl-39-should-we-wait-until-jesus-returns-or-should-we-make.md) · 2022-05-28 *(P)*
+- [Friday Night Live #41 - What does it mean for God to command or instruct?](creation-care-church/042-friday-night-live-41-what-does-it-mean-for-god-to-command-or.md) · 2022-06-11 *(P)*
+- [Friday Night Live #42 - Genesis 1: God’s very good design](creation-care-church/043-friday-night-live-42-genesis-1-gods-very-good-design.md) · 2022-06-18
+- [Friday Night Live #43 - What is the Law of Christ?](creation-care-church/044-friday-night-live-43-what-is-the-law-of-christ.md) · 2022-06-25 *(P)*
+- [Friday Night Live #44 - Genesis 2: Life in the Garden](creation-care-church/045-friday-night-live-44-genesis-2-life-in-the-garden.md) · 2022-07-05
+- [Friday Night Live #46 -  Romans 12:2, be not conformed to the world!](creation-care-church/046-friday-night-live-46-romans-12-2-be-not-conformed-to-the-wor.md) · 2022-07-16 *(P)*
+- [Friday Night Live #47 - I Make Known the End from the Beginning](creation-care-church/047-friday-night-live-47-i-make-known-the-end-from-the-beginning.md) · 2022-07-23 *(P)*
+- [Friday Night Live #48 - Psalm 24: All Belongs to God](creation-care-church/048-friday-night-live-48-psalm-24-all-belongs-to-god.md) · 2022-07-30 *(P)*
+- [Friday Night Live #49 - Drinking from the Rock of Christ.](creation-care-church/049-friday-night-live-49-drinking-from-the-rock-of-christ.md) · 2022-08-06 *(P)*
+- [Friday Night Live #50 - Genesis 9: God covenants with the animals](creation-care-church/050-friday-night-live-50-genesis-9-god-covenants-with-the-animal.md) · 2022-08-13
+- [FNL # 52 - Psalm 145 - He has compassion for all He has made](creation-care-church/052-fnl-52-psalm-145-he-has-compassion-for-all-he-has-made.md) · 2022-08-27 *(P)*
+- [FNL # 53 - Dealing with rejection as a vegan Christian](creation-care-church/053-fnl-53-dealing-with-rejection-as-a-vegan-christian.md) · 2022-09-03 *(P)*
+- [FNL # 54 - Love Your Neighbor](creation-care-church/054-fnl-54-love-your-neighbor.md) · 2022-09-10 *(P)*
+- [FNL # 55 - God can change hearts](creation-care-church/055-fnl-55-god-can-change-hearts.md) · 2022-09-17 *(P)*
+- [FNL # 56 - Colossians 1:16 – Animals are here with us, not for us](creation-care-church/056-fnl-56-colossians-1-16-animals-are-here-with-us-not-for-us.md) · 2022-09-24 *(P)*
+- [FNL # 57 - Jesus Fulfills the Fall Moedim](creation-care-church/057-fnl-57-jesus-fulfills-the-fall-moedim.md) · 2022-10-01 *(P)*
+- [FNL # 58 - Living in the Spirit](creation-care-church/058-fnl-58-living-in-the-spirit.md) · 2022-10-08 *(P)*
+- [FNL # 59 - Proverbs 12:10 – The Righteous care for the animals](creation-care-church/059-fnl-59-proverbs-12-10-the-righteous-care-for-the-animals.md) · 2022-10-22
+- [FNL # 60 - Looking ahead to the heavenly reward](creation-care-church/060-fnl-60-looking-ahead-to-the-heavenly-reward.md) · 2022-10-29 *(P)*
+- [FNL # 61 - Should our eternal perspective include animals?](creation-care-church/061-fnl-61-should-our-eternal-perspective-include-animals.md) · 2022-11-05 *(P)*
+- [FNL # 62 -  Be Merciful (Luke 6:36)](creation-care-church/062-fnl-62-be-merciful-luke-6-36.md) · 2022-11-19 *(P)*
+- [FNL # 63 - Are humans superior to animals?](creation-care-church/063-fnl-63-are-humans-superior-to-animals.md) · 2022-12-03
+- [FNL # 64 - Do Christians Have A Collective Blind Spot? 2 Corinthians 4:4](creation-care-church/064-fnl-64-do-christians-have-a-collective-blind-spot-2-corinthi.md) · 2022-12-10 *(P)*
+- [FNL # 65 - Psalm 34:14 – Seek Peace and Do Good](creation-care-church/065-fnl-65-psalm-34-14-seek-peace-and-do-good.md) · 2022-12-17 *(P)*
+- [FNL # 67 – God’s Heart For The Underdog – Matthew 25:44-46](creation-care-church/067-fnl-67-gods-heart-for-the-underdog-matthew-25-44-46.md) · 2022-12-31 *(P)*
+- [FNL # 68 - Proverbs 31:8 – Be A Voice For The Voiceless](creation-care-church/068-fnl-68-proverbs-31-8-be-a-voice-for-the-voiceless.md) · 2023-01-07 *(P)*
+- [FNL # 69 - What is Biblical Veganism?](creation-care-church/069-fnl-69-what-is-biblical-veganism.md) · 2023-01-21
+- [FNL # 70 - Christian Vegan Apologetics: How to Give a Defense of Your Hope](creation-care-church/070-fnl-70-christian-vegan-apologetics-how-to-give-a-defense-of.md) · 2023-01-28 *(P)*
+- [FNL # 71 - Humbly pray, seek God, and turn from animal cruelty](creation-care-church/071-fnl-71-humbly-pray-seek-god-and-turn-from-animal-cruelty.md) · 2023-02-04 *(P)*
+- [FNL # 72 - The Lord’s Prayer for Animals (Matthew 6:9-13)](creation-care-church/072-fnl-72-the-lords-prayer-for-animals-matthew-6-9-13.md) · 2023-02-11 *(P)*
+- [FNL # 73 - No animal is forgotten by God (Luke 12:6)](creation-care-church/073-fnl-73-no-animal-is-forgotten-by-god-luke-12-6.md) · 2023-02-18 *(P)*
+- [FNL # 74- Clothe yourself with compassion (Colossians 3:12)](creation-care-church/074-fnl-74-clothe-yourself-with-compassion-colossians-3-12.md) · 2023-02-25 *(P)*
+- [FNL # 75 - Bearing the fruit of the spirit toward animals (Galatians 5:22-23)](creation-care-church/075-fnl-75-bearing-the-fruit-of-the-spirit-toward-animals-galati.md) · 2023-03-04 *(P)*
+- [FNL # 76 - Are we being a thief or a good shepherd toward animals? (John 10:10-11)](creation-care-church/076-fnl-76-are-we-being-a-thief-or-a-good-shepherd-toward-animal.md) · 2023-03-11 *(P)*
+- [FNL # 77 - Are we being faithful and wise stewards over God’s household? (Matthew 24:45)](creation-care-church/077-fnl-77-are-we-being-faithful-and-wise-stewards-over-gods-hou.md) · 2023-03-18
+- [FNL # 78 - Jesus, the Lamb Sent to Slaughter (Isaiah 53:7)](creation-care-church/078-fnl-78-jesus-the-lamb-sent-to-slaughter-isaiah-53-7.md) · 2023-03-25 *(P)*
+- [FNL # 79 - Will Animals be Resurrected to Eternal Life in God’s Kingdom? (1 Corinthians 15:20)](creation-care-church/079-fnl-79-will-animals-be-resurrected-to-eternal-life-in-gods-k.md) · 2023-04-08 *(P)*
+- [FNL # 80 - How beautiful are the feet of those who proclaim the (vegan) kingdom of God!](creation-care-church/080-fnl-80-how-beautiful-are-the-feet-of-those-who-proclaim-the.md) · 2023-04-15 *(P)*
+- [FNL # 81 - Are you walking in love? (Romans 14:15)](creation-care-church/081-fnl-81-are-you-walking-in-love-romans-14-15.md) · 2023-04-22 *(P)*
+- [FNL # 82 - Joyfully Caring for God’s Creation (John 15:11)](creation-care-church/082-fnl-82-joyfully-caring-for-gods-creation-john-15-11.md) · 2023-04-29 *(P)*
+- [FNL # 83 - How does God feel about those who destroy the earth? (Revelation 11:18)](creation-care-church/083-fnl-83-how-does-god-feel-about-those-who-destroy-the-earth-r.md) · 2023-05-06
+- [FNL # 84 - Why did God create the Garden of Eden vegan? (Genesis 1:29-30)](creation-care-church/084-fnl-84-why-did-god-create-the-garden-of-eden-vegan-genesis-1.md) · 2023-05-20 *(P)*
+- [FNL # 85 - Multiplying Loaves of Compassion (John 6)](creation-care-church/085-fnl-85-multiplying-loaves-of-compassion-john-6.md) · 2023-05-27
+- [FNL # 86 - Thou Shalt Not Kill (Exodus 20:13)](creation-care-church/086-fnl-86-thou-shalt-not-kill-exodus-20-13.md) · 2023-06-03
+- [FNL # 87 - Fasting for the Animals (Isaiah 58:6)](creation-care-church/087-fnl-87-fasting-for-the-animals-isaiah-58-6.md) · 2023-06-17 *(P)*
+- [FNL # 88 - What is coming out of your mouth? (Proverbs 10:11)](creation-care-church/088-fnl-88-what-is-coming-out-of-your-mouth-proverbs-10-11.md) · 2023-06-24 *(P)*
+- [FNL # 89 - Are vegans causing division by advocating for kindness toward animals? (Matthew 10:34-35)](creation-care-church/089-fnl-89-are-vegans-causing-division-by-advocating-for-kindnes.md) · 2023-07-01 *(P)*
+- [FNL # 90 - Evidence for Veganism in the Early Church](creation-care-church/090-fnl-90-evidence-for-veganism-in-the-early-church.md) · 2023-07-08 *(P)*
+- [FNL # 91 - Are we treating animals how we want to be treated? (Matthew 7:12)](creation-care-church/091-fnl-91-are-we-treating-animals-how-we-want-to-be-treated-mat.md) · 2023-07-15 *(P)*
+- [FNL # 92 - Shedding Innocent Blood (Isaiah 1:15-16)](creation-care-church/092-fnl-92-shedding-innocent-blood-isaiah-1-15-16.md) · 2023-07-22
+- [FNL # 93 - I can do all things through Christ who strengthens me! (Philippians 4:13)](creation-care-church/093-fnl-93-i-can-do-all-things-through-christ-who-strengthens-me.md) · 2023-07-29 *(P)*
+- [FNL # 94 - Is it Hypocritical for Christians to be non-vegan? (Matthew 23:23)](creation-care-church/094-fnl-94-is-it-hypocritical-for-christians-to-be-non-vegan-mat.md) · 2023-08-05
+- [FNL # 95 - Balaam's Donkey (Numbers 22:21-29)](creation-care-church/095-fnl-95-balaams-donkey-numbers-22-21-29.md) · 2023-08-19
+- [FNL # 96 - My  kingdom is not of this world. (John 18:36)](creation-care-church/096-fnl-96-my-kingdom-is-not-of-this-world-john-18-36.md) · 2023-08-26 *(P)*
+- [FNL # 97 - Is a vegan awakening happening in the church? (Romans 13:11)](creation-care-church/097-fnl-97-is-a-vegan-awakening-happening-in-the-church-romans-1.md) · 2023-09-02 *(P)*
+- [FNL # 98 - The Book of Enoch (Jude 1:14-15)](creation-care-church/098-fnl-98-the-book-of-enoch-jude-1-14-15.md) · 2023-09-09
+- [FNL # 99 - The 4 Woes Declared by Jesus (Luke 6:24-26)](creation-care-church/099-fnl-99-the-4-woes-declared-by-jesus-luke-6-24-26.md) · 2023-09-16 *(P)*
+- [FNL # 100 - How to Pray for Animals (Matthew 6:9)](creation-care-church/100-fnl-100-how-to-pray-for-animals-matthew-6-9.md) · 2023-09-23 *(P)*
+- [FNL # 101 - You will know a tree by its fruit (Matthew 7:16)](creation-care-church/101-fnl-101-you-will-know-a-tree-by-its-fruit-matthew-7-16.md) · 2023-09-30 *(P)*
+- [FNL # 102: Do you have the Kingdom of God in you? (Luke 17:21)](creation-care-church/102-fnl-102-do-you-have-the-kingdom-of-god-in-you-luke-17-21.md) · 2023-10-07 *(P)*
+- [FNL # 103 - Overcoming Despair and Misanthropy (Hebrews 11:1)](creation-care-church/103-fnl-103-overcoming-despair-and-misanthropy-hebrews-11-1.md) · 2023-10-14 *(P)*
+- [FNL # 104 - Be Merciful (Luke 6:36)](creation-care-church/104-fnl-104-be-merciful-luke-6-36.md) · 2023-10-21
+- [FNL # 105 - Are we underestimating the love of Christ? (Ephesians 3:18)](creation-care-church/105-fnl-105-are-we-underestimating-the-love-of-christ-ephesians.md) · 2023-10-28 *(P)*
+- [FNL # 106 - Does anthropocentrism hinder us from correctly understanding Scripture? (Matt 5:8)](creation-care-church/106-fnl-106-does-anthropocentrism-hinder-us-from-correctly-under.md) · 2023-11-04
+- [FNL # 107 - Are you coveting products of animal cruelty? (Exodus 20:7)](creation-care-church/107-fnl-107-are-you-coveting-products-of-animal-cruelty-exodus-2.md) · 2023-11-11 *(P)*
+- [FNL # 108 - Ask the Animals (Job 12:7)](creation-care-church/108-fnl-108-ask-the-animals-job-12-7.md) · 2023-11-18 *(P)*
+- [FNL # 109 - Discerning Between True and Counterfeit Unity with God (John 17:23)](creation-care-church/109-fnl-109-discerning-between-true-and-counterfeit-unity-with-g.md) · 2023-11-25 *(P)*
+- [FNL # 110 - The Beatitudes (Matthew 5:1-12)](creation-care-church/110-fnl-110-the-beatitudes-matthew-5-1-12.md) · 2023-12-02 *(P)*
+- [FNL # 111 - How can we be the light of the world for people and animals? (Matthew 5:14-16)](creation-care-church/111-fnl-111-how-can-we-be-the-light-of-the-world-for-people-and.md) · 2023-12-09 *(P)*
+- [FNL # 112 - Do not Grow Weary of Doing Good (Galatians 6:9)](creation-care-church/112-fnl-112-do-not-grow-weary-of-doing-good-galatians-6-9.md) · 2023-12-16 *(P)*
+- [FNL # 113 - Who is Jesus? (John 8:58)](creation-care-church/113-fnl-113-who-is-jesus-john-8-58.md) · 2023-12-23
+- [FNL # 114 - Shout it from the Rooftops! (Matthew 10:27)](creation-care-church/114-fnl-114-shout-it-from-the-rooftops-matthew-10-27.md) · 2023-12-30 *(P)*
+- [FNL # 115 - Was there Cuddling in the Garden of Eden? (Ecc. 4:11)](creation-care-church/115-fnl-115-was-there-cuddling-in-the-garden-of-eden-ecc-4-11.md) · 2024-01-06
+- [FNL # 116 - Are we Undoing the Heavy Burdens? (Isaiah 58:6)](creation-care-church/116-fnl-116-are-we-undoing-the-heavy-burdens-isaiah-58-6.md) · 2024-01-13 *(P)*
+- [FNL # 117 - Are you seeking God with all your heart? (Jeremiah 29:13)](creation-care-church/117-fnl-117-are-you-seeking-god-with-all-your-heart-jeremiah-29.md) · 2024-01-20 *(P)*
+- [FNL # 118 - On Earth as it is in Heaven (Matthew 6:10)](creation-care-church/118-fnl-118-on-earth-as-it-is-in-heaven-matthew-6-10.md) · 2024-01-27 *(P)*
+- [What is Dominion in God's Image and Likeness?](vegan-school/046-what-is-dominion-in-gods-image-and-likeness.md) · 2024-01-31
+- [FNL # 119 - When Will Bow and Sword Be Abolished? (Hosea 2:18)](creation-care-church/119-fnl-119-when-will-bow-and-sword-be-abolished-hosea-2-18.md) · 2024-02-03 *(P)*
+- [FNL # 120 - Misconceptions About Biblical Veganism (1 Timothy 4:1-4)](creation-care-church/120-fnl-120-misconceptions-about-biblical-veganism-1-timothy-4-1.md) · 2024-02-10 *(P)*
+- [FNL # 121 - The Armor of God (Ephesians 6:11-18)](creation-care-church/121-fnl-121-the-armor-of-god-ephesians-6-11-18.md) · 2024-02-17 *(P)*
+- [FNL # 122 -  God remembers the animals, and so should we! (Gen. 8:1)](creation-care-church/122-fnl-122-god-remembers-the-animals-and-so-should-we-gen-8-1.md) · 2024-02-24
+- [How did nature get the way it is if predation wasn’t God’s design?](vegan-school/047-how-did-nature-get-the-way-it-is-if-predation-wasnt-gods-des.md) · 2024-02-28 *(P)*
+- [FNL # 123 - Building Church Community (1 Thess. 5:11)](creation-care-church/123-fnl-123-building-church-community-1-thess-5-11.md) · 2024-03-02 *(P)*
+- [FNL # 124 - Elijah and the Ravens (1 Kings 17:2-6)](creation-care-church/124-fnl-124-elijah-and-the-ravens-1-kings-17-2-6.md) · 2024-03-09
+- [FNL # 125 - God Hates Violence (Psalm 11:5)](creation-care-church/125-fnl-125-god-hates-violence-psalm-11-5.md) · 2024-03-16
+- [The Table of Demons (1 Corinthians 10:21) - Part 1](vegan-school/048-the-table-of-demons-1-corinthians-10-21-part-1.md) · 2024-03-17 *(P)*
+- [FNL #126 - The Right Hand of Fellowship](creation-care-church/128-fnl-126-the-right-hand-of-fellowship.md) · 2024-03-23 *(P)*
+- [The Table of Demons (1 Corinthians 10:21) - Part 2](vegan-school/091-the-table-of-demons-1-corinthians-10-21-part-2.md) · 2024-03-24
+- [Christspiracy Review](vegan-school/092-christspiracy-review.md) · 2024-03-31
+- [Christspiracy Review](creation-care-church/130-christspiracy-review.md) · 2024-04-01 *(P)*
+- [Did God change His mind about animals after the flood? (Vegan Christian Discipleship School #3)](vegan-school/049-did-god-change-his-mind-about-animals-after-the-flood-vegan.md) · 2024-04-03
+- [FNL #128 - The Forbidden Fruit (GENESIS 2:17)](creation-care-church/131-fnl-128-the-forbidden-fruit-genesis-2-17.md) · 2024-04-06 *(P)*
+- [FNL #129 - Moving Mountains (Mark 11:23-26)](creation-care-church/132-fnl-129-moving-mountains-mark-11-23-26.md) · 2024-04-13 *(P)*
+- [FNL #130 - Who are the Sons of God? (Job 38:4-7)](creation-care-church/133-fnl-130-who-are-the-sons-of-god-job-38-4-7.md) · 2024-04-20 *(P)*
+- [FNL # 131 - 4/26 Understanding Paul (2 Peter 3:15-16)](creation-care-church/134-fnl-131-4-26-understanding-paul-2-peter-3-15-16.md) · 2024-04-27 *(P)*
+- [FNL #132 - The Yoke of the Lord (Matthew 11:29)](creation-care-church/135-fnl-132-the-yoke-of-the-lord-matthew-11-29.md) · 2024-05-04 *(P)*
+- [FNL # 133 - "You Must Become Like a Child to Enter the Kingdom" (Matthew 18:3)](creation-care-church/136-fnl-133-you-must-become-like-a-child-to-enter-the-kingdom-ma.md) · 2024-05-11 *(P)*
+- [FNL # 134 - Is Truth for Everyone? (John 14:6)](creation-care-church/137-fnl-134-is-truth-for-everyone-john-14-6.md) · 2024-05-18 *(P)*
+- [FNL # 135 - Create in Me a Clean Heart (Psalm 51:10)](creation-care-church/138-fnl-135-create-in-me-a-clean-heart-psalm-51-10.md) · 2024-05-25
+- [Were the Apostles and the Early Church Vegan? Discipleship School Meeting #5](vegan-school/051-were-the-apostles-and-the-early-church-vegan-discipleship-sc.md) · 2024-06-03 *(P)*
+- [FNL # 136 - The Wedding Banquet (Luke 14:15-24)](creation-care-church/139-fnl-136-the-wedding-banquet-luke-14-15-24.md) · 2024-06-08 *(P)*
+- [FNL # 137 - Clement and the Clementine Homilies (Philippians 4:2-3)](creation-care-church/140-fnl-137-clement-and-the-clementine-homilies-philippians-4-2.md) · 2024-06-15
+- [FNL # 138 - The Prophet Like Moses (Acts 3:22)](creation-care-church/141-fnl-138-the-prophet-like-moses-acts-3-22.md) · 2024-06-22
+- [Does 1 Timothy 4 suggest vegans are following a demon?](vegan-school/052-does-1-timothy-4-suggest-vegans-are-following-a-demon.md) · 2024-06-26 *(P)*
+- [FNL #139 - The Key of Knowledge (Luke 11:52)](creation-care-church/142-fnl-139-the-key-of-knowledge-luke-11-52.md) · 2024-06-29
+- [FNL #140 - The Table of Demons (1 Corinthians 10:21)](creation-care-church/143-fnl-140-the-table-of-demons-1-corinthians-10-21.md) · 2024-07-06 *(P)*
+- [FNL #141 - Three Years of Friday Night Live Talks](creation-care-church/144-fnl-141-three-years-of-friday-night-live-talks.md) · 2024-07-13
+- [Is it more Christlike to defend animals or to defend people’s freedom to hurt animals?](vegan-school/053-is-it-more-christlike-to-defend-animals-or-to-defend-peoples.md) · 2024-07-24 *(P)*
+- [FNL #142 - Ten Times Wiser! (Daniel 1:20)](creation-care-church/145-fnl-142-ten-times-wiser-daniel-1-20.md) · 2024-08-17
+- [FNL #143 - Does God answer the prayers of animals? (Psalm 147:9)](creation-care-church/146-fnl-143-does-god-answer-the-prayers-of-animals-psalm-147-9.md) · 2024-08-24 *(P)*
+- [Should we wait until Jesus returns or should we prepare for the kingdom now? (Class #8)](vegan-school/054-should-we-wait-until-jesus-returns-or-should-we-prepare-for.md) · 2024-08-28 *(P)*
+- [FNL #144 - Better is a dinner of herbs where love is! (PROVERBS 15:17)](creation-care-church/147-fnl-144-better-is-a-dinner-of-herbs-where-love-is-proverbs-1.md) · 2024-09-07 *(P)*
+- [FNL #145 - Do you love mercy? (MICAH 6:8)](creation-care-church/148-fnl-145-do-you-love-mercy-micah-6-8.md) · 2024-09-21
+- [FNL #146 - Special Blessing of the Animals Service](creation-care-church/149-fnl-146-special-blessing-of-the-animals-service.md) · 2024-10-05
+- [FNL #147 - Be as shrewd as serpents and as innocent as doves (Matthew 10:16)](creation-care-church/150-fnl-147-be-as-shrewd-as-serpents-and-as-innocent-as-doves-ma.md) · 2024-10-19 *(P)*
+- [Do animals have a soul? [Vegan Christian Discipleship School #9]](vegan-school/055-do-animals-have-a-soul-vegan-christian-discipleship-school-9.md) · 2024-10-22 *(P)*
+- [FNL #148 - Every creature will praise God! (REVELATION 5:13)](creation-care-church/151-fnl-148-every-creature-will-praise-god-revelation-5-13.md) · 2024-11-02
+- [FNL #149 - Be not among riotous eaters of flesh! (PROVERBS 23:20)](creation-care-church/152-fnl-149-be-not-among-riotous-eaters-of-flesh-proverbs-23-20.md) · 2024-11-16 *(P)*
+- [Is it sin to eat animals?](vegan-school/056-is-it-sin-to-eat-animals.md) · 2024-11-27 *(P)*
+- [FNL #150 - Is your body a temple for the Holy Spirit or is it a grave of craving? (1 Cor 6:19)](creation-care-church/153-fnl-150-is-your-body-a-temple-for-the-holy-spirit-or-is-it-a.md) · 2024-11-30 *(P)*
+- [FNL #151 - The Greatness of God (1 Chronicles 29:11)](creation-care-church/154-fnl-151-the-greatness-of-god-1-chronicles-29-11.md) · 2024-12-14 *(P)*
+- [FNL #153 - The Seventh Day of Creation](creation-care-church/156-fnl-153-the-seventh-day-of-creation.md) · 2025-01-04
+- [FNL #154 - Are we reaping the violence we sow toward animals?](creation-care-church/157-fnl-154-are-we-reaping-the-violence-we-sow-toward-animals.md) · 2025-01-18 *(P)*
+- [FNL #155 - What does the Bible say about milk?](creation-care-church/158-fnl-155-what-does-the-bible-say-about-milk.md) · 2025-02-01 *(P)*
+- [What does the Bible say about Hunting? [VCDS#11]](vegan-school/057-what-does-the-bible-say-about-hunting-vcds-11.md) · 2025-02-04
+- [FNL #156 - Are humans the reason animals live in fear?](creation-care-church/159-fnl-156-are-humans-the-reason-animals-live-in-fear.md) · 2025-02-15
+- [FNL #157 - Repent from Animal Cruelty!](creation-care-church/160-fnl-157-repent-from-animal-cruelty.md) · 2025-03-01 *(P)*
+- [What Does a 'Land Flowing with Milk and Honey' Actually Mean?](vegan-school/058-what-does-a-land-flowing-with-milk-and-honey-actually-mean.md) · 2025-03-04
+- [FNL # 158 - The Good Samaritan](creation-care-church/161-fnl-158-the-good-samaritan.md) · 2025-03-15
+- [Did Jesus declare all foods clean?](vegan-school/059-did-jesus-declare-all-foods-clean.md) · 2025-03-26
+- [FNL #160 - Jesus Disrupting the Temple](creation-care-church/163-fnl-160-jesus-disrupting-the-temple.md) · 2025-04-12
+- [Will God ever bring back the temple practice of animal sacrifice?](vegan-school/060-will-god-ever-bring-back-the-temple-practice-of-animal-sacri.md) · 2025-04-23
+- [FNL #161 - Living by Faith](creation-care-church/164-fnl-161-living-by-faith.md) · 2025-04-26 *(P)*
+- [FNL #162 - Enoch's Flood and Fire Prophecy](creation-care-church/165-fnl-162-enochs-flood-and-fire-prophecy.md) · 2025-05-10
+- [FNL #163 - God Preserves Both Humans and Animals](creation-care-church/166-fnl-163-god-preserves-both-humans-and-animals.md) · 2025-05-24 *(P)*
+- [Why are Christians Ignoring Creation Care?](vegan-school/063-why-are-christians-ignoring-creation-care.md) · 2025-05-28 *(P)*
+- [FNL #164 – Pentecost and the Peaceable Kingdom](creation-care-church/167-fnl-164-pentecost-and-the-peaceable-kingdom.md) · 2025-06-07 *(P)*
+- [FNL #165 – Is the church speeding the kingdom of God?](creation-care-church/168-fnl-165-is-the-church-speeding-the-kingdom-of-god.md) · 2025-06-21 *(P)*
+- [FNL #166 – Experiencing God's Presence](creation-care-church/169-fnl-166-experiencing-gods-presence.md) · 2025-07-05
+- [FNL #167 – Are you searching the scriptures for life or for death?](creation-care-church/170-fnl-167-are-you-searching-the-scriptures-for-life-or-for-dea.md) · 2025-07-19 *(P)*
+- [FNL #168 – Good in the Bible](creation-care-church/171-fnl-168-good-in-the-bible.md) · 2025-08-02 *(P)*
+- [FNL #169 — How to Rebut the Accusation "Vegans Worship the Creature Rather than the Creator"](creation-care-church/172-fnl-169-how-to-rebut-the-accusation-vegans-worship-the-creat.md) · 2025-08-16 *(P)*
+- [FNL #170 — Is human wickedness responsible for animals perishing?](creation-care-church/173-fnl-170-is-human-wickedness-responsible-for-animals-perishin.md) · 2025-08-30
+- [Can You Be Vegan and Follow the Bible?](vegan-school/065-can-you-be-vegan-and-follow-the-bible.md) · 2025-09-05 *(P)*
+- [Did God create animals to be eaten as food?](vegan-school/066-did-god-create-animals-to-be-eaten-as-food.md) · 2025-09-23
+- [FNL # 172 – There will be no more tears!](creation-care-church/174-fnl-172-there-will-be-no-more-tears.md) · 2025-09-27 *(P)*
+- [FNL # 173 – The Importance of Community](creation-care-church/175-fnl-173-the-importance-of-community.md) · 2025-10-11 *(P)*
+- [FNL # 174 – Are You Serving God’s Kingdom?](creation-care-church/176-fnl-174-are-you-serving-gods-kingdom.md) · 2025-10-25
+- [Was God pleased by the aroma of burnt offerings?](vegan-school/067-was-god-pleased-by-the-aroma-of-burnt-offerings.md) · 2025-10-28 *(P)*
+- [FNL # 175 – Casting Out Demons](creation-care-church/177-fnl-175-casting-out-demons.md) · 2025-11-08 *(P)*
+- [FNL # 176 – Are You Believing Righteously?](creation-care-church/178-fnl-176-are-you-believing-righteously.md) · 2025-11-22 *(P)*
+- [Why in the Torah does God say to eat as much meat as you desire?](vegan-school/068-why-in-the-torah-does-god-say-to-eat-as-much-meat-as-you-des.md) · 2025-11-26 *(P)*
+- [Understanding the Purpose of Jesus' Sacrifice: A Deep Dive into Theology](vegan-school/069-understanding-the-purpose-of-jesus-sacrifice-a-deep-dive-int.md) · 2025-11-29
+- [Jesus and the End of Animal Sacrifices](vegan-school/070-jesus-and-the-end-of-animal-sacrifices.md) · 2025-12-02
+- [What Happens When a Vegan Preacher Visits Las Vegas?](vegan-school/071-what-happens-when-a-vegan-preacher-visits-las-vegas.md) · 2025-12-05
+- [FNL # 177 - The Greatest Commandment](creation-care-church/179-fnl-177-the-greatest-commandment.md) · 2025-12-06 *(P)*
+- [FNL # 178 – Reclaiming Your True Identity](creation-care-church/180-fnl-178-reclaiming-your-true-identity.md) · 2025-12-20 *(P)*
+- [FNL # 179 – Are You a Friend of God?](creation-care-church/181-fnl-179-are-you-a-friend-of-god.md) · 2026-01-03
+- [FNL # 180 – Pastor vs Priest Debate Veganism](creation-care-church/182-fnl-180-pastor-vs-priest-debate-veganism.md) · 2026-01-17 *(P)*
+- [Did Jesus Eat Lamb (at Passover)?](vegan-school/073-did-jesus-eat-lamb-at-passover.md) · 2026-01-29
+- [Jesus' Radical Compassion for Animals Explained by Pastors](vegan-school/074-jesus-radical-compassion-for-animals-explained-by-pastors.md) · 2026-02-13
+- [FNL # 182 – Permission & Going the Extra Mile](creation-care-church/183-fnl-182-permission-going-the-extra-mile.md) · 2026-02-21 *(P)*
+- [FNL # 182 – Permission & Going the Extra Mile](vegan-school/093-fnl-182-permission-going-the-extra-mile.md) · 2026-02-21 *(P)*
+- [Why in Acts 10 did God tell Peter, Arise Kill and Eat?](vegan-school/075-why-in-acts-10-did-god-tell-peter-arise-kill-and-eat.md) · 2026-02-25 *(P)*
+- [FNL # 183 – Are You Listening to the Prophets?](creation-care-church/184-fnl-183-are-you-listening-to-the-prophets.md) · 2026-03-07
+- [FNL # 184 – How to Receive Abundant Blessings this Year](creation-care-church/185-fnl-184-how-to-receive-abundant-blessings-this-year.md) · 2026-03-21 *(P)*
+- [How does one overcome the temptation to consume products of animal cruelty?](vegan-school/076-how-does-one-overcome-the-temptation-to-consume-products-of.md) · 2026-04-01 *(P)*
+- [FNL # 185 – Good Friday Talk](creation-care-church/186-fnl-185-good-friday-talk.md) · 2026-04-04 *(P)*
+- [FNL # 186 - Who is a Child of Peace?](creation-care-church/187-fnl-186-who-is-a-child-of-peace.md) · 2026-04-18
+- [FNL # 187 – Who is Leviathan?](creation-care-church/188-fnl-187-who-is-leviathan.md) · 2026-05-02
+- [FNL # 188 – You must NEVER eat any flesh or blood!](creation-care-church/189-fnl-188-you-must-never-eat-any-flesh-or-blood.md) · 2026-05-16
+- [FNL # 189 – Is it Blaspheming the Holy Spirit to Speak Against Veganism?](creation-care-church/190-fnl-189-is-it-blaspheming-the-holy-spirit-to-speak-against-v.md) · 2026-06-06
+- [FNL # 190 – Are you sighing and crying over animal suffering?](creation-care-church/191-fnl-190-are-you-sighing-and-crying-over-animal-suffering.md) · 2026-06-20 *(P)*
+- [Thou Shalt Not Kill: Does it Apply to Animals?](vegan-school/077-thou-shalt-not-kill-does-it-apply-to-animals.md) · 2026-06-21
+- [Misconceptions About Biblical Veganism](vegan-school/078-misconceptions-about-biblical-veganism.md) · 2026-06-24 *(P)*
+- [Is Creation Care Relevant to the Gospel?](vegan-school/079-is-creation-care-relevant-to-the-gospel.md) · 2026-06-25 *(P)*
+- [FNL #191 – Did Jesus Ride a Donkey into Jerusalem? If so, why?](creation-care-church/192-fnl-191-did-jesus-ride-a-donkey-into-jerusalem-if-so-why.md) · 2026-07-04
+- [FNL #192 – Are You Following the Way, the Truth, and the Life?](creation-care-church/193-fnl-192-are-you-following-the-way-the-truth-and-the-life.md) · 2026-07-18 *(P)*
+- [Are You Following the Way, The Truth, and the Life?](vegan-school/080-are-you-following-the-way-the-truth-and-the-life.md) · 2026-07-19
+- [What was the purpose of distinguishing between clean and unclean animals?](vegan-school/081-what-was-the-purpose-of-distinguishing-between-clean-and-unc.md) · 2026-07-30
+- [Jesus Ate Fish? Here's What Ray Comfort Got Wrong](vegan-school/094-jesus-ate-fish-heres-what-ray-comfort-got-wrong.md) · 2026-07-31 *(P)*
+- [FNL #193 – Heaven is Vegan](creation-care-church/194-fnl-193-heaven-is-vegan.md) · 2026-08-08
+- [FNL #194 – I Will Save My Sheep from their Mouth](creation-care-church/195-fnl-194-i-will-save-my-sheep-from-their-mouth.md) · 2026-08-22 *(P)*
+- [Can Animals Give and Receive Love? A Biblical Response to Objections to Veganism](vegan-school/082-can-animals-give-and-receive-love-a-biblical-response-to-obj.md) · 2026-08-28
+- [FNL #195 – Did Demons Invent Animal Sacrifice?](creation-care-church/196-fnl-195-did-demons-invent-animal-sacrifice.md) · 2026-09-05
+- [Did Demons Invent Animal Sacrifice?](bible-origin/006-did-demons-invent-animal-sacrifice.md) · 2026-09-06 *(P)*
+- [FNL #196 – Did Jesus’ Fish Fry Really Happen?](creation-care-church/197-fnl-196-did-jesus-fish-fry-really-happen.md) · 2026-09-19
+- [Proof John 21 is Not Authentic! A Historical Analysis](bible-origin/009-proof-john-21-is-not-authentic-a-historical-analysis.md) · 2026-09-22
+- [Why did God favor Abel’s gift but not Cain’s?](vegan-school/083-why-did-god-favor-abels-gift-but-not-cains.md) · 2026-09-24 *(P)*
+- [FNL #197 – The Best FNL Talks of 2026!](creation-care-church/198-fnl-197-the-best-fnl-talks-of-2026.md) · 2026-10-03
+- [FNL #198 – Are Meat-Eaters Saved?](creation-care-church/199-fnl-198-are-meat-eaters-saved.md) · 2026-10-17 *(P)*
+
+### nonviolence (189)
+
+- [Should we Judge those who Harm Animals?](vegan-school/001-should-we-judge-those-who-harm-animals.md) · 2017-08-20
+- [Genesis 1 Explanation Bible Commentary](vegan-school/004-genesis-1-explanation-bible-commentary.md) · 2018-01-03 *(P)*
+- [Does the commandment DO NOT KILL include animals?](vegan-school/006-does-the-commandment-do-not-kill-include-animals.md) · 2018-12-13
+- [Balaam's Donkey](vegan-school/008-balaams-donkey.md) · 2018-12-20
+- [Jonah's Message of Repentance](vegan-school/009-jonahs-message-of-repentance.md) · 2018-12-21
+- [Can you be Vegan and also Believe in the Christian God of the Bible?](vegan-school/013-can-you-be-vegan-and-also-believe-in-the-christian-god-of-th.md) · 2019-01-12
+- [Truckloads of Heartbreak 💔😥](vegan-school/016-truckloads-of-heartbreak.md) · 2019-04-29
+- [Why Did Jesus Cleanse the Temple?](vegan-school/017-why-did-jesus-cleanse-the-temple.md) · 2019-04-30
+- [Did God Give Permission to Eat Animals?](vegan-school/020-did-god-give-permission-to-eat-animals.md) · 2019-06-05 *(P)*
+- [How can a loving God command animal sacrifices?](vegan-school/021-how-can-a-loving-god-command-animal-sacrifices.md) · 2019-06-24
+- [Right to Rescue March - Los Angeles](vegan-school/025-right-to-rescue-march-los-angeles.md) · 2019-07-24
+- [CHRISTIAN TALKS TO YOGI MASTER ABOUT VEGANISM](vegan-school/027-christian-talks-to-yogi-master-about-veganism.md) · 2019-08-01 *(P)*
+- [ANIMAL RIGHTS RADIO INTERVIEW](vegan-school/028-animal-rights-radio-interview.md) · 2019-08-07
+- [GOD CREATED THE WORLD TO BE VEGAN!](vegan-school/030-god-created-the-world-to-be-vegan.md) · 2019-08-23
+- [CHRISTIAN DEBATES VEGANISM WITH MUSLIM](vegan-school/031-christian-debates-veganism-with-muslim.md) · 2019-09-16
+- [VEGANS PREACHING LOVE FOR ALL GOD’S CREATURES TO CHRISTIANS!!](vegan-school/032-vegans-preaching-love-for-all-gods-creatures-to-christians.md) · 2019-10-29 *(P)*
+- [What Caused Me to Go Vegan](vegan-school/034-what-caused-me-to-go-vegan.md) · 2020-03-18
+- [SHOULD WE JUDGE THOSE WHO HARM ANIMALS?](vegan-school/039-should-we-judge-those-who-harm-animals.md) · 2020-09-30
+- [PREACHING THE WORD OF GOD AT A SLAUGHTERHOUSE LOCKDOWN!!!](vegan-school/040-preaching-the-word-of-god-at-a-slaughterhouse-lockdown.md) · 2020-10-03
+- [ARE ANIMALS CAPABLE OF SHOWING LOVE?](vegan-school/041-are-animals-capable-of-showing-love.md) · 2020-10-13
+- [Friday Night Live #1: How did nature get the way it is if predation wasn't God's design?](creation-care-church/001-friday-night-live-1-how-did-nature-get-the-way-it-is-if-pred.md) · 2021-08-21 *(P)*
+- [Friday Night Live #2 – What does the Bible say about hunters and the practice of hunting?](creation-care-church/002-friday-night-live-2-what-does-the-bible-say-about-hunters-an.md) · 2021-08-30
+- [Friday Night Live #3 - Dominion](creation-care-church/003-friday-night-live-3-dominion.md) · 2021-09-07 *(P)*
+- [Friday Night Live #4 - Will animals be in heaven?](creation-care-church/004-friday-night-live-4-will-animals-be-in-heaven.md) · 2021-09-11
+- [Friday Night Live #6 - Do animals have a soul?](creation-care-church/006-friday-night-live-6-do-animals-have-a-soul.md) · 2021-09-25 *(P)*
+- [Friday Night Live #8 - Why did God instruct animal sacrifices?](creation-care-church/008-friday-night-live-8-why-did-god-instruct-animal-sacrifices.md) · 2021-10-09 *(P)*
+- [Friday Night Live #9 - Will God bring back the temple practice of animal sacrifices?](creation-care-church/009-friday-night-live-9-will-god-bring-back-the-temple-practice.md) · 2021-10-16 *(P)*
+- [Friday Night Live #11 - Why in Numbers 11 does God say to eat as much meat as you desire?](creation-care-church/010-friday-night-live-11-why-in-numbers-11-does-god-say-to-eat-a.md) · 2021-11-01 *(P)*
+- [Friday Night Live #12 - What does it mean for a land to be flowing with milk and honey?](creation-care-church/011-friday-night-live-12-what-does-it-mean-for-a-land-to-be-flow.md) · 2021-11-06
+- [Friday Night Live #14 - Did Jesus declare all foods clean?](creation-care-church/013-friday-night-live-14-did-jesus-declare-all-foods-clean.md) · 2021-11-20
+- [Friday Night Live #15 - Were animals created to be eaten with thanks?](creation-care-church/014-friday-night-live-15-were-animals-created-to-be-eaten-with-t.md) · 2021-11-27 *(P)*
+- [Friday Night Live #16 - Why in Acts 10 did God tell Peter “Arise, Peter, kill and eat!”](creation-care-church/015-friday-night-live-16-why-in-acts-10-did-god-tell-peter-arise.md) · 2021-12-04 *(P)*
+- [Friday Night Live #17 - Did Jesus cause a herd of pigs to drown?](creation-care-church/016-friday-night-live-17-did-jesus-cause-a-herd-of-pigs-to-drown.md) · 2021-12-11
+- [Friday Night Live #20 - Are animals capable of giving and receiving love?](creation-care-church/020-friday-night-live-20-are-animals-capable-of-giving-and-recei.md) · 2022-01-15
+- [Friday Night Live #23 - Did God create animals to be eaten as food?](creation-care-church/024-friday-night-live-23-did-god-create-animals-to-be-eaten-as-f.md) · 2022-02-05 *(P)*
+- [Friday Night Live #24 - Is Veganism Idolatry?](creation-care-church/025-friday-night-live-24-is-veganism-idolatry.md) · 2022-02-12 *(P)*
+- [FNL #25 - Why aren't more Christians concerned with creation care, especially church leaders?](creation-care-church/026-fnl-25-why-arent-more-christians-concerned-with-creation-car.md) · 2022-02-19 *(P)*
+- [Friday Night Live #26 - Is Creation Care Relevant to the Gospel?](creation-care-church/027-friday-night-live-26-is-creation-care-relevant-to-the-gospel.md) · 2022-02-26 *(P)*
+- [Friday Night Live #27 - Are God’s promises only for humans?](creation-care-church/028-friday-night-live-27-are-gods-promises-only-for-humans.md) · 2022-03-05
+- [Friday Night Live #28 - Is it a sin to eat animals?](creation-care-church/029-friday-night-live-28-is-it-a-sin-to-eat-animals.md) · 2022-03-12 *(P)*
+- [Friday Night Live #29 - How does one overcome the temptation to consume products of animal cruelty?](creation-care-church/030-friday-night-live-29-how-does-one-overcome-the-temptation-to.md) · 2022-03-19 *(P)*
+- [Friday Night Live #30 - Will animals be judged by God?](creation-care-church/031-friday-night-live-30-will-animals-be-judged-by-god.md) · 2022-03-26 *(P)*
+- [FNL #31 - Is it more Christlike to defend animals or to defend people’s freedom to hurt animals?](creation-care-church/032-fnl-31-is-it-more-christlike-to-defend-animals-or-to-defend.md) · 2022-04-02 *(P)*
+- [FNL #33-  If good works are evidence of salvation, why are we failing to do good works to animals?](creation-care-church/034-fnl-33-if-good-works-are-evidence-of-salvation-why-are-we-fa.md) · 2022-04-16 *(P)*
+- [FNL #35 - Why did God bless and make a covenant with Noah and his family after the flood?](creation-care-church/036-fnl-35-why-did-god-bless-and-make-a-covenant-with-noah-and-h.md) · 2022-04-30
+- [Friday Night Live #36 - What was the purpose of distinguishing between clean and unclean animals?](creation-care-church/037-friday-night-live-36-what-was-the-purpose-of-distinguishing.md) · 2022-05-07
+- [FNL #39 - Should we wait until Jesus returns or should we make ourselves ready for the kingdom now?](creation-care-church/040-fnl-39-should-we-wait-until-jesus-returns-or-should-we-make.md) · 2022-05-28 *(P)*
+- [Friday Night Live #42 - Genesis 1: God’s very good design](creation-care-church/043-friday-night-live-42-genesis-1-gods-very-good-design.md) · 2022-06-18
+- [Friday Night Live #43 - What is the Law of Christ?](creation-care-church/044-friday-night-live-43-what-is-the-law-of-christ.md) · 2022-06-25 *(P)*
+- [Friday Night Live #44 - Genesis 2: Life in the Garden](creation-care-church/045-friday-night-live-44-genesis-2-life-in-the-garden.md) · 2022-07-05
+- [Friday Night Live #46 -  Romans 12:2, be not conformed to the world!](creation-care-church/046-friday-night-live-46-romans-12-2-be-not-conformed-to-the-wor.md) · 2022-07-16 *(P)*
+- [Friday Night Live #48 - Psalm 24: All Belongs to God](creation-care-church/048-friday-night-live-48-psalm-24-all-belongs-to-god.md) · 2022-07-30 *(P)*
+- [Friday Night Live #49 - Drinking from the Rock of Christ.](creation-care-church/049-friday-night-live-49-drinking-from-the-rock-of-christ.md) · 2022-08-06 *(P)*
+- [Friday Night Live #50 - Genesis 9: God covenants with the animals](creation-care-church/050-friday-night-live-50-genesis-9-god-covenants-with-the-animal.md) · 2022-08-13
+- [FNL # 52 - Psalm 145 - He has compassion for all He has made](creation-care-church/052-fnl-52-psalm-145-he-has-compassion-for-all-he-has-made.md) · 2022-08-27 *(P)*
+- [FNL # 53 - Dealing with rejection as a vegan Christian](creation-care-church/053-fnl-53-dealing-with-rejection-as-a-vegan-christian.md) · 2022-09-03 *(P)*
+- [FNL # 54 - Love Your Neighbor](creation-care-church/054-fnl-54-love-your-neighbor.md) · 2022-09-10 *(P)*
+- [FNL # 55 - God can change hearts](creation-care-church/055-fnl-55-god-can-change-hearts.md) · 2022-09-17 *(P)*
+- [FNL # 56 - Colossians 1:16 – Animals are here with us, not for us](creation-care-church/056-fnl-56-colossians-1-16-animals-are-here-with-us-not-for-us.md) · 2022-09-24 *(P)*
+- [FNL # 58 - Living in the Spirit](creation-care-church/058-fnl-58-living-in-the-spirit.md) · 2022-10-08 *(P)*
+- [FNL # 59 - Proverbs 12:10 – The Righteous care for the animals](creation-care-church/059-fnl-59-proverbs-12-10-the-righteous-care-for-the-animals.md) · 2022-10-22
+- [FNL # 62 -  Be Merciful (Luke 6:36)](creation-care-church/062-fnl-62-be-merciful-luke-6-36.md) · 2022-11-19 *(P)*
+- [FNL # 64 - Do Christians Have A Collective Blind Spot? 2 Corinthians 4:4](creation-care-church/064-fnl-64-do-christians-have-a-collective-blind-spot-2-corinthi.md) · 2022-12-10 *(P)*
+- [FNL # 65 - Psalm 34:14 – Seek Peace and Do Good](creation-care-church/065-fnl-65-psalm-34-14-seek-peace-and-do-good.md) · 2022-12-17 *(P)*
+- [FNL # 68 - Proverbs 31:8 – Be A Voice For The Voiceless](creation-care-church/068-fnl-68-proverbs-31-8-be-a-voice-for-the-voiceless.md) · 2023-01-07 *(P)*
+- [FNL # 69 - What is Biblical Veganism?](creation-care-church/069-fnl-69-what-is-biblical-veganism.md) · 2023-01-21
+- [FNL # 70 - Christian Vegan Apologetics: How to Give a Defense of Your Hope](creation-care-church/070-fnl-70-christian-vegan-apologetics-how-to-give-a-defense-of.md) · 2023-01-28 *(P)*
+- [FNL # 71 - Humbly pray, seek God, and turn from animal cruelty](creation-care-church/071-fnl-71-humbly-pray-seek-god-and-turn-from-animal-cruelty.md) · 2023-02-04 *(P)*
+- [FNL # 72 - The Lord’s Prayer for Animals (Matthew 6:9-13)](creation-care-church/072-fnl-72-the-lords-prayer-for-animals-matthew-6-9-13.md) · 2023-02-11 *(P)*
+- [FNL # 73 - No animal is forgotten by God (Luke 12:6)](creation-care-church/073-fnl-73-no-animal-is-forgotten-by-god-luke-12-6.md) · 2023-02-18 *(P)*
+- [FNL # 74- Clothe yourself with compassion (Colossians 3:12)](creation-care-church/074-fnl-74-clothe-yourself-with-compassion-colossians-3-12.md) · 2023-02-25 *(P)*
+- [FNL # 75 - Bearing the fruit of the spirit toward animals (Galatians 5:22-23)](creation-care-church/075-fnl-75-bearing-the-fruit-of-the-spirit-toward-animals-galati.md) · 2023-03-04 *(P)*
+- [FNL # 76 - Are we being a thief or a good shepherd toward animals? (John 10:10-11)](creation-care-church/076-fnl-76-are-we-being-a-thief-or-a-good-shepherd-toward-animal.md) · 2023-03-11 *(P)*
+- [FNL # 77 - Are we being faithful and wise stewards over God’s household? (Matthew 24:45)](creation-care-church/077-fnl-77-are-we-being-faithful-and-wise-stewards-over-gods-hou.md) · 2023-03-18
+- [FNL # 78 - Jesus, the Lamb Sent to Slaughter (Isaiah 53:7)](creation-care-church/078-fnl-78-jesus-the-lamb-sent-to-slaughter-isaiah-53-7.md) · 2023-03-25 *(P)*
+- [FNL # 79 - Will Animals be Resurrected to Eternal Life in God’s Kingdom? (1 Corinthians 15:20)](creation-care-church/079-fnl-79-will-animals-be-resurrected-to-eternal-life-in-gods-k.md) · 2023-04-08 *(P)*
+- [FNL # 80 - How beautiful are the feet of those who proclaim the (vegan) kingdom of God!](creation-care-church/080-fnl-80-how-beautiful-are-the-feet-of-those-who-proclaim-the.md) · 2023-04-15 *(P)*
+- [FNL # 81 - Are you walking in love? (Romans 14:15)](creation-care-church/081-fnl-81-are-you-walking-in-love-romans-14-15.md) · 2023-04-22 *(P)*
+- [FNL # 82 - Joyfully Caring for God’s Creation (John 15:11)](creation-care-church/082-fnl-82-joyfully-caring-for-gods-creation-john-15-11.md) · 2023-04-29 *(P)*
+- [FNL # 84 - Why did God create the Garden of Eden vegan? (Genesis 1:29-30)](creation-care-church/084-fnl-84-why-did-god-create-the-garden-of-eden-vegan-genesis-1.md) · 2023-05-20 *(P)*
+- [FNL # 86 - Thou Shalt Not Kill (Exodus 20:13)](creation-care-church/086-fnl-86-thou-shalt-not-kill-exodus-20-13.md) · 2023-06-03
+- [FNL # 87 - Fasting for the Animals (Isaiah 58:6)](creation-care-church/087-fnl-87-fasting-for-the-animals-isaiah-58-6.md) · 2023-06-17 *(P)*
+- [FNL # 88 - What is coming out of your mouth? (Proverbs 10:11)](creation-care-church/088-fnl-88-what-is-coming-out-of-your-mouth-proverbs-10-11.md) · 2023-06-24 *(P)*
+- [FNL # 89 - Are vegans causing division by advocating for kindness toward animals? (Matthew 10:34-35)](creation-care-church/089-fnl-89-are-vegans-causing-division-by-advocating-for-kindnes.md) · 2023-07-01 *(P)*
+- [FNL # 91 - Are we treating animals how we want to be treated? (Matthew 7:12)](creation-care-church/091-fnl-91-are-we-treating-animals-how-we-want-to-be-treated-mat.md) · 2023-07-15 *(P)*
+- [FNL # 92 - Shedding Innocent Blood (Isaiah 1:15-16)](creation-care-church/092-fnl-92-shedding-innocent-blood-isaiah-1-15-16.md) · 2023-07-22
+- [FNL # 93 - I can do all things through Christ who strengthens me! (Philippians 4:13)](creation-care-church/093-fnl-93-i-can-do-all-things-through-christ-who-strengthens-me.md) · 2023-07-29 *(P)*
+- [FNL # 94 - Is it Hypocritical for Christians to be non-vegan? (Matthew 23:23)](creation-care-church/094-fnl-94-is-it-hypocritical-for-christians-to-be-non-vegan-mat.md) · 2023-08-05
+- [FNL # 95 - Balaam's Donkey (Numbers 22:21-29)](creation-care-church/095-fnl-95-balaams-donkey-numbers-22-21-29.md) · 2023-08-19
+- [FNL # 96 - My  kingdom is not of this world. (John 18:36)](creation-care-church/096-fnl-96-my-kingdom-is-not-of-this-world-john-18-36.md) · 2023-08-26 *(P)*
+- [FNL # 97 - Is a vegan awakening happening in the church? (Romans 13:11)](creation-care-church/097-fnl-97-is-a-vegan-awakening-happening-in-the-church-romans-1.md) · 2023-09-02 *(P)*
+- [FNL # 99 - The 4 Woes Declared by Jesus (Luke 6:24-26)](creation-care-church/099-fnl-99-the-4-woes-declared-by-jesus-luke-6-24-26.md) · 2023-09-16 *(P)*
+- [FNL # 101 - You will know a tree by its fruit (Matthew 7:16)](creation-care-church/101-fnl-101-you-will-know-a-tree-by-its-fruit-matthew-7-16.md) · 2023-09-30 *(P)*
+- [FNL # 102: Do you have the Kingdom of God in you? (Luke 17:21)](creation-care-church/102-fnl-102-do-you-have-the-kingdom-of-god-in-you-luke-17-21.md) · 2023-10-07 *(P)*
+- [FNL # 103 - Overcoming Despair and Misanthropy (Hebrews 11:1)](creation-care-church/103-fnl-103-overcoming-despair-and-misanthropy-hebrews-11-1.md) · 2023-10-14 *(P)*
+- [FNL # 105 - Are we underestimating the love of Christ? (Ephesians 3:18)](creation-care-church/105-fnl-105-are-we-underestimating-the-love-of-christ-ephesians.md) · 2023-10-28 *(P)*
+- [FNL # 106 - Does anthropocentrism hinder us from correctly understanding Scripture? (Matt 5:8)](creation-care-church/106-fnl-106-does-anthropocentrism-hinder-us-from-correctly-under.md) · 2023-11-04
+- [FNL # 107 - Are you coveting products of animal cruelty? (Exodus 20:7)](creation-care-church/107-fnl-107-are-you-coveting-products-of-animal-cruelty-exodus-2.md) · 2023-11-11 *(P)*
+- [FNL # 108 - Ask the Animals (Job 12:7)](creation-care-church/108-fnl-108-ask-the-animals-job-12-7.md) · 2023-11-18 *(P)*
+- [FNL # 109 - Discerning Between True and Counterfeit Unity with God (John 17:23)](creation-care-church/109-fnl-109-discerning-between-true-and-counterfeit-unity-with-g.md) · 2023-11-25 *(P)*
+- [FNL # 110 - The Beatitudes (Matthew 5:1-12)](creation-care-church/110-fnl-110-the-beatitudes-matthew-5-1-12.md) · 2023-12-02 *(P)*
+- [FNL # 111 - How can we be the light of the world for people and animals? (Matthew 5:14-16)](creation-care-church/111-fnl-111-how-can-we-be-the-light-of-the-world-for-people-and.md) · 2023-12-09 *(P)*
+- [FNL # 112 - Do not Grow Weary of Doing Good (Galatians 6:9)](creation-care-church/112-fnl-112-do-not-grow-weary-of-doing-good-galatians-6-9.md) · 2023-12-16 *(P)*
+- [FNL # 113 - Who is Jesus? (John 8:58)](creation-care-church/113-fnl-113-who-is-jesus-john-8-58.md) · 2023-12-23
+- [FNL # 114 - Shout it from the Rooftops! (Matthew 10:27)](creation-care-church/114-fnl-114-shout-it-from-the-rooftops-matthew-10-27.md) · 2023-12-30 *(P)*
+- [FNL # 115 - Was there Cuddling in the Garden of Eden? (Ecc. 4:11)](creation-care-church/115-fnl-115-was-there-cuddling-in-the-garden-of-eden-ecc-4-11.md) · 2024-01-06
+- [FNL # 118 - On Earth as it is in Heaven (Matthew 6:10)](creation-care-church/118-fnl-118-on-earth-as-it-is-in-heaven-matthew-6-10.md) · 2024-01-27 *(P)*
+- [What is Dominion in God's Image and Likeness?](vegan-school/046-what-is-dominion-in-gods-image-and-likeness.md) · 2024-01-31
+- [FNL # 119 - When Will Bow and Sword Be Abolished? (Hosea 2:18)](creation-care-church/119-fnl-119-when-will-bow-and-sword-be-abolished-hosea-2-18.md) · 2024-02-03 *(P)*
+- [FNL # 121 - The Armor of God (Ephesians 6:11-18)](creation-care-church/121-fnl-121-the-armor-of-god-ephesians-6-11-18.md) · 2024-02-17 *(P)*
+- [FNL # 122 -  God remembers the animals, and so should we! (Gen. 8:1)](creation-care-church/122-fnl-122-god-remembers-the-animals-and-so-should-we-gen-8-1.md) · 2024-02-24
+- [How did nature get the way it is if predation wasn’t God’s design?](vegan-school/047-how-did-nature-get-the-way-it-is-if-predation-wasnt-gods-des.md) · 2024-02-28 *(P)*
+- [Discerning the Voice of God in Scriptures](vegan-school/090-discerning-the-voice-of-god-in-scriptures.md) · 2024-03-14
+- [FNL # 125 - God Hates Violence (Psalm 11:5)](creation-care-church/125-fnl-125-god-hates-violence-psalm-11-5.md) · 2024-03-16
+- [Christspiracy Review](vegan-school/092-christspiracy-review.md) · 2024-03-31
+- [Christspiracy Review](creation-care-church/130-christspiracy-review.md) · 2024-04-01 *(P)*
+- [FNL #128 - The Forbidden Fruit (GENESIS 2:17)](creation-care-church/131-fnl-128-the-forbidden-fruit-genesis-2-17.md) · 2024-04-06 *(P)*
+- [FNL #129 - Moving Mountains (Mark 11:23-26)](creation-care-church/132-fnl-129-moving-mountains-mark-11-23-26.md) · 2024-04-13 *(P)*
+- [Animal Sacrifice - Discipleship School Meeting #4](vegan-school/050-animal-sacrifice-discipleship-school-meeting-4.md) · 2024-04-23
+- [FNL # 131 - 4/26 Understanding Paul (2 Peter 3:15-16)](creation-care-church/134-fnl-131-4-26-understanding-paul-2-peter-3-15-16.md) · 2024-04-27 *(P)*
+- [FNL # 133 - "You Must Become Like a Child to Enter the Kingdom" (Matthew 18:3)](creation-care-church/136-fnl-133-you-must-become-like-a-child-to-enter-the-kingdom-ma.md) · 2024-05-11 *(P)*
+- [FNL # 135 - Create in Me a Clean Heart (Psalm 51:10)](creation-care-church/138-fnl-135-create-in-me-a-clean-heart-psalm-51-10.md) · 2024-05-25
+- [Does 1 Timothy 4 suggest vegans are following a demon?](vegan-school/052-does-1-timothy-4-suggest-vegans-are-following-a-demon.md) · 2024-06-26 *(P)*
+- [FNL #139 - The Key of Knowledge (Luke 11:52)](creation-care-church/142-fnl-139-the-key-of-knowledge-luke-11-52.md) · 2024-06-29
+- [Is it more Christlike to defend animals or to defend people’s freedom to hurt animals?](vegan-school/053-is-it-more-christlike-to-defend-animals-or-to-defend-peoples.md) · 2024-07-24 *(P)*
+- [FNL #142 - Ten Times Wiser! (Daniel 1:20)](creation-care-church/145-fnl-142-ten-times-wiser-daniel-1-20.md) · 2024-08-17
+- [FNL #143 - Does God answer the prayers of animals? (Psalm 147:9)](creation-care-church/146-fnl-143-does-god-answer-the-prayers-of-animals-psalm-147-9.md) · 2024-08-24 *(P)*
+- [Should we wait until Jesus returns or should we prepare for the kingdom now? (Class #8)](vegan-school/054-should-we-wait-until-jesus-returns-or-should-we-prepare-for.md) · 2024-08-28 *(P)*
+- [FNL #144 - Better is a dinner of herbs where love is! (PROVERBS 15:17)](creation-care-church/147-fnl-144-better-is-a-dinner-of-herbs-where-love-is-proverbs-1.md) · 2024-09-07 *(P)*
+- [FNL #145 - Do you love mercy? (MICAH 6:8)](creation-care-church/148-fnl-145-do-you-love-mercy-micah-6-8.md) · 2024-09-21
+- [FNL #146 - Special Blessing of the Animals Service](creation-care-church/149-fnl-146-special-blessing-of-the-animals-service.md) · 2024-10-05
+- [FNL #147 - Be as shrewd as serpents and as innocent as doves (Matthew 10:16)](creation-care-church/150-fnl-147-be-as-shrewd-as-serpents-and-as-innocent-as-doves-ma.md) · 2024-10-19 *(P)*
+- [FNL #148 - Every creature will praise God! (REVELATION 5:13)](creation-care-church/151-fnl-148-every-creature-will-praise-god-revelation-5-13.md) · 2024-11-02
+- [FNL #149 - Be not among riotous eaters of flesh! (PROVERBS 23:20)](creation-care-church/152-fnl-149-be-not-among-riotous-eaters-of-flesh-proverbs-23-20.md) · 2024-11-16 *(P)*
+- [Is it sin to eat animals?](vegan-school/056-is-it-sin-to-eat-animals.md) · 2024-11-27 *(P)*
+- [FNL #150 - Is your body a temple for the Holy Spirit or is it a grave of craving? (1 Cor 6:19)](creation-care-church/153-fnl-150-is-your-body-a-temple-for-the-holy-spirit-or-is-it-a.md) · 2024-11-30 *(P)*
+- [FNL #153 - The Seventh Day of Creation](creation-care-church/156-fnl-153-the-seventh-day-of-creation.md) · 2025-01-04
+- [FNL #154 - Are we reaping the violence we sow toward animals?](creation-care-church/157-fnl-154-are-we-reaping-the-violence-we-sow-toward-animals.md) · 2025-01-18 *(P)*
+- [What does the Bible say about Hunting? [VCDS#11]](vegan-school/057-what-does-the-bible-say-about-hunting-vcds-11.md) · 2025-02-04
+- [FNL #156 - Are humans the reason animals live in fear?](creation-care-church/159-fnl-156-are-humans-the-reason-animals-live-in-fear.md) · 2025-02-15
+- [FNL #157 - Repent from Animal Cruelty!](creation-care-church/160-fnl-157-repent-from-animal-cruelty.md) · 2025-03-01 *(P)*
+- [FNL # 158 - The Good Samaritan](creation-care-church/161-fnl-158-the-good-samaritan.md) · 2025-03-15
+- [Did Jesus declare all foods clean?](vegan-school/059-did-jesus-declare-all-foods-clean.md) · 2025-03-26
+- [FNL #160 - Jesus Disrupting the Temple](creation-care-church/163-fnl-160-jesus-disrupting-the-temple.md) · 2025-04-12
+- [Will God ever bring back the temple practice of animal sacrifice?](vegan-school/060-will-god-ever-bring-back-the-temple-practice-of-animal-sacri.md) · 2025-04-23
+- [FNL #161 - Living by Faith](creation-care-church/164-fnl-161-living-by-faith.md) · 2025-04-26 *(P)*
+- [FNL #163 - God Preserves Both Humans and Animals](creation-care-church/166-fnl-163-god-preserves-both-humans-and-animals.md) · 2025-05-24 *(P)*
+- [Why are Christians Ignoring Creation Care?](vegan-school/063-why-are-christians-ignoring-creation-care.md) · 2025-05-28 *(P)*
+- [FNL #164 – Pentecost and the Peaceable Kingdom](creation-care-church/167-fnl-164-pentecost-and-the-peaceable-kingdom.md) · 2025-06-07 *(P)*
+- [FNL #165 – Is the church speeding the kingdom of God?](creation-care-church/168-fnl-165-is-the-church-speeding-the-kingdom-of-god.md) · 2025-06-21 *(P)*
+- [FNL #167 – Are you searching the scriptures for life or for death?](creation-care-church/170-fnl-167-are-you-searching-the-scriptures-for-life-or-for-dea.md) · 2025-07-19 *(P)*
+- [FNL #168 – Good in the Bible](creation-care-church/171-fnl-168-good-in-the-bible.md) · 2025-08-02 *(P)*
+- [FNL #169 — How to Rebut the Accusation "Vegans Worship the Creature Rather than the Creator"](creation-care-church/172-fnl-169-how-to-rebut-the-accusation-vegans-worship-the-creat.md) · 2025-08-16 *(P)*
+- [FNL #170 — Is human wickedness responsible for animals perishing?](creation-care-church/173-fnl-170-is-human-wickedness-responsible-for-animals-perishin.md) · 2025-08-30
+- [FNL #171 - Rebuking Satan](creation-care-church/126-fnl-171-rebuking-satan.md) · 2025-09-13 *(P)*
+- [Did God create animals to be eaten as food?](vegan-school/066-did-god-create-animals-to-be-eaten-as-food.md) · 2025-09-23
+- [FNL # 172 – There will be no more tears!](creation-care-church/174-fnl-172-there-will-be-no-more-tears.md) · 2025-09-27 *(P)*
+- [FNL # 174 – Are You Serving God’s Kingdom?](creation-care-church/176-fnl-174-are-you-serving-gods-kingdom.md) · 2025-10-25
+- [Was God pleased by the aroma of burnt offerings?](vegan-school/067-was-god-pleased-by-the-aroma-of-burnt-offerings.md) · 2025-10-28 *(P)*
+- [FNL # 175 – Casting Out Demons](creation-care-church/177-fnl-175-casting-out-demons.md) · 2025-11-08 *(P)*
+- [FNL # 176 – Are You Believing Righteously?](creation-care-church/178-fnl-176-are-you-believing-righteously.md) · 2025-11-22 *(P)*
+- [Why in the Torah does God say to eat as much meat as you desire?](vegan-school/068-why-in-the-torah-does-god-say-to-eat-as-much-meat-as-you-des.md) · 2025-11-26 *(P)*
+- [Jesus and the End of Animal Sacrifices](vegan-school/070-jesus-and-the-end-of-animal-sacrifices.md) · 2025-12-02
+- [What Happens When a Vegan Preacher Visits Las Vegas?](vegan-school/071-what-happens-when-a-vegan-preacher-visits-las-vegas.md) · 2025-12-05
+- [FNL # 177 - The Greatest Commandment](creation-care-church/179-fnl-177-the-greatest-commandment.md) · 2025-12-06 *(P)*
+- [FNL # 178 – Reclaiming Your True Identity](creation-care-church/180-fnl-178-reclaiming-your-true-identity.md) · 2025-12-20 *(P)*
+- [FNL # 179 – Are You a Friend of God?](creation-care-church/181-fnl-179-are-you-a-friend-of-god.md) · 2026-01-03
+- [FNL # 180 – Pastor vs Priest Debate Veganism](creation-care-church/182-fnl-180-pastor-vs-priest-debate-veganism.md) · 2026-01-17 *(P)*
+- [FNL # 181 – God's Love Language](creation-care-church/127-fnl-181-gods-love-language.md) · 2026-02-07 *(P)*
+- [FNL # 182 – Permission & Going the Extra Mile](creation-care-church/183-fnl-182-permission-going-the-extra-mile.md) · 2026-02-21 *(P)*
+- [FNL # 182 – Permission & Going the Extra Mile](vegan-school/093-fnl-182-permission-going-the-extra-mile.md) · 2026-02-21 *(P)*
+- [Why in Acts 10 did God tell Peter, Arise Kill and Eat?](vegan-school/075-why-in-acts-10-did-god-tell-peter-arise-kill-and-eat.md) · 2026-02-25 *(P)*
+- [FNL # 183 – Are You Listening to the Prophets?](creation-care-church/184-fnl-183-are-you-listening-to-the-prophets.md) · 2026-03-07
+- [How does one overcome the temptation to consume products of animal cruelty?](vegan-school/076-how-does-one-overcome-the-temptation-to-consume-products-of.md) · 2026-04-01 *(P)*
+- [FNL # 186 - Who is a Child of Peace?](creation-care-church/187-fnl-186-who-is-a-child-of-peace.md) · 2026-04-18
+- [FNL # 187 – Who is Leviathan?](creation-care-church/188-fnl-187-who-is-leviathan.md) · 2026-05-02
+- [FNL # 188 – You must NEVER eat any flesh or blood!](creation-care-church/189-fnl-188-you-must-never-eat-any-flesh-or-blood.md) · 2026-05-16
+- [FNL # 190 – Are you sighing and crying over animal suffering?](creation-care-church/191-fnl-190-are-you-sighing-and-crying-over-animal-suffering.md) · 2026-06-20 *(P)*
+- [Thou Shalt Not Kill: Does it Apply to Animals?](vegan-school/077-thou-shalt-not-kill-does-it-apply-to-animals.md) · 2026-06-21
+- [FNL #192 – Are You Following the Way, the Truth, and the Life?](creation-care-church/193-fnl-192-are-you-following-the-way-the-truth-and-the-life.md) · 2026-07-18 *(P)*
+- [Are You Following the Way, The Truth, and the Life?](vegan-school/080-are-you-following-the-way-the-truth-and-the-life.md) · 2026-07-19
+- [What was the purpose of distinguishing between clean and unclean animals?](vegan-school/081-what-was-the-purpose-of-distinguishing-between-clean-and-unc.md) · 2026-07-30
+- [FNL #193 – Heaven is Vegan](creation-care-church/194-fnl-193-heaven-is-vegan.md) · 2026-08-08
+- [FNL #194 – I Will Save My Sheep from their Mouth](creation-care-church/195-fnl-194-i-will-save-my-sheep-from-their-mouth.md) · 2026-08-22 *(P)*
+- [Can Animals Give and Receive Love? A Biblical Response to Objections to Veganism](vegan-school/082-can-animals-give-and-receive-love-a-biblical-response-to-obj.md) · 2026-08-28
+- [Did Demons Invent Animal Sacrifice?](bible-origin/006-did-demons-invent-animal-sacrifice.md) · 2026-09-06 *(P)*
+- [Why did God favor Abel’s gift but not Cain’s?](vegan-school/083-why-did-god-favor-abels-gift-but-not-cains.md) · 2026-09-24 *(P)*
+- [FNL #198 – Are Meat-Eaters Saved?](creation-care-church/199-fnl-198-are-meat-eaters-saved.md) · 2026-10-17 *(P)*
+- [AI Ethics and Dominion Over Animals with Jonnah Popek](vegan-school/084-ai-ethics-and-dominion-over-animals-with-jonnah-popek.md) · 2026-10-21
+
+### sacrifice (129)
+
+- [Should we Judge those who Harm Animals?](vegan-school/001-should-we-judge-those-who-harm-animals.md) · 2017-08-20
+- [Restoring the Garden Paradise Ideal](vegan-school/003-restoring-the-garden-paradise-ideal.md) · 2017-12-20
+- [Bible Trivia Question: God's Response to Noah](vegan-school/010-bible-trivia-question-gods-response-to-noah.md) · 2018-12-24
+- [Why Did God Accept Abel's Gift but not Cain's?](vegan-school/011-why-did-god-accept-abels-gift-but-not-cains.md) · 2018-12-24
+- [Why Did Jesus Cleanse the Temple?](vegan-school/017-why-did-jesus-cleanse-the-temple.md) · 2019-04-30
+- [How can a loving God command animal sacrifices?](vegan-school/021-how-can-a-loving-god-command-animal-sacrifices.md) · 2019-06-24
+- [BIG JOE TELLS CHRISTIANS TO GO VEGAN!!](vegan-school/024-big-joe-tells-christians-to-go-vegan.md) · 2019-07-23
+- [DOES GOD WANT US TO KILL AND EAT ANIMALS?](vegan-school/026-does-god-want-us-to-kill-and-eat-animals.md) · 2019-07-26
+- [CHRISTIAN TALKS TO YOGI MASTER ABOUT VEGANISM](vegan-school/027-christian-talks-to-yogi-master-about-veganism.md) · 2019-08-01 *(P)*
+- [SHOULD WE EXCLUDE ANIMALS FROM OUR LOVE?](vegan-school/033-should-we-exclude-animals-from-our-love.md) · 2019-11-27
+- [PASTOR ROB MUNRO INTERVIEW - ON CONCERN FOR ANIMALS](vegan-school/044-pastor-rob-munro-interview-on-concern-for-animals.md) · 2020-12-07
+- [Friday Night Live #2 – What does the Bible say about hunters and the practice of hunting?](creation-care-church/002-friday-night-live-2-what-does-the-bible-say-about-hunters-an.md) · 2021-08-30
+- [Friday Night Live #7 - Did God change His mind about animals after the flood?](creation-care-church/007-friday-night-live-7-did-god-change-his-mind-about-animals-af.md) · 2021-10-02
+- [Friday Night Live #8 - Why did God instruct animal sacrifices?](creation-care-church/008-friday-night-live-8-why-did-god-instruct-animal-sacrifices.md) · 2021-10-09 *(P)*
+- [Friday Night Live #9 - Will God bring back the temple practice of animal sacrifices?](creation-care-church/009-friday-night-live-9-will-god-bring-back-the-temple-practice.md) · 2021-10-16 *(P)*
+- [Friday Night Live #11 - Why in Numbers 11 does God say to eat as much meat as you desire?](creation-care-church/010-friday-night-live-11-why-in-numbers-11-does-god-say-to-eat-a.md) · 2021-11-01 *(P)*
+- [Friday Night Live #16 - Why in Acts 10 did God tell Peter “Arise, Peter, kill and eat!”](creation-care-church/015-friday-night-live-16-why-in-acts-10-did-god-tell-peter-arise.md) · 2021-12-04 *(P)*
+- [Friday Night Live #18 - Why did God favor Abel’s gift but not Cain’s?](creation-care-church/017-friday-night-live-18-why-did-god-favor-abels-gift-but-not-ca.md) · 2021-12-18
+- [Friday Night Live #21 - Did God kill an animal when clothing Adam and Eve?](creation-care-church/021-friday-night-live-21-did-god-kill-an-animal-when-clothing-ad.md) · 2022-01-22 *(P)*
+- [Friday Night Live #10: Why in Genesis 15 did Abram cut animals in half?](creation-care-church/022-friday-night-live-10-why-in-genesis-15-did-abram-cut-animals.md) · 2022-01-27 *(P)*
+- [FNL #22 - Why does Paul say to eat whatever is sold without raising questions of conscience?](creation-care-church/023-fnl-22-why-does-paul-say-to-eat-whatever-is-sold-without-rai.md) · 2022-01-29 *(P)*
+- [Friday Night Live #24 - Is Veganism Idolatry?](creation-care-church/025-friday-night-live-24-is-veganism-idolatry.md) · 2022-02-12 *(P)*
+- [Friday Night Live #28 - Is it a sin to eat animals?](creation-care-church/029-friday-night-live-28-is-it-a-sin-to-eat-animals.md) · 2022-03-12 *(P)*
+- [FNL #31 - Is it more Christlike to defend animals or to defend people’s freedom to hurt animals?](creation-care-church/032-fnl-31-is-it-more-christlike-to-defend-animals-or-to-defend.md) · 2022-04-02 *(P)*
+- [Friday Night Live #32 - Did Jesus eat lamb?](creation-care-church/033-friday-night-live-32-did-jesus-eat-lamb.md) · 2022-04-09 *(P)*
+- [Friday Night Live #34 - Was God pleased by the aroma of burnt offerings?](creation-care-church/035-friday-night-live-34-was-god-pleased-by-the-aroma-of-burnt-o.md) · 2022-04-23 *(P)*
+- [FNL #35 - Why did God bless and make a covenant with Noah and his family after the flood?](creation-care-church/036-fnl-35-why-did-god-bless-and-make-a-covenant-with-noah-and-h.md) · 2022-04-30
+- [Friday Night Live #36 - What was the purpose of distinguishing between clean and unclean animals?](creation-care-church/037-friday-night-live-36-what-was-the-purpose-of-distinguishing.md) · 2022-05-07
+- [Friday Night Live #40 - What are God’s appointed times (Moedim)?](creation-care-church/041-friday-night-live-40-what-are-gods-appointed-times-moedim.md) · 2022-06-04 *(P)*
+- [Friday Night Live #41 - What does it mean for God to command or instruct?](creation-care-church/042-friday-night-live-41-what-does-it-mean-for-god-to-command-or.md) · 2022-06-11 *(P)*
+- [Friday Night Live #46 -  Romans 12:2, be not conformed to the world!](creation-care-church/046-friday-night-live-46-romans-12-2-be-not-conformed-to-the-wor.md) · 2022-07-16 *(P)*
+- [Friday Night Live #48 - Psalm 24: All Belongs to God](creation-care-church/048-friday-night-live-48-psalm-24-all-belongs-to-god.md) · 2022-07-30 *(P)*
+- [Friday Night Live #50 - Genesis 9: God covenants with the animals](creation-care-church/050-friday-night-live-50-genesis-9-god-covenants-with-the-animal.md) · 2022-08-13
+- [FNL # 52 - Psalm 145 - He has compassion for all He has made](creation-care-church/052-fnl-52-psalm-145-he-has-compassion-for-all-he-has-made.md) · 2022-08-27 *(P)*
+- [FNL # 57 - Jesus Fulfills the Fall Moedim](creation-care-church/057-fnl-57-jesus-fulfills-the-fall-moedim.md) · 2022-10-01 *(P)*
+- [FNL # 68 - Proverbs 31:8 – Be A Voice For The Voiceless](creation-care-church/068-fnl-68-proverbs-31-8-be-a-voice-for-the-voiceless.md) · 2023-01-07 *(P)*
+- [FNL # 72 - The Lord’s Prayer for Animals (Matthew 6:9-13)](creation-care-church/072-fnl-72-the-lords-prayer-for-animals-matthew-6-9-13.md) · 2023-02-11 *(P)*
+- [FNL # 73 - No animal is forgotten by God (Luke 12:6)](creation-care-church/073-fnl-73-no-animal-is-forgotten-by-god-luke-12-6.md) · 2023-02-18 *(P)*
+- [FNL # 75 - Bearing the fruit of the spirit toward animals (Galatians 5:22-23)](creation-care-church/075-fnl-75-bearing-the-fruit-of-the-spirit-toward-animals-galati.md) · 2023-03-04 *(P)*
+- [FNL # 76 - Are we being a thief or a good shepherd toward animals? (John 10:10-11)](creation-care-church/076-fnl-76-are-we-being-a-thief-or-a-good-shepherd-toward-animal.md) · 2023-03-11 *(P)*
+- [FNL # 78 - Jesus, the Lamb Sent to Slaughter (Isaiah 53:7)](creation-care-church/078-fnl-78-jesus-the-lamb-sent-to-slaughter-isaiah-53-7.md) · 2023-03-25 *(P)*
+- [FNL # 85 - Multiplying Loaves of Compassion (John 6)](creation-care-church/085-fnl-85-multiplying-loaves-of-compassion-john-6.md) · 2023-05-27
+- [FNL # 86 - Thou Shalt Not Kill (Exodus 20:13)](creation-care-church/086-fnl-86-thou-shalt-not-kill-exodus-20-13.md) · 2023-06-03
+- [FNL # 90 - Evidence for Veganism in the Early Church](creation-care-church/090-fnl-90-evidence-for-veganism-in-the-early-church.md) · 2023-07-08 *(P)*
+- [FNL # 92 - Shedding Innocent Blood (Isaiah 1:15-16)](creation-care-church/092-fnl-92-shedding-innocent-blood-isaiah-1-15-16.md) · 2023-07-22
+- [FNL # 94 - Is it Hypocritical for Christians to be non-vegan? (Matthew 23:23)](creation-care-church/094-fnl-94-is-it-hypocritical-for-christians-to-be-non-vegan-mat.md) · 2023-08-05
+- [FNL # 98 - The Book of Enoch (Jude 1:14-15)](creation-care-church/098-fnl-98-the-book-of-enoch-jude-1-14-15.md) · 2023-09-09
+- [FNL # 104 - Be Merciful (Luke 6:36)](creation-care-church/104-fnl-104-be-merciful-luke-6-36.md) · 2023-10-21
+- [Is the Bible the Inspired, Inerrant, Infallible Word of God?](vegan-school/085-is-the-bible-the-inspired-inerrant-infallible-word-of-god.md) · 2024-02-01
+- [FNL # 119 - When Will Bow and Sword Be Abolished? (Hosea 2:18)](creation-care-church/119-fnl-119-when-will-bow-and-sword-be-abolished-hosea-2-18.md) · 2024-02-03 *(P)*
+- [FNL # 120 - Misconceptions About Biblical Veganism (1 Timothy 4:1-4)](creation-care-church/120-fnl-120-misconceptions-about-biblical-veganism-1-timothy-4-1.md) · 2024-02-10 *(P)*
+- [FNL # 122 -  God remembers the animals, and so should we! (Gen. 8:1)](creation-care-church/122-fnl-122-god-remembers-the-animals-and-so-should-we-gen-8-1.md) · 2024-02-24
+- [Discerning the Voice of God in Scriptures](vegan-school/090-discerning-the-voice-of-god-in-scriptures.md) · 2024-03-14
+- [FNL # 125 - God Hates Violence (Psalm 11:5)](creation-care-church/125-fnl-125-god-hates-violence-psalm-11-5.md) · 2024-03-16
+- [The Table of Demons (1 Corinthians 10:21) - Part 1](vegan-school/048-the-table-of-demons-1-corinthians-10-21-part-1.md) · 2024-03-17 *(P)*
+- [The Table of Demons (1 Corinthians 10:21) - Part 2](vegan-school/091-the-table-of-demons-1-corinthians-10-21-part-2.md) · 2024-03-24
+- [Christspiracy Review](vegan-school/092-christspiracy-review.md) · 2024-03-31
+- [Christspiracy Review](creation-care-church/130-christspiracy-review.md) · 2024-04-01 *(P)*
+- [Did God change His mind about animals after the flood? (Vegan Christian Discipleship School #3)](vegan-school/049-did-god-change-his-mind-about-animals-after-the-flood-vegan.md) · 2024-04-03
+- [Animal Sacrifice - Discipleship School Meeting #4](vegan-school/050-animal-sacrifice-discipleship-school-meeting-4.md) · 2024-04-23
+- [FNL #132 - The Yoke of the Lord (Matthew 11:29)](creation-care-church/135-fnl-132-the-yoke-of-the-lord-matthew-11-29.md) · 2024-05-04 *(P)*
+- [FNL # 135 - Create in Me a Clean Heart (Psalm 51:10)](creation-care-church/138-fnl-135-create-in-me-a-clean-heart-psalm-51-10.md) · 2024-05-25
+- [Were the Apostles and the Early Church Vegan? Discipleship School Meeting #5](vegan-school/051-were-the-apostles-and-the-early-church-vegan-discipleship-sc.md) · 2024-06-03 *(P)*
+- [FNL # 136 - The Wedding Banquet (Luke 14:15-24)](creation-care-church/139-fnl-136-the-wedding-banquet-luke-14-15-24.md) · 2024-06-08 *(P)*
+- [FNL # 138 - The Prophet Like Moses (Acts 3:22)](creation-care-church/141-fnl-138-the-prophet-like-moses-acts-3-22.md) · 2024-06-22
+- [Does 1 Timothy 4 suggest vegans are following a demon?](vegan-school/052-does-1-timothy-4-suggest-vegans-are-following-a-demon.md) · 2024-06-26 *(P)*
+- [FNL #139 - The Key of Knowledge (Luke 11:52)](creation-care-church/142-fnl-139-the-key-of-knowledge-luke-11-52.md) · 2024-06-29
+- [FNL #140 - The Table of Demons (1 Corinthians 10:21)](creation-care-church/143-fnl-140-the-table-of-demons-1-corinthians-10-21.md) · 2024-07-06 *(P)*
+- [FNL #141 - Three Years of Friday Night Live Talks](creation-care-church/144-fnl-141-three-years-of-friday-night-live-talks.md) · 2024-07-13
+- [Is it more Christlike to defend animals or to defend people’s freedom to hurt animals?](vegan-school/053-is-it-more-christlike-to-defend-animals-or-to-defend-peoples.md) · 2024-07-24 *(P)*
+- [FNL #145 - Do you love mercy? (MICAH 6:8)](creation-care-church/148-fnl-145-do-you-love-mercy-micah-6-8.md) · 2024-09-21
+- [Do animals have a soul? [Vegan Christian Discipleship School #9]](vegan-school/055-do-animals-have-a-soul-vegan-christian-discipleship-school-9.md) · 2024-10-22 *(P)*
+- [FNL #148 - Every creature will praise God! (REVELATION 5:13)](creation-care-church/151-fnl-148-every-creature-will-praise-god-revelation-5-13.md) · 2024-11-02
+- [FNL #153 - The Seventh Day of Creation](creation-care-church/156-fnl-153-the-seventh-day-of-creation.md) · 2025-01-04
+- [FNL #154 - Are we reaping the violence we sow toward animals?](creation-care-church/157-fnl-154-are-we-reaping-the-violence-we-sow-toward-animals.md) · 2025-01-18 *(P)*
+- [FNL #156 - Are humans the reason animals live in fear?](creation-care-church/159-fnl-156-are-humans-the-reason-animals-live-in-fear.md) · 2025-02-15
+- [FNL #157 - Repent from Animal Cruelty!](creation-care-church/160-fnl-157-repent-from-animal-cruelty.md) · 2025-03-01 *(P)*
+- [What Does a 'Land Flowing with Milk and Honey' Actually Mean?](vegan-school/058-what-does-a-land-flowing-with-milk-and-honey-actually-mean.md) · 2025-03-04
+- [FNL # 158 - The Good Samaritan](creation-care-church/161-fnl-158-the-good-samaritan.md) · 2025-03-15
+- [Did Jesus declare all foods clean?](vegan-school/059-did-jesus-declare-all-foods-clean.md) · 2025-03-26
+- [FNL #160 - Jesus Disrupting the Temple](creation-care-church/163-fnl-160-jesus-disrupting-the-temple.md) · 2025-04-12
+- [Will God ever bring back the temple practice of animal sacrifice?](vegan-school/060-will-god-ever-bring-back-the-temple-practice-of-animal-sacri.md) · 2025-04-23
+- [FNL #161 - Living by Faith](creation-care-church/164-fnl-161-living-by-faith.md) · 2025-04-26 *(P)*
+- [What is The Book of Enoch? (Should it be in the Bible?)](vegan-school/061-what-is-the-book-of-enoch-should-it-be-in-the-bible.md) · 2025-04-29
+- [What’s Inside the Book of Enoch? Find Out Now!](vegan-school/062-whats-inside-the-book-of-enoch-find-out-now.md) · 2025-05-01
+- [FNL #162 - Enoch's Flood and Fire Prophecy](creation-care-church/165-fnl-162-enochs-flood-and-fire-prophecy.md) · 2025-05-10
+- [FNL #163 - God Preserves Both Humans and Animals](creation-care-church/166-fnl-163-god-preserves-both-humans-and-animals.md) · 2025-05-24 *(P)*
+- [Why are Christians Ignoring Creation Care?](vegan-school/063-why-are-christians-ignoring-creation-care.md) · 2025-05-28 *(P)*
+- [FNL #168 – Good in the Bible](creation-care-church/171-fnl-168-good-in-the-bible.md) · 2025-08-02 *(P)*
+- [FNL #169 — How to Rebut the Accusation "Vegans Worship the Creature Rather than the Creator"](creation-care-church/172-fnl-169-how-to-rebut-the-accusation-vegans-worship-the-creat.md) · 2025-08-16 *(P)*
+- [FNL #170 — Is human wickedness responsible for animals perishing?](creation-care-church/173-fnl-170-is-human-wickedness-responsible-for-animals-perishin.md) · 2025-08-30
+- [Can You Be Vegan and Follow the Bible?](vegan-school/065-can-you-be-vegan-and-follow-the-bible.md) · 2025-09-05 *(P)*
+- [FNL # 174 – Are You Serving God’s Kingdom?](creation-care-church/176-fnl-174-are-you-serving-gods-kingdom.md) · 2025-10-25
+- [Was God pleased by the aroma of burnt offerings?](vegan-school/067-was-god-pleased-by-the-aroma-of-burnt-offerings.md) · 2025-10-28 *(P)*
+- [FNL # 175 – Casting Out Demons](creation-care-church/177-fnl-175-casting-out-demons.md) · 2025-11-08 *(P)*
+- [FNL # 176 – Are You Believing Righteously?](creation-care-church/178-fnl-176-are-you-believing-righteously.md) · 2025-11-22 *(P)*
+- [Why in the Torah does God say to eat as much meat as you desire?](vegan-school/068-why-in-the-torah-does-god-say-to-eat-as-much-meat-as-you-des.md) · 2025-11-26 *(P)*
+- [Understanding the Purpose of Jesus' Sacrifice: A Deep Dive into Theology](vegan-school/069-understanding-the-purpose-of-jesus-sacrifice-a-deep-dive-int.md) · 2025-11-29
+- [Jesus and the End of Animal Sacrifices](vegan-school/070-jesus-and-the-end-of-animal-sacrifices.md) · 2025-12-02
+- [What Happens When a Vegan Preacher Visits Las Vegas?](vegan-school/071-what-happens-when-a-vegan-preacher-visits-las-vegas.md) · 2025-12-05
+- [FNL # 177 - The Greatest Commandment](creation-care-church/179-fnl-177-the-greatest-commandment.md) · 2025-12-06 *(P)*
+- [FNL # 179 – Are You a Friend of God?](creation-care-church/181-fnl-179-are-you-a-friend-of-god.md) · 2026-01-03
+- [FNL # 180 – Pastor vs Priest Debate Veganism](creation-care-church/182-fnl-180-pastor-vs-priest-debate-veganism.md) · 2026-01-17 *(P)*
+- [Did Jesus Eat Lamb (at Passover)?](vegan-school/073-did-jesus-eat-lamb-at-passover.md) · 2026-01-29
+- [FNL # 181 – God's Love Language](creation-care-church/127-fnl-181-gods-love-language.md) · 2026-02-07 *(P)*
+- [Jesus' Radical Compassion for Animals Explained by Pastors](vegan-school/074-jesus-radical-compassion-for-animals-explained-by-pastors.md) · 2026-02-13
+- [FNL # 182 – Permission & Going the Extra Mile](creation-care-church/183-fnl-182-permission-going-the-extra-mile.md) · 2026-02-21 *(P)*
+- [FNL # 182 – Permission & Going the Extra Mile](vegan-school/093-fnl-182-permission-going-the-extra-mile.md) · 2026-02-21 *(P)*
+- [FNL # 183 – Are You Listening to the Prophets?](creation-care-church/184-fnl-183-are-you-listening-to-the-prophets.md) · 2026-03-07
+- [FNL # 187 – Who is Leviathan?](creation-care-church/188-fnl-187-who-is-leviathan.md) · 2026-05-02
+- [FNL # 188 – You must NEVER eat any flesh or blood!](creation-care-church/189-fnl-188-you-must-never-eat-any-flesh-or-blood.md) · 2026-05-16
+- [FNL # 189 – Is it Blaspheming the Holy Spirit to Speak Against Veganism?](creation-care-church/190-fnl-189-is-it-blaspheming-the-holy-spirit-to-speak-against-v.md) · 2026-06-06
+- [FNL # 190 – Are you sighing and crying over animal suffering?](creation-care-church/191-fnl-190-are-you-sighing-and-crying-over-animal-suffering.md) · 2026-06-20 *(P)*
+- [Thou Shalt Not Kill: Does it Apply to Animals?](vegan-school/077-thou-shalt-not-kill-does-it-apply-to-animals.md) · 2026-06-21
+- [Misconceptions About Biblical Veganism](vegan-school/078-misconceptions-about-biblical-veganism.md) · 2026-06-24 *(P)*
+- [Is Creation Care Relevant to the Gospel?](vegan-school/079-is-creation-care-relevant-to-the-gospel.md) · 2026-06-25 *(P)*
+- [FNL #191 – Did Jesus Ride a Donkey into Jerusalem? If so, why?](creation-care-church/192-fnl-191-did-jesus-ride-a-donkey-into-jerusalem-if-so-why.md) · 2026-07-04
+- [FNL #192 – Are You Following the Way, the Truth, and the Life?](creation-care-church/193-fnl-192-are-you-following-the-way-the-truth-and-the-life.md) · 2026-07-18 *(P)*
+- [Are You Following the Way, The Truth, and the Life?](vegan-school/080-are-you-following-the-way-the-truth-and-the-life.md) · 2026-07-19
+- [What was the purpose of distinguishing between clean and unclean animals?](vegan-school/081-what-was-the-purpose-of-distinguishing-between-clean-and-unc.md) · 2026-07-30
+- [Jesus Ate Fish? Here's What Ray Comfort Got Wrong](vegan-school/094-jesus-ate-fish-heres-what-ray-comfort-got-wrong.md) · 2026-07-31 *(P)*
+- [Did Ezra Rewrite the Torah? Reconsidering JEDP, Jeremiah, and the "Two Torahs"](bible-origin/004-did-ezra-rewrite-the-torah-reconsidering-jedp-jeremiah-and-t.md) · 2026-08-01
+- [FNL #193 – Heaven is Vegan](creation-care-church/194-fnl-193-heaven-is-vegan.md) · 2026-08-08
+- [FNL #194 – I Will Save My Sheep from their Mouth](creation-care-church/195-fnl-194-i-will-save-my-sheep-from-their-mouth.md) · 2026-08-22 *(P)*
+- [FNL #195 – Did Demons Invent Animal Sacrifice?](creation-care-church/196-fnl-195-did-demons-invent-animal-sacrifice.md) · 2026-09-05
+- [Did Demons Invent Animal Sacrifice?](bible-origin/006-did-demons-invent-animal-sacrifice.md) · 2026-09-06 *(P)*
+- [Why did God favor Abel’s gift but not Cain’s?](vegan-school/083-why-did-god-favor-abels-gift-but-not-cains.md) · 2026-09-24 *(P)*
+- [FNL #197 – The Best FNL Talks of 2026!](creation-care-church/198-fnl-197-the-best-fnl-talks-of-2026.md) · 2026-10-03
+- [AI Ethics and Dominion Over Animals with Jonnah Popek](vegan-school/084-ai-ethics-and-dominion-over-animals-with-jonnah-popek.md) · 2026-10-21
+
+### kingdom (127)
+
+- [Should we Judge those who Harm Animals?](vegan-school/001-should-we-judge-those-who-harm-animals.md) · 2017-08-20
+- [Restoring the Garden Paradise Ideal](vegan-school/003-restoring-the-garden-paradise-ideal.md) · 2017-12-20
+- [Explaining The Lord's Prayer](vegan-school/007-explaining-the-lords-prayer.md) · 2018-12-18
+- [Jonah's Message of Repentance](vegan-school/009-jonahs-message-of-repentance.md) · 2018-12-21
+- [Will Animals be in Heaven?](vegan-school/019-will-animals-be-in-heaven.md) · 2019-05-26
+- [KICKED OUT OF CHURCH FOR ASKING IF GOD LOVES ANIMALS!?!?](vegan-school/023-kicked-out-of-church-for-asking-if-god-loves-animals.md) · 2019-07-10
+- [DOES GOD WANT US TO KILL AND EAT ANIMALS?](vegan-school/026-does-god-want-us-to-kill-and-eat-animals.md) · 2019-07-26
+- [CHRISTIAN DEBATES VEGANISM WITH MUSLIM](vegan-school/031-christian-debates-veganism-with-muslim.md) · 2019-09-16
+- [VEGANS PREACHING LOVE FOR ALL GOD’S CREATURES TO CHRISTIANS!!](vegan-school/032-vegans-preaching-love-for-all-gods-creatures-to-christians.md) · 2019-10-29 *(P)*
+- [SHOULD WE EXCLUDE ANIMALS FROM OUR LOVE?](vegan-school/033-should-we-exclude-animals-from-our-love.md) · 2019-11-27
+- [PREACHING THE WORD OF GOD AT A SLAUGHTERHOUSE LOCKDOWN!!!](vegan-school/040-preaching-the-word-of-god-at-a-slaughterhouse-lockdown.md) · 2020-10-03
+- [THE ONE THING THAT CANNOT BE FORGIVEN!!](vegan-school/042-the-one-thing-that-cannot-be-forgiven.md) · 2020-10-28
+- [PASTOR ROB MUNRO INTERVIEW - ON CONCERN FOR ANIMALS](vegan-school/044-pastor-rob-munro-interview-on-concern-for-animals.md) · 2020-12-07
+- [Friday Night Live #1: How did nature get the way it is if predation wasn't God's design?](creation-care-church/001-friday-night-live-1-how-did-nature-get-the-way-it-is-if-pred.md) · 2021-08-21 *(P)*
+- [Friday Night Live #4 - Will animals be in heaven?](creation-care-church/004-friday-night-live-4-will-animals-be-in-heaven.md) · 2021-09-11
+- [Friday Night Live #5 - Should we judge those who harm animals?](creation-care-church/005-friday-night-live-5-should-we-judge-those-who-harm-animals.md) · 2021-09-18 *(P)*
+- [Friday Night Live #6 - Do animals have a soul?](creation-care-church/006-friday-night-live-6-do-animals-have-a-soul.md) · 2021-09-25 *(P)*
+- [Friday Night Live #9 - Will God bring back the temple practice of animal sacrifices?](creation-care-church/009-friday-night-live-9-will-god-bring-back-the-temple-practice.md) · 2021-10-16 *(P)*
+- [Friday Night Live #12 - What does it mean for a land to be flowing with milk and honey?](creation-care-church/011-friday-night-live-12-what-does-it-mean-for-a-land-to-be-flow.md) · 2021-11-06
+- [Friday Night Live #13 - What does it mean to be a good steward of the earth?](creation-care-church/012-friday-night-live-13-what-does-it-mean-to-be-a-good-steward.md) · 2021-11-13 *(P)*
+- [Friday Night Live #17 - Did Jesus cause a herd of pigs to drown?](creation-care-church/016-friday-night-live-17-did-jesus-cause-a-herd-of-pigs-to-drown.md) · 2021-12-11
+- [Friday Night Live #23 - Did God create animals to be eaten as food?](creation-care-church/024-friday-night-live-23-did-god-create-animals-to-be-eaten-as-f.md) · 2022-02-05 *(P)*
+- [Friday Night Live #26 - Is Creation Care Relevant to the Gospel?](creation-care-church/027-friday-night-live-26-is-creation-care-relevant-to-the-gospel.md) · 2022-02-26 *(P)*
+- [Friday Night Live #27 - Are God’s promises only for humans?](creation-care-church/028-friday-night-live-27-are-gods-promises-only-for-humans.md) · 2022-03-05
+- [Friday Night Live #30 - Will animals be judged by God?](creation-care-church/031-friday-night-live-30-will-animals-be-judged-by-god.md) · 2022-03-26 *(P)*
+- [FNL #31 - Is it more Christlike to defend animals or to defend people’s freedom to hurt animals?](creation-care-church/032-fnl-31-is-it-more-christlike-to-defend-animals-or-to-defend.md) · 2022-04-02 *(P)*
+- [FNL #37- Is the existence of a good God reconcilable with the existence of human / animal suffering?](creation-care-church/038-fnl-37-is-the-existence-of-a-good-god-reconcilable-with-the.md) · 2022-05-14 *(P)*
+- [Friday Night Live #38 - Does someone have weak faith if they don’t eat animal flesh?](creation-care-church/039-friday-night-live-38-does-someone-have-weak-faith-if-they-do.md) · 2022-05-21 *(P)*
+- [FNL #39 - Should we wait until Jesus returns or should we make ourselves ready for the kingdom now?](creation-care-church/040-fnl-39-should-we-wait-until-jesus-returns-or-should-we-make.md) · 2022-05-28 *(P)*
+- [Friday Night Live #40 - What are God’s appointed times (Moedim)?](creation-care-church/041-friday-night-live-40-what-are-gods-appointed-times-moedim.md) · 2022-06-04 *(P)*
+- [Friday Night Live #47 - I Make Known the End from the Beginning](creation-care-church/047-friday-night-live-47-i-make-known-the-end-from-the-beginning.md) · 2022-07-23 *(P)*
+- [Friday Night Live #48 - Psalm 24: All Belongs to God](creation-care-church/048-friday-night-live-48-psalm-24-all-belongs-to-god.md) · 2022-07-30 *(P)*
+- [Friday Night Live #49 - Drinking from the Rock of Christ.](creation-care-church/049-friday-night-live-49-drinking-from-the-rock-of-christ.md) · 2022-08-06 *(P)*
+- [Friday Night Live #51 - Grace and Truth Through Jesus Christ](creation-care-church/051-friday-night-live-51-grace-and-truth-through-jesus-christ.md) · 2022-08-21 *(P)*
+- [FNL # 52 - Psalm 145 - He has compassion for all He has made](creation-care-church/052-fnl-52-psalm-145-he-has-compassion-for-all-he-has-made.md) · 2022-08-27 *(P)*
+- [FNL # 53 - Dealing with rejection as a vegan Christian](creation-care-church/053-fnl-53-dealing-with-rejection-as-a-vegan-christian.md) · 2022-09-03 *(P)*
+- [FNL # 55 - God can change hearts](creation-care-church/055-fnl-55-god-can-change-hearts.md) · 2022-09-17 *(P)*
+- [FNL # 56 - Colossians 1:16 – Animals are here with us, not for us](creation-care-church/056-fnl-56-colossians-1-16-animals-are-here-with-us-not-for-us.md) · 2022-09-24 *(P)*
+- [FNL # 57 - Jesus Fulfills the Fall Moedim](creation-care-church/057-fnl-57-jesus-fulfills-the-fall-moedim.md) · 2022-10-01 *(P)*
+- [FNL # 58 - Living in the Spirit](creation-care-church/058-fnl-58-living-in-the-spirit.md) · 2022-10-08 *(P)*
+- [FNL # 59 - Proverbs 12:10 – The Righteous care for the animals](creation-care-church/059-fnl-59-proverbs-12-10-the-righteous-care-for-the-animals.md) · 2022-10-22
+- [FNL # 60 - Looking ahead to the heavenly reward](creation-care-church/060-fnl-60-looking-ahead-to-the-heavenly-reward.md) · 2022-10-29 *(P)*
+- [FNL # 61 - Should our eternal perspective include animals?](creation-care-church/061-fnl-61-should-our-eternal-perspective-include-animals.md) · 2022-11-05 *(P)*
+- [FNL # 62 -  Be Merciful (Luke 6:36)](creation-care-church/062-fnl-62-be-merciful-luke-6-36.md) · 2022-11-19 *(P)*
+- [FNL # 63 - Are humans superior to animals?](creation-care-church/063-fnl-63-are-humans-superior-to-animals.md) · 2022-12-03
+- [FNL # 65 - Psalm 34:14 – Seek Peace and Do Good](creation-care-church/065-fnl-65-psalm-34-14-seek-peace-and-do-good.md) · 2022-12-17 *(P)*
+- [FNL # 67 – God’s Heart For The Underdog – Matthew 25:44-46](creation-care-church/067-fnl-67-gods-heart-for-the-underdog-matthew-25-44-46.md) · 2022-12-31 *(P)*
+- [FNL # 69 - What is Biblical Veganism?](creation-care-church/069-fnl-69-what-is-biblical-veganism.md) · 2023-01-21
+- [FNL # 70 - Christian Vegan Apologetics: How to Give a Defense of Your Hope](creation-care-church/070-fnl-70-christian-vegan-apologetics-how-to-give-a-defense-of.md) · 2023-01-28 *(P)*
+- [FNL # 71 - Humbly pray, seek God, and turn from animal cruelty](creation-care-church/071-fnl-71-humbly-pray-seek-god-and-turn-from-animal-cruelty.md) · 2023-02-04 *(P)*
+- [FNL # 72 - The Lord’s Prayer for Animals (Matthew 6:9-13)](creation-care-church/072-fnl-72-the-lords-prayer-for-animals-matthew-6-9-13.md) · 2023-02-11 *(P)*
+- [FNL # 74- Clothe yourself with compassion (Colossians 3:12)](creation-care-church/074-fnl-74-clothe-yourself-with-compassion-colossians-3-12.md) · 2023-02-25 *(P)*
+- [FNL # 77 - Are we being faithful and wise stewards over God’s household? (Matthew 24:45)](creation-care-church/077-fnl-77-are-we-being-faithful-and-wise-stewards-over-gods-hou.md) · 2023-03-18
+- [FNL # 79 - Will Animals be Resurrected to Eternal Life in God’s Kingdom? (1 Corinthians 15:20)](creation-care-church/079-fnl-79-will-animals-be-resurrected-to-eternal-life-in-gods-k.md) · 2023-04-08 *(P)*
+- [FNL # 80 - How beautiful are the feet of those who proclaim the (vegan) kingdom of God!](creation-care-church/080-fnl-80-how-beautiful-are-the-feet-of-those-who-proclaim-the.md) · 2023-04-15 *(P)*
+- [FNL # 82 - Joyfully Caring for God’s Creation (John 15:11)](creation-care-church/082-fnl-82-joyfully-caring-for-gods-creation-john-15-11.md) · 2023-04-29 *(P)*
+- [FNL # 83 - How does God feel about those who destroy the earth? (Revelation 11:18)](creation-care-church/083-fnl-83-how-does-god-feel-about-those-who-destroy-the-earth-r.md) · 2023-05-06
+- [FNL # 84 - Why did God create the Garden of Eden vegan? (Genesis 1:29-30)](creation-care-church/084-fnl-84-why-did-god-create-the-garden-of-eden-vegan-genesis-1.md) · 2023-05-20 *(P)*
+- [FNL # 87 - Fasting for the Animals (Isaiah 58:6)](creation-care-church/087-fnl-87-fasting-for-the-animals-isaiah-58-6.md) · 2023-06-17 *(P)*
+- [FNL # 88 - What is coming out of your mouth? (Proverbs 10:11)](creation-care-church/088-fnl-88-what-is-coming-out-of-your-mouth-proverbs-10-11.md) · 2023-06-24 *(P)*
+- [FNL # 89 - Are vegans causing division by advocating for kindness toward animals? (Matthew 10:34-35)](creation-care-church/089-fnl-89-are-vegans-causing-division-by-advocating-for-kindnes.md) · 2023-07-01 *(P)*
+- [FNL # 91 - Are we treating animals how we want to be treated? (Matthew 7:12)](creation-care-church/091-fnl-91-are-we-treating-animals-how-we-want-to-be-treated-mat.md) · 2023-07-15 *(P)*
+- [FNL # 95 - Balaam's Donkey (Numbers 22:21-29)](creation-care-church/095-fnl-95-balaams-donkey-numbers-22-21-29.md) · 2023-08-19
+- [FNL # 96 - My  kingdom is not of this world. (John 18:36)](creation-care-church/096-fnl-96-my-kingdom-is-not-of-this-world-john-18-36.md) · 2023-08-26 *(P)*
+- [FNL # 97 - Is a vegan awakening happening in the church? (Romans 13:11)](creation-care-church/097-fnl-97-is-a-vegan-awakening-happening-in-the-church-romans-1.md) · 2023-09-02 *(P)*
+- [FNL # 99 - The 4 Woes Declared by Jesus (Luke 6:24-26)](creation-care-church/099-fnl-99-the-4-woes-declared-by-jesus-luke-6-24-26.md) · 2023-09-16 *(P)*
+- [FNL # 100 - How to Pray for Animals (Matthew 6:9)](creation-care-church/100-fnl-100-how-to-pray-for-animals-matthew-6-9.md) · 2023-09-23 *(P)*
+- [FNL # 101 - You will know a tree by its fruit (Matthew 7:16)](creation-care-church/101-fnl-101-you-will-know-a-tree-by-its-fruit-matthew-7-16.md) · 2023-09-30 *(P)*
+- [FNL # 102: Do you have the Kingdom of God in you? (Luke 17:21)](creation-care-church/102-fnl-102-do-you-have-the-kingdom-of-god-in-you-luke-17-21.md) · 2023-10-07 *(P)*
+- [FNL # 103 - Overcoming Despair and Misanthropy (Hebrews 11:1)](creation-care-church/103-fnl-103-overcoming-despair-and-misanthropy-hebrews-11-1.md) · 2023-10-14 *(P)*
+- [FNL # 105 - Are we underestimating the love of Christ? (Ephesians 3:18)](creation-care-church/105-fnl-105-are-we-underestimating-the-love-of-christ-ephesians.md) · 2023-10-28 *(P)*
+- [FNL # 108 - Ask the Animals (Job 12:7)](creation-care-church/108-fnl-108-ask-the-animals-job-12-7.md) · 2023-11-18 *(P)*
+- [FNL # 110 - The Beatitudes (Matthew 5:1-12)](creation-care-church/110-fnl-110-the-beatitudes-matthew-5-1-12.md) · 2023-12-02 *(P)*
+- [FNL # 111 - How can we be the light of the world for people and animals? (Matthew 5:14-16)](creation-care-church/111-fnl-111-how-can-we-be-the-light-of-the-world-for-people-and.md) · 2023-12-09 *(P)*
+- [FNL # 112 - Do not Grow Weary of Doing Good (Galatians 6:9)](creation-care-church/112-fnl-112-do-not-grow-weary-of-doing-good-galatians-6-9.md) · 2023-12-16 *(P)*
+- [FNL # 113 - Who is Jesus? (John 8:58)](creation-care-church/113-fnl-113-who-is-jesus-john-8-58.md) · 2023-12-23
+- [FNL # 115 - Was there Cuddling in the Garden of Eden? (Ecc. 4:11)](creation-care-church/115-fnl-115-was-there-cuddling-in-the-garden-of-eden-ecc-4-11.md) · 2024-01-06
+- [FNL # 117 - Are you seeking God with all your heart? (Jeremiah 29:13)](creation-care-church/117-fnl-117-are-you-seeking-god-with-all-your-heart-jeremiah-29.md) · 2024-01-20 *(P)*
+- [FNL # 118 - On Earth as it is in Heaven (Matthew 6:10)](creation-care-church/118-fnl-118-on-earth-as-it-is-in-heaven-matthew-6-10.md) · 2024-01-27 *(P)*
+- [What is Dominion in God's Image and Likeness?](vegan-school/046-what-is-dominion-in-gods-image-and-likeness.md) · 2024-01-31
+- [FNL # 119 - When Will Bow and Sword Be Abolished? (Hosea 2:18)](creation-care-church/119-fnl-119-when-will-bow-and-sword-be-abolished-hosea-2-18.md) · 2024-02-03 *(P)*
+- [FNL # 121 - The Armor of God (Ephesians 6:11-18)](creation-care-church/121-fnl-121-the-armor-of-god-ephesians-6-11-18.md) · 2024-02-17 *(P)*
+- [FNL # 122 -  God remembers the animals, and so should we! (Gen. 8:1)](creation-care-church/122-fnl-122-god-remembers-the-animals-and-so-should-we-gen-8-1.md) · 2024-02-24
+- [How did nature get the way it is if predation wasn’t God’s design?](vegan-school/047-how-did-nature-get-the-way-it-is-if-predation-wasnt-gods-des.md) · 2024-02-28 *(P)*
+- [Moving Mountains](vegan-school/088-moving-mountains.md) · 2024-02-29
+- [FNL # 123 - Building Church Community (1 Thess. 5:11)](creation-care-church/123-fnl-123-building-church-community-1-thess-5-11.md) · 2024-03-02 *(P)*
+- [FNL #126 - The Right Hand of Fellowship](creation-care-church/128-fnl-126-the-right-hand-of-fellowship.md) · 2024-03-23 *(P)*
+- [FNL # 133 - "You Must Become Like a Child to Enter the Kingdom" (Matthew 18:3)](creation-care-church/136-fnl-133-you-must-become-like-a-child-to-enter-the-kingdom-ma.md) · 2024-05-11 *(P)*
+- [FNL # 135 - Create in Me a Clean Heart (Psalm 51:10)](creation-care-church/138-fnl-135-create-in-me-a-clean-heart-psalm-51-10.md) · 2024-05-25
+- [FNL # 136 - The Wedding Banquet (Luke 14:15-24)](creation-care-church/139-fnl-136-the-wedding-banquet-luke-14-15-24.md) · 2024-06-08 *(P)*
+- [FNL # 137 - Clement and the Clementine Homilies (Philippians 4:2-3)](creation-care-church/140-fnl-137-clement-and-the-clementine-homilies-philippians-4-2.md) · 2024-06-15
+- [Is it more Christlike to defend animals or to defend people’s freedom to hurt animals?](vegan-school/053-is-it-more-christlike-to-defend-animals-or-to-defend-peoples.md) · 2024-07-24 *(P)*
+- [FNL #143 - Does God answer the prayers of animals? (Psalm 147:9)](creation-care-church/146-fnl-143-does-god-answer-the-prayers-of-animals-psalm-147-9.md) · 2024-08-24 *(P)*
+- [Should we wait until Jesus returns or should we prepare for the kingdom now? (Class #8)](vegan-school/054-should-we-wait-until-jesus-returns-or-should-we-prepare-for.md) · 2024-08-28 *(P)*
+- [FNL #145 - Do you love mercy? (MICAH 6:8)](creation-care-church/148-fnl-145-do-you-love-mercy-micah-6-8.md) · 2024-09-21
+- [FNL #146 - Special Blessing of the Animals Service](creation-care-church/149-fnl-146-special-blessing-of-the-animals-service.md) · 2024-10-05
+- [Do animals have a soul? [Vegan Christian Discipleship School #9]](vegan-school/055-do-animals-have-a-soul-vegan-christian-discipleship-school-9.md) · 2024-10-22 *(P)*
+- [FNL #148 - Every creature will praise God! (REVELATION 5:13)](creation-care-church/151-fnl-148-every-creature-will-praise-god-revelation-5-13.md) · 2024-11-02
+- [FNL #151 - The Greatness of God (1 Chronicles 29:11)](creation-care-church/154-fnl-151-the-greatness-of-god-1-chronicles-29-11.md) · 2024-12-14 *(P)*
+- [FNL #153 - The Seventh Day of Creation](creation-care-church/156-fnl-153-the-seventh-day-of-creation.md) · 2025-01-04
+- [FNL #154 - Are we reaping the violence we sow toward animals?](creation-care-church/157-fnl-154-are-we-reaping-the-violence-we-sow-toward-animals.md) · 2025-01-18 *(P)*
+- [FNL #156 - Are humans the reason animals live in fear?](creation-care-church/159-fnl-156-are-humans-the-reason-animals-live-in-fear.md) · 2025-02-15
+- [FNL #157 - Repent from Animal Cruelty!](creation-care-church/160-fnl-157-repent-from-animal-cruelty.md) · 2025-03-01 *(P)*
+- [What Does a 'Land Flowing with Milk and Honey' Actually Mean?](vegan-school/058-what-does-a-land-flowing-with-milk-and-honey-actually-mean.md) · 2025-03-04
+- [Why are Christians Ignoring Creation Care?](vegan-school/063-why-are-christians-ignoring-creation-care.md) · 2025-05-28 *(P)*
+- [FNL #164 – Pentecost and the Peaceable Kingdom](creation-care-church/167-fnl-164-pentecost-and-the-peaceable-kingdom.md) · 2025-06-07 *(P)*
+- [FNL #165 – Is the church speeding the kingdom of God?](creation-care-church/168-fnl-165-is-the-church-speeding-the-kingdom-of-god.md) · 2025-06-21 *(P)*
+- [FNL #166 – Experiencing God's Presence](creation-care-church/169-fnl-166-experiencing-gods-presence.md) · 2025-07-05
+- [FNL # 172 – There will be no more tears!](creation-care-church/174-fnl-172-there-will-be-no-more-tears.md) · 2025-09-27 *(P)*
+- [FNL # 174 – Are You Serving God’s Kingdom?](creation-care-church/176-fnl-174-are-you-serving-gods-kingdom.md) · 2025-10-25
+- [FNL # 178 – Reclaiming Your True Identity](creation-care-church/180-fnl-178-reclaiming-your-true-identity.md) · 2025-12-20 *(P)*
+- [FNL # 179 – Are You a Friend of God?](creation-care-church/181-fnl-179-are-you-a-friend-of-god.md) · 2026-01-03
+- [Jesus' Radical Compassion for Animals Explained by Pastors](vegan-school/074-jesus-radical-compassion-for-animals-explained-by-pastors.md) · 2026-02-13
+- [Why in Acts 10 did God tell Peter, Arise Kill and Eat?](vegan-school/075-why-in-acts-10-did-god-tell-peter-arise-kill-and-eat.md) · 2026-02-25 *(P)*
+- [FNL # 183 – Are You Listening to the Prophets?](creation-care-church/184-fnl-183-are-you-listening-to-the-prophets.md) · 2026-03-07
+- [FNL # 184 – How to Receive Abundant Blessings this Year](creation-care-church/185-fnl-184-how-to-receive-abundant-blessings-this-year.md) · 2026-03-21 *(P)*
+- [How does one overcome the temptation to consume products of animal cruelty?](vegan-school/076-how-does-one-overcome-the-temptation-to-consume-products-of.md) · 2026-04-01 *(P)*
+- [FNL # 185 – Good Friday Talk](creation-care-church/186-fnl-185-good-friday-talk.md) · 2026-04-04 *(P)*
+- [FNL # 186 - Who is a Child of Peace?](creation-care-church/187-fnl-186-who-is-a-child-of-peace.md) · 2026-04-18
+- [FNL # 189 – Is it Blaspheming the Holy Spirit to Speak Against Veganism?](creation-care-church/190-fnl-189-is-it-blaspheming-the-holy-spirit-to-speak-against-v.md) · 2026-06-06
+- [Thou Shalt Not Kill: Does it Apply to Animals?](vegan-school/077-thou-shalt-not-kill-does-it-apply-to-animals.md) · 2026-06-21
+- [Is Creation Care Relevant to the Gospel?](vegan-school/079-is-creation-care-relevant-to-the-gospel.md) · 2026-06-25 *(P)*
+- [FNL #191 – Did Jesus Ride a Donkey into Jerusalem? If so, why?](creation-care-church/192-fnl-191-did-jesus-ride-a-donkey-into-jerusalem-if-so-why.md) · 2026-07-04
+- [Are You Following the Way, The Truth, and the Life?](vegan-school/080-are-you-following-the-way-the-truth-and-the-life.md) · 2026-07-19
+- [FNL #193 – Heaven is Vegan](creation-care-church/194-fnl-193-heaven-is-vegan.md) · 2026-08-08
+- [Can Animals Give and Receive Love? A Biblical Response to Objections to Veganism](vegan-school/082-can-animals-give-and-receive-love-a-biblical-response-to-obj.md) · 2026-08-28
+- [Proof John 21 is Not Authentic! A Historical Analysis](bible-origin/009-proof-john-21-is-not-authentic-a-historical-analysis.md) · 2026-09-22
+
+### torah (125)
+
+- [Genesis 1 Explanation Bible Commentary](vegan-school/004-genesis-1-explanation-bible-commentary.md) · 2018-01-03 *(P)*
+- [Does the commandment DO NOT KILL include animals?](vegan-school/006-does-the-commandment-do-not-kill-include-animals.md) · 2018-12-13
+- [Explaining The Lord's Prayer](vegan-school/007-explaining-the-lords-prayer.md) · 2018-12-18
+- [Bible Trivia Question: God's Response to Noah](vegan-school/010-bible-trivia-question-gods-response-to-noah.md) · 2018-12-24
+- [Hey Vegans, God Gave Us Dominion Over Animals!](vegan-school/018-hey-vegans-god-gave-us-dominion-over-animals.md) · 2019-05-26
+- [Did God Give Permission to Eat Animals?](vegan-school/020-did-god-give-permission-to-eat-animals.md) · 2019-06-05 *(P)*
+- [KICKED OUT OF CHURCH FOR ASKING IF GOD LOVES ANIMALS!?!?](vegan-school/023-kicked-out-of-church-for-asking-if-god-loves-animals.md) · 2019-07-10
+- [BIG JOE TELLS CHRISTIANS TO GO VEGAN!!](vegan-school/024-big-joe-tells-christians-to-go-vegan.md) · 2019-07-23
+- [DOES GOD WANT US TO KILL AND EAT ANIMALS?](vegan-school/026-does-god-want-us-to-kill-and-eat-animals.md) · 2019-07-26
+- [CHRISTIAN TALKS TO YOGI MASTER ABOUT VEGANISM](vegan-school/027-christian-talks-to-yogi-master-about-veganism.md) · 2019-08-01 *(P)*
+- [VEGANS PREACHING LOVE FOR ALL GOD’S CREATURES TO CHRISTIANS!!](vegan-school/032-vegans-preaching-love-for-all-gods-creatures-to-christians.md) · 2019-10-29 *(P)*
+- [WHAT DOES GOD DO TO PEOPLE WHO CRAVE MEAT?](vegan-school/035-what-does-god-do-to-people-who-crave-meat.md) · 2020-09-06
+- [WHY DECEPTION RULES THE WORLD](vegan-school/036-why-deception-rules-the-world.md) · 2020-09-13
+- [WHY DECEPTION RULES THE WORLD](vegan-school/038-why-deception-rules-the-world.md) · 2020-09-14
+- [DID JESUS DECLARE ALL FOODS CLEAN?](vegan-school/043-did-jesus-declare-all-foods-clean.md) · 2020-11-16 *(P)*
+- [WHY DID GOD DISTINGUISH BETWEEN CLEAN AND UNCLEAN ANIMALS?](vegan-school/045-why-did-god-distinguish-between-clean-and-unclean-animals.md) · 2021-05-20
+- [Friday Night Live #2 – What does the Bible say about hunters and the practice of hunting?](creation-care-church/002-friday-night-live-2-what-does-the-bible-say-about-hunters-an.md) · 2021-08-30
+- [Friday Night Live #3 - Dominion](creation-care-church/003-friday-night-live-3-dominion.md) · 2021-09-07 *(P)*
+- [Friday Night Live #6 - Do animals have a soul?](creation-care-church/006-friday-night-live-6-do-animals-have-a-soul.md) · 2021-09-25 *(P)*
+- [Friday Night Live #7 - Did God change His mind about animals after the flood?](creation-care-church/007-friday-night-live-7-did-god-change-his-mind-about-animals-af.md) · 2021-10-02
+- [Friday Night Live #8 - Why did God instruct animal sacrifices?](creation-care-church/008-friday-night-live-8-why-did-god-instruct-animal-sacrifices.md) · 2021-10-09 *(P)*
+- [Friday Night Live #11 - Why in Numbers 11 does God say to eat as much meat as you desire?](creation-care-church/010-friday-night-live-11-why-in-numbers-11-does-god-say-to-eat-a.md) · 2021-11-01 *(P)*
+- [Friday Night Live #12 - What does it mean for a land to be flowing with milk and honey?](creation-care-church/011-friday-night-live-12-what-does-it-mean-for-a-land-to-be-flow.md) · 2021-11-06
+- [Friday Night Live #14 - Did Jesus declare all foods clean?](creation-care-church/013-friday-night-live-14-did-jesus-declare-all-foods-clean.md) · 2021-11-20
+- [Friday Night Live #15 - Were animals created to be eaten with thanks?](creation-care-church/014-friday-night-live-15-were-animals-created-to-be-eaten-with-t.md) · 2021-11-27 *(P)*
+- [Friday Night Live #16 - Why in Acts 10 did God tell Peter “Arise, Peter, kill and eat!”](creation-care-church/015-friday-night-live-16-why-in-acts-10-did-god-tell-peter-arise.md) · 2021-12-04 *(P)*
+- [Friday Night Live #18 - Why did God favor Abel’s gift but not Cain’s?](creation-care-church/017-friday-night-live-18-why-did-god-favor-abels-gift-but-not-ca.md) · 2021-12-18
+- [Friday Night Live #21 - Did God kill an animal when clothing Adam and Eve?](creation-care-church/021-friday-night-live-21-did-god-kill-an-animal-when-clothing-ad.md) · 2022-01-22 *(P)*
+- [FNL #22 - Why does Paul say to eat whatever is sold without raising questions of conscience?](creation-care-church/023-fnl-22-why-does-paul-say-to-eat-whatever-is-sold-without-rai.md) · 2022-01-29 *(P)*
+- [Friday Night Live #24 - Is Veganism Idolatry?](creation-care-church/025-friday-night-live-24-is-veganism-idolatry.md) · 2022-02-12 *(P)*
+- [Friday Night Live #27 - Are God’s promises only for humans?](creation-care-church/028-friday-night-live-27-are-gods-promises-only-for-humans.md) · 2022-03-05
+- [Friday Night Live #28 - Is it a sin to eat animals?](creation-care-church/029-friday-night-live-28-is-it-a-sin-to-eat-animals.md) · 2022-03-12 *(P)*
+- [Friday Night Live #32 - Did Jesus eat lamb?](creation-care-church/033-friday-night-live-32-did-jesus-eat-lamb.md) · 2022-04-09 *(P)*
+- [Friday Night Live #34 - Was God pleased by the aroma of burnt offerings?](creation-care-church/035-friday-night-live-34-was-god-pleased-by-the-aroma-of-burnt-o.md) · 2022-04-23 *(P)*
+- [Friday Night Live #36 - What was the purpose of distinguishing between clean and unclean animals?](creation-care-church/037-friday-night-live-36-what-was-the-purpose-of-distinguishing.md) · 2022-05-07
+- [Friday Night Live #40 - What are God’s appointed times (Moedim)?](creation-care-church/041-friday-night-live-40-what-are-gods-appointed-times-moedim.md) · 2022-06-04 *(P)*
+- [Friday Night Live #41 - What does it mean for God to command or instruct?](creation-care-church/042-friday-night-live-41-what-does-it-mean-for-god-to-command-or.md) · 2022-06-11 *(P)*
+- [Friday Night Live #42 - Genesis 1: God’s very good design](creation-care-church/043-friday-night-live-42-genesis-1-gods-very-good-design.md) · 2022-06-18
+- [Friday Night Live #43 - What is the Law of Christ?](creation-care-church/044-friday-night-live-43-what-is-the-law-of-christ.md) · 2022-06-25 *(P)*
+- [Friday Night Live #44 - Genesis 2: Life in the Garden](creation-care-church/045-friday-night-live-44-genesis-2-life-in-the-garden.md) · 2022-07-05
+- [Friday Night Live #49 - Drinking from the Rock of Christ.](creation-care-church/049-friday-night-live-49-drinking-from-the-rock-of-christ.md) · 2022-08-06 *(P)*
+- [Friday Night Live #51 - Grace and Truth Through Jesus Christ](creation-care-church/051-friday-night-live-51-grace-and-truth-through-jesus-christ.md) · 2022-08-21 *(P)*
+- [FNL # 54 - Love Your Neighbor](creation-care-church/054-fnl-54-love-your-neighbor.md) · 2022-09-10 *(P)*
+- [FNL # 55 - God can change hearts](creation-care-church/055-fnl-55-god-can-change-hearts.md) · 2022-09-17 *(P)*
+- [FNL # 57 - Jesus Fulfills the Fall Moedim](creation-care-church/057-fnl-57-jesus-fulfills-the-fall-moedim.md) · 2022-10-01 *(P)*
+- [FNL # 60 - Looking ahead to the heavenly reward](creation-care-church/060-fnl-60-looking-ahead-to-the-heavenly-reward.md) · 2022-10-29 *(P)*
+- [FNL # 61 - Should our eternal perspective include animals?](creation-care-church/061-fnl-61-should-our-eternal-perspective-include-animals.md) · 2022-11-05 *(P)*
+- [FNL # 63 - Are humans superior to animals?](creation-care-church/063-fnl-63-are-humans-superior-to-animals.md) · 2022-12-03
+- [FNL # 68 - Proverbs 31:8 – Be A Voice For The Voiceless](creation-care-church/068-fnl-68-proverbs-31-8-be-a-voice-for-the-voiceless.md) · 2023-01-07 *(P)*
+- [FNL # 74- Clothe yourself with compassion (Colossians 3:12)](creation-care-church/074-fnl-74-clothe-yourself-with-compassion-colossians-3-12.md) · 2023-02-25 *(P)*
+- [FNL # 75 - Bearing the fruit of the spirit toward animals (Galatians 5:22-23)](creation-care-church/075-fnl-75-bearing-the-fruit-of-the-spirit-toward-animals-galati.md) · 2023-03-04 *(P)*
+- [FNL # 76 - Are we being a thief or a good shepherd toward animals? (John 10:10-11)](creation-care-church/076-fnl-76-are-we-being-a-thief-or-a-good-shepherd-toward-animal.md) · 2023-03-11 *(P)*
+- [FNL # 81 - Are you walking in love? (Romans 14:15)](creation-care-church/081-fnl-81-are-you-walking-in-love-romans-14-15.md) · 2023-04-22 *(P)*
+- [FNL # 85 - Multiplying Loaves of Compassion (John 6)](creation-care-church/085-fnl-85-multiplying-loaves-of-compassion-john-6.md) · 2023-05-27
+- [FNL # 86 - Thou Shalt Not Kill (Exodus 20:13)](creation-care-church/086-fnl-86-thou-shalt-not-kill-exodus-20-13.md) · 2023-06-03
+- [FNL # 91 - Are we treating animals how we want to be treated? (Matthew 7:12)](creation-care-church/091-fnl-91-are-we-treating-animals-how-we-want-to-be-treated-mat.md) · 2023-07-15 *(P)*
+- [FNL # 92 - Shedding Innocent Blood (Isaiah 1:15-16)](creation-care-church/092-fnl-92-shedding-innocent-blood-isaiah-1-15-16.md) · 2023-07-22
+- [FNL # 95 - Balaam's Donkey (Numbers 22:21-29)](creation-care-church/095-fnl-95-balaams-donkey-numbers-22-21-29.md) · 2023-08-19
+- [FNL # 100 - How to Pray for Animals (Matthew 6:9)](creation-care-church/100-fnl-100-how-to-pray-for-animals-matthew-6-9.md) · 2023-09-23 *(P)*
+- [FNL # 101 - You will know a tree by its fruit (Matthew 7:16)](creation-care-church/101-fnl-101-you-will-know-a-tree-by-its-fruit-matthew-7-16.md) · 2023-09-30 *(P)*
+- [FNL # 105 - Are we underestimating the love of Christ? (Ephesians 3:18)](creation-care-church/105-fnl-105-are-we-underestimating-the-love-of-christ-ephesians.md) · 2023-10-28 *(P)*
+- [FNL # 107 - Are you coveting products of animal cruelty? (Exodus 20:7)](creation-care-church/107-fnl-107-are-you-coveting-products-of-animal-cruelty-exodus-2.md) · 2023-11-11 *(P)*
+- [FNL # 109 - Discerning Between True and Counterfeit Unity with God (John 17:23)](creation-care-church/109-fnl-109-discerning-between-true-and-counterfeit-unity-with-g.md) · 2023-11-25 *(P)*
+- [FNL # 111 - How can we be the light of the world for people and animals? (Matthew 5:14-16)](creation-care-church/111-fnl-111-how-can-we-be-the-light-of-the-world-for-people-and.md) · 2023-12-09 *(P)*
+- [FNL # 112 - Do not Grow Weary of Doing Good (Galatians 6:9)](creation-care-church/112-fnl-112-do-not-grow-weary-of-doing-good-galatians-6-9.md) · 2023-12-16 *(P)*
+- [FNL # 114 - Shout it from the Rooftops! (Matthew 10:27)](creation-care-church/114-fnl-114-shout-it-from-the-rooftops-matthew-10-27.md) · 2023-12-30 *(P)*
+- [FNL # 116 - Are we Undoing the Heavy Burdens? (Isaiah 58:6)](creation-care-church/116-fnl-116-are-we-undoing-the-heavy-burdens-isaiah-58-6.md) · 2024-01-13 *(P)*
+- [FNL # 117 - Are you seeking God with all your heart? (Jeremiah 29:13)](creation-care-church/117-fnl-117-are-you-seeking-god-with-all-your-heart-jeremiah-29.md) · 2024-01-20 *(P)*
+- [Is the Bible the Inspired, Inerrant, Infallible Word of God?](vegan-school/085-is-the-bible-the-inspired-inerrant-infallible-word-of-god.md) · 2024-02-01
+- [FNL # 120 - Misconceptions About Biblical Veganism (1 Timothy 4:1-4)](creation-care-church/120-fnl-120-misconceptions-about-biblical-veganism-1-timothy-4-1.md) · 2024-02-10 *(P)*
+- [FNL # 122 -  God remembers the animals, and so should we! (Gen. 8:1)](creation-care-church/122-fnl-122-god-remembers-the-animals-and-so-should-we-gen-8-1.md) · 2024-02-24
+- [FNL # 123 - Building Church Community (1 Thess. 5:11)](creation-care-church/123-fnl-123-building-church-community-1-thess-5-11.md) · 2024-03-02 *(P)*
+- [FNL # 124 - Elijah and the Ravens (1 Kings 17:2-6)](creation-care-church/124-fnl-124-elijah-and-the-ravens-1-kings-17-2-6.md) · 2024-03-09
+- [Discerning the Voice of God in Scriptures](vegan-school/090-discerning-the-voice-of-god-in-scriptures.md) · 2024-03-14
+- [Did God change His mind about animals after the flood? (Vegan Christian Discipleship School #3)](vegan-school/049-did-god-change-his-mind-about-animals-after-the-flood-vegan.md) · 2024-04-03
+- [FNL #128 - The Forbidden Fruit (GENESIS 2:17)](creation-care-church/131-fnl-128-the-forbidden-fruit-genesis-2-17.md) · 2024-04-06 *(P)*
+- [Animal Sacrifice - Discipleship School Meeting #4](vegan-school/050-animal-sacrifice-discipleship-school-meeting-4.md) · 2024-04-23
+- [FNL # 133 - "You Must Become Like a Child to Enter the Kingdom" (Matthew 18:3)](creation-care-church/136-fnl-133-you-must-become-like-a-child-to-enter-the-kingdom-ma.md) · 2024-05-11 *(P)*
+- [FNL # 134 - Is Truth for Everyone? (John 14:6)](creation-care-church/137-fnl-134-is-truth-for-everyone-john-14-6.md) · 2024-05-18 *(P)*
+- [Does 1 Timothy 4 suggest vegans are following a demon?](vegan-school/052-does-1-timothy-4-suggest-vegans-are-following-a-demon.md) · 2024-06-26 *(P)*
+- [FNL #139 - The Key of Knowledge (Luke 11:52)](creation-care-church/142-fnl-139-the-key-of-knowledge-luke-11-52.md) · 2024-06-29
+- [FNL #142 - Ten Times Wiser! (Daniel 1:20)](creation-care-church/145-fnl-142-ten-times-wiser-daniel-1-20.md) · 2024-08-17
+- [FNL #145 - Do you love mercy? (MICAH 6:8)](creation-care-church/148-fnl-145-do-you-love-mercy-micah-6-8.md) · 2024-09-21
+- [Do animals have a soul? [Vegan Christian Discipleship School #9]](vegan-school/055-do-animals-have-a-soul-vegan-christian-discipleship-school-9.md) · 2024-10-22 *(P)*
+- [Is it sin to eat animals?](vegan-school/056-is-it-sin-to-eat-animals.md) · 2024-11-27 *(P)*
+- [FNL #150 - Is your body a temple for the Holy Spirit or is it a grave of craving? (1 Cor 6:19)](creation-care-church/153-fnl-150-is-your-body-a-temple-for-the-holy-spirit-or-is-it-a.md) · 2024-11-30 *(P)*
+- [FNL #151 - The Greatness of God (1 Chronicles 29:11)](creation-care-church/154-fnl-151-the-greatness-of-god-1-chronicles-29-11.md) · 2024-12-14 *(P)*
+- [FNL #153 - The Seventh Day of Creation](creation-care-church/156-fnl-153-the-seventh-day-of-creation.md) · 2025-01-04
+- [FNL #155 - What does the Bible say about milk?](creation-care-church/158-fnl-155-what-does-the-bible-say-about-milk.md) · 2025-02-01 *(P)*
+- [What does the Bible say about Hunting? [VCDS#11]](vegan-school/057-what-does-the-bible-say-about-hunting-vcds-11.md) · 2025-02-04
+- [What Does a 'Land Flowing with Milk and Honey' Actually Mean?](vegan-school/058-what-does-a-land-flowing-with-milk-and-honey-actually-mean.md) · 2025-03-04
+- [FNL # 158 - The Good Samaritan](creation-care-church/161-fnl-158-the-good-samaritan.md) · 2025-03-15
+- [Did Jesus declare all foods clean?](vegan-school/059-did-jesus-declare-all-foods-clean.md) · 2025-03-26
+- [FNL #160 - Jesus Disrupting the Temple](creation-care-church/163-fnl-160-jesus-disrupting-the-temple.md) · 2025-04-12
+- [Will God ever bring back the temple practice of animal sacrifice?](vegan-school/060-will-god-ever-bring-back-the-temple-practice-of-animal-sacri.md) · 2025-04-23
+- [FNL #161 - Living by Faith](creation-care-church/164-fnl-161-living-by-faith.md) · 2025-04-26 *(P)*
+- [FNL #164 – Pentecost and the Peaceable Kingdom](creation-care-church/167-fnl-164-pentecost-and-the-peaceable-kingdom.md) · 2025-06-07 *(P)*
+- [FNL #167 – Are you searching the scriptures for life or for death?](creation-care-church/170-fnl-167-are-you-searching-the-scriptures-for-life-or-for-dea.md) · 2025-07-19 *(P)*
+- [FNL #168 – Good in the Bible](creation-care-church/171-fnl-168-good-in-the-bible.md) · 2025-08-02 *(P)*
+- [Can You Be Vegan and Follow the Bible?](vegan-school/065-can-you-be-vegan-and-follow-the-bible.md) · 2025-09-05 *(P)*
+- [Did God create animals to be eaten as food?](vegan-school/066-did-god-create-animals-to-be-eaten-as-food.md) · 2025-09-23
+- [FNL # 173 – The Importance of Community](creation-care-church/175-fnl-173-the-importance-of-community.md) · 2025-10-11 *(P)*
+- [Was God pleased by the aroma of burnt offerings?](vegan-school/067-was-god-pleased-by-the-aroma-of-burnt-offerings.md) · 2025-10-28 *(P)*
+- [FNL # 175 – Casting Out Demons](creation-care-church/177-fnl-175-casting-out-demons.md) · 2025-11-08 *(P)*
+- [FNL # 176 – Are You Believing Righteously?](creation-care-church/178-fnl-176-are-you-believing-righteously.md) · 2025-11-22 *(P)*
+- [Why in the Torah does God say to eat as much meat as you desire?](vegan-school/068-why-in-the-torah-does-god-say-to-eat-as-much-meat-as-you-des.md) · 2025-11-26 *(P)*
+- [Understanding the Purpose of Jesus' Sacrifice: A Deep Dive into Theology](vegan-school/069-understanding-the-purpose-of-jesus-sacrifice-a-deep-dive-int.md) · 2025-11-29
+- [FNL # 177 - The Greatest Commandment](creation-care-church/179-fnl-177-the-greatest-commandment.md) · 2025-12-06 *(P)*
+- [FNL # 178 – Reclaiming Your True Identity](creation-care-church/180-fnl-178-reclaiming-your-true-identity.md) · 2025-12-20 *(P)*
+- [FNL # 180 – Pastor vs Priest Debate Veganism](creation-care-church/182-fnl-180-pastor-vs-priest-debate-veganism.md) · 2026-01-17 *(P)*
+- [Did Jesus Eat Lamb (at Passover)?](vegan-school/073-did-jesus-eat-lamb-at-passover.md) · 2026-01-29
+- [Why in Acts 10 did God tell Peter, Arise Kill and Eat?](vegan-school/075-why-in-acts-10-did-god-tell-peter-arise-kill-and-eat.md) · 2026-02-25 *(P)*
+- [FNL # 188 – You must NEVER eat any flesh or blood!](creation-care-church/189-fnl-188-you-must-never-eat-any-flesh-or-blood.md) · 2026-05-16
+- [FNL # 189 – Is it Blaspheming the Holy Spirit to Speak Against Veganism?](creation-care-church/190-fnl-189-is-it-blaspheming-the-holy-spirit-to-speak-against-v.md) · 2026-06-06
+- [FNL # 190 – Are you sighing and crying over animal suffering?](creation-care-church/191-fnl-190-are-you-sighing-and-crying-over-animal-suffering.md) · 2026-06-20 *(P)*
+- [Thou Shalt Not Kill: Does it Apply to Animals?](vegan-school/077-thou-shalt-not-kill-does-it-apply-to-animals.md) · 2026-06-21
+- [Misconceptions About Biblical Veganism](vegan-school/078-misconceptions-about-biblical-veganism.md) · 2026-06-24 *(P)*
+- [FNL #192 – Are You Following the Way, the Truth, and the Life?](creation-care-church/193-fnl-192-are-you-following-the-way-the-truth-and-the-life.md) · 2026-07-18 *(P)*
+- [What was the purpose of distinguishing between clean and unclean animals?](vegan-school/081-what-was-the-purpose-of-distinguishing-between-clean-and-unc.md) · 2026-07-30
+- [Did Ezra Rewrite the Torah? Reconsidering JEDP, Jeremiah, and the "Two Torahs"](bible-origin/004-did-ezra-rewrite-the-torah-reconsidering-jedp-jeremiah-and-t.md) · 2026-08-01
+- [FNL #194 – I Will Save My Sheep from their Mouth](creation-care-church/195-fnl-194-i-will-save-my-sheep-from-their-mouth.md) · 2026-08-22 *(P)*
+- [FNL #195 – Did Demons Invent Animal Sacrifice?](creation-care-church/196-fnl-195-did-demons-invent-animal-sacrifice.md) · 2026-09-05
+- [Did Demons Invent Animal Sacrifice?](bible-origin/006-did-demons-invent-animal-sacrifice.md) · 2026-09-06 *(P)*
+- [Why did God favor Abel’s gift but not Cain’s?](vegan-school/083-why-did-god-favor-abels-gift-but-not-cains.md) · 2026-09-24 *(P)*
+- [FNL #197 – The Best FNL Talks of 2026!](creation-care-church/198-fnl-197-the-best-fnl-talks-of-2026.md) · 2026-10-03
+
+### christology (66)
+
+- [Genesis 1 Explanation Bible Commentary](vegan-school/004-genesis-1-explanation-bible-commentary.md) · 2018-01-03 *(P)*
+- [Friday Night Live #3 - Dominion](creation-care-church/003-friday-night-live-3-dominion.md) · 2021-09-07 *(P)*
+- [Friday Night Live #8 - Why did God instruct animal sacrifices?](creation-care-church/008-friday-night-live-8-why-did-god-instruct-animal-sacrifices.md) · 2021-10-09 *(P)*
+- [Friday Night Live #12 - What does it mean for a land to be flowing with milk and honey?](creation-care-church/011-friday-night-live-12-what-does-it-mean-for-a-land-to-be-flow.md) · 2021-11-06
+- [Friday Night Live #17 - Did Jesus cause a herd of pigs to drown?](creation-care-church/016-friday-night-live-17-did-jesus-cause-a-herd-of-pigs-to-drown.md) · 2021-12-11
+- [Friday Night Live #18 - Why did God favor Abel’s gift but not Cain’s?](creation-care-church/017-friday-night-live-18-why-did-god-favor-abels-gift-but-not-ca.md) · 2021-12-18
+- [Friday Night Live #10: Why in Genesis 15 did Abram cut animals in half?](creation-care-church/022-friday-night-live-10-why-in-genesis-15-did-abram-cut-animals.md) · 2022-01-27 *(P)*
+- [Friday Night Live #27 - Are God’s promises only for humans?](creation-care-church/028-friday-night-live-27-are-gods-promises-only-for-humans.md) · 2022-03-05
+- [Friday Night Live #34 - Was God pleased by the aroma of burnt offerings?](creation-care-church/035-friday-night-live-34-was-god-pleased-by-the-aroma-of-burnt-o.md) · 2022-04-23 *(P)*
+- [FNL #37- Is the existence of a good God reconcilable with the existence of human / animal suffering?](creation-care-church/038-fnl-37-is-the-existence-of-a-good-god-reconcilable-with-the.md) · 2022-05-14 *(P)*
+- [Friday Night Live #42 - Genesis 1: God’s very good design](creation-care-church/043-friday-night-live-42-genesis-1-gods-very-good-design.md) · 2022-06-18
+- [Friday Night Live #44 - Genesis 2: Life in the Garden](creation-care-church/045-friday-night-live-44-genesis-2-life-in-the-garden.md) · 2022-07-05
+- [Friday Night Live #47 - I Make Known the End from the Beginning](creation-care-church/047-friday-night-live-47-i-make-known-the-end-from-the-beginning.md) · 2022-07-23 *(P)*
+- [Friday Night Live #48 - Psalm 24: All Belongs to God](creation-care-church/048-friday-night-live-48-psalm-24-all-belongs-to-god.md) · 2022-07-30 *(P)*
+- [Friday Night Live #49 - Drinking from the Rock of Christ.](creation-care-church/049-friday-night-live-49-drinking-from-the-rock-of-christ.md) · 2022-08-06 *(P)*
+- [Friday Night Live #51 - Grace and Truth Through Jesus Christ](creation-care-church/051-friday-night-live-51-grace-and-truth-through-jesus-christ.md) · 2022-08-21 *(P)*
+- [FNL # 56 - Colossians 1:16 – Animals are here with us, not for us](creation-care-church/056-fnl-56-colossians-1-16-animals-are-here-with-us-not-for-us.md) · 2022-09-24 *(P)*
+- [FNL # 58 - Living in the Spirit](creation-care-church/058-fnl-58-living-in-the-spirit.md) · 2022-10-08 *(P)*
+- [FNL # 66 - The Word Became Flesh – John 1:14](creation-care-church/066-fnl-66-the-word-became-flesh-john-1-14.md) · 2022-12-24
+- [FNL # 78 - Jesus, the Lamb Sent to Slaughter (Isaiah 53:7)](creation-care-church/078-fnl-78-jesus-the-lamb-sent-to-slaughter-isaiah-53-7.md) · 2023-03-25 *(P)*
+- [FNL # 95 - Balaam's Donkey (Numbers 22:21-29)](creation-care-church/095-fnl-95-balaams-donkey-numbers-22-21-29.md) · 2023-08-19
+- [FNL # 96 - My  kingdom is not of this world. (John 18:36)](creation-care-church/096-fnl-96-my-kingdom-is-not-of-this-world-john-18-36.md) · 2023-08-26 *(P)*
+- [FNL # 102: Do you have the Kingdom of God in you? (Luke 17:21)](creation-care-church/102-fnl-102-do-you-have-the-kingdom-of-god-in-you-luke-17-21.md) · 2023-10-07 *(P)*
+- [FNL # 109 - Discerning Between True and Counterfeit Unity with God (John 17:23)](creation-care-church/109-fnl-109-discerning-between-true-and-counterfeit-unity-with-g.md) · 2023-11-25 *(P)*
+- [FNL # 111 - How can we be the light of the world for people and animals? (Matthew 5:14-16)](creation-care-church/111-fnl-111-how-can-we-be-the-light-of-the-world-for-people-and.md) · 2023-12-09 *(P)*
+- [FNL # 113 - Who is Jesus? (John 8:58)](creation-care-church/113-fnl-113-who-is-jesus-john-8-58.md) · 2023-12-23
+- [FNL # 117 - Are you seeking God with all your heart? (Jeremiah 29:13)](creation-care-church/117-fnl-117-are-you-seeking-god-with-all-your-heart-jeremiah-29.md) · 2024-01-20 *(P)*
+- [Overview of Church History (1st Millennium)](vegan-school/086-overview-of-church-history-1st-millennium.md) · 2024-02-08
+- [Overview of Church History (2nd Millennium)](vegan-school/087-overview-of-church-history-2nd-millennium.md) · 2024-02-15
+- [FNL # 123 - Building Church Community (1 Thess. 5:11)](creation-care-church/123-fnl-123-building-church-community-1-thess-5-11.md) · 2024-03-02 *(P)*
+- [FNL # 124 - Elijah and the Ravens (1 Kings 17:2-6)](creation-care-church/124-fnl-124-elijah-and-the-ravens-1-kings-17-2-6.md) · 2024-03-09
+- [FNL #130 - Who are the Sons of God? (Job 38:4-7)](creation-care-church/133-fnl-130-who-are-the-sons-of-god-job-38-4-7.md) · 2024-04-20 *(P)*
+- [Animal Sacrifice - Discipleship School Meeting #4](vegan-school/050-animal-sacrifice-discipleship-school-meeting-4.md) · 2024-04-23
+- [FNL # 133 - "You Must Become Like a Child to Enter the Kingdom" (Matthew 18:3)](creation-care-church/136-fnl-133-you-must-become-like-a-child-to-enter-the-kingdom-ma.md) · 2024-05-11 *(P)*
+- [FNL # 134 - Is Truth for Everyone? (John 14:6)](creation-care-church/137-fnl-134-is-truth-for-everyone-john-14-6.md) · 2024-05-18 *(P)*
+- [FNL # 138 - The Prophet Like Moses (Acts 3:22)](creation-care-church/141-fnl-138-the-prophet-like-moses-acts-3-22.md) · 2024-06-22
+- [FNL #142 - Ten Times Wiser! (Daniel 1:20)](creation-care-church/145-fnl-142-ten-times-wiser-daniel-1-20.md) · 2024-08-17
+- [FNL #147 - Be as shrewd as serpents and as innocent as doves (Matthew 10:16)](creation-care-church/150-fnl-147-be-as-shrewd-as-serpents-and-as-innocent-as-doves-ma.md) · 2024-10-19 *(P)*
+- [FNL #148 - Every creature will praise God! (REVELATION 5:13)](creation-care-church/151-fnl-148-every-creature-will-praise-god-revelation-5-13.md) · 2024-11-02
+- [FNL #151 - The Greatness of God (1 Chronicles 29:11)](creation-care-church/154-fnl-151-the-greatness-of-god-1-chronicles-29-11.md) · 2024-12-14 *(P)*
+- [What Does a 'Land Flowing with Milk and Honey' Actually Mean?](vegan-school/058-what-does-a-land-flowing-with-milk-and-honey-actually-mean.md) · 2025-03-04
+- [FNL # 158 - The Good Samaritan](creation-care-church/161-fnl-158-the-good-samaritan.md) · 2025-03-15
+- [Will God ever bring back the temple practice of animal sacrifice?](vegan-school/060-will-god-ever-bring-back-the-temple-practice-of-animal-sacri.md) · 2025-04-23
+- [What’s Inside the Book of Enoch? Find Out Now!](vegan-school/062-whats-inside-the-book-of-enoch-find-out-now.md) · 2025-05-01
+- [FNL #166 – Experiencing God's Presence](creation-care-church/169-fnl-166-experiencing-gods-presence.md) · 2025-07-05
+- [Can God Be Good If Suffering Exists?](vegan-school/064-can-god-be-good-if-suffering-exists.md) · 2025-08-01 *(P)*
+- [FNL #168 – Good in the Bible](creation-care-church/171-fnl-168-good-in-the-bible.md) · 2025-08-02 *(P)*
+- [Was God pleased by the aroma of burnt offerings?](vegan-school/067-was-god-pleased-by-the-aroma-of-burnt-offerings.md) · 2025-10-28 *(P)*
+- [FNL # 176 – Are You Believing Righteously?](creation-care-church/178-fnl-176-are-you-believing-righteously.md) · 2025-11-22 *(P)*
+- [Understanding the Purpose of Jesus' Sacrifice: A Deep Dive into Theology](vegan-school/069-understanding-the-purpose-of-jesus-sacrifice-a-deep-dive-int.md) · 2025-11-29
+- [What Happens When a Vegan Preacher Visits Las Vegas?](vegan-school/071-what-happens-when-a-vegan-preacher-visits-las-vegas.md) · 2025-12-05
+- [FNL # 178 – Reclaiming Your True Identity](creation-care-church/180-fnl-178-reclaiming-your-true-identity.md) · 2025-12-20 *(P)*
+- [Mark 1.1 The Beginning of the Gospel of Jesus Christ](bible-origin/002-mark-1-1-the-beginning-of-the-gospel-of-jesus-christ.md) · 2026-03-04
+- [Mark 1.2-10 John Baptizes Jesus](bible-origin/003-mark-1-2-10-john-baptizes-jesus.md) · 2026-03-04
+- [FNL # 184 – How to Receive Abundant Blessings this Year](creation-care-church/185-fnl-184-how-to-receive-abundant-blessings-this-year.md) · 2026-03-21 *(P)*
+- [FNL # 186 - Who is a Child of Peace?](creation-care-church/187-fnl-186-who-is-a-child-of-peace.md) · 2026-04-18
+- [FNL # 188 – You must NEVER eat any flesh or blood!](creation-care-church/189-fnl-188-you-must-never-eat-any-flesh-or-blood.md) · 2026-05-16
+- [FNL #192 – Are You Following the Way, the Truth, and the Life?](creation-care-church/193-fnl-192-are-you-following-the-way-the-truth-and-the-life.md) · 2026-07-18 *(P)*
+- [Are You Following the Way, The Truth, and the Life?](vegan-school/080-are-you-following-the-way-the-truth-and-the-life.md) · 2026-07-19
+- [FNL #194 – I Will Save My Sheep from their Mouth](creation-care-church/195-fnl-194-i-will-save-my-sheep-from-their-mouth.md) · 2026-08-22 *(P)*
+- [Mark's Antichrist Gospel](bible-origin/005-marks-antichrist-gospel.md) · 2026-08-29
+- [FNL #195 – Did Demons Invent Animal Sacrifice?](creation-care-church/196-fnl-195-did-demons-invent-animal-sacrifice.md) · 2026-09-05
+- [Is Irenaeus’ Simon Magus Actually John’s Jesus?](bible-origin/007-is-irenaeus-simon-magus-actually-johns-jesus.md) · 2026-09-12
+- [Valentinians and the Gospel of John: Heretics or Faithful Preservers?](bible-origin/008-valentinians-and-the-gospel-of-john-heretics-or-faithful-pre.md) · 2026-09-19
+- [FNL #197 – The Best FNL Talks of 2026!](creation-care-church/198-fnl-197-the-best-fnl-talks-of-2026.md) · 2026-10-03
+- [Why Mark’s Gospel is Not What You Think](bible-origin/010-why-marks-gospel-is-not-what-you-think.md) · 2026-10-04
+
+### paul (63)
+
+- [Romans 14: Should we ignore vegans because they have weak faith?](vegan-school/015-romans-14-should-we-ignore-vegans-because-they-have-weak-fai.md) · 2019-04-21 *(P)*
+- [Friday Night Live #3 - Dominion](creation-care-church/003-friday-night-live-3-dominion.md) · 2021-09-07 *(P)*
+- [Friday Night Live #5 - Should we judge those who harm animals?](creation-care-church/005-friday-night-live-5-should-we-judge-those-who-harm-animals.md) · 2021-09-18 *(P)*
+- [Friday Night Live #15 - Were animals created to be eaten with thanks?](creation-care-church/014-friday-night-live-15-were-animals-created-to-be-eaten-with-t.md) · 2021-11-27 *(P)*
+- [Friday Night Live #21 - Did God kill an animal when clothing Adam and Eve?](creation-care-church/021-friday-night-live-21-did-god-kill-an-animal-when-clothing-ad.md) · 2022-01-22 *(P)*
+- [FNL #22 - Why does Paul say to eat whatever is sold without raising questions of conscience?](creation-care-church/023-fnl-22-why-does-paul-say-to-eat-whatever-is-sold-without-rai.md) · 2022-01-29 *(P)*
+- [Friday Night Live #26 - Is Creation Care Relevant to the Gospel?](creation-care-church/027-friday-night-live-26-is-creation-care-relevant-to-the-gospel.md) · 2022-02-26 *(P)*
+- [Friday Night Live #28 - Is it a sin to eat animals?](creation-care-church/029-friday-night-live-28-is-it-a-sin-to-eat-animals.md) · 2022-03-12 *(P)*
+- [Friday Night Live #29 - How does one overcome the temptation to consume products of animal cruelty?](creation-care-church/030-friday-night-live-29-how-does-one-overcome-the-temptation-to.md) · 2022-03-19 *(P)*
+- [FNL #33-  If good works are evidence of salvation, why are we failing to do good works to animals?](creation-care-church/034-fnl-33-if-good-works-are-evidence-of-salvation-why-are-we-fa.md) · 2022-04-16 *(P)*
+- [Friday Night Live #34 - Was God pleased by the aroma of burnt offerings?](creation-care-church/035-friday-night-live-34-was-god-pleased-by-the-aroma-of-burnt-o.md) · 2022-04-23 *(P)*
+- [FNL #37- Is the existence of a good God reconcilable with the existence of human / animal suffering?](creation-care-church/038-fnl-37-is-the-existence-of-a-good-god-reconcilable-with-the.md) · 2022-05-14 *(P)*
+- [Friday Night Live #38 - Does someone have weak faith if they don’t eat animal flesh?](creation-care-church/039-friday-night-live-38-does-someone-have-weak-faith-if-they-do.md) · 2022-05-21 *(P)*
+- [Friday Night Live #40 - What are God’s appointed times (Moedim)?](creation-care-church/041-friday-night-live-40-what-are-gods-appointed-times-moedim.md) · 2022-06-04 *(P)*
+- [Friday Night Live #43 - What is the Law of Christ?](creation-care-church/044-friday-night-live-43-what-is-the-law-of-christ.md) · 2022-06-25 *(P)*
+- [Friday Night Live #46 -  Romans 12:2, be not conformed to the world!](creation-care-church/046-friday-night-live-46-romans-12-2-be-not-conformed-to-the-wor.md) · 2022-07-16 *(P)*
+- [FNL # 53 - Dealing with rejection as a vegan Christian](creation-care-church/053-fnl-53-dealing-with-rejection-as-a-vegan-christian.md) · 2022-09-03 *(P)*
+- [FNL # 54 - Love Your Neighbor](creation-care-church/054-fnl-54-love-your-neighbor.md) · 2022-09-10 *(P)*
+- [FNL # 55 - God can change hearts](creation-care-church/055-fnl-55-god-can-change-hearts.md) · 2022-09-17 *(P)*
+- [FNL # 56 - Colossians 1:16 – Animals are here with us, not for us](creation-care-church/056-fnl-56-colossians-1-16-animals-are-here-with-us-not-for-us.md) · 2022-09-24 *(P)*
+- [FNL # 61 - Should our eternal perspective include animals?](creation-care-church/061-fnl-61-should-our-eternal-perspective-include-animals.md) · 2022-11-05 *(P)*
+- [FNL # 65 - Psalm 34:14 – Seek Peace and Do Good](creation-care-church/065-fnl-65-psalm-34-14-seek-peace-and-do-good.md) · 2022-12-17 *(P)*
+- [FNL # 68 - Proverbs 31:8 – Be A Voice For The Voiceless](creation-care-church/068-fnl-68-proverbs-31-8-be-a-voice-for-the-voiceless.md) · 2023-01-07 *(P)*
+- [FNL # 70 - Christian Vegan Apologetics: How to Give a Defense of Your Hope](creation-care-church/070-fnl-70-christian-vegan-apologetics-how-to-give-a-defense-of.md) · 2023-01-28 *(P)*
+- [FNL # 71 - Humbly pray, seek God, and turn from animal cruelty](creation-care-church/071-fnl-71-humbly-pray-seek-god-and-turn-from-animal-cruelty.md) · 2023-02-04 *(P)*
+- [FNL # 74- Clothe yourself with compassion (Colossians 3:12)](creation-care-church/074-fnl-74-clothe-yourself-with-compassion-colossians-3-12.md) · 2023-02-25 *(P)*
+- [FNL # 81 - Are you walking in love? (Romans 14:15)](creation-care-church/081-fnl-81-are-you-walking-in-love-romans-14-15.md) · 2023-04-22 *(P)*
+- [FNL # 82 - Joyfully Caring for God’s Creation (John 15:11)](creation-care-church/082-fnl-82-joyfully-caring-for-gods-creation-john-15-11.md) · 2023-04-29 *(P)*
+- [FNL # 89 - Are vegans causing division by advocating for kindness toward animals? (Matthew 10:34-35)](creation-care-church/089-fnl-89-are-vegans-causing-division-by-advocating-for-kindnes.md) · 2023-07-01 *(P)*
+- [FNL # 90 - Evidence for Veganism in the Early Church](creation-care-church/090-fnl-90-evidence-for-veganism-in-the-early-church.md) · 2023-07-08 *(P)*
+- [FNL # 109 - Discerning Between True and Counterfeit Unity with God (John 17:23)](creation-care-church/109-fnl-109-discerning-between-true-and-counterfeit-unity-with-g.md) · 2023-11-25 *(P)*
+- [FNL # 120 - Misconceptions About Biblical Veganism (1 Timothy 4:1-4)](creation-care-church/120-fnl-120-misconceptions-about-biblical-veganism-1-timothy-4-1.md) · 2024-02-10 *(P)*
+- [FNL # 121 - The Armor of God (Ephesians 6:11-18)](creation-care-church/121-fnl-121-the-armor-of-god-ephesians-6-11-18.md) · 2024-02-17 *(P)*
+- [FNL # 123 - Building Church Community (1 Thess. 5:11)](creation-care-church/123-fnl-123-building-church-community-1-thess-5-11.md) · 2024-03-02 *(P)*
+- [First and Second Century Christianity](vegan-school/089-first-and-second-century-christianity.md) · 2024-03-07 *(P)*
+- [The Table of Demons (1 Corinthians 10:21) - Part 1](vegan-school/048-the-table-of-demons-1-corinthians-10-21-part-1.md) · 2024-03-17 *(P)*
+- [FNL #126 - The Right Hand of Fellowship](creation-care-church/128-fnl-126-the-right-hand-of-fellowship.md) · 2024-03-23 *(P)*
+- [The Table of Demons (1 Corinthians 10:21) - Part 2](vegan-school/091-the-table-of-demons-1-corinthians-10-21-part-2.md) · 2024-03-24
+- [FNL #127 - The Resurrection (1 Corinthians 15:20)](creation-care-church/129-fnl-127-the-resurrection-1-corinthians-15-20.md) · 2024-03-30 *(P)*
+- [Christspiracy Review](vegan-school/092-christspiracy-review.md) · 2024-03-31
+- [Christspiracy Review](creation-care-church/130-christspiracy-review.md) · 2024-04-01 *(P)*
+- [FNL #129 - Moving Mountains (Mark 11:23-26)](creation-care-church/132-fnl-129-moving-mountains-mark-11-23-26.md) · 2024-04-13 *(P)*
+- [FNL #130 - Who are the Sons of God? (Job 38:4-7)](creation-care-church/133-fnl-130-who-are-the-sons-of-god-job-38-4-7.md) · 2024-04-20 *(P)*
+- [FNL # 131 - 4/26 Understanding Paul (2 Peter 3:15-16)](creation-care-church/134-fnl-131-4-26-understanding-paul-2-peter-3-15-16.md) · 2024-04-27 *(P)*
+- [FNL # 138 - The Prophet Like Moses (Acts 3:22)](creation-care-church/141-fnl-138-the-prophet-like-moses-acts-3-22.md) · 2024-06-22
+- [Does 1 Timothy 4 suggest vegans are following a demon?](vegan-school/052-does-1-timothy-4-suggest-vegans-are-following-a-demon.md) · 2024-06-26 *(P)*
+- [FNL #140 - The Table of Demons (1 Corinthians 10:21)](creation-care-church/143-fnl-140-the-table-of-demons-1-corinthians-10-21.md) · 2024-07-06 *(P)*
+- [FNL #149 - Be not among riotous eaters of flesh! (PROVERBS 23:20)](creation-care-church/152-fnl-149-be-not-among-riotous-eaters-of-flesh-proverbs-23-20.md) · 2024-11-16 *(P)*
+- [Is it sin to eat animals?](vegan-school/056-is-it-sin-to-eat-animals.md) · 2024-11-27 *(P)*
+- [FNL #155 - What does the Bible say about milk?](creation-care-church/158-fnl-155-what-does-the-bible-say-about-milk.md) · 2025-02-01 *(P)*
+- [FNL #161 - Living by Faith](creation-care-church/164-fnl-161-living-by-faith.md) · 2025-04-26 *(P)*
+- [FNL #164 – Pentecost and the Peaceable Kingdom](creation-care-church/167-fnl-164-pentecost-and-the-peaceable-kingdom.md) · 2025-06-07 *(P)*
+- [FNL #165 – Is the church speeding the kingdom of God?](creation-care-church/168-fnl-165-is-the-church-speeding-the-kingdom-of-god.md) · 2025-06-21 *(P)*
+- [Can You Be Vegan and Follow the Bible?](vegan-school/065-can-you-be-vegan-and-follow-the-bible.md) · 2025-09-05 *(P)*
+- [Why in the Torah does God say to eat as much meat as you desire?](vegan-school/068-why-in-the-torah-does-god-say-to-eat-as-much-meat-as-you-des.md) · 2025-11-26 *(P)*
+- [FNL # 181 – God's Love Language](creation-care-church/127-fnl-181-gods-love-language.md) · 2026-02-07 *(P)*
+- [FNL # 182 – Permission & Going the Extra Mile](creation-care-church/183-fnl-182-permission-going-the-extra-mile.md) · 2026-02-21 *(P)*
+- [FNL # 182 – Permission & Going the Extra Mile](vegan-school/093-fnl-182-permission-going-the-extra-mile.md) · 2026-02-21 *(P)*
+- [Why in Acts 10 did God tell Peter, Arise Kill and Eat?](vegan-school/075-why-in-acts-10-did-god-tell-peter-arise-kill-and-eat.md) · 2026-02-25 *(P)*
+- [Misconceptions About Biblical Veganism](vegan-school/078-misconceptions-about-biblical-veganism.md) · 2026-06-24 *(P)*
+- [Jesus Ate Fish? Here's What Ray Comfort Got Wrong](vegan-school/094-jesus-ate-fish-heres-what-ray-comfort-got-wrong.md) · 2026-07-31 *(P)*
+- [Did Demons Invent Animal Sacrifice?](bible-origin/006-did-demons-invent-animal-sacrifice.md) · 2026-09-06 *(P)*
+- [FNL #198 – Are Meat-Eaters Saved?](creation-care-church/199-fnl-198-are-meat-eaters-saved.md) · 2026-10-17 *(P)*
+
+### gospels-canon (47)
+
+- [Friday Night Live #19 - Jesus and fish in the New Testament](creation-care-church/019-friday-night-live-19-jesus-and-fish-in-the-new-testament.md) · 2022-01-08
+- [Friday Night Live #36 - What was the purpose of distinguishing between clean and unclean animals?](creation-care-church/037-friday-night-live-36-what-was-the-purpose-of-distinguishing.md) · 2022-05-07
+- [FNL # 85 - Multiplying Loaves of Compassion (John 6)](creation-care-church/085-fnl-85-multiplying-loaves-of-compassion-john-6.md) · 2023-05-27
+- [FNL # 98 - The Book of Enoch (Jude 1:14-15)](creation-care-church/098-fnl-98-the-book-of-enoch-jude-1-14-15.md) · 2023-09-09
+- [FNL # 114 - Shout it from the Rooftops! (Matthew 10:27)](creation-care-church/114-fnl-114-shout-it-from-the-rooftops-matthew-10-27.md) · 2023-12-30 *(P)*
+- [Is the Bible the Inspired, Inerrant, Infallible Word of God?](vegan-school/085-is-the-bible-the-inspired-inerrant-infallible-word-of-god.md) · 2024-02-01
+- [Overview of Church History (1st Millennium)](vegan-school/086-overview-of-church-history-1st-millennium.md) · 2024-02-08
+- [FNL # 120 - Misconceptions About Biblical Veganism (1 Timothy 4:1-4)](creation-care-church/120-fnl-120-misconceptions-about-biblical-veganism-1-timothy-4-1.md) · 2024-02-10 *(P)*
+- [Overview of Church History (2nd Millennium)](vegan-school/087-overview-of-church-history-2nd-millennium.md) · 2024-02-15
+- [Moving Mountains](vegan-school/088-moving-mountains.md) · 2024-02-29
+- [First and Second Century Christianity](vegan-school/089-first-and-second-century-christianity.md) · 2024-03-07 *(P)*
+- [The Table of Demons (1 Corinthians 10:21) - Part 2](vegan-school/091-the-table-of-demons-1-corinthians-10-21-part-2.md) · 2024-03-24
+- [FNL #129 - Moving Mountains (Mark 11:23-26)](creation-care-church/132-fnl-129-moving-mountains-mark-11-23-26.md) · 2024-04-13 *(P)*
+- [FNL #130 - Who are the Sons of God? (Job 38:4-7)](creation-care-church/133-fnl-130-who-are-the-sons-of-god-job-38-4-7.md) · 2024-04-20 *(P)*
+- [FNL # 131 - 4/26 Understanding Paul (2 Peter 3:15-16)](creation-care-church/134-fnl-131-4-26-understanding-paul-2-peter-3-15-16.md) · 2024-04-27 *(P)*
+- [FNL #132 - The Yoke of the Lord (Matthew 11:29)](creation-care-church/135-fnl-132-the-yoke-of-the-lord-matthew-11-29.md) · 2024-05-04 *(P)*
+- [FNL # 137 - Clement and the Clementine Homilies (Philippians 4:2-3)](creation-care-church/140-fnl-137-clement-and-the-clementine-homilies-philippians-4-2.md) · 2024-06-15
+- [FNL # 138 - The Prophet Like Moses (Acts 3:22)](creation-care-church/141-fnl-138-the-prophet-like-moses-acts-3-22.md) · 2024-06-22
+- [FNL #139 - The Key of Knowledge (Luke 11:52)](creation-care-church/142-fnl-139-the-key-of-knowledge-luke-11-52.md) · 2024-06-29
+- [FNL #141 - Three Years of Friday Night Live Talks](creation-care-church/144-fnl-141-three-years-of-friday-night-live-talks.md) · 2024-07-13
+- [Is it sin to eat animals?](vegan-school/056-is-it-sin-to-eat-animals.md) · 2024-11-27 *(P)*
+- [FNL #152 - The Gospel of James](creation-care-church/155-fnl-152-the-gospel-of-james.md) · 2024-12-28
+- [Did Jesus declare all foods clean?](vegan-school/059-did-jesus-declare-all-foods-clean.md) · 2025-03-26
+- [What is The Book of Enoch? (Should it be in the Bible?)](vegan-school/061-what-is-the-book-of-enoch-should-it-be-in-the-bible.md) · 2025-04-29
+- [What’s Inside the Book of Enoch? Find Out Now!](vegan-school/062-whats-inside-the-book-of-enoch-find-out-now.md) · 2025-05-01
+- [FNL #162 - Enoch's Flood and Fire Prophecy](creation-care-church/165-fnl-162-enochs-flood-and-fire-prophecy.md) · 2025-05-10
+- [Can You Be Vegan and Follow the Bible?](vegan-school/065-can-you-be-vegan-and-follow-the-bible.md) · 2025-09-05 *(P)*
+- [Did God create animals to be eaten as food?](vegan-school/066-did-god-create-animals-to-be-eaten-as-food.md) · 2025-09-23
+- [Understanding the Purpose of Jesus' Sacrifice: A Deep Dive into Theology](vegan-school/069-understanding-the-purpose-of-jesus-sacrifice-a-deep-dive-int.md) · 2025-11-29
+- [FNL # 181 – God's Love Language](creation-care-church/127-fnl-181-gods-love-language.md) · 2026-02-07 *(P)*
+- [The Historical Context of the Gospel of Mark](bible-origin/001-the-historical-context-of-the-gospel-of-mark.md) · 2026-03-03
+- [Mark 1.1 The Beginning of the Gospel of Jesus Christ](bible-origin/002-mark-1-1-the-beginning-of-the-gospel-of-jesus-christ.md) · 2026-03-04
+- [Mark 1.2-10 John Baptizes Jesus](bible-origin/003-mark-1-2-10-john-baptizes-jesus.md) · 2026-03-04
+- [FNL # 185 – Good Friday Talk](creation-care-church/186-fnl-185-good-friday-talk.md) · 2026-04-04 *(P)*
+- [FNL # 189 – Is it Blaspheming the Holy Spirit to Speak Against Veganism?](creation-care-church/190-fnl-189-is-it-blaspheming-the-holy-spirit-to-speak-against-v.md) · 2026-06-06
+- [Misconceptions About Biblical Veganism](vegan-school/078-misconceptions-about-biblical-veganism.md) · 2026-06-24 *(P)*
+- [FNL #191 – Did Jesus Ride a Donkey into Jerusalem? If so, why?](creation-care-church/192-fnl-191-did-jesus-ride-a-donkey-into-jerusalem-if-so-why.md) · 2026-07-04
+- [Did Ezra Rewrite the Torah? Reconsidering JEDP, Jeremiah, and the "Two Torahs"](bible-origin/004-did-ezra-rewrite-the-torah-reconsidering-jedp-jeremiah-and-t.md) · 2026-08-01
+- [FNL #193 – Heaven is Vegan](creation-care-church/194-fnl-193-heaven-is-vegan.md) · 2026-08-08
+- [Mark's Antichrist Gospel](bible-origin/005-marks-antichrist-gospel.md) · 2026-08-29
+- [FNL #195 – Did Demons Invent Animal Sacrifice?](creation-care-church/196-fnl-195-did-demons-invent-animal-sacrifice.md) · 2026-09-05
+- [Is Irenaeus’ Simon Magus Actually John’s Jesus?](bible-origin/007-is-irenaeus-simon-magus-actually-johns-jesus.md) · 2026-09-12
+- [FNL #196 – Did Jesus’ Fish Fry Really Happen?](creation-care-church/197-fnl-196-did-jesus-fish-fry-really-happen.md) · 2026-09-19
+- [Valentinians and the Gospel of John: Heretics or Faithful Preservers?](bible-origin/008-valentinians-and-the-gospel-of-john-heretics-or-faithful-pre.md) · 2026-09-19
+- [Proof John 21 is Not Authentic! A Historical Analysis](bible-origin/009-proof-john-21-is-not-authentic-a-historical-analysis.md) · 2026-09-22
+- [FNL #197 – The Best FNL Talks of 2026!](creation-care-church/198-fnl-197-the-best-fnl-talks-of-2026.md) · 2026-10-03
+- [Why Mark’s Gospel is Not What You Think](bible-origin/010-why-marks-gospel-is-not-what-you-think.md) · 2026-10-04
+
+### resurrection (27)
+
+- [Jonah's Message of Repentance](vegan-school/009-jonahs-message-of-repentance.md) · 2018-12-21
+- [Friday Night Live #4 - Will animals be in heaven?](creation-care-church/004-friday-night-live-4-will-animals-be-in-heaven.md) · 2021-09-11
+- [Friday Night Live #19 - Jesus and fish in the New Testament](creation-care-church/019-friday-night-live-19-jesus-and-fish-in-the-new-testament.md) · 2022-01-08
+- [Friday Night Live #10: Why in Genesis 15 did Abram cut animals in half?](creation-care-church/022-friday-night-live-10-why-in-genesis-15-did-abram-cut-animals.md) · 2022-01-27 *(P)*
+- [Friday Night Live #26 - Is Creation Care Relevant to the Gospel?](creation-care-church/027-friday-night-live-26-is-creation-care-relevant-to-the-gospel.md) · 2022-02-26 *(P)*
+- [FNL #33-  If good works are evidence of salvation, why are we failing to do good works to animals?](creation-care-church/034-fnl-33-if-good-works-are-evidence-of-salvation-why-are-we-fa.md) · 2022-04-16 *(P)*
+- [FNL #37- Is the existence of a good God reconcilable with the existence of human / animal suffering?](creation-care-church/038-fnl-37-is-the-existence-of-a-good-god-reconcilable-with-the.md) · 2022-05-14 *(P)*
+- [FNL #39 - Should we wait until Jesus returns or should we make ourselves ready for the kingdom now?](creation-care-church/040-fnl-39-should-we-wait-until-jesus-returns-or-should-we-make.md) · 2022-05-28 *(P)*
+- [Friday Night Live #40 - What are God’s appointed times (Moedim)?](creation-care-church/041-friday-night-live-40-what-are-gods-appointed-times-moedim.md) · 2022-06-04 *(P)*
+- [Friday Night Live #47 - I Make Known the End from the Beginning](creation-care-church/047-friday-night-live-47-i-make-known-the-end-from-the-beginning.md) · 2022-07-23 *(P)*
+- [FNL # 60 - Looking ahead to the heavenly reward](creation-care-church/060-fnl-60-looking-ahead-to-the-heavenly-reward.md) · 2022-10-29 *(P)*
+- [FNL # 61 - Should our eternal perspective include animals?](creation-care-church/061-fnl-61-should-our-eternal-perspective-include-animals.md) · 2022-11-05 *(P)*
+- [FNL # 66 - The Word Became Flesh – John 1:14](creation-care-church/066-fnl-66-the-word-became-flesh-john-1-14.md) · 2022-12-24
+- [FNL # 70 - Christian Vegan Apologetics: How to Give a Defense of Your Hope](creation-care-church/070-fnl-70-christian-vegan-apologetics-how-to-give-a-defense-of.md) · 2023-01-28 *(P)*
+- [FNL # 71 - Humbly pray, seek God, and turn from animal cruelty](creation-care-church/071-fnl-71-humbly-pray-seek-god-and-turn-from-animal-cruelty.md) · 2023-02-04 *(P)*
+- [FNL # 79 - Will Animals be Resurrected to Eternal Life in God’s Kingdom? (1 Corinthians 15:20)](creation-care-church/079-fnl-79-will-animals-be-resurrected-to-eternal-life-in-gods-k.md) · 2023-04-08 *(P)*
+- [FNL # 84 - Why did God create the Garden of Eden vegan? (Genesis 1:29-30)](creation-care-church/084-fnl-84-why-did-god-create-the-garden-of-eden-vegan-genesis-1.md) · 2023-05-20 *(P)*
+- [FNL # 113 - Who is Jesus? (John 8:58)](creation-care-church/113-fnl-113-who-is-jesus-john-8-58.md) · 2023-12-23
+- [FNL #127 - The Resurrection (1 Corinthians 15:20)](creation-care-church/129-fnl-127-the-resurrection-1-corinthians-15-20.md) · 2024-03-30 *(P)*
+- [What is The Book of Enoch? (Should it be in the Bible?)](vegan-school/061-what-is-the-book-of-enoch-should-it-be-in-the-bible.md) · 2025-04-29
+- [FNL # 172 – There will be no more tears!](creation-care-church/174-fnl-172-there-will-be-no-more-tears.md) · 2025-09-27 *(P)*
+- [FNL # 181 – God's Love Language](creation-care-church/127-fnl-181-gods-love-language.md) · 2026-02-07 *(P)*
+- [FNL # 184 – How to Receive Abundant Blessings this Year](creation-care-church/185-fnl-184-how-to-receive-abundant-blessings-this-year.md) · 2026-03-21 *(P)*
+- [FNL # 185 – Good Friday Talk](creation-care-church/186-fnl-185-good-friday-talk.md) · 2026-04-04 *(P)*
+- [Is Creation Care Relevant to the Gospel?](vegan-school/079-is-creation-care-relevant-to-the-gospel.md) · 2026-06-25 *(P)*
+- [Jesus Ate Fish? Here's What Ray Comfort Got Wrong](vegan-school/094-jesus-ate-fish-heres-what-ray-comfort-got-wrong.md) · 2026-07-31 *(P)*
+- [Is Irenaeus’ Simon Magus Actually John’s Jesus?](bible-origin/007-is-irenaeus-simon-magus-actually-johns-jesus.md) · 2026-09-12
+
+### apocalyptic (26)
+
+- [Faithful and Wise Stewardship](vegan-school/014-faithful-and-wise-stewardship.md) · 2019-02-01
+- [BIG JOE TELLS CHRISTIANS TO GO VEGAN!!](vegan-school/024-big-joe-tells-christians-to-go-vegan.md) · 2019-07-23
+- [Friday Night Live #1: How did nature get the way it is if predation wasn't God's design?](creation-care-church/001-friday-night-live-1-how-did-nature-get-the-way-it-is-if-pred.md) · 2021-08-21 *(P)*
+- [Friday Night Live #9 - Will God bring back the temple practice of animal sacrifices?](creation-care-church/009-friday-night-live-9-will-god-bring-back-the-temple-practice.md) · 2021-10-16 *(P)*
+- [Friday Night Live #13 - What does it mean to be a good steward of the earth?](creation-care-church/012-friday-night-live-13-what-does-it-mean-to-be-a-good-steward.md) · 2021-11-13 *(P)*
+- [Friday Night Live #20 - Are animals capable of giving and receiving love?](creation-care-church/020-friday-night-live-20-are-animals-capable-of-giving-and-recei.md) · 2022-01-15
+- [Friday Night Live #30 - Will animals be judged by God?](creation-care-church/031-friday-night-live-30-will-animals-be-judged-by-god.md) · 2022-03-26 *(P)*
+- [FNL #37- Is the existence of a good God reconcilable with the existence of human / animal suffering?](creation-care-church/038-fnl-37-is-the-existence-of-a-good-god-reconcilable-with-the.md) · 2022-05-14 *(P)*
+- [FNL #39 - Should we wait until Jesus returns or should we make ourselves ready for the kingdom now?](creation-care-church/040-fnl-39-should-we-wait-until-jesus-returns-or-should-we-make.md) · 2022-05-28 *(P)*
+- [Friday Night Live #47 - I Make Known the End from the Beginning](creation-care-church/047-friday-night-live-47-i-make-known-the-end-from-the-beginning.md) · 2022-07-23 *(P)*
+- [FNL # 57 - Jesus Fulfills the Fall Moedim](creation-care-church/057-fnl-57-jesus-fulfills-the-fall-moedim.md) · 2022-10-01 *(P)*
+- [FNL # 83 - How does God feel about those who destroy the earth? (Revelation 11:18)](creation-care-church/083-fnl-83-how-does-god-feel-about-those-who-destroy-the-earth-r.md) · 2023-05-06
+- [FNL # 96 - My  kingdom is not of this world. (John 18:36)](creation-care-church/096-fnl-96-my-kingdom-is-not-of-this-world-john-18-36.md) · 2023-08-26 *(P)*
+- [FNL # 102: Do you have the Kingdom of God in you? (Luke 17:21)](creation-care-church/102-fnl-102-do-you-have-the-kingdom-of-god-in-you-luke-17-21.md) · 2023-10-07 *(P)*
+- [FNL # 103 - Overcoming Despair and Misanthropy (Hebrews 11:1)](creation-care-church/103-fnl-103-overcoming-despair-and-misanthropy-hebrews-11-1.md) · 2023-10-14 *(P)*
+- [FNL # 119 - When Will Bow and Sword Be Abolished? (Hosea 2:18)](creation-care-church/119-fnl-119-when-will-bow-and-sword-be-abolished-hosea-2-18.md) · 2024-02-03 *(P)*
+- [How did nature get the way it is if predation wasn’t God’s design?](vegan-school/047-how-did-nature-get-the-way-it-is-if-predation-wasnt-gods-des.md) · 2024-02-28 *(P)*
+- [Should we wait until Jesus returns or should we prepare for the kingdom now? (Class #8)](vegan-school/054-should-we-wait-until-jesus-returns-or-should-we-prepare-for.md) · 2024-08-28 *(P)*
+- [What is The Book of Enoch? (Should it be in the Bible?)](vegan-school/061-what-is-the-book-of-enoch-should-it-be-in-the-bible.md) · 2025-04-29
+- [What’s Inside the Book of Enoch? Find Out Now!](vegan-school/062-whats-inside-the-book-of-enoch-find-out-now.md) · 2025-05-01
+- [FNL #162 - Enoch's Flood and Fire Prophecy](creation-care-church/165-fnl-162-enochs-flood-and-fire-prophecy.md) · 2025-05-10
+- [FNL #166 – Experiencing God's Presence](creation-care-church/169-fnl-166-experiencing-gods-presence.md) · 2025-07-05
+- [Can God Be Good If Suffering Exists?](vegan-school/064-can-god-be-good-if-suffering-exists.md) · 2025-08-01 *(P)*
+- [FNL # 186 - Who is a Child of Peace?](creation-care-church/187-fnl-186-who-is-a-child-of-peace.md) · 2026-04-18
+- [FNL # 190 – Are you sighing and crying over animal suffering?](creation-care-church/191-fnl-190-are-you-sighing-and-crying-over-animal-suffering.md) · 2026-06-20 *(P)*
+- [AI Ethics and Dominion Over Animals with Jonnah Popek](vegan-school/084-ai-ethics-and-dominion-over-animals-with-jonnah-popek.md) · 2026-10-21
+
+### afterlife-hell (26)
+
+- [Should we Judge those who Harm Animals?](vegan-school/001-should-we-judge-those-who-harm-animals.md) · 2017-08-20
+- [Will Animals be in Heaven?](vegan-school/019-will-animals-be-in-heaven.md) · 2019-05-26
+- [BIG JOE TELLS CHRISTIANS TO GO VEGAN!!](vegan-school/024-big-joe-tells-christians-to-go-vegan.md) · 2019-07-23
+- [DOES GOD WANT US TO KILL AND EAT ANIMALS?](vegan-school/026-does-god-want-us-to-kill-and-eat-animals.md) · 2019-07-26
+- [THE ONE THING THAT CANNOT BE FORGIVEN!!](vegan-school/042-the-one-thing-that-cannot-be-forgiven.md) · 2020-10-28
+- [Friday Night Live #4 - Will animals be in heaven?](creation-care-church/004-friday-night-live-4-will-animals-be-in-heaven.md) · 2021-09-11
+- [Friday Night Live #6 - Do animals have a soul?](creation-care-church/006-friday-night-live-6-do-animals-have-a-soul.md) · 2021-09-25 *(P)*
+- [Friday Night Live #17 - Did Jesus cause a herd of pigs to drown?](creation-care-church/016-friday-night-live-17-did-jesus-cause-a-herd-of-pigs-to-drown.md) · 2021-12-11
+- [A Tribute To Timothy](creation-care-church/018-a-tribute-to-timothy.md) · 2022-01-01
+- [Friday Night Live #30 - Will animals be judged by God?](creation-care-church/031-friday-night-live-30-will-animals-be-judged-by-god.md) · 2022-03-26 *(P)*
+- [FNL #33-  If good works are evidence of salvation, why are we failing to do good works to animals?](creation-care-church/034-fnl-33-if-good-works-are-evidence-of-salvation-why-are-we-fa.md) · 2022-04-16 *(P)*
+- [FNL # 60 - Looking ahead to the heavenly reward](creation-care-church/060-fnl-60-looking-ahead-to-the-heavenly-reward.md) · 2022-10-29 *(P)*
+- [FNL # 67 – God’s Heart For The Underdog – Matthew 25:44-46](creation-care-church/067-fnl-67-gods-heart-for-the-underdog-matthew-25-44-46.md) · 2022-12-31 *(P)*
+- [FNL # 72 - The Lord’s Prayer for Animals (Matthew 6:9-13)](creation-care-church/072-fnl-72-the-lords-prayer-for-animals-matthew-6-9-13.md) · 2023-02-11 *(P)*
+- [FNL # 75 - Bearing the fruit of the spirit toward animals (Galatians 5:22-23)](creation-care-church/075-fnl-75-bearing-the-fruit-of-the-spirit-toward-animals-galati.md) · 2023-03-04 *(P)*
+- [FNL # 79 - Will Animals be Resurrected to Eternal Life in God’s Kingdom? (1 Corinthians 15:20)](creation-care-church/079-fnl-79-will-animals-be-resurrected-to-eternal-life-in-gods-k.md) · 2023-04-08 *(P)*
+- [FNL # 98 - The Book of Enoch (Jude 1:14-15)](creation-care-church/098-fnl-98-the-book-of-enoch-jude-1-14-15.md) · 2023-09-09
+- [FNL #127 - The Resurrection (1 Corinthians 15:20)](creation-care-church/129-fnl-127-the-resurrection-1-corinthians-15-20.md) · 2024-03-30 *(P)*
+- [FNL #146 - Special Blessing of the Animals Service](creation-care-church/149-fnl-146-special-blessing-of-the-animals-service.md) · 2024-10-05
+- [Do animals have a soul? [Vegan Christian Discipleship School #9]](vegan-school/055-do-animals-have-a-soul-vegan-christian-discipleship-school-9.md) · 2024-10-22 *(P)*
+- [FNL #162 - Enoch's Flood and Fire Prophecy](creation-care-church/165-fnl-162-enochs-flood-and-fire-prophecy.md) · 2025-05-10
+- [Did God create animals to be eaten as food?](vegan-school/066-did-god-create-animals-to-be-eaten-as-food.md) · 2025-09-23
+- [FNL # 172 – There will be no more tears!](creation-care-church/174-fnl-172-there-will-be-no-more-tears.md) · 2025-09-27 *(P)*
+- [FNL # 183 – Are You Listening to the Prophets?](creation-care-church/184-fnl-183-are-you-listening-to-the-prophets.md) · 2026-03-07
+- [Is Creation Care Relevant to the Gospel?](vegan-school/079-is-creation-care-relevant-to-the-gospel.md) · 2026-06-25 *(P)*
+- [FNL #198 – Are Meat-Eaters Saved?](creation-care-church/199-fnl-198-are-meat-eaters-saved.md) · 2026-10-17 *(P)*
+
+### james (22)
+
+- [FNL # 77 - Are we being faithful and wise stewards over God’s household? (Matthew 24:45)](creation-care-church/077-fnl-77-are-we-being-faithful-and-wise-stewards-over-gods-hou.md) · 2023-03-18
+- [FNL # 90 - Evidence for Veganism in the Early Church](creation-care-church/090-fnl-90-evidence-for-veganism-in-the-early-church.md) · 2023-07-08 *(P)*
+- [FNL # 116 - Are we Undoing the Heavy Burdens? (Isaiah 58:6)](creation-care-church/116-fnl-116-are-we-undoing-the-heavy-burdens-isaiah-58-6.md) · 2024-01-13 *(P)*
+- [Overview of Church History (1st Millennium)](vegan-school/086-overview-of-church-history-1st-millennium.md) · 2024-02-08
+- [Overview of Church History (2nd Millennium)](vegan-school/087-overview-of-church-history-2nd-millennium.md) · 2024-02-15
+- [First and Second Century Christianity](vegan-school/089-first-and-second-century-christianity.md) · 2024-03-07 *(P)*
+- [The Table of Demons (1 Corinthians 10:21) - Part 1](vegan-school/048-the-table-of-demons-1-corinthians-10-21-part-1.md) · 2024-03-17 *(P)*
+- [The Table of Demons (1 Corinthians 10:21) - Part 2](vegan-school/091-the-table-of-demons-1-corinthians-10-21-part-2.md) · 2024-03-24
+- [FNL # 131 - 4/26 Understanding Paul (2 Peter 3:15-16)](creation-care-church/134-fnl-131-4-26-understanding-paul-2-peter-3-15-16.md) · 2024-04-27 *(P)*
+- [FNL #132 - The Yoke of the Lord (Matthew 11:29)](creation-care-church/135-fnl-132-the-yoke-of-the-lord-matthew-11-29.md) · 2024-05-04 *(P)*
+- [Were the Apostles and the Early Church Vegan? Discipleship School Meeting #5](vegan-school/051-were-the-apostles-and-the-early-church-vegan-discipleship-sc.md) · 2024-06-03 *(P)*
+- [FNL #140 - The Table of Demons (1 Corinthians 10:21)](creation-care-church/143-fnl-140-the-table-of-demons-1-corinthians-10-21.md) · 2024-07-06 *(P)*
+- [FNL #149 - Be not among riotous eaters of flesh! (PROVERBS 23:20)](creation-care-church/152-fnl-149-be-not-among-riotous-eaters-of-flesh-proverbs-23-20.md) · 2024-11-16 *(P)*
+- [FNL #165 – Is the church speeding the kingdom of God?](creation-care-church/168-fnl-165-is-the-church-speeding-the-kingdom-of-god.md) · 2025-06-21 *(P)*
+- [FNL # 174 – Are You Serving God’s Kingdom?](creation-care-church/176-fnl-174-are-you-serving-gods-kingdom.md) · 2025-10-25
+- [FNL # 182 – Permission & Going the Extra Mile](creation-care-church/183-fnl-182-permission-going-the-extra-mile.md) · 2026-02-21 *(P)*
+- [FNL # 182 – Permission & Going the Extra Mile](vegan-school/093-fnl-182-permission-going-the-extra-mile.md) · 2026-02-21 *(P)*
+- [The Historical Context of the Gospel of Mark](bible-origin/001-the-historical-context-of-the-gospel-of-mark.md) · 2026-03-03
+- [FNL #196 – Did Jesus’ Fish Fry Really Happen?](creation-care-church/197-fnl-196-did-jesus-fish-fry-really-happen.md) · 2026-09-19
+- [Proof John 21 is Not Authentic! A Historical Analysis](bible-origin/009-proof-john-21-is-not-authentic-a-historical-analysis.md) · 2026-09-22
+- [Why Mark’s Gospel is Not What You Think](bible-origin/010-why-marks-gospel-is-not-what-you-think.md) · 2026-10-04
+- [FNL #198 – Are Meat-Eaters Saved?](creation-care-church/199-fnl-198-are-meat-eaters-saved.md) · 2026-10-17 *(P)*
+
+### ebionites-nazarenes (15)
+
+- [FNL # 90 - Evidence for Veganism in the Early Church](creation-care-church/090-fnl-90-evidence-for-veganism-in-the-early-church.md) · 2023-07-08 *(P)*
+- [Overview of Church History (1st Millennium)](vegan-school/086-overview-of-church-history-1st-millennium.md) · 2024-02-08
+- [Overview of Church History (2nd Millennium)](vegan-school/087-overview-of-church-history-2nd-millennium.md) · 2024-02-15
+- [First and Second Century Christianity](vegan-school/089-first-and-second-century-christianity.md) · 2024-03-07 *(P)*
+- [Discerning the Voice of God in Scriptures](vegan-school/090-discerning-the-voice-of-god-in-scriptures.md) · 2024-03-14
+- [The Table of Demons (1 Corinthians 10:21) - Part 1](vegan-school/048-the-table-of-demons-1-corinthians-10-21-part-1.md) · 2024-03-17 *(P)*
+- [Christspiracy Review](vegan-school/092-christspiracy-review.md) · 2024-03-31
+- [Christspiracy Review](creation-care-church/130-christspiracy-review.md) · 2024-04-01 *(P)*
+- [FNL #132 - The Yoke of the Lord (Matthew 11:29)](creation-care-church/135-fnl-132-the-yoke-of-the-lord-matthew-11-29.md) · 2024-05-04 *(P)*
+- [Were the Apostles and the Early Church Vegan? Discipleship School Meeting #5](vegan-school/051-were-the-apostles-and-the-early-church-vegan-discipleship-sc.md) · 2024-06-03 *(P)*
+- [FNL # 137 - Clement and the Clementine Homilies (Philippians 4:2-3)](creation-care-church/140-fnl-137-clement-and-the-clementine-homilies-philippians-4-2.md) · 2024-06-15
+- [The Historical Context of the Gospel of Mark](bible-origin/001-the-historical-context-of-the-gospel-of-mark.md) · 2026-03-03
+- [FNL #196 – Did Jesus’ Fish Fry Really Happen?](creation-care-church/197-fnl-196-did-jesus-fish-fry-really-happen.md) · 2026-09-19
+- [Proof John 21 is Not Authentic! A Historical Analysis](bible-origin/009-proof-john-21-is-not-authentic-a-historical-analysis.md) · 2026-09-22
+- [Why Mark’s Gospel is Not What You Think](bible-origin/010-why-marks-gospel-is-not-what-you-think.md) · 2026-10-04
+
+### last-week-crucifixion (14)
+
+- [PASTOR ROB MUNRO INTERVIEW - ON CONCERN FOR ANIMALS](vegan-school/044-pastor-rob-munro-interview-on-concern-for-animals.md) · 2020-12-07
+- [Friday Night Live #32 - Did Jesus eat lamb?](creation-care-church/033-friday-night-live-32-did-jesus-eat-lamb.md) · 2022-04-09 *(P)*
+- [FNL # 78 - Jesus, the Lamb Sent to Slaughter (Isaiah 53:7)](creation-care-church/078-fnl-78-jesus-the-lamb-sent-to-slaughter-isaiah-53-7.md) · 2023-03-25 *(P)*
+- [FNL # 92 - Shedding Innocent Blood (Isaiah 1:15-16)](creation-care-church/092-fnl-92-shedding-innocent-blood-isaiah-1-15-16.md) · 2023-07-22
+- [FNL #127 - The Resurrection (1 Corinthians 15:20)](creation-care-church/129-fnl-127-the-resurrection-1-corinthians-15-20.md) · 2024-03-30 *(P)*
+- [Animal Sacrifice - Discipleship School Meeting #4](vegan-school/050-animal-sacrifice-discipleship-school-meeting-4.md) · 2024-04-23
+- [Did Jesus Eat Lamb (at Passover)?](vegan-school/073-did-jesus-eat-lamb-at-passover.md) · 2026-01-29
+- [Jesus' Radical Compassion for Animals Explained by Pastors](vegan-school/074-jesus-radical-compassion-for-animals-explained-by-pastors.md) · 2026-02-13
+- [FNL # 184 – How to Receive Abundant Blessings this Year](creation-care-church/185-fnl-184-how-to-receive-abundant-blessings-this-year.md) · 2026-03-21 *(P)*
+- [FNL # 185 – Good Friday Talk](creation-care-church/186-fnl-185-good-friday-talk.md) · 2026-04-04 *(P)*
+- [FNL #191 – Did Jesus Ride a Donkey into Jerusalem? If so, why?](creation-care-church/192-fnl-191-did-jesus-ride-a-donkey-into-jerusalem-if-so-why.md) · 2026-07-04
+- [Jesus Ate Fish? Here's What Ray Comfort Got Wrong](vegan-school/094-jesus-ate-fish-heres-what-ray-comfort-got-wrong.md) · 2026-07-31 *(P)*
+- [Mark's Antichrist Gospel](bible-origin/005-marks-antichrist-gospel.md) · 2026-08-29
+- [Why Mark’s Gospel is Not What You Think](bible-origin/010-why-marks-gospel-is-not-what-you-think.md) · 2026-10-04
+
+### essenes-dead-sea-scrolls (3)
+
+- [Friday Night Live #32 - Did Jesus eat lamb?](creation-care-church/033-friday-night-live-32-did-jesus-eat-lamb.md) · 2022-04-09 *(P)*
+- [What is The Book of Enoch? (Should it be in the Bible?)](vegan-school/061-what-is-the-book-of-enoch-should-it-be-in-the-bible.md) · 2025-04-29
+- [Did Jesus Eat Lamb (at Passover)?](vegan-school/073-did-jesus-eat-lamb-at-passover.md) · 2026-01-29
+
+### jesus-family (3)
+
+- [Were the Apostles and the Early Church Vegan? Discipleship School Meeting #5](vegan-school/051-were-the-apostles-and-the-early-church-vegan-discipleship-sc.md) · 2024-06-03 *(P)*
+- [FNL #152 - The Gospel of James](creation-care-church/155-fnl-152-the-gospel-of-james.md) · 2024-12-28
+- [The Historical Context of the Gospel of Mark](bible-origin/001-the-historical-context-of-the-gospel-of-mark.md) · 2026-03-03
+
+### john-the-baptist (3)
+
+- [FNL #152 - The Gospel of James](creation-care-church/155-fnl-152-the-gospel-of-james.md) · 2024-12-28
+- [Mark 1.2-10 John Baptizes Jesus](bible-origin/003-mark-1-2-10-john-baptizes-jesus.md) · 2026-03-04
+- [Mark's Antichrist Gospel](bible-origin/005-marks-antichrist-gospel.md) · 2026-08-29
+
+### virgin-birth (2)
+
+- [FNL # 66 - The Word Became Flesh – John 1:14](creation-care-church/066-fnl-66-the-word-became-flesh-john-1-14.md) · 2022-12-24
+- [FNL #152 - The Gospel of James](creation-care-church/155-fnl-152-the-gospel-of-james.md) · 2024-12-28
+
+### mary (1)
+
+- [FNL #152 - The Gospel of James](creation-care-church/155-fnl-152-the-gospel-of-james.md) · 2024-12-28
+
+### archaeology (1)
+
+- [Overview of Church History (2nd Millennium)](vegan-school/087-overview-of-church-history-2nd-millennium.md) · 2024-02-15
