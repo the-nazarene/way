@@ -35,7 +35,7 @@ test('search queries each group separately and caps passages per file', async ()
   const e = env();
   const res = await search(e, '  did Jesus eat meat  ', { limit: 5 });
   assert.equal(res.query, 'did Jesus eat meat');
-  assert.deepEqual(e.calls.vec.map((o) => o.filter.group), ['card', 'library', 'talk']);
+  assert.deepEqual(e.calls.vec.map((o) => o.filter.group), ['card', 'source', 'research', 'talk']);
   assert.equal(e.calls.ai[0].model, '@cf/baai/bge-m3');
   assert.deepEqual(res.card.map((r) => r.file), ['a.md', 'b.md']);           // one per card
   assert.deepEqual(res.talk.map((r) => r.file), ['a.md', 'a.md', 'b.md']);   // two per talk
@@ -46,14 +46,14 @@ test('search with one group only asks for that group', async () => {
   const res = await search(e, 'James', { group: 'talk', limit: 1 });
   assert.equal(e.calls.vec.length, 1);
   assert.equal(res.talk.length, 1);
-  assert.equal(res.library.length, 0);
+  assert.equal(res.source.length + res.research.length, 0);
 });
 
 test('empty query costs nothing', async () => {
   const e = env();
   const res = await search(e, '   ');
   assert.equal(e.calls.ai.length, 0);
-  assert.equal(res.card.length + res.library.length + res.talk.length, 0);
+  assert.equal(res.card.length + res.source.length + res.research.length + res.talk.length, 0);
 });
 
 test('GET /search returns JSON with CORS for the site', async () => {
@@ -61,7 +61,7 @@ test('GET /search returns JSON with CORS for the site', async () => {
   assert.equal(r.status, 200);
   assert.equal(r.headers.get('Access-Control-Allow-Origin'), 'https://nazareneway.com');
   const body = await r.json();
-  assert.ok(body.card.length && body.library.length && body.talk.length);
+  assert.ok(body.card.length && body.source.length && body.research.length && body.talk.length);
 });
 
 test('other origins get no CORS header', async () => {
@@ -99,6 +99,8 @@ test('MCP initialize, list, call', async () => {
   body = await r.json();
   const text = body.result.content[0].text;
   assert.match(text, /QUESTION CARDS/);
+  assert.match(text, /SOURCES \(primary texts/);
+  assert.match(text, /OUR RESEARCH \(.*not a source\)/);
   assert.match(text, /TALKS \(pointers, not proof\)/);
   assert.match(text, /Link: https:\/\/x\/a\.md/);
   assert.ok(body.result.structuredContent.talk.length);
@@ -117,8 +119,9 @@ test('MCP errors: unknown method, missing query, bad JSON, GET', async () => {
 });
 
 test('formatForModel leaves out empty groups and the pointer note when there are no talks', () => {
-  const text = formatForModel({ query: 'q', card: [], library: [{ title: 'L', header: 'h', url: 'u', file: 'f', line: 1, source: 's', text: 't' }], talk: [] });
+  const text = formatForModel({ query: 'q', card: [], source: [{ title: 'L', header: 'h', url: 'u', file: 'f', line: 1, source: 's', text: 't' }], research: [], talk: [] });
   assert.doesNotMatch(text, /QUESTION CARDS/);
   assert.doesNotMatch(text, /pointers, not proof\. Check/);
-  assert.match(text, /LIBRARY/);
+  assert.match(text, /SOURCES/);
+  assert.doesNotMatch(text, /OUR RESEARCH/);
 });

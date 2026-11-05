@@ -13,6 +13,7 @@ Run:
   python scripts/vectorize-sync.py --all                 # embed every file
   python scripts/vectorize-sync.py --since <git-sha>     # only what changed since <sha>
   python scripts/vectorize-sync.py --all --dry-run       # count chunks, send nothing
+  python scripts/vectorize-sync.py --all --group source --group research   # just those groups
 
 Needs CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_SEARCH_TOKEN (Workers AI + Vectorize
 edit) in the env. The GitHub Action in `.github/workflows/search-index.yml` runs
@@ -64,6 +65,28 @@ STAMP_RE = re.compile(r"\*\*\[(?:(\d+):)?(\d{1,2}):(\d{2})\]\*\*")
 H1_RE = re.compile(r"^#\s+(.+?)\s*$", re.M)
 SPEAKERS_RE = re.compile(r"^\*\*Speakers?:\*\*\s*(.+?)\s*$", re.M)
 CARD_SLUGS = {p.stem for p in (REPO_ROOT / "site" / "data" / "cards").glob("*.json")}
+PATH_RE = re.compile(r"`([^`]+\.md|[^`]+/)`")
+
+
+def held_paths():
+    """The Tier 1 and Tier 2 files in VERIFIED-SOURCES.md: the texts we may
+    quote. A path written as `-book-2-full-text.md` continues the one before it."""
+    text = (REPO_ROOT / "VERIFIED-SOURCES.md").read_text(encoding="utf-8")
+    tiers = text[text.index("## Tier 1"):text.index("## Tier 3")]
+    paths = []
+    for row in tiers.splitlines():
+        cells = row.split("|")
+        if len(cells) < 4:
+            continue
+        for frag in PATH_RE.findall(cells[2]):
+            if frag.startswith("-") and paths:
+                prev = paths[-1]
+                frag = prev[:prev.rfind("-" + frag[1:].split("-")[0] + "-")] + frag
+            paths.append(frag)
+    return paths
+
+
+HELD = held_paths()
 
 
 # ── What goes in ────────────────────────────────────────────────────────────
@@ -77,7 +100,9 @@ def group_of(rel_path):
         return "talk"
     if rel_path.startswith("questions/") and Path(rel_path).stem in CARD_SLUGS:
         return "card"
-    return "library"
+    if any(rel_path == h or (h.endswith("/") and rel_path.startswith(h)) for h in HELD):
+        return "source"
+    return "research"
 
 
 def chunks_for(rel_path, text):
@@ -237,6 +262,8 @@ def main():
     mode.add_argument("--setup", action="store_true", help="create the Vectorize index (once)")
     mode.add_argument("--all", action="store_true", help="embed every file")
     mode.add_argument("--since", metavar="SHA", help="embed only files changed since SHA")
+    ap.add_argument("--group", action="append", choices=["card", "source", "research", "talk"],
+                    help="with --all: only files in this group (repeatable)")
     ap.add_argument("--dry-run", action="store_true", help="count, send nothing")
     args = ap.parse_args()
 
@@ -247,6 +274,8 @@ def main():
 
     if args.all:
         paths, stale = all_files(), set()
+        if args.group:
+            paths = [p for p in paths if group_of(p) in args.group]
     else:
         paths, stale = changed_since(args.since)
 
