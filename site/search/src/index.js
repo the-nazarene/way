@@ -6,10 +6,10 @@
 // generated answer. The index is filled by scripts/vectorize-sync.py.
 
 const MODEL = '@cf/baai/bge-m3';
-const GROUPS = ['card', 'library', 'talk'];
+const GROUPS = ['card', 'source', 'research', 'talk'];
 const MAX_QUERY = 300;
 const MAX_LIMIT = 10;
-const PER_FILE = { card: 1, library: 2, talk: 2 };
+const PER_FILE = { card: 1, source: 2, research: 2, talk: 2 };
 const ALLOWED_ORIGINS = [
   'https://nazareneway.com',
   'https://www.nazareneway.com',
@@ -20,7 +20,7 @@ const POINTER_NOTE = 'Talks are auto-captioned transcripts: pointers, not proof.
 
 export async function search(env, query, { group = 'all', limit = 5 } = {}) {
   const q = String(query || '').trim().slice(0, MAX_QUERY);
-  if (!q) return { query: '', card: [], library: [], talk: [] };
+  if (!q) return { query: '', card: [], source: [], research: [], talk: [] };
   limit = Math.max(1, Math.min(MAX_LIMIT, Number(limit) || 5));
   const groups = group === 'all' ? GROUPS : GROUPS.filter((g) => g === group);
 
@@ -28,7 +28,9 @@ export async function search(env, query, { group = 'all', limit = 5 } = {}) {
   const vector = (emb.data || emb.response)[0];
 
   // One query per group, so the 34,000 transcript passages can't crowd the
-  // texts and cards out of a single ranked list.
+  // texts and cards out of a single ranked list, and so a reader always sees
+  // which kind of thing a passage is: an ancient text, a card, our own notes,
+  // or a talk.
   const lists = await Promise.all(groups.map((g) =>
     env.VECTORIZE.query(vector, {
       topK: Math.min(50, limit * 4),
@@ -37,7 +39,7 @@ export async function search(env, query, { group = 'all', limit = 5 } = {}) {
       returnMetadata: 'all',
     })));
 
-  const out = { query: q, card: [], library: [], talk: [] };
+  const out = { query: q, card: [], source: [], research: [], talk: [] };
   groups.forEach((g, i) => {
     const seen = {};
     for (const m of lists[i].matches || []) {
@@ -79,8 +81,8 @@ const TOOL = {
       query: { type: 'string', description: 'A question or topic, in plain words.' },
       group: {
         type: 'string',
-        enum: ['all', 'card', 'library', 'talk'],
-        description: 'card = the question cards; library = primary texts and research files; talk = transcribed talks. Default all.',
+        enum: ['all', 'card', 'source', 'research', 'talk'],
+        description: 'card = the question cards; source = the primary texts we hold and may quote (VERIFIED-SOURCES.md, Tiers 1-2); research = our own notes, audits and contributed work, never a source; talk = transcribed talks. Default all.',
       },
       limit: { type: 'integer', minimum: 1, maximum: MAX_LIMIT, description: 'Passages per group. Default 5.' },
     },
@@ -89,7 +91,12 @@ const TOOL = {
   annotations: { readOnlyHint: true, openWorldHint: false },
 };
 
-const LABELS = { card: 'QUESTION CARDS', library: 'LIBRARY (texts and research)', talk: 'TALKS (pointers, not proof)' };
+const LABELS = {
+  card: 'QUESTION CARDS',
+  source: 'SOURCES (primary texts we hold; quote these)',
+  research: 'OUR RESEARCH (notes and contributed work; not a source)',
+  talk: 'TALKS (pointers, not proof)',
+};
 
 export function formatForModel(res) {
   const parts = [`Results for: ${res.query}`];
@@ -117,7 +124,7 @@ async function handleRpc(env, msg) {
         protocolVersion: params.protocolVersion || '2025-06-18',
         capabilities: { tools: {} },
         serverInfo: { name: 'the-way-search', version: '1.0.0' },
-        instructions: 'Use search_the_way to find passages in The Way library. Quote only what a result contains, cite its link, and treat talk transcripts as pointers to check, not as sources.',
+        instructions: 'Use search_the_way to find passages in The Way library. Quote only what a result contains, cite its link, and quote primary texts only from SOURCES results. Research results and talk transcripts are pointers to check, not sources.',
       });
     case 'ping':
       return ok({});
@@ -166,7 +173,7 @@ export default {
     if (url.pathname === '/' && req.method === 'GET') {
       return json({
         service: 'The Way search',
-        search: '/search?q=your+question&group=all|card|library|talk&limit=5',
+        search: '/search?q=your+question&group=all|card|source|research|talk&limit=5',
         mcp: '/mcp (add this address as a connector in Claude or ChatGPT)',
         note: POINTER_NOTE,
       }, 200, h);

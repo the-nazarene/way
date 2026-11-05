@@ -337,8 +337,9 @@
     $('nocard').scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 
-  // The whole-library search (site/search/): passages from the texts and the
-  // talks, never a generated answer. The card drawer above works without it.
+  // The whole-library search (site/search/): passages from the cards, the
+  // texts we hold, our research and the talks, each in its own labelled
+  // column, never a generated answer. The card drawer above works without it.
   var SEARCH_API = 'https://search.nazareneway.com/search';
   var libSeq = 0;
 
@@ -367,15 +368,16 @@
     var seq = ++libSeq;
     box.hidden = false;
     $('libStatus').textContent = 'searching\u2026';
-    ['libCard', 'libLibrary', 'libTalk'].forEach(function (id) { $(id).innerHTML = ''; });
+    ['libCard', 'libSource', 'libResearch', 'libTalk'].forEach(function (id) { $(id).innerHTML = ''; });
     fetch(SEARCH_API + '?limit=5&q=' + encodeURIComponent(q))
       .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(function (res) {
         if (seq !== libSeq) return;
-        var n = res.card.length + res.library.length + res.talk.length;
+        var n = res.card.length + res.source.length + res.research.length + res.talk.length;
         $('libStatus').textContent = n ? '' : 'nothing close enough';
         res.card.slice(0, 3).forEach(function (r) { $('libCard').appendChild(libItem(r, 'card')); });
-        res.library.forEach(function (r) { $('libLibrary').appendChild(libItem(r, 'library')); });
+        res.source.forEach(function (r) { $('libSource').appendChild(libItem(r, 'source')); });
+        res.research.forEach(function (r) { $('libResearch').appendChild(libItem(r, 'research')); });
         res.talk.forEach(function (r) { $('libTalk').appendChild(libItem(r, 'talk')); });
       })
       .catch(function () {

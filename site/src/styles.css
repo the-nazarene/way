@@ -286,9 +286,10 @@ a { color: var(--blue); }
 /* Whole-library search (site/search/) */
 .libsearch { position: relative; z-index: 2; max-width: 1200px; margin: 0 auto 20px; padding: 16px 20px; background: var(--cream); color: var(--ink); border: 1px solid var(--card-border); box-shadow: 0 10px 22px rgba(0,0,0,0.5); }
 .libsearch-head { display: flex; gap: 12px; align-items: baseline; margin-bottom: 10px; }
-.libsearch-cols { display: grid; grid-template-columns: 1fr 1.4fr 1.4fr; gap: 20px; }
+.libsearch-cols { display: grid; grid-template-columns: 1fr 1.4fr 1.2fr 1.2fr; gap: 20px; }
 .lib-h { font-family: var(--type); font-size: 13px; letter-spacing: 1px; margin: 0 0 6px; color: var(--muted); }
 .lib-stamp { font-size: 10px; color: var(--red); border: 1px solid var(--red); padding: 1px 5px; margin-left: 4px; white-space: nowrap; }
+.lib-stamp-held { color: var(--held); border-color: var(--held); } .lib-stamp-ours { color: #777777; border-color: #777777; }
 .libcol ol { margin: 0; padding: 0; list-style: none; }
 .libcol li { padding: 8px 0; border-top: 1px solid var(--rule); }
 .lib-title { font-family: var(--type); font-size: 14px; color: var(--ink); }
