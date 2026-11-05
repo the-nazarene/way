@@ -373,6 +373,7 @@
       .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(function (res) {
         if (seq !== libSeq) return;
+        ['card', 'source', 'research', 'talk'].forEach(function (g) { res[g] = res[g] || []; });
         var n = res.card.length + res.source.length + res.research.length + res.talk.length;
         $('libStatus').textContent = n ? '' : 'nothing close enough';
         res.card.slice(0, 3).forEach(function (r) { $('libCard').appendChild(libItem(r, 'card')); });
