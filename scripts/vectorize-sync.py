@@ -204,7 +204,7 @@ def call(method, path, body=None, ndjson=False, tries=5):
                 return json.loads(r.read())
         except urllib.error.HTTPError as e:
             detail = e.read().decode("utf-8", "replace")[:500]
-            if e.code in (429, 500, 502, 503, 504) and attempt < tries - 1:
+            if e.code in (409, 429, 500, 502, 503, 504) and attempt < tries - 1:
                 time.sleep(2 ** attempt)
                 continue
             sys.exit(f"Cloudflare {method} {path} → {e.code}: {detail}")
