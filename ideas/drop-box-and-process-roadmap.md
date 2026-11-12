@@ -34,6 +34,31 @@ Only if the Drive folder stops being enough.
 
 The skill doesn't change between phases: both feed the same inbox step.
 
+## Matt's idea (2026-10-21): the drop box's front door on the website
+
+Keep Phase 1's Google Drive folder, and give it a front door on the website: a `#/drop` page in the Reading Room with a **Google Form** embedded, plus a "Contribute" link in the top bar. No code on our side. The form saves uploads into Drive and every response into a Sheet, which `/process-roadmap` reads as its log.
+
+It's for the group, who mostly have Google accounts, so one form with the upload question is fine. A form with a file upload question makes everyone sign in, and that gives us their email for **Contributed by:** without asking.
+
+**The form** (title "Contribute to The Way"):
+
+| # | Question | Type | Required |
+|---|---|---|---|
+| 1 | What are you sending? | Multiple choice: A source · A suggestion · A correction · Other | Yes |
+| 2 | Link | Short answer ("YouTube, article, or book page") | No |
+| 3 | File | File upload (PDF, document, image; up to 10 files, 100 MB each) | No |
+| 4 | Your message | Paragraph ("What is it, and why does it matter? For a correction, say which card or file.") | Yes |
+
+Settings: **Collect email addresses** on; Responses → **Link to Sheets**. The upload folder Google creates can be moved into the Naz Dogs Drop Box, or become it. Corrections go straight onto `AUDIT-LIST.md` as Needs audit.
+
+**Made by hand, about 3 minutes.** Claude can't do it through the API: Google's Forms API can't create file upload questions, and Matt's Google connection is the Nature Backs Workspace account, which shouldn't own a group form. Best owner: Rex's account, next to the Drive folder.
+
+**To do**
+1. Rex (or Matt) creates the form from the table and shares its link.
+2. Claude builds the `#/drop` page with the form embedded, adds "Contribute" to the top bar, and opens a PR (about 15 minutes).
+
+This replaces Phase 2 for the group. The Worker-and-R2 page only matters if we ever want strangers to send files without a Google account.
+
 ## The skill: `/process-roadmap` (draft name)
 
 To live at `.claude/skills/process-roadmap/SKILL.md`. Each run:
