@@ -1,13 +1,13 @@
 ---
 name: nazbrain
-description: Save what the current conversation found into NazBrain (the shared Google Drive folder), as a Markdown note with who it came from, so it gets processed into the repo later. Use when someone types /nazbrain, or says "save this to the brain", "drop this in the drop box", "send this to the Naz Dogs".
+description: Save what the current conversation found as a Markdown note in the repo's inbox/ folder, with who it came from, and push it, so it gets processed into the research later. Use when someone types /nazbrain, or says "save this to the brain", "save this to the inbox", "send this to the Naz Dogs".
 ---
 
-# /nazbrain: save this thread to the drop box
+# /nazbrain: save this thread to the inbox
 
-Someone has had a conversation worth keeping. Write it up as one Markdown note and put it in **NazBrain**, the shared Google Drive folder the group drops material into: https://drive.google.com/drive/folders/1Sy3GTWLM2kpX6zLLdJyXovxd6JpDWHig (folder ID `1Sy3GTWLM2kpX6zLLdJyXovxd6JpDWHig`). It gets processed into the repo later (`PROCESSING-ROADMAP.md`, and `ideas/drop-box-and-process-roadmap.md` for the plan).
+Someone has had a conversation worth keeping. Write it up as one Markdown note in `inbox/` at the repo root, commit it, and push it. Someone processes the inbox into the research later (`inbox/README.md`, `PROCESSING-ROADMAP.md`).
 
-**Why the drop box and not the repo:** the repo is public, and it only takes research that has been checked against sources. A conversation's findings haven't been checked yet. The drop box is private, and nothing in it changes the research until someone processes it.
+**Why an inbox and not the research files:** the research only takes what has been checked against sources. A conversation's findings haven't been checked yet. The inbox holds them, clearly labelled, until someone does. The repo is public, so the note is too: that's why the labels matter.
 
 ## 1. Who is saving it
 
@@ -47,19 +47,20 @@ Optional: which repo files or question cards this could add to, if it's clear. S
 Rules for the note:
 - **Don't make a claim sound more checked than it was.** If the conversation didn't open the source, say so. The repo has already caught wrong citations this way (`questions/CITATION-NOTES.md`).
 - **Describe sources, don't judge them.** Contributors read what ends up in the repo.
-- **Short quotes only** from copyrighted books; cite the rest.
+- **Short quotes only** from copyrighted books; cite the rest. The repo is public.
+- **Nothing private.** No phone numbers, emails, or anything someone said in confidence.
 - One note per save. If the thread covered two unrelated things, ask whether they want two notes.
 
-## 3. Put it in the drop box
+## 3. Save and push it
 
-Try these in order and use the first that works:
+1. `git pull --rebase --autostash` first (the autostash keeps any unsaved work safe), so the push doesn't collide with someone else's.
+2. Write the note to `inbox/<file name>`.
+3. Commit **only that file**, with a message like `nazbrain: <topic> (<Name>)`. Leave any other changes in the working tree alone.
+4. Push. If the session works on its own branch (Claude Code on the web and phone does), push that branch and open a pull request into `main` titled the same as the commit.
+5. If the push is refused (no write access, no network), say so plainly and leave the note committed locally. Rex can add them as a collaborator on `the-nazarene/way`.
 
-1. **The Google Drive connector.** If the Google Drive `create_file` tool is available, upload the note with `parentId` `1Sy3GTWLM2kpX6zLLdJyXovxd6JpDWHig`, `contentMimeType` `text/markdown`, the note as `textContent`, and `disableConversionToGoogleType: true` so it stays a Markdown file. If the tool says the connector isn't connected, tell the person to run `/mcp` and connect Google Drive (one time), then try again.
-2. **A synced Drive folder on this computer.** If Google Drive for Desktop is installed and NazBrain is in their Drive, it's an ordinary folder named `NazBrain` (on Windows usually under `G:\My Drive\`; on a Mac under `~/Library/CloudStorage/GoogleDrive-*/My Drive/`). Write the note straight into it.
-3. **Neither works:** save the note in the repo's root `Incoming/nazbrain/` folder (git-ignored, so it stays on this computer and never goes public), and tell the person: "Saved to `<full path>`. Drag it into NazBrain on Google Drive: https://drive.google.com/drive/folders/1Sy3GTWLM2kpX6zLLdJyXovxd6JpDWHig"
-
-Never commit the note to the repo, and never push it.
+Never put a note anywhere but `inbox/`, and never edit research files from this skill.
 
 ## 4. Tell them
 
-One or two lines: the file name, where it went, and how many findings are marked unchecked. Nothing else needs doing on their end.
+One or two lines: the file name, that it's pushed (or the pull request link), and how many findings are marked unchecked. Nothing else needs doing on their end.

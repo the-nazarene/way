@@ -36,7 +36,7 @@ The skill doesn't change between phases: both feed the same inbox step.
 
 ## The other direction: `/nazbrain` (built 2026-11-18)
 
-`.claude/skills/nazbrain/SKILL.md`. Mid-conversation, anyone working in this repo types `/nazbrain` and Claude writes up what the thread found as a Markdown note (contributor's name, findings with their sources, what's still unchecked) and puts it in the NazBrain Drive folder (https://drive.google.com/drive/folders/1Sy3GTWLM2kpX6zLLdJyXovxd6JpDWHig, created by Rex 2026-11-18). It uploads through the Google Drive connector (connect once with `/mcp`), or writes into the folder if Google Drive for Desktop is installed, and otherwise saves to the git-ignored `/Incoming/nazbrain/` and asks the person to drag it in. Notes never go into the public repo directly; `/process-roadmap` picks them up with everything else.
+`.claude/skills/nazbrain/SKILL.md`. Mid-conversation, anyone working in this repo in Claude Code types `/nazbrain`, and Claude writes up what the thread found as a Markdown note (contributor's name, findings with their sources, what's still unchecked), saves it to `inbox/` and pushes it. First built to upload to the NazBrain Google Drive folder; switched the same day to the repo inbox (Rex), because everyone already pushes and pulls the repo and Drive needed setup per person. Notes are the contributors' own words, so they can be public; files (PDFs, books, anything copyrighted) still go to the Drive drop box. `/process-roadmap` should clear both.
 
 ## The skill: `/process-roadmap` (draft name)
 

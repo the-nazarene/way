@@ -51,7 +51,9 @@ SKIP_DIRS = {
 # indexed file to Google's embedding API, so it must never be walked. The
 # tracked christianity/Incoming, dead-sea-scrolls/Incoming and
 # gnosticism/Incoming primary-text folders are deliberately NOT affected.
-SKIP_ROOT_DIRS = {"Incoming"}
+# `inbox/` holds /nazbrain conversation notes that nobody has checked yet;
+# they join the index once they're processed into the research files.
+SKIP_ROOT_DIRS = {"Incoming", "inbox"}
 
 # File patterns to skip anywhere in the path
 SKIP_PATTERNS = [".DS_Store", ".pdf", ".html", ".png", ".jpg", ".jpeg", ".gif", ".svg"]
