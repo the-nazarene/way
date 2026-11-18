@@ -54,14 +54,14 @@
     688,
     2403,
     868,
-    716,
+    734,
     0
    ],
    [
     "f",
     "6 · STILL OPEN",
     0,
-    3269,
+    3287,
     578,
     724,
     2
@@ -70,7 +70,7 @@
     "f",
     "GO DEEPER",
     668,
-    3269,
+    3287,
     302,
     566,
     1
@@ -255,7 +255,7 @@
    ],
    [
     "n",
-    "THE CASE FOR THE HONEY CAKE\n\nThe gospel Epiphanius says the Ebionites used, a Jewish-Christian movement, had John living on wild honey that tasted of manna: the bread from heaven Israel ate in the wilderness. The texts around John's food point the same way: a Nazirite from the womb, \"neither eating bread nor drinking wine\". And Jewish-Christian tradition remembered James, the brother of Jesus, as eating no flesh.\n\nIts weakness is that we have the verse only from its enemy, in one quotation, with no manuscript of the gospel itself.",
+    "THE CASE FOR THE HONEY CAKE\n\nThe gospel Epiphanius says the Ebionites used, a Jewish-Christian movement, had John living on wild honey that tasted of manna: the bread from heaven Israel ate in the wilderness. The gospels' own words about John's food fit that picture: Nazirite-style abstinence from the womb, \"neither eating bread nor drinking wine\". And Jewish-Christian tradition remembered James, the brother of Jesus, as eating no flesh.\n\nIts weakness is that we have the verse only from its enemy, in one quotation, with no manuscript of the gospel itself.",
     1266,
     1341,
     250
@@ -264,7 +264,7 @@
     "n",
     "THE VERSE ITSELF\n\nPanarion 30,13,4b-c (trans. Craig Wescoe): \"And John had clothing made from camel's hair, and a belt of leather round his loins. And his food, it says, was wild honey, which tasted of manna, like a cake made with oil\".\n\n30,13,5: \"so that, no doubt, they may turn the word of truth into a lie and make it a cake in honey instead of locusts.\"\n\n(christianity/Incoming/epiphanius-panarion-book-1-full-text.md)",
     1266,
-    1801,
+    1819,
     270
    ],
    [
@@ -304,7 +304,7 @@
    ],
    [
     "n",
-    "WHAT ELSE THE GOSPELS SAY ABOUT HIS FOOD\n\nLuke 1:15: he \"shall drink neither wine nor strong drink\", a Nazirite from birth.\n\nLuke 7:33: he \"came neither eating bread nor drinking wine\". Matthew 11:18: \"neither eating nor drinking\".\n\nThese describe abstinence, not a menu. They fit a John who did not eat what others ate. They do not settle which wilderness food he did eat.",
+    "WHAT ELSE THE GOSPELS SAY ABOUT HIS FOOD\n\nLuke 1:15: he \"shall drink neither wine nor strong drink\", the language of the Nazirite vow (Numbers 6:3), from birth.\n\nLuke 7:33: he \"came neither eating bread nor drinking wine\". Matthew 11:18: \"neither eating nor drinking\".\n\nThese describe abstinence, not a menu. They fit a John who did not eat what others ate. They do not settle which wilderness food he did eat.",
     1858,
     1859,
     250
@@ -332,7 +332,7 @@
    ],
    [
     "n",
-    "THE SAME HOUSEHOLD'S TRADITION\n\nHegesippus says James, the brother of Jesus, was holy from his mother's womb, drank no wine and ate no flesh. A fleshless John in the Ebionite gospel sits beside a fleshless James in Hegesippus: the same picture of holiness. The source card is beside this.",
+    "A PARALLEL: JAMES\n\nHegesippus says James, the brother of Jesus, was holy from his mother's womb, drank no wine and ate no flesh. A fleshless John in the Ebionite gospel sits beside a fleshless James in Hegesippus: the same picture of holiness. The source card is beside this.",
     2134,
     1772,
     250
@@ -370,7 +370,7 @@
    ],
    [
     "n",
-    "THE SENTENCE THAT HOLDS EVERY WORD\n\n\"Our earliest gospel says John ate locusts. The gospel of the Jewish-Christian movement, quoted by Epiphanius, said honey that tasted of manna, using the Greek Bible's own word for it. So a fleshless John is an old reading, kept by a Jewish-Christian movement, not a modern invention. Which reading came first is contested.\"",
+    "THE SENTENCE THAT HOLDS EVERY WORD\n\n\"Our earliest gospel says John ate locusts. A gospel used by the Ebionites, a Jewish-Christian movement, quoted by Epiphanius, said honey that tasted of manna, using the Greek Bible's own word for it. So a fleshless John is an old reading, kept by a Jewish-Christian movement, not a modern invention. Which reading came first is contested.\"",
     714,
     2429,
     540
@@ -379,7 +379,7 @@
     "n",
     "WHICH CAME FIRST? THE HONEST STATE OF IT\n\nFOR LOCUSTS FIRST: Mark is usually dated earliest; every gospel manuscript we know of reads locusts; the Ebionite gospel looks to most scholars like a later Greek text that draws on the canonical ones.\n\nFOR THE CAKE FIRST: Kam's argument, after Edwards, is that the Hebrew gospel came first and the canonical Greek gospels drew on it. On that view the manna reading could be the older one and \"locusts\" the change.\n\nThat is a question about the whole Hebrew gospel, not this one verse. The verse cannot settle it by itself.",
     714,
-    2619,
+    2637,
     250
    ],
    [
@@ -400,42 +400,42 @@
     "n",
     "WHAT WE WOULD LIKE TO GET HOLD OF\n\n1. THE DAMASCUS DOCUMENT in a named public-domain translation (Schechter 1910), so the locust rule can be held, not just pointed at.\n\n2. A CRITICAL APPARATUS for Matthew 3:4 and Mark 1:6, to state exactly what the manuscripts read.\n\n3. THE FIRST SOURCE THAT TIES CAROB TO JOHN, with its date.\n\n4. ISIDORE OF PELUSIUM, reported to have read John's akrides as the tips of plants rather than insects. Unchecked: we have not seen the text.\n\n5. THE SLAVONIC JOSEPHUS on John, which OPEN-RESEARCH.md item 3 says describes a Baptist who ate no flesh. A late and disputed text; worth holding so it can be described exactly.\n\n6. JAMES EDWARDS, The Hebrew Gospel (2009), the scholarship behind Kam's side. In copyright: notes and short quotes only.",
     26,
-    3295,
+    3313,
     250
    ],
    [
     "n",
     "WHERE THIS GOES NEXT\n\nOPEN-RESEARCH.md item 3 asks for exactly this: a section on the sacrifice case file, under Questions People Raise, giving the objection, the variant stated exactly, and the honest limit. This board is the material for it. The case file itself changes only after someone has checked the sources.",
     302,
-    3295,
+    3313,
     250
    ],
    [
     "d",
     "christianity/hebrew-gospel-of-matthew.md",
     694,
-    3295,
+    3313,
     250
    ],
    [
     "d",
     "questions/nazarene-sect-sacrifice-and-diet.md",
     694,
-    3429,
+    3447,
     250
    ],
    [
     "d",
     "christianity/biblical-case-for-vegetarian-jesus.md",
     694,
-    3563,
+    3581,
     250
    ],
    [
     "d",
     "christianity/james-the-just-key-to-understanding-jesus.md",
     694,
-    3697,
+    3715,
     250
    ]
   ],

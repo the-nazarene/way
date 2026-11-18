@@ -143,8 +143,8 @@ const notes = {
   k0: N('k0', 'THE CASE FOR THE HONEY CAKE\n\n' +
     'The gospel Epiphanius says the Ebionites used, a Jewish-Christian movement, had John ' +
     'living on wild honey that tasted of manna: the bread from heaven Israel ate in the ' +
-    'wilderness. The texts around John\'s food point the same way: a Nazirite from the ' +
-    'womb, "neither eating bread nor drinking wine". And Jewish-Christian tradition ' +
+    'wilderness. The gospels\' own words about John\'s food fit that picture: ' +
+    'Nazirite-style abstinence from the womb, "neither eating bread nor drinking wine". And Jewish-Christian tradition ' +
     'remembered James, the brother of Jesus, as eating no flesh.\n\n' +
     'Its weakness is that we have the verse only from its enemy, in one quotation, ' +
     'with no manuscript of the gospel itself.'),
@@ -176,13 +176,13 @@ const notes = {
     'Kings 14:3, beside this) has loaves, cracknels and a cruse of honey.'),
 
   nazirite: N('nazirite', 'WHAT ELSE THE GOSPELS SAY ABOUT HIS FOOD\n\n' +
-    'Luke 1:15: he "shall drink neither wine nor strong drink", a Nazirite from birth.\n\n' +
+    'Luke 1:15: he "shall drink neither wine nor strong drink", the language of the Nazirite vow (Numbers 6:3), from birth.\n\n' +
     'Luke 7:33: he "came neither eating bread nor drinking wine". Matthew 11:18: ' +
     '"neither eating nor drinking".\n\n' +
     'These describe abstinence, not a menu. They fit a John who did not eat what ' +
     'others ate. They do not settle which wilderness food he did eat.'),
 
-  james: N('james', 'THE SAME HOUSEHOLD\'S TRADITION\n\n' +
+  james: N('james', 'A PARALLEL: JAMES\n\n' +
     'Hegesippus says James, the brother of Jesus, was holy from his mother\'s womb, ' +
     'drank no wine and ate no flesh. A fleshless John in the Ebionite gospel sits beside ' +
     'a fleshless James in Hegesippus: the same picture of holiness. The source card is ' +
@@ -206,8 +206,8 @@ const notes = {
   /* 5 · how to hold it */
 
   h0: N('h0', 'THE SENTENCE THAT HOLDS EVERY WORD\n\n' +
-    '"Our earliest gospel says John ate locusts. The gospel of the Jewish-Christian ' +
-    'movement, quoted by Epiphanius, said honey that tasted of manna, using the Greek ' +
+    '"Our earliest gospel says John ate locusts. A gospel used by the Ebionites, a ' +
+    'Jewish-Christian movement, quoted by Epiphanius, said honey that tasted of manna, using the Greek ' +
     'Bible\'s own word for it. So a fleshless John is an old reading, kept by a ' +
     'Jewish-Christian movement, not a modern invention. Which reading came first is contested."', 540),
 
