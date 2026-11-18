@@ -173,7 +173,9 @@ YT_RE = re.compile(r"https://www\.youtube\.com/watch\?v=[A-Za-z0-9_-]+")
 
 
 def pointer_file(key):
-    if key.startswith("kam-"):
+    if key.startswith("kam-guest-"):
+        pat = ARCHIVE / "kameron-waters" / "guest-appearances"; n = key[10:]
+    elif key.startswith("kam-"):
         pat = ARCHIVE / "kameron-waters"; n = key[4:]
     elif key.startswith("tabor-"):
         pat = ARCHIVE / "dr-tabor"; n = key[6:]
