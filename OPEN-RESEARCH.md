@@ -42,6 +42,8 @@ The fix-and-verify list for *existing* claims is `FIX-LIST.md`. This file is for
 
 **Source material.** `podcast-archive/dr-tabor/66-...md` (brief mention), Epiphanius *Panarion* 30.13.4-5 (Williams translation; not public domain, so excerpt and attribute), Mark 1:6 and Matthew 3:4.
 
+**Laid out (2026-11-18):** the desk `canvas.html#desk=john-the-baptist-locusts` gathers the held material for both readings (Panarion 30,13,4-5 and 30,19,3; the Septuagint manna verses; Justin and Jerome on locusts; the debate where it came up, `kam-guest-13 @ 3:07:34`) and lists what's still missing. Panarion 30,13 is now held in Craig Wescoe's translation, so the Williams note below is out of date.
+
 **Done looks like.** A section on `questions/sacrifice-culture-vegetarian-jesus.md` under "Questions People Raise": the objection as a critic states it, the textual variant stated exactly, and the honest limit (the Ebionite reading is a sectarian text; the point is that the tradition is *contested*, not settled either way).
 
 ## 4. Mark as a Pauline gospel

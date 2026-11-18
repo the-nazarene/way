@@ -26,6 +26,7 @@ Numbered oldest-first by upload date.
 | 10 | `10-spiritual-forum-a-case-for-vegan-god.md` | The Spiritual Forum | 2026-09-07 | 1:31:54 |
 | 11 | `11-history-valley-what-is-the-gospel-of-the-hebrews.md` | History Valley | 2026-09-29 | 1:20:05 |
 | 12 | `12-jake-shields-did-jesus-flip-the-tables.md` | Jake Shields' Fight Back Podcast | 2026-10-14 | 43:53 |
+| 13 | `13-post-post-modern-theology-debate-did-jesus-reject-animal-sacrifice.md` | POST Post-Modern Theology — **debate**, Kam & Aaron Abke vs Dallas & Post (added 2026-11-18, Rex) | 2026-10-20 | 4:27:45 |
 
 ### The four worth reading first
 

@@ -97,7 +97,7 @@ const notes = {
 
   l0: N('l0', 'THE CASE FOR LOCUSTS\n\n' +
     'It is the reading of every gospel text we hold, it was lawful food, the wilderness ' +
-    'community of the scrolls legislated how to eat it, and the earliest fathers who ' +
+    'community of the scrolls legislated how to eat it, and the fathers we hold who ' +
     'mention John\'s food read it.\n\n' +
     'The strongest single point: Mark, the gospel most scholars date earliest, says ' +
     'locusts, and the Ebionite reading survives only in a hostile quotation from the ' +
@@ -141,11 +141,11 @@ const notes = {
   /* 3 · the cake */
 
   k0: N('k0', 'THE CASE FOR THE HONEY CAKE\n\n' +
-    'A Jewish-Christian gospel, the one the movement of Jesus\'s family used, had John ' +
+    'The gospel Epiphanius says the Ebionites used, a Jewish-Christian movement, had John ' +
     'living on wild honey that tasted of manna: the bread from heaven Israel ate in the ' +
     'wilderness. The texts around John\'s food point the same way: a Nazirite from the ' +
-    'womb, "neither eating bread nor drinking wine", and his successor-in-spirit James, ' +
-    'who ate no flesh.\n\n' +
+    'womb, "neither eating bread nor drinking wine". And Jewish-Christian tradition ' +
+    'remembered James, the brother of Jesus, as eating no flesh.\n\n' +
     'Its weakness is that we have the verse only from its enemy, in one quotation, ' +
     'with no manuscript of the gospel itself.'),
 
@@ -184,8 +184,9 @@ const notes = {
 
   james: N('james', 'THE SAME HOUSEHOLD\'S TRADITION\n\n' +
     'Hegesippus says James, the brother of Jesus, was holy from his mother\'s womb, ' +
-    'drank no wine and ate no flesh. The movement that kept the honey-cake verse is the ' +
-    'movement that remembered James that way. The source card is beside this.'),
+    'drank no wine and ate no flesh. A fleshless John in the Ebionite gospel sits beside ' +
+    'a fleshless James in Hegesippus: the same picture of holiness. The source card is ' +
+    'beside this.'),
 
   /* 4 · carob */
 
@@ -207,8 +208,8 @@ const notes = {
   h0: N('h0', 'THE SENTENCE THAT HOLDS EVERY WORD\n\n' +
     '"Our earliest gospel says John ate locusts. The gospel of the Jewish-Christian ' +
     'movement, quoted by Epiphanius, said honey that tasted of manna, using the Greek ' +
-    'Bible\'s own word for it. So a fleshless John is an old reading, kept by Jesus\'s ' +
-    'own people, not a modern invention. Which reading came first is contested."', 540),
+    'Bible\'s own word for it. So a fleshless John is an old reading, kept by a ' +
+    'Jewish-Christian movement, not a modern invention. Which reading came first is contested."', 540),
 
   over1: N('over1', 'WHERE OUR SIDE OVERREACHES\n\n' +
     '"We definitely know it wasn\'t locust bugs." No text we hold supports "definitely".\n\n' +
@@ -221,8 +222,8 @@ const notes = {
     '"Epiphanius proves they changed it." He assumes it. He writes as their opponent, ' +
     'and the pun shows only that the two readings met in Greek.\n\n' +
     '"Locusts make John a meat-eater." Epiphanius himself says John ate no meat and ' +
-    'still ate locusts (30,19,3). And the Damascus Document treats locusts as their own ' +
-    'class, beside fish and apart from animals.'),
+    'still ate locusts (30,19,3). And the Damascus Document gives locusts a rule of ' +
+    'their own, next to the rule for fish.'),
 
   direction: N('direction', 'WHICH CAME FIRST? THE HONEST STATE OF IT\n\n' +
     'FOR LOCUSTS FIRST: Mark is usually dated earliest; every gospel manuscript we know ' +
@@ -302,27 +303,27 @@ const strings = [
   ['res', 'how'], ['res', `q:${SC}`], ['how', 'd0'],
 
   ['d0', mid('Then what about the the locust and the honeycomb?')],
-  [mid('making cakes something in Greek into locust something in Greek'), 'c1', 'checked'],
-  [mid('So, when you when you look at the pun, it can cut both ways.'), 'c2', 'checked'],
-  [mid('we definitely know it wasn\'t locust bugs'), 'c3', 'checked'],
-  [mid('The Gospels say that John ate locusts'), 'c4', 'checked'],
-  [mid('I believe the Greek is earlier than the Hebrew'), 'direction', 'the real question'],
+  [mid('making cakes something in Greek into locust something in Greek'), 'c1'],
+  [mid('So, when you when you look at the pun, it can cut both ways.'), 'c2'],
+  [mid('we definitely know it wasn\'t locust bugs'), 'c3'],
+  [mid('The Gospels say that John ate locusts'), 'c4'],
+  [mid('I believe the Greek is earlier than the Hebrew'), 'direction'],
 
-  ['c1', 'pan', 'the passage'], ['c3', 'manna'], ['c3', 'kings'], ['c3', 'fathers', 'what the fathers say'],
+  ['c1', 'pan'], ['c3', 'manna'], ['c3', 'kings'], ['c3', 'fathers'],
   ['c4', 'greek'],
 
   ['l0', 'v:Mark 1:6'], ['v:Mark 1:6', 'v:Matthew 3:4'], ['l0', 'greek'],
   ['lawful', 'v:Leviticus 11:22'], ['qumran', `w:${DAMASCUS.url}|${DAMASCUS.quote}`],
   ['fathers', 'notmeat'],
 
-  ['k0', 'pan'], ['pan', 'manna', 'the manna word'], ['manna', 'v:Exodus 16:31'], ['manna', 'v:Numbers 11:8'],
+  ['k0', 'pan'], ['pan', 'manna'], ['manna', 'v:Exodus 16:31'], ['manna', 'v:Numbers 11:8'],
   ['kings', 'v:1 Kings 14:3'], ['k0', 'nazirite'], ['nazirite', 'v:Luke 1:15'],
   ['nazirite', 'v:Luke 7:33'], ['v:Luke 7:33', 'v:Matthew 11:18'],
   ['james', `s:${SC}:14`], ['k0', 'james'],
 
-  ['carob', mid('The body of evidence around John\'s diet is uh carob')], ['carob', 'v:Luke 15:16', 'carob pods'],
+  ['carob', mid('The body of evidence around John\'s diet is uh carob')], ['carob', 'v:Luke 15:16'],
 
-  ['notmeat', 'over2'], ['pan', 'over2', 'his charge'], ['c3', 'over1'],
+  ['notmeat', 'over2'], ['pan', 'over2'], ['c3', 'over1'],
   ['h0', 'direction'], ['direction', 'acq'], ['carob', 'acq'], ['qumran', 'acq'],
   ['close', 'res'], ['close', 'd:questions/nazarene-sect-sacrifice-and-diet.md'],
   ['k0', 'd:christianity/hebrew-gospel-of-matthew.md']
