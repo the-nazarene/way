@@ -19,7 +19,7 @@ The full method (stages, which model does what, quality checks, rights, git habi
 2. **Ask "what's next on the processing roadmap?"** Claude answers from the Next Up list.
 3. **Claim an item** by putting your name in its Who column, so the two of you don't double up.
 4. **After any processing,** run `python scripts/processing-status.py` to refresh the status table.
-5. **Clear the inbox.** Anyone in Claude Code can type `/nazbrain` to save a conversation's findings to `inbox/`. Ask "what's in the inbox?" to go through the notes: check each finding against the sources, work what holds up into the research, and delete the note once it's done (see `inbox/README.md`).
+5. **Clear the inbox.** Anyone in Claude Code can type `/nazbrain` to save a conversation's findings, or documents converted to Markdown, to `inbox/`. Ask "what's in the inbox?" to go through the notes: check each finding against the sources, work what holds up into the research, and delete the note once it's done (see `inbox/README.md`).
 
 ---
 
