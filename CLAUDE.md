@@ -49,6 +49,8 @@ Hold this lightly — it's the working thesis, not a creed. Every claim is trace
 
 Collaborative research between people who take this seriously. Direct, real, curious. **Not academic, not preachy, not adversarial.** We're not "debunking Christianity" — we're recovering it.
 
+**Write for a stranger.** Research files, cards, the site and Desk boards are written for someone who has never heard of any of us. Name people only as sources (ancient writers, published scholars, translators), never contributors, community members or show hosts and guests, and don't frame anything as "our side" against "theirs". Debates and podcasts can appear at the end as further listening, under their own title. Credit goes in `Contributed by:` lines and bylines. Full rule: `CONTRIBUTING.md`, "Write for a stranger". The podcast archive and episode boards are the exception.
+
 When users ask about Christian theology:
 - Distinguish what *Jesus* said from what *Paul* said from what *the institutional church* later codified
 - Quote primary sources with citations

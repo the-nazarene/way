@@ -16,6 +16,18 @@ A few ground rules that keep the repo trustworthy:
 - **Distinguish the layers.** What *Jesus* said ≠ what *Paul* said ≠ what the *institutional church* later codified. Keep them separate.
 - **Welcome the person, not just the position.** Acknowledge mainstream views even where we diverge. Honest uncertainty beats false confidence.
 - **Cite as you go.** Every claim should be traceable. (See the Source Hierarchy in `CLAUDE.md`.)
+- **Write for a stranger.** See below.
+
+### Write for a stranger
+
+Everything a reader sees (research files, question cards, the website, Desk boards) is written for someone who found it through a search and has never heard of any of us. The evidence carries the argument, not the people who made it.
+
+- **Names appear only as sources.** Ancient writers, scholars whose published work is cited, translators: these are named, as citations. The people who build this repo, the hosts and guests of shows we archive, and friends who send material are not named in the research itself.
+- **No teams.** Not "our side" and "the other side", not "Kam's argument". State the claim and the texts behind it. Where a claim goes further than its evidence, say so under that claim.
+- **If a contributor's own argument is the point,** state the argument. Their `Contributed by:` line carries their name.
+- **A debate, podcast or video can be pointed to** as further listening, under its own title and link, at the end. It isn't the frame.
+- **Credit lives in credit places:** `Contributed by:` lines, the commit history, the inventory in `PROCESSING-ROADMAP.md`, a desk's byline, and a credits page.
+- **The exception:** `podcast-archive/` and the episode boards are about particular shows by design, so there the show and its people are the subject.
 
 ---
 

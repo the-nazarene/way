@@ -7,7 +7,7 @@
 **Type:** Raw working transcript — debate on another channel
 **Contributed by:** Rex, 2026-11-18
 
-**Note:** A two-on-two debate. Kam and Aaron argue that Jesus rejected animal sacrifice; Dallas and Post argue the other side. John the Baptist's diet (locusts, Matthew 3:4 and Mark 1:6) comes up several times; see the locust desk, `canvas.html#desk=john-the-baptist-locusts`.
+**Note:** A two-on-two debate. Kam and Aaron argue that Jesus rejected animal sacrifice; Dallas and Post argue the other side. John the Baptist's diet (locusts, Matthew 3:4 and Mark 1:6) comes up several times; see the locust desk, `canvas.html#desk=what-did-john-the-baptist-eat`.
 
 ---
 

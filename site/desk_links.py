@@ -197,7 +197,7 @@ def _desk_verse_keys(root):
 
 
 SHOWS = {"the-jesus-way": "JESUS WAY", "kameron-waters": "KAM WATERS", "dr-tabor": "DR. TABOR",
-         "guest-appearances": "KAM WATERS · GUEST"}
+         "guest-appearances": "GUEST APPEARANCE"}
 
 
 def _moment(root, key, phrase, resolve_pointer, warnings, name):

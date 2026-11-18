@@ -1,0 +1,542 @@
+{
+ "slug": "what-did-john-the-baptist-eat",
+ "title": "What did John the Baptist eat?",
+ "subtitle": "Locusts, say Matthew and Mark. Honey that tasted of manna, says a Jewish-Christian gospel quoted by Epiphanius. The texts behind each reading, which came first, and what is still open.",
+ "by": "Rex",
+ "listed": false,
+ "desk": {
+  "v": 1,
+  "vp": [
+   40,
+   40,
+   0.3
+  ],
+  "it": [
+   [
+    "f",
+    "1 · THE CASE FOR LOCUSTS",
+    0,
+    424,
+    1150,
+    860,
+    1
+   ],
+   [
+    "f",
+    "2 · THE CASE FOR THE HONEY CAKE",
+    1240,
+    424,
+    1170,
+    986,
+    2
+   ],
+   [
+    "f",
+    "3 · WHAT ABOUT CAROB?",
+    0,
+    1560,
+    598,
+    598,
+    3
+   ],
+   [
+    "f",
+    "4 · HOW TO WEIGH IT",
+    688,
+    1560,
+    868,
+    842,
+    0
+   ],
+   [
+    "f",
+    "5 · STILL OPEN",
+    0,
+    2552,
+    578,
+    760,
+    2
+   ],
+   [
+    "f",
+    "GO DEEPER",
+    668,
+    2552,
+    302,
+    566,
+    1
+   ],
+   [
+    "f",
+    "6 · FURTHER LISTENING",
+    0,
+    3462,
+    1130,
+    364,
+    3
+   ],
+   [
+    "n",
+    "WHAT DID JOHN THE BAPTIST EAT?\n\nThe gospels say locusts and wild honey (Matthew 3:4, Mark 1:6), and every ancient manuscript of them we know of agrees.\n\nBut one early Jewish-Christian gospel, quoted around 375 by Epiphanius, who opposed the group that used it, said wild honey \"which tasted of manna, like a cake made with oil\", and no locusts. In Greek the two words are one letter apart: AKRIS, locust, and ENKRIS, cake.\n\nThe locust reading has the earlier and wider evidence. The honey-cake reading is old and deliberate, built on the Greek Bible's words for manna, so it is not a modern invention. And one detail softens the whole dispute: Epiphanius, who defended the locusts, also said John ate no meat.",
+    0,
+    0,
+    560
+   ],
+   [
+    "n",
+    "HOW TO READ THIS BOARD\n\nStamped cards are real sources: KJV verses, and sources on the case files, checked by the build against texts the library holds.\n\nNotes are ours. Where a note quotes a text, it gives the file the words were copied from, so anyone can check them.\n\nThe moment cards at the end are from a public debate where this question came up, with a ▶ link to the second each line was said. They are pointers, not proof.\n\nPress → to walk it section by section.",
+    600,
+    0,
+    540
+   ],
+   [
+    "q",
+    "sacrifice-culture-vegetarian-jesus",
+    1180,
+    0,
+    270
+   ],
+   [
+    "n",
+    "THE CASE FOR LOCUSTS\n\nIt is the reading of every gospel text we hold, it was lawful food, a Jewish community of the same era wrote rules for eating it, and the early writers we hold who mention John's food all read it.\n\nThe strongest single point: Mark, the gospel most scholars date earliest, says locusts, and the honey-cake reading survives only in a hostile quotation from the fourth century.",
+    26,
+    450,
+    250
+   ],
+   [
+    "v",
+    "Mark 1:6",
+    26,
+    820,
+    250
+   ],
+   [
+    "v",
+    "Matthew 3:4",
+    26,
+    968,
+    250
+   ],
+   [
+    "n",
+    "THE GREEK\n\nMatthew 3:4 (Westcott-Hort): \"η δε τροφη ην αυτου ακριδες και μελι αγριον\", his food was locusts and wild honey.\n\nMark 1:6: \"και εσθων ακριδας και μελι αγριον\", and eating locusts and wild honey.\n\n(christianity/Incoming/greek-nt-westcott-hort/01-matthew.md, 02-mark.md)\n\nWe know of no Greek manuscript of either gospel that reads cake here. Confirming that properly needs a critical apparatus, which the library does not hold yet.",
+    302,
+    450,
+    250
+   ],
+   [
+    "n",
+    "LAWFUL FOOD\n\nLeviticus 11:22 names four kinds of locust as clean, the one class of insect the Law allows. A Torah-keeping Jew in the wilderness could eat them.",
+    302,
+    892,
+    250
+   ],
+   [
+    "v",
+    "Leviticus 11:22",
+    302,
+    1082,
+    250
+   ],
+   [
+    "n",
+    "A COMMUNITY OF JOHN'S ERA ATE THEM\n\nThe Damascus Document, a rule book of the movement behind the Dead Sea Scrolls, sets out how locusts are to be killed, and in the same passage how fish are to be bled. It shows a strict Jewish community near John's world treating locusts as food. It does not tell us what John himself ate.\n\nNot held: the page beside this is outside the library and names no translator. A named translation is on the list in section 5.",
+    578,
+    450,
+    250
+   ],
+   [
+    "w",
+    "https://www.essene.com/History%26Essenes/cd.htm",
+    "Damascus Document XII 11-15, \"Of food\" (translator not named on the page)",
+    "As for the various kinds of locust, these are to be put in fire or water while they are still alive",
+    578,
+    856,
+    250
+   ],
+   [
+    "n",
+    "THE EARLY WRITERS WE HOLD SAY LOCUSTS\n\nJustin Martyr, about 155: John was \"eating nothing but locusts and wild honey\" (Dialogue with Trypho 88; christianity/Incoming/justin-martyr-dialogue-with-trypho-full-text.md).\n\nJerome, around 400: John \"had for his meat locusts and wild honey\" (Letter 107, to Laeta), and \"his diet of locusts and wild honey\" was designed \"to encourage virtue and continence\" (Letter 125, to Rusticus; christianity/Incoming/jerome-letters-full-text.md).",
+    854,
+    450,
+    250
+   ],
+   [
+    "n",
+    "A TWIST: EPIPHANIUS DID NOT COUNT LOCUSTS AS MEAT\n\nPanarion 30,19,3: \"'not eating nor drinking' means that John took no share of meat or wine, but partook only of locusts and honey — and plainly of water too.\"\n\n(christianity/Incoming/epiphanius-panarion-book-1-full-text.md, 30,19,3)\n\nSo the man who defends the locusts against the honey-cake gospel also says John ate no meat. On his reading, locusts and a fleshless John are not in conflict.",
+    854,
+    892,
+    270
+   ],
+   [
+    "n",
+    "THE CASE FOR THE HONEY CAKE\n\nThe gospel Epiphanius says the Ebionites used, a Jewish-Christian movement, had John living on wild honey that tasted of manna: the bread from heaven Israel ate in the wilderness. The gospels' own words about John's food fit that picture: Nazirite-style abstinence from the womb, \"neither eating bread nor drinking wine\". And early tradition remembered James, the brother of Jesus, as eating no flesh.\n\nIts weakness is that we have the verse only from its opponent, in one quotation, with no manuscript of the gospel itself.",
+    1266,
+    450,
+    250
+   ],
+   [
+    "n",
+    "THE VERSE ITSELF\n\nPanarion 30,13,4b-c (trans. Craig Wescoe): \"And John had clothing made from camel's hair, and a belt of leather round his loins. And his food, it says, was wild honey, which tasted of manna, like a cake made with oil\".\n\n30,13,5: \"so that, no doubt, they may turn the word of truth into a lie and make it a cake in honey instead of locusts.\"\n\nThe Greek, checked against Holl's edition, has ἐγκρίς (cake) \"instead of\" ἀκρίδων (locusts).\n\n(christianity/Incoming/epiphanius-panarion-book-1-full-text.md; audits/2026-10-20-panarion-quotations.md, row 38)",
+    1266,
+    928,
+    270
+   ],
+   [
+    "n",
+    "NOT A RANDOM WORD: IT IS THE MANNA WORD\n\nThe Septuagint, the Greek Bible, describes manna with this word. Brenton's translation renders it \"wafer\" both times:\n\nExodus 16:31: \"the taste of it as a wafer with honey.\"\nNumbers 11:8: \"the sweetness of it was as the taste [of] wafer made with oil.\"\n\n(christianity/Incoming/septuagint-brenton/02-exodus.md, 04-numbers.md)\n\nThe honey-cake verse joins the two: honey, manna, a cake made with oil. Whoever wrote it knew the Greek Bible and was making John the man who lived on wilderness bread. We hold Brenton's English, not the Greek of the Septuagint, so the word itself is checked through the claims file (claims/bible-greek-hebrew.md), not here.",
+    1562,
+    450,
+    270
+   ],
+   [
+    "v",
+    "Exodus 16:31",
+    1562,
+    1036,
+    250
+   ],
+   [
+    "v",
+    "Numbers 11:8",
+    1562,
+    1197,
+    250
+   ],
+   [
+    "n",
+    "CAKES AND HONEY FOR A PROPHET\n\nThe Greek Bible's 3 Kingdoms 12:24i (Brenton): \"And the woman arose, and took in her hand bread, and two cakes, and grapes, and a pot of honey, for Achia\".\n\n(christianity/Incoming/septuagint-brenton/11-1-kings.md)\n\nFood brought to a prophet: bread, cakes and honey. The Hebrew of the same story (KJV 1 Kings 14:3, beside this) has loaves, cracknels and a cruse of honey.",
+    1858,
+    450,
+    250
+   ],
+   [
+    "v",
+    "1 Kings 14:3",
+    1858,
+    838,
+    250
+   ],
+   [
+    "n",
+    "WHAT ELSE THE GOSPELS SAY ABOUT HIS FOOD\n\nLuke 1:15: he \"shall drink neither wine nor strong drink\", the language of the Nazirite vow (Numbers 6:3), from birth.\n\nLuke 7:33: he \"came neither eating bread nor drinking wine\". Matthew 11:18: \"neither eating nor drinking\".\n\nThese describe abstinence, not a menu. They fit a John who did not eat what others ate. They do not settle which wilderness food he did eat.",
+    1858,
+    986,
+    250
+   ],
+   [
+    "v",
+    "Luke 1:15",
+    2134,
+    450,
+    250
+   ],
+   [
+    "v",
+    "Luke 7:33",
+    2134,
+    611,
+    250
+   ],
+   [
+    "v",
+    "Matthew 11:18",
+    2134,
+    746,
+    250
+   ],
+   [
+    "n",
+    "A PARALLEL: JAMES\n\nHegesippus says James, the brother of Jesus, was holy from his mother's womb, drank no wine and ate no flesh. A fleshless John in the honey-cake gospel sits beside a fleshless James in Hegesippus: the same picture of holiness. The source card is beside this.",
+    2134,
+    881,
+    250
+   ],
+   [
+    "s",
+    "sacrifice-culture-vegetarian-jesus",
+    14,
+    2134,
+    1143,
+    250
+   ],
+   [
+    "n",
+    "WHAT ABOUT CAROB?\n\nCarob pods are sometimes put forward as what John's \"locusts\" really were.\n\nWhat holds: carob pods are a real wilderness food, and the gospels name them. The \"husks that the swine did eat\" in Luke 15:16 are κερατια, carob pods, in the Greek (Westcott-Hort: \"εκ των κερατιων\"). Carob is still called \"locust bean\" and \"St John's bread\" in English.\n\nWhat doesn't hold yet: no ancient text we hold says John ate carob. The names connect the carob to John; they do not show who first connected them, or when. Finding that source is on the list in section 5.\n\nDifferent from the honey cake: the cake is a reading in an ancient gospel; the carob is an interpretation of the word locust.",
+    26,
+    1586,
+    270
+   ],
+   [
+    "v",
+    "Luke 15:16",
+    322,
+    1586,
+    250
+   ],
+   [
+    "n",
+    "IN ONE SENTENCE\n\n\"Our earliest gospel says John ate locusts. A gospel used by the Ebionites, a Jewish-Christian movement, quoted by Epiphanius, said honey that tasted of manna, using the Greek Bible's own word for it. So a fleshless John is an old reading, not a modern invention. Which reading came first is contested.\"",
+    714,
+    1586,
+    540
+   ],
+   [
+    "n",
+    "WHICH CAME FIRST? THE HONEST STATE OF IT\n\nA pun that only works in Greek tells you the difference arose in Greek. It does not tell you which word came first.\n\nFOR LOCUSTS FIRST: Mark is usually dated earliest; every gospel manuscript we know of reads locusts; the Ebionite gospel looks to most scholars like a later Greek text that draws on the canonical ones.\n\nFOR THE CAKE FIRST: some scholars argue that the Hebrew gospel kept by Jewish-Christian groups was early, so its readings could be older than the Greek gospels. How the Ebionite gospel relates to that Hebrew gospel is itself disputed (James R. Edwards has written on both).\n\nThat is a question about the whole Hebrew gospel, not this one verse. The verse cannot settle it by itself.",
+    714,
+    1776,
+    250
+   ],
+   [
+    "n",
+    "PUSHING THE HONEY-CAKE READING TOO FAR\n\n\"We know for certain it was not insects.\" No text we hold supports certainty.\n\n\"The church fathers kept a honey-cake tradition.\" The early writers we hold say locusts; the cake is one gospel, quoted once, by its opponent.\n\n\"It was carob.\" A later interpretation, not an ancient reading, until an early source turns up.",
+    1280,
+    1586,
+    250
+   ],
+   [
+    "n",
+    "PUSHING THE LOCUST READING TOO FAR\n\n\"Epiphanius proves they changed it.\" He assumes it. He writes as their opponent, and the one-letter pun shows only that the two readings met in Greek.\n\n\"Locusts make John a meat-eater.\" Epiphanius himself says John ate no meat and still ate locusts (30,19,3). And the Damascus Document gives locusts a rule of their own, next to the rule for fish.",
+    1280,
+    1974,
+    250
+   ],
+   [
+    "n",
+    "WHAT WE WOULD LIKE TO GET HOLD OF\n\n1. THE DAMASCUS DOCUMENT in a named public-domain translation (Schechter 1910), so the locust rule can be held, not just pointed at.\n\n2. A CRITICAL APPARATUS for Matthew 3:4 and Mark 1:6, to state exactly what the manuscripts read.\n\n3. THE FIRST SOURCE THAT TIES CAROB TO JOHN, with its date.\n\n4. ISIDORE OF PELUSIUM, reported to have read John's akrides as the tips of plants rather than insects. Unchecked: we have not seen the text.\n\n5. THE SLAVONIC JOSEPHUS on John, reported to describe a Baptist who ate no flesh. A late and disputed text; worth holding so it can be described exactly.\n\n6. JAMES R. EDWARDS, The Hebrew Gospel and the Development of the Synoptic Tradition (2009), the main scholarship for an early Hebrew gospel. In copyright: notes and short quotes only.",
+    26,
+    2578,
+    250
+   ],
+   [
+    "n",
+    "WHERE THIS GOES NEXT\n\nThis board is the groundwork for a section on the sacrifice question card: the objection \"John ate locusts\", the variant stated exactly, and the honest limit. The card changes only after the sources here have been checked.",
+    302,
+    2578,
+    250
+   ],
+   [
+    "d",
+    "christianity/hebrew-gospel-of-matthew.md",
+    694,
+    2578,
+    250
+   ],
+   [
+    "d",
+    "questions/nazarene-sect-sacrifice-and-diet.md",
+    694,
+    2712,
+    250
+   ],
+   [
+    "d",
+    "christianity/biblical-case-for-vegetarian-jesus.md",
+    694,
+    2846,
+    250
+   ],
+   [
+    "d",
+    "christianity/james-the-just-key-to-understanding-jesus.md",
+    694,
+    2980,
+    250
+   ],
+   [
+    "n",
+    "FURTHER LISTENING\n\nThis question came up in a public debate on whether Jesus rejected animal sacrifice (YouTube, October 2026), from 3:07:34. The cards beside this jump to the second each line was said.\n\nThey are auto-captions with no speaker labels: pointers to the conversation, not evidence. The sections above say what the texts show.",
+    26,
+    3488,
+    250
+   ],
+   [
+    "m",
+    "kam-guest-13",
+    "Then what about the the locust and the honeycomb?",
+    302,
+    3488,
+    250
+   ],
+   [
+    "m",
+    "kam-guest-13",
+    "making cakes something in Greek into locust something in Greek",
+    302,
+    3613,
+    250
+   ],
+   [
+    "m",
+    "kam-guest-13",
+    "So, when you when you look at the pun, it can cut both ways.",
+    578,
+    3488,
+    250
+   ],
+   [
+    "m",
+    "kam-guest-13",
+    "The Gospels say that John ate locusts",
+    578,
+    3613,
+    250
+   ],
+   [
+    "m",
+    "kam-guest-13",
+    "I believe the Greek is earlier than the Hebrew",
+    854,
+    3488,
+    250
+   ]
+  ],
+  "ln": [
+   [
+    "n:8",
+    "n:9"
+   ],
+   [
+    "n:8",
+    "q:sacrifice-culture-vegetarian-jesus"
+   ],
+   [
+    "n:8",
+    "n:10"
+   ],
+   [
+    "n:8",
+    "n:16"
+   ],
+   [
+    "n:10",
+    "v:Mark 1:6"
+   ],
+   [
+    "v:Mark 1:6",
+    "v:Matthew 3:4"
+   ],
+   [
+    "n:10",
+    "n:11"
+   ],
+   [
+    "n:12",
+    "v:Leviticus 11:22"
+   ],
+   [
+    "n:13",
+    "w:https://www.essene.com/History%26Essenes/cd.htm|As for the various kinds of locust, these are to be put in fire or water while they are still alive"
+   ],
+   [
+    "n:14",
+    "n:15"
+   ],
+   [
+    "n:16",
+    "n:17"
+   ],
+   [
+    "n:17",
+    "n:18"
+   ],
+   [
+    "n:18",
+    "v:Exodus 16:31"
+   ],
+   [
+    "n:18",
+    "v:Numbers 11:8"
+   ],
+   [
+    "n:19",
+    "v:1 Kings 14:3"
+   ],
+   [
+    "n:16",
+    "n:20"
+   ],
+   [
+    "n:20",
+    "v:Luke 1:15"
+   ],
+   [
+    "n:20",
+    "v:Luke 7:33"
+   ],
+   [
+    "v:Luke 7:33",
+    "v:Matthew 11:18"
+   ],
+   [
+    "n:21",
+    "s:sacrifice-culture-vegetarian-jesus:14"
+   ],
+   [
+    "n:16",
+    "n:21"
+   ],
+   [
+    "n:18",
+    "n:19"
+   ],
+   [
+    "n:22",
+    "v:Luke 15:16"
+   ],
+   [
+    "n:15",
+    "n:26"
+   ],
+   [
+    "n:17",
+    "n:26"
+   ],
+   [
+    "n:22",
+    "n:25"
+   ],
+   [
+    "n:23",
+    "n:24"
+   ],
+   [
+    "n:24",
+    "n:27"
+   ],
+   [
+    "n:22",
+    "n:27"
+   ],
+   [
+    "n:13",
+    "n:27"
+   ],
+   [
+    "n:28",
+    "n:8"
+   ],
+   [
+    "n:28",
+    "d:questions/nazarene-sect-sacrifice-and-diet.md"
+   ],
+   [
+    "n:16",
+    "d:christianity/hebrew-gospel-of-matthew.md"
+   ],
+   [
+    "n:29",
+    "m:kam-guest-13|Then what about the the locust and the honeycomb?"
+   ],
+   [
+    "m:kam-guest-13|making cakes something in Greek into locust something in Greek",
+    "n:17"
+   ],
+   [
+    "m:kam-guest-13|I believe the Greek is earlier than the Hebrew",
+    "n:24"
+   ]
+  ]
+ }
+}
