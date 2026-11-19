@@ -304,7 +304,7 @@ def main():
         return
     DIST.mkdir(parents=True, exist_ok=True)
     for name in ("index.html", "app.js", "styles.css", "favicon.svg", "favicon-room.svg", "apple-touch-icon.png", "apple-touch-icon-room.png", "og.png",
-                 "canvas.html", "canvas.css", "canvas.js", "desk-door.js", "street.css", "skin.js"):
+                 "canvas.html", "canvas.css", "canvas.js", "desk-door.js", "street.css", "skin.js", "flyer.pdf"):
         shutil.copy(SITE / "src" / name, DIST / name)
     settings = json.loads((SITE / "data" / "settings.json").read_text(encoding="utf-8"))
     settings = {k: v for k, v in settings.items() if not k.startswith("_")}

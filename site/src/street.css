@@ -78,6 +78,10 @@ html[data-skin="street"] .suggest li small:where(:not([data-surface="room"] .sur
 .link-switch:hover { text-decoration: underline; }
 html[data-skin="street"] .link-switch { border: 3px solid #000; color: #000; font-family: var(--head); font-size: 14px; letter-spacing: .02em; padding: 4px 12px; }
 
+/* The flyer link: a small black slip in the menu */
+html[data-skin="street"] .nav .nav-flyer:where(:not([data-surface="room"] .surface-wrap *)) { background: #000; color: #fff; padding: 5px 10px; transform: rotate(-2deg); display: inline-block; }
+html[data-skin="street"] .nav .nav-flyer:hover:where(:not([data-surface="room"] .surface-wrap *)) { background: #333; }
+
 /* Home */
 html[data-skin="street"] .home:where(:not([data-surface="room"] .surface-wrap *)), html[data-skin="street"] .objpage:where(:not([data-surface="room"] .surface-wrap *)) { max-width: 1200px; padding: 0 24px; gap: 36px; }
 html[data-skin="street"] .welcome:where(:not([data-surface="room"] .surface-wrap *)) { max-width: none; padding: 40px 0 8px; background: none; border: 0; box-shadow: none; transform: none; gap: 20px; }
