@@ -7,6 +7,12 @@
   "card": "questions/the-gospel-of-thomas.md",
   "aliases": ["is the Gospel of Thomas real", "when was Thomas written", "Thomas 114", "make herself male", "Nag Hammadi", "is Thomas Gnostic", "why isn't Thomas in the Bible", "Goodacre", "sayings gospel", "Oxyrhynchus"],
   "finding": "Thomas is a real, ancient, independently circulating collection of 114 Jesus sayings with no narrative, no passion, no atonement and no apocalypse, and the honest claim about it is narrower than our own notes have sometimes made. The defensible position is layered: a kernel of early sayings inside a collection whose received form is late and accretive. The mainstream dating of the collection is c. 140 CE; the 50-70 date is a real minority position. DeConick's rolling-corpus model is the most defensible frame. So we use Thomas as corroboration where it parallels Synoptic material, as evidence about a documented early community where it stands alone, and never as a standalone proof. It contains sayings we don't defend and would not read aloud, and we name them. Subtract Thomas entirely and every argument in this collection still stands on the red text.",
+  "findingLinks": [
+    {"words": "a kernel of early sayings", "sources": ["Gospel of Thomas 9, the Sower without the allegory"]},
+    {"words": "as corroboration where it parallels Synoptic material", "sources": ["Gospel of Thomas 3 and 113", "Luke 17:20-21"]},
+    {"words": "as evidence about a documented early community where it stands alone", "sources": ["Gospel of Thomas 12"]},
+    {"words": "It contains sayings we don't defend", "sources": ["Gospel of Thomas 114", "Gospel of Thomas 7, the lion"]}
+  ],
   "oneLiners": [
     "Mainstream dating is around 140. A real minority of specialists argue 50 to 70. We'll argue the layered model, and we'll tell you which layer we're standing on.",
     "Whether Thomas is early or late, it proves a Christian community transmitted Jesus with no cross, no blood and no judgment day. One of those two conclusions is true, and both help us.",

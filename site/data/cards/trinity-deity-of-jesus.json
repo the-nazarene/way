@@ -7,6 +7,13 @@
   "card": "questions/trinity-deity-of-jesus.md",
   "aliases": ["is Jesus God", "is the Trinity in the Bible", "did Jesus say he was God", "homoousios", "Nicaea", "my Lord and my God", "the Father is greater than I", "I and the Father are one", "was Jesus divine", "deity of Christ", "three in one"],
   "finding": "Be precise about the target, because the easy version attacks a doctrine nobody holds. We are not arguing the New Testament fails to distinguish Father from Son; Trinitarianism asserts that too. The claim is narrower: nothing Jesus says asserts what Nicaea asserts, one identical substance and co-equality. In the red text the traffic runs one way: the Father is greater, the Father is the only true God, authority is given to the Son, the Son does not know the day. The doctrine that resolves those texts is a fourth- and fifth-century product with a datable construction history. And what Jesus actually taught was participatory divinity: the unity he had with the Father is the unity he prays his followers will have. This is not an attack on reverence for Jesus. It's the difference between worshipping a ceiling and being shown a floor.",
+  "findingLinks": [
+    {"words": "the Father is greater", "sources": ["John 14:28"]},
+    {"words": "the Father is the only true God", "sources": ["John 17:3"]},
+    {"words": "authority is given to the Son", "sources": ["Matthew 28:18"]},
+    {"words": "the Son does not know the day", "sources": ["Mark 13:32"]},
+    {"words": "participatory divinity", "sources": ["John 10:34", "John 14:12", "Gospel of Thomas 108, 13, 3"]}
+  ],
   "oneLiners": [
     "We're not arguing Jesus isn't distinct from the Father; your own doctrine says that. We're asking where he ever says he's the same substance.",
     "\"The Father is greater than I.\" That's not our reading. That's the quote.",

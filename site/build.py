@@ -134,15 +134,29 @@ def resolve_repo(src, problems):
     snippet = None
     if "phrase" in src:
         flat = re.sub(r"\s+", " ", text)
-        i = norm(flat).find(norm(src["phrase"]))
+        # norm() drops characters, so keep, for each character it keeps, where
+        # that character sits in the flattened text: the window and the
+        # highlight then land on the phrase itself, not a few hundred
+        # characters off in a long file.
+        kept, where = [], []
+        for k, ch in enumerate(flat.lower().replace("’", "'")):
+            if re.match(r"[a-z0-9 ]", ch):
+                kept.append(ch); where.append(k)
+        i = "".join(kept).find(norm(src["phrase"]))
         if i < 0:
             problems.append(f"{src.get('title')}: phrase {src['phrase']!r} not found in {src['path']}")
         else:
-            # map back approximately: take a window around the phrase in the flattened text
-            lo = max(0, i - 600)
-            hi = min(len(flat), i + len(src["phrase"]) + 600)
-            snippet = ("…" if lo > 0 else "") + flat[lo:hi].strip() + ("…" if hi < len(flat) else "")
+            start, end = where[i], where[i + len(norm(src["phrase"])) - 1] + 1
+            lo = max(0, start - 600)
+            hi = min(len(flat), end + 600)
+            body = flat[lo:hi]
+            lead = len(body) - len(body.lstrip())
+            body = body.strip()
+            pre = "…" if lo > 0 else ""
+            snippet = pre + body + ("…" if hi < len(flat) else "")
+            mark = [len(pre) + start - lo - lead, len(pre) + end - lo - lead]
     return {"status": "held", "statusText": "HELD", "snippet": snippet,
+            **({"mark": mark} if snippet else {}),
             "open": REPO_URL + src["path"]}
 
 
@@ -159,6 +173,28 @@ def build_card(card, problems):
         else:
             s.update({"status": "not-held", "statusText": "NOT YET HELD · public domain", "passages": []})
         out["sources"].append(s)
+    # Words in the finding that open the sources behind them. Each link names
+    # sources on this card (a scripture ref, or a file source's title); the build
+    # refuses a link whose words aren't in the finding exactly once, or whose
+    # source isn't held, so a tap can only ever open text we actually hold.
+    links = []
+    for ln in card.get("findingLinks", []):
+        words = ln["words"]
+        if card["finding"].count(words) != 1:
+            problems.append(f"{card['slug']}: finding link {words!r} must appear exactly once in the finding")
+            continue
+        idx = []
+        for name in ln["sources"]:
+            hits = [i for i, s in enumerate(out["sources"]) if name in (s.get("ref"), s.get("title"))]
+            if not hits:
+                problems.append(f"{card['slug']}: finding link {words!r} names {name!r}, not a source on this card")
+            elif out["sources"][hits[0]]["status"] != "held":
+                problems.append(f"{card['slug']}: finding link {words!r} points at {name!r}, which is not held")
+            else:
+                idx.append(hits[0])
+        if idx:
+            links.append({"words": words, "src": idx})
+    out["findingLinks"] = links
     out["cardUrl"] = REPO_URL + card["card"]
     for g in out.get("goDeeper", []):
         if not (ROOT / g["path"]).exists():
@@ -270,7 +306,9 @@ def main():
     for name in ("index.html", "app.js", "styles.css", "favicon.svg", "favicon-room.svg", "apple-touch-icon.png", "apple-touch-icon-room.png", "og.png",
                  "canvas.html", "canvas.css", "canvas.js", "desk-door.js", "street.css", "skin.js"):
         shutil.copy(SITE / "src" / name, DIST / name)
-    (DIST / "data.json").write_text(json.dumps({"cards": cards, "repo": REPO_URL, "kjvHeld": bool(BOOK_FILES),
+    settings = json.loads((SITE / "data" / "settings.json").read_text(encoding="utf-8"))
+    settings = {k: v for k, v in settings.items() if not k.startswith("_")}
+    (DIST / "data.json").write_text(json.dumps({"cards": cards, "repo": REPO_URL, "kjvHeld": bool(BOOK_FILES), "settings": settings,
                                                 "objections": obj["objections"], "briefs": obj["briefs"]}, ensure_ascii=False, indent=1),
                                     encoding="utf-8")
     desk, desk_warnings = desk_links.build(cards, BOOK_FILES, load_book, ALIASES, REPO_URL, ROOT, resolve_pointer)

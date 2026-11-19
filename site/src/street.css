@@ -72,14 +72,23 @@ html[data-skin="street"] .suggest li:where(:not([data-surface="room"] .surface-w
 html[data-skin="street"] .suggest li small:where(:not([data-surface="room"] .surface-wrap *)) { font-family: var(--type); letter-spacing: .1em; text-transform: uppercase; }
 
 
+/* The source-links switch in the top bar (the front door's only button since
+   the Look switch moved into the Desk's square). Same face as that switch. */
+.link-switch { font: inherit; cursor: pointer; min-height: 32px; padding: 4px 10px; background: transparent; color: var(--text-light); border: 1px solid currentColor; }
+.link-switch:hover { text-decoration: underline; }
+html[data-skin="street"] .link-switch { border: 3px solid #000; color: #000; font-family: var(--head); font-size: 14px; letter-spacing: .02em; padding: 4px 12px; }
+
 /* Home */
 html[data-skin="street"] .home:where(:not([data-surface="room"] .surface-wrap *)), html[data-skin="street"] .objpage:where(:not([data-surface="room"] .surface-wrap *)) { max-width: 1200px; padding: 0 24px; gap: 36px; }
 html[data-skin="street"] .welcome:where(:not([data-surface="room"] .surface-wrap *)) { max-width: none; padding: 40px 0 8px; background: none; border: 0; box-shadow: none; transform: none; gap: 20px; }
 html[data-skin="street"] .welcome > *:where(:not([data-surface="room"] .surface-wrap *)) { background: none; }
 html[data-skin="street"] .welcome:where(:not([data-surface="room"] .surface-wrap *))::before,
-html[data-skin="street"] .welcome:where(:not([data-surface="room"] .surface-wrap *))::after { content: ""; position: absolute; width: 140px; height: 30px; background: var(--tape); opacity: .95; border: 0; border-radius: 0; margin: 0; z-index: 2; }
+html[data-skin="street"] .welcome-q:where(:not([data-surface="room"] .surface-wrap *))::after { content: ""; position: absolute; width: 140px; height: 30px; background: var(--tape); opacity: .95; border: 0; border-radius: 0; margin: 0; z-index: 2; }
 html[data-skin="street"] .welcome:where(:not([data-surface="room"] .surface-wrap *))::before { left: -14px; top: 92px; transform: rotate(-22deg); }
-html[data-skin="street"] .welcome:where(:not([data-surface="room"] .surface-wrap *))::after { left: min(640px, 70%); top: 86px; transform: rotate(16deg); }
+/* The second strip rides on the headline itself, so it always holds down the
+   banner's top-right corner, mirroring the top-left one, at any width. */
+html[data-skin="street"] .welcome-q:where(:not([data-surface="room"] .surface-wrap *)) { position: relative; }
+html[data-skin="street"] .welcome-q:where(:not([data-surface="room"] .surface-wrap *))::after { right: -46px; top: 4px; transform: rotate(24deg); }
 html[data-skin="street"] .welcome-q:where(:not([data-surface="room"] .surface-wrap *)) { align-self: flex-start; background: #000 !important; color: #fff; font-family: var(--head); font-size: clamp(44px, 8vw, 104px); line-height: .92; text-transform: uppercase; letter-spacing: -.01em; padding: 18px 28px 22px; transform: rotate(-2deg); max-width: 9.5em; }
 html[data-skin="street"] .welcome-p:where(:not([data-surface="room"] .surface-wrap *)) { font-size: 21px; line-height: 1.45; font-weight: 500; max-width: 760px; }
 html[data-skin="street"] .welcome-rules:where(:not([data-surface="room"] .surface-wrap *)) { list-style: none; padding: 0; font-size: 15px; line-height: 1.5; display: flex; flex-direction: column; gap: 0; max-width: 760px; }
@@ -240,7 +249,7 @@ html[data-skin="street"] .foot a:where(:not([data-surface="room"] .surface-wrap 
   html[data-skin="street"] .hint:where(:not([data-surface="room"] .surface-wrap *)) { display: none; }
   html[data-skin="street"] .nav:where(:not([data-surface="room"] .surface-wrap *)) { gap: 6px 14px; font-size: 11px; letter-spacing: .1em; }
   html[data-skin="street"] .welcome:where(:not([data-surface="room"] .surface-wrap *)) { padding-top: 28px; }
-  html[data-skin="street"] .welcome:where(:not([data-surface="room"] .surface-wrap *))::after { display: none; }
+  html[data-skin="street"] .welcome-q:where(:not([data-surface="room"] .surface-wrap *))::after { width: 90px; height: 22px; right: -10px; top: 0; }
   html[data-skin="street"] .welcome:where(:not([data-surface="room"] .surface-wrap *))::before { width: 90px; height: 22px; top: 64px; left: -10px; }
   html[data-skin="street"] .welcome-q:where(:not([data-surface="room"] .surface-wrap *)) { font-size: 46px; padding: 10px 14px 12px; }
   html[data-skin="street"] .welcome-p:where(:not([data-surface="room"] .surface-wrap *)) { font-size: 17px; }

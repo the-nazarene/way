@@ -7,6 +7,12 @@
   "card": "questions/method-and-criteria.md",
   "aliases": ["you pick and choose", "canon within a canon", "is the Bible corrupted", "Marcion", "redaction criticism", "criterion of embarrassment", "multiple attestation", "which parts of the Bible do you trust", "Jesus Seminar", "Jefferson Bible", "what would change your mind"],
   "finding": "We have a stated method, it is public, and it is applied the same way to passages we like and passages we don't. Four tools: multiple independent attestation; the direction of redaction (we distrust an editorial change that moves toward the editor's known theology and away from his own written source); the criterion of embarrassment (we trust material preserved against the preserver's interest); and the manuscript record itself, which is physical evidence. We are not claiming the Bible is corrupt. We are claiming it has an editorial history that textual critics of every persuasion already document, visible at specific, nameable seams. The method is not a modern invention: in the Clementine literature an ancient opponent asks Peter the exact question we get asked, and gets a criterion in reply.",
+  "findingLinks": [
+    {"words": "the direction of redaction", "sources": ["Mark 14:24", "Matthew 26:28"]},
+    {"words": "the criterion of embarrassment", "sources": ["Mark 1:9", "Matthew 25:37"]},
+    {"words": "the manuscript record itself", "sources": ["Mark 16:9", "1 John 5:7", "John 8:11"]},
+    {"words": "asks Peter the exact question we get asked, and gets a criterion in reply", "sources": ["Homilies 3.48-51, Simon asks for the criterion"]}
+  ],
   "oneLiners": [
     "Everyone reads with a criterion. Ours is written down. Ask him for his.",
     "We're not saying the Bible is corrupted. We're saying it was edited, in specific places, and the manuscripts are where we found out.",

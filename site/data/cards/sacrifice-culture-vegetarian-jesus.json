@@ -7,6 +7,14 @@
   "card": "questions/sacrifice-culture-vegetarian-jesus.md",
   "aliases": ["was Jesus a vegetarian", "did Jesus eat meat", "did Jesus eat lamb at Passover", "cleansing of the temple", "did Jesus eat fish", "animal sacrifice", "I desire mercy not sacrifice", "Lamb of God", "did Jesus oppose the temple", "James the Just vegetarian", "Ebionites meat"],
   "finding": "Jesus stood in the Hebrew prophetic tradition that rejected animal sacrifice as something God never asked for, and he said so, twice, quoting Hosea. His single most dramatic public act was shutting down the sacrificial economy inside the Temple while quoting the one chapter in Jeremiah where God denies ever commanding burnt offerings. That action is what got him killed. His family and community carried the same position: his brother James ate no meat and drank no wine, and the Nazarene-Ebionite successors held that meat-eating and sacrifice were unlawful. We do not claim certainty about what was on Jesus's plate. We claim the anti-sacrifice position is documented, inherited and central, and that reading his death as the blood sacrifice God required inverts the thing he spent his ministry opposing. Scope control: our claim is about where he located God's requirement, not that he never touched the institutions of his own society.",
+  "findingLinks": [
+    {"words": "twice", "sources": ["Matthew 9:13", "Matthew 12:7"]},
+    {"words": "quoting Hosea", "sources": ["Hosea 6:6"]},
+    {"words": "shutting down the sacrificial economy inside the Temple", "sources": ["John 2:15", "Mark 11:16"]},
+    {"words": "the one chapter in Jeremiah where God denies ever commanding burnt offerings", "sources": ["Jeremiah 7:22"]},
+    {"words": "his brother James ate no meat and drank no wine", "sources": ["Hegesippus on James, in Eusebius, Church History 2.23"]},
+    {"words": "held that meat-eating and sacrifice were unlawful", "sources": ["Recognitions 1.37, the true Prophet ends the sacrifices", "Homilies 3.45, sacrifice and slaughter"]}
+  ],
   "oneLiners": [
     "He said \"I desire mercy, not sacrifice,\" and then he walked into the Temple and let the animals out. That's not a metaphor, that's a policy.",
     "He quoted the one chapter in the Bible where God denies ever asking for sacrifice. Then they decided to kill him. Those two facts are in the same paragraph of Mark.",

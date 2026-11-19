@@ -7,6 +7,12 @@
   "card": "questions/how-we-read-john.md",
   "aliases": ["John 3:16", "is John reliable", "you cite John when it helps", "eat my flesh and drink my blood", "John 6:53", "whoever believes in me", "I am the way the truth and the life", "is the Gospel of John historical", "John vs the Synoptics", "the Lamb of God"],
   "finding": "We read John the way critical scholarship reads it: a theologically developed interpretive gospel, c. 90-110 CE, by an author who tells you his purpose out loud, \"these are written so that you may believe.\" That verdict cuts against us as hard as for us, and we apply it both ways. John's long discourses are the least likely material in the gospels to be verbatim, because they most perfectly serve the author's stated program. So we don't build a positive case on John's discourses where a Synoptic or Thomas parallel exists; where we cite John, it's because the line runs against John's own theological interest; and the belief-condition material is exactly where John's interest is strongest, which makes it the weakest candidate for the historical Jesus in the corpus. That's the rule. It costs us several verses we like, and we list them.",
+  "findingLinks": [
+    {"words": "these are written so that you may believe", "sources": ["John 20:31"]},
+    {"words": "the line runs against John's own theological interest", "sources": ["John 14:28", "John 5:29"]},
+    {"words": "the belief-condition material", "sources": ["John 3:16", "John 14:6"]},
+    {"words": "It costs us several verses we like", "sources": ["John 2:15", "John 20:23", "John 14:17"]}
+  ],
   "oneLiners": [
     "John tells you why he wrote it: \"so that you may believe.\" Chapter 20, verse 31. That's the author, not us.",
     "Every verse that makes belief the condition of salvation is in one gospel. The one written last, by the author who said he wrote it to produce belief.",
