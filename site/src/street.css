@@ -249,3 +249,215 @@ html[data-skin="street"] .foot a { color: #000; font-weight: 700; }
   html[data-skin="street"] .obj-teaser { padding: 20px; }
   html[data-skin="street"] .obj-teaser-top { font-size: 26px; }
 }
+
+/* ---------- the Desk (canvas.html) ----------
+   The same skin over Rex's desk: a pasted-up wall, black section tabs, taped
+   white slips, black-paper notes. Only colours and faces change here; no
+   sizes that canvas.js measures. */
+
+html[data-skin="street"] {
+  --frame-1: #000000;
+  --frame-2: #000000;
+  --frame-3: #000000;
+  --frame-4: #000000;
+  --desk-grid: transparent;
+  --sel: #1f4fbf;
+}
+html[data-skin="street"] .desk-body { padding: 0 16px 16px; }
+html[data-skin="street"] .desk-body .top { margin: 0 -16px 0; }
+html[data-skin="street"] .desk-form { margin: 14px auto 12px; max-width: 1380px; }
+html[data-skin="street"] #dq { border: 0; font-family: var(--mono); font-size: 16px; font-weight: 500; padding: 12px 14px; background: #fff; }
+html[data-skin="street"] .desk-form .hint { color: #444; }
+
+html[data-skin="street"] .tool { font-family: var(--head); font-size: 14px; letter-spacing: .02em; text-transform: uppercase; background: #fff; color: #000; border: 3px solid #000; }
+html[data-skin="street"] .tool:hover, html[data-skin="street"] .tool.more-btn[aria-expanded="true"] { background: #000; color: #fff; }
+html[data-skin="street"] .tool:focus-visible { outline: 3px solid var(--sel); }
+html[data-skin="street"] .tool.toggle.is-on, html[data-skin="street"] .tool.present { background: #000; color: #fff; border-color: #000; }
+html[data-skin="street"] .tool.present:hover { background: #333; color: #fff; }
+html[data-skin="street"] .tool.danger:hover { background: #b00000; color: #fff; border-color: #b00000; }
+html[data-skin="street"] .more-menu { background: #fff; border: 3px solid #000; box-shadow: 5px 5px 0 rgba(0,0,0,.18); }
+html[data-skin="street"] .more-menu button { font-family: var(--type); font-weight: 700; color: #000; }
+html[data-skin="street"] .more-menu button:hover, html[data-skin="street"] .more-menu button:focus-visible { background: #000; color: #fff; }
+html[data-skin="street"] .more-menu button.danger { color: #b00000; border-top: 2px dashed #000; }
+html[data-skin="street"] .more-menu button.danger:hover { background: #b00000; color: #fff; }
+html[data-skin="street"] .shared-bar { background: #fff; border: 3px solid #000; border-left-width: 8px; }
+html[data-skin="street"] .shared-text .eyebrow { color: #000; }
+
+/* The trays */
+html[data-skin="street"] .tray { background: #fff; border: 3px solid #000; }
+html[data-skin="street"] .tray-top { background: #000; }
+html[data-skin="street"] .tray-title { font-family: var(--head); font-size: 18px; letter-spacing: .02em; color: #fff; text-transform: uppercase; }
+html[data-skin="street"] .tray-collapse { color: #fff; border-color: #fff; }
+html[data-skin="street"] .tray-search { background: #fff; border-bottom: 3px solid #000; }
+html[data-skin="street"] #tq { border: 2px solid #000; font-family: var(--mono); }
+html[data-skin="street"] #tq:focus { outline: 3px solid var(--sel); }
+html[data-skin="street"] .tray-section { border-top: 2px dashed #000; }
+html[data-skin="street"] .tray-note, html[data-skin="street"] .tray-none { color: #444; }
+html[data-skin="street"] .tray-case, html[data-skin="street"] .tray-qcard { border: 2px solid #000; box-shadow: 3px 3px 0 rgba(0,0,0,.16); }
+html[data-skin="street"] .tray-case span, html[data-skin="street"] .tray-qcard .qtext { font-family: var(--head); text-transform: uppercase; font-size: 14px; line-height: 1.1; }
+html[data-skin="street"] .tray-case:hover, html[data-skin="street"] .tray-case:focus { background: #f2f2f2; }
+html[data-skin="street"] .tray-desk, html[data-skin="street"] .empty-desks .tool { background: #000; color: #fff; border: 3px solid #000; }
+html[data-skin="street"] .tray-desk:hover, html[data-skin="street"] .empty-desks .tool:hover { background: #333; }
+html[data-skin="street"] .tray-desk small, html[data-skin="street"] .empty-desks .tool small { color: #bbb; }
+html[data-skin="street"] .fam { border: 2px solid #000; }
+html[data-skin="street"] .fam-head { color: #000; font-weight: 700; }
+html[data-skin="street"] .fam-head:hover { background: #f2f2f2; }
+html[data-skin="street"] .fam-src { border: 2px solid #000; border-left-width: 2px; box-shadow: none; }
+html[data-skin="street"] .fam-src.side-against { border-left-width: 6px; }
+html[data-skin="street"] .fam-src.side-other { border-left-style: dashed; }
+html[data-skin="street"] .here-row { border: 2px solid #000; border-left-width: 5px; color: #000; }
+html[data-skin="street"] .here-row:hover, html[data-skin="street"] .here-row:focus-visible { background: #000; color: #fff; }
+html[data-skin="street"] .here-play, html[data-skin="street"] .tray-present { background: #000; color: #fff; border: 2px solid #000; }
+html[data-skin="street"] .tray-finding { color: #000; }
+html[data-skin="street"] .tray-finding .chip.inline, html[data-skin="street"] .chip.inline { color: #000; border-bottom: 2px solid #000; }
+html[data-skin="street"] .tray-back, html[data-skin="street"] .tray-more { color: #000; border-color: #000; }
+html[data-skin="street"] .chip { border: 2px solid #000; }
+html[data-skin="street"] .chip:hover, html[data-skin="street"] .chip:focus-visible { background: #000; color: #fff; }
+html[data-skin="street"] .chip:hover .chip-mark { color: #ccc; }
+
+/* The surface: a wall */
+html[data-skin="street"] .surface { background: var(--wallpaper); border: 4px solid #000; box-shadow: none; }
+html[data-skin="street"] .surface:focus-visible { outline: 3px solid var(--sel); }
+html[data-skin="street"] .marquee { border: 2px dashed var(--sel); background: rgba(31,79,191,.07); }
+html[data-skin="street"] .hud { color: #444; }
+
+html[data-skin="street"] .frame { border: 4px solid #000; background: rgba(255,255,255,.5); }
+html[data-skin="street"] .frame.is-selected { border-color: var(--sel); }
+html[data-skin="street"] .frame-title { top: -34px; left: -4px; padding: 5px 12px 6px; background: #000; color: #fff; font-family: var(--head); font-size: 16px; letter-spacing: .02em; text-transform: uppercase; }
+html[data-skin="street"] .frame.is-selected .frame-title { background: var(--sel); }
+html[data-skin="street"] .frame-title input { color: #fff; font-family: var(--head); font-size: 16px; letter-spacing: .02em; text-transform: uppercase; }
+html[data-skin="street"] .frame-del { color: #fff; }
+html[data-skin="street"] .frame-grip { background: #000; }
+
+html[data-skin="street"] .node .pincard:hover, html[data-skin="street"] .node .pincard:focus,
+html[data-skin="street"] .node .doccard:hover, html[data-skin="street"] .node .doccard:focus { outline: 3px solid #000; outline-offset: 2px; }
+html[data-skin="street"] .node.is-selected .pincard, html[data-skin="street"] .node.is-selected .qcard,
+html[data-skin="street"] .node.is-selected .doccard { outline: 3px solid var(--sel); outline-offset: 2px; }
+html[data-skin="street"] .node.is-dragging .pincard { box-shadow: 10px 12px 0 rgba(0,0,0,.2); }
+html[data-skin="street"] .node .pincard.verse { border-top-width: 6px; }
+html[data-skin="street"] .node .pincard.moment { background: #f4f4f1; border-top: 3px dashed #777; }
+html[data-skin="street"] .node .doccard { background: #fff; border: 3px solid #000; border-left-width: 8px; box-shadow: 4px 4px 0 rgba(0,0,0,.18); }
+html[data-skin="street"] .node-tools button { background: #000; color: #fff; border: 0; font-family: var(--type); font-weight: 700; }
+html[data-skin="street"] .node:hover .pin { box-shadow: 0 0 0 2px #000, 0 0 0 7px rgba(0,0,0,.15); }
+html[data-skin="street"] .node .pin:hover { box-shadow: 0 0 0 2px #000, 0 0 0 7px rgba(0,0,0,.2); }
+
+/* A note: black paper, white words. Never a source. */
+html[data-skin="street"] .node .notepad { background: #000; color: #fff; box-shadow: 4px 4px 0 rgba(0,0,0,.2); padding: 14px 16px; }
+html[data-skin="street"] .node .notepad .eyebrow { color: #bbb; }
+html[data-skin="street"] .node .notepad textarea { color: #fff; font-family: var(--mono); font-size: 13px; }
+html[data-skin="street"] .node .notepad textarea:focus { outline: 1px dashed #fff; }
+html[data-skin="street"] .node .notepad textarea:not([readonly]) { outline: 2px solid #fff; }
+html[data-skin="street"] .node .notepad.verdict { border-left: 8px solid #777; }
+html[data-skin="street"] .node .notepad.verdict-holds { border-left-color: #fff; }
+
+/* String */
+html[data-skin="street"] .string-line { stroke: #000; stroke-width: 2; }
+html[data-skin="street"] .string-line.other { stroke: #888; }
+html[data-skin="street"] .string-line.is-picked { stroke: var(--sel); }
+html[data-skin="street"] .guide-line { stroke: var(--sel); }
+html[data-skin="street"] .string-cut circle, html[data-skin="street"] .string-words-btn circle { fill: #fff; stroke: #000; }
+html[data-skin="street"] .string-cut path { stroke: #000; }
+html[data-skin="street"] .string-cut:hover circle, html[data-skin="street"] .string-words-btn:hover circle { fill: #000; }
+html[data-skin="street"] .string-cut:hover path { stroke: #fff; }
+html[data-skin="street"] .string-words rect { fill: #fff; stroke: #000; stroke-width: 2; }
+html[data-skin="street"] .string-words text { fill: #000; font-family: var(--mono); font-weight: 500; }
+html[data-skin="street"] .string-words-btn text { fill: #000; }
+html[data-skin="street"] .string-words-btn:hover text { fill: #fff; }
+html[data-skin="street"] .string-words-edit { background: #fff; border: 3px solid #000; }
+html[data-skin="street"] .surface.is-drop { outline: 4px dashed #000; }
+html[data-skin="street"] .node.is-target .pincard, html[data-skin="street"] .node.is-target .qcard,
+html[data-skin="street"] .node.is-target .doccard, html[data-skin="street"] .node.is-target .notepad { outline: 4px solid var(--sel); }
+
+/* The empty desk: the headline treatment */
+html[data-skin="street"] .empty-inner { color: #444; }
+html[data-skin="street"] .empty-inner .eyebrow { color: #000; }
+html[data-skin="street"] .empty-q { display: inline-block; background: #000; color: #fff; font-family: var(--head); font-size: clamp(34px, 4.4vw, 60px); line-height: .95; text-transform: uppercase; padding: 12px 22px 14px; transform: rotate(-1.5deg); margin: 12px 0 26px; }
+html[data-skin="street"] .empty-choice { background: #fff; border: 4px solid #000; box-shadow: 5px 5px 0 rgba(0,0,0,.16); }
+html[data-skin="street"] .empty-choice:nth-child(1) { transform: rotate(-.6deg); }
+html[data-skin="street"] .empty-choice:nth-child(3) { transform: rotate(.6deg); }
+html[data-skin="street"] .empty-start p { color: #000; }
+html[data-skin="street"] .empty-inner .small { color: #444; }
+
+/* Present mode and reading a board */
+html[data-skin="street"] body.presenting .surface { box-shadow: none; }
+html[data-skin="street"] body.presenting .surface::before { background: linear-gradient(rgba(255,255,255,.95), rgba(255,255,255,0)); }
+html[data-skin="street"] body.presenting .surface::after { background: linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.9)); }
+html[data-skin="street"] body.reading .surface { box-shadow: none; border: 4px solid #000; }
+html[data-skin="street"] .pres-caption .eyebrow { color: #000; font-family: var(--type); font-weight: 700; }
+html[data-skin="street"] .pres-title { display: inline-block; background: #000; color: #fff; font-family: var(--head); text-transform: uppercase; line-height: 1; padding: 8px 16px 10px; text-shadow: none; transform: rotate(-1deg); }
+html[data-skin="street"] .pres-sub { color: #000; font-weight: 500; background: rgba(255,255,255,.85); }
+html[data-skin="street"] .pres-bar { background: #fff; border: 3px solid #000; box-shadow: 5px 5px 0 rgba(0,0,0,.18); }
+html[data-skin="street"] .pres-bar button { color: #000; border: 2px solid #000; font-family: var(--head); font-size: 13px; letter-spacing: .02em; text-transform: uppercase; }
+html[data-skin="street"] .pres-bar button:hover, html[data-skin="street"] .pres-bar button:focus-visible { background: #000; color: #fff; }
+html[data-skin="street"] .pres-bar .pres-dot { background: #bbb; border: 0; }
+html[data-skin="street"] .pres-bar .pres-dot.is-on { background: #000; }
+html[data-skin="street"] .pres-sep { background: #000; }
+html[data-skin="street"] .pres-keys { color: #444; }
+
+/* Help panel */
+html[data-skin="street"] .help-panel { border: 4px solid #000; box-shadow: 6px 6px 0 rgba(0,0,0,.18); }
+html[data-skin="street"] .help-title { font-family: var(--head); font-size: 20px; text-transform: uppercase; }
+html[data-skin="street"] .help-group { border-top: 2px dashed #000; }
+html[data-skin="street"] .tool.mini.help-btn.is-on { background: #000; color: #fff; border-color: #000; }
+
+/* Phones: the list and the walk */
+html[data-skin="street"] .phone-list { color: #000; }
+html[data-skin="street"] .phone-top { border-bottom: 3px solid #000; }
+html[data-skin="street"] .phone-intro .eyebrow, html[data-skin="street"] .phone-empty .eyebrow, html[data-skin="street"] .phone-label { color: #000; font-weight: 700; }
+html[data-skin="street"] .phone-title, html[data-skin="street"] .phone-q { display: inline-block; background: #000; color: #fff; font-family: var(--head); text-transform: uppercase; line-height: 1; padding: 8px 12px 10px; transform: rotate(-1.5deg); }
+html[data-skin="street"] .phone-sub, html[data-skin="street"] .phone-lede, html[data-skin="street"] .phone-foot { color: #444; }
+html[data-skin="street"] .phone-empty { color: #000; }
+html[data-skin="street"] .phone-toc button { color: #000; background: #fff; border: 2px solid #000; border-left-width: 6px; }
+html[data-skin="street"] .phone-sec-title { background: #000; color: #fff; font-family: var(--head); font-size: 18px; letter-spacing: .02em; text-transform: uppercase; }
+html[data-skin="street"] .phone-sec.side-for, html[data-skin="street"] .phone-sec.side-against, html[data-skin="street"] .phone-sec.side-other { --fc: #000; }
+html[data-skin="street"] .phone-sec.side-other .phone-sec-title { background: #555; }
+html[data-skin="street"] .phone-ties .eyebrow, html[data-skin="street"] .phone-ties .tie-words { color: #000; }
+html[data-skin="street"] .phone-ties button { color: #000; border: 2px dashed #000; }
+html[data-skin="street"] .phone-pick { border: 3px solid #000; box-shadow: 3px 3px 0 rgba(0,0,0,.16); font-family: var(--mono); }
+html[data-skin="street"] .phone-pick span { font-family: var(--head); text-transform: uppercase; font-size: 17px; line-height: 1.1; }
+html[data-skin="street"] .phone-pick.board { background: #000; color: #fff; }
+html[data-skin="street"] .phone-pick.board small { color: #bbb; }
+html[data-skin="street"] .phone-walk-bar { background: #fff; border-top: 3px solid #000; box-shadow: none; }
+html[data-skin="street"] .phone-walk-bar button { background: #fff; color: #000; border: 3px solid #000; font-family: var(--head); }
+html[data-skin="street"] .phone-walk-at { color: #000; font-weight: 500; }
+html[data-skin="street"] .desk-narrow { background: #fff; border: 3px solid #000; color: #000; }
+html[data-skin="street"] body.phone-reading #btnBackMine { color: #000; }
+@media (max-width: 820px) {
+  html[data-skin="street"] .desk-body { padding: 0 10px 12px; }
+  html[data-skin="street"] .desk-body .top { margin: 0 -10px; padding: 10px 14px; }
+  html[data-skin="street"] .desk-body .brand { font-size: 20px; letter-spacing: .01em; }
+  html[data-skin="street"] body.tray-sheet .tray-title::before { font-family: var(--head); font-size: 18px; letter-spacing: .02em; }
+}
+
+/* ---------- the Desk keeps its measurements ----------
+   Prepared boards are laid out to each card's measured size, so on the desk
+   surface Street changes colour and line only: the typewriter faces, sizes,
+   paddings and border widths stay the Reading Room's. Thicker lines are drawn
+   with box-shadow, which takes no room. The toolbar keeps its 36px height. */
+html[data-skin="street"] .world {
+  --mono: 'Courier Prime', 'Courier New', monospace;
+  --type: 'Special Elite', 'Courier New', monospace;
+}
+html[data-skin="street"] .world .eyebrow { font-weight: 400; letter-spacing: 1px; text-transform: none; }
+html[data-skin="street"] .node .pincard { padding: 12px 12px 10px; font-size: 12px; border: 0; box-shadow: 0 0 0 3px #000, 6px 6px 0 2px rgba(0,0,0,.16); }
+html[data-skin="street"] .node .pincard.against { border: 0; border-left: 5px solid #000; box-shadow: 0 0 0 4px #000, 7px 7px 0 3px rgba(0,0,0,.22); }
+html[data-skin="street"] .node .pincard.verse { border-top: 3px solid #000; }
+html[data-skin="street"] .node .pincard.moment { border-top: 3px dashed #777; }
+html[data-skin="street"] .node .tier { font-weight: 400; letter-spacing: normal; text-transform: none; }
+html[data-skin="street"] .node .ptitle { font-size: 12px; }
+html[data-skin="street"] .node .pquote { font-size: 11px; font-weight: 400; line-height: 1.5; }
+html[data-skin="street"] .node .open { font-weight: 400; }
+html[data-skin="street"] .node .stamp { font-family: var(--type); font-size: 9px; letter-spacing: normal; padding: 1px 4px; border-width: 1.5px; }
+html[data-skin="street"] .node .qcard { transform: none; padding: 12px 12px 10px; }
+html[data-skin="street"] .node .qtext { font-family: var(--type); font-size: 15px; line-height: 1.25; text-transform: none; }
+html[data-skin="street"] .node .notepad { padding: 10px 12px; }
+html[data-skin="street"] .node .notepad textarea { font-family: var(--mono); font-size: 12px; font-weight: 400; }
+html[data-skin="street"] .node .doccard { border: 1px solid #000; border-left: 5px solid #000; box-shadow: 0 0 0 2px #000, 5px 5px 0 2px rgba(0,0,0,.16); }
+html[data-skin="street"] .frame { border-width: 2px; box-shadow: 0 0 0 2px #000; }
+html[data-skin="street"] .frame.is-selected { box-shadow: 0 0 0 2px var(--sel); }
+html[data-skin="street"] .frame-title, html[data-skin="street"] .frame-title input { top: auto; font-family: var(--type); font-size: 10px; letter-spacing: 2px; text-transform: none; }
+html[data-skin="street"] .frame-title { top: -23px; left: -2px; padding: 3px 9px; }
+html[data-skin="street"] .tool { font-size: 13px; line-height: 1; border-width: 1px; box-shadow: inset 0 0 0 2px #000; }
+html[data-skin="street"] .tool:hover, html[data-skin="street"] .tool.toggle.is-on, html[data-skin="street"] .tool.present { box-shadow: none; }
+html[data-skin="street"] .pres-title { display: block; background: none; color: #000; padding: 0; transform: none; line-height: 1.12; }
+html[data-skin="street"] .frame { background: transparent; }  /* frames sit above the cards */

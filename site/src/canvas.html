@@ -1,29 +1,32 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-skin="street">
 <head>
 <meta charset="utf-8">
+<script>(function(){var s=/[?&]skin=(street|room)/.exec(location.search);var v=s&&s[1];try{if(v)localStorage.setItem("way-skin",v);else v=localStorage.getItem("way-skin");}catch(e){}document.documentElement.setAttribute("data-skin",v==="room"?"room":"street");})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>The Way · The Desk</title>
 <meta name="description" content="Lay the evidence out on an open desk. Pull sources from any case file, pin them where you want, tie the string yourself. Every source keeps the stamp it was built with.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Special+Elite&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Narrow:wght@500;700&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;700&family=Special+Elite&display=swap">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <meta name="theme-color" content="#141416">
 <link rel="stylesheet" href="styles.css">
 <link rel="stylesheet" href="canvas.css">
+<link rel="stylesheet" href="street.css">
 </head>
 <body class="desk-body">
 <a class="skip" href="#surface">Skip to the desk</a>
 
 <header class="top">
-  <a class="brand" href="index.html">THE WAY · THE DESK</a>
+  <a class="brand" href="index.html"><span class="only-room">THE WAY · THE DESK</span><span class="only-street">The Way <b>The Desk</b></span></a>
   <nav class="nav" aria-label="Elsewhere">
     <a href="index.html">← the reading room</a>
     <a href="https://github.com/the-nazarene/way/tree/main/questions">questions/</a>
     <a href="https://github.com/the-nazarene/way/blob/main/SOURCE-AUDIT.md">source audit</a>
     <a href="https://github.com/the-nazarene/way">the repo</a>
+    <button type="button" class="skin-switch" id="skinSwitch">Look</button>
   </nav>
 </header>
 
@@ -280,5 +283,6 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
 <script src="canvas.js"></script>
+<script src="skin.js"></script>
 </body>
 </html>
