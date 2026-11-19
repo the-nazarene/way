@@ -77,9 +77,12 @@ html[data-skin="street"] .home, html[data-skin="street"] .objpage { max-width: 1
 html[data-skin="street"] .welcome { max-width: none; padding: 40px 0 8px; background: none; border: 0; box-shadow: none; transform: none; gap: 20px; }
 html[data-skin="street"] .welcome > * { background: none; }
 html[data-skin="street"] .welcome::before,
-html[data-skin="street"] .welcome::after { content: ""; position: absolute; width: 140px; height: 30px; background: var(--tape); opacity: .95; border: 0; border-radius: 0; margin: 0; z-index: 2; }
+html[data-skin="street"] .welcome-q::after { content: ""; position: absolute; width: 140px; height: 30px; background: var(--tape); opacity: .95; border: 0; border-radius: 0; margin: 0; z-index: 2; }
 html[data-skin="street"] .welcome::before { left: -14px; top: 92px; transform: rotate(-22deg); }
-html[data-skin="street"] .welcome::after { left: min(640px, 70%); top: 86px; transform: rotate(16deg); }
+/* The second strip rides on the headline itself, so it always holds down the
+   banner's top-right corner, mirroring the top-left one, at any width. */
+html[data-skin="street"] .welcome-q { position: relative; }
+html[data-skin="street"] .welcome-q::after { right: -46px; top: 4px; transform: rotate(24deg); }
 html[data-skin="street"] .welcome-q { align-self: flex-start; background: #000 !important; color: #fff; font-family: var(--head); font-size: clamp(44px, 8vw, 104px); line-height: .92; text-transform: uppercase; letter-spacing: -.01em; padding: 18px 28px 22px; transform: rotate(-2deg); max-width: 9.5em; }
 html[data-skin="street"] .welcome-p { font-size: 21px; line-height: 1.45; font-weight: 500; max-width: 760px; }
 html[data-skin="street"] .welcome-rules { list-style: none; padding: 0; font-size: 15px; line-height: 1.5; display: flex; flex-direction: column; gap: 0; max-width: 760px; }
@@ -240,7 +243,7 @@ html[data-skin="street"] .foot a { color: #000; font-weight: 700; }
   html[data-skin="street"] .hint { display: none; }
   html[data-skin="street"] .nav { gap: 6px 14px; font-size: 11px; letter-spacing: .1em; }
   html[data-skin="street"] .welcome { padding-top: 28px; }
-  html[data-skin="street"] .welcome::after { display: none; }
+  html[data-skin="street"] .welcome-q::after { width: 90px; height: 22px; right: -10px; top: 0; }
   html[data-skin="street"] .welcome::before { width: 90px; height: 22px; top: 64px; left: -10px; }
   html[data-skin="street"] .welcome-q { font-size: 46px; padding: 10px 14px 12px; }
   html[data-skin="street"] .welcome-p { font-size: 17px; }
