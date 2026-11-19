@@ -2,7 +2,7 @@
 <html lang="en" data-skin="street">
 <head>
 <meta charset="utf-8">
-<script>(function(){var s=/[?&]skin=(street|room)/.exec(location.search);var v=s&&s[1];try{if(v)localStorage.setItem("way-desk-skin",v);else v=localStorage.getItem("way-desk-skin");}catch(e){}document.documentElement.setAttribute("data-skin",v==="room"?"room":"street");})();</script>
+<script>(function(){var s=/[?&]skin=(street|room)/.exec(location.search);var v=s&&s[1];try{if(v)localStorage.setItem("way-desk-skin",v);else v=localStorage.getItem("way-desk-skin");}catch(e){}document.documentElement.setAttribute("data-surface",v==="room"?"room":"street");})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>The Way · The Desk</title>
 <meta name="description" content="Lay the evidence out on an open desk. Pull sources from any case file, pin them where you want, tie the string yourself. Every source keeps the stamp it was built with.">
@@ -21,7 +21,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
-<meta name="theme-color" content="#141416">
+<meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="styles.css">
 <link rel="stylesheet" href="canvas.css">
 <link rel="stylesheet" href="street.css">
@@ -36,7 +36,6 @@
     <a href="https://github.com/the-nazarene/way/tree/main/questions">questions/</a>
     <a href="https://github.com/the-nazarene/way/blob/main/SOURCE-AUDIT.md">source audit</a>
     <a href="https://github.com/the-nazarene/way">the repo</a>
-    <button type="button" class="skin-switch" id="skinSwitch">Look</button>
   </nav>
 </header>
 
@@ -152,6 +151,7 @@
   </aside>
 
   <section class="surface-wrap">
+    <button type="button" class="skin-switch surface-switch" id="skinSwitch">Desk</button>
     <div class="surface" id="surface" tabindex="0" aria-label="The desk. Drag to select, middle-drag or hold space to pan, scroll to pan, ctrl-scroll to zoom.">
       <div class="world" id="world">
         <svg class="links" id="links" aria-hidden="true"></svg>
