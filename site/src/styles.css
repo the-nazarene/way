@@ -89,13 +89,11 @@ a { color: var(--blue); }
 .subtitle:empty, .see:empty { display: none; }
 .finding { margin: 0; font-size: 15px; line-height: 28px; }
 /* Words in the finding that open the source behind them. */
+/* Light on purpose: a dotted line says "there's a source here" without shouting. */
 .finding-link { display: inline; text-align: inherit; font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer;
-  text-decoration: underline; text-decoration-color: var(--red); text-decoration-thickness: 2px; text-underline-offset: 3px; }
-.finding-link:hover, .finding-link:focus-visible { color: var(--red); }
-.link-switch { margin: 6px 0 0; }
-.link-switch button { font-family: var(--mono); font-size: 12px; color: var(--muted); background: none; border: 0;
-  padding: 10px 0; min-height: 44px; cursor: pointer; text-decoration: underline dotted; }
-.link-switch button:hover { color: var(--ink); }
+  text-decoration: underline dotted; text-decoration-thickness: 1.5px; text-underline-offset: 4px;
+  text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); }
+.finding-link:hover, .finding-link:focus-visible { color: var(--red); text-decoration-style: solid; text-decoration-color: var(--red); }
 .reader-pager { flex-basis: 100%; display: flex; gap: 8px; align-items: center; justify-content: space-between; }
 .reader-pager .copy:disabled { visibility: hidden; }
 .see { margin: 0; font-size: 13px; font-style: italic; color: var(--muted); }

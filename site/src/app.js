@@ -226,20 +226,20 @@
   function readerWantsLinks() {
     try { return localStorage.getItem('sourceLinks') !== 'off'; } catch (e) { return true; }
   }
+  /* The switch sits in the top bar beside Look; hidden when the site has the
+     links off. */
+  function labelLinkSwitch() {
+    var sw = $('linkSwitch'), on = readerWantsLinks();
+    sw.hidden = !linksAllowed();
+    sw.textContent = 'Source links: ' + (on ? 'On' : 'Off');
+    sw.setAttribute('aria-pressed', on ? 'true' : 'false');
+    sw.title = on ? 'Underlined words in a summary open the verse or text behind them. Click to turn them off.'
+                  : 'Click to underline the words in a summary that open the verse or text behind them.';
+  }
   function renderFinding(card) {
     var f = $('finding'), text = card.finding, pos = 0;
     f.innerHTML = '';
-    var has = linksAllowed() && (card.findingLinks || []).length > 0;
-    $('linkSwitchRow').hidden = !has;
-    var on = has && readerWantsLinks();
-    var sw = $('linkSwitch');
-    sw.textContent = 'source links: ' + (on ? 'on' : 'off');
-    sw.setAttribute('aria-pressed', on ? 'true' : 'false');
-    sw.onclick = function () {
-      try { localStorage.setItem('sourceLinks', on ? 'off' : 'on'); } catch (e) {}
-      renderFinding(card);
-    };
-    if (!on) { f.textContent = text; return; }
+    if (!(linksAllowed() && readerWantsLinks())) { f.textContent = text; return; }
     (card.findingLinks || []).map(function (l) { return { at: text.indexOf(l.words), l: l }; })
       .filter(function (x) { return x.at >= 0; })
       .sort(function (a, b) { return a.at - b.at; })
@@ -645,6 +645,12 @@
 
   fetch('data.json').then(function (r) { return r.json(); }).then(function (d) {
     DATA = d;
+    labelLinkSwitch();
+    $('linkSwitch').addEventListener('click', function () {
+      try { localStorage.setItem('sourceLinks', readerWantsLinks() ? 'off' : 'on'); } catch (e) {}
+      labelLinkSwitch();
+      if (current) renderFinding(current);
+    });
     fuse = new Fuse(d.cards, {
       keys: [
         { name: 'question', weight: 0.5 },
