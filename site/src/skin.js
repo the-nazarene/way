@@ -19,6 +19,10 @@
     btn.title = 'Switch to ' + (street ? 'the Reading Room' : 'Street') + '. Same cards, same sources, a different look.';
     var meta = document.querySelector('meta[name="theme-color"]');
     if (meta) meta.setAttribute('content', street ? '#ffffff' : '#141416');
+    var icon = document.querySelector('link[rel="icon"]');
+    if (icon) icon.setAttribute('href', street ? 'favicon.svg' : 'favicon-room.svg');
+    var touch = document.querySelector('link[rel="apple-touch-icon"]');
+    if (touch) touch.setAttribute('href', street ? 'apple-touch-icon.png' : 'apple-touch-icon-room.png');
   }
 
   btn.addEventListener('click', function () {
