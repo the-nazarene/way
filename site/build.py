@@ -268,7 +268,7 @@ def main():
         return
     DIST.mkdir(parents=True, exist_ok=True)
     for name in ("index.html", "app.js", "styles.css", "favicon.svg", "apple-touch-icon.png",
-                 "canvas.html", "canvas.css", "canvas.js", "desk-door.js"):
+                 "canvas.html", "canvas.css", "canvas.js", "desk-door.js", "street.css", "skin.js"):
         shutil.copy(SITE / "src" / name, DIST / name)
     (DIST / "data.json").write_text(json.dumps({"cards": cards, "repo": REPO_URL, "kjvHeld": bool(BOOK_FILES),
                                                 "objections": obj["objections"], "briefs": obj["briefs"]}, ensure_ascii=False, indent=1),
