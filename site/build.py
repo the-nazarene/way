@@ -200,6 +200,7 @@ def build_card(card, problems):
         if not (ROOT / g["path"]).exists():
             problems.append(f"{card['slug']}: go-deeper path missing {g['path']}")
         g["url"] = REPO_URL + g["path"]
+        g["local"] = "research/" + g["path"]  # copied into the site, so it opens in the reader
     return out
 
 
@@ -306,6 +307,13 @@ def main():
     for name in ("index.html", "app.js", "styles.css", "favicon.svg", "favicon-room.svg", "apple-touch-icon.png", "apple-touch-icon-room.png", "og.png",
                  "canvas.html", "canvas.css", "canvas.js", "desk-door.js", "street.css", "skin.js", "flyer.pdf"):
         shutil.copy(SITE / "src" / name, DIST / name)
+    # The go-deeper files, copied as they are, so a card's GO DEEPER opens
+    # them on the site instead of sending the reader to GitHub.
+    for c in cards:
+        for g in c.get("goDeeper", []):
+            dest = DIST / g["local"]
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy(ROOT / g["path"], dest)
     settings = json.loads((SITE / "data" / "settings.json").read_text(encoding="utf-8"))
     settings = {k: v for k, v in settings.items() if not k.startswith("_")}
     (DIST / "data.json").write_text(json.dumps({"cards": cards, "repo": REPO_URL, "kjvHeld": bool(BOOK_FILES), "settings": settings,

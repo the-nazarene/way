@@ -219,6 +219,12 @@ html[data-skin="street"] .obj-card.raised-card:where(:not([data-surface="room"] 
 html[data-skin="street"] .obj-brief:where(:not([data-surface="room"] .surface-wrap *)) { background: #f2f2f2; border: 2px solid #000; }
 
 /* The reader */
+html[data-skin="street"] .research h1:where(:not([data-surface="room"] .surface-wrap *)), html[data-skin="street"] .research h2:where(:not([data-surface="room"] .surface-wrap *)) { font-family: var(--head); font-weight: 400; font-size: 26px; text-transform: uppercase; letter-spacing: .01em; }
+html[data-skin="street"] .research h3:where(:not([data-surface="room"] .surface-wrap *)), html[data-skin="street"] .research h4:where(:not([data-surface="room"] .surface-wrap *)) { font-family: var(--head); font-weight: 400; font-size: 20px; text-transform: uppercase; }
+html[data-skin="street"] .research blockquote:where(:not([data-surface="room"] .surface-wrap *)) { border-left: 5px solid #000; opacity: 1; }
+html[data-skin="street"] .research th:where(:not([data-surface="room"] .surface-wrap *)), html[data-skin="street"] .research td:where(:not([data-surface="room"] .surface-wrap *)) { border: 2px solid #000; }
+html[data-skin="street"] .howread:where(:not([data-surface="room"] .surface-wrap *)) { color: #333; border-top: 2px dashed #000; font-size: 14px; }
+html[data-skin="street"] .howread b:where(:not([data-surface="room"] .surface-wrap *)) { color: #000; }
 html[data-skin="street"] .reader:where(:not([data-surface="room"] .surface-wrap *)) { border-left: 5px solid #000; box-shadow: none; }
 html[data-skin="street"] .reader-title:where(:not([data-surface="room"] .surface-wrap *)) { font-family: var(--head); font-size: 28px; line-height: 1.05; text-transform: uppercase; }
 html[data-skin="street"] .close:where(:not([data-surface="room"] .surface-wrap *)) { border: 3px solid #000; background: #fff; }

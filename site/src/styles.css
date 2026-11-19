@@ -98,6 +98,8 @@ a { color: var(--blue); }
 .reader-pager .copy:disabled { visibility: hidden; }
 .see { margin: 0; font-size: 13px; font-style: italic; color: var(--muted); }
 .see a { color: var(--blue); }
+.howread { margin: 10px 0 0; font-size: 13px; line-height: 1.5; color: var(--muted); border-top: 1px dashed currentColor; padding-top: 10px; }
+.howread b { color: var(--ink); }
 
 .drawer { position: relative; background: var(--drawer); border: 8px solid var(--drawer-dark); border-top: 0; padding: 30px 18px 16px; margin-top: -8px; overflow-x: auto; }
 .drawer-lip { position: absolute; left: 0; right: 0; top: 0; height: 12px; background: var(--drawer-darker); }
@@ -304,3 +306,19 @@ a { color: var(--blue); }
 .libcol small { display: block; font-family: var(--mono); font-size: 11px; color: var(--muted); margin-top: 2px; }
 .lib-text { margin: 4px 0 0; font-size: 12px; color: var(--muted); line-height: 1.45; }
 @media (max-width: 800px) { .libsearch-cols { grid-template-columns: 1fr; } .libsearch { margin: 0 16px 16px; } }
+
+/* GO DEEPER files, opened in the reader */
+.reader.reader-wide { width: min(860px, 100%); }
+.research { font-size: 16px; line-height: 1.65; overflow-wrap: anywhere; }
+.research > :first-child { margin-top: 0; }
+.research h1, .research h2 { font-size: 21px; line-height: 1.25; margin: 26px 0 8px; }
+.research h3, .research h4 { font-size: 17px; line-height: 1.3; margin: 20px 0 6px; }
+.research p, .research ul, .research ol { margin: 0 0 12px; }
+.research li { margin: 4px 0; }
+.research blockquote { margin: 0 0 12px; padding: 4px 14px; border-left: 3px solid currentColor; opacity: .85; }
+.research table { display: block; overflow-x: auto; border-collapse: collapse; font-size: 14px; margin: 0 0 14px; }
+.research th, .research td { border: 1px solid rgba(0,0,0,.25); padding: 5px 8px; vertical-align: top; text-align: left; }
+.research code { font-size: 13px; }
+.research pre { white-space: pre-wrap; font-size: 13px; }
+.research hr { border: 0; border-top: 1px dashed currentColor; margin: 20px 0; }
+.research img { max-width: 100%; }
