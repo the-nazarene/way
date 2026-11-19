@@ -22,7 +22,8 @@ const SUITES = [
   ['words', 'words on string: writing, saving, sharing, presenting, phones'],
   ['toolbar', 'the toolbar: one row, the MORE menu, a one-click start on an empty desk'],
   ['links', 'the Reading Room: every source link on every card opens its held source, and the switch'],
-  ['deeper', 'the Reading Room: every GO DEEPER file opens on the site, rendered, labelled, with its own link']
+  ['deeper', 'the Reading Room: every GO DEEPER file opens on the site, rendered, labelled, with its own link'],
+  ['drop', 'a dropped card pulses, Ctrl-Z after typing in the trays, PRESENT walks a desk with no sections']
 ];
 
 const ROOT = path.join(__dirname, '..', '..', '..');

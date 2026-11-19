@@ -246,8 +246,12 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
   await layCase(r, /Does God need blood/);
   await r.click('#btnPresent'); await sleep(900);
   const sr = await state(r);
-  ok('a desk with no frames presents its overview and says how to make sections', sr.presenting && sr.dots === 1 &&
-    /\+ FRAME/.test(await r.evaluate(() => document.getElementById('presSub').textContent)), JSON.stringify(sr));
+  /* No sections: the show walks the desk card by card (the arrows work), and
+     each card's slide says how to make sections. */
+  ok('a desk with no frames presents its overview, then walks it card by card', sr.presenting && sr.dots > 2 && !sr.nextDisabled, JSON.stringify(sr));
+  await r.keyboard.press('ArrowRight'); await sleep(900);
+  ok('a card slide says how to make sections', /^CARD 1 OF/.test(await r.evaluate(() => document.getElementById('presEyebrow').textContent)) &&
+    /\+ FRAME/.test(await r.evaluate(() => document.getElementById('presSub').textContent)));
   await r.keyboard.press('Escape'); await sleep(300);
   const empty = await fresh();
   await open(empty);
