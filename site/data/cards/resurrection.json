@@ -7,6 +7,14 @@
   "card": "questions/resurrection.md",
   "aliases": ["did Jesus rise from the dead", "is the resurrection historical", "empty tomb", "do I have to believe in the resurrection", "minimal facts", "the disciples died for it", "1 Corinthians 15", "ending of Mark", "post-resurrection appearances", "bodily resurrection"],
   "finding": "Something happened after the crucifixion that convinced a shattered group of Jewish followers their teacher was alive and vindicated. We take that seriously, and we don't claim to know what it was. The sources describe appearances, not an examined body, and they describe them inconsistently and with increasing detail the later they were written. Our claim is narrower: salvation in Jesus's own recorded teaching never depends on believing a historical event. Asked how to obtain eternal life he answered \"keep the commandments.\" In the forty days the texts give him after the resurrection, he commissions repentance, forgiveness, service and the kingdom, and never once tells anyone to believe his death was a payment for sin. The requirement to affirm the event as the condition of salvation is Pauline and then Nicene. It is not his.",
+  "findingLinks": [
+    {"words": "The sources describe appearances", "sources": ["1 Corinthians 15:5-8"]},
+    {"words": "with increasing detail the later they were written", "sources": ["Mark 16:8", "Mark 16:9"]},
+    {"words": "keep the commandments", "sources": ["Matthew 19:17"]},
+    {"words": "In the forty days", "sources": ["Acts 1:3"]},
+    {"words": "he commissions repentance, forgiveness, service and the kingdom", "sources": ["Luke 24:47", "John 20:23", "Matthew 28:20"]},
+    {"words": "is Pauline", "sources": ["1 Corinthians 15:14"]}
+  ],
   "oneLiners": [
     "We're not saying it didn't happen. We're saying nothing in his own words makes your standing with God depend on your opinion about it.",
     "If believing in the resurrection were the saving message, forty days was the time to say it. He talked about the kingdom.",

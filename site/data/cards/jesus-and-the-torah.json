@@ -7,6 +7,11 @@
   "card": "questions/jesus-and-the-torah.md",
   "aliases": ["did Jesus abolish the law", "did Jesus keep the Torah", "fulfill the law", "faith vs works", "Sabbath", "food laws", "Mark 7 all foods clean", "jot and tittle", "weightier matters of the law", "do Christians have to keep the law", "Moses' seat"],
   "finding": "Jesus was a Torah-observant Jewish teacher who intensified the Law's ethical core and subordinated its cultic and purity apparatus to that core. He never abolished it and never declared it void; he ranked it. Where ritual and mercy collide, mercy is what the ritual was for. That is not antinomianism and not abolition; it is a recognizably Jewish prophetic argument conducted inside the covenant. It matters for everything else on these cards, because it means the \"faith versus works\" frame was never Jesus's question. His question was never whether to keep Torah. It was which part of it is load-bearing, and he answered out loud, more than once, with justice, mercy and faithfulness.",
+  "findingLinks": [
+    {"words": "He never abolished it and never declared it void", "sources": ["Matthew 5:17-20", "Luke 16:17"]},
+    {"words": "mercy is what the ritual was for", "sources": ["Matthew 12:7", "Mark 2:27", "Mark 3:4"]},
+    {"words": "justice, mercy and faithfulness", "sources": ["Matthew 23:23"]}
+  ],
   "oneLiners": [
     "He didn't lower the bar. Read Matthew 5:20: the Pharisees weren't righteous enough.",
     "\"Weightier matters of the law.\" That's a comparative, inside the law, in his own mouth.",

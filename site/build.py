@@ -134,15 +134,29 @@ def resolve_repo(src, problems):
     snippet = None
     if "phrase" in src:
         flat = re.sub(r"\s+", " ", text)
-        i = norm(flat).find(norm(src["phrase"]))
+        # norm() drops characters, so keep, for each character it keeps, where
+        # that character sits in the flattened text: the window and the
+        # highlight then land on the phrase itself, not a few hundred
+        # characters off in a long file.
+        kept, where = [], []
+        for k, ch in enumerate(flat.lower().replace("’", "'")):
+            if re.match(r"[a-z0-9 ]", ch):
+                kept.append(ch); where.append(k)
+        i = "".join(kept).find(norm(src["phrase"]))
         if i < 0:
             problems.append(f"{src.get('title')}: phrase {src['phrase']!r} not found in {src['path']}")
         else:
-            # map back approximately: take a window around the phrase in the flattened text
-            lo = max(0, i - 600)
-            hi = min(len(flat), i + len(src["phrase"]) + 600)
-            snippet = ("…" if lo > 0 else "") + flat[lo:hi].strip() + ("…" if hi < len(flat) else "")
+            start, end = where[i], where[i + len(norm(src["phrase"])) - 1] + 1
+            lo = max(0, start - 600)
+            hi = min(len(flat), end + 600)
+            body = flat[lo:hi]
+            lead = len(body) - len(body.lstrip())
+            body = body.strip()
+            pre = "…" if lo > 0 else ""
+            snippet = pre + body + ("…" if hi < len(flat) else "")
+            mark = [len(pre) + start - lo - lead, len(pre) + end - lo - lead]
     return {"status": "held", "statusText": "HELD", "snippet": snippet,
+            **({"mark": mark} if snippet else {}),
             "open": REPO_URL + src["path"]}
 
 

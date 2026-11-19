@@ -7,6 +7,14 @@
   "card": "questions/two-ways-kingdom-within.md",
   "aliases": ["where is the kingdom of God", "the kingdom is within you", "the two ways", "oldest Christian teaching", "Didache", "what did the first Christians believe", "is the kingdom of heaven a place", "entos hymon", "how do I enter the kingdom", "way of life and way of death"],
   "finding": "The oldest recoverable teaching of the Jesus movement is not a creed. It is the Two Ways: there is a way of life and a way of death, and you choose by what you do. This is the framework Jesus taught (narrow gate, good tree, sheep and goats), the framework his community catechized converts in before baptism (Didache 1-6), and the framework the Jewish world around him already taught, Qumran included. In that framework the kingdom is not a postmortem destination you qualify for by believing the right thing. It is a present reality, within and among people, that most of them walk past without seeing. Salvation is participatory: you enter the way by walking it. We are pointing at the earliest documents the church itself produced and noting what is in them and what is not.",
+  "findingLinks": [
+    {"words": "there is a way of life and a way of death", "sources": ["Didache 1:1-2"]},
+    {"words": "narrow gate", "sources": ["Luke 13:24"]},
+    {"words": "sheep and goats", "sources": ["Matthew 25:35"]},
+    {"words": "catechized converts in before baptism", "sources": ["Didache 1:1-2", "Didache 4:14", "Didache 6:2"]},
+    {"words": "Qumran included", "sources": ["1QS 3:17-19 and 3:4-7, the Two Spirits"]},
+    {"words": "within and among people", "sources": ["Luke 17:21", "Gospel of Thomas 3 and 113"]}
+  ],
   "oneLiners": [
     "The oldest Christian document asks what you do. The modern church asks what you believe. Those are different religions wearing the same name.",
     "He was asked how to inherit eternal life. He answered with commandments, in Matthew, in Mark, and in Luke. Nobody disputes the verses. They just don't preach them.",

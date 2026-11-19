@@ -36,8 +36,9 @@ cd site/dist && python -m http.server 8000
 
 1. Copy an existing `site/data/cards/*.json`. Fill `question`, `aliases` (the ways people actually phrase it; this is what the drawer search matches), `finding` (the card's position, in the card's words), `oneLiners`, `doNotSay`, `sources`, `goDeeper`, `next`.
 2. Every source has a `side` (`for`, `against`, `other`), a `tier` (the repo's source hierarchy, in words), a `note` (what the card says about it, including the response to an objection), and **one** of `ref` (scripture), `path` (a held repo file), or `link` (not held yet). Give `ref` and `path` sources a `phrase`: the distinctive words to grep.
-3. Run `python site/build.py --check`. Fix anything it refuses.
-4. The content must follow the card in `questions/`, not improve on it. The card is the reviewed artifact; the site is a view of it. If the card is wrong, fix the card first.
+3. **Source links** (optional, but every card has them): `findingLinks` lists words in the `finding` that open the sources behind them, e.g. `{"words": "quoting Hosea", "sources": ["Hosea 6:6"]}`. Name each source by its `ref` or `title`, exactly as on the card. Link only where the finding says a text says or does something, and only to a source that actually says it (read the note and the passage, not just the title); 3 to 8 per card. The build refuses words that don't appear exactly once in the finding, and sources that aren't on the card or aren't held. Readers can switch the underlines off in the top bar; `site/data/settings.json` switches them off for everyone.
+4. Run `python site/build.py --check`. Fix anything it refuses. `npm test -- links` (in `site/tests/desk`) then clicks every link on every card and checks the reader opens the right source with its phrase highlighted.
+5. The content must follow the card in `questions/`, not improve on it. The card is the reviewed artifact; the site is a view of it. If the card is wrong, fix the card first.
 
 **Links and copying.** Every card is `#/<slug>`; every source is `#/<slug>/<n>` and opens the reader pane directly. The reader has "copy citation" (the distinctive phrase, the reference, the translation, and the permalink) and "copy link"; each one-liner on the legal pad has a copy button. That is the push-one-line tool for live use: paste it into a comment reply and the reader lands on the verse.
 

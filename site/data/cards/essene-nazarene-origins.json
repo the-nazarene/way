@@ -7,6 +7,16 @@
   "card": "questions/essene-nazarene-origins.md",
   "aliases": ["was Jesus an Essene", "Dead Sea Scrolls and Jesus", "Qumran", "who were the Nazarenes", "Ebionites", "James the Just", "Pella", "children of light", "works of the law", "did Jesus start a new religion", "John the Baptist Essene"],
   "finding": "Jesus did not appear out of nowhere with a brand-new religion. He emerged from the Essene-Nazarene reform stream of Second Temple Judaism: a wilderness movement that broke with the Temple establishment, immersed converts, lived communally, organized itself as a council of twelve with an inner three, blessed bread and wine at a sacred meal, and held that righteousness is reckoned to you by doing what is right. We know this because that movement's own library was recovered in 1947, and its distinctive vocabulary, found nowhere in the Hebrew Bible and nowhere in Pharisaic or Sadducean material, turns up throughout the earliest Christian writings. After Jesus's death, leadership passed to his brother James and then his cousin Simeon; the community left Jerusalem for Pella and survived in the Trans-Jordan as the Nazarenes and Ebionites, until the church that claimed Jesus's authority declared Jesus's own sect heretical.",
+  "findingLinks": [
+    {"words": "a wilderness movement", "sources": ["1QS 8:12-14, the wilderness and Isaiah 40:3"]},
+    {"words": "immersed converts", "sources": ["1QS 3:4-7, immersion without transformation does nothing"]},
+    {"words": "righteousness is reckoned to you by doing what is right", "sources": ["4QMMT C 31, \"reckoned to you as righteousness\""]},
+    {"words": "its distinctive vocabulary", "sources": ["Community Rule 1QS 3:17-19, the Two Spirits", "John 14:17", "John 12:36"]},
+    {"words": "leadership passed to his brother James", "sources": ["Hegesippus on James, in Eusebius, Church History 2.23; Josephus, Antiquities 20.9.1", "Gospel of Thomas 12"]},
+    {"words": "left Jerusalem for Pella", "sources": ["Eusebius, Church History 3.5.3, the flight to Pella"]},
+    {"words": "the Nazarenes and Ebionites", "sources": ["Epiphanius, Panarion 29 and 30, on the Nazoraeans and Ebionites"]},
+    {"words": "Jesus's own sect", "sources": ["Acts 24:5"]}
+  ],
   "oneLiners": [
     "\"Children of Light\" isn't in the Hebrew Bible. It's Qumran vocabulary, and it turns up in John, in Luke, and in Paul. The whole first generation was speaking Essene.",
     "Twelve with an inner three, shared purse, bread and wine, water immersion, a break with the Temple. That blueprint was already written at Qumran.",

@@ -20,7 +20,8 @@ const SUITES = [
   ['episodes', 'episode boards: transcript moments, outside sources, checks'],
   ['phone', 'phones: the desk as a list, the reader, and the real desk one tap away'],
   ['words', 'words on string: writing, saving, sharing, presenting, phones'],
-  ['toolbar', 'the toolbar: one row, the MORE menu, a one-click start on an empty desk']
+  ['toolbar', 'the toolbar: one row, the MORE menu, a one-click start on an empty desk'],
+  ['links', 'the Reading Room: every source link on every card opens its held source, and the switch']
 ];
 
 const ROOT = path.join(__dirname, '..', '..', '..');

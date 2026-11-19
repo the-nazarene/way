@@ -3485,7 +3485,12 @@
       }
     } else if (src.snippet) {
       var sn = el('div', 'snippet');
-      sn.appendChild(highlight(src.snippet, src.phrase));
+      if (src.mark) {
+        // build.py found the phrase and says where it sits in the excerpt.
+        sn.appendChild(document.createTextNode(src.snippet.slice(0, src.mark[0])));
+        sn.appendChild(el('mark', null, src.snippet.slice(src.mark[0], src.mark[1])));
+        sn.appendChild(document.createTextNode(src.snippet.slice(src.mark[1])));
+      } else sn.appendChild(highlight(src.snippet, src.phrase));
       body.appendChild(sn);
       body.appendChild(el('div', 'plabel', 'From the held file; the phrase above is what to grep for.'));
     } else {

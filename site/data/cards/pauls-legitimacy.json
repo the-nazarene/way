@@ -19,6 +19,12 @@
     "Galatians 1"
   ],
   "finding": "Paul never met the living Jesus, and he grounds the authority of his gospel in private revelation rather than in anything handed to him by the men who did: \"not of man, neither was I taught it.\" He wrote the only surviving body of Christian theology that almost never quotes Jesus. He reversed in writing a ruling James had given with him in the room, and the Jewish-Christian communities with direct lineage to that church named him an opponent. This is not a claim about his character; nothing here requires him to be a fraud. The claim is structural: Paul's gospel has a different source and a different content from the teaching of Jesus. He is a primary source for Paul's theology, and not a source for what Jesus taught.",
+  "findingLinks": [
+    {"words": "not of man, neither was I taught it", "sources": ["Galatians 1:11-12"]},
+    {"words": "rather than in anything handed to him by the men who did", "sources": ["Galatians 2:6"]},
+    {"words": "He reversed in writing a ruling James had given with him in the room", "sources": ["Acts 15:19-20", "1 Corinthians 10:25"]},
+    {"words": "the Jewish-Christian communities with direct lineage to that church", "sources": ["Epistle of Peter to James 2 (Clementine Homilies)", "Clementine Recognitions 1.70-71"]}
+  ],
   "oneLiners": [
     "Paul told us himself what his gospel rested on: \"not of man, neither was I taught it.\" That's the quote, in his own letter.",
     "Thirteen books, two thousand verses, and he quotes Jesus about twice. If you want the teaching, you're reading the wrong author.",
