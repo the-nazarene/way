@@ -145,7 +145,17 @@ def fetch_apify(yt_id: str, cache: Path, token: str, lang: str = "en") -> list[t
 
 # --------------------------------------------------------------- formatting --
 
+# Auto-captions often lower-case names. "Jesus" is always a name, so it is
+# capitalized as the transcript is written (file names and links untouched).
+JESUS = re.compile(r"(?<![-_/.#=:\w])jesus(?!\.md|[-_/\w])")
+
+
+def fix_names(text: str) -> str:
+    return JESUS.sub("Jesus", text)
+
+
 def to_paragraphs(evs: list[tuple[int, str]]) -> str:
+    evs = [(ms, fix_names(text)) for ms, text in evs]
     paras: list[str] = []
     buf: list[str] = []
     start = None
