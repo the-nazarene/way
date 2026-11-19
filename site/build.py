@@ -292,7 +292,9 @@ def main():
     for name in ("index.html", "app.js", "styles.css", "favicon.svg", "favicon-room.svg", "apple-touch-icon.png", "apple-touch-icon-room.png", "og.png",
                  "canvas.html", "canvas.css", "canvas.js", "desk-door.js", "street.css", "skin.js"):
         shutil.copy(SITE / "src" / name, DIST / name)
-    (DIST / "data.json").write_text(json.dumps({"cards": cards, "repo": REPO_URL, "kjvHeld": bool(BOOK_FILES),
+    settings = json.loads((SITE / "data" / "settings.json").read_text(encoding="utf-8"))
+    settings = {k: v for k, v in settings.items() if not k.startswith("_")}
+    (DIST / "data.json").write_text(json.dumps({"cards": cards, "repo": REPO_URL, "kjvHeld": bool(BOOK_FILES), "settings": settings,
                                                 "objections": obj["objections"], "briefs": obj["briefs"]}, ensure_ascii=False, indent=1),
                                     encoding="utf-8")
     desk, desk_warnings = desk_links.build(cards, BOOK_FILES, load_book, ALIASES, REPO_URL, ROOT, resolve_pointer)

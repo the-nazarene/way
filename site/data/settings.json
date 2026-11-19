@@ -1,0 +1,5 @@
+{
+ "_about": "Site-wide switches. Change a value, then rebuild (python site/build.py). true = on for everyone; false = off for everyone.",
+ "sourceLinks": true,
+ "_sourceLinks": "Underlined words in a card's summary that open the verse or text behind them. When on, readers also get a 'source links: on/off' switch under the summary, and their choice is remembered on their device."
+}

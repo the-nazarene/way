@@ -219,9 +219,27 @@
 
   /* The finding, with its linked words: each opens the held sources behind it
      (findingLinks, resolved and checked by build.py). */
+  /* Two switches: settings.sourceLinks (site/data/settings.json) turns the
+     links off for everyone; the reader's own switch, remembered on their device,
+     turns them off for them. */
+  function linksAllowed() { return !DATA || !DATA.settings || DATA.settings.sourceLinks !== false; }
+  function readerWantsLinks() {
+    try { return localStorage.getItem('sourceLinks') !== 'off'; } catch (e) { return true; }
+  }
   function renderFinding(card) {
     var f = $('finding'), text = card.finding, pos = 0;
     f.innerHTML = '';
+    var has = linksAllowed() && (card.findingLinks || []).length > 0;
+    $('linkSwitchRow').hidden = !has;
+    var on = has && readerWantsLinks();
+    var sw = $('linkSwitch');
+    sw.textContent = 'source links: ' + (on ? 'on' : 'off');
+    sw.setAttribute('aria-pressed', on ? 'true' : 'false');
+    sw.onclick = function () {
+      try { localStorage.setItem('sourceLinks', on ? 'off' : 'on'); } catch (e) {}
+      renderFinding(card);
+    };
+    if (!on) { f.textContent = text; return; }
     (card.findingLinks || []).map(function (l) { return { at: text.indexOf(l.words), l: l }; })
       .filter(function (x) { return x.at >= 0; })
       .sort(function (a, b) { return a.at - b.at; })
