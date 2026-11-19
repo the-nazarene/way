@@ -464,7 +464,7 @@
   function renderHome() {
     current = null;
     onObjPage = false;
-    document.title = 'The Way \u00b7 Reading Room';
+    document.title = 'The Way \u00b7 What did Jesus actually teach?';
     $('objpage').hidden = true;
     $('home').hidden = false;
     $('room').hidden = true;
