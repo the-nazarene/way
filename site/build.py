@@ -159,6 +159,28 @@ def build_card(card, problems):
         else:
             s.update({"status": "not-held", "statusText": "NOT YET HELD · public domain", "passages": []})
         out["sources"].append(s)
+    # Words in the finding that open the sources behind them. Each link names
+    # sources on this card (a scripture ref, or a file source's title); the build
+    # refuses a link whose words aren't in the finding exactly once, or whose
+    # source isn't held, so a tap can only ever open text we actually hold.
+    links = []
+    for ln in card.get("findingLinks", []):
+        words = ln["words"]
+        if card["finding"].count(words) != 1:
+            problems.append(f"{card['slug']}: finding link {words!r} must appear exactly once in the finding")
+            continue
+        idx = []
+        for name in ln["sources"]:
+            hits = [i for i, s in enumerate(out["sources"]) if name in (s.get("ref"), s.get("title"))]
+            if not hits:
+                problems.append(f"{card['slug']}: finding link {words!r} names {name!r}, not a source on this card")
+            elif out["sources"][hits[0]]["status"] != "held":
+                problems.append(f"{card['slug']}: finding link {words!r} points at {name!r}, which is not held")
+            else:
+                idx.append(hits[0])
+        if idx:
+            links.append({"words": words, "src": idx})
+    out["findingLinks"] = links
     out["cardUrl"] = REPO_URL + card["card"]
     for g in out.get("goDeeper", []):
         if not (ROOT / g["path"]).exists():

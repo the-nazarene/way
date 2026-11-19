@@ -112,7 +112,7 @@
     $('checked').textContent = 'CHECKED';
     $('question').textContent = card.question;
     $('subtitle').textContent = card.subtitle || '';
-    $('finding').textContent = card.finding;
+    renderFinding(card);
     var see = $('see');
     see.innerHTML = '';
     see.appendChild(document.createTextNode('SEE: the case file on the desk. The full card, with every objection and the responses, is in the repo: '));
@@ -215,6 +215,49 @@
     frag.appendChild(el('mark', null, m[0]));
     frag.appendChild(document.createTextNode(text.slice(m.index + m[0].length)));
     return frag;
+  }
+
+  /* The finding, with its linked words: each opens the held sources behind it
+     (findingLinks, resolved and checked by build.py). */
+  function renderFinding(card) {
+    var f = $('finding'), text = card.finding, pos = 0;
+    f.innerHTML = '';
+    (card.findingLinks || []).map(function (l) { return { at: text.indexOf(l.words), l: l }; })
+      .filter(function (x) { return x.at >= 0; })
+      .sort(function (a, b) { return a.at - b.at; })
+      .forEach(function (x) {
+        if (x.at < pos) return;
+        f.appendChild(document.createTextNode(text.slice(pos, x.at)));
+        // A link, not a button: buttons can't wrap mid-phrase on a phone.
+        var b = el('a', 'finding-link', x.l.words);
+        b.href = '#'; b.setAttribute('role', 'button');
+        b.title = 'Read the source' + (x.l.src.length > 1 ? 's' : '');
+        b.addEventListener('click', function (e) {
+          e.preventDefault();
+          openSources(x.l.src.map(function (i) { return card.sources[i]; }), 0);
+        });
+        f.appendChild(b);
+        pos = x.at + x.l.words.length;
+      });
+    f.appendChild(document.createTextNode(text.slice(pos)));
+  }
+
+  /* Several sources behind one link: show them one at a time, with a pager. */
+  function openSources(list, k) {
+    openReader(list[k]);
+    if (list.length < 2) return;
+    var pg = el('div', 'reader-pager');
+    var prev = el('button', 'copy', '← ' + (k > 0 ? (list[k - 1].title || list[k - 1].ref) : ''));
+    prev.type = 'button'; prev.disabled = k === 0;
+    prev.addEventListener('click', function () { openSources(list, k - 1); });
+    var next = el('button', 'copy', (k < list.length - 1 ? (list[k + 1].title || list[k + 1].ref) : '') + ' →');
+    next.type = 'button'; next.disabled = k === list.length - 1;
+    next.addEventListener('click', function () { openSources(list, k + 1); });
+    pg.appendChild(prev);
+    pg.appendChild(el('span', null, (k + 1) + ' of ' + list.length));
+    pg.appendChild(next);
+    var st = $('readerStatus');
+    st.insertBefore(pg, st.firstChild);
   }
 
   function openReader(src) {
