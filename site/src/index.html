@@ -2,9 +2,9 @@
 <html lang="en" data-skin="street">
 <head>
 <meta charset="utf-8">
-<script>(function(){var s=/[?&]skin=(street|room)/.exec(location.search);var v=s&&s[1];try{if(v)localStorage.setItem("way-skin",v);else v=localStorage.getItem("way-skin");}catch(e){}document.documentElement.setAttribute("data-skin",v==="room"?"room":"street");})();</script>
+<script>(function(){var s=/[?&]skin=(street|room)/.exec(location.search);document.documentElement.setAttribute("data-skin",s&&s[1]==="room"?"room":"street");})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>The Way · Reading Room</title>
+<title>The Way · What did Jesus actually teach?</title>
 <meta name="description" content="Pull a question from the drawer. The case file for it opens on the desk. Every source is stamped with whether we hold the text.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -36,7 +36,6 @@
     <a href="https://github.com/the-nazarene/way/blob/main/SOURCE-AUDIT.md">source audit</a>
     <a href="https://github.com/the-nazarene/way/blob/main/FIX-LIST.md">fix list</a>
     <a href="https://github.com/the-nazarene/way">the repo</a>
-    <button type="button" class="skin-switch" id="skinSwitch">Look</button>
   </nav>
 </header>
 
