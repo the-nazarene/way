@@ -518,9 +518,30 @@
       position(it);
     }
     renderSelection(); drawLinks(); updateCounts(); save();
+    releaseTyping();
     if (isPhone() && phoneDesk) phoneShow(id);
-    else if (!at) ensureVisible(it);
+    else { if (!at) ensureVisible(it); landed(id); }
     hint(thingLabel(p) + (origin ? ' is on the desk, tied to the card it came from.' : ' is on the desk.') + ' Ctrl-Z takes it off.');
+  }
+
+  /* A card that just landed says where it is: a few pulses of light, sized
+     for the screen whatever the zoom, so it can be found on a zoomed-out desk. */
+  function landed(id) {
+    var e = nodeEl(id);
+    if (!e) return;
+    e.style.setProperty('--land-ring', Math.round(Math.min(60, 14 / Math.max(tf.scale, 0.2))) + 'px');
+    e.classList.remove('is-landed');
+    void e.offsetWidth;
+    e.classList.add('is-landed');
+    setTimeout(function () { e.classList.remove('is-landed'); }, 2600);
+  }
+
+  /* After typing in the tray's search, a pin or a drag leaves the cursor in
+     the box, and Ctrl-Z would undo the typing instead of the desk. Anything
+     done to the desk hands the keyboard back to the desk. */
+  function releaseTyping() {
+    var a = document.activeElement;
+    if (a && (a.tagName === 'INPUT' || a.tagName === 'TEXTAREA') && !$('surface').contains(a)) a.blur();
   }
 
   /* Pans just enough to show a card, without re-zooming the reader's view. */
@@ -1640,6 +1661,13 @@
       string = null;
     });
 
+    /* Touching the desk itself (not a note being written) gives it the keyboard
+       back, so Ctrl-Z undoes the desk even after typing in the tray's search.
+       Capture phase: the desk's own handlers stop the event before it bubbles. */
+    $('surface').addEventListener('pointerdown', function (e) {
+      if (!e.target.closest('input, textarea, [contenteditable="true"]')) releaseTyping();
+    }, true);
+
     document.addEventListener('keydown', function (e) {
       if (presentKey(e)) return;
       if (!$('helpPanel').hidden && e.key === 'Escape') { toggleHelp(false); e.preventDefault(); return; }
@@ -2421,7 +2449,9 @@
 
   function presentSlides() {
     var frames = items.filter(function (x) { return x.t === 'frame'; }).sort(readingOrder);
-    return [{ kind: 'overview' }].concat(frames.map(function (f) { return { kind: 'frame', id: f.id }; }));
+    if (frames.length) return [{ kind: 'overview' }].concat(frames.map(function (f) { return { kind: 'frame', id: f.id }; }));
+    /* No sections yet: walk the desk card by card, in reading order. */
+    return [{ kind: 'overview' }].concat(items.slice().sort(readingOrder).map(function (x) { return { kind: 'item', id: x.id }; }));
   }
 
   function slideIndexOf(frameId) {
@@ -2503,7 +2533,16 @@
     i = clamp(i, 0, P.slides.length - 1);
     P.i = i;
     var s = P.slides[i], box, f = s.kind === 'frame' ? itemById(s.id) : null;
-    if (f) {
+    var one = s.kind === 'item' ? itemById(s.id) : null;
+    if (one) {
+      presFocus = {};
+      presFocus[one.id] = true;
+      var ob = boxOf(one);
+      box = { x1: ob.x - 60, y1: ob.y - 60, x2: ob.x + ob.w + 60, y2: ob.y + ob.h + 60 };
+      $('presEyebrow').textContent = 'CARD ' + i + ' OF ' + (P.slides.length - 1);
+      $('presTitle').textContent = itemLabel(one);
+      $('presSub').textContent = 'This desk has no sections, so the show walks it card by card. Put + FRAME around a group to make one.';
+    } else if (f) {
       presFocus = {};
       presFocus[f.id] = true;
       membersOf(f).forEach(function (m) { presFocus[m.id] = true; });
@@ -2514,9 +2553,9 @@
     } else {
       presFocus = null;
       box = bounds();
-      $('presEyebrow').textContent = P.slides.length > 1 ? 'OVERVIEW · ' + (P.slides.length - 1) + ' SECTIONS' : 'OVERVIEW';
+      $('presEyebrow').textContent = P.slides.length > 1 ? 'OVERVIEW · ' + (P.slides.length - 1) + (P.slides[1].kind === 'item' ? ' CARDS' : ' SECTIONS') : 'OVERVIEW';
       $('presTitle').textContent = sharedMeta ? sharedMeta.title : 'This desk';
-      $('presSub').textContent = P.slides.length > 1 ? (sharedMeta ? sharedMeta.subtitle : 'Press → to walk it section by section.') :
+      $('presSub').textContent = P.slides.length > 1 ? (sharedMeta ? sharedMeta.subtitle : P.slides[1].kind === 'item' ? 'Press → to walk it card by card.' : 'Press → to walk it section by section.') :
         'Frames become slides: put + FRAME around a group of cards and each one becomes a section here.';
     }
     /* The board fits between the caption and the bar, measured each slide,
@@ -2537,6 +2576,9 @@
     }
     $('presPrev').disabled = i === 0;
     $('presNext').disabled = i === P.slides.length - 1;
+    /* The next arrow pulses on the first slide until the show has been walked. */
+    if (i > 0) P.walked = true;
+    $('presNext').classList.toggle('is-hint', !P.walked && i === 0 && P.slides.length > 1);
   }
 
   /* The camera glides: centre and zoom are interpolated, the zoom on a log

@@ -925,3 +925,23 @@ body.phone-walk .phone-list { padding-bottom: 96px; }
    take it as "go back" (Chrome does, and the board would be gone). */
 html:has(body.phone-walk), body.phone-walk { overscroll-behavior-x: none; }
 body.phone-walk .phone-body { touch-action: pan-y; }
+
+/* A card that just landed on the desk pulses, so it can be found. */
+.node.is-landed .pincard, .node.is-landed .qcard, .node.is-landed .notepad, .node.is-landed .doccard {
+  animation: landed .85s ease-out 3;
+}
+@keyframes landed {
+  0%   { box-shadow: 0 0 0 0 rgba(255, 214, 10, 1), 0 0 0 4px rgba(255, 214, 10, 1); }
+  100% { box-shadow: 0 0 0 var(--land-ring, 18px) rgba(255, 214, 10, 0), 0 0 0 4px rgba(255, 214, 10, 0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .node.is-landed .pincard, .node.is-landed .qcard, .node.is-landed .notepad, .node.is-landed .doccard { animation: none; outline: 4px solid #ffd60a; }
+}
+
+/* Present: the next arrow pulses until the show has been walked. */
+.pres-arrow.is-hint { animation: preshint 1.4s ease-in-out infinite; }
+@keyframes preshint {
+  0%, 100% { transform: translateX(0); box-shadow: 0 0 0 0 rgba(255, 214, 10, 0); }
+  50%      { transform: translateX(4px); box-shadow: 0 0 0 6px rgba(255, 214, 10, .55); }
+}
+@media (prefers-reduced-motion: reduce) { .pres-arrow.is-hint { animation: none; outline: 3px solid #ffd60a; } }

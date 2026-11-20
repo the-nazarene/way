@@ -156,12 +156,12 @@
 
     var gd = $('goDeeper');
     gd.innerHTML = '';
-    (card.goDeeper || []).forEach(function (g) {
+    (card.goDeeper || []).forEach(function (g, i) {
       var li = el('li');
       var a2 = el('a', null, g.title);
-      a2.href = g.url; a2.target = '_blank'; a2.rel = 'noopener';
+      a2.href = '#/' + card.slug + '/read/' + i;
       li.appendChild(a2);
-      li.appendChild(document.createTextNode(' · ' + g.path));
+      li.appendChild(document.createTextNode(' · ' + researchKind(g.path)[2]));
       gd.appendChild(li);
     });
 
@@ -278,7 +278,94 @@
     st.insertBefore(pg, st.firstChild);
   }
 
+  /* GO DEEPER files open here too: the build copies them into the site
+     (research/<path>), and they are rendered from Markdown, labelled for what
+     they are, with the repo one link away. #/<slug>/read/<n> opens one. */
+  function researchKind(path) {
+    if (/\/Incoming\//.test(path)) return ['HELD TEXT', 'The text itself, as the repo holds it.', 'the full text'];
+    if (/^questions\//.test(path)) return ['THE FULL CARD', 'The complete card: every objection raised against it, and our response.', 'the full card'];
+    return ['OUR RESEARCH · NOT A SOURCE', 'Our own write-up. Quote the sources it cites, not this page, and check them first.', 'our research'];
+  }
+
+  function slugify(t) { return t.toLowerCase().trim().replace(/[^\w\- ]/g, '').replace(/ /g, '-'); }
+
+  function repoPath(base, rel) {
+    var parts = base.split('/').slice(0, -1);
+    rel.split('/').forEach(function (p) {
+      if (p === '..') parts.pop(); else if (p && p !== '.') parts.push(p);
+    });
+    return parts.join('/');
+  }
+
+  function renderMarkdown(md, path) {
+    md = md.replace(/^﻿/, '').replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, '').replace(/^\s*# .*\r?\n/, '');
+    var div = el('div', 'research');
+    if (window.marked) div.innerHTML = window.marked.parse(md);
+    else { div.textContent = md; div.style.whiteSpace = 'pre-wrap'; }
+    div.querySelectorAll('h1, h2, h3, h4').forEach(function (h) { h.id = 'r-' + slugify(h.textContent); });
+    div.querySelectorAll('a[href]').forEach(function (a) {
+      var h = a.getAttribute('href');
+      if (h.charAt(0) === '#') {
+        // A section of this same page: scroll the reader, don't change the address.
+        a.addEventListener('click', function (e) {
+          e.preventDefault();
+          var want = decodeURIComponent(h.slice(1));
+          var t = div.querySelector('#r-' + CSS.escape(want));
+          if (!t) {
+            // Forgive a heading reworded since the link was written ("--" vs "-").
+            var loose = want.replace(/-+/g, '-');
+            t = [].filter.call(div.querySelectorAll('[id^="r-"]'), function (x) { return x.id.slice(2).replace(/-+/g, '-') === loose; })[0];
+          }
+          if (t) t.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+        return;
+      }
+      if (!/^[a-z]+:/i.test(h)) a.href = DATA.repo + repoPath(path, h);
+      a.target = '_blank'; a.rel = 'noopener';
+    });
+    return div;
+  }
+
+  var mdCache = {};
+  function openResearch(card, i) {
+    var g = card.goDeeper[i];
+    var kind = researchKind(g.path);
+    $('reader').classList.add('reader-wide');
+    $('readerTier').textContent = 'GO DEEPER';
+    $('readerTitle').textContent = g.title;
+    var st = $('readerStatus');
+    st.innerHTML = '';
+    st.appendChild(el('span', 'lib-stamp ' + (kind[0] === 'OUR RESEARCH · NOT A SOURCE' ? 'lib-stamp-ours' : 'lib-stamp-held'), kind[0]));
+    st.appendChild(el('span', null, kind[1]));
+    $('readerNote').textContent = '';
+    var body = $('readerBody');
+    body.innerHTML = '';
+    body.appendChild(el('div', 'plabel', 'Opening…'));
+    var foot = $('readerFoot');
+    foot.innerHTML = '';
+    var a = el('a', null, 'Open it in the repo →');
+    a.href = g.url; a.target = '_blank'; a.rel = 'noopener';
+    foot.appendChild(a);
+    foot.appendChild(el('div', null, g.path));
+    $('readerBackdrop').hidden = false;
+    $('reader').hidden = false;
+    $('reader').scrollTop = 0;
+    $('readerClose').focus();
+    var got = mdCache[g.local] ? Promise.resolve(mdCache[g.local])
+      : fetch(g.local).then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); });
+    got.then(function (md) {
+      mdCache[g.local] = md;
+      if ($('readerTitle').textContent !== g.title) return;  // the reader moved on
+      body.innerHTML = '';
+      body.appendChild(renderMarkdown(md, g.path));
+    }).catch(function () {
+      body.innerHTML = '';
+      body.appendChild(el('div', 'plabel', 'Couldn’t open it here. The link below opens it in the repo.'));
+    });
+  }
+
   function openReader(src) {
+    $('reader').classList.remove('reader-wide');
     $('readerTier').textContent = (src.tier || '').toUpperCase();
     $('readerTitle').textContent = src.title || src.ref;
     var st = $('readerStatus');
@@ -348,7 +435,7 @@
 
   function closeReader() {
     $('reader').hidden = true; $('readerBackdrop').hidden = true;
-    if (current && /^#\/[a-z0-9-]+\/\d+/.test(location.hash)) history.replaceState(null, '', '#/' + current.slug);
+    if (current && /^#\/[a-z0-9-]+\/(read\/)?\d+/.test(location.hash)) history.replaceState(null, '', '#/' + current.slug);
     if (/^#\/o\//.test(location.hash)) history.replaceState(null, '', current ? '#/' + current.slug : (onObjPage ? '#/objections' : '#/'));
   }
 
@@ -560,6 +647,7 @@
   }
 
   function openObjection(o) {
+    $('reader').classList.remove('reader-wide');
     var card = o.card ? DATA.cards.filter(function (c) { return c.slug === o.card; })[0] : null;
     $('readerTier').textContent = (o.kind === 'raised' ? 'RAISED BY ' + o.who : 'PREPARED \u00b7 ' + (card ? card.question : '')).toUpperCase();
     $('readerTitle').textContent = '\u201c' + o.objection + '\u201d';
@@ -645,7 +733,9 @@
     $('home').hidden = true;
     $('room').hidden = false;
     if (!current || current.slug !== card.slug) renderCard(card);
-    if (m[2] && card.sources[+m[2]]) openReader(card.sources[+m[2]]); else closeReader();
+    var rd = /^#\/[a-z0-9-]+\/read\/(\d+)/.exec(location.hash);
+    if (rd && card.goDeeper && card.goDeeper[+rd[1]]) openResearch(card, +rd[1]);
+    else if (m[2] && card.sources[+m[2]]) openReader(card.sources[+m[2]]); else closeReader();
   }
 
   fetch('data.json').then(function (r) { return r.json(); }).then(function (d) {
