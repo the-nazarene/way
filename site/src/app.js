@@ -8,6 +8,7 @@
 
   var DATA = null;
   var fuse = null;
+  var fuseLoose = null;
   var current = null;
   var onObjPage = false;
   var $ = function (id) { return document.getElementById(id); };
@@ -444,6 +445,17 @@
     return fuse.search(q, { limit: 5 }).map(function (r) { return { card: r.item, score: r.score }; });
   }
 
+  /* The drawer matcher returns nothing at all for most freely typed questions
+     — 14 cards at threshold 0.5. This one is only for "the nearest ones are
+     below", so that list is never empty under the heading promising it. */
+  function nearest(q) {
+    var res = search(q);
+    if (res.length) return res;
+    res = fuseLoose.search(q, { limit: 4 }).map(function (r) { return { card: r.item, score: r.score }; });
+    if (res.length) return res;
+    return DATA.cards.slice(0, 4).map(function (c) { return { card: c, score: 1 }; });
+  }
+
   function showSuggest(q) {
     var ul = $('suggest');
     var input = $('q');
@@ -466,13 +478,31 @@
   function go(card) {
     $('suggest').hidden = true;
     $('q').value = card.question;
-    $('hint').textContent = '';
+    /* When the library panel is open the results are the point of the search;
+       scrolling to the card would throw the reader straight past them. The
+       card is open below either way. */
+    if ($('libsearch').hidden) {
+      $('hint').textContent = '';
+      scrollToCard();
+    } else {
+      $('hint').textContent = 'The card for this is open below the library results.';
+    }
     if (location.hash !== '#/' + card.slug) location.hash = '#/' + card.slug; else renderCard(card);
-    $('card').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  /* Setting location.hash renders the room on the next task, so the card has
+     no box yet and scrollIntoView would be a silent no-op. Wait for it. */
+  function scrollToCard() {
+    var tries = 0;
+    (function tick() {
+      if (!$('room').hidden) { $('card').scrollIntoView({ behavior: 'smooth', block: 'start' }); return; }
+      if (tries++ > 5) return;
+      requestAnimationFrame(tick);
+    })();
   }
 
   function noCard(q) {
-    var res = search(q);
+    var res = nearest(q);
     $('nocard').hidden = false;
     $('cardCount').textContent = DATA.cards.length;
     var ul = $('nearest');
@@ -487,7 +517,8 @@
     $('requestLink').href = 'https://github.com/the-nazarene/way/issues/new?title=' + encodeURIComponent('Card request: ' + q) +
       '&body=' + encodeURIComponent('Someone asked the Reading Room:\n\n> ' + q + '\n\nNo card matched. If this deserves one, it goes on OPEN-RESEARCH.md.');
     $('hint').textContent = 'No card matched closely enough. Nearest cards are below.';
-    $('nocard').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    /* Up to the search bar and the library results, never down to the footer. */
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
   // The whole-library search (site/search/): passages from the cards, the
@@ -746,15 +777,20 @@
       labelLinkSwitch();
       if (current) renderFinding(current);
     });
+    var SEARCH_KEYS = [
+      { name: 'question', weight: 0.5 },
+      { name: 'aliases', weight: 0.3 },
+      { name: 'oneLiners', weight: 0.1 },
+      { name: 'sources.title', weight: 0.05 },
+      { name: 'sources.ref', weight: 0.05 }
+    ];
     fuse = new Fuse(d.cards, {
-      keys: [
-        { name: 'question', weight: 0.5 },
-        { name: 'aliases', weight: 0.3 },
-        { name: 'oneLiners', weight: 0.1 },
-        { name: 'sources.title', weight: 0.05 },
-        { name: 'sources.ref', weight: 0.05 }
-      ],
+      keys: SEARCH_KEYS,
       threshold: 0.5, ignoreLocation: true, includeScore: true, minMatchCharLength: 3
+    });
+    fuseLoose = new Fuse(d.cards, {
+      keys: SEARCH_KEYS,
+      threshold: 0.85, ignoreLocation: true, includeScore: true, minMatchCharLength: 3
     });
     $('drawerLabel').textContent = 'THE HARD QUESTIONS · ' + d.cards.length + ' CARDS';
     var input = $('q');

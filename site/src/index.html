@@ -50,6 +50,16 @@
   <span id="hint" class="hint"></span>
 </form>
 
+<!-- Directly under the search bar, and above the library results, on purpose:
+     this panel used to live at the foot of the document, so a search matching
+     no card threw the reader past the whole page to the footer. It is short,
+     so the library results below it stay in view. -->
+<section class="nocard" id="nocard" hidden>
+  <div class="eyebrow">NO CARD FOR THAT YET</div>
+  <p>The drawer has <span id="cardCount"></span> cards so far. The nearest ones are below. If none of them is your question, <a id="requestLink" href="https://github.com/the-nazarene/way/issues/new">ask for a card</a> and it goes on the research list.</p>
+  <ul id="nearest"></ul>
+</section>
+
 <section class="libsearch" id="libsearch" hidden aria-live="polite">
   <div class="libsearch-head"><span class="eyebrow">THE WHOLE LIBRARY, SEARCHED BY MEANING</span> <span id="libStatus" class="count"></span></div>
   <div class="libsearch-cols">
@@ -192,12 +202,6 @@
     </div>
   </section>
 </main>
-
-<section class="nocard" id="nocard" hidden>
-  <div class="eyebrow">NO CARD FOR THAT YET</div>
-  <p>The drawer has <span id="cardCount"></span> cards so far. The nearest ones are below. If none of them is your question, <a id="requestLink" href="https://github.com/the-nazarene/way/issues/new">ask for a card</a> and it goes on the research list.</p>
-  <ul id="nearest"></ul>
-</section>
 
 <footer class="foot">
   <span>Stamps are a build result, not an opinion: HELD means the text is in the repo and the cited phrase was found in it; NOT YET HELD means public domain and on the roadmap. Transcripts are pointers, not proof.</span>
