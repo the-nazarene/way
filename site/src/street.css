@@ -203,7 +203,8 @@ html[data-skin="street"] .next a:where(:not([data-surface="room"] .surface-wrap 
 html[data-skin="street"] .next a:hover:where(:not([data-surface="room"] .surface-wrap *)) { background: none; color: #444; }
 html[data-skin="street"] .desk-door:where(:not([data-surface="room"] .surface-wrap *)) { font-family: var(--head); font-size: 15px; letter-spacing: .01em; border: 3px solid #000; }
 
-html[data-skin="street"] .nocard:where(:not([data-surface="room"] .surface-wrap *)) { border: 4px solid #000; margin: 24px; }
+html[data-skin="street"] .nocard:where(:not([data-surface="room"] .surface-wrap *)) { border: 4px solid #000; max-width: 1200px; margin: 0 auto 24px; }
+@media (max-width: 800px) { html[data-skin="street"] .nocard:where(:not([data-surface="room"] .surface-wrap *)) { margin: 0 16px 16px; } }
 html[data-skin="street"] .nocard li a:where(:not([data-surface="room"] .surface-wrap *)) { border: 3px solid #000; font-family: var(--head); text-transform: uppercase; }
 
 /* Objections page */
