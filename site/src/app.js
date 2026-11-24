@@ -547,9 +547,10 @@
     return li;
   }
 
-  // Written answers (site/search/src/answer.js), shown only to whoever opened
-  // the site with ?ask=<token> while they are tried out. The token is kept for
-  // the tab and taken out of the address bar so it isn't shared by accident.
+  // Written answers (site/search/src/answer.js), for everyone. If the service
+  // closes them (ANSWERS_PUBLIC "0"), only a tab opened with ?ask=<token> gets
+  // them; the token is kept for the tab and taken out of the address bar so it
+  // isn't shared by accident. A closed door just hides the box.
   var ANSWER_API = 'https://search.nazareneway.com/answer';
   var askToken = (function () {
     var m = /[?&]ask=([^&#]+)/.exec(location.search);
@@ -660,11 +661,10 @@
 
   function askLibrary(q, seq) {
     var box = $('libAnswer');
-    if (!askToken) { box.hidden = true; return; }
     box.hidden = false;
     box.innerHTML = '';
     box.appendChild(el('p', 'ans-label', 'Drafting an answer from the library…'));
-    fetch(ANSWER_API, { method: 'POST', headers: { 'Content-Type': 'application/json', 'X-Ask-Token': askToken }, body: JSON.stringify({ q: q }) })
+    fetch(ANSWER_API, { method: 'POST', headers: askToken ? { 'Content-Type': 'application/json', 'X-Ask-Token': askToken } : { 'Content-Type': 'application/json' }, body: JSON.stringify({ q: q }) })
       .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(function (res) { if (seq === libSeq) renderAnswer(box, q, res); })
       .catch(function () { if (seq === libSeq) box.hidden = true; });
@@ -697,6 +697,8 @@
   function submit(e) {
     e.preventDefault();
     var q = $('q').value;
+    $('suggest').hidden = true;  // PULL or Enter closes the suggestions
+    $('q').setAttribute('aria-expanded', 'false');
     if (!q.trim()) { $('libsearch').hidden = true; location.hash = '#/'; return; }
     librarySearch(q);
     var res = search(q);
