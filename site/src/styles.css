@@ -169,7 +169,7 @@ a { color: var(--blue); }
 .next a { display: inline-block; text-decoration: none; color: var(--text-light); border: 1px solid var(--board-border); padding: 7px 10px; font-size: 13px; }
 .next a:hover { background: var(--drawer-dark); }
 
-.nocard { max-width: 1380px; margin: 18px auto 0; background: var(--cream); color: var(--ink); padding: 16px 20px; border: 1px solid var(--card-border); }
+.nocard { max-width: 1200px; margin: 0 auto 20px; background: var(--cream); color: var(--ink); padding: 16px 20px; border: 1px solid var(--card-border); }
 .nocard p { margin: 6px 0 10px; }
 .nocard ul { margin: 0; padding: 0; list-style: none; display: flex; gap: 10px; flex-wrap: wrap; }
 .nocard li a { display: inline-block; padding: 8px 12px; background: var(--cream-2); border: 1px solid var(--card-border); text-decoration: none; color: var(--ink); font-family: var(--type); font-size: 13px; }
