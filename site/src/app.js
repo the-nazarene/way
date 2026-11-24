@@ -547,10 +547,134 @@
     return li;
   }
 
+  // Written answers (site/search/src/answer.js), shown only to whoever opened
+  // the site with ?ask=<token> while they are tried out. The token is kept for
+  // the tab and taken out of the address bar so it isn't shared by accident.
+  var ANSWER_API = 'https://search.nazareneway.com/answer';
+  var askToken = (function () {
+    var m = /[?&]ask=([^&#]+)/.exec(location.search);
+    try {
+      if (m) {
+        sessionStorage.setItem('way-ask', decodeURIComponent(m[1]));
+        var rest = location.search.replace(/[?&]ask=[^&#]*/, '').replace(/^&/, '?');
+        history.replaceState(null, '', location.pathname + rest + location.hash);
+      }
+      return sessionStorage.getItem('way-ask');
+    } catch (e) { return m ? decodeURIComponent(m[1]) : null; }
+  })();
+
+  function external(a) { if (!/^#/.test(a.getAttribute('href') || '')) { a.target = '_blank'; a.rel = 'noopener'; } return a; }
+
+  // Prose with [n] citations: each [n] links to the passage it names.
+  function cited(text, passages) {
+    var p = el('p', 'ans-prose');
+    String(text || '').split(/(\[\d+\])/).forEach(function (part) {
+      var m = /^\[(\d+)\]$/.exec(part);
+      var src = m && passages.filter(function (x) { return x.n === Number(m[1]); })[0];
+      if (!src) { p.appendChild(document.createTextNode(part)); return; }
+      var a = el('a', 'ans-cite', '[' + m[1] + ']');
+      a.href = src.url;
+      a.title = src.title + ' · ' + src.header;
+      p.appendChild(external(a));
+    });
+    return p;
+  }
+
+  function labelled(label, text, passages) {
+    var p = cited(text, passages);
+    p.insertBefore(el('b', null, label + ' '), p.firstChild);
+    return p;
+  }
+
+  // A verse pasted from the KJV, or an exact quotation from a held text.
+  function quoted(item) {
+    var bq = el('blockquote', 'ans-quote');
+    bq.appendChild(el('p', null, item.text || item.quote));
+    var a = el('a', null, item.ref ? item.ref + ' (KJV)' : item.title + ' · ' + item.header);
+    a.href = item.url;
+    var c = el('cite');
+    c.appendChild(document.createTextNode('— '));
+    c.appendChild(external(a));
+    bq.appendChild(c);
+    return bq;
+  }
+
+  function renderAnswer(box, q, res) {
+    box.innerHTML = '';
+    var a = res.answer;
+    var ps = res.passages || [];
+    if (res.card) {
+      var cp = el('p', 'ans-card');
+      cp.appendChild(el('b', null, 'The card for this: '));
+      var ca = el('a', null, res.card.title);
+      ca.href = res.card.url;
+      cp.appendChild(ca);
+      cp.appendChild(document.createTextNode(' (written and checked by a person)'));
+      box.appendChild(cp);
+    }
+    if (!a) {
+      box.appendChild(el('p', 'ans-label', 'No written answer this time'));
+      box.appendChild(el('p', 'ans-prose', 'The passages the library found are below' + (res.reason ? ' (' + res.reason + ').' : '.')));
+    } else if (a.answerable === false) {
+      box.appendChild(el('p', 'ans-label', res.label || ''));
+      box.appendChild(el('p', 'ans-short', 'The library doesn’t settle this yet.'));
+      box.appendChild(cited(a.short_answer, ps));
+      if (a.not_settled) box.appendChild(cited(a.not_settled, ps));
+      if (a.background) {
+        var bg = el('div', 'ans-background');
+        bg.appendChild(el('p', 'ans-label', res.backgroundLabel || 'General background, not from our library.'));
+        bg.appendChild(el('p', 'ans-prose', a.background));
+        box.appendChild(bg);
+      }
+      var ask = el('a', 'ans-ask', 'Ask for a card on this →');
+      ask.href = 'https://github.com/the-nazarene/way/issues/new?title=' + encodeURIComponent('Card request: ' + q);
+      box.appendChild(external(ask));
+    } else {
+      box.appendChild(el('p', 'ans-label', res.label || ''));
+      box.appendChild(el('p', 'ans-short', a.short_answer));
+      (a.jesus_words || []).forEach(function (w) { box.appendChild(quoted(w)); });
+      if (a.mainstream) box.appendChild(labelled('The usual reading:', a.mainstream, ps));
+      if (a.library_view) box.appendChild(labelled('What the library finds:', a.library_view, ps));
+      (a.supporting || []).forEach(function (w) { box.appendChild(quoted(w)); });
+      if (a.against && (a.against.text || a.against.quote)) {
+        box.appendChild(el('p', 'ans-prose')).appendChild(el('b', null, 'The strongest verse the other way:'));
+        box.appendChild(quoted(a.against));
+        if (a.against.note) box.appendChild(cited(a.against.note, ps));
+      } else if (a.against && a.against.note) {
+        box.appendChild(labelled('The other side:', a.against.note, ps));
+      }
+      if (a.not_settled) box.appendChild(labelled('Not settled:', a.not_settled, ps));
+    }
+    if (res.talks && res.talks.length) {
+      var tp = el('p', 'ans-talks');
+      tp.appendChild(el('b', null, 'Hear it discussed (pointers, not proof): '));
+      res.talks.forEach(function (t, i) {
+        if (i) tp.appendChild(document.createTextNode(' · '));
+        var ta = el('a', null, t.title);
+        ta.href = t.url;
+        tp.appendChild(external(ta));
+      });
+      box.appendChild(tp);
+    }
+  }
+
+  function askLibrary(q, seq) {
+    var box = $('libAnswer');
+    if (!askToken) { box.hidden = true; return; }
+    box.hidden = false;
+    box.innerHTML = '';
+    box.appendChild(el('p', 'ans-label', 'Drafting an answer from the library…'));
+    fetch(ANSWER_API, { method: 'POST', headers: { 'Content-Type': 'application/json', 'X-Ask-Token': askToken }, body: JSON.stringify({ q: q }) })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (res) { if (seq === libSeq) renderAnswer(box, q, res); })
+      .catch(function () { if (seq === libSeq) box.hidden = true; });
+  }
+
   function librarySearch(q) {
     var box = $('libsearch');
     var seq = ++libSeq;
     box.hidden = false;
+    askLibrary(q, seq);
     $('libStatus').textContent = 'searching\u2026';
     ['libCard', 'libSource', 'libResearch', 'libTalk'].forEach(function (id) { $(id).innerHTML = ''; });
     fetch(SEARCH_API + '?limit=5&q=' + encodeURIComponent(q))

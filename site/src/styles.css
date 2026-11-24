@@ -305,6 +305,18 @@ a { color: var(--blue); }
 .lib-title { font-family: var(--type); font-size: 14px; color: var(--ink); }
 .libcol small { display: block; font-family: var(--mono); font-size: 11px; color: var(--muted); margin-top: 2px; }
 .lib-text { margin: 4px 0 0; font-size: 12px; color: var(--muted); line-height: 1.45; }
+/* The written answer (hidden link only), above the four columns. */
+.lib-answer { max-width: 760px; margin: 0 0 18px; padding: 0 0 16px; border-bottom: 1px dashed var(--card-border); font-size: 14px; line-height: 1.55; }
+.lib-answer[hidden] { display: none; }
+.ans-label { font-family: var(--type); font-size: 11px; letter-spacing: 1px; color: var(--red); margin: 0 0 8px; text-transform: uppercase; }
+.ans-short { font-weight: 700; font-size: 16px; margin: 0 0 10px; }
+.ans-prose, .ans-card { margin: 0 0 10px; }
+.ans-quote { margin: 0 0 10px; padding: 6px 12px; border-left: 3px solid var(--string); background: rgba(0,0,0,0.03); }
+.ans-quote p { margin: 0 0 4px; font-family: var(--type); }
+.ans-quote cite { font-style: normal; font-size: 12px; }
+.ans-cite { font-size: 11px; text-decoration: none; }
+.ans-background { margin: 10px 0; padding: 8px 12px; border: 1px dashed var(--card-border); color: var(--muted); }
+.ans-ask, .ans-talks { font-size: 13px; }
 @media (max-width: 800px) { .libsearch-cols { grid-template-columns: 1fr; } .libsearch { margin: 0 16px 16px; } }
 
 /* GO DEEPER files, opened in the reader */
