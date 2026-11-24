@@ -1,0 +1,378 @@
+// Written answers: POST /answer (behind ASK_TOKEN while it is tried out).
+//
+// The search finds the passages; Claude writes a short answer from them and
+// nothing else. The model never types scripture: it names a verse ("Mark 2:5")
+// and the King James text is pasted in here from the held file. Any other
+// quotation (Thomas, the Scrolls, a church father) must be an exact span of a
+// passage it was given. Talks never reach the model; they are listed as links.
+// Every check below either passes or the reader gets the closest card and the
+// passages instead, so a bad answer is never shown, only a plainer one.
+//
+// Every answer is kept in D1 (`answers`). Matt or Rex approve or strike them
+// with scripts/answer-review.py; a question close enough to an approved one
+// gets that answer back, free, marked as checked by a person. Spending is
+// counted per day in `answer_spend` against a monthly budget spread by day.
+
+import { findReferences, lookupVerses } from './kjv.js';
+
+const MODEL = 'claude-sonnet-5-5';
+const EMBED = '@cf/baai/bge-m3';
+const API = 'https://api.anthropic.com/v1/messages';
+const PRICE_IN = 2 / 1e6;           // USD per input token (Sonnet 5.5 list price)
+const PRICE_OUT = 10 / 1e6;         // USD per output token
+const RESERVE = 0.05;               // the most one answer is expected to cost; kept free before calling
+const MONTHLY_USD = 10;             // overridden by env.ANSWER_MONTHLY_USD
+const CARD_SCORE = 0.55;            // closest card shown first in a fallback at or above this (golden set)
+const BANK_MATCH = 0.9;             // cosine to an approved question; paraphrases score 0.88-0.96, near misses up to 0.86
+const MAX_VERSES = 6;               // one reference pastes at most this many verses
+const SOFT_WORDS = 160;             // prose length asked for
+const HARD_WORDS = 260;             // prose length past which the answer is not shown
+const MAX_QUESTION = 300;
+
+export const LABEL_DRAFT = 'Drafted from our sources by AI, not yet checked by a person.';
+export const LABEL_CHECKED = 'Drafted from our sources by AI and checked by a person.';
+export const LABEL_BACKGROUND = 'General background, not from our library.';
+
+const SYSTEM = `You write short answers for nazareneway.com, a library on what Jesus actually taught, read mostly by Christians who know their Bibles. You answer ONLY from the numbered passages given. You never use outside knowledge for any claim about what a text says, what Jesus said, or what happened. Tone: warm, direct, respectful; recovering, not debunking; never preachy or sarcastic. Never write in the first person (no I, me, my, we, our); say the library.
+
+Rules:
+- Scripture is never typed by you. For any Bible verse give only its reference in a ref field (e.g. Mark 2:5 or John 14:28-29, at most ${MAX_VERSES} verses); the site pastes the King James text itself. Cards often paraphrase verses in modern English: use the reference, not their wording.
+- Any other quotation (Gospel of Thomas, Dead Sea Scrolls, church fathers, a card) goes in a quote field as an EXACT, contiguous span copied from one passage, with that passage's number.
+- Prose fields must contain NO quotation marks at all.
+- Lead with Jesus's own words when the passages contain them. Supporting passages are other evidence; never repeat a verse already given as Jesus's words.
+- State the mainstream Christian reading fairly, in a sentence or two, before the library's view.
+- Always give the strongest passage on the other side: a Bible verse by reference, or an exact quote from a held source passage. Never a line from a card or from our research.
+- Cite passages in prose as [n].
+- Cards are the library's checked positions; prefer them. Set card_match true only if the closest card [1] directly answers this question. Our-research passages are the team's notes, not sources: never quote them as evidence of what Jesus said.
+- If the passages don't actually answer the question, set answerable=false and say in one or two sentences what the library does and doesn't hold. You may then add a short background field (two or three sentences) from general knowledge, so the reader isn't left with nothing: no quotations, no verse references, no claims about what any text says, only widely agreed context.
+- Keep it short: under ${SOFT_WORDS} words of prose in total, not counting background.`;
+
+const ITEM = {
+  type: 'object',
+  properties: {
+    ref: { type: 'string', description: 'Bible reference; the site pastes the KJV text' },
+    passage: { type: 'integer' },
+    quote: { type: 'string', description: 'Only for non-Bible text: an exact span of the passage' },
+  },
+};
+
+const TOOL = {
+  name: 'answer',
+  description: 'Return the structured answer.',
+  input_schema: {
+    type: 'object',
+    properties: {
+      answerable: { type: 'boolean' },
+      card_match: { type: 'boolean', description: 'True only if the closest card [1] directly answers this question.' },
+      short_answer: { type: 'string', description: 'One or two sentences. No quotation marks.' },
+      jesus_words: { type: 'array', items: ITEM },
+      mainstream: { type: 'string', description: 'The mainstream Christian reading, fairly. No quotation marks.' },
+      library_view: { type: 'string', description: 'What the library concludes and why, with [n] citations. No quotation marks.' },
+      supporting: { type: 'array', items: ITEM },
+      against: { type: 'object', properties: { ...ITEM.properties, note: { type: 'string' } }, required: ['note'] },
+      not_settled: { type: 'string', description: 'Where the library does not settle it, or empty. No quotation marks.' },
+      background: { type: 'string', description: 'Only when answerable is false: short general context. No quotations, no verse references.' },
+    },
+    required: ['answerable', 'card_match', 'short_answer', 'jesus_words', 'mainstream', 'library_view', 'supporting', 'against', 'not_settled'],
+  },
+};
+
+// ── Checking what the model returned ────────────────────────────────────────
+
+// For comparing a quotation with a passage: verse markers, markup, curly
+// quotes, case and spacing don't count.
+export function norm(s) {
+  return String(s || '')
+    .replace(/\*\*\d+:\d+\*\*/g, ' ')
+    .replace(/[*_]/g, '')
+    .replace(/[‘’]/g, "'").replace(/[“”]/g, '"')
+    .replace(/\s+/g, ' ').trim().toLowerCase();
+}
+
+const QUOTE_MARKS = /["“”]/;
+const VERSE_NUMBER = /\b\d{1,3}\s*:\s*\d{1,3}\b/;
+const FIRST_PERSON = /\b(I|I'm|I've|I'd|me|myself)\b/;
+const PROSE = ['short_answer', 'mainstream', 'library_view', 'not_settled'];
+
+const words = (s) => (String(s || '').match(/\S+/g) || []).length;
+
+// One reference, as the model wrote it, to the KJV verses it names.
+async function pasteVerses(ref, lookup) {
+  const found = findReferences(String(ref || ''));
+  if (found.length !== 1 || found[0].whole) return null;
+  const r = found[0];
+  if (r.to - r.from + 1 > MAX_VERSES) return null;
+  const [hit] = await lookup([r]);
+  if (!hit) return null;
+  return {
+    ref: hit.header.replace(/ \(KJV\)$/, ''),
+    url: hit.url,
+    text: hit.text.split('\n').map((l) => l.replace(/^\*\*\d+:\d+\*\*\s*/, '')).join(' '),
+  };
+}
+
+// Checks the model's answer against the passages it was given, pastes in the
+// verses, and returns { answer, problems, warnings }. Any problem means the
+// written answer is not shown. `lookup` is lookupVerses, or a stand-in in tests.
+export async function check(raw, passages, lookup = lookupVerses) {
+  const problems = [];
+  const warnings = [];
+  const ans = { ...raw };
+  const byId = new Map(passages.map((p) => [p.n, p]));
+  const asItem = (x) => (typeof x === 'string' ? { ref: x } : x || {});
+  ans.jesus_words = (Array.isArray(ans.jesus_words) ? ans.jesus_words : []).map(asItem);
+  ans.supporting = (Array.isArray(ans.supporting) ? ans.supporting : []).map(asItem);
+  ans.against = typeof ans.against === 'string' ? { ref: ans.against, note: '' } : ans.against || null;
+
+  // A failed verse or quotation sinks the answer when it is Jesus's words or
+  // the other side; a failed supporting one is only left out (and flagged).
+  async function resolve(item, role) {
+    const fail = (msg) => { (role === 'supporting' ? warnings : problems).push(`${role}: ${msg}`); return null; };
+    if (item.ref) {
+      const v = await pasteVerses(item.ref, lookup);
+      if (!v) return fail(`verse reference not found in the held KJV: ${item.ref}`);
+      return { ...v, ...(item.note !== undefined ? { note: item.note } : {}) };
+    }
+    const p = byId.get(Number(item.passage));
+    if (!p || !item.quote) return fail('a quotation without its passage');
+    if (!norm(p.text).includes(norm(item.quote))) return fail(`not word for word from [${p.n}]: ${String(item.quote).slice(0, 80)}`);
+    if (role !== 'supporting' && p.kind !== 'source') return fail(`quoted from a ${p.kind} passage [${p.n}], not a held source`);
+    return { quote: item.quote, passage: p.n, title: p.title, header: p.header, url: p.url, ...(item.note !== undefined ? { note: item.note } : {}) };
+  }
+
+  const jw = [];
+  for (const it of ans.jesus_words) jw.push(await resolve(it, "Jesus's words"));
+  const sup = [];
+  for (const it of ans.supporting) sup.push(await resolve(it, 'supporting'));
+  ans.jesus_words = jw.filter(Boolean);
+  // A verse already shown as Jesus's words isn't shown twice.
+  const shown = new Set(ans.jesus_words.map((w) => w.ref).filter(Boolean));
+  ans.supporting = sup.filter((w) => w && !(w.ref && shown.has(w.ref)));
+  // The other side is a verse or a held text. When none was given, its note
+  // still shows, flagged for the weekly review.
+  if (ans.answerable && ans.against && (ans.against.ref || ans.against.quote)) ans.against = (await resolve(ans.against, 'against')) || ans.against;
+  else if (ans.answerable) warnings.push('no passage on the other side');
+
+  for (const f of PROSE) {
+    if (QUOTE_MARKS.test(ans[f] || '')) problems.push(`quotation marks in ${f}`);
+    if (FIRST_PERSON.test(ans[f] || '')) warnings.push(`first person in ${f}`);
+  }
+  if (ans.against && QUOTE_MARKS.test(ans.against.note || '')) problems.push('quotation marks in the note on the other side');
+  for (const m of String(ans.library_view || '').matchAll(/\[(\d+)\]/g)) {
+    if (!byId.has(Number(m[1]))) problems.push(`cites [${m[1]}], which it was not given`);
+  }
+  if (ans.background) {
+    if (ans.answerable) delete ans.background;   // background is only for a question the library can't answer
+    else if (QUOTE_MARKS.test(ans.background) || VERSE_NUMBER.test(ans.background) || findReferences(ans.background).length) {
+      problems.push('background quotes or cites a text');
+    }
+  }
+  const n = PROSE.reduce((t, f) => t + words(ans[f]), 0) + words(ans.against && ans.against.note);
+  if (n > HARD_WORDS) problems.push(`too long (${n} words)`);
+  else if (n > SOFT_WORDS + 40) warnings.push(`long (${n} words)`);
+  return { answer: ans, problems, warnings };
+}
+
+// ── Budget ──────────────────────────────────────────────────────────────────
+
+const SCHEMA = [
+  `CREATE TABLE IF NOT EXISTS answers (
+     id INTEGER PRIMARY KEY AUTOINCREMENT,
+     created TEXT NOT NULL,
+     question TEXT NOT NULL,
+     norm TEXT NOT NULL,
+     status TEXT NOT NULL DEFAULT 'draft',
+     asked INTEGER NOT NULL DEFAULT 1,
+     answer TEXT NOT NULL,
+     passages TEXT NOT NULL,
+     cost REAL NOT NULL DEFAULT 0,
+     embedding TEXT,
+     reviewed TEXT)`,
+  'CREATE INDEX IF NOT EXISTS answers_norm ON answers (norm)',
+  'CREATE INDEX IF NOT EXISTS answers_status ON answers (status)',
+  'CREATE TABLE IF NOT EXISTS answer_spend (day TEXT PRIMARY KEY, usd REAL NOT NULL DEFAULT 0, calls INTEGER NOT NULL DEFAULT 0)',
+];
+let ready = false;
+
+async function ensureTables(db) {
+  if (ready) return;
+  await db.batch(SCHEMA.map((s) => db.prepare(s)));
+  ready = true;
+}
+
+export function budgets(env) {
+  const monthly = Number(env.ANSWER_MONTHLY_USD) || MONTHLY_USD;
+  return { monthly, daily: monthly / 30 };
+}
+
+// Whether one more answer fits today's share and the month's budget.
+export async function canSpend(db, env, now = new Date()) {
+  const day = now.toISOString().slice(0, 10);
+  const { monthly, daily } = budgets(env);
+  const today = await db.prepare('SELECT usd FROM answer_spend WHERE day = ?').bind(day).first();
+  const month = await db.prepare('SELECT SUM(usd) AS usd FROM answer_spend WHERE day LIKE ?').bind(`${day.slice(0, 7)}%`).first();
+  const t = (today && today.usd) || 0;
+  const m = (month && month.usd) || 0;
+  return t + RESERVE <= daily && m + RESERVE <= monthly;
+}
+
+async function spend(db, usd, now = new Date()) {
+  const day = now.toISOString().slice(0, 10);
+  await db.prepare(`INSERT INTO answer_spend (day, usd, calls) VALUES (?, ?, 1)
+    ON CONFLICT(day) DO UPDATE SET usd = usd + excluded.usd, calls = calls + 1`).bind(day, usd).run();
+}
+
+export const costOf = (usage) => (usage.input_tokens || 0) * PRICE_IN + (usage.output_tokens || 0) * PRICE_OUT;
+
+// ── The answer bank ─────────────────────────────────────────────────────────
+
+export function normQuestion(q) {
+  return String(q || '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
+}
+
+export function cosine(a, b) {
+  let d = 0, x = 0, y = 0;
+  for (let i = 0; i < a.length; i++) { d += a[i] * b[i]; x += a[i] * a[i]; y += b[i] * b[i]; }
+  return x && y ? d / Math.sqrt(x * y) : 0;
+}
+
+// An approved answer to a question that means the same, or this exact question
+// asked before (a draft is served again rather than paid for twice).
+async function fromBank(db, normed, vector) {
+  const same = await db.prepare(
+    "SELECT id, status, answer, passages FROM answers WHERE norm = ? AND status != 'struck' ORDER BY status = 'approved' DESC, id DESC LIMIT 1",
+  ).bind(normed).first();
+  if (same) return same;
+  const { results = [] } = await db.prepare("SELECT id, status, answer, passages, embedding FROM answers WHERE status = 'approved' AND embedding IS NOT NULL").all();
+  let best = null;
+  for (const r of results) {
+    const s = cosine(vector, JSON.parse(r.embedding));
+    if (s >= BANK_MATCH && (!best || s > best.s)) best = { ...r, s };
+  }
+  return best;
+}
+
+// ── Building the answer ─────────────────────────────────────────────────────
+
+// The numbered passages the model sees: the closest two cards, the held
+// sources for the question and for the case against it, two of our research
+// notes. Talks are kept apart as links.
+export function packFor(r1, r2) {
+  const passages = [];
+  const seen = new Set();
+  const add = (item, kind) => {
+    const key = `${item.file}:${item.line}`;
+    if (seen.has(key)) return;
+    seen.add(key);
+    passages.push({ n: passages.length + 1, kind, title: item.title, header: item.header, file: item.file, line: item.line, url: item.url, text: item.text || '' });
+  };
+  r1.card.slice(0, 2).forEach((c) => add(c, 'card'));
+  r1.source.slice(0, 6).forEach((s) => add(s, 'source'));
+  (r2.source || []).slice(0, 6).forEach((s) => add(s, 'source'));
+  r1.research.slice(0, 2).forEach((s) => add(s, 'research'));
+  const talks = [];
+  const titles = new Set();
+  for (const t of r1.talk) {
+    if (titles.has(t.title)) continue;
+    titles.add(t.title);
+    talks.push({ title: t.title, url: t.url, speakers: t.speakers || '' });
+    if (talks.length >= 3) break;
+  }
+  return { passages, talks, topCard: r1.card[0] || null };
+}
+
+const KIND = { card: 'card (written and checked by a person)', source: 'source (held primary text)', research: 'our research (not a source)' };
+
+function prompt(q, passages) {
+  const body = passages.map((p) => `[${p.n}] (${KIND[p.kind]}) ${p.title} — ${p.header} — ${p.file}:${p.line}\n${p.text}`).join('\n\n');
+  return `Passages:\n\n${body}\n\nQuestion: ${q}\n\nReply only by calling the answer tool.`;
+}
+
+async function callModel(env, q, passages) {
+  const r = await fetch(API, {
+    method: 'POST',
+    headers: { 'x-api-key': env.ANTHROPIC_API_KEY, 'anthropic-version': '2023-06-01', 'content-type': 'application/json' },
+    // This model refuses a forced tool_choice, so the tool is offered and asked for.
+    body: JSON.stringify({ model: MODEL, max_tokens: 1500, system: SYSTEM, tools: [TOOL], messages: [{ role: 'user', content: prompt(q, passages) }] }),
+    signal: AbortSignal.timeout(60000),
+  });
+  if (!r.ok) throw new Error(`Anthropic ${r.status}: ${(await r.text()).slice(0, 200)}`);
+  const msg = await r.json();
+  const use = (msg.content || []).find((b) => b.type === 'tool_use');
+  return { raw: use ? use.input : null, cost: costOf(msg.usage || {}) };
+}
+
+const cardOf = (c) => (c ? { title: c.title, url: c.url, file: c.file } : null);
+const publicPassages = (passages) => passages.map(({ n, kind, title, header, url }) => ({ n, kind, title, header, url }));
+
+// What the reader gets when there is no written answer: the closest card, if
+// it is close, and the passages themselves.
+function fallback(reason, pack) {
+  const top = pack.topCard;
+  return {
+    mode: 'fallback',
+    reason,
+    card: top && top.score >= CARD_SCORE ? cardOf(top) : null,
+    passages: publicPassages(pack.passages.filter((p) => p.kind !== 'research')).slice(0, 8),
+    talks: pack.talks,
+  };
+}
+
+// The whole step. `search` is index.js's search (passed in, not imported, to
+// keep the two modules from importing each other).
+export async function answer(env, question, { search, lookup = lookupVerses, now = new Date() } = {}) {
+  const q = String(question || '').trim().slice(0, MAX_QUESTION);
+  if (!q) return { mode: 'fallback', reason: 'empty question', card: null, passages: [], talks: [] };
+  const db = env.TEXT;
+  await ensureTables(db);
+
+  const normed = normQuestion(q);
+  const emb = await env.AI.run(EMBED, { text: [q] });
+  const vector = (emb.data || emb.response)[0];
+  const banked = await fromBank(db, normed, vector);
+  if (banked) {
+    await db.prepare('UPDATE answers SET asked = asked + 1 WHERE id = ?').bind(banked.id).run();
+    const kept = JSON.parse(banked.answer);
+    return { ...kept, mode: 'bank', id: banked.id, checked: banked.status === 'approved', label: banked.status === 'approved' ? LABEL_CHECKED : LABEL_DRAFT, cost: 0 };
+  }
+
+  const [r1, r2] = await Promise.all([
+    search(env, q, { limit: 6 }),
+    search(env, `the strongest case against: ${q}`, { group: 'source', limit: 6 }),
+  ]);
+  const pack = packFor(r1, r2);
+  if (!pack.passages.length) return fallback('nothing in the library is close enough', pack);
+  if (!env.ANTHROPIC_API_KEY) return fallback('written answers are switched off', pack);
+  if (!(await canSpend(db, env, now))) return fallback("today's share of the answer budget is spent", pack);
+
+  let raw, cost;
+  try {
+    ({ raw, cost } = await callModel(env, q, pack.passages));
+  } catch (err) {
+    console.error(err);
+    return fallback('the answer service is unavailable', pack);
+  }
+  await spend(db, cost, now);
+  if (!raw) return fallback('no structured answer came back', pack);
+
+  const { answer: ans, problems, warnings } = await check(raw, pack.passages, lookup);
+  if (problems.length) {
+    console.log(JSON.stringify({ answer_rejected: q, problems, against: raw.against }));
+    return { ...fallback('the written answer failed its checks', pack), problems, cost };
+  }
+  const out = {
+    mode: 'written',
+    checked: false,
+    label: LABEL_DRAFT,
+    backgroundLabel: LABEL_BACKGROUND,
+    card: ans.card_match && pack.topCard ? cardOf(pack.topCard) : null,
+    answer: ans,
+    passages: publicPassages(pack.passages),
+    talks: pack.talks,
+    warnings,
+  };
+  const { meta } = await db.prepare(
+    'INSERT INTO answers (created, question, norm, answer, passages, cost, embedding) VALUES (?, ?, ?, ?, ?, ?, ?)',
+  ).bind(now.toISOString(), q, normed, JSON.stringify(out), JSON.stringify(pack.passages.map(({ text, ...p }) => p)), cost, JSON.stringify(vector)).run();
+  return { ...out, id: meta && meta.last_row_id, cost };
+}

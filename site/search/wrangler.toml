@@ -25,3 +25,15 @@ database_id = "bfab9f6f-bfce-4328-b0dc-dcb1fdd2da8c"
 name = "LIMITER"
 namespace_id = "1001"
 simple = { limit = 30, period = 60 }
+
+# Per-address limit on /answer, on top of the one above: each answer can cost money.
+[[ratelimits]]
+name = "ASK_LIMITER"
+namespace_id = "1002"
+simple = { limit = 5, period = 60 }
+
+# Written answers (/answer). Secrets, set with `wrangler secret put`:
+#   ANTHROPIC_API_KEY  the key from The Way's Anthropic workspace (its own spend limit)
+#   ASK_TOKEN          the hidden link's token; without it /answer doesn't exist
+[vars]
+ANSWER_MONTHLY_USD = "10"

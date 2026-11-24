@@ -3,12 +3,14 @@
 // One index, two doors. GET /search serves the Reading Room's search box;
 // POST /mcp serves the same search as an MCP tool that people add to their
 // own Claude or ChatGPT. Both return passages and their sources, never a
-// generated answer. Two indexes over the same passages, both filled by
+// generated answer. A third door, POST /answer (answer.js), writes a short
+// answer from those passages; it stays behind ASK_TOKEN until it is launched. Two indexes over the same passages, both filled by
 // scripts/vectorize-sync.py: Vectorize finds them by meaning, and a D1
 // full-text index finds them by their exact words. Each group's two lists
 // are merged by reciprocal rank fusion.
 
 import { findReferences, lookupVerses, stripReferences } from './kjv.js';
+import { answer } from './answer.js';
 
 const MODEL = '@cf/baai/bge-m3';
 const GROUPS = ['card', 'source', 'research', 'talk'];
@@ -286,7 +288,7 @@ function cors(req) {
   return allowed ? {
     'Access-Control-Allow-Origin': origin,
     'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
-    'Access-Control-Allow-Headers': 'Content-Type, Mcp-Session-Id, Mcp-Protocol-Version',
+    'Access-Control-Allow-Headers': 'Content-Type, Mcp-Session-Id, Mcp-Protocol-Version, X-Ask-Token',
     Vary: 'Origin',
   } : { Vary: 'Origin' };
 }
@@ -296,6 +298,27 @@ function json(body, status, headers) {
     status,
     headers: { 'Content-Type': 'application/json; charset=utf-8', ...headers },
   });
+}
+
+// Written answers, for whoever holds the token while they are tried out. With
+// no ASK_TOKEN set, the door doesn't exist. Its own limit sits on top of the
+// search limit, because each answer can cost money.
+async function handleAnswer(req, env, h) {
+  if (!env.ASK_TOKEN || req.headers.get('X-Ask-Token') !== env.ASK_TOKEN) return json({ error: 'not found' }, 404, h);
+  if (req.method !== 'POST') return json({ error: 'POST {"q": "your question"} to /answer' }, 405, { ...h, Allow: 'POST' });
+  const ip = req.headers.get('CF-Connecting-IP') || 'unknown';
+  for (const lim of [env.LIMITER, env.ASK_LIMITER].filter(Boolean)) {
+    const { success } = await lim.limit({ key: ip });
+    if (!success) return json({ error: 'Too many questions. Try again in a minute.' }, 429, { ...h, 'Retry-After': '60' });
+  }
+  let body;
+  try { body = await req.json(); } catch { return json({ error: 'POST {"q": "your question"}' }, 400, h); }
+  try {
+    return json(await answer(env, body && body.q, { search }), 200, { ...h, 'Cache-Control': 'no-store' });
+  } catch (err) {
+    console.error(err);
+    return json({ error: 'Answers are unavailable right now.' }, 500, h);
+  }
 }
 
 export default {
@@ -312,6 +335,8 @@ export default {
         note: POINTER_NOTE,
       }, 200, h);
     }
+
+    if (url.pathname === '/answer') return handleAnswer(req, env, h);
 
     const isSearch = url.pathname === '/search' && req.method === 'GET';
     const isMcp = url.pathname === '/mcp';

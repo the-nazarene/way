@@ -2,7 +2,7 @@
 
 The whole repo, searchable by meaning and by its exact words, for people who don't have a clone. Proposal and costs: `site/PROPOSAL-SEMANTIC-SEARCH.md`.
 
-One Cloudflare Worker, two doors:
+One Cloudflare Worker, two doors, and a third behind a hidden link (written answers, below):
 
 | Door | Address | Used by |
 | --- | --- | --- |
@@ -34,6 +34,25 @@ The details that keep it cheap and keep the cards right:
 - **Filling it without re-embedding:** `python scripts/vectorize-sync.py --all --only text` (about 76,000 passages, 100 MB of text, roughly 10 minutes). After that the Action keeps both indexes current; `--only vectors` or `--only text` updates just one.
 - **Cost:** none beyond Workers Paid, which includes 25 billion D1 rows read, 50 million rows written and 5 GB of storage a month ([D1 pricing](https://developers.cloudflare.com/d1/platform/pricing/)). Measured: a search reads 5,000 to 50,000 rows (about 150 ms, run alongside Vectorize), so 20,000 searches a month is about a billion rows, 4% of what's included. The database is about 270 MB. A full refill writes a few hundred thousand rows.
 
+## Written answers (hidden link, being tried out)
+
+`POST /answer {"q": "…"}` writes a short answer from the library (`src/answer.js`). It exists only for a request carrying the `X-Ask-Token` header equal to the `ASK_TOKEN` secret; the Reading Room sends it when the site was opened as `nazareneway.com/?ask=<token>` (kept for the tab, taken out of the address bar). Without the token nothing on the public site changes, and with no `ASK_TOKEN` set the door doesn't exist.
+
+How an answer is made, and why it can't misquote:
+
+- **Passages:** the hybrid search for the question (two closest cards, six held sources, two of our research notes) plus a second search for *the strongest case against* it (six more sources). Talks never reach the model; up to three are listed under the answer as *Hear it discussed (pointers, not proof)*.
+- **Model:** Claude Sonnet 5.5 (`claude-sonnet-5-5`), through the Messages API with one tool, `answer`, whose fields are the answer's shape: Jesus's words, the usual Christian reading, what the library finds (with `[n]` citations), supporting passages, the strongest passage the other way, what isn't settled. The model refuses a forced `tool_choice`, so the tool is offered and asked for.
+- **Scripture is pasted, never typed.** The model names a verse (`Mark 2:5`, up to six verses); `kjv.js` pastes the King James text and its link. Any other quotation (Thomas, the Scrolls, a church father) must be an exact span of a passage it was given (case, spacing, curly quotes and verse markers aside). Prose fields may hold no quotation marks at all.
+- **Checks, then fallback.** A verse the KJV doesn't have, a quotation that isn't word for word, Jesus's words or the other side quoted from a card or our notes, a citation to a passage it wasn't given, quotation marks in prose, or an answer over 260 words: the written answer is not shown, and the reader gets the closest card (when its score is 0.55 or more; tuned on the test set) and the passages instead. A failed *supporting* passage is only left out; no passage on the other side, first person, or a long answer are flagged for review.
+- **Thin library:** when the passages don't answer the question, the answer says so, may add two or three sentences of general background (labelled *General background, not from our library*, with no quotations or verse references allowed), and links to a card request.
+- **Card first:** when the model says the closest card answers the question, the card is shown above the answer.
+
+**The answer bank.** Every written answer is kept in `the-way-text` (table `answers`: question, its normalised form, the answer, the passages, cost, the question's embedding, status `draft`, `approved` or `struck`). The same question asked again gets the same draft back, free. A question whose embedding is within 0.90 cosine of an approved one gets that answer, marked *checked by a person* (paraphrases score 0.88 to 0.96; different questions on the same subject reach 0.86, so 0.90 errs toward paying for a fresh answer). `python scripts/answer-review.py` prints the last week's drafts, most-asked first, numbered; `--approve 3,5 --strike 4` marks them; `--spend` shows the cost by day.
+
+**Cost and limits.** About 3 cents an answer (10,000 tokens in, 1,000 out, at $2 and $10 a million). `ANSWER_MONTHLY_USD` (default 10) is spread by day, so about 33 cents (roughly ten answers) a day; `answer_spend` counts it from the API's own token counts, and over budget the reader gets the card and passages, never an error. The Anthropic key belongs to The Way's own workspace, whose spend limit is the hard ceiling. On top of the search limit, `/answer` allows 5 questions a minute per address (`ASK_LIMITER`). The tables are created by the Worker on first use.
+
+**Trying it locally:** put `ANTHROPIC_API_KEY=…` and `ASK_TOKEN=…` in `site/search/.dev.vars` (git-ignored), run `wrangler dev --remote`, then `ASK_TOKEN=… node site/search/golden/answers.mjs http://localhost:8787` runs twenty questions and prints them as a reader sees them (`golden/ANSWERS.md` holds the last run). Answers made this way are real calls and land in the bank as drafts.
+
 ## The test set
 
 `golden/questions.json` holds 66 questions as a Christian might type them, each with the verse or card a good search returns in its top five. `node site/search/golden/run.mjs <url>` scores the search at `<url>` (default `http://localhost:8787`, so `wrangler dev`), and `golden/BASELINE.md` keeps the results over time. Run it before and after any change to how the search ranks things.
@@ -44,7 +63,7 @@ The details that keep it cheap and keep the cards right:
 - **Embeddings:** Workers AI `@cf/baai/bge-m3`, for the passages and for each question.
 - **Filling it:** `scripts/vectorize-sync.py`, using the same chunking and skip rules as `scripts/semantic-search.py`, minus `site/` and `ideas/`.
 - **Keeping it current:** `.github/workflows/search-index.yml` runs on every push to `main` that touches Markdown and embeds everything changed since the last run that succeeded, so a failed run is caught up by the next one. It needs the repo secret `CLOUDFLARE_SEARCH_TOKEN`. Running the workflow by hand does the same catch-up; tick **full** to re-embed everything.
-- **Limits:** 30 requests a minute per address (the `LIMITER` binding).
+- **Limits:** 30 requests a minute per address (the `LIMITER` binding); `/answer` also 5 a minute (`ASK_LIMITER`).
 
 ## Working on it
 
