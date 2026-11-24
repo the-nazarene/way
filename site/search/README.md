@@ -34,9 +34,9 @@ The details that keep it cheap and keep the cards right:
 - **Filling it without re-embedding:** `python scripts/vectorize-sync.py --all --only text` (about 76,000 passages, 100 MB of text, roughly 10 minutes). After that the Action keeps both indexes current; `--only vectors` or `--only text` updates just one.
 - **Cost:** none beyond Workers Paid, which includes 25 billion D1 rows read, 50 million rows written and 5 GB of storage a month ([D1 pricing](https://developers.cloudflare.com/d1/platform/pricing/)). Measured: a search reads 5,000 to 50,000 rows (about 150 ms, run alongside Vectorize), so 20,000 searches a month is about a billion rows, 4% of what's included. The database is about 270 MB. A full refill writes a few hundred thousand rows.
 
-## Written answers (hidden link, being tried out)
+## Written answers
 
-`POST /answer {"q": "…"}` writes a short answer from the library (`src/answer.js`). It exists only for a request carrying the `X-Ask-Token` header equal to the `ASK_TOKEN` secret; the Reading Room sends it when the site was opened as `nazareneway.com/?ask=<token>` (kept for the tab, taken out of the address bar). Without the token nothing on the public site changes, and with no `ASK_TOKEN` set the door doesn't exist.
+`POST /answer {"q": "…"}` writes a short answer from the library (`src/answer.js`). It is open to everyone while `ANSWERS_PUBLIC` is `"1"` (`wrangler.toml`). Set to `"0"`, only a request carrying the `X-Ask-Token` header equal to the `ASK_TOKEN` secret gets one; the Reading Room sends it when the site was opened as `nazareneway.com/?ask=<token>` (kept for the tab, taken out of the address bar).
 
 How an answer is made, and why it can't misquote:
 
@@ -52,6 +52,14 @@ How an answer is made, and why it can't misquote:
 **Cost and limits.** About 3 cents an answer (10,000 tokens in, 1,000 out, at $2 and $10 a million). `ANSWER_MONTHLY_USD` (default 10) is spread by day, so about 33 cents (roughly ten answers) a day; `answer_spend` counts it from the API's own token counts, and over budget the reader gets the card and passages, never an error. The Anthropic key belongs to The Way's own workspace, whose spend limit is the hard ceiling. On top of the search limit, `/answer` allows 5 questions a minute per address (`ASK_LIMITER`). The tables are created by the Worker on first use.
 
 **Trying it locally:** put `ANTHROPIC_API_KEY=…` and `ASK_TOKEN=…` in `site/search/.dev.vars` (git-ignored), run `wrangler dev --remote`, then `ASK_TOKEN=… node site/search/golden/answers.mjs http://localhost:8787` runs twenty questions and prints them as a reader sees them (`golden/ANSWERS.md` holds the last run). Answers made this way are real calls and land in the bank as drafts.
+
+## The answers dashboard (Matt and Rex)
+
+`https://search.nazareneway.com/dashboard?key=<DASH_TOKEN>` (`src/dashboard.js`). The key is swapped for a cookie scoped to `/dashboard` (a year, HttpOnly, SameSite=Strict) and taken out of the address bar, so bookmark the page after opening the link once; each phone or browser opens the link once. With no `DASH_TOKEN` set, or the wrong key, the page is a 404. To cut everyone off, set a new `DASH_TOKEN` and share the new link.
+
+It shows the budget (today against the daily share, the month against the cap, and the month-end at the current pace), what readers got this month (a written answer, one from the bank, the card and passages, or over budget), questions per day for 30 days with the money spent, the most-asked questions, the gaps (questions that got the card and passages for a reason other than money, or an answer that says the library doesn't settle it: candidates for new cards), the drafts to review, and the most recent questions. Any written answer opens as the site shows it, with **Approve** and **Strike** (the same as `answer-review.py --approve / --strike`).
+
+**What is logged, and what isn't.** Every question asked of `/answer` is kept in `answer_log`: the question's text, when, what the reader got, and the answer it points to. No address, browser, or anything else about the person is stored. Questions are public-facing text people type into a public site, but they can still be personal, so the log is read only through the key-protected dashboard and the review script.
 
 ## The test set
 

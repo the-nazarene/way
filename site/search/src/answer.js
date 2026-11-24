@@ -12,6 +12,8 @@
 // with scripts/answer-review.py; a question close enough to an approved one
 // gets that answer back, free, marked as checked by a person. Spending is
 // counted per day in `answer_spend` against a monthly budget spread by day.
+// Every question asked is also logged in `answer_log` (the question, when, and
+// what the reader got; no address or browser), which the dashboard reads.
 
 import { findReferences, lookupVerses } from './kjv.js';
 
@@ -191,13 +193,24 @@ const SCHEMA = [
   'CREATE INDEX IF NOT EXISTS answers_norm ON answers (norm)',
   'CREATE INDEX IF NOT EXISTS answers_status ON answers (status)',
   'CREATE TABLE IF NOT EXISTS answer_spend (day TEXT PRIMARY KEY, usd REAL NOT NULL DEFAULT 0, calls INTEGER NOT NULL DEFAULT 0)',
+  `CREATE TABLE IF NOT EXISTS answer_log (
+     id INTEGER PRIMARY KEY AUTOINCREMENT,
+     created TEXT NOT NULL,
+     question TEXT NOT NULL,
+     norm TEXT NOT NULL,
+     mode TEXT NOT NULL,
+     reason TEXT,
+     settled INTEGER NOT NULL DEFAULT 1,
+     answer_id INTEGER,
+     cost REAL NOT NULL DEFAULT 0)`,
+  'CREATE INDEX IF NOT EXISTS answer_log_created ON answer_log (created)',
 ];
-let ready = false;
+const ready = new WeakSet();   // per database binding, once per isolate
 
-async function ensureTables(db) {
-  if (ready) return;
+export async function ensureTables(db) {
+  if (ready.has(db)) return;
   await db.batch(SCHEMA.map((s) => db.prepare(s)));
-  ready = true;
+  ready.add(db);
 }
 
 export function budgets(env) {
@@ -318,9 +331,26 @@ function fallback(reason, pack) {
   };
 }
 
-// The whole step. `search` is index.js's search (passed in, not imported, to
-// keep the two modules from importing each other).
-export async function answer(env, question, { search, lookup = lookupVerses, now = new Date() } = {}) {
+// The whole step, logged. A failed log write never costs the reader an answer.
+export async function answer(env, question, opts = {}) {
+  const res = await compose(env, question, opts);
+  const q = String(question || '').trim().slice(0, MAX_QUESTION);
+  if (q && env.TEXT) {
+    const settled = !(res.answer && res.answer.answerable === false);
+    try {
+      await env.TEXT.prepare(
+        'INSERT INTO answer_log (created, question, norm, mode, reason, settled, answer_id, cost) VALUES (?, ?, ?, ?, ?, ?, ?, ?)',
+      ).bind((opts.now || new Date()).toISOString(), q, normQuestion(q), res.mode, res.reason || null, settled ? 1 : 0, res.id || null, res.cost || 0).run();
+    } catch (err) {
+      console.error(err);
+    }
+  }
+  return res;
+}
+
+// `search` is index.js's search (passed in, not imported, to keep the two
+// modules from importing each other).
+async function compose(env, question, { search, lookup = lookupVerses, now = new Date() } = {}) {
   const q = String(question || '').trim().slice(0, MAX_QUESTION);
   if (!q) return { mode: 'fallback', reason: 'empty question', card: null, passages: [], talks: [] };
   const db = env.TEXT;
