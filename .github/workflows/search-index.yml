@@ -1,6 +1,7 @@
 # Keeps search.nazareneway.com current: on every push to main that touches
 # Markdown, embed what changed since the last sync that succeeded and drop the
-# old passages. Starting from the last success (not the previous push) means a
+# old passages, in both indexes (Vectorize for meaning, the D1 text index for
+# exact words; the token needs D1 edit as well as Workers AI and Vectorize). Starting from the last success (not the previous push) means a
 # failed run is caught up by the next one, with nobody re-running it by hand.
 # Running it by hand (Actions → search index → Run workflow) does the same
 # catch-up; tick "full" to re-embed everything.

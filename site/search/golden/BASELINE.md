@@ -27,3 +27,16 @@ The four unscored questions land on: tithe → Torah card; Holy Spirit → Essen
 | offcard (8) | 50% (2/4) | - | - |
 
 References are fixed. Exact phrases are the next step: keyword search (D1 full-text) fused with the search by meaning.
+
+## After keyword search (D1 full-text fused with meaning; run on `wrangler dev --remote`, 2026-11-24)
+
+| Question type | Verse in top 5 Sources | Card in top 5 Cards | Card first |
+|---|---|---|---|
+| ref (18) | 100% (18/18) | - | - |
+| phrase (12) | **100% (12/12)** | - | - |
+| card (28) | - | 100% (28/28) | 89% (25/28) |
+| offcard (8) | 50% (2/4) | - | - |
+
+Pasted verses are fixed. A first version that also fused single words into the Cards dropped "card first" to 75% (21/28): words a question shares with a card pulled the wrong card up. Cards now take only the exact phrase; the numbers above are with that rule. The two offcard misses ("How should I pray?", "Should Christians love their enemies?") ask for a verse by its idea, not its words, so neither keyword nor reference search reaches them; that is the next thing to look at.
+
+The four unscored questions land on: tithe → Torah card; Holy Spirit → Essene origins card; what Jesus looked like → resurrection card; baptism → blood atonement card.

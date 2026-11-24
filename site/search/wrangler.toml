@@ -13,6 +13,13 @@ binding = "AI"
 binding = "VECTORIZE"
 index_name = "the-way"
 
+# The same passages as plain text with a full-text (FTS5) index, for exact words.
+# Created and filled by scripts/vectorize-sync.py (--setup-text, then --all).
+[[d1_databases]]
+binding = "TEXT"
+database_name = "the-way-text"
+database_id = "bfab9f6f-bfce-4328-b0dc-dcb1fdd2da8c"
+
 # Per-address limit on /search and /mcp, so a bot can't run up the bill.
 [[ratelimits]]
 name = "LIMITER"

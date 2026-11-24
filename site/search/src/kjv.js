@@ -58,6 +58,12 @@ const REF_RE = new RegExp(
   `\\b(?:(1st|2nd|3rd|first|second|third|iii|ii|i|1|2|3)\\s*)?(${NAMES.join('|')})\\.?\\s*(\\d{1,3})` +
   '(?:\\s*:\\s*(\\d{1,3})(?:\\s*[-–]\\s*(\\d{1,3}))?)?\\b', 'gi');
 
+// The query with its references taken out, for the keyword search: "John 14:28"
+// should not send it looking for every passage that says "John".
+export function stripReferences(query) {
+  return String(query || '').replace(REF_RE, ' ').replace(/\s+/g, ' ').trim();
+}
+
 // The references in a query, in the order written. A bare chapter ("Psalm 23")
 // counts only when it is the whole query, so "Mark 3 times" stays a sentence.
 export function findReferences(query) {

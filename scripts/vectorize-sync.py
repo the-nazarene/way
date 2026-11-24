@@ -6,24 +6,29 @@ step with the repo.
 The local index (`semantic-search.py`, Gemini + ChromaDB) is for people
 working in a clone. This script feeds the public one: the same files, the
 same chunks, embedded with Workers AI `bge-m3` and stored in Cloudflare
-Vectorize, where the search Worker in `site/search/` reads them.
+Vectorize, where the search Worker in `site/search/` reads them. The same
+chunks also go, as plain text, into a D1 database with a full-text (FTS5)
+index, so the Worker can find exact words as well as meaning.
 
 Run:
-  python scripts/vectorize-sync.py --setup               # create the index (once)
-  python scripts/vectorize-sync.py --all                 # embed every file
+  python scripts/vectorize-sync.py --setup               # create the Vectorize index (once)
+  python scripts/vectorize-sync.py --setup-text          # create the D1 text index (once; safe to repeat)
+  python scripts/vectorize-sync.py --all                 # embed and store every file
   python scripts/vectorize-sync.py --since <git-sha>     # only what changed since <sha>
   python scripts/vectorize-sync.py --all --dry-run       # count chunks, send nothing
   python scripts/vectorize-sync.py --all --group source --group research   # just those groups
+  python scripts/vectorize-sync.py --all --only text     # fill the text index alone (no embedding)
 
-Needs CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_SEARCH_TOKEN (Workers AI + Vectorize
-edit) in the env. The GitHub Action in `.github/workflows/search-index.yml` runs
-`--since` on every push to main, so nobody runs this by hand after the first build.
+Needs CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_SEARCH_TOKEN (Workers AI, Vectorize
+and D1 edit) in the env. The GitHub Action in `.github/workflows/search-index.yml`
+runs `--since` on every push to main, so nobody runs this by hand after the first build.
 
 Chunking, provenance, and what gets skipped all come from semantic-search.py,
 so the two indexes always cut the repo the same way.
 """
 
 import argparse
+import concurrent.futures
 import importlib.util
 import json
 import os
@@ -51,6 +56,10 @@ GITHUB_BLOB = "https://github.com/the-nazarene/way/blob/main"
 # Not part of the public library: the site's own source and docs, and Rex's
 # idea notes. Everything else semantic-search.py indexes, this indexes too.
 EXTRA_SKIP_ROOT = {"site", "ideas"}
+
+TEXT_DB = "the-way-text"    # D1 database holding the same chunks for keyword search
+SQL_MAX_BYTES = 90_000      # D1 refuses statements over 100 KB
+TEXT_THREADS = 4
 
 METADATA_MAX_BYTES = 9500   # Vectorize allows 10 KiB of metadata per vector
 TEXT_MAX_CHARS = 2000
@@ -254,16 +263,119 @@ def upload(chunks):
             print(f"  {done}/{len(chunks)} chunks ({time.time() - started:.0f}s)")
 
 
+# ── The text index (D1, FTS5) ───────────────────────────────────────────────
+# One row per chunk, keyed by the same id as its vector, and an FTS5 index over
+# its title, heading and text, kept in step by triggers. The Worker searches it
+# for exact words ("I will have mercy, and not sacrifice") and fuses the hits
+# with Vectorize's. Words are indexed as written, not stemmed: the search by
+# meaning already covers "sacrifices" for "sacrifice", and unstemmed terms let
+# the Worker look up how many passages hold a word (passages_vocab) and leave
+# out the commonest ones. Values are written as SQL literals because D1 binds at most
+# 100 parameters per statement; literals let one statement carry ~50 chunks.
+
+TEXT_SCHEMA = """
+CREATE TABLE IF NOT EXISTS passages (
+  rowid INTEGER PRIMARY KEY, id TEXT NOT NULL UNIQUE, grp TEXT NOT NULL,
+  file TEXT, line INTEGER, title TEXT, header TEXT, source TEXT, speakers TEXT, url TEXT, text TEXT);
+CREATE INDEX IF NOT EXISTS passages_file ON passages(file);
+CREATE VIRTUAL TABLE IF NOT EXISTS passages_fts USING fts5(
+  title, header, text, content='passages', content_rowid='rowid', tokenize='unicode61 remove_diacritics 2');
+CREATE VIRTUAL TABLE IF NOT EXISTS passages_vocab USING fts5vocab(passages_fts, 'row');
+CREATE TRIGGER IF NOT EXISTS passages_ai AFTER INSERT ON passages BEGIN
+  INSERT INTO passages_fts(rowid, title, header, text) VALUES (new.rowid, new.title, new.header, new.text); END;
+CREATE TRIGGER IF NOT EXISTS passages_ad AFTER DELETE ON passages BEGIN
+  INSERT INTO passages_fts(passages_fts, rowid, title, header, text) VALUES ('delete', old.rowid, old.title, old.header, old.text); END;
+CREATE TRIGGER IF NOT EXISTS passages_au AFTER UPDATE ON passages BEGIN
+  INSERT INTO passages_fts(passages_fts, rowid, title, header, text) VALUES ('delete', old.rowid, old.title, old.header, old.text);
+  INSERT INTO passages_fts(rowid, title, header, text) VALUES (new.rowid, new.title, new.header, new.text); END;
+"""
+TEXT_COLUMNS = ("id", "grp", "file", "line", "title", "header", "source", "speakers", "url", "text")
+
+_text_db = None
+
+
+def text_db():
+    """The D1 database id, looked up by name so no extra secret is needed."""
+    global _text_db
+    if _text_db is None:
+        found = call("GET", f"/d1/database?name={TEXT_DB}")["result"]
+        match = [d for d in found if d["name"] == TEXT_DB]
+        if not match:
+            sys.exit(f"No D1 database '{TEXT_DB}'. Run --setup-text first.")
+        _text_db = match[0]["uuid"]
+    return _text_db
+
+
+def sql(statement):
+    return call("POST", f"/d1/database/{text_db()}/query", {"sql": statement})
+
+
+def lit(v):
+    if v is None:
+        return "NULL"
+    if isinstance(v, int):
+        return str(v)
+    return "'" + str(v).replace("\x00", "").replace("'", "''") + "'"
+
+
+def setup_text():
+    if not [d for d in call("GET", f"/d1/database?name={TEXT_DB}")["result"] if d["name"] == TEXT_DB]:
+        call("POST", "/d1/database", {"name": TEXT_DB})
+    sql(TEXT_SCHEMA)
+    print(f"D1 database '{TEXT_DB}' ready, with the passages table and its full-text index.")
+
+
+def text_row(c):
+    m = c["metadata"]
+    return (c["id"], m["group"], m["file"], m["line"], m["title"], m["header"], m["source"],
+            m.get("speakers"), m["url"], c["text"])
+
+
+def text_delete(ids):
+    ids = sorted(ids)
+    for i in range(0, len(ids), 200):
+        sql(f"DELETE FROM passages WHERE id IN ({','.join(lit(x) for x in ids[i:i + 200])})")
+    if ids:
+        print(f"  Removed {len(ids)} stale text rows")
+
+
+def text_upload(chunks):
+    """Upsert every chunk, in statements kept under D1's size limit."""
+    head = f"INSERT INTO passages ({','.join(TEXT_COLUMNS)}) VALUES "
+    tail = (" ON CONFLICT(id) DO UPDATE SET " +
+            ", ".join(f"{col}=excluded.{col}" for col in TEXT_COLUMNS[1:]))
+    statements, values, size = [], [], 0
+    for c in chunks:
+        v = "(" + ",".join(lit(x) for x in text_row(c)) + ")"
+        if values and size + len(v.encode("utf-8")) > SQL_MAX_BYTES:
+            statements.append(head + ",".join(values) + tail)
+            values, size = [], 0
+        values.append(v)
+        size += len(v.encode("utf-8")) + 1
+    if values:
+        statements.append(head + ",".join(values) + tail)
+
+    started, done = time.time(), 0
+    with concurrent.futures.ThreadPoolExecutor(TEXT_THREADS) as pool:
+        for _ in pool.map(sql, statements):
+            done += 1
+            if done % 100 == 0 or done == len(statements):
+                print(f"  text: {done}/{len(statements)} statements ({time.time() - started:.0f}s)")
+
+
 # ── Main ────────────────────────────────────────────────────────────────────
 
 def main():
     ap = argparse.ArgumentParser(description="Sync the repo into the hosted search index.")
     mode = ap.add_mutually_exclusive_group(required=True)
     mode.add_argument("--setup", action="store_true", help="create the Vectorize index (once)")
+    mode.add_argument("--setup-text", action="store_true", help="create the D1 text index (safe to repeat)")
     mode.add_argument("--all", action="store_true", help="embed every file")
     mode.add_argument("--since", metavar="SHA", help="embed only files changed since SHA")
     ap.add_argument("--group", action="append", choices=["card", "source", "research", "talk"],
                     help="with --all: only files in this group (repeatable)")
+    ap.add_argument("--only", choices=["vectors", "text"],
+                    help="update just one index (default: both)")
     ap.add_argument("--dry-run", action="store_true", help="count, send nothing")
     args = ap.parse_args()
 
@@ -271,6 +383,8 @@ def main():
         sys.exit("Set CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_SEARCH_TOKEN.")
     if args.setup:
         return setup()
+    if args.setup_text:
+        return setup_text()
 
     if args.all:
         paths, stale = all_files(), set()
@@ -290,8 +404,12 @@ def main():
     print(f"{len(paths)} files → {len(chunks)} chunks {groups}; {len(stale)} stale")
     if args.dry_run:
         return
-    delete_ids(stale)
-    upload(chunks)
+    if args.only != "text":
+        delete_ids(stale)
+        upload(chunks)
+    if args.only != "vectors":
+        text_delete(stale)
+        text_upload(chunks)
     print("Done.")
 
 
