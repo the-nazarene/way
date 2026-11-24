@@ -13,6 +13,16 @@ Both return passages with their file, line, source header and link (talks link t
 
 A file counts as a source when `VERIFIED-SOURCES.md` lists it (or its folder) under Tier 1 or 2. Adding a text there moves it into Sources at the next full sync of those groups: `python scripts/vectorize-sync.py --all --group source --group research`.
 
+## Verse references
+
+A query that names a verse ("John 14:28", "1 Thess 4:17", "Amos 5:21-25", or a bare "Psalm 23") gets that verse back first in Sources, word for word from the held KJV (`christianity/Incoming/kjv/`), labelled `"match": "reference"` and linked to its lines on GitHub. The search by meaning then runs on the query plus the verse's words, so the cards and talks about that verse come back too. A search by meaning alone can't do this: a bare reference embeds as a few numbers and lands near nothing in particular (39% of references found before, 100% after; `golden/BASELINE.md`).
+
+`src/kjv.js` reads the reference (book names and common abbreviations, numbered books, ranges, up to three references per query, 30 verses at most) and fetches the book's file from `raw.githubusercontent.com`, cached by Cloudflare for a day and parsed once per Worker instance. Why not bundle the KJV into the Worker, or look it up in Vectorize? Bundling adds 4 MB and a build step to keep in step with the repo; Vectorize stores chunks of up to a few dozen verses with a cut-down text, not single verses. The KJV doesn't change, so a cached fetch is the cheapest correct copy. If GitHub can't be reached, the search answers without the verse rather than failing.
+
+## The test set
+
+`golden/questions.json` holds 66 questions as a Christian might type them, each with the verse or card a good search returns in its top five. `node site/search/golden/run.mjs <url>` scores the search at `<url>` (default `http://localhost:8787`, so `wrangler dev`), and `golden/BASELINE.md` keeps the results over time. Run it before and after any change to how the search ranks things.
+
 ## How it fits together
 
 - **Index:** Cloudflare Vectorize index `the-way` (1,024 dims, cosine, filterable by `group`: `card`, `source`, `research`, `talk`), on Matt's Cloudflare account.

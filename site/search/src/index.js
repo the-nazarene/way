@@ -5,6 +5,8 @@
 // own Claude or ChatGPT. Both return passages and their sources, never a
 // generated answer. The index is filled by scripts/vectorize-sync.py.
 
+import { findReferences, lookupVerses } from './kjv.js';
+
 const MODEL = '@cf/baai/bge-m3';
 const GROUPS = ['card', 'source', 'research', 'talk'];
 const MAX_QUERY = 300;
@@ -24,7 +26,19 @@ export async function search(env, query, { group = 'all', limit = 5 } = {}) {
   limit = Math.max(1, Math.min(MAX_LIMIT, Number(limit) || 5));
   const groups = group === 'all' ? GROUPS : GROUPS.filter((g) => g === group);
 
-  const emb = await env.AI.run(MODEL, { text: [q] });
+  // A verse reference is answered from the KJV itself, first in Sources. The
+  // search by meaning then runs on the verse's words as well as the query's,
+  // so "John 14:28" finds the cards and talks about "my Father is greater
+  // than I" instead of whatever a bare number happens to sit near.
+  let verses = [];
+  const refs = findReferences(q);
+  if (refs.length) {
+    try { verses = await lookupVerses(refs); } catch (err) { console.error(err); }
+  }
+  const words = verses.map((v) => v.text.replace(/\*\*\d+:\d+\*\*\s*/g, '')).join(' ');
+  const asked = words ? `${q}\n${words}` : q;
+
+  const emb = await env.AI.run(MODEL, { text: [asked.slice(0, 2000)] });
   const vector = (emb.data || emb.response)[0];
 
   // One query per group, so the 34,000 transcript passages can't crowd the
@@ -40,8 +54,10 @@ export async function search(env, query, { group = 'all', limit = 5 } = {}) {
     })));
 
   const out = { query: q, card: [], source: [], research: [], talk: [] };
+  if (groups.includes('source')) out.source = verses.slice(0, limit);
   groups.forEach((g, i) => {
     const seen = {};
+    if (out[g].length >= limit) return;
     for (const m of lists[i].matches || []) {
       const md = m.metadata || {};
       seen[md.file] = (seen[md.file] || 0) + 1;

@@ -1,0 +1,365 @@
+{
+ "_note": "Questions as a Christian might type them, and what a good search returns in its top five. type: ref = a verse reference (that verse should be in Sources); phrase = words from a verse (that verse should be in Sources); card = a question one of the 14 cards answers (that card should be in Cards); offcard = no card covers it (the verse, where one is given, should be in Sources; otherwise the results are recorded, not scored).",
+ "questions": [
+  {
+   "q": "John 14:28",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/43-john.md",
+   "verse": "14:28"
+  },
+  {
+   "q": "Matthew 9:13",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/40-matthew.md",
+   "verse": "9:13"
+  },
+  {
+   "q": "Hebrews 9:22",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/58-hebrews.md",
+   "verse": "9:22"
+  },
+  {
+   "q": "Hosea 6:6",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/28-hosea.md",
+   "verse": "6:6"
+  },
+  {
+   "q": "1 Thessalonians 4:17",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/52-1-thessalonians.md",
+   "verse": "4:17"
+  },
+  {
+   "q": "1 Thess 4:17",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/52-1-thessalonians.md",
+   "verse": "4:17"
+  },
+  {
+   "q": "John 1:1",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/43-john.md",
+   "verse": "1:1"
+  },
+  {
+   "q": "Jn 10:30",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/43-john.md",
+   "verse": "10:30"
+  },
+  {
+   "q": "Matt 5:17-19",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/40-matthew.md",
+   "verse": "5:17"
+  },
+  {
+   "q": "Mark 7:19",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/41-mark.md",
+   "verse": "7:19"
+  },
+  {
+   "q": "Luke 17:21",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/42-luke.md",
+   "verse": "17:21"
+  },
+  {
+   "q": "Jeremiah 7:22",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/24-jeremiah.md",
+   "verse": "7:22"
+  },
+  {
+   "q": "Amos 5:21-25",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/30-amos.md",
+   "verse": "5:21"
+  },
+  {
+   "q": "Galatians 1:12",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/48-galatians.md",
+   "verse": "1:12"
+  },
+  {
+   "q": "Rom 3:28",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/45-romans.md",
+   "verse": "3:28"
+  },
+  {
+   "q": "What does Matthew 19:17 say?",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/40-matthew.md",
+   "verse": "19:17"
+  },
+  {
+   "q": "Acts 15:20",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/44-acts.md",
+   "verse": "15:20"
+  },
+  {
+   "q": "Isaiah 1:11",
+   "type": "ref",
+   "source": "christianity/Incoming/kjv/23-isaiah.md",
+   "verse": "1:11"
+  },
+  {
+   "q": "I will have mercy, and not sacrifice",
+   "type": "phrase",
+   "source": "christianity/Incoming/kjv/40-matthew.md",
+   "verse": "9:13"
+  },
+  {
+   "q": "without shedding of blood is no remission",
+   "type": "phrase",
+   "source": "christianity/Incoming/kjv/58-hebrews.md",
+   "verse": "9:22"
+  },
+  {
+   "q": "my Father is greater than I",
+   "type": "phrase",
+   "source": "christianity/Incoming/kjv/43-john.md",
+   "verse": "14:28"
+  },
+  {
+   "q": "the kingdom of God is within you",
+   "type": "phrase",
+   "source": "christianity/Incoming/kjv/42-luke.md",
+   "verse": "17:21"
+  },
+  {
+   "q": "I and my Father are one",
+   "type": "phrase",
+   "source": "christianity/Incoming/kjv/43-john.md",
+   "verse": "10:30"
+  },
+  {
+   "q": "if thou wilt enter into life, keep the commandments",
+   "type": "phrase",
+   "source": "christianity/Incoming/kjv/40-matthew.md",
+   "verse": "19:17"
+  },
+  {
+   "q": "think not that I am come to destroy the law",
+   "type": "phrase",
+   "source": "christianity/Incoming/kjv/40-matthew.md",
+   "verse": "5:17"
+  },
+  {
+   "q": "I spake not unto your fathers, nor commanded them concerning burnt offerings",
+   "type": "phrase",
+   "source": "christianity/Incoming/kjv/24-jeremiah.md",
+   "verse": "7:22"
+  },
+  {
+   "q": "the one shall be taken, and the other left",
+   "type": "phrase",
+   "source": "christianity/Incoming/kjv/40-matthew.md",
+   "verse": "24:40"
+  },
+  {
+   "q": "why callest thou me good",
+   "type": "phrase",
+   "source": "christianity/Incoming/kjv/41-mark.md",
+   "verse": "10:18"
+  },
+  {
+   "q": "for I desired mercy, and not sacrifice",
+   "type": "phrase",
+   "source": "christianity/Incoming/kjv/28-hosea.md",
+   "verse": "6:6"
+  },
+  {
+   "q": "neither was I taught it",
+   "type": "phrase",
+   "source": "christianity/Incoming/kjv/48-galatians.md",
+   "verse": "1:12"
+  },
+  {
+   "q": "Does God need blood to forgive sins?",
+   "type": "card",
+   "card": "blood-atonement-and-salvation"
+  },
+  {
+   "q": "Did Jesus have to die so we could be forgiven?",
+   "type": "card",
+   "card": "blood-atonement-and-salvation"
+  },
+  {
+   "q": "Was Jesus an Essene?",
+   "type": "card",
+   "card": "essene-nazarene-origins"
+  },
+  {
+   "q": "Who were the Nazarenes and where did they come from?",
+   "type": "card",
+   "card": "essene-nazarene-origins"
+  },
+  {
+   "q": "Is hell eternal torment?",
+   "type": "card",
+   "card": "hell-afterlife"
+  },
+  {
+   "q": "Will unbelievers burn forever?",
+   "type": "card",
+   "card": "hell-afterlife"
+  },
+  {
+   "q": "Why is John so different from the other gospels?",
+   "type": "card",
+   "card": "how-we-read-john"
+  },
+  {
+   "q": "Can we trust the Gospel of John?",
+   "type": "card",
+   "card": "how-we-read-john"
+  },
+  {
+   "q": "Didn't Jesus fulfill the law so we don't have to keep it?",
+   "type": "card",
+   "card": "jesus-and-the-torah"
+  },
+  {
+   "q": "Do Christians still have to follow the Old Testament law?",
+   "type": "card",
+   "card": "jesus-and-the-torah"
+  },
+  {
+   "q": "How do you decide which sayings of Jesus are authentic?",
+   "type": "card",
+   "card": "method-and-criteria"
+  },
+  {
+   "q": "Why should I trust your method over the church's?",
+   "type": "card",
+   "card": "method-and-criteria"
+  },
+  {
+   "q": "Why do you reject Paul?",
+   "type": "card",
+   "card": "pauls-legitimacy"
+  },
+  {
+   "q": "Did Paul change Christianity?",
+   "type": "card",
+   "card": "pauls-legitimacy"
+  },
+  {
+   "q": "Is the rapture real?",
+   "type": "card",
+   "card": "rapture-end-times"
+  },
+  {
+   "q": "Where does the idea of the rapture come from?",
+   "type": "card",
+   "card": "rapture-end-times"
+  },
+  {
+   "q": "Did Jesus really rise from the dead?",
+   "type": "card",
+   "card": "resurrection"
+  },
+  {
+   "q": "What evidence is there for the resurrection?",
+   "type": "card",
+   "card": "resurrection"
+  },
+  {
+   "q": "Was Jesus vegetarian?",
+   "type": "card",
+   "card": "sacrifice-culture-vegetarian-jesus"
+  },
+  {
+   "q": "Why did Jesus overturn the tables in the temple?",
+   "type": "card",
+   "card": "sacrifice-culture-vegetarian-jesus"
+  },
+  {
+   "q": "Is the Gospel of Thomas real scripture?",
+   "type": "card",
+   "card": "the-gospel-of-thomas"
+  },
+  {
+   "q": "Why isn't Thomas in the Bible?",
+   "type": "card",
+   "card": "the-gospel-of-thomas"
+  },
+  {
+   "q": "Isn't Jesus God?",
+   "type": "card",
+   "card": "trinity-deity-of-jesus"
+  },
+  {
+   "q": "Is the Trinity in the Bible?",
+   "type": "card",
+   "card": "trinity-deity-of-jesus"
+  },
+  {
+   "q": "What is the kingdom of God?",
+   "type": "card",
+   "card": "two-ways-kingdom-within"
+  },
+  {
+   "q": "What did the earliest Christians teach?",
+   "type": "card",
+   "card": "two-ways-kingdom-within"
+  },
+  {
+   "q": "If I'm saved by works, what hope is there for me when I fail?",
+   "type": "card",
+   "card": "what-we-actually-offer"
+  },
+  {
+   "q": "Is salvation by faith or by works?",
+   "type": "card",
+   "card": "what-we-actually-offer"
+  },
+  {
+   "q": "What did Jesus say about divorce?",
+   "type": "offcard",
+   "source": "christianity/Incoming/kjv/40-matthew.md",
+   "verse": "19:9"
+  },
+  {
+   "q": "How should I pray?",
+   "type": "offcard",
+   "source": "christianity/Incoming/kjv/40-matthew.md",
+   "verse": "6:9"
+  },
+  {
+   "q": "What did Jesus say about money and the rich?",
+   "type": "offcard",
+   "source": "christianity/Incoming/kjv/40-matthew.md",
+   "verse": "19:24"
+  },
+  {
+   "q": "Should Christians love their enemies?",
+   "type": "offcard",
+   "source": "christianity/Incoming/kjv/40-matthew.md",
+   "verse": "5:44"
+  },
+  {
+   "q": "Do I have to tithe?",
+   "type": "offcard"
+  },
+  {
+   "q": "What is the Holy Spirit?",
+   "type": "offcard"
+  },
+  {
+   "q": "What did Jesus look like?",
+   "type": "offcard"
+  },
+  {
+   "q": "Is baptism necessary for salvation?",
+   "type": "offcard"
+  }
+ ]
+}
