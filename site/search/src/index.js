@@ -11,6 +11,7 @@
 
 import { findReferences, lookupVerses, stripReferences } from './kjv.js';
 import { answer } from './answer.js';
+import { handleDashboard } from './dashboard.js';
 
 const MODEL = '@cf/baai/bge-m3';
 const GROUPS = ['card', 'source', 'research', 'talk'];
@@ -339,6 +340,7 @@ export default {
     }
 
     if (url.pathname === '/answer') return handleAnswer(req, env, h);
+    if (url.pathname === '/dashboard' || url.pathname.startsWith('/dashboard/')) return handleDashboard(req, env, url);
 
     const isSearch = url.pathname === '/search' && req.method === 'GET';
     const isMcp = url.pathname === '/mcp';
