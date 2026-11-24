@@ -30,4 +30,5 @@ site/dist/
 
 # wrangler dev state for the search Worker
 site/search/.wrangler/
+.wrangler/
 site/search/.dev.vars

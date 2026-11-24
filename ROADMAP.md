@@ -1,6 +1,6 @@
 # Roadmap
 
-Working to-do list for The Way. Current as of 2026-10-20.
+Working to-do list for The Way. Website section checked 2026-11-24; the rest current as of 2026-10-20.
 
 **The governing fact:** this repo is **public**. Anyone can read it, clone it, quote it, and check it. That changes the priority order — a wrong claim here is not a private note we'll tidy up later, it's something a stranger can screenshot. Accuracy work outranks new content.
 
@@ -41,12 +41,35 @@ Working to-do list for The Way. Current as of 2026-10-20.
 | # | Item | Notes |
 |---|---|---|
 | 9 | **Ray Pritz, *Nazarene Jewish Christianity*** | The standard monograph on exactly our central claim, and it's absent from the bibliography. Cite it rather than copying it (see the copyright rule in `CONTRIBUTING.md`). |
-| 9a | **The Reading Room — public front door** | `site/` is live from `main` via GitHub Pages. **All 14 cards structured** (218 sources, 204 held in the repo, 14 public-domain-not-held), drawers grouped by topic, permalinks and copy-a-citation on every source, KJV passages shown in context. Open: Rex on JSON records vs card front-matter; the objections bank (PR #5) as a second cabinet once merged; a smarter drawer (embeddings) needs an API key as an Actions secret; analytics needs an account; Phase 3 (grounded answers for no-card questions, stamped UNCHECKED) waits on P0. |
+| 9a | **The Reading Room — public front door** | `site/` is live from `main` via GitHub Pages. **All 14 cards structured** (218 sources, 204 held in the repo, 14 public-domain-not-held), drawers grouped by topic, permalinks and copy-a-citation on every source, KJV passages shown in context. What is open and what has shipped: see **Website** below. |
 | 9b | **Search the whole library by meaning: site search box + connector** | **Built 2026-10-20 by Matt (PR #17):** the Worker (`site/search/`, site search at `search.nazareneway.com/search` and the MCP connector at `/mcp`), `scripts/vectorize-sync.py`, a GitHub Action that re-indexes on every merge (needs the `CLOUDFLARE_SEARCH_TOKEN` secret), and the "whole library" panel in the Reading Room. See `site/search/README.md`. From the proposal, `site/PROPOSAL-SEMANTIC-SEARCH.md`: one search service on nazareneway.com (Cloudflare Worker + Vectorize, about $5 a month) with two doors, a search box on the site and a connector members add to their own Claude or ChatGPT. Returns real passages with their source, never a generated answer; talks shown separately as pointers. Kept current by a GitHub Action on every merge. **Decisions before building:** Matt: Cloudflare account and paid plan; Matt: host under `/api/search` and `/mcp`; Rex: where results sit on the site and how they look; Rex and Matt: connector open to anyone or by address only; Matt: ask the group what they'd use |
 | 10 | **Jamie — push-to-check lookup tool** | Spec'd and ready to build in `ideas/jamie-mvp.md`. Milestone M2 (console output from real retrieval) is the gate: everything before it is plumbing, everything after is polish. |
 | 11 | **Delete the merged `questions-not-debate` branch** | Fully merged into `main`; it'll read as work-in-progress to new contributors. Matt's branch, Matt's call. |
 | 13 | **Drop box for contributors + `/process-roadmap` skill** | **Planned 2026-10-21 (Rex), not built.** A shared Google Drive folder ("Naz Dogs Drop Box") where friends drag and drop files, and a skill that pulls new drops, logs them in `PROCESSING-ROADMAP.md` with the contributor, converts them to Markdown, and later also checks the channels we follow for new uploads. A private upload page on nazareneway.com (Cloudflare Access + Worker + R2) is phase 2, only if needed. Plan and to-do list: `ideas/drop-box-and-process-roadmap.md`. Next step: Rex creates and shares the folder |
 | 12 | **Spanish mirrors drift** | 17 `*.es.md` files translate the English pages. When an English page is corrected, the Spanish needs the same fix — there's no automation, so it has to be deliberate. |
+
+---
+
+## Website (nazareneway.com)
+
+Everything planned for the site, in one place. Checked against the code and the pull requests 2026-11-24. The P0 accuracy work above still comes first.
+
+| # | Item | Waiting on | Status |
+|---|---|---|---|
+| W1 | **Review the written answers.** Every answer starts as a draft, labelled as AI-drafted and unchecked; approve or strike each one on the dashboard (`site/search/README.md`) or with `scripts/answer-review.py`. In the 20-question test, 18 were written and 2 fell back to the card and passages (`site/search/golden/ANSWERS.md`) | Matt and Rex | Live 2026-11-24; review ongoing |
+| W2 | **New cards from the gaps.** The dashboard lists the questions the library couldn't answer | Matt and Rex | Open |
+| W3 | **Contribute page.** A `#/drop` page with a Google Form (PR #18); see also item 13 | Rex or Matt: make the form. Then Claude builds the page | Not built |
+| W4 | **Check the cards against the talks**, Paul card first (PR #18) | Rex: yes, no, or change it | Waiting |
+| W5 | **Episode boards.** Five Jesus Way boards are built and unlisted; they open by link | Aaron seeing them; then Rex and Matt | Waiting |
+| W6 | **Saved desks with secret links** (`site/PROPOSAL-SECRET-LINKS.md`) | Matt | Proposal |
+| W7 | **Desk questions:** who can add a prepared desk; whether phones get OPEN ON THE DESK (hidden there now). See `site/DESK.md` | Rex and Matt | Open |
+| W8 | **Card data:** JSON records or front matter in the card files (JSON today) | Rex | Open |
+| W9 | **One shared reader** for the Reading Room and the Desk, which each carry their own copy | Matt's OK (it changes `app.js`) | Not started |
+| W10 | **Branches to merge:** `transcripts-capital-jesus` (2,941 places); `search-sync-retry-409` (PR #24); `ideas-drop-form-and-card-checks` (PR #18, conflicts with `main`); `desk-john-the-baptist-locusts` (locust board, after review) | Matt or Rex | Open |
+| W11 | **Analytics** | An account | Not started |
+| W12 | **Spanish pages** don't follow English corrections (item 12) | Ongoing | Open |
+
+**Shipped:** the objections room; library search and the connector, open to anyone (9b); search labels (D10); the Street look; source links on all 14 cards; GO DEEPER on the site (PR #34); search misses stay at the top of the page (2026-11-23); verse lookup and exact-word search (PRs #35, #36); written answers (PRs #37, #38) and their dashboard (PR #39).
 
 ---
 

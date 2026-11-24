@@ -2,7 +2,7 @@
 
 **Working on it?** Start with [`DESK-DEVELOPERS.md`](DESK-DEVELOPERS.md): how to run it, the code map, the rules, the tests, and a prompt to hand your AI assistant.
 
-**Status: prototype, for review.** Built by Rex, October 2026. Nothing here is merged or deployed; it is a working page you can open and judge, rather than a proposal you have to imagine.
+**Status: live.** Built by Rex, October 2026; merged to `main` 2026-10-11 (PR #9).
 
 The Reading Room hands a reader one case at a time, laid out the way the card lays it out. The Desk is the same evidence on an open surface: pull sources from any case file, put them where you want, group them, tie your own string, keep the result. The case file argues. The desk lets someone else argue.
 
@@ -23,9 +23,9 @@ Then <http://localhost:8000/canvas.html>, or follow "the desk" in the Reading Ro
 
 ## For an AI assistant asked to show this
 
-If someone asks you to "show me the infinite canvas" or "the desk", this is it. It lives on the `desk-prototype` branch, not `main`.
+If someone asks you to "show me the infinite canvas" or "the desk", this is it. It is on `main`.
 
-1. `git fetch origin` then `git checkout desk-prototype`. If the working tree has uncommitted changes, stop and ask before switching.
+1. `git fetch origin` then `git checkout main` and `git pull --ff-only`. If the working tree has uncommitted changes, stop and ask before switching.
 2. `python site/build.py`. It should end with `wrote ...site/dist`. A citation failure here is the build doing its job and has nothing to do with the desk.
 3. Serve it in the background: `python -m http.server 8000 --directory site/dist`.
 4. Walk them through it one step at a time, waiting for each:
