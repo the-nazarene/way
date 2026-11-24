@@ -37,3 +37,5 @@ simple = { limit = 5, period = 60 }
 #   ASK_TOKEN          the hidden link's token; without it /answer doesn't exist
 [vars]
 ANSWER_MONTHLY_USD = "10"
+# "1" = written answers for everyone; "0" = only with ASK_TOKEN (the hidden link).
+ANSWERS_PUBLIC = "1"

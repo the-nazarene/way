@@ -4,7 +4,7 @@
 // POST /mcp serves the same search as an MCP tool that people add to their
 // own Claude or ChatGPT. Both return passages and their sources, never a
 // generated answer. A third door, POST /answer (answer.js), writes a short
-// answer from those passages; it stays behind ASK_TOKEN until it is launched. Two indexes over the same passages, both filled by
+// answer from those passages; it is open to everyone while ANSWERS_PUBLIC is "1" (wrangler.toml). Two indexes over the same passages, both filled by
 // scripts/vectorize-sync.py: Vectorize finds them by meaning, and a D1
 // full-text index finds them by their exact words. Each group's two lists
 // are merged by reciprocal rank fusion.
@@ -300,11 +300,13 @@ function json(body, status, headers) {
   });
 }
 
-// Written answers, for whoever holds the token while they are tried out. With
-// no ASK_TOKEN set, the door doesn't exist. Its own limit sits on top of the
-// search limit, because each answer can cost money.
+// Written answers. Open to everyone when ANSWERS_PUBLIC is "1"; otherwise only
+// to whoever holds ASK_TOKEN, and with neither the door doesn't exist. Its own
+// limit sits on top of the search limit, because each answer can cost money,
+// and the monthly budget caps the rest.
 async function handleAnswer(req, env, h) {
-  if (!env.ASK_TOKEN || req.headers.get('X-Ask-Token') !== env.ASK_TOKEN) return json({ error: 'not found' }, 404, h);
+  const open = env.ANSWERS_PUBLIC === '1' || (env.ASK_TOKEN && req.headers.get('X-Ask-Token') === env.ASK_TOKEN);
+  if (!open) return json({ error: 'not found' }, 404, h);
   if (req.method !== 'POST') return json({ error: 'POST {"q": "your question"} to /answer' }, 405, { ...h, Allow: 'POST' });
   const ip = req.headers.get('CF-Connecting-IP') || 'unknown';
   for (const lim of [env.LIMITER, env.ASK_LIMITER].filter(Boolean)) {
