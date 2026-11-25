@@ -6,7 +6,7 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { check, norm, canSpend, costOf, normQuestion, cosine, packFor, answer } from '../src/answer.js';
+import { check, norm, canSpend, costOf, normQuestion, cosine, packFor, answer, outOfMoney, callModel } from '../src/answer.js';
 import worker from '../src/index.js';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..', '..', '..');
@@ -100,10 +100,41 @@ test('prose carries no quotation marks; background carries no texts', async () =
   assert.ok(problems.some((p) => /background/.test(p)));
 });
 
+test("Jesus's words are from a book where he speaks; supporting quotes are never our research", async () => {
+  let { problems } = await check({ ...good(), jesus_words: [{ ref: 'Romans 3:23' }] }, passages, lookup);
+  assert.ok(problems.some((p) => /where Jesus speaks/.test(p)));
+  ({ problems } = await check({ ...good(), jesus_words: [{ ref: '1 John 4:8' }] }, passages, lookup));
+  assert.ok(problems.some((p) => /where Jesus speaks/.test(p)));
+  const { answer: a, warnings } = await check({ ...good(), supporting: [{ passage: 3, quote: 'Our own notes say something' }] }, passages, lookup);
+  assert.deepEqual(a.supporting, []);
+  assert.ok(warnings.some((w) => /our research/.test(w)));
+});
+
+test('the lens section: tagged, unquoted, verses pasted', async () => {
+  const thin = { ...good(), answerable: false, against: { note: '' } };
+  const lens = { text: 'Jesus ranked the Law by its weightier matters [L15], so a tithe is kept without neglecting mercy [L1].', verses: [{ ref: 'Matthew 23:23' }, { ref: 'Nowhere 9:9' }] };
+  let { answer: a, problems, warnings } = await check({ ...thin, lens }, passages, lookup);
+  assert.deepEqual(problems, []);
+  assert.equal(a.lens.verses.length, 1);
+  assert.match(a.lens.verses[0].text, /tithe of mint/);
+  assert.ok(warnings.some((w) => /Nowhere/.test(w)));
+  ({ problems } = await check({ ...thin, lens: { text: 'He said "pay tithes" [L15].' } }, passages, lookup));
+  assert.ok(problems.some((p) => /quotation marks in the lens/.test(p)));
+  ({ problems } = await check({ ...thin, lens: { text: 'Matthew 23:23 settles it [L15].' } }, passages, lookup));
+  assert.ok(problems.some((p) => /verse number in the lens/.test(p)));
+  ({ problems } = await check({ ...thin, lens: { text: 'Mercy outranks ritual.' } }, passages, lookup));
+  assert.ok(problems.some((p) => /names no lens point/.test(p)));
+  ({ problems } = await check({ ...thin, lens: { text: 'Mercy outranks ritual [L99].' } }, passages, lookup));
+  assert.ok(problems.some((p) => /L99/.test(p)));
+  ({ answer: a, problems } = await check({ ...good(), lens: { text: '  ' } }, passages, lookup));
+  assert.deepEqual(problems, []);
+  assert.equal(a.lens, undefined);
+});
+
 test('citations, length and first person', async () => {
   let { problems, warnings } = await check({ ...good(), library_view: 'See [9].' }, passages, lookup);
   assert.ok(problems.some((p) => /\[9\]/.test(p)));
-  ({ problems } = await check({ ...good(), library_view: 'word '.repeat(300) }, passages, lookup));
+  ({ problems } = await check({ ...good(), library_view: 'word '.repeat(400) }, passages, lookup));
   assert.ok(problems.some((p) => /too long/.test(p)));
   ({ problems, warnings } = await check({ ...good(), short_answer: 'I think not.' }, passages, lookup));
   assert.deepEqual(problems, []);
@@ -124,10 +155,34 @@ function spendDb(today, month) {
 test('the budget: a day share of the month, and the month itself', async () => {
   const env = { ANSWER_MONTHLY_USD: '10' };
   assert.equal(await canSpend(spendDb(null, 0), env), true);
-  assert.equal(await canSpend(spendDb(0.25, 3), env), true);          // 0.25 + 0.05 <= 0.333
+  assert.equal(await canSpend(spendDb(0.2, 3), env), true);           // 0.2 + 0.12 <= 0.333
   assert.equal(await canSpend(spendDb(0.3, 3), env), false);          // today's share is spent
   assert.equal(await canSpend(spendDb(0, 9.97), env), false);         // the month is spent
-  assert.equal(Math.round(costOf({ input_tokens: 10000, output_tokens: 1000 }) * 1000) / 1000, 0.03);
+  assert.equal(Math.round(costOf({ input_tokens: 10000, output_tokens: 1000 }, 'claude-sonnet-5-5') * 1000) / 1000, 0.03);
+  assert.equal(Math.round(costOf({ input_tokens: 10000, output_tokens: 1000 }) * 1000) / 1000, 0.06);   // Opus, the default
+});
+
+test("the second key is used only when the first account can't pay", async () => {
+  assert.equal(outOfMoney(400, { error: { type: 'invalid_request_error', message: 'Your credit balance is too low to access the Anthropic API.' } }), true);
+  assert.equal(outOfMoney(400, { error: { message: 'You have reached your specified workspace API usage limits.' } }), true);
+  assert.equal(outOfMoney(429, { error: { type: 'rate_limit_error', details: { error_code: 'enforced_spend_limit_reached' } } }), true);
+  assert.equal(outOfMoney(429, { error: { type: 'rate_limit_error', message: 'Rate limited' } }), false);
+  assert.equal(outOfMoney(529, { error: { type: 'overloaded_error' } }), false);
+
+  const ok = { content: [{ type: 'tool_use', input: { answerable: true } }], usage: { input_tokens: 1000, output_tokens: 100 } };
+  const reply = (status, body) => ({ ok: status === 200, status, text: async () => JSON.stringify(body), json: async () => body });
+  const used = [];
+  const broke = { error: { message: 'Your credit balance is too low to access the Anthropic API.' } };
+  let fetcher = async (url, init) => { used.push(init.headers['x-api-key']); return init.headers['x-api-key'] === 'matt' ? reply(400, broke) : reply(200, ok); };
+  const res = await callModel({ ANTHROPIC_API_KEY: 'matt', ANTHROPIC_API_KEY_2: 'rex' }, 'q', [], fetcher);
+  assert.deepEqual(used, ['matt', 'rex']);
+  assert.deepEqual(res.raw, { answerable: true });
+
+  used.length = 0;
+  fetcher = async (url, init) => { used.push(init.headers['x-api-key']); return reply(529, { error: { type: 'overloaded_error', message: 'Overloaded' } }); };
+  await assert.rejects(callModel({ ANTHROPIC_API_KEY: 'matt', ANTHROPIC_API_KEY_2: 'rex' }, 'q', [], fetcher), /529/);
+  assert.deepEqual(used, ['matt']);                                  // busy is not broke: Rex's key untouched
+  await assert.rejects(callModel({ ANTHROPIC_API_KEY: 'matt' }, 'q', [], async () => reply(400, broke)), /out of credit/);
 });
 
 test('the bank: question normalising and closeness', () => {

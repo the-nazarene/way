@@ -600,6 +600,26 @@
     return bq;
   }
 
+  // The tinted section: the question thought through the library's lens.
+  // Each [L#] tag shows the lens point it applies when hovered or tapped.
+  function lensBlock(lens, label) {
+    var d = el('div', 'ans-lens');
+    d.appendChild(el('p', 'ans-label', label || 'The library’s method applied, not a settled position.'));
+    var p = el('p', 'ans-prose');
+    String(lens.text || '').split(/(\[L\d+\])/).forEach(function (part) {
+      var m = /^\[(L\d+)\]$/.exec(part);
+      var point = m && lens.points && lens.points[m[1]];
+      if (!point) { if (!m) p.appendChild(document.createTextNode(part)); return; }
+      var t = el('abbr', 'ans-lens-tag', m[1]);
+      t.title = point;
+      t.tabIndex = 0;
+      p.appendChild(t);
+    });
+    d.appendChild(p);
+    (lens.verses || []).forEach(function (w) { d.appendChild(quoted(w)); });
+    return d;
+  }
+
   function renderAnswer(box, q, res) {
     box.innerHTML = '';
     var a = res.answer;
@@ -627,6 +647,7 @@
         bg.appendChild(el('p', 'ans-prose', a.background));
         box.appendChild(bg);
       }
+      if (a.lens) box.appendChild(lensBlock(a.lens, res.lensLabel));
       var ask = el('a', 'ans-ask', 'Ask for a card on this →');
       ask.href = 'https://github.com/the-nazarene/way/issues/new?title=' + encodeURIComponent('Card request: ' + q);
       box.appendChild(external(ask));
@@ -645,6 +666,7 @@
         box.appendChild(labelled('The other side:', a.against.note, ps));
       }
       if (a.not_settled) box.appendChild(labelled('Not settled:', a.not_settled, ps));
+      if (a.lens) box.appendChild(lensBlock(a.lens, res.lensLabel));
     }
     if (res.talks && res.talks.length) {
       var tp = el('p', 'ans-talks');

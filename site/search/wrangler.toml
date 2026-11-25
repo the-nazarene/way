@@ -33,9 +33,11 @@ namespace_id = "1002"
 simple = { limit = 5, period = 60 }
 
 # Written answers (/answer). Secrets, set with `wrangler secret put`:
-#   ANTHROPIC_API_KEY  the key from The Way's Anthropic workspace (its own spend limit)
+#   ANTHROPIC_API_KEY    Matt's key, from The Way's Anthropic workspace (its own spend limit)
+#   ANTHROPIC_API_KEY_2  Rex's key, the same way; used only once Matt's account can't pay
 #   ASK_TOKEN          the hidden link's token; without it /answer doesn't exist
 [vars]
-ANSWER_MONTHLY_USD = "10"
+# Across both keys: about $50 of Matt's credit, then about $50 of Rex's.
+ANSWER_MONTHLY_USD = "100"
 # "1" = written answers for everyone; "0" = only with ASK_TOKEN (the hidden link).
 ANSWERS_PUBLIC = "1"
