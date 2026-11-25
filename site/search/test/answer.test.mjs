@@ -6,7 +6,7 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { check, norm, canSpend, costOf, normQuestion, cosine, packFor, answer } from '../src/answer.js';
+import { check, norm, canSpend, costOf, normQuestion, cosine, packFor, answer, outOfMoney, callModel } from '../src/answer.js';
 import worker from '../src/index.js';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..', '..', '..');
@@ -134,7 +134,7 @@ test('the lens section: tagged, unquoted, verses pasted', async () => {
 test('citations, length and first person', async () => {
   let { problems, warnings } = await check({ ...good(), library_view: 'See [9].' }, passages, lookup);
   assert.ok(problems.some((p) => /\[9\]/.test(p)));
-  ({ problems } = await check({ ...good(), library_view: 'word '.repeat(300) }, passages, lookup));
+  ({ problems } = await check({ ...good(), library_view: 'word '.repeat(400) }, passages, lookup));
   assert.ok(problems.some((p) => /too long/.test(p)));
   ({ problems, warnings } = await check({ ...good(), short_answer: 'I think not.' }, passages, lookup));
   assert.deepEqual(problems, []);
@@ -155,10 +155,34 @@ function spendDb(today, month) {
 test('the budget: a day share of the month, and the month itself', async () => {
   const env = { ANSWER_MONTHLY_USD: '10' };
   assert.equal(await canSpend(spendDb(null, 0), env), true);
-  assert.equal(await canSpend(spendDb(0.25, 3), env), true);          // 0.25 + 0.05 <= 0.333
+  assert.equal(await canSpend(spendDb(0.2, 3), env), true);           // 0.2 + 0.12 <= 0.333
   assert.equal(await canSpend(spendDb(0.3, 3), env), false);          // today's share is spent
   assert.equal(await canSpend(spendDb(0, 9.97), env), false);         // the month is spent
-  assert.equal(Math.round(costOf({ input_tokens: 10000, output_tokens: 1000 }) * 1000) / 1000, 0.03);
+  assert.equal(Math.round(costOf({ input_tokens: 10000, output_tokens: 1000 }, 'claude-sonnet-5-5') * 1000) / 1000, 0.03);
+  assert.equal(Math.round(costOf({ input_tokens: 10000, output_tokens: 1000 }) * 1000) / 1000, 0.06);   // Opus, the default
+});
+
+test("the second key is used only when the first account can't pay", async () => {
+  assert.equal(outOfMoney(400, { error: { type: 'invalid_request_error', message: 'Your credit balance is too low to access the Anthropic API.' } }), true);
+  assert.equal(outOfMoney(400, { error: { message: 'You have reached your specified workspace API usage limits.' } }), true);
+  assert.equal(outOfMoney(429, { error: { type: 'rate_limit_error', details: { error_code: 'enforced_spend_limit_reached' } } }), true);
+  assert.equal(outOfMoney(429, { error: { type: 'rate_limit_error', message: 'Rate limited' } }), false);
+  assert.equal(outOfMoney(529, { error: { type: 'overloaded_error' } }), false);
+
+  const ok = { content: [{ type: 'tool_use', input: { answerable: true } }], usage: { input_tokens: 1000, output_tokens: 100 } };
+  const reply = (status, body) => ({ ok: status === 200, status, text: async () => JSON.stringify(body), json: async () => body });
+  const used = [];
+  const broke = { error: { message: 'Your credit balance is too low to access the Anthropic API.' } };
+  let fetcher = async (url, init) => { used.push(init.headers['x-api-key']); return init.headers['x-api-key'] === 'matt' ? reply(400, broke) : reply(200, ok); };
+  const res = await callModel({ ANTHROPIC_API_KEY: 'matt', ANTHROPIC_API_KEY_2: 'rex' }, 'q', [], fetcher);
+  assert.deepEqual(used, ['matt', 'rex']);
+  assert.deepEqual(res.raw, { answerable: true });
+
+  used.length = 0;
+  fetcher = async (url, init) => { used.push(init.headers['x-api-key']); return reply(529, { error: { type: 'overloaded_error', message: 'Overloaded' } }); };
+  await assert.rejects(callModel({ ANTHROPIC_API_KEY: 'matt', ANTHROPIC_API_KEY_2: 'rex' }, 'q', [], fetcher), /529/);
+  assert.deepEqual(used, ['matt']);                                  // busy is not broke: Rex's key untouched
+  await assert.rejects(callModel({ ANTHROPIC_API_KEY: 'matt' }, 'q', [], async () => reply(400, broke)), /out of credit/);
 });
 
 test('the bank: question normalising and closeness', () => {

@@ -24,7 +24,7 @@
 import { findReferences, lookupVerses } from './kjv.js';
 import { LENS, LENS_IDS, LENS_POINTS } from './lens.js';
 
-const MODEL = 'claude-sonnet-5-5';  // overridden by env.ANSWER_MODEL
+const MODEL = 'claude-opus-5-5';    // overridden by env.ANSWER_MODEL (Opus won the Nov 25 trial: 2 failed checks in 25, Sonnet 8)
 const EMBED = '@cf/baai/bge-m3';
 const API = 'https://api.anthropic.com/v1/messages';
 // USD per token, [input, output], list prices.
@@ -32,14 +32,14 @@ const PRICES = {
   'claude-sonnet-5-5': [2 / 1e6, 10 / 1e6],
   'claude-opus-5-5': [4 / 1e6, 20 / 1e6],
 };
-const RESERVE = 0.05;               // the most one answer is expected to cost; kept free before calling
+const RESERVE = 0.12;               // the most one answer is expected to cost (Opus, measured 6-10 cents); kept free before calling
 const LENS_WORDS = 150;             // the lens section's length past which the answer is not shown
 const MONTHLY_USD = 10;             // overridden by env.ANSWER_MONTHLY_USD
 const CARD_SCORE = 0.55;            // closest card shown first in a fallback at or above this (golden set)
 const BANK_MATCH = 0.9;             // cosine to an approved question; paraphrases score 0.88-0.96, near misses up to 0.86
 const MAX_VERSES = 6;               // one reference pastes at most this many verses
 const SOFT_WORDS = 160;             // prose length asked for
-const HARD_WORDS = 260;             // prose length past which the answer is not shown
+const HARD_WORDS = 340;             // prose length past which the answer is not shown
 const MAX_QUESTION = 300;
 
 export const LABEL_DRAFT = 'Drafted from our sources by AI, not yet checked by a person.';
@@ -353,16 +353,42 @@ function prompt(q, passages) {
   return `Passages:\n\n${body}\n\nQuestion: ${q}\n\nReply only by calling the answer tool.`;
 }
 
-async function callModel(env, q, passages) {
+// Whether an error means this key's account can't pay: its credit is used up
+// or its spend limit is reached. Only then is the next key tried; a busy or
+// overloaded API is not a reason to spend someone else's credit.
+export function outOfMoney(status, body) {
+  const err = (body && body.error) || {};
+  const msg = String(err.message || '');
+  if (/credit balance is too low/i.test(msg)) return true;
+  if (status === 400 && /reached your [a-z ]{0,30}API usage limits/i.test(msg)) return true;
+  if (status === 429 && err.details && err.details.error_code === 'enforced_spend_limit_reached') return true;
+  return false;
+}
+
+// The keys in the order they're spent: Matt's (ANTHROPIC_API_KEY), then Rex's
+// (ANTHROPIC_API_KEY_2) once Matt's account can't pay.
+const keysOf = (env) => [env.ANTHROPIC_API_KEY, env.ANTHROPIC_API_KEY_2].filter(Boolean);
+
+export async function callModel(env, q, passages, fetcher = fetch) {
   const model = modelOf(env);
-  const r = await fetch(API, {
-    method: 'POST',
-    headers: { 'x-api-key': env.ANTHROPIC_API_KEY, 'anthropic-version': '2023-06-01', 'content-type': 'application/json' },
-    // This model refuses a forced tool_choice, so the tool is offered and asked for.
-    body: JSON.stringify({ model, max_tokens: 2000, system: SYSTEM, tools: [TOOL], messages: [{ role: 'user', content: prompt(q, passages) }] }),
-    signal: AbortSignal.timeout(60000),
-  });
-  if (!r.ok) throw new Error(`Anthropic ${r.status}: ${(await r.text()).slice(0, 200)}`);
+  // This model refuses a forced tool_choice, so the tool is offered and asked for.
+  const body = JSON.stringify({ model, max_tokens: 2000, system: SYSTEM, tools: [TOOL], messages: [{ role: 'user', content: prompt(q, passages) }] });
+  let r;
+  for (const key of keysOf(env)) {
+    r = await fetcher(API, {
+      method: 'POST',
+      headers: { 'x-api-key': key, 'anthropic-version': '2023-06-01', 'content-type': 'application/json' },
+      body,
+      signal: AbortSignal.timeout(60000),
+    });
+    if (r.ok) break;
+    const text = await r.text();
+    let parsed = null;
+    try { parsed = JSON.parse(text); } catch (e) {}
+    if (!outOfMoney(r.status, parsed)) throw new Error(`Anthropic ${r.status}: ${text.slice(0, 200)}`);
+    console.log(JSON.stringify({ answer_key_out_of_money: keysOf(env).indexOf(key) + 1 }));
+  }
+  if (!r.ok) throw new Error('Anthropic: every key is out of credit');
   const msg = await r.json();
   const use = (msg.content || []).find((b) => b.type === 'tool_use');
   return { raw: use ? use.input : null, cost: costOf(msg.usage || {}, model), model };
