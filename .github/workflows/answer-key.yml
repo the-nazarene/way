@@ -1,0 +1,33 @@
+# Hands Rex's Anthropic key to the search Worker without anyone seeing it.
+# Rex saves his key as the repository secret ANTHROPIC_API_KEY_2 (Settings →
+# Secrets and variables → Actions), then runs this once (Actions → answer key
+# → Run workflow). The Worker spends it only when Matt's key reports that its
+# credit or spend limit is used up. Neither GitHub nor Cloudflare shows a saved
+# secret again. Run it again after Rex replaces his key.
+name: answer key
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  set:
+    runs-on: ubuntu-latest
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_SEARCH_TOKEN }}
+      KEY: ${{ secrets.ANTHROPIC_API_KEY_2 }}
+    defaults:
+      run:
+        working-directory: site/search
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check the key is saved
+        run: |
+          if [ -z "$KEY" ]; then echo "::error::Save the key as the repository secret ANTHROPIC_API_KEY_2 first."; exit 1; fi
+      - name: Give it to the Worker
+        run: printf '%s' "$KEY" | npx --yes wrangler@4 secret put ANTHROPIC_API_KEY_2
