@@ -456,27 +456,7 @@
     return DATA.cards.slice(0, 4).map(function (c) { return { card: c, score: 1 }; });
   }
 
-  function showSuggest(q) {
-    var ul = $('suggest');
-    var input = $('q');
-    var res = search(q);
-    ul.innerHTML = '';
-    if (!res.length) { ul.hidden = true; input.setAttribute('aria-expanded', 'false'); return; }
-    res.forEach(function (r, i) {
-      var li = el('li');
-      li.setAttribute('role', 'option');
-      li.setAttribute('aria-selected', i === 0 ? 'true' : 'false');
-      li.appendChild(document.createTextNode(r.card.question));
-      li.appendChild(el('small', null, r.card.call + ' · ' + r.card.drawer));
-      li.addEventListener('mousedown', function (e) { e.preventDefault(); go(r.card); });
-      ul.appendChild(li);
-    });
-    ul.hidden = false;
-    input.setAttribute('aria-expanded', 'true');
-  }
-
   function go(card) {
-    $('suggest').hidden = true;
     $('q').value = card.question;
     /* When the library panel is open the results are the point of the search;
        scrolling to the card would throw the reader straight past them. The
@@ -719,8 +699,6 @@
   function submit(e) {
     e.preventDefault();
     var q = $('q').value;
-    $('suggest').hidden = true;  // PULL or Enter closes the suggestions
-    $('q').setAttribute('aria-expanded', 'false');
     if (!q.trim()) { $('libsearch').hidden = true; location.hash = '#/'; return; }
     librarySearch(q);
     var res = search(q);
@@ -941,10 +919,6 @@
       threshold: 0.85, ignoreLocation: true, includeScore: true, minMatchCharLength: 3
     });
     $('drawerLabel').textContent = 'THE HARD QUESTIONS · ' + d.cards.length + ' CARDS';
-    var input = $('q');
-    input.addEventListener('input', function () { showSuggest(input.value); });
-    input.addEventListener('blur', function () { setTimeout(function () { $('suggest').hidden = true; }, 150); });
-    input.addEventListener('keydown', function (e) { if (e.key === 'Escape') $('suggest').hidden = true; });
     $('search').addEventListener('submit', submit);
     $('readerClose').addEventListener('click', closeReader);
     $('readerBackdrop').addEventListener('click', closeReader);
