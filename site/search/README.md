@@ -53,6 +53,10 @@ How an answer is made, and why it can't misquote:
 
 **Trying it locally:** put `ANTHROPIC_API_KEY=…` and `ASK_TOKEN=…` in `site/search/.dev.vars` (git-ignored), run `wrangler dev --remote`, then `ASK_TOKEN=… node site/search/golden/answers.mjs http://localhost:8787` runs twenty questions and prints them as a reader sees them (`golden/ANSWERS.md` holds the last run). Answers made this way are real calls and land in the bank as drafts.
 
+**The lens** (`src/lens.js`): the library's method and conclusions as numbered points (L1 to L22), read by the model before every answer. When the passages don't fully answer a question, the answer adds a tinted section, *The library's method applied, not a settled position*, reasoned from the model's own knowledge through the lens. Every sentence there names its lens point, it carries no quotation marks or verse numbers, and its verses are named by reference and pasted from the KJV, so the checks that hold everywhere else hold there too. Matt and Rex sign off on every change to the lens.
+
+**Comparing models:** `ANSWER_MODEL` picks the model (`claude-sonnet-5-5` by default, or `claude-opus-5-5`). Run one `wrangler dev --remote --var ANSWER_TRIAL:1 --var ANSWER_MODEL:…` per model on its own port; trial mode skips the bank, the log and the daily share, so nothing is kept. Then `node site/search/golden/trial.mjs out.json sonnet=http://localhost:8789 opus=http://localhost:8788` runs the 25 questions in `golden/trial.mjs` through each one (about $3 for both).
+
 ## The answers dashboard (Matt and Rex)
 
 `https://search.nazareneway.com/dashboard?key=<DASH_TOKEN>` (`src/dashboard.js`). The key is swapped for a cookie scoped to `/dashboard` (a year, HttpOnly, SameSite=Strict) and taken out of the address bar, so bookmark the page after opening the link once; each phone or browser opens the link once. With no `DASH_TOKEN` set, or the wrong key, the page is a 404. To cut everyone off, set a new `DASH_TOKEN` and share the new link.

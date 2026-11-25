@@ -14,15 +14,26 @@
 // counted per day in `answer_spend` against a monthly budget spread by day.
 // Every question asked is also logged in `answer_log` (the question, when, and
 // what the reader got; no address or browser), which the dashboard reads.
+//
+// The model also reads the library's lens (lens.js): its method and its
+// conclusions. Where the passages don't fully answer, it may think the question
+// through that lens from its own knowledge, in a separate `lens` section that
+// names the lens point behind every claim and is labelled as not a settled
+// position. Quotes and verses stay under the same checks as everywhere else.
 
 import { findReferences, lookupVerses } from './kjv.js';
+import { LENS, LENS_IDS, LENS_POINTS } from './lens.js';
 
-const MODEL = 'claude-sonnet-5-5';
+const MODEL = 'claude-sonnet-5-5';  // overridden by env.ANSWER_MODEL
 const EMBED = '@cf/baai/bge-m3';
 const API = 'https://api.anthropic.com/v1/messages';
-const PRICE_IN = 2 / 1e6;           // USD per input token (Sonnet 5.5 list price)
-const PRICE_OUT = 10 / 1e6;         // USD per output token
+// USD per token, [input, output], list prices.
+const PRICES = {
+  'claude-sonnet-5-5': [2 / 1e6, 10 / 1e6],
+  'claude-opus-5-5': [4 / 1e6, 20 / 1e6],
+};
 const RESERVE = 0.05;               // the most one answer is expected to cost; kept free before calling
+const LENS_WORDS = 150;             // the lens section's length past which the answer is not shown
 const MONTHLY_USD = 10;             // overridden by env.ANSWER_MONTHLY_USD
 const CARD_SCORE = 0.55;            // closest card shown first in a fallback at or above this (golden set)
 const BANK_MATCH = 0.9;             // cosine to an approved question; paraphrases score 0.88-0.96, near misses up to 0.86
@@ -34,8 +45,9 @@ const MAX_QUESTION = 300;
 export const LABEL_DRAFT = 'Drafted from our sources by AI, not yet checked by a person.';
 export const LABEL_CHECKED = 'Drafted from our sources by AI and checked by a person.';
 export const LABEL_BACKGROUND = 'General background, not from our library.';
+export const LABEL_LENS = "The library's method applied, not a settled position.";
 
-const SYSTEM = `You write short answers for nazareneway.com, a library on what Jesus actually taught, read mostly by Christians who know their Bibles. You answer ONLY from the numbered passages given. You never use outside knowledge for any claim about what a text says, what Jesus said, or what happened. Tone: warm, direct, respectful; recovering, not debunking; never preachy or sarcastic. Never write in the first person (no I, me, my, we, our); say the library.
+const SYSTEM = `You write short answers for nazareneway.com, a library on what Jesus actually taught, read mostly by Christians who know their Bibles. The main answer comes ONLY from the numbered passages given: no outside knowledge there for any claim about what a text says, what Jesus said, or what happened. Your own knowledge is welcome in one place, the lens section (below). Tone: warm, direct, respectful; recovering, not debunking; never preachy or sarcastic. Never write in the first person (no I, me, my, we, our); say the library.
 
 Rules:
 - Scripture is never typed by you. For any Bible verse give only its reference in a ref field (e.g. Mark 2:5 or John 14:28-29, at most ${MAX_VERSES} verses); the site pastes the King James text itself. Cards often paraphrase verses in modern English: use the reference, not their wording.
@@ -46,8 +58,12 @@ Rules:
 - Always give the strongest passage on the other side: a Bible verse by reference, or an exact quote from a held source passage. Never a line from a card or from our research.
 - Cite passages in prose as [n].
 - Cards are the library's checked positions; prefer them. Set card_match true only if the closest card [1] directly answers this question. Our-research passages are the team's notes, not sources: never quote them as evidence of what Jesus said.
-- If the passages don't actually answer the question, set answerable=false and say in one or two sentences what the library does and doesn't hold. You may then add a short background field (two or three sentences) from general knowledge, so the reader isn't left with nothing: no quotations, no verse references, no claims about what any text says, only widely agreed context.
-- Keep it short: under ${SOFT_WORDS} words of prose in total, not counting background.`;
+- If the passages don't actually answer the question, set answerable=false and say in one or two sentences what the library does and doesn't hold.
+- The lens section: when the passages don't fully answer the question (always when answerable=false, and when they cover only part of it), think the question through the library's lens, given after these rules, using your own knowledge of scripture, history and scholarship. Write it in lens.text, two to five sentences, as the library would reason, and tag every sentence with the lens point it applies, like [L3] or [L11]. Name the verses it leans on in lens.verses by reference only (the site pastes the KJV). In lens.text: no quotation marks, no verse numbers (put verses in lens.verses), no invented specifics (no dates, figures, names of scholars or claims of consensus you are not sure of), and no claim that the library has settled it. Be fair to the mainstream reading. Leave lens empty when the passages answer the question fully.
+- Keep it short: under ${SOFT_WORDS} words of prose in total, not counting the lens section.
+
+The library's lens:
+${LENS}`;
 
 const ITEM = {
   type: 'object',
@@ -73,7 +89,15 @@ const TOOL = {
       supporting: { type: 'array', items: ITEM },
       against: { type: 'object', properties: { ...ITEM.properties, note: { type: 'string' } }, required: ['note'] },
       not_settled: { type: 'string', description: 'Where the library does not settle it, or empty. No quotation marks.' },
-      background: { type: 'string', description: 'Only when answerable is false: short general context. No quotations, no verse references.' },
+      lens: {
+        type: 'object',
+        description: "Only when the passages don't fully answer: the question thought through the library's lens. Omit otherwise.",
+        properties: {
+          text: { type: 'string', description: 'Two to five sentences, each tagged with its lens point like [L11]. No quotation marks, no verse numbers.' },
+          verses: { type: 'array', items: { type: 'object', properties: { ref: { type: 'string' } }, required: ['ref'] }, description: 'Verses the reasoning leans on, by reference only.' },
+        },
+        required: ['text'],
+      },
     },
     required: ['answerable', 'card_match', 'short_answer', 'jesus_words', 'mainstream', 'library_view', 'supporting', 'against', 'not_settled'],
   },
@@ -95,6 +119,9 @@ const QUOTE_MARKS = /["“”]/;
 const VERSE_NUMBER = /\b\d{1,3}\s*:\s*\d{1,3}\b/;
 const FIRST_PERSON = /\b(I|I'm|I've|I'd|me|myself)\b/;
 const PROSE = ['short_answer', 'mainstream', 'library_view', 'not_settled'];
+// The books in which Jesus speaks: Jesus's words must be a verse from one.
+const JESUS_BOOKS = /^(Matthew|Mark|Luke|John|Acts|Revelation) /;
+const LENS_TAG = /\[(L\d+)\]/g;
 
 const words = (s) => (String(s || '').match(/\S+/g) || []).length;
 
@@ -133,12 +160,14 @@ export async function check(raw, passages, lookup = lookupVerses) {
     if (item.ref) {
       const v = await pasteVerses(item.ref, lookup);
       if (!v) return fail(`verse reference not found in the held KJV: ${item.ref}`);
+      if (role === "Jesus's words" && !JESUS_BOOKS.test(v.ref)) return fail(`not from a book where Jesus speaks: ${v.ref}`);
       return { ...v, ...(item.note !== undefined ? { note: item.note } : {}) };
     }
     const p = byId.get(Number(item.passage));
     if (!p || !item.quote) return fail('a quotation without its passage');
     if (!norm(p.text).includes(norm(item.quote))) return fail(`not word for word from [${p.n}]: ${String(item.quote).slice(0, 80)}`);
     if (role !== 'supporting' && p.kind !== 'source') return fail(`quoted from a ${p.kind} passage [${p.n}], not a held source`);
+    if (p.kind === 'research') return fail(`quoted from our research [${p.n}], which is not a source`);
     return { quote: item.quote, passage: p.n, title: p.title, header: p.header, url: p.url, ...(item.note !== undefined ? { note: item.note } : {}) };
   }
 
@@ -168,6 +197,25 @@ export async function check(raw, passages, lookup = lookupVerses) {
     else if (QUOTE_MARKS.test(ans.background) || VERSE_NUMBER.test(ans.background) || findReferences(ans.background).length) {
       problems.push('background quotes or cites a text');
     }
+  }
+  if (ans.lens && typeof ans.lens === 'string') ans.lens = { text: ans.lens };
+  if (ans.lens && !String(ans.lens.text || '').trim()) delete ans.lens;
+  if (ans.lens) {
+    const t = String(ans.lens.text);
+    if (QUOTE_MARKS.test(t)) problems.push('quotation marks in the lens section');
+    if (VERSE_NUMBER.test(t.replace(LENS_TAG, ''))) problems.push('a verse number in the lens section');
+    const tags = [...t.matchAll(LENS_TAG)].map((m) => m[1]);
+    if (!tags.length) problems.push('the lens section names no lens point');
+    for (const id of tags) if (!LENS_IDS.includes(id)) problems.push(`the lens section names ${id}, which does not exist`);
+    if (/\[\d+\]/.test(t)) warnings.push('a passage number in the lens section');
+    if (words(t) > LENS_WORDS) problems.push(`lens section too long (${words(t)} words)`);
+    const verses = [];
+    for (const v of Array.isArray(ans.lens.verses) ? ans.lens.verses : []) {
+      const pasted = await pasteVerses(typeof v === 'string' ? v : v && v.ref, lookup);
+      if (pasted) verses.push(pasted);
+      else warnings.push(`lens verse not found in the held KJV: ${typeof v === 'string' ? v : v && v.ref}`);
+    }
+    ans.lens = { text: t, verses, points: Object.fromEntries(tags.filter((id) => LENS_POINTS[id]).map((id) => [id, LENS_POINTS[id]])) };
   }
   const n = PROSE.reduce((t, f) => t + words(ans[f]), 0) + words(ans.against && ans.against.note);
   if (n > HARD_WORDS) problems.push(`too long (${n} words)`);
@@ -235,7 +283,11 @@ async function spend(db, usd, now = new Date()) {
     ON CONFLICT(day) DO UPDATE SET usd = usd + excluded.usd, calls = calls + 1`).bind(day, usd).run();
 }
 
-export const costOf = (usage) => (usage.input_tokens || 0) * PRICE_IN + (usage.output_tokens || 0) * PRICE_OUT;
+export const modelOf = (env) => (env && PRICES[env.ANSWER_MODEL] ? env.ANSWER_MODEL : MODEL);
+export function costOf(usage, model = MODEL) {
+  const [i, o] = PRICES[model] || PRICES[MODEL];
+  return (usage.input_tokens || 0) * i + (usage.output_tokens || 0) * o;
+}
 
 // ── The answer bank ─────────────────────────────────────────────────────────
 
@@ -302,17 +354,18 @@ function prompt(q, passages) {
 }
 
 async function callModel(env, q, passages) {
+  const model = modelOf(env);
   const r = await fetch(API, {
     method: 'POST',
     headers: { 'x-api-key': env.ANTHROPIC_API_KEY, 'anthropic-version': '2023-06-01', 'content-type': 'application/json' },
     // This model refuses a forced tool_choice, so the tool is offered and asked for.
-    body: JSON.stringify({ model: MODEL, max_tokens: 1500, system: SYSTEM, tools: [TOOL], messages: [{ role: 'user', content: prompt(q, passages) }] }),
+    body: JSON.stringify({ model, max_tokens: 2000, system: SYSTEM, tools: [TOOL], messages: [{ role: 'user', content: prompt(q, passages) }] }),
     signal: AbortSignal.timeout(60000),
   });
   if (!r.ok) throw new Error(`Anthropic ${r.status}: ${(await r.text()).slice(0, 200)}`);
   const msg = await r.json();
   const use = (msg.content || []).find((b) => b.type === 'tool_use');
-  return { raw: use ? use.input : null, cost: costOf(msg.usage || {}) };
+  return { raw: use ? use.input : null, cost: costOf(msg.usage || {}, model), model };
 }
 
 const cardOf = (c) => (c ? { title: c.title, url: c.url, file: c.file } : null);
@@ -335,7 +388,7 @@ function fallback(reason, pack) {
 export async function answer(env, question, opts = {}) {
   const res = await compose(env, question, opts);
   const q = String(question || '').trim().slice(0, MAX_QUESTION);
-  if (q && env.TEXT) {
+  if (q && env.TEXT && env.ANSWER_TRIAL !== '1') {
     const settled = !(res.answer && res.answer.answerable === false);
     try {
       await env.TEXT.prepare(
@@ -359,7 +412,10 @@ async function compose(env, question, { search, lookup = lookupVerses, now = new
   const normed = normQuestion(q);
   const emb = await env.AI.run(EMBED, { text: [q] });
   const vector = (emb.data || emb.response)[0];
-  const banked = await fromBank(db, normed, vector);
+  // A trial (wrangler dev --var ANSWER_TRIAL:1) skips the bank and the daily
+  // share, and keeps nothing, so two models can be run on the same questions.
+  const trial = env.ANSWER_TRIAL === '1';
+  const banked = trial ? null : await fromBank(db, normed, vector);
   if (banked) {
     await db.prepare('UPDATE answers SET asked = asked + 1 WHERE id = ?').bind(banked.id).run();
     const kept = JSON.parse(banked.answer);
@@ -373,11 +429,11 @@ async function compose(env, question, { search, lookup = lookupVerses, now = new
   const pack = packFor(r1, r2);
   if (!pack.passages.length) return fallback('nothing in the library is close enough', pack);
   if (!env.ANTHROPIC_API_KEY) return fallback('written answers are switched off', pack);
-  if (!(await canSpend(db, env, now))) return fallback("today's share of the answer budget is spent", pack);
+  if (!trial && !(await canSpend(db, env, now))) return fallback("today's share of the answer budget is spent", pack);
 
-  let raw, cost;
+  let raw, cost, model;
   try {
-    ({ raw, cost } = await callModel(env, q, pack.passages));
+    ({ raw, cost, model } = await callModel(env, q, pack.passages));
   } catch (err) {
     console.error(err);
     return fallback('the answer service is unavailable', pack);
@@ -395,12 +451,14 @@ async function compose(env, question, { search, lookup = lookupVerses, now = new
     checked: false,
     label: LABEL_DRAFT,
     backgroundLabel: LABEL_BACKGROUND,
+    lensLabel: LABEL_LENS,
     card: ans.card_match && pack.topCard ? cardOf(pack.topCard) : null,
     answer: ans,
     passages: publicPassages(pack.passages),
     talks: pack.talks,
     warnings,
   };
+  if (trial) return { ...out, model, cost };
   const { meta } = await db.prepare(
     'INSERT INTO answers (created, question, norm, answer, passages, cost, embedding) VALUES (?, ?, ?, ?, ?, ?, ?)',
   ).bind(now.toISOString(), q, normed, JSON.stringify(out), JSON.stringify(pack.passages.map(({ text, ...p }) => p)), cost, JSON.stringify(vector)).run();

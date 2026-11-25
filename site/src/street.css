@@ -248,6 +248,9 @@ html[data-skin="street"] .ans-quote:where(:not([data-surface="room"] .surface-wr
 html[data-skin="street"] .ans-quote p:where(:not([data-surface="room"] .surface-wrap *)) { font-family: var(--mono); font-weight: 500; }
 html[data-skin="street"] .ans-background:where(:not([data-surface="room"] .surface-wrap *)) { border: 2px dashed #000; color: #444; }
 html[data-skin="street"] .ans-background .ans-label:where(:not([data-surface="room"] .surface-wrap *)) { background: #fff; color: #000; border: 2px solid #000; }
+html[data-skin="street"] .ans-lens:where(:not([data-surface="room"] .surface-wrap *)) { background: #fff6b0; border-left: 6px solid #000; }
+html[data-skin="street"] .ans-lens .ans-label:where(:not([data-surface="room"] .surface-wrap *)) { background: #000; color: #fff6b0; }
+html[data-skin="street"] .ans-lens-tag:where(:not([data-surface="room"] .surface-wrap *)) { color: #000; }
 html[data-skin="street"] .libcol small:where(:not([data-surface="room"] .surface-wrap *)) { font-family: var(--type); letter-spacing: .08em; }
 
 html[data-skin="street"] .foot:where(:not([data-surface="room"] .surface-wrap *)) { max-width: 1200px; padding: 14px 24px 0; border-top: 3px solid #000; color: #444; font-size: 13px; }

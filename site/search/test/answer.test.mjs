@@ -100,6 +100,37 @@ test('prose carries no quotation marks; background carries no texts', async () =
   assert.ok(problems.some((p) => /background/.test(p)));
 });
 
+test("Jesus's words are from a book where he speaks; supporting quotes are never our research", async () => {
+  let { problems } = await check({ ...good(), jesus_words: [{ ref: 'Romans 3:23' }] }, passages, lookup);
+  assert.ok(problems.some((p) => /where Jesus speaks/.test(p)));
+  ({ problems } = await check({ ...good(), jesus_words: [{ ref: '1 John 4:8' }] }, passages, lookup));
+  assert.ok(problems.some((p) => /where Jesus speaks/.test(p)));
+  const { answer: a, warnings } = await check({ ...good(), supporting: [{ passage: 3, quote: 'Our own notes say something' }] }, passages, lookup);
+  assert.deepEqual(a.supporting, []);
+  assert.ok(warnings.some((w) => /our research/.test(w)));
+});
+
+test('the lens section: tagged, unquoted, verses pasted', async () => {
+  const thin = { ...good(), answerable: false, against: { note: '' } };
+  const lens = { text: 'Jesus ranked the Law by its weightier matters [L15], so a tithe is kept without neglecting mercy [L1].', verses: [{ ref: 'Matthew 23:23' }, { ref: 'Nowhere 9:9' }] };
+  let { answer: a, problems, warnings } = await check({ ...thin, lens }, passages, lookup);
+  assert.deepEqual(problems, []);
+  assert.equal(a.lens.verses.length, 1);
+  assert.match(a.lens.verses[0].text, /tithe of mint/);
+  assert.ok(warnings.some((w) => /Nowhere/.test(w)));
+  ({ problems } = await check({ ...thin, lens: { text: 'He said "pay tithes" [L15].' } }, passages, lookup));
+  assert.ok(problems.some((p) => /quotation marks in the lens/.test(p)));
+  ({ problems } = await check({ ...thin, lens: { text: 'Matthew 23:23 settles it [L15].' } }, passages, lookup));
+  assert.ok(problems.some((p) => /verse number in the lens/.test(p)));
+  ({ problems } = await check({ ...thin, lens: { text: 'Mercy outranks ritual.' } }, passages, lookup));
+  assert.ok(problems.some((p) => /names no lens point/.test(p)));
+  ({ problems } = await check({ ...thin, lens: { text: 'Mercy outranks ritual [L99].' } }, passages, lookup));
+  assert.ok(problems.some((p) => /L99/.test(p)));
+  ({ answer: a, problems } = await check({ ...good(), lens: { text: '  ' } }, passages, lookup));
+  assert.deepEqual(problems, []);
+  assert.equal(a.lens, undefined);
+});
+
 test('citations, length and first person', async () => {
   let { problems, warnings } = await check({ ...good(), library_view: 'See [9].' }, passages, lookup);
   assert.ok(problems.some((p) => /\[9\]/.test(p)));

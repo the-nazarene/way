@@ -316,6 +316,9 @@ a { color: var(--blue); }
 .ans-quote cite { font-style: normal; font-size: 12px; }
 .ans-cite { font-size: 11px; text-decoration: none; }
 .ans-background { margin: 10px 0; padding: 8px 12px; border: 1px dashed var(--card-border); color: var(--muted); }
+.ans-lens { margin: 12px 0; padding: 10px 14px; background: rgba(31,78,121,0.07); border-left: 3px solid var(--blue); }
+.ans-lens .ans-label { color: var(--blue); }
+.ans-lens-tag { font-family: var(--mono); font-size: 10px; text-decoration: none; border-bottom: 1px dotted currentColor; color: var(--blue); margin-left: 2px; cursor: help; vertical-align: super; }
 .ans-ask, .ans-talks { font-size: 13px; }
 @media (max-width: 800px) { .libsearch-cols { grid-template-columns: 1fr; } .libsearch { margin: 0 16px 16px; } }
 
