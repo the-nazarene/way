@@ -93,7 +93,7 @@
 
 **[11:00]** >> Tropical Oasis is certified organic, so there's no GMOs or glyphosates used in the ingredients. All of their supplements are third-p partyy tested for impurities and heavy metals, so you always know you're consuming clean vitamins.
 
-**[11:12]** >> Well, cheers to that, James. Delicious. My horse pills are over. And your horse pill days can be over as well if you go to tropical oasis.com and use the code jesus way at checkout for 20% off your liquid vitamins.
+**[11:12]** >> Well, cheers to that, James. Delicious. My horse pills are over. And your horse pill days can be over as well if you go to tropical oasis.com and use the code Jesus way at checkout for 20% off your liquid vitamins.
 
 **[11:29]** >> John, have you ever read the Ashtavakra Gita?
 
